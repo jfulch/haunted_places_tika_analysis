@@ -1,0 +1,26 @@
+State: south dakota
+Haunted_Places_Year: 2023
+Audio_Evidence_Count: 0
+Visual_Evidence_Count: 1
+Haunted_Places_Witness_Count: 0.0
+Morning_Event_Count: 0.0
+Evening_Event_Count: 0.0
+Dusk_Event_Count: 0.0
+Appar_Orb_Count: 0.0
+Appar_Ghost_Count: 0.0
+Appar_UFO_Count: 0.0
+Murder_Event_Count: 0.0
+Death_Event_Count: 0.0
+Supernatural_Event_Count: 1.0
+Violent_Crime_Per_100k: 350.0
+Percent_Of_Crime_Solved: 55.0
+Homicide_Incidents_Per_100K: 349.7157675581246
+Ozone_ppb: 34.601957664760135
+SO2_ppb: 0.0904822566536203
+CO_ppb: 243.72951234567896
+PM25_ugm3: 7.180608826018921
+PM25_sulfate_ugm3: 5.214876033057851
+PM25_nitrate_ugm3: 0.6147992424242423
+Extreme_Precipitation_Event_Rate: 0.0
+Precipitation_Impact_Rate: 0.0
+Precipitation_Variability: 3.410537054231364
