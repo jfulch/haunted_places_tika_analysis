@@ -13,9 +13,17 @@ Murder_Event_Count: 0.0
 Death_Event_Count: 1.0
 Supernatural_Event_Count: 0.0
 Avg_Daylight_Hours_In_Year: 13.15
+Binge_Drinking_Rate: 
+Annual_Alcohol_Deaths: 
+Binge_Times_Monthly: 
 Violent_Crime_Per_100k: 548.0
 Percent_Of_Crime_Solved: 38.0
 Homicide_Incidents_Per_100K: 548.0187041309
+Anxiety_Disorder_Count: 
+Attention_Deficit/Hyperactivity_Disorder_Count: 
+Bipolar_Disorder_Count: 
+Primary_Depressive_Disorder_Count: 
+Trauma_And_Stressor_Related_Disorder_Count: 
 Ozone_ppb: 27.86780436340949
 SO2_ppb: 0.9042991352342964
 CO_ppb: 310.7402896253602

@@ -20,7 +20,7 @@ def break_json(json_file="merged_dataset.json", output_dir="haunted_places_files
         data = json.load(f)
 
     # Process each record
-    for i, place in enumerate(data["haunted_places_data"]):
+    for i, place in enumerate(data["haunted_places"]):
         # Create a clean filename from location name or use index if not available
         if "location" in place and place["location"]:
             filename = re.sub(r'[^\w\s-]', '', place["location"])
@@ -37,7 +37,7 @@ def break_json(json_file="merged_dataset.json", output_dir="haunted_places_files
                 if value is not None:
                     f.write(f"{key}: {value}\n")
     
-    print(f"Created {len(data['haunted_places_data'])} individual files in {output_dir}/")
+    print(f"Created {len(data['haunted_places'])} individual files in {output_dir}/")
 
 if __name__ == "__main__":
     break_json()

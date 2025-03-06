@@ -1,5 +1,5 @@
 # Document Similarity Analysis Report
-Generated on: 2025-03-05 14:42:35
+Generated on: 2025-03-06 13:42:13
 
 ## Overview
 This report compares three different similarity metrics for document comparison:
@@ -76,36 +76,36 @@ Darker colors indicate higher similarity.
 ## Analysis Results
 
 ### Jaccard Similarity Statistics
-- **Average similarity**: 0.4990
-- **Median similarity**: 0.5000
-- **Minimum similarity**: 0.2381
-- **Maximum similarity**: 0.9130
+- **Average similarity**: 0.7145
+- **Median similarity**: 0.7115
+- **Minimum similarity**: 0.5278
+- **Maximum similarity**: 0.9535
 
 ### Cosine Similarity Statistics
-- **Average similarity**: 0.1270
-- **Median similarity**: 0.1172
-- **Minimum similarity**: 0.0280
-- **Maximum similarity**: 0.8695
+- **Average similarity**: 0.2087
+- **Median similarity**: 0.2036
+- **Minimum similarity**: 0.0622
+- **Maximum similarity**: 0.8966
 
 ### Edit Distance Similarity Statistics
-- **Average similarity**: 0.7041
-- **Median similarity**: 0.6202
-- **Minimum similarity**: 0.3893
-- **Maximum similarity**: 0.9922
+- **Average similarity**: 0.9136
+- **Median similarity**: 0.9375
+- **Minimum similarity**: 0.7547
+- **Maximum similarity**: 0.9966
 
 ## Notable Document Comparisons
 
 ### Jaccard Similarity
-- **Most similar pair**: [`place_157.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_157.txt) and [`place_107.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_107.txt) (similarity: 0.9130)
-- **Least similar pair**: [`place_168.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_168.txt) and [`place_234.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_234.txt) (similarity: 0.2381)
+- **Most similar pair**: [`place_223.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_223.txt) and [`place_226.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_226.txt) (similarity: 0.9535)
+- **Least similar pair**: [`place_287.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_287.txt) and [`place_168.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_168.txt) (similarity: 0.5278)
 
 ### Cosine Similarity
-- **Most similar pair**: [`place_55.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_55.txt) and [`place_57.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_57.txt) (similarity: 0.8695)
-- **Least similar pair**: [`place_165.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_165.txt) and [`place_110.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_110.txt) (similarity: 0.0280)
+- **Most similar pair**: [`place_55.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_55.txt) and [`place_57.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_57.txt) (similarity: 0.8966)
+- **Least similar pair**: [`place_125.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_125.txt) and [`place_261.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_261.txt) (similarity: 0.0622)
 
 ### Edit Distance Similarity
-- **Most similar pair**: [`place_185.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_185.txt) and [`place_186.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_186.txt) (similarity: 0.9922)
-- **Least similar pair**: [`place_232.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_232.txt) and [`place_261.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_261.txt) (similarity: 0.3893)
+- **Most similar pair**: [`place_185.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_185.txt) and [`place_186.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_186.txt) (similarity: 0.9966)
+- **Least similar pair**: [`place_198.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_198.txt) and [`place_165.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_165.txt) (similarity: 0.7547)
 
 ## Cross-Metric Comparison
 
@@ -114,26 +114,26 @@ Darker colors indicate higher similarity.
 ### Correlation Between Metrics
 |               | Jaccard | Cosine | Edit Distance |
 |---------------|---------|--------|--------------|
-| Jaccard       | 1.000   | 0.7814 | 0.7932 |
-| Cosine        | 0.7814 | 1.000   | 0.5157 |
-| Edit Distance | 0.7932 | 0.5157 | 1.000   |
+| Jaccard       | 1.000   | 0.8839 | 0.6830 |
+| Cosine        | 0.8839 | 1.000   | 0.5506 |
+| Edit Distance | 0.6830 | 0.5506 | 1.000   |
 
 ### Largest Discrepancies Between Metrics
 
 #### Jaccard vs. Cosine
-- [`place_156.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_156.txt) and [`place_158.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_158.txt): Jaccard=0.7600, Cosine=0.1672, Difference=0.5928
-- [`place_156.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_156.txt) and [`place_64.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_64.txt): Jaccard=0.7600, Cosine=0.1672, Difference=0.5928
-- [`place_157.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_157.txt) and [`place_156.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_156.txt): Jaccard=0.7600, Cosine=0.1694, Difference=0.5906
+- [`place_135.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_135.txt) and [`place_35.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_35.txt): Jaccard=0.7358, Cosine=0.1426, Difference=0.5932
+- [`place_35.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_35.txt) and [`place_38.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_38.txt): Jaccard=0.7358, Cosine=0.1430, Difference=0.5929
+- [`place_253.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_253.txt) and [`place_151.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_151.txt): Jaccard=0.7273, Cosine=0.1356, Difference=0.5917
 
 #### Jaccard vs. Edit Distance
-- [`place_175.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_175.txt) and [`place_217.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_217.txt): Jaccard=0.4667, Edit=0.9290, Difference=0.4624
-- [`place_30.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_30.txt) and [`place_190.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_190.txt): Jaccard=0.4667, Edit=0.9274, Difference=0.4607
-- [`place_250.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_250.txt) and [`place_175.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_175.txt): Jaccard=0.4773, Edit=0.9353, Difference=0.4581
+- [`place_175.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_175.txt) and [`place_217.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_217.txt): Jaccard=0.6000, Edit=0.9537, Difference=0.3537
+- [`place_30.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_30.txt) and [`place_190.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_190.txt): Jaccard=0.6000, Edit=0.9526, Difference=0.3526
+- [`place_96.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_96.txt) and [`place_30.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_30.txt): Jaccard=0.6000, Edit=0.9504, Difference=0.3504
 
 #### Cosine vs. Edit Distance
-- [`place_159.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_159.txt) and [`place_88.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_88.txt): Cosine=0.1155, Edit=0.9548, Difference=0.8393
-- [`place_62.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_62.txt) and [`place_88.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_88.txt): Cosine=0.1155, Edit=0.9514, Difference=0.8359
-- [`place_293.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_293.txt) and [`place_263.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_263.txt): Cosine=0.1159, Edit=0.9513, Difference=0.8354
+- [`place_159.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_159.txt) and [`place_88.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_88.txt): Cosine=0.1266, Edit=0.9707, Difference=0.8440
+- [`place_129.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_129.txt) and [`place_110.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_110.txt): Cosine=0.1204, Edit=0.9643, Difference=0.8439
+- [`place_196.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_196.txt) and [`place_110.txt`](file:///Users/jfulch/git/school/haunted_places_tika_analysis/haunted_places_files/place_110.txt): Cosine=0.1206, Edit=0.9632, Difference=0.8426
 
 ## Conclusions
 
