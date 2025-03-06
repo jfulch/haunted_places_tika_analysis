@@ -1,0 +1,21 @@
+city: Visalia
+country: United States
+description: there have been reports by workers that you can hear trays being dropped when there is no one else present. there have also been reports of a chubby man following workers.
+location: MWI veterinary supplies
+state: California
+state_abbrev: CA
+longitude: -119.3902559
+latitude: 36.3359141
+city_longitude: -119.2920585
+city_latitude: 36.3302284
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

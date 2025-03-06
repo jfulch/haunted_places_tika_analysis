@@ -1,0 +1,21 @@
+city: Hyde Park
+country: United States
+description: Walking into the dining room and Mrs. Roosevelt's bedroom there is a very cold feeling and a feeling of sadness by those who are sensitive.
+location: Roosevelt Mansion
+state: New York
+state_abbrev: NY
+longitude: -73.9326859
+latitude: 41.7695799
+city_longitude: -73.9015246
+city_latitude: 41.7667602
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

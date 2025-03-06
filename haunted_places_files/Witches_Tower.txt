@@ -1,0 +1,20 @@
+city: Dayton
+country: United States
+description: It is a tower about 6 stories high, which was built on top of a burial ground in the time of the Civil War. The legend is that a woman climbed to the top of it one night and committed suicide. and actually see her standing up there, in a long black robe walking around on the top, and looking over the edge.
+location: Witches Tower
+state: Ohio
+state_abbrev: OH
+longitude: -84.18171009999999
+latitude: 39.712996
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

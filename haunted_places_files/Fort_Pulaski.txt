@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: Late at night it is known to have strange noises, such as gun firing, people dieing, and a little girl crying.
+location: Fort Pulaski
+state: Georgia
+state_abbrev: GA
+longitude: -80.89048679999999
+latitude: 32.02706
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

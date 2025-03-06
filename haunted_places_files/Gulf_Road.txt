@@ -1,0 +1,21 @@
+city: Chittenango
+country: United States
+description: a very steep and twisted road in the middle of a dense forest, whose trees come right up to the side of the road. Sightings from driving down the very creepy road at night include seeing a burning cross in the woods, headlights making the shadow of a woman standing on the side of the road (with nobody there to make the shadow), and unknown noises and sightings of spirits.
+location: Gulf Road
+state: New York
+state_abbrev: NY
+longitude: -75.922842
+latitude: 43.042151
+city_longitude: -75.86658
+city_latitude: 43.0450671
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

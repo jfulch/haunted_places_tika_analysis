@@ -1,0 +1,20 @@
+city: Burlington
+country: United States
+description: St. Mary’s Hall - This school was founded in 1837 as a boarding school. Over the years students and staff have reported seeing balls of light float along most of the hallways, footsteps following them from the 3rd floor of Scarborough Hall, doors on that floor opening and closing on their own, and the lights in that hallway turning on and off on their own. In the Chapel people have reported seeing and hearing little children signing and feeling a weight pressing on their chest whenever they enter. A bathroom close to the Chapel has faucets that will turn themselves on and off occasionally.
+location: Doane Academy
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.8671528
+latitude: 40.0794597
+city_longitude: -74.86488729999999
+city_latitude: 40.071222
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1837/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Middletown
+country: United States
+description: Recent research reveals that the Cotter Building at CVH was originally the site of an Indian burial ground. Local Indians had a village overlooking the Ct. River before the arrival of white men. This explains the often heard strange noises, chanting, drumbeats, lights turning on and off, and doors opening and closing on their own accord. Mists have been reportedly seen moving about inside of the firehouse portion. -  WARNING!! Trespassers WILL be arrested.
+location: CVH Maintenance Building
+state: Connecticut
+state_abbrev: CT
+longitude: -72.6313018
+latitude: 41.5556898
+city_longitude: -72.6506488
+city_latitude: 41.5623209
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1825/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

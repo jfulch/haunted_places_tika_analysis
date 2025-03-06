@@ -1,0 +1,20 @@
+city: Ansonia
+country: United States
+description: Only when two of the residents in the house fight the ghost will show her rage. Only a small cat was in the room at the time. A whole dresser fell down onto the bed with on it a television and inside it lots of clothes. Another, which the treadmill turned on by in self. She is older and a white lady. Very nice, but gets angry when people fight.
+location: Hunters Lane
+state: Connecticut
+state_abbrev: CT
+longitude: -73.06628900000001
+latitude: 41.344918
+city_longitude: -73.07899689999999
+city_latitude: 41.34620779999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

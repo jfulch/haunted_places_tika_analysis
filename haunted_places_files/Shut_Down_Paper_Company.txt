@@ -1,0 +1,19 @@
+city: Rutland
+country: United States
+description: haunted by an executive that went to the third floor, and Shot himself in the head, now he Haunts the Building. Lights will come off and On during the Night on the Third floor and there is no way to get in there unless you had a ladder and a Crowbar.
+location: Shut Down Paper Company
+state: Vermont
+state_abbrev: VT
+city_longitude: -72.9726065
+city_latitude: 43.6106237
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

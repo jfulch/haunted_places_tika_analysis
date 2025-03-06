@@ -1,0 +1,21 @@
+city: Amelia
+country: United States
+description: There is a picture of a young lady that is said to blush at times when you look at her, also the smell of oranges sometimes in the parlor. Frequently you can hear people talking and laughing in the parlor, and it stops when you enter the room. Footsteps on the stairway are heard. There is also a screaming woman outside on a certain nights.
+location: Haw Branch Plantation
+state: Virginia
+state_abbrev: VA
+longitude: -78.02082999999999
+latitude: 37.41028
+city_longitude: -77.973865
+city_latitude: 37.3212714
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

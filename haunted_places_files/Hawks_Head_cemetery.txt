@@ -1,0 +1,21 @@
+city: Van Buren
+country: United States
+description: This is supposedly the burial ground for Al Capone's mistress by the name of Flora. Many people have seen an apparition of a female in a transparent like white dress. Before she is seen you will here chimes coming from the back of the cemetery, she will then appear somewhere the first two driveways. Also If you just drive by the cemetery, there is dim red light that will appear along side of the middle driveway. Commonly known as a ghost-light.
+location: Hawks Head cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -86.22387409999999
+latitude: 42.4562411
+city_longitude: -83.4838244
+city_latitude: 42.2203171
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

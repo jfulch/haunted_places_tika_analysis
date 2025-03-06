@@ -1,0 +1,19 @@
+city: Cushing
+country: United States
+description: The interior of the school burned down years ago, and in the basement two children were trapped. If you go in the basement they are still sometimes heard crying "Help Me!!!"
+location: Norfolk School
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -96.76697
+city_latitude: 35.9850639
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Mobile
+country: United States
+description: Within close range of the huge oak tree, crying and whispering can be heard.
+location: Oak Next to Public Library
+state: Alabama
+state_abbrev: AL
+longitude: -88.17397509999999
+latitude: 30.5555957
+city_longitude: -88.0398912
+city_latitude: 30.6953657
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

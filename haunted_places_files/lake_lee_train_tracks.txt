@@ -1,0 +1,19 @@
+city: Saltillo
+country: United States
+description: Many have witnessed a young lady walking down the tracks in a light colored dress or gown. Local people say the girl was hit by the train back in the 1940s.lots of teens hang at this area late at night, many have heard her screams.
+location: lake lee train tracks
+state: Michigan
+state_abbrev: MI
+city_longitude: -88.70207339999999
+city_latitude: 34.3710293
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

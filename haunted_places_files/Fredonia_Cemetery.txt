@@ -1,0 +1,21 @@
+city: Mountain View
+country: United States
+description: Flags placed on graves blow from wind that is not there. An extreme feeling of dread is felt, the closer you get to the cemetery. The experiences are not only in the cemetery, but also in the surrounding area. Loud sounds and voices can be heard.
+location: Fredonia Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -92.150703
+latitude: 35.8250219
+city_longitude: -92.11765210000002
+city_latitude: 35.8684075
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1893/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

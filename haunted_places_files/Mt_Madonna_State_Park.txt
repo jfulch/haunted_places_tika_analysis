@@ -1,0 +1,21 @@
+city: Gilroy
+country: United States
+description: Mansion ruins and surrounding area are Haunted by Former owner Henry Miller and Daughter, Daughter has been seen in open fields riding a horse, She was killed on site while riding a horse, she fell and broke her neck. There has been ghostly visions on horse back in mist seen floating in Hills for decades. Also reported, an unidentified man called the kiask at the park to report this strange sighting to park employees. He stated that he and a companion were driving down Pole Line rode which runs through the park at about midnight, along side the wooded road a girl in a long white prom dress was walking.
+location: Mt. Madonna State Park
+state: California
+state_abbrev: CA
+longitude: -121.7061357
+latitude: 37.011992
+city_longitude: -121.5682751
+city_latitude: 37.0057816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

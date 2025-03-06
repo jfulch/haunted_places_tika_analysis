@@ -1,0 +1,21 @@
+city: West Hills
+country: United States
+description: The recreation center used to be an old ranch house that has the oldest eucalyptus trees in the state. In a riding accident a young boy was killed and almost decapitated. At night you can see the body looking down at you from the second story window.
+location: Shadow Ranch Park
+state: California
+state_abbrev: CA
+longitude: -118.62028
+latitude: 34.1947151
+city_longitude: -118.6439809
+city_latitude: 34.1973122
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

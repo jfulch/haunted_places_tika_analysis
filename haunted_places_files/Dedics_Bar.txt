@@ -1,0 +1,21 @@
+city: Owosso
+country: United States
+description: Tables and chairs mysteriously move around at night by themselves and bathroom doors open and slam on there own, there is a very cold spot always present in the womans bathroom, weird sounds are always present from the basement after hours.
+location: Dedics Bar
+state: Michigan
+state_abbrev: MI
+longitude: -84.168604
+latitude: 43.0852216
+city_longitude: -84.1766358
+city_latitude: 42.9978049
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/07/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

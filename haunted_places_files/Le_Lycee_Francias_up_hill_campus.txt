@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: in the uphill campus for the boys locker room is haunted. The lights go on and of then turn of. The door goes slam and is look but from the inside. Some times the locker open and close by themselves. Last seen in yr 2001-2002.
+location: Le Lycee Francias (up hill campus)
+state: California
+state_abbrev: CA
+longitude: -118.414233
+latitude: 34.027772
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Norcross
+country: United States
+description: Nature Trail - haunted by the spirit of an English teacher who hung herself in the woods. Legend has it that her students would taunt her for her lack of hair and after her engagement was called off she committed suicide. There are reports that if you go into the trails at night there are many orbs and one will feel there hair being pulled and feel like your skin is burning. you may also see purple eyes
+location: Greater Atlanta Christian School
+state: Georgia
+state_abbrev: GA
+longitude: -84.1694773
+latitude: 33.9197089
+city_longitude: -84.2135309
+city_latitude: 33.9412127
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

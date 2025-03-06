@@ -1,0 +1,19 @@
+city: Karns
+country: United States
+description: Reports of shadows dancing around, screams heard and the sounds of children being choked.
+location: Churchill
+state: Tennessee
+state_abbrev: TN
+city_longitude: -84.13295950000001
+city_latitude: 35.9787718
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

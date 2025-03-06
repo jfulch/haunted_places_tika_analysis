@@ -1,0 +1,20 @@
+city: Westminster
+country: United States
+description: This church is unlocked at all times. If you try to take something out of it, it will become too heavy for you to carry. If you light a lighter in the church, it will fall apart.
+location: Toccoa Presbyterian Church
+state: South Carolina
+state_abbrev: SC
+longitude: -83.3281688
+latitude: 34.5804205
+city_longitude: -83.0965425
+city_latitude: 34.6648197
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

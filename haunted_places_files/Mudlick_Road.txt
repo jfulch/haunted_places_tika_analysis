@@ -1,0 +1,21 @@
+city: Hardy
+country: United States
+description: In the early 1980's it has been told that exactly 1/4 a mile up Mudlick Road a white house has been haunted. Usually at 1:20am you will hear a little girl named Abby whispering, "Get me out!!" They have also been residences say you can hear the doors cracking and footsteps on the front porch.
+location: Mudlick Road
+state: Kentucky
+state_abbrev: KY
+longitude: -82.2263293
+latitude: 37.5906593
+city_longitude: -82.2440282
+city_latitude: 37.6214919
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1831/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

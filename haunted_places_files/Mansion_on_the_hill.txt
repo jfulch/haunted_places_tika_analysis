@@ -1,0 +1,21 @@
+city: Ogallala
+country: United States
+description: people driving past on west 10th street have seen lights on in the back room when the museum is closed at night. Museum keepers have also seen a man’s figure walking around during the after noon when only the museum keepers are there.
+location: Mansion on the hill
+state: Nebraska
+state_abbrev: NE
+longitude: -101.7211485
+latitude: 41.1330338
+city_longitude: -101.7203993
+city_latitude: 41.12821780000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1829/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

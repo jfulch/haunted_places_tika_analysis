@@ -1,0 +1,21 @@
+city: Rockport
+country: United States
+description: haunted by "the pitcher man", he offers passersby a pitcher of beer before he disappears before them. The man was killed there in 1783.
+location: Goose River Bridge
+state: Maine
+state_abbrev: ME
+longitude: -69.0799574
+latitude: 44.1892553
+city_longitude: -69.0760975
+city_latitude: 44.1844817
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1783/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

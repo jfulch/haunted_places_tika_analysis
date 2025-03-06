@@ -1,0 +1,21 @@
+city: Cape May
+country: United States
+description: At least 3 ghosts can be seen in the wildlife reserve and beach. Higbee appears whenever someone approaches his grave; he can be seen chasing the ghost of a slave down the wooded paths. A phantom sailor appears in his beige-colored "slops" atop a dune, and then disappears.
+location: Higbee's Beach
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9648972
+latitude: 38.9590014
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Tacoma
+country: United States
+description: immediately adjacent to the Wetlands, also known as "Hooverville". The last transient was evicted in 1952. The old transient, wearing a batter tan shirt and pants held the Pierce County Sheriff Deputies and Tacoma Police at bay with a shotgun, refusing to leave his "home". The standoff ended with a single gunshot, when the man took his life rather than be evicted. His old yellow mixed breed Lab dog was heard wailing.
+location: Hollywood on the Flats
+state: Washington
+state_abbrev: WA
+longitude: -122.46242
+latitude: 47.184464
+city_longitude: -122.4442906
+city_latitude: 47.2528768
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1952/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 0

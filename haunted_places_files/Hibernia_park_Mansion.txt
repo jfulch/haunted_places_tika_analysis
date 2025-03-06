@@ -1,0 +1,21 @@
+city: Coatsville
+country: United States
+description: It is said that a boy and girl got murdered by the owner of the house in the cellar so it's said that sometimes if you go down there you can hear the girl scream and he boy whisper.
+location: Hibernia park Mansion
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.8412444
+latitude: 40.0306963
+city_longitude: -75.8238355
+city_latitude: 39.9831616
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

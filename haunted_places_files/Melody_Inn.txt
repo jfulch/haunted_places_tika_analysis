@@ -1,0 +1,19 @@
+city: Fullerton
+country: United States
+description: On the southeast corner of Harbor and Commonwealth where the old Melody Inn was destroyed by fire in the 80’s an image of the former owner’s father appears with a box of matches. The ghost of Mr. Melody has actually been known to provide a light of a smoke to customers outside the new businesses and then smiles and vanishes.
+location: Melody Inn
+state: California
+state_abbrev: CA
+city_longitude: -117.9242123
+city_latitude: 33.8703645
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

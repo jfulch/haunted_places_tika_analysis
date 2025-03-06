@@ -1,0 +1,21 @@
+city: East Leroy
+country: United States
+description: behind the houses on the lift side (if coming from battle creek) there is an old railroad that runs through the fields. It run back in the early 1920's. Witnesses report a phantom train can be heard, seen and felt the train as it passes by.
+location: 4 mile road
+state: Michigan
+state_abbrev: MI
+longitude: -85.2178058
+latitude: 42.2081814
+city_longitude: -85.2174862
+city_latitude: 42.1661559
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

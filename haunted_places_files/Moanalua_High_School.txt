@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: There is a little boy that haunts the boys locker room. Sometimes the showers turn on by themselves and you can hear the little boy crying. Each night the P.E. teachers would leave on the light for the little boy so he won't be scared.
+location: Moanalua High School
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9003599
+latitude: 21.347123
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

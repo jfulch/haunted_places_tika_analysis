@@ -1,0 +1,21 @@
+city: Arnold
+country: United States
+description: cold spots, during renovation... things had to be replaced over and over, windows broken, & paintings falling off walls.
+location: Rugby Hall
+state: Maryland
+state_abbrev: MD
+longitude: -76.53190699999999
+latitude: 39.0403885
+city_longitude: -76.50273949999999
+city_latitude: 39.0320554
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.95
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

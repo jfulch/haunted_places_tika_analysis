@@ -1,0 +1,19 @@
+city: Disneyland
+country: United States
+description: Cast members have felt a cold, eerie wind on the 4th floor of the stock room, when there are no doors, vents, or windows up there.
+location: The Star Trader (4th floor stock room)
+state: California
+state_abbrev: CA
+city_longitude: -117.9189742
+city_latitude: 33.8120918
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

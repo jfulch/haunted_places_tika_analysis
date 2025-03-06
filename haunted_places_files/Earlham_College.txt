@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: -BACK CAMPUS-...On Halloween night in 1857 there were 2 students who were walking in the back of campus. There is a big pipe line that goes over the creek. Rumor has it the 2 students were trying to cross the creek on the pipe line and fell off into the creek which is only about 2 foot deep. To this day on Halloween night if you go there you can see fingernail scratches on the pipe where they slipped off and hear screaming from down below.
+location: Earlham College
+state: Indiana
+state_abbrev: IN
+longitude: -84.913052
+latitude: 39.8208853
+city_longitude: -84.8902382
+city_latitude: 39.8289369
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1857/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

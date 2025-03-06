@@ -1,0 +1,21 @@
+city: Wynnewood
+country: United States
+description: This location was once a booming hotel, but was turned into a museum during the past century. Though several of the exhibits are strange, if not creepy, the location has a reputation all its own. Anyone who possesses the courage to pass through this museum alone will see strange things. Shadows pass where they shouldn't. Manequins that are not animated move. Since the hotel was once highly populated, there is no way to keep track of the murders and other dramatic happenings that occurred here...but it is obvious that something happened. See for yourself.
+location: The Eskridge Hotel and Museum
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.1698684
+latitude: 34.643007
+city_longitude: -97.1644656
+city_latitude: 34.6434171
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

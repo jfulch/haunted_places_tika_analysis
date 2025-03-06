@@ -1,0 +1,20 @@
+city: Newlebenin
+country: United States
+description: Forney road is hunted by want some say a ghost that killed his family some even think he slowly killed them. There have been reports of a man walking around this road along with screams of children. Some even think his youngest daughter had escaped from him. He was executed in what is now the cafeteria of Saint Clair Community Collage. Some say he hunts that to looking for his daughter.
+location: Forney Rd
+state: Ohio
+state_abbrev: OH
+longitude: -84.3464056
+latitude: 39.7238964
+city_longitude: -84.3849462
+city_latitude: 39.7453337
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

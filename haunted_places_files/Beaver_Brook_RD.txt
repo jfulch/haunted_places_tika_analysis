@@ -1,0 +1,21 @@
+city: Littleton
+country: United States
+description: Reports of seeing a ghost appearing to be a farmer. This ghost has also been seen on neighboring Roads. A report was ran in the local newspaper and research was done to discover the past of the road and turned up that there was a farmer who was killed on this road. Reports of the sighting only occur at night.
+location: Beaver Brook RD
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.48218969999999
+latitude: 42.5623692
+city_longitude: -71.5128022
+city_latitude: 42.5372893
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

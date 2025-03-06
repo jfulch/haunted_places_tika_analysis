@@ -1,0 +1,21 @@
+city: Wauconda
+country: United States
+description: There is a pond over in Larkdale where it is said that a little boy drowned. If you drive by the pond past midnight, you will see the little boy standing next to a 'no swimming' sign near the pond.
+location: Larkdale
+state: Illinois
+state_abbrev: IL
+longitude: -88.1555739
+latitude: 42.2681882
+city_longitude: -88.1392474
+city_latitude: 42.2589122
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Cleveland
+country: United States
+description: Highland View Hospital - Reports that the shades get pulled buy unseen hands, there are strange sounds and even doors locking and unlocking.
+location: Beachwood
+state: Ohio
+state_abbrev: OH
+longitude: -81.49403509999999
+latitude: 41.4989649
+city_longitude: -81.6943605
+city_latitude: 41.49932
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

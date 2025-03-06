@@ -1,0 +1,21 @@
+city: Sheboygan
+country: United States
+description: is haunted by a janitor that worked there named Duke, he worked there until the day he died. He's fond of shaking certain doors and occasionally moving things.
+location: The First Star bank downtown
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.7107695
+latitude: 43.75335159999999
+city_longitude: -87.71453
+city_latitude: 43.7508284
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

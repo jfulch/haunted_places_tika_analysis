@@ -1,0 +1,21 @@
+city: Lubbock
+country: United States
+description: water tower - On the coldest night of the year you can often see what looks like 5 or 6 young men on the top catwalk which goes around the water tank. They appear up there all night as if they are spending the night. It is always the coldest night that year, so you can't predict in advance when that may be. The first reported sighting was about 1949 or 1950 and seen almost every year since when observed. There is no knowledge as to who they are.
+location: Texas Tech University
+state: Texas
+state_abbrev: TX
+longitude: -101.8782822
+latitude: 33.5842591
+city_longitude: -101.8551665
+city_latitude: 33.5778631
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

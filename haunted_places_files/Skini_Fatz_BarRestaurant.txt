@@ -1,0 +1,21 @@
+city: Woodbridge
+country: United States
+description: Skini Fatz theme has been changed a lot over the years. They have witnessed lights turning on after they've closed for the night. An older man in what is used as the waitress dressing area.  also there have been reports from various people stating they've seen a young man in the parking lot. This gentleman was hit by a car about 10-15 years ago. Overall the place is eclectic both in looks and in other fashions. It's an overall neat place to go and check out one night. The manager there is a really nice guy. And the best part of all is you can look around pretty much the entire place.
+location: Skini Fatz Bar/Restaurant
+state: Virginia
+state_abbrev: VA
+longitude: -77.23764
+latitude: 38.671912
+city_longitude: -77.2497049
+city_latitude: 38.6581722
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

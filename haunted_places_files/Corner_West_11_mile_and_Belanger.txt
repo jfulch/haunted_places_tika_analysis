@@ -1,0 +1,21 @@
+city: Roseville
+country: United States
+description: The new secretary of state building was built around 98, but it was built over the oldest cemetery in Michigan. If you go there around midnight and sit in your car with everything off, you can see ghostly figures in the windows and behind the building. If you get out of your car, they will all disappear, but as soon as you get back in, they will reappear and chase you away. - June 2008 Correction: There is no secretary of state at that location. The secretary of state in Roseville was on Gratiot, just before Frazho, and it wasn't an old cemetery
+location: Corner West 11 mile and Belanger
+state: Michigan
+state_abbrev: MI
+longitude: -82.9606615
+latitude: 42.4936441
+city_longitude: -82.9371409
+city_latitude: 42.4972583
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: A mother and her two children died here in Room 21. The first daughter died from yellow fever. Years later, the other daughter hangs herself in the same room. The mother of the two children spends that rest of her life grieving over her loss. She later dies alone and heartbroken in the same room. It is only the mother's spirit guests and employees her crying from the room. People get the overwhelming feeling of grief and despair upon entering this room.
+location: Lafitte Guest House (1003 Bourbon St.)
+state: Louisiana
+state_abbrev: LA
+longitude: -90.063462
+latitude: 29.961154
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

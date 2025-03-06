@@ -1,0 +1,21 @@
+city: Tuscaloosa
+country: United States
+description: The ghosts of mental patients that were tortured, beaten, and killed in the institution still roam the halls. There is a foul odor as you descend into the basement, but there is no longer access to the basement. WARNING: You can be charged with trespassing.
+location: The Old Bryce Mental Institution
+state: Alabama
+state_abbrev: AL
+longitude: -87.5151009
+latitude: 33.2073156
+city_longitude: -87.56917349999999
+city_latitude: 33.2098407
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Rubidoux
+country: United States
+description: between the hours of 1-3am on the east end of the mountain. Strange figures have been seen running and hiding as if playing a game, in groups of three. They have been described as elves/little people. They are known to throw small rocks in your direction, and stack small piles of rocks in a path you just have taken.
+location: Mount Rubidoux
+state: California
+state_abbrev: CA
+longitude: -117.3931011
+latitude: 33.9839038
+city_longitude: -117.4262714
+city_latitude: 33.9958669
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

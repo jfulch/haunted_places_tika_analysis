@@ -1,0 +1,21 @@
+city: Boone
+country: United States
+description: Republican - Working at night in the old newspaper office you can hear footsteps running up or down six or so steps to and from the production area. No one is there. Also, once and awhile you might here your name called and people walking upstairs. Again the place is empty.
+location: The Boone News
+state: Iowa
+state_abbrev: IA
+longitude: -93.8575058
+latitude: 42.0575205
+city_longitude: -93.8802273
+city_latitude: 42.0597047
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2017/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

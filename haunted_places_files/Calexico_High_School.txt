@@ -1,0 +1,21 @@
+city: Calexico
+country: United States
+description: At night there are noises heard, and things seen. People have reported to see a girl walk around at different hours of the night. A group of teachers reported to have seen her at a pep rally in the 80's at the football field. Another claim was made by construction workers who were building the new gym, they saw a girl walking to the football field early in the morning, when they called out to her it was as if she didn't hear them. Other encounters are doors slamming, windows shutting, lights flickering and turning off. The story is of a girl who was killed in a car accident coming back from an away football game, she was a cheerleader and now apparently it is said that it is her that haunts the school.
+location: Calexico High School
+state: California
+state_abbrev: CA
+longitude: -115.4871555
+latitude: 32.6769963
+city_longitude: -115.4988834
+city_latitude: 32.6789476
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

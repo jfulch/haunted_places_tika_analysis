@@ -1,0 +1,21 @@
+city: Alpharetta
+country: United States
+description: Apparently it was shut down in the 70's after 7 elementary school children were killed by a poisoning. A strange presence is all throughout the old school, which has been abandoned ever since then. - March 2008 update Has been torn down.
+location: Hopewell School
+state: Georgia
+state_abbrev: GA
+longitude: -84.28120659999999
+latitude: 34.1004301
+city_longitude: -84.2940899
+city_latitude: 34.0753762
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/12/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Murder
+witness_count: 1

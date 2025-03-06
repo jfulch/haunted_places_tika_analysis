@@ -1,0 +1,21 @@
+city: Turlock
+country: United States
+description: People have reported hearing walking around upstairs seeing shadows moving around, and talking. The history behind the place is that a Lawyer was murdered on the second story part of the building back in the 1930's that is vacant.
+location: Salvation Army building
+state: California
+state_abbrev: CA
+longitude: -120.8495612
+latitude: 37.4849555
+city_longitude: -120.8465941
+city_latitude: 37.4946568
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Saratoga
+country: United States
+description: Some people report being tapped on the shoulder by the ghosts on the lower floor.
+location: Small Antique Store on Big Basin Way
+state: California
+state_abbrev: CA
+longitude: -122.033443
+latitude: 37.2583284
+city_longitude: -122.0230146
+city_latitude: 37.2638324
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

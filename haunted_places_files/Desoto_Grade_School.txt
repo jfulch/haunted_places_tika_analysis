@@ -1,0 +1,21 @@
+city: DeSoto
+country: United States
+description: In 1925 when the tri-state tornado ripped through this community it leveled the two story brick building killing many children. At night you can still hear children laughing and playing through the halls and on the playground.
+location: Desoto Grade School
+state: Illinois
+state_abbrev: IL
+longitude: -89.2233717
+latitude: 37.8197128
+city_longitude: -89.2278613
+city_latitude: 37.8175505
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1925/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

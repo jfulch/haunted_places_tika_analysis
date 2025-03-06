@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: Sometimes individual students see the shadow of the nun when the closet's open In the drama room. The sound of footsteps on the stage has been reported. One technician has claimed to feel a cold breeze sweep across his neck while on the cat walk.
+location: Immaculate Heart High School
+state: California
+state_abbrev: CA
+longitude: -118.3104074
+latitude: 34.1057717
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

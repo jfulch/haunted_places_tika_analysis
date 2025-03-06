@@ -1,0 +1,21 @@
+city: Los Gatos
+country: United States
+description: Reports of mirrors falling from walls.
+location: Beaux Cheveaux Hair Salon between North Santa Cruz Ave and Village Lane
+state: California
+state_abbrev: CA
+longitude: -121.9810084
+latitude: 37.2281098
+city_longitude: -121.9623751
+city_latitude: 37.2358078
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

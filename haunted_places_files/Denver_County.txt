@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Red Rocks Amphitheater - Apparitions of an old man was standing on the "restricted" side of the railings. He looks to be an old miner. He was about 5'5, white, beard, dirty brownish hat with a bottle in his hand. He appears for just a few seconds then disappears.
+location: Denver County
+state: Colorado
+state_abbrev: CO
+longitude: -104.990251
+latitude: 39.7392358
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1957/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 0

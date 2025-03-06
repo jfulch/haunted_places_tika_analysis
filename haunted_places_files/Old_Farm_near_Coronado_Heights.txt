@@ -1,0 +1,21 @@
+city: Lindsborg
+country: United States
+description: There's an old farm house in Lindsborg that no one whether it be day or night can miss the unmistakable black tarry looking mist or something that will crawl rapidly and aimlessly along the grass of the property or even in the house crawling up the walls and floors, whatever it is it doesn't want you there most of the time it will eventually start to chase you aggressively day or night. The owner even refuses to live there, no one has for years.
+location: Old Farm near Coronado Heights
+state: Kansas
+state_abbrev: KS
+longitude: -97.7029775
+latitude: 38.6121276
+city_longitude: -97.6744838
+city_latitude: 38.5736176
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

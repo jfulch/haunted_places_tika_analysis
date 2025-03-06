@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: Just one block north of the Mission Inn at 3563 Main Street is an antiques store called At The Villa. It is housed in an old building circa 1890, which was the original mercantile for Riverside. Objects move on their own accord and sometimes disappear only to reappear later in a different spot. There is sometimes a strong scent of perfume. A lady who had a shop at this location died violently in a car jacking in the mid 1990's and some say that it is her spirit, although it is an old building. When asked about this the staff will usually laugh a bit and tell you of a personal experience.
+location: At the Villa
+state: California
+state_abbrev: CA
+longitude: -117.437132
+latitude: 33.926153
+city_longitude: -117.3961564
+city_latitude: 33.9533487
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1890/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

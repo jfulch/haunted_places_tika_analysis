@@ -1,0 +1,21 @@
+city: Whitefish Bay
+country: United States
+description: The third floor of this High School was used as a convent for the nuns that taught there. A fire broke out one night and killed one of the nuns as she slept. Stories of her floating down the halls of the third floor continue to this day. This nun was rumored to be involved in the theater productions and is said to still come and view the rehearsals and productions in the theater. Many sightings have taken place there.
+location: Dominican High School 3rd floor and Theater
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.90984499999999
+latitude: 43.11942579999999
+city_longitude: -87.9000856
+city_latitude: 43.1133444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

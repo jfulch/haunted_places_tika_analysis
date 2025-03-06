@@ -1,0 +1,21 @@
+city: Langland
+country: United States
+description: McMillion Hotel - This hotel is haunted because the first owner had killed himself in the hotel back in the 1800's. Their was a psychic there that said a woman had killed herself in room 12. Black shadows have been seen and other have been pushed.
+location: Antigo
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.15233529999999
+latitude: 45.140245
+city_longitude: -91.7530623
+city_latitude: 45.7532368
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.8
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

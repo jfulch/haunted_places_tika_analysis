@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: this site at one time was used as an execution ground. In 1802, when France took back Louisiana from Spain, several Spanish soldiers were shot for treason on this site. The ghosts of some of these Spanish soldiers have been reports to walk the grounds of this hotel.
+location: Le Richelieu Hotel (1234 Chartres St.)
+state: Louisiana
+state_abbrev: LA
+longitude: -90.05964689999999
+latitude: 29.9618154
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1802/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

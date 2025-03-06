@@ -1,0 +1,20 @@
+city: Wind River Indian Reservation
+country: United States
+description: they say that the school is buried on a grave and that there was a student that died down in our shop. if you walk all alone you can hear things right behind you. Or you can hear a little girl laughing at every little thing you do. Or an old man sneezing.
+location: Fort Washakie School
+state: Wyoming
+state_abbrev: WY
+longitude: -108.8554808
+latitude: 42.99971370000001
+city_longitude: -108.8340103
+city_latitude: 43.2832906
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

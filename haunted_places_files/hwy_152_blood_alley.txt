@@ -1,0 +1,19 @@
+city: Gilroy
+country: United States
+description: There have been numerous sightings of a woman searching for her child, hearing the sound of a stage coach and the snorting and breathing of horses, and a rumor that a woman was killed by a truck driver and she appears in the passenger seat of the truck, screams" and then vanishes.
+location: hwy 152 (blood alley)
+state: California
+state_abbrev: CA
+city_longitude: -121.5682751
+city_latitude: 37.0057816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

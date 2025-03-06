@@ -1,0 +1,21 @@
+city: Ontario
+country: United States
+description: Malheur Butte is a dead volcano overlooking Ontario, Oregon (the extreme edge of eastern Oregon). According to legend, it once was a popular meeting place of witches. The Snake River is also in the vicinity and supposedly draws wicca ceremonies due to the fact that it flows south-to-north. Near the Butte (and in the outlying areas, as well) many people have spotted small, shadow-like creatures after dark. A witness claims she was chased to her car by something she couldn't see very well. Whatever it was made noises and was about the size of a dog. Even though she doesn't spook easily, she was terrified by the incident. A few years prior, another witness claimed to have seen a similar creature at a nearby park one night. Other sightings have occurred. In addition to these alleged 'imps' the entire area surrounding Malheur Butte emanates a creepy vibe that is unmistakable.
+location: Malheur Butte
+state: Oregon
+state_abbrev: OR
+longitude: -117.0851668
+latitude: 44.0109959
+city_longitude: -116.9629378
+city_latitude: 44.0265525
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

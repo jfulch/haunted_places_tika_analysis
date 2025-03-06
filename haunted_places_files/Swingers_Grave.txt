@@ -1,0 +1,19 @@
+city: Fort Wayne
+country: United States
+description: There was a girl who was swinging on a swing at Jehl's park by Georgetown off State Street, and her neck got caught in the chain links and she was killed. They say if you swing on any of the swings past midnight you will "fall off" when rather it feels like someone is pushing you off.
+location: Swinger's Grave
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.1393513
+city_latitude: 41.079273
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

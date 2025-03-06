@@ -1,0 +1,20 @@
+city: Naugatuck
+country: United States
+description: WARNING - Has become a popular spot for kids to hang out. The cops will probably usher you out. - Residents and even the Warrens attest to the ghostly activity that occurs here. Witnesses have heard children laughing far into the field behind the cemetery and as they stayed longer each time the children's laughing grew as close as behind the back wall to inside the cemetery. They also heard old ragtime music playing in the woods near the cemetery.
+location: Guntown Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -73.1042557
+latitude: 41.4908779
+city_longitude: -73.0506972
+city_latitude: 41.485921
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

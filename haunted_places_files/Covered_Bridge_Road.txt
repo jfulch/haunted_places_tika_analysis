@@ -1,0 +1,21 @@
+city: Volant
+country: United States
+description: Young Amish girl seen at night. The legend is said her and her family was in a buggy accident and she was thrown into the Neshanach Creek and drowned. She walks around at night looking for her family. This happened somewhere around the 1800's
+location: Covered Bridge Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.288112
+latitude: 41.1041075
+city_longitude: -80.25895179999999
+city_latitude: 41.1136707
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1868/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

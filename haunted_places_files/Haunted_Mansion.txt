@@ -1,0 +1,21 @@
+city: Disneyland
+country: United States
+description: There are 3 spirits that are in the place all the time, elderly man (who died of a heart attack in Aug. of 1970 before there was a first aid station on the west side of the park), an elderly woman and a young man who has quite a sense of humor. There is also something nasty in the attic just before the omni-movers exit into the graveyard. Witnesses report having hair pulled in the crypt (exit) area with no one in sight, touched on the back by a hand in a car that ended up having no one in the car, seen people walk up the portrait hall or grand staircase, stop and vanish, faces peer from behind the corner at the top of the grand staircase, heard footsteps on the false floor behind the load area when there is no one else there, been touched on the face by unseen hands, seen a man in the exit mirror.
+location: Haunted Mansion
+state: California
+state_abbrev: CA
+longitude: -117.9221769
+latitude: 33.81173330000001
+city_longitude: -117.9189742
+city_latitude: 33.8120918
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

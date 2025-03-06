@@ -1,0 +1,20 @@
+city: Poughkeepsie
+country: United States
+description: Bowne Hall - The college is built on the site of an old TB hospital. The main administration building, Bowne Hall, was one of the main hospital buildings. The basement of this building contained the hospitals morgue. Maintenance personnel have accounted strange happenings such as a 'weird presence'.
+location: Dutchess Community College
+state: New York
+state_abbrev: NY
+longitude: -73.9067896
+latitude: 41.7222178
+city_longitude: -73.9209701
+city_latitude: 41.7003713
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

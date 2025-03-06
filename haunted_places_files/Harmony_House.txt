@@ -1,0 +1,21 @@
+city: Clackamas
+country: United States
+description: This restaurant has had many sightings mostly by workers but also some customers. A worker has been trapped in the supply closet and then just let out. Also two workers were closing and talking when they heard an older man clearing his throat and when they approached where the sound was coming from they saw smoke and smelled pipe tobacco. There has been a girl laughing and things moved from one place to another. This restaurant defiantly has personality and had an article written about it in The Oregonian Newspaper.
+location: Harmony House
+state: Oregon
+state_abbrev: OR
+longitude: -122.5298332
+latitude: 45.4087313
+city_longitude: -122.5703692
+city_latitude: 45.4076205
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

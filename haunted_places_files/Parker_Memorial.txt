@@ -1,0 +1,21 @@
+city: Anniston
+country: United States
+description: Hauntings of a nun who killed herself by hanging herself in the main hallway. You can still hear her kicking the chair out from under her feet and then choking sounds late at night. The rope has been seen numerous times by many other churchgoers.
+location: Parker Memorial
+state: Alabama
+state_abbrev: AL
+longitude: -85.82574439999999
+latitude: 33.6607041
+city_longitude: -85.8316318
+city_latitude: 33.6598257
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

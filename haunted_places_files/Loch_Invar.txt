@@ -1,0 +1,21 @@
+city: Pontiac
+country: United States
+description: People have seen lanterns floating around outside at night. Some have said to have been chased by the ghost.
+location: Loch Invar
+state: Michigan
+state_abbrev: MI
+longitude: -83.49619919999999
+latitude: 42.3882638
+city_longitude: -83.29104679999999
+city_latitude: 42.6389216
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

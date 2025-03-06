@@ -1,0 +1,20 @@
+city: Norwood
+country: United States
+description: At this nice but not so quiet hotel, many things have happened. Many people heard tapping on the desks. Loud banging or kicking on the dresser. One visitors bracelet was being pulled off their wrist while in bed. A man has been seen walking around the first floor. He is about7" tall. It turns out there was a very large man that hung himself in a room there. Even the maids do not like to enter the room.
+location: Marriott Courtyard
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1913062
+latitude: 42.174642
+city_longitude: -71.19896949999999
+city_latitude: 42.19439089999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

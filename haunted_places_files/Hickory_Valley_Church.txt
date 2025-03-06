@@ -1,0 +1,21 @@
+city: Hickory Valley
+country: United States
+description: At night when you go in the church, if you listen carefully, you can hear people singing "Amazing Grace" and other old hymns. If you bring a candle, you can just about make out the figures of many young children and some teenagers that have not crossed over yet.
+location: Hickory Valley Church
+state: Arkansas
+state_abbrev: AR
+longitude: -91.5543042
+latitude: 35.9056294
+city_longitude: -91.5565264
+city_latitude: 35.8959073
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1725/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

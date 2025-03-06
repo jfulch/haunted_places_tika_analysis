@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: Many years ago, the janitor of Whitmer High School was doing his job, when a Freak Accident occurred, and he died. Legend has it that this certain janitor loved the Performances that Whitmer puts on every year. During every Whitmer Performance, You can find his seat, which is ALWAYS down during their performances.(If you are facing the audience, it is the very last seat in the top, last row to the right...)Nobody, not even the bravest of persons, will sit there during a Whitmer Performance.
+location: Whitmer High School
+state: Ohio
+state_abbrev: OH
+longitude: -83.61114549999999
+latitude: 41.7184798
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1888/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

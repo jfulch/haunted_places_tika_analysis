@@ -1,0 +1,21 @@
+city: Feds Creek
+country: United States
+description: water faucets coming on and off. Televisions in classrooms blinking on and off with no intentions. Bats and crows (blackbirds) coming in and out of the windows, or sitting on the windowsills. It is a place that is dark and damp anyways, but the strange Phenomena that goes on is still horrorfying
+location: Feds Creek High School
+state: Kentucky
+state_abbrev: KY
+longitude: -82.2441767
+latitude: 37.4017416
+city_longitude: -82.24514049999999
+city_latitude: 37.4034406
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: San Gabriel
+country: United States
+description: Less than 2 miles away from the San Gabriel Mission which houses a historical cemetery, it is rumored that the Gabrielino Site was built on a cemetery of the very same tribe of Indians from which it gets its name. There have been reports from sports teams coming home from away games at night hearing strange sounds such as children crying even when the campus is empty and the hazy apparition of a body that appears down hallways only to disappear when approached.
+location: Gabrielino High School
+state: California
+state_abbrev: CA
+longitude: -118.0910403
+latitude: 34.08243849999999
+city_longitude: -118.1058333
+city_latitude: 34.09611110000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1995/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

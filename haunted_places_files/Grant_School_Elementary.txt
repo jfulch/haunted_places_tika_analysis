@@ -1,0 +1,21 @@
+city: Springville
+country: United States
+description: The ghost of a former Band teacher that died in a car accident on the way to school one morning, is sometimes heard playing the piano in the cafeteria which also serves as the auditorium.
+location: Grant School Elementary
+state: Utah
+state_abbrev: UT
+longitude: -111.6029863
+latitude: 40.1644921
+city_longitude: -111.6107526
+city_latitude: 40.1652335
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

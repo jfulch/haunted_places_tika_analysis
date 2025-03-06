@@ -1,0 +1,20 @@
+city: Marysville
+country: United States
+description: reports of seeing a black shadowy figure, & eerie feelings.
+location: The Castle, Bed and Breakfast
+state: Ohio
+state_abbrev: OH
+longitude: -83.341205
+latitude: 40.241114
+city_longitude: -83.3671432
+city_latitude: 40.2364486
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.283333333333331
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

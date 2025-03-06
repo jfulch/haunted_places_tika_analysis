@@ -1,0 +1,18 @@
+city: Lake Elsinore
+country: United States
+description: Elsinore Middle School - March 2008 update/correction: Formerly posted as Elsinore High School - In the early 50's, a freshman hung herself in the back of the stage in the theater. She had been hurt and embarrassed in a hazing by the Soccer team. On several occasions, people have claimed to hear a girl choking when there is no one in the theater.
+state: California
+state_abbrev: CA
+city_longitude: -117.3272615
+city_latitude: 33.6680772
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1989/07/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

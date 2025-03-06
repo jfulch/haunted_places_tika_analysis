@@ -1,0 +1,21 @@
+city: Montgomery County
+country: United States
+description: Goldmine Rd. -  It is said that sometimes at night you can hear a woman crying.
+location: Silver Spring/Wheaton area
+state: Maryland
+state_abbrev: MD
+longitude: -77.05525550000002
+latitude: 39.0398314
+city_longitude: -77.2405153
+city_latitude: 39.1547426
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2019/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

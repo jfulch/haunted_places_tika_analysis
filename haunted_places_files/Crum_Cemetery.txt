@@ -1,0 +1,21 @@
+city: Johnstown
+country: United States
+description: Said to be haunted if you turn your car off on the second bridge of the path that leads to it you wont be able to start it again there is an image of a carriage that rides through at night.
+location: Crum Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.91602929999999
+latitude: 40.3175648
+city_longitude: -78.9219698
+city_latitude: 40.32674069999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Milfard
+country: United States
+description: This historic ranch is known for sightings of a small girl who has even spoken, and old man wandering endlessly throughout the ranch. Sightings have been seen by guests and staff.
+location: Malibu dude ranch
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.803966
+latitude: 41.360093
+city_longitude: -74.8023882
+city_latitude: 41.322316
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

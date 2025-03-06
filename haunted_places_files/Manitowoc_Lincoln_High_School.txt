@@ -1,0 +1,21 @@
+city: Manitowoc
+country: United States
+description: Tower - Students are forbidden to go into the tower and in fact the top floor was padlocked and no one seemed to know where the key was. The tower was once used to house the school newspaper and yearbook offices. However, it is rumored that it is haunted by the sprit of a student whom jumped to their death from the top of the tower. General uneasiness, cold spots and apparitions have been rumored.
+location: Manitowoc Lincoln High School
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.65726749999999
+latitude: 44.0800102
+city_longitude: -87.657584
+city_latitude: 44.0886059
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

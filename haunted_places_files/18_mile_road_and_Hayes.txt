@@ -1,0 +1,21 @@
+city: Clinton Township
+country: United States
+description: In the woods right off Hayes and 18 there is a small cemetery that has about 30 stones, most of them dating back to the 1800's and its said that if you come alone to the cemetery at 12:00 at night on a Friday you will very loud whispers in the woods that corner the whole cemetery and if you brave enough to stay longer the whispers come closer until there right in front of your face
+location: 18 mile road and Hayes
+state: Michigan
+state_abbrev: MI
+longitude: -82.97202519999999
+latitude: 42.5975415
+city_longitude: -82.9195514
+city_latitude: 42.5868882
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1671/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

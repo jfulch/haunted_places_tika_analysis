@@ -1,0 +1,21 @@
+city: Madison Heights
+country: United States
+description: During the early 60's there was a killer loose in Madison Heights. He used to bury his bodies in the landfill which is now a hill used for sledding right next to Lamphere High School. Every once and a while you can hear insane laughter around the school.
+location: Lamphere High School
+state: Michigan
+state_abbrev: MI
+longitude: -83.11239499999999
+latitude: 42.521548
+city_longitude: -83.1052028
+city_latitude: 42.4858692
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

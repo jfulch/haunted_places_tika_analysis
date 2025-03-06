@@ -1,0 +1,19 @@
+city: Newark
+country: United States
+description: First Battle of the American Revolution where the Stars and Stripes was flown in Battle. Delaware militiamen were delaying the British forces who landed at Turkey Point in Maryland so as to give General Washington time to escape from Philadelphia. One legend states that during the initial skirmish between the militia and the Redcoats, a British soldier got his head shot off. On foggy moonless nights people claim to see a Headless British Soldier walking along the roads in the area. There are many other stories associated with the area.
+location: Cooches Bridge
+state: Delaware
+state_abbrev: DE
+longitude: -75.7365559
+latitude: 39.6398729
+city_longitude: -75.74965720000002
+city_latitude: 39.6837226
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/03/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Mist
+event_type: War
+witness_count: 1

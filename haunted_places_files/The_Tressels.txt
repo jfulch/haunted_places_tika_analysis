@@ -1,0 +1,19 @@
+city: Winchester
+country: United States
+description: This train bridge is said to be haunted by a girl who was walking across the bridge with friends and siblings when a train came; the others all jumped off, and she remained to be killed by the oncoming train.
+location: The Tressels
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.17965029999999
+city_latitude: 37.990079
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

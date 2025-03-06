@@ -1,0 +1,21 @@
+city: Saxonburg
+country: United States
+description: Some people who have gone to Clinton claim of seeing weird ghostly white figures, moans, and groans throughout the building. Now it is closed & another guy owns it to keep extra food for his restaurant and he claims to have seen weird figures of a girl and boy inside the 3rd grade classroom hugging.
+location: Clinton Elementary
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.82615489999999
+latitude: 40.7483853
+city_longitude: -79.81005309999999
+city_latitude: 40.7539538
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

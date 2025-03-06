@@ -1,0 +1,21 @@
+city: Aberdeen
+country: United States
+description: the road from Bakersfield Elementary School. The road, the golf coarse is haunted by a black-cloaked figure who chased others at one time. This cloaked figure is evil and dangerous.
+location: Beechtree Golf Clubdown
+state: Maryland
+state_abbrev: MD
+longitude: -76.208439
+latitude: 39.50026700000001
+city_longitude: -76.16411970000001
+city_latitude: 39.5095556
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

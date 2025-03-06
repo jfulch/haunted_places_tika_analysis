@@ -1,0 +1,21 @@
+city: Morris
+country: United States
+description: The seventh grade teacher took a picture of the volleyball players in the gym and there was an orb above them crystal clear. they still have the picture. The classroom doors open and close. Nobody dares to go into the bathrooms alone.
+location: Nettle Creek
+state: Illinois
+state_abbrev: IL
+longitude: -88.4813471
+latitude: 41.3607192
+city_longitude: -88.4211785
+city_latitude: 41.357254
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

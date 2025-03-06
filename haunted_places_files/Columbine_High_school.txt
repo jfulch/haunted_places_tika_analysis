@@ -1,0 +1,20 @@
+city: Littleton
+country: United States
+description: apparitions are said to appear but not confirmed. Pictures produce orbs.
+location: Columbine High school
+state: Colorado
+state_abbrev: CO
+longitude: -105.0740923
+latitude: 39.6038601
+city_longitude: -105.0166498
+city_latitude: 39.613321
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

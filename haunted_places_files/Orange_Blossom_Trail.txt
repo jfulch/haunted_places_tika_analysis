@@ -1,0 +1,21 @@
+city: Apopka
+country: United States
+description: A Native American warrior in loin cloth crosses the road after prey, looks at you, then disappears.
+location: Orange Blossom Trail
+state: Florida
+state_abbrev: FL
+longitude: -81.5489144
+latitude: 28.6909276
+city_longitude: -81.5322149
+city_latitude: 28.6934076
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 0

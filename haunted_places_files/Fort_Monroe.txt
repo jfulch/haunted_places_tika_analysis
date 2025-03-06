@@ -1,0 +1,21 @@
+city: Hampton
+country: United States
+description: Reports of apparitions of young soldiers walking the top of the fort and around the many rusting offices. Witnesses have felt a cold breeze on a warm sunny day around the turrets and heard voices just out of understanding around these areas.
+location: Fort Monroe
+state: Virginia
+state_abbrev: VA
+longitude: -76.3073197
+latitude: 37.0040553
+city_longitude: -76.34522179999999
+city_latitude: 37.0298687
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

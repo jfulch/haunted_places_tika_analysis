@@ -1,0 +1,21 @@
+city: Manteno
+country: United States
+description: The mental institution was were many people died because of the sick test the doctors tried on them and when they got caught they had to shut it down. The most scary buildings have tunnels that lead all the way to Chicago.
+location: Diverseatech
+state: Illinois
+state_abbrev: IL
+longitude: -87.8050066
+latitude: 41.2323501
+city_longitude: -87.8314324
+city_latitude: 41.2505881
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

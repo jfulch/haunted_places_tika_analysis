@@ -1,0 +1,21 @@
+city: Mandan
+country: United States
+description: 16 year old male was found hanging in the building during its construction, an apparent suicide. noises are heard coming from the swimming area locker room, and wet footprints have been seen on the concrete walkways in the morning, even though the building has been closed for the night.
+location: Mandan Community Center
+state: North Dakota
+state_abbrev: ND
+longitude: -100.8295509
+latitude: 46.7995782
+city_longitude: -100.8895761
+city_latitude: 46.8266603
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

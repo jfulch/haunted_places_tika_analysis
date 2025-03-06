@@ -1,0 +1,21 @@
+city: Erlanger
+country: United States
+description: Narrow's Road is a winding back road. In the 1950's a police officer was hit and killed pulling someone over. Local legend says that if you drive this road at midnight, an officer will pull you over in a 1950's style cruiser talk to you, then go back to his car and disappear.
+location: Narrow's Road
+state: Kentucky
+state_abbrev: KY
+longitude: -84.5831728
+latitude: 38.9853065
+city_longitude: -84.60077729999999
+city_latitude: 39.0167275
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

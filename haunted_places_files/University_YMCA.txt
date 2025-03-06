@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: Many times from 1990-1993, while cleaning basement work-out room, heard footsteps and voices coming from upstairs, although all members had left the building. Also felt presence in furnace room. Building was built in 1951.
+location: University YMCA
+state: Washington
+state_abbrev: WA
+longitude: -122.3155608
+latitude: 47.665244
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Parkersburg
+country: United States
+description: In the 4-South section of the hospital there has been reports of a ghost on the night shift. Mostly just trash cans being turned over(the most common report) but once or twice a month there may be a scream coming from one of the rooms.
+location: St. Josephs Hospital
+state: West Virginia
+state_abbrev: WV
+longitude: -81.559285
+latitude: 39.26936
+city_longitude: -81.56151349999999
+city_latitude: 39.2667418
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1600/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: For years, city police and the homeless have reported an array of night specters down here ranging from shapeless mists, coonskin frontiersmen, Indians and even George Washington.
+location: Point State Park
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0096409
+latitude: 40.4415031
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

@@ -1,0 +1,21 @@
+city: St. Charles
+country: United States
+description: Various interpretations have been given for the mysterious moans and noises coming from the hotel's sixth floor. Once serving as the employee dorm, it is now a large storage area. Some say that the floor is haunted by a chambermaid who drowned herself in the nearby Fox River, sometime in the 1970`s. She is rumored to have been left at the altar. Investigators found evidence, but no trace of the woman was uncovered.
+location: Hotel Baker
+state: Illinois
+state_abbrev: IL
+longitude: -88.3146293
+latitude: 41.9136798
+city_longitude: -88.3086867
+city_latitude: 41.9141945
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Pennington
+country: United States
+description: Just pulling into the stone-covered parking lot on the side of the house one begins to feel a sense of foreboding. Once in the house, a sense of negative energy can be felt. Spend time in the house and you will see and sense things. Dogs and cats will run from or refuse to enter certain rooms at different times. Heavily lined drapes will blow on a windless day with the windows shut like they were fine linen on a windy day. Heavy person-less footsteps on the wooden stairs can be heard. Door-knobs will turn violently. Faint voices and moving objects and opening and closing doors on their own. Knocks on bedroom doors late at night when no one is there if you open the door. A sense of relief can be felt when pulling away from the house.
+location: Old Farmhouse on Main Street
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.79087190000001
+latitude: 40.3285623
+city_longitude: -74.790718
+city_latitude: 40.3284402
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

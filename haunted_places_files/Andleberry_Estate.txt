@@ -1,0 +1,19 @@
+city: Clovis
+country: United States
+description: This was a mansion with an adjacent asylum for woman in the 1800's. Many horrible experiments were performed on the patients, so the ghosts are frightened and angry, you'll get feelings of fear and dread if you venture near the house. The mansion is on Clovis Avenue, almost across the street from Sierra Vista Mall, the asylum is in the back. At Halloween, the owner runs a Haunted House attraction; this is an opportune time to visit.
+location: Andleberry Estate
+state: California
+state_abbrev: CA
+city_longitude: -119.7029194
+city_latitude: 36.8252277
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

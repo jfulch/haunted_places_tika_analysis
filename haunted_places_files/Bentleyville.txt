@@ -1,0 +1,21 @@
+city: Washington County
+country: United States
+description: the spring - Strange sounds like organ music coming from the graveyard.
+location: Bentleyville
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0083855
+latitude: 40.1167387
+city_longitude: -80.1875065
+city_latitude: 40.1367719
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: St. Simon's Island
+country: United States
+description: Beachview Drive - Mary the Wanderer is a ghost that haunts Jekyll Island's main beachfront area * Not St Simons Island.* The Wanderer hotel operated for many years on Jekyll's Beachview Drive- the island's main drive- where she is seen wandering the coast waiting for her lost love who never returned from the sea.
+location: Jekyll Islands
+state: Georgia
+state_abbrev: GA
+longitude: -81.4114142
+latitude: 31.07349189999999
+city_longitude: -81.3885517
+city_latitude: 31.1595905
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1722/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Frankfort
+country: United States
+description: Lady Grey haunts this building along with a ghostly Indian and soldier. There is also a young woman in the back yard that was murdered. And another woman inside the house. So, all together there are five ghosts there
+location: Liberty Hall
+state: Kentucky
+state_abbrev: KY
+longitude: -84.88120099999999
+latitude: 38.199828
+city_longitude: -84.87328350000001
+city_latitude: 38.2009055
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,18 @@
+city: Cridersville
+country: United States
+description: It is haunted by a ghost the staff calls Hector. He has been known to make appearances and be very loud.
+location: Dixie Lee Restaurant
+state: Ohio
+state_abbrev: OH
+city_longitude: -84.1507814
+city_latitude: 40.6542164
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1795/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

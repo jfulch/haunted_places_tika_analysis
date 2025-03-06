@@ -1,0 +1,21 @@
+city: Ketchikan
+country: United States
+description: In 1946, a student fell from a catwalk to his death. He haunts the theatre to this day with crying and other noises, and he is visible from the stage, if you look up. He is well documented by the media and school officials, and seen by the majority of the students. He still haunts the school, even after it was remodeled. He is nick named, “Boochie”.
+location: Ketchikan High School
+state: Alaska
+state_abbrev: AK
+longitude: -131.677921
+latitude: 55.3534308
+city_longitude: -131.6461112
+city_latitude: 55.34222219999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1946/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 10h 52m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

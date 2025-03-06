@@ -1,0 +1,20 @@
+city: Greenville
+country: United States
+description: Lights turn on and off at random. Doors fly open. During construction (Which was halted for almost 2 years when investors pulled, after staying on the grounds and then leaving abruptly.) many reports were sent in to Greenville police department that someone was staying in the rooms because the lights were on in the building. No electricity was on in the building at the time. PD responding to repeated calls secured the area- and still received complaints. The Golf course has three places that will NOT grow grass. Wailing noise has been heard on the course, followed by foliage disturbances.
+location: Embassy Suites
+state: South Carolina
+state_abbrev: SC
+longitude: -82.32383399999999
+latitude: 34.8255831
+city_longitude: -82.3940104
+city_latitude: 34.85261759999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Columbus
+country: United States
+description: Very haunted. Most of the haunting takes place in the attic and upper floors. Doors slamming, cold spots, sightings etc.
+location: Springer Opera House
+state: Georgia
+state_abbrev: GA
+longitude: -84.99116099999999
+latitude: 32.465176
+city_longitude: -84.9877094
+city_latitude: 32.4609764
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

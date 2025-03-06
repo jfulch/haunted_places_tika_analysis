@@ -1,0 +1,21 @@
+city: Cape May
+country: United States
+description: 2 sisters haunt their former home as well as a white figure that roams the grounds near a grave on the grounds.
+location: Winterwood Gift Shoppe
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9215308
+latitude: 38.9330131
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1938/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

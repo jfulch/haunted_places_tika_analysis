@@ -1,0 +1,21 @@
+city: Bartlesville
+country: United States
+description: Outside of Bartlesville, near the infamous "haunted hill" and Circle Mountain there is an old abandon cemetery off County Road 2700. The cemetery sits in an open field/space next to a small, abandon lawn and landscape business. It's hard to spot the cemetery driving past because it sits off into the edge of the woods and is so overgrown that it takes a good eye to see it though the forest. Electrical problems have been reported with digital cameras
+location: Jessie Creek Cemetery
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.9987096
+latitude: 36.71408540000001
+city_longitude: -95.9808179
+city_latitude: 36.7473114
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

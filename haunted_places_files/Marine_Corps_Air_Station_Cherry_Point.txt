@@ -1,0 +1,21 @@
+city: Havelock
+country: United States
+description: It is said the ghost of Kissy Sikes haunts the flight line and the housing looking for her children, she does not like men and the men who yell at kids are in big trouble, there is a story of a young Lcpl on post was found the next morning huddled in a ball in the corner of the guard shack crying she wants her kids, she wants her kids. In the housing you can hear children playing and from personal experience Kissy herself appears in children’s bedrooms after they are put to bed. Toys in the children’s rooms are moved when they aren't even there.
+location: Marine Corps Air Station Cherry Point
+state: North Carolina
+state_abbrev: NC
+longitude: -76.9062
+latitude: 34.883318
+city_longitude: -76.9013301
+city_latitude: 34.8790492
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1766/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

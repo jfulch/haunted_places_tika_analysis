@@ -1,0 +1,21 @@
+city: Cameron Park
+country: United States
+description: girl in white gown near the reservoir at the bend where the water sometimes over flows onto the road. - November 2005 Update: At the actual lake by a bench it was dedicated to an old man he can be seen sitting on the bench smiling at you.
+location: Bass Lake Road
+state: California
+state_abbrev: CA
+longitude: -121.0184541
+latitude: 38.6769961
+city_longitude: -120.9871643
+city_latitude: 38.6687929
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

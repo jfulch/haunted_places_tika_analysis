@@ -1,0 +1,19 @@
+city: Wilmington
+country: United States
+description: employees of the gift shGp (located in Wilmington's Cotton Exchange) have witnessed the apparitions of a married couple. From time to time, the couple will walk in the store, glaring at all the merchandise, and disappear in front of their very eyes. The building, in which the store is located, used to serve as a local saloon/Inn back around the late 19th Century.
+location: The Basket Case
+state: North Carolina
+state_abbrev: NC
+city_longitude: -77.9447102
+city_latitude: 34.2257255
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

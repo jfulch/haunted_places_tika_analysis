@@ -1,0 +1,20 @@
+city: Morehead
+country: United States
+description: A man named Carl is rumored to haunt this business. Years ago, this Mr. Gatti's was a saloon and Carl was shot in the head by an jealous man in the old apartment (now abandoned) above the store. Employees have reported seeing strange figures moving around the store, mostly during closing hours. Also voices and noises have been heard in the office area. The strangest of all, is employees finding evidence that a game back in the game room has just recently been played when there has not been a customer for hours.
+location: Mr. Gatti's
+state: Kentucky
+state_abbrev: KY
+longitude: -83.4292921
+latitude: 38.1876839
+city_longitude: -83.4326841
+city_latitude: 38.1839705
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1769/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

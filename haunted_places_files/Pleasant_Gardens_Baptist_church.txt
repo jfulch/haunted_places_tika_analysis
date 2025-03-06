@@ -1,0 +1,21 @@
+city: Marion
+country: United States
+description: A women is supposed to haunt Pleasant Gardens Baptist church. Students who attended Pleasant Gardens Elementary school have reported a women dressed in pink walking down the road with a knife the following day after someone put pink flowers on her grave.
+location: Pleasant Gardens Baptist church
+state: North Carolina
+state_abbrev: NC
+longitude: -82.07168329999999
+latitude: 35.6934499
+city_longitude: -82.00927449999999
+city_latitude: 35.6840131
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

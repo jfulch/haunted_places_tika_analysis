@@ -1,0 +1,19 @@
+city: Morganton
+country: United States
+description: Night watchmen claim over the years you can see an older man sweeping and cleaning up upstairs in PLT 3 in the hallways.
+location: Drexel Heritage PLT 3 and 5
+state: North Carolina
+state_abbrev: NC
+city_longitude: -81.6848188
+city_latitude: 35.7454071
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

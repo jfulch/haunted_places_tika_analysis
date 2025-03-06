@@ -1,0 +1,21 @@
+city: Florence
+country: United States
+description: Music is played occasionally on an old piano that sits in the parlor where guests were entertained by a former Governor, back in the late 1800's. The caretaker recalls a light being turned on at night on the second floor and faucets being turned on at night when she is trying to sleep.
+location: Sweetwater Plantation
+state: Alabama
+state_abbrev: AL
+longitude: -87.642716
+latitude: 34.824605
+city_longitude: -87.677251
+city_latitude: 34.79981
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

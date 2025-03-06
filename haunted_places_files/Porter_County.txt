@@ -1,0 +1,21 @@
+city: Porter
+country: United States
+description: Historical Society of Porter County Old Jail Museum - has had paranormal activity recorded and when open for Halloween haunted houses many orbs and strange things have been seen and people have gone missing
+location: Porter County
+state: Indiana
+state_abbrev: IN
+longitude: -87.07419949999999
+latitude: 41.6155937
+city_longitude: -87.07419949999999
+city_latitude: 41.6155937
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1791/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

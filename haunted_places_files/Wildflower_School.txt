@@ -1,0 +1,21 @@
+city: Goodyear
+country: United States
+description: Singing can be heard in the girl’s sixth grade bathroom.
+location: Wildflower School
+state: Arizona
+state_abbrev: AZ
+longitude: -112.4068937
+latitude: 33.443122
+city_longitude: -112.3576567
+city_latitude: 33.4353394
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

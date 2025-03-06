@@ -1,0 +1,21 @@
+city: Peoria
+country: United States
+description: Update: Was closed by the State in 2002 and reopened in 2003 as a Community College. - voices, noises, and apparitions are heard and seen. Unseen cars can be heard driving up and headlights of cars that disappear when you go out to check to see who's there. Police or ambulance sirens can be heard driving up but none appear.
+location: Zeller Mental Hospital
+state: Illinois
+state_abbrev: IL
+longitude: -89.5901133
+latitude: 40.6967782
+city_longitude: -89.5889864
+city_latitude: 40.6936488
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2002/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

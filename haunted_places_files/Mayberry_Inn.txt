@@ -1,0 +1,21 @@
+city: Hot Springs
+country: United States
+description: This old estate is located on Highway 270, five miles east of Crystal Springs, close to the Garland/Montgomery County line. It is said to be haunted by the ghost of David Mayberry, the man who owned the Mayberry Inn during the 1800s. Legend states that David Mayberry used his inn to shelter prospectors and miners that were traveling through the area. Gunfights quite often broke out between the men, which led to the death of many people. It is said that one of the men's bloodstains can still be found on the inn's floor. The violence in the inn also led to David Mayberry getting shot. Although Mayberry was not killed, the bullets left in his body led to schizophrenia. Supposedly, because of his mental condition, Mayberry stabbed his wife to death and burned her body in the fireplace( which is still intact and displays a creepy message on the wall above it). Eerily enough, legend states that you will hear the wife of David Mayberry crying hysterically at exactly midnight. Also, legend states that Mayberry, after he killed his wife, drowned his infant son. Mysterious screaming can be heard coming from the bath tub in the basement.
+location: Mayberry Inn
+state: Arkansas
+state_abbrev: AR
+longitude: -93.0845443
+latitude: 34.42736319999999
+city_longitude: -93.0551795
+city_latitude: 34.5037004
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Bernardsville
+country: United States
+description: was The Parker home and has a strange history of sightings as well as a very mysterious historical past.
+location: Bernardsville Public Library
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.568951
+latitude: 40.719443
+city_longitude: -74.569324
+city_latitude: 40.7187119
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

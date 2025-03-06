@@ -1,0 +1,19 @@
+city: Williamsburg
+country: United States
+description: Liesure Bench, a private memorial built by the Leisure family who's cemetery plots are together in front of this cement bench which is constantly warm year round, a figure has been seen sitting in this bench then suddenly disappear.
+location: Leisure Bench
+state: Iowa
+state_abbrev: IA
+city_longitude: -92.0090673
+city_latitude: 41.6611187
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

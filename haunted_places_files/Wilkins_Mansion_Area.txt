@@ -1,0 +1,19 @@
+city: Ivanhoe
+country: United States
+description: The Mansion itself burnt down 30 some years ago, but it is said that if your in the area at night you will hear the sounds of slaves chained  together, walking down the road. Not only that, but you will hear the slaves singing songs of their era. A group of friends went to explore this place in 1970,and heard these noises quite clearly. Be wary though if you choose to explore this place, as it is very wooded and the road to the place is very rough.
+location: Wilkins Mansion Area
+state: Virginia
+state_abbrev: VA
+city_longitude: -80.96676889999999
+city_latitude: 36.8401308
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1970/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

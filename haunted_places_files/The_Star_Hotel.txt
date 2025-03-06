@@ -1,0 +1,21 @@
+city: Truckee
+country: United States
+description: People were seen inside the building when it was closed down. After seeing them they were gone. Also lights would be on when know one was there. It is now a business.
+location: The Star Hotel
+state: California
+state_abbrev: CA
+longitude: -120.1617365
+latitude: 39.3211322
+city_longitude: -120.1832533
+city_latitude: 39.327962
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

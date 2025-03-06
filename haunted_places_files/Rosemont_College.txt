@@ -1,0 +1,21 @@
+city: Rosemont
+country: United States
+description: Reports of apparitions and slamming of doors throughout the night.
+location: Rosemont College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.3289496
+latitude: 40.0340798
+city_longitude: -75.3237979
+city_latitude: 40.0256664
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

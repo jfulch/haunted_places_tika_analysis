@@ -1,0 +1,21 @@
+city: Kennedy Space Center
+country: United States
+description: The old abandoned Launch Pad of the Apollo missions is believed to be haunted by the ghosts of the three astronauts that lost their lives in a tragic fire. When you are on the pad you get a weird feeling, then at night when you enter some of the abandoned buildings, if you're quiet you can hear screams of panic and distress. NASA, at one time, let visitors tour the facility, but due to 'strange occurrences' they no longer include the Apollo Launch Pad on the tour.
+location: Apollo 1 Launch Complex 34
+state: Florida
+state_abbrev: FL
+longitude: -80.56112399999999
+latitude: 28.5217945
+city_longitude: -80.64898079999999
+city_latitude: 28.5728722
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: Staff on 5th floor report hearing noises and seeing doors move, eerie feeling when on 4th and 5th floors.
+location: Antelope Valley Hospital
+state: California
+state_abbrev: CA
+longitude: -118.1590238
+latitude: 34.6866328
+city_longitude: -118.1541632
+city_latitude: 34.6867846
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

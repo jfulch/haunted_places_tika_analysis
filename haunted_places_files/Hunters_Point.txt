@@ -1,0 +1,20 @@
+city: Waynesville
+country: United States
+description: Screams and an apparition of a hanging man witnessed.
+location: Hunter's Point
+state: Missouri
+state_abbrev: MO
+longitude: -92.2125606
+latitude: 37.7992342
+city_longitude: -92.2007227
+city_latitude: 37.8286516
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Utica
+country: United States
+description: An old abandoned slaughter house that has been boarded up and a barbed wire fence has been erected around it. If you get past the fence and though a broken loading door you can see blood stains and bones on floor, also you hear voices and pigs squealing from rooms in the back and eerie noises from the offices up stairs. Watch out for bums, word is they will throw shoes at you. - September 2004 Update -Has been torn down.
+location: Haunted Slaughter House
+state: Michigan
+state_abbrev: MI
+longitude: -82.96223189999999
+latitude: 42.8257633
+city_longitude: -83.0335384
+city_latitude: 42.6261446
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

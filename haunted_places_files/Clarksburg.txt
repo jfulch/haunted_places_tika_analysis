@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: Flinderation Tunnel - There was a train-wreck in Flinderation Rail-Road tunnel because some men were doing some work on the railroad and did not realize a train was coming, especially not as fast as it was. One of the men could not get into one of the cubbyholes in time, and the train caught him, causing it to derail. The railroad through this tunnel was shut down because people could hear train whistles and see the lights of an invisible train coming towards them. Then, the KKK also took victims there to do lynching and such. This tunnel has a lot of hidden history. Today, it is part of the Rail-Trail, but the train whistle can still be heard along with other various sounds: screaming, metal scraping on metal, sobbing.
+location: Clarksburg
+state: West Virginia
+state_abbrev: WV
+longitude: -80.5655424
+latitude: 39.2837675
+city_longitude: -80.5589856
+city_latitude: 39.2828653
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2009/10/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

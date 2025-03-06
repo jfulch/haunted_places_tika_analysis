@@ -1,0 +1,21 @@
+city: Sonoma
+country: United States
+description: Roseland Air Field - Many of the business in the area report seeing unexplainable dark shadows on the walls, seeming to appear from out of nowhere. Many of the locals credit the existence of the shadows to the fatalities that occurred at the airport in the 1940's.
+location: Santa Rosa
+state: California
+state_abbrev: CA
+longitude: -122.7140548
+latitude: 38.440429
+city_longitude: -122.4580356
+city_latitude: 38.291859
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

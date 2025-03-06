@@ -1,0 +1,20 @@
+city: Orange
+country: United States
+description: In a vacant lot where a barn and a house used to stand, the story is that several years ago, a fire burned the house down and two people died in the blaze. People in the businesses in the surrounding area report strange activities, especially at night. The feeling that someone or something is watching them and an overall feeling of dread is a common occurrence there.
+location: Edison Road
+state: Connecticut
+state_abbrev: CT
+longitude: -72.9966649
+latitude: 41.2612112
+city_longitude: -73.0265277
+city_latitude: 41.278637
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

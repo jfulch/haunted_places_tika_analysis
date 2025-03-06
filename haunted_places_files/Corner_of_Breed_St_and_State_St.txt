@@ -1,0 +1,21 @@
+city: Chilton
+country: United States
+description: Witnesses report seeing a frail very white woman wearing a royal blue scarf on her head an a blue jacket only to vanish in thin air.
+location: Corner of Breed St. and State St.
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.1740524
+latitude: 44.0368375
+city_longitude: -88.16287849999999
+city_latitude: 44.0288803
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

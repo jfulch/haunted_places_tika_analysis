@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: The Battle of Grant's Hill was fought at this location during the French & Indian War in 1758.Security Guards have seen people on the monitors that were not there. Objects have disappeared from the museum. Strange sounds have been heard from empty parts of the museum. A re-enactor was murdered there during the early 1970's.
+location: Fort Pitt Museum(Point State Park)
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0094664
+latitude: 40.4409302
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1758/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

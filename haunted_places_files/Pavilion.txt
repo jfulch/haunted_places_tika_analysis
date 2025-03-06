@@ -1,0 +1,21 @@
+city: Meridian
+country: United States
+description: Pavilion In the pavilion net to the Meridian river there newspaper clippings of a women who killed herself in the river. After that happened there were ferry boats disappearing from the river there were about three. after the third one they closed the boat landings down and it is now a place where teens go to swim. A few have died and were reported as a suicide.
+location: Pavilion
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.9223418
+latitude: 43.2166408
+city_longitude: -89.5391715
+city_latitude: 43.1001263
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1605/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

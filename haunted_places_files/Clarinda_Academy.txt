@@ -1,0 +1,21 @@
+city: Clarinda
+country: United States
+description: There are a lot of tunnels under the town and the Academy. They used these tunnels along time ago for the mentally ill. They starved them down there for years. It is said that five boys have disappeared when walking through the tunnels. Many people have seen and heard footsteps and screams.
+location: Clarinda Academy
+state: Iowa
+state_abbrev: IA
+longitude: -95.0374397
+latitude: 40.7577356
+city_longitude: -95.038313
+city_latitude: 40.7419352
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

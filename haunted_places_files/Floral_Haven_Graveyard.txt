@@ -1,0 +1,21 @@
+city: Broken Arrow
+country: United States
+description: Many old people that are buried here, seem to disappear soon after. when you cant find there grave and you talk to the people at the office they say the person was never in there records.
+location: Floral Haven Graveyard
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.8339668
+latitude: 36.0690845
+city_longitude: -95.7974526
+city_latitude: 36.060949
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

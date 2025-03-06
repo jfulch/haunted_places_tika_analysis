@@ -1,0 +1,21 @@
+city: San Bernardino
+country: United States
+description: People have claimed to see the ghost of Wyatt Earp walk down the dust roads of calico tipping his at a them when he walks by . People have also said that the old mine tunnel is haunted by the men who have died while trying to seek there fortune, some employees have said that they have see a man with a pick ax warning them not to walk threw visitors have reported many different sightings
+location: Calico Ghost Town
+state: California
+state_abbrev: CA
+longitude: -116.8653421
+latitude: 34.9455639
+city_longitude: -117.2897652
+city_latitude: 34.1083449
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

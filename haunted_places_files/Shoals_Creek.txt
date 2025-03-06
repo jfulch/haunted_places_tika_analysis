@@ -1,0 +1,21 @@
+city: Shoals
+country: United States
+description: There is said to be a big cat that that roams the creek that will come after you if you get to close to the creek after 9 00 at night. People who have reported it have said that you just see two eyes coming after you.
+location: Shoals Creek
+state: North Carolina
+state_abbrev: NC
+longitude: -80.51207649999999
+latitude: 36.2649925
+city_longitude: -80.51116929999999
+city_latitude: 36.2740281
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

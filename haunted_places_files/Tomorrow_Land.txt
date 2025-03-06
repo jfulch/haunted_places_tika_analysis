@@ -1,0 +1,21 @@
+city: Disneyland
+country: United States
+description: Reports of a menacing presence accompanied by cold spots.
+location: Tomorrow Land
+state: California
+state_abbrev: CA
+longitude: -117.9171676
+latitude: 33.812098
+city_longitude: -117.9189742
+city_latitude: 33.8120918
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

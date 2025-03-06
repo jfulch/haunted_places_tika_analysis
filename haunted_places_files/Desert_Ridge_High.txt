@@ -1,0 +1,21 @@
+city: Mesa
+country: United States
+description: A little boy is seen walking down the hallways, hitting doors with a book.
+location: Desert Ridge High
+state: Arizona
+state_abbrev: AZ
+longitude: -111.6179794
+latitude: 33.3698111
+city_longitude: -111.8314724
+city_latitude: 33.4151843
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1597/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

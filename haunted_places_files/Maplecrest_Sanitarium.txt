@@ -1,0 +1,21 @@
+city: Whitelaw
+country: United States
+description: this place is located 1 mile north of whitelaw, in a large patch of woods. it is a 3 story, 3 wing sanitarium that has been abandoned since the 50's. Very large building, you can see the rusty water tower from the road. Beware as there are people living next to it. It is reported that you can see people staring at you from the third floor windows, and once inside, doors slam and you hear laughing. It was used as a tuberculosis hospital in the 1930's and was re-opened as a sanitarium after.
+location: Maplecrest Sanitarium
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.812981
+latitude: 44.154081
+city_longitude: -87.8214788
+city_latitude: 44.144716
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

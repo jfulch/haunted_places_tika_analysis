@@ -1,0 +1,21 @@
+city: Roy
+country: United States
+description: The first ghost is of a girl by the name of Mable. No one knows how she died but she stays in the large auditorium around back stage, and the winding stairs. Most of the time, she plays tricks by turning lights off or on, moving props, making props disappear, scarring people, and making her presence known. The second ghost is a lady in a purple hat. She's also on the large auditorium stage a ways away from the wood pile. She tries to get people to follow there but no one will since she gives off an eerie and evil aura. The third ghost is a only a floating head on the left upper balcony but, sometimes it seemed more then a head up there. It sounds as if someone is moving the lights along with cords. The fourth and last ghost roams the entire school but mostly the halls. When the school has hardly anyone in there or someone is walking alone, you can feel as if someone is glaring or around you. He walks right next to you but if he were alive, you would feel his breath on your skin or smell his shampoo. It has been said that he was hit by a train walking to school.
+location: Roy High School
+state: Utah
+state_abbrev: UT
+longitude: -112.0326531
+latitude: 41.1768897
+city_longitude: -112.0263313
+city_latitude: 41.1616108
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

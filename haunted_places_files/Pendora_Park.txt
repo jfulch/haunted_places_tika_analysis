@@ -1,0 +1,21 @@
+city: Reading
+country: United States
+description: In the past 30 years, 4 people have jumped or fallen off of the Viaduct, the bride over Pendora. There have been reports of screaming and crying, and visions of people falling/jumping.
+location: Pendora Park
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.90097899999999
+latitude: 40.3303683
+city_longitude: -75.9268747
+city_latitude: 40.3356483
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

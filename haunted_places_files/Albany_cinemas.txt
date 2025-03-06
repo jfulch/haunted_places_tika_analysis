@@ -1,0 +1,21 @@
+city: Albany
+country: United States
+description: In the late 70s a farm house was torn down to make room for more screens. The back two auditoriums are haunted. Incidents have been report such as sightings of a small ghost dog and small lights hovering along the floor.
+location: Albany cinemas
+state: Oregon
+state_abbrev: OR
+longitude: -123.07397
+latitude: 44.629553
+city_longitude: -123.1059282
+city_latitude: 44.6365107
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

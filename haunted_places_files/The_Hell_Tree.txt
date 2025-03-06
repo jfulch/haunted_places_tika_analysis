@@ -1,0 +1,18 @@
+city: Fort Collins
+country: United States
+description: Back in the early 1900's a farmer would hang his farm hands from this tree. One afternoon they rebelled against him. Later that evening his wife found him hanging from this tree. Sometimes on a late night when the moon is silhouetting the tree you can see the farmer and his farmhands hanging in this tree.
+location: The Hell Tree
+state: Colorado
+state_abbrev: CO
+city_longitude: -105.084423
+city_latitude: 40.5852602
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Vanderburgh
+country: United States
+description: Boehne Camp Hospital - This is an old abandoned tuberculosis hospital. Several people have reported sightings of the ghosts of patients who were held there against their will as to not contaminate others. The property is now privately owned, but students from the nearby university often are caught trespassing on the property. - Trespassers will be reported to the police. - June 2008 Update: the hospital was torn down only right across from it is the other building that was connected by the tunnel it is being renovated to apartments and there is still a utility shed with access the tunnel which is not smart it is usually flooded and cluttered with old desks lots of bats and creatures of the night.
+location: Evansville
+state: Indiana
+state_abbrev: IN
+longitude: -87.5710898
+latitude: 37.9715592
+city_longitude: -87.5791287
+city_latitude: 38.0806099
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

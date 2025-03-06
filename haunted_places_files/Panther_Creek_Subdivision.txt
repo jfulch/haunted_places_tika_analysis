@@ -1,0 +1,21 @@
+city: Springfield
+country: United States
+description: Since Panther Creek was founded, reports of mysterious footprints of a large cat have been reported. Also, people have claimed to have seen a large leopard or such in the wooded area around the area. Growling and sometimes roaring can be heard near the creek itself.
+location: Panther Creek Subdivision
+state: Illinois
+state_abbrev: IL
+longitude: -89.71189489999999
+latitude: 39.7293904
+city_longitude: -89.6501481
+city_latitude: 39.78172130000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1827/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

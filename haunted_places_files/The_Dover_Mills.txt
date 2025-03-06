@@ -1,0 +1,21 @@
+city: Dover
+country: United States
+description: next to the Cocheco River - Many years ago the mill caught on fire. A lot of it burned down and many people died in the mills. Now when you are just standing outside of it after dark, when everyone is gone and all the offices are closed, you can see strange lights coming from higher-level rooms. You also hear very strange noises, which can be identified as machines turning on and off. At first they are quieter but when listening for about five minutes, one very loud machine turns on. If you look in a few of the basement windows, you can see one light on in the whole basement. No one goes down there all day and no one goes in at night because the basement entrance is blocked off, but a light is always on. When entering the building in either of the two towers, if you are to sit on the stairs alone, you can hear faint noises, which are undetermined, however, there is no one else in the tower to create such noises.
+location: The Dover Mills
+state: New Hampshire
+state_abbrev: NH
+longitude: -70.8719376
+latitude: 43.1944118
+city_longitude: -70.8736698
+city_latitude: 43.1978624
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1642/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

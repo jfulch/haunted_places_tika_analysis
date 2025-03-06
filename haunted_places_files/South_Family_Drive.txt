@@ -1,0 +1,21 @@
+city: Colonie
+country: United States
+description: There is said to be children and a man playing at the Colonie Reform Church. Sounds can be heard at night such as children laughing, shadows were seen as well.
+location: South Family Drive
+state: New York
+state_abbrev: NY
+longitude: -73.8221636
+latitude: 42.7352552
+city_longitude: -73.77132
+city_latitude: 42.7236699
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

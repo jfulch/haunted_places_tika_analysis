@@ -1,0 +1,20 @@
+city: Etterville
+country: United States
+description: It is known of two children running around an old church that is no longer used. The first child is a girl and the second child is a boy. These children will run and follow you on this road. This occurs at night. They will kick rocks and throw them. It is known that these two children were beat and killed by their parents in this church. Also if you go into the church at night (which the church is in the middle on no-where in the woods) the children will call your name and if you have a flash light or something that has light the lights will turn off and all you will hear are the two children calling your name and playing.
+location: Gageville road
+state: Missouri
+state_abbrev: MO
+longitude: -92.4639575
+latitude: 38.3484597
+city_longitude: -92.4701849
+city_latitude: 38.3675315
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

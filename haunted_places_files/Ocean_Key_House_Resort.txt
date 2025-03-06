@@ -1,0 +1,21 @@
+city: Key West
+country: United States
+description: Third Floor Suite facing Duval Street - Cold spots during the day. At night, sounds of keys and objects moved around on dresser, sound of sighing, and feeling of someone sitting down on the bed while you're in it! Day or night, upon returning to the room, the lights and curtains are never in the condition in which you left them.
+location: Ocean Key House Resort
+state: Florida
+state_abbrev: FL
+longitude: -81.8069814
+latitude: 24.5606289
+city_longitude: -81.7799871
+city_latitude: 24.5550593
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

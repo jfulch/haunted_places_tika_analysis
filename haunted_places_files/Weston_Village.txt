@@ -1,0 +1,21 @@
+city: Greenfield
+country: United States
+description: This area of town called "Weston Village" is a housing edition and apartments in the same are that is about a span of five miles. One witness reports seeing what is described as a Cyclops at the foot of her bed. As well as other sightings.
+location: Weston Village
+state: Indiana
+state_abbrev: IN
+longitude: -85.79178089999999
+latitude: 39.787993
+city_longitude: -85.7694226
+city_latitude: 39.785043
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

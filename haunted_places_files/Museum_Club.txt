@@ -1,0 +1,21 @@
+city: Flagstaff
+country: United States
+description: The voice of a woman thought to be the wife of a former owner, talks to people after hours. She once asked a musician, "Are you done with that beer?” He turned around to see no one there. There were only four other people in the bar, and they were sitting at least 30-40 feet away from the bar.
+location: Museum Club
+state: Arizona
+state_abbrev: AZ
+longitude: -111.5996109
+latitude: 35.2141418
+city_longitude: -111.651302
+city_latitude: 35.1982836
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Cannon Beach
+country: United States
+description: Some people claim that this beach house is haunted by the ghost of Ghengis Hansel, a man who mysteriously disappeared there after the storm in 1952. People who have stayed in the house have felt a foreboding presence, especially around the many secret doors and compartments, all of which are locked tightly shut.
+location: The Argonutua Beach House
+state: Oregon
+state_abbrev: OR
+longitude: -123.9621154
+latitude: 45.89888730000001
+city_longitude: -123.9615274
+city_latitude: 45.8917738
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1952/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

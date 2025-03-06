@@ -1,0 +1,21 @@
+city: Jonesboro
+country: United States
+description: Formerly Known As The Strand Theater - An apparition of a man has been seen by many people, including play cast and personnel. He has been seen in the attic, the catwalk, the boiler room, the balcony, and the projection room. He has been affectionately named Charlie. He has appeared wearing different clothing at various sightings. According to one eyewitness account, he was sighted by a visitor who was making his way to the projection booth. As he rounded a corner in the balcony, he came face to face with Charlie, who was wearing a red shirt and casual pants. The visitor stopped within two feet of the apparition and made eye to eye contact. The visitor was not startled, because he believed it to be a friend of his. Charlie vanished before his eyes. Another eyewitness reported that he had seen him sitting on a heating duct in the attic, when he we nt upstairs to check on a faulty heating unit. There have been many other strange occurrences, as well as poltergeist type activities at the Strand/Forum theater since its construction in 1927. One of these took place as workers were unloading the new grand piano. When the workers left the room momentarily to take a break, the piano began playing a recognizable tune while still sealed within its packing crate. The piano was not a self-playing piano.
+location: Craighead Company
+state: Arkansas
+state_abbrev: AR
+longitude: -90.668322
+latitude: 35.789581
+city_longitude: -90.704279
+city_latitude: 35.84229670000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1927/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

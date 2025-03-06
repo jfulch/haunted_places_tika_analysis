@@ -1,0 +1,19 @@
+city: Bartlett
+country: United States
+description: They say if you park your car on the tracks and put it in neutral and put baby powder on the trunk, you will see fingerprints of a boy who got killed on those very tracks. June 2008 Additional information - In the past 25 years, there have been two murders near the Illinois , Central and Pacific Railway that runs through the Pratt Wayne Forest Preserve, which is what Munger Road runs through. About 9 years ago in October, a male was found murdered just off of Munger Road. In 1982 a 21 year old woman was found raped and strangled right by the train tracks in the forest preserve off Munger Road. Those two murders are what locally make it so scary. The DuPage County, IL sheriffs website (unsolved murders) gives all the information about both murders.
+location: Munger Road Rail Road Tracks
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.1856301
+city_latitude: 41.9950276
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

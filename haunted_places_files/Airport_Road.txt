@@ -1,0 +1,19 @@
+city: Seaford
+country: United States
+description: there are two ghost that reside here every valentines day a bride will be seen weeping while walking up the road. the other ghost is an old confederate soilder he has been walking up the old dirt road.
+location: Airport Road
+state: Delaware
+state_abbrev: DE
+longitude: -75.56572
+latitude: 38.6235122
+city_longitude: -75.6110381
+city_latitude: 38.6412256
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1996/07/15
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

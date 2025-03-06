@@ -1,0 +1,19 @@
+city: Plattsburgh
+country: United States
+description: Reports of disorientation, dizziness, sounds of oars in water, and strange noises with no origin have all been reported.
+location: Lake Champlain shore near Georgia Pacific Factory
+state: New York
+state_abbrev: NY
+city_longitude: -73.4529124
+city_latitude: 44.6994873
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

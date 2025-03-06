@@ -1,0 +1,21 @@
+city: Troutdale
+country: United States
+description: This complex is now owned by the Mcminamin Brothers and they run this as a vineyard / brewery / restaurant / B&B.  However it's original use was that of a Poor Farm and then later as a nursing home. It is said to have strong activity above the wine cellars (which was once the morgue) and in the cellars themselves. McMinamin's even posts some of the hauntings in their pubs/hotels on their website.
+location: Edgefield
+state: Oregon
+state_abbrev: OR
+longitude: -122.4068033
+latitude: 45.5371135
+city_longitude: -122.3873133
+city_latitude: 45.5392862
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

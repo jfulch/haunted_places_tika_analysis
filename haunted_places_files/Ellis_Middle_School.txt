@@ -1,0 +1,21 @@
+city: Hendersonville
+country: United States
+description: Formerly Hendersonville High School, this school is reputed to be haunted by a phantom known as "The Colonel." A former night cleaning staff working at night have heard his footsteps walking the upstairs hall when the place was supposed to be empty and another person has seen a figure lurking in the windows of the library on the second floor. The round structure was built with a lot of steel which might account for the nature of the sounds and haunting.
+location: Ellis Middle School
+state: Tennessee
+state_abbrev: TN
+longitude: -86.60538609999999
+latitude: 36.3057995
+city_longitude: -86.6199957
+city_latitude: 36.3047735
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1941/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

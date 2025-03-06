@@ -1,0 +1,21 @@
+city: Arkadelphia
+country: United States
+description: There have been claims of orbs in the basement, eyes in the corners, blood on walls of most of the dorms, and windows of the dorms (especially girls' dorms) breaking at night, with no explanation as to why they are broken. Hauntings seem to happen mostly at night, although people have spotted orbs in the basement night and day.
+location: Ouachita Baptist University
+state: Arkansas
+state_abbrev: AR
+longitude: -93.0519992
+latitude: 34.1274257
+city_longitude: -93.0537839
+city_latitude: 34.1209292
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

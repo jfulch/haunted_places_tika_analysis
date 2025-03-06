@@ -1,0 +1,21 @@
+city: Broken Bow
+country: United States
+description: On numerous occasions while closing the library in the evening several voices have been heard in the southeastern corner of the building. These sounds have been described as teenage or adult voices in heated arguments. Also heard were small children laughing and playing. During the time of hearing the voices there has been a cold chill in the air in that particular area of the building.
+location: Broken Bow Library/Old High School
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.7386407
+latitude: 34.0163077
+city_longitude: -94.7391045
+city_latitude: 34.0292764
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

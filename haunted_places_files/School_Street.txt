@@ -1,0 +1,19 @@
+city: North Kingstown
+country: United States
+description: the graveyard at the beginning of school street near post road is very haunted. People have seen people walking through the graveyard at night and have seen lights flashing with no explanation
+location: School Street
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.46768569999999
+latitude: 41.6184273
+city_longitude: -71.4536835
+city_latitude: 41.5568315
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

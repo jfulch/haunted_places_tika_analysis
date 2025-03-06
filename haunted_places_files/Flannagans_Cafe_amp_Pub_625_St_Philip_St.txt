@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: the ghost of Angela, the sister of the former owner, committed suicide in the ladies' room. She has been seen and felt roaming the grounds of this restaurant.
+location: Flannagan's Cafe &amp; Pub (625 St. Philip St.)
+state: Louisiana
+state_abbrev: LA
+longitude: -74.41523
+latitude: 40.584263
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

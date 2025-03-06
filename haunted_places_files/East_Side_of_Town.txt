@@ -1,0 +1,20 @@
+city: Meriden
+country: United States
+description: The haunting of Nancy - There is a local legend of "Naps." She is a middle-aged woman who was killed in front of her house one night a long time ago. Her real name was Nancy but everyone called her Naps because they were so frightened of her, especially the local kids. Explorers went to the place where she was supposed to have died, (and now is haunting), east road in Meriden. Many people have recently sighted the legendary ghost of "Nancy." She roams the back roads of the east side of Meriden. It is said she is looking for her dog and the people who killed her.
+location: East Side of Town
+state: Connecticut
+state_abbrev: CT
+longitude: -72.7783439
+latitude: 41.5075945
+city_longitude: -72.80704349999999
+city_latitude: 41.5381535
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1966/02/25
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

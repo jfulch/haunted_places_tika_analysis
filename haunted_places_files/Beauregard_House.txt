@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: The Beauregard-Keyes house is known to be haunted more by Paul Munni, who was a world-class chess master, who went insane. As a matter of fact, Charles Dickenson said that Thomas Jefferson, and Paul Munni were the only two geniuses that America ever produced. In a fit of mania, Munni ran, in the nude, down Ursaline with an axe, looking to kill anyone unfortunate enough to cross his path. When not playing chess, he liked to play the piano. It is the piano, and his screaming that can be heard at night. The Beauregard-Keyes house is also the sight of a mafia massacre. It's said that in the garden, you can smell gunpowder, and sometimes you can hear shots in the garden.
+location: Beauregard House
+state: Louisiana
+state_abbrev: LA
+longitude: -90.060878
+latitude: 29.960991
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1818/05/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

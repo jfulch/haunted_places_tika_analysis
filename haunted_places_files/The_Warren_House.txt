@@ -1,0 +1,21 @@
+city: Jonesboro
+country: United States
+description: The Warren House was used as a hospital during the Civil War. While at the house many soldiers carved their names in the wall. At night a figure of a soldier can be seen holding a candle and looking out the window. There have been several reports of this. There is supposedly a bloodstain still on the floor in the attic. The confederate cemetery across the street is said to be haunted as well.
+location: The Warren House
+state: Georgia
+state_abbrev: GA
+longitude: -84.3534417
+latitude: 33.5336685
+city_longitude: -84.3538128
+city_latitude: 33.5215013
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

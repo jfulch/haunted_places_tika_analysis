@@ -1,0 +1,20 @@
+city: East Granby
+country: United States
+description: It was originally a copper mine in the 1700s. It became a prison to hold Tories and loyalists in the Revolutionary war. It also held confederates in the civil war and is now a tourist attraction. In one area in the mine, a man's face is seen in the rock because the ceiling collapsed on top of him. The last man to be killed there was trying to escape through the well by climbing up the rope. On his way up, the rope snapped. He was either killed by impact or drowning.
+location: Old Newgate Prison
+state: Connecticut
+state_abbrev: CT
+longitude: -72.7451286
+latitude: 41.9619733
+city_longitude: -72.7273158
+city_latitude: 41.9412081
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/07/10
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Boise
+country: United States
+description: Reports of children buried in the cemetery roaming around the area. Also the ghost of a woman has been seen in the cemetery and in the school near the cemetery.
+location: Cottonwood cemetery
+state: Idaho
+state_abbrev: ID
+longitude: -116.1790144
+latitude: 43.62359379999999
+city_longitude: -116.2146068
+city_latitude: 43.6187102
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

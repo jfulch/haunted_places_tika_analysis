@@ -1,0 +1,21 @@
+city: Point Pleasant
+country: United States
+description: A monster or demon known as "the Bird-Man" or "the Moth-Man" has been spotted at various times by numerous people in this small town, usually in the vicinity of a former TNT dump along the Ohio River, once maintained by the federal government.  It has also been seen along roads around Point Pleasant.  It is described as a man with large wings; some witnesses have also said that it had horns and a tail, and big vicious teeth.  Strangely, it is usually sighted several times in rapid succession, then followed by some sort of catastrophe.  For example, it was sighted before devastating floods, and before the collapse of a traffic-laden bridge crossing the Ohio River.  Some say the creature is the manifestation of a curse placed on the town by a Native American chief who was tortured to death in Point Pleasant by British troops during the French and Indian War.
+location: Former munitions dump
+state: West Virginia
+state_abbrev: WV
+longitude: -82.0761215
+latitude: 38.9296107
+city_longitude: -82.1370889
+city_latitude: 38.8445251
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Woodward
+country: United States
+description: This coffee house was originally a doctor's office in the 1930s. People have reported many ghostly occurrences such as footsteps, eerie voices, and knocking on the walls every night past eleven. There are even documented photos of the sprits.
+location: Leos Coffeehouse
+state: Oklahoma
+state_abbrev: OK
+longitude: -99.3930187
+latitude: 36.4341082
+city_longitude: -99.3903862
+city_latitude: 36.4336481
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

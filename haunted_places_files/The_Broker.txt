@@ -1,0 +1,19 @@
+city: Riverton
+country: United States
+description: A female ghost haunts The Broker's second floor. She has also been seen out of a few other windows on that block. Anyway...she has been seen from time to time sitting in the window sills looking down on the people so sad and lonely.
+location: The Broker
+state: Wyoming
+state_abbrev: WY
+longitude: -108.405082
+latitude: 43.024852
+city_longitude: -108.3801036
+city_latitude: 43.0249592
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

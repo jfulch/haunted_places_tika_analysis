@@ -1,0 +1,21 @@
+city: Skiatook/Tulsa
+country: United States
+description: These lights always seem to appear. Some times they are there and very bright, and some times they are not there at all.
+location: highway 75
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.9208049
+latitude: 36.3686928
+city_longitude: -96.0013847
+city_latitude: 36.3684245
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

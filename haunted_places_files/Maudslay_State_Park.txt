@@ -1,0 +1,21 @@
+city: Newburyport
+country: United States
+description: known to have had hauntings for many years.
+location: Maudslay State Park
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9221584
+latitude: 42.82249840000001
+city_longitude: -70.87727509999999
+city_latitude: 42.8125913
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

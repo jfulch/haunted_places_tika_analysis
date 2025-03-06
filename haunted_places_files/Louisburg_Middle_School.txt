@@ -1,0 +1,21 @@
+city: Louisburg
+country: United States
+description: A young boy who attended the school years back had committed suicide due to being bullied. It is said that he roams the halls late in the night in search of revenge.
+location: Louisburg Middle School
+state: Kansas
+state_abbrev: KS
+longitude: -94.669091
+latitude: 38.6197513
+city_longitude: -94.6807903
+city_latitude: 38.6194564
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 0

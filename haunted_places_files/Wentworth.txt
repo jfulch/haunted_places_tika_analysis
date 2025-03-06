@@ -1,0 +1,21 @@
+city: Eden
+country: United States
+description: Blue Berry Hill Plantation - At the cemetery at the plantation strange sounds can be heard, and host figures can be seen walking around. most are ghosts of African slaves from around the civil war time. Even the bravest of men wont go around the cemetery at night. The railroad track down the road is also haunted. People who drive across these late at night see strange lights and apparitions. The plantation house is also said to be haunted by a lady in white.
+location: Wentworth
+state: North Carolina
+state_abbrev: NC
+longitude: -79.7508072
+latitude: 36.3918432
+city_longitude: -79.7667026
+city_latitude: 36.4884715
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

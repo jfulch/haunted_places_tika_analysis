@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: The laredo national bank is haunted because three years ago there was a robbery and the 51 year old manager got shot know it is said that you could hear his foot steps roaming around. in one case an officer  claimed he heard footsteps and cashiers opening by themselves. to this day it is said to be haunted.
+location: Laredo national bank
+state: Texas
+state_abbrev: TX
+longitude: -99.4746547
+latitude: 27.5741424
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

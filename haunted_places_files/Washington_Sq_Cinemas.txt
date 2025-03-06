@@ -1,0 +1,21 @@
+city: Tigard
+country: United States
+description: There is a ghost known to whistle, produce light, start movies in the middle of the night, and push his image through the movie screen. The theater has an ominous presence and you can feel your hair rising from your skin.- March 2008 Update: Shut down many years ago. It has sat empty for years now. During the summer, the parking lot is now used for the Tigard Farmers Market.
+location: Washington Sq. Cinemas
+state: Oregon
+state_abbrev: OR
+longitude: -122.752993
+latitude: 45.436328
+city_longitude: -122.7714861
+city_latitude: 45.4312294
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

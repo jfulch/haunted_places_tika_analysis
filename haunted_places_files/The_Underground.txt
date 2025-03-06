@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: This bar is next door to a building that once housed a mortuary. Reportedly, during major epidemics and the like, bodies were stored in the basement of what is now The Underground, in the back bar area known as 'The Pit'. Several employees have reported things being thrown about and broken in a locked storage area when nobody is down there. Numerous pictures taken there have shown orbs of varying sizes and degrees of brightness. There are also reports of a female ghost that haunts the elevator and hallways in the upper stories of the building, which house offices.
+location: The Underground
+state: Colorado
+state_abbrev: CO
+longitude: -104.8229839
+latitude: 38.8354621
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

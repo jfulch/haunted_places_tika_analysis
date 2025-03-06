@@ -1,0 +1,21 @@
+city: Staten Island
+country: United States
+description: In Wolfe's pond park in prince's bay Staten island, if you enter the park through a path next to the prince's bay train station and follow the paths down you will come across a small 20 ft. cliff. At the bottom is a large pond. If you stand on the banks of the pond on a spot that has an upside down car in the water. At that spot in the 1970's a car with two teenagers inside mistakenly drove off that 20 ft drop and overturned. Their bodies were not found for two weeks. You are known to experience cold sensations or visions of a phantom car rolling and overturning in the lake. IN the 1970's and 80's several children were abducted, raped and murdered in these woods. Several people have reported hearing disembodied screams and crying, Some have even said they've seen little children walking on the path crying searching for their parents or possibly their killer.
+location: Wolfe's Pond Park
+state: New York
+state_abbrev: NY
+longitude: -74.19393529999999
+latitude: 40.5228688
+city_longitude: -74.1502007
+city_latitude: 40.5795317
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1909/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

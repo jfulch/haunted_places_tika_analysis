@@ -1,0 +1,21 @@
+city: Los Gatos
+country: United States
+description: On Old Santa Cruz highway, going toward Los Gatos, a young woman of about 17 or 18 roams around. She can be seen sitting on the side of the road, or walking at twilight.
+location: The summit of the Santa Cruz Mountains
+state: California
+state_abbrev: CA
+longitude: -121.9793564
+latitude: 37.130591
+city_longitude: -121.9623751
+city_latitude: 37.2358078
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Horace
+country: United States
+description: Several people have heard footsteps or seen ghostly figures at night.
+location: Horace Elementary
+state: North Dakota
+state_abbrev: ND
+longitude: -96.9051099
+latitude: 46.7637806
+city_longitude: -96.9036971
+city_latitude: 46.7588553
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

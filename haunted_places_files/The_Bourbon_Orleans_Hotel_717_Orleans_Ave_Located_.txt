@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: Confederate Soldiers have been seen walking down halls cold spots in the ballroom. There is guestroom that people hear a little girl crying, when employees go in there is nobody there. Then of course there is basic stuff, Hotel guests that feel a presence at the end of their beds, upon turning on lights the sheets are rumpled as if someone were just sitting there.
+location: The Bourbon Orleans Hotel 717 Orleans Ave (Located in the Vieux Carre')
+state: Louisiana
+state_abbrev: LA
+longitude: -90.06480409999999
+latitude: 29.9590225
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1861/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

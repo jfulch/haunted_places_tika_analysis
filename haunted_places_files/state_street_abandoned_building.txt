@@ -1,0 +1,21 @@
+city: East St. Louis
+country: United States
+description: rep`rts of hearing a faint scream. A figure that looked like a woman appeared from nowhere with its hand reaching out.
+location: state street abandoned building
+state: Illinois
+state_abbrev: IL
+longitude: -90.150151
+latitude: 38.624754
+city_longitude: -90.1506465
+city_latitude: 38.624514
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

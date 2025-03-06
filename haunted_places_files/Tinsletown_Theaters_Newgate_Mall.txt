@@ -1,0 +1,21 @@
+city: Ogden
+country: United States
+description: Several people have committed suicide that had worked for the previous theater company before Tinseltown bought the location. In the concession area and old theater section, management, employees, and movie goers have seen two black shadows, moving chairs, heard growls and other unexplained activity. Many times the projection room doors lock and the people inside working the projectors can't get out.
+location: Tinsletown Theaters Newgate Mall
+state: Utah
+state_abbrev: UT
+longitude: -111.9831028
+latitude: 41.1947725
+city_longitude: -111.9738304
+city_latitude: 41.223
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

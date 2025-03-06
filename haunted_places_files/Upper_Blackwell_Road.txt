@@ -1,0 +1,20 @@
+city: Blackwell -formerly listed in Bonne Terre
+country: United States
+description: Many people think this road is evil. There is a restaurant located on this road where Satanism is believed to be practiced. Disappearances have frequently occurred here. On a bridge named Black Tram, legend states that if you drive across it and flash your lights three times, a ghost car will chase you away. There is also a sign that vanishes into thin air as you drive past it and even a ghostly couple who tries to flag down cars. Whenever a car slows down however, the couple vanishes.
+location: Upper Blackwell Road
+state: Missouri
+state_abbrev: MO
+longitude: -90.539077
+latitude: 37.920602
+city_longitude: -90.539077
+city_latitude: 37.920602
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

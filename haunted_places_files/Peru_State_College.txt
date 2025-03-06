@@ -1,0 +1,21 @@
+city: Peru
+country: United States
+description: Morgan Hall - The dormitory called Morgan Hall is haunted by Eliza Morgan, whom the dorm is named after. Eliza once lived in the House that is the center of Morgan and she died in the basement and still resides there. Delzell, the male dormitory, is also haunted in the basement although by whom I am not sure. The most haunted place on campus is the College Theater, again I am not sure who haunts it.
+location: Peru State College
+state: Nebraska
+state_abbrev: NE
+longitude: -95.7321485
+latitude: 40.4747647
+city_longitude: -95.7336054
+city_latitude: 40.4741686
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1867/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

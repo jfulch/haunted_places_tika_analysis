@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: a cocktail waitress on the graveyard shift at Caesars reports that in the bathrooms down the escalator in the Forum Casino, the sensory water faucets turn on and off of their own volition. If you try to put your hands under a already running faucet it will turn off. She saw the faucets turn on and off many times with her being the only one in the room.
+location: Caesars Palace Hotel Casino
+state: Nevada
+state_abbrev: NV
+longitude: -115.174499
+latitude: 36.1161685
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

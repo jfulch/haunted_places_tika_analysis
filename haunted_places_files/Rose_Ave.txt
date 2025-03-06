@@ -1,0 +1,21 @@
+city: Oxnard
+country: United States
+description: Passing Central Avenue - This road is said to be haunted by a female who was killed in a car accident. Many years ago a drunk driver hit and killed a female as she was walking down the road, dragged her body with his car hood and hit a tree, cutting her in half. It is said she asks for rides and as soon as you past her up she's in your back seat.
+location: Rose Ave
+state: California
+state_abbrev: CA
+longitude: -119.1527354
+latitude: 34.2377794
+city_longitude: -119.1770516
+city_latitude: 34.1975048
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1887/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

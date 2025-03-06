@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: This place is known to be extremly haunted.sounds can be heard inside and even outside of this building of people talking.Around toward the ambulance area you get a strong sense of fear.There is also a light that remains on even though there is no electricity in the building.
+location: Fort Sam Houston Old B.A.M.C.
+state: Texas
+state_abbrev: TX
+longitude: -98.4494594
+latitude: 29.4662651
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

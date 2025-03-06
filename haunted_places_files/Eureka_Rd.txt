@@ -1,0 +1,21 @@
+city: Rockport
+country: United States
+description: Reports of different residents hearing men having a conversation and a spectral train when there is none on the tracks, while lying in bed. They have also, heard a man calling their name and the televisions turn themselves on and off. Children have also complained about toys moving across the floor and seeing horses running through the upstairs.
+location: Eureka Rd
+state: Indiana
+state_abbrev: IN
+longitude: -87.0577874
+latitude: 37.8797191
+city_longitude: -87.0494408
+city_latitude: 37.8831055
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: The 10th floor believed to be haunted by the spirit of U.S. District Judge Woodrow Seals, who died after surgery in October 1990. The judge's former chambers are said to always be colder than the rest of the floor and the smell of smoke from his cigars still lingers in the air late at night. Janitors and security guards report being touched and hearing voices and doors rattling when no one else is around.
+location: Federal Court Building 515 Rusk
+state: Texas
+state_abbrev: TX
+longitude: -95.3674576
+latitude: 29.7611259
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

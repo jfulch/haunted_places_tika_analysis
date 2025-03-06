@@ -1,0 +1,20 @@
+city: Milan
+country: United States
+description: People have heard strange noises and mysterious music. They have also seen angel like figures. One little boy said, "Who's that pretty lady?" When there was no one there.
+location: Thomas Edison Birthplace Museum
+state: Ohio
+state_abbrev: OH
+longitude: -82.6045221
+latitude: 41.3000479
+city_longitude: -82.6054547
+city_latitude: 41.29755189999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

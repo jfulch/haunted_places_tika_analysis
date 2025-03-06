@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: it is said to be haunted because there was a cemetery where the school is. the people who were in charge of the cemetery only took the head stones and not the bodies! At night you can here the sound of wielding, or see shadows in the school gym.
+location: Martin High School
+state: Texas
+state_abbrev: TX
+longitude: -99.505444
+latitude: 27.5177042
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

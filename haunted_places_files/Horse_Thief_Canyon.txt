@@ -1,0 +1,20 @@
+city: Grand Junction
+country: United States
+description: Horse Thief Canyon is located west of Grand Junction and connected to the Colorado National Monument. In the 19th century, horse thieves would bring their latest herd of horses here and hide them for a while. One night the sheriff surrounded the area and shat the thieves along with some of the horses. The spirit that haunts this place seems to be unrelated to the canyon's history. On certain nights a woman in a white dress has been spotted walking from canyon wall to canyon wall. Her background is unknown, but others have claimed to see her walking the banks of the Colorado River.
+location: Horse Thief Canyon
+state: Colorado
+state_abbrev: CO
+longitude: -108.755942
+latitude: 39.1414647
+city_longitude: -108.5506486
+city_latitude: 39.0638705
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Sheridan
+country: United States
+description: A maid that was with the motel when it was first built by William F. Cody is said to have her ashes cremated in her room that was her home until she died. Her original furniture is also in her room and if you go to visit you may see her rocking in her old rocking chair.
+location: Sheridan Inn
+state: Wyoming
+state_abbrev: WY
+longitude: -106.9539187
+latitude: 44.8064768
+city_longitude: -106.9561791
+city_latitude: 44.7971939
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

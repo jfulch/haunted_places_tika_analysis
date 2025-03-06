@@ -1,0 +1,21 @@
+city: Pittsford
+country: United States
+description: Cold evil presence when visiting graves, the sign out front changes it saying, people there are not at rest.
+location: cemetery on Burt road
+state: Michigan
+state_abbrev: MI
+longitude: -84.4196757
+latitude: 41.8858433
+city_longitude: -84.41726659999999
+city_latitude: 41.8437355
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

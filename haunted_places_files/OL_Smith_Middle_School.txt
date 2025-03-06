@@ -1,0 +1,21 @@
+city: Dearborn
+country: United States
+description: Cold spots felt. One of the most recent encounters was in one of the seventh grade classrooms. The teacher left the room to copy some papers. Right after he left, the door connecting to of the rooms together flew open. When some of the students checked, no one could've gotten into that room. They sat back down, and again, the door moved a little. Right after, the students heard faint whispering.
+location: O.L. Smith Middle School
+state: Michigan
+state_abbrev: MI
+longitude: -83.2683124
+latitude: 42.2879006
+city_longitude: -83.17631449999999
+city_latitude: 42.3222599
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

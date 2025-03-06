@@ -1,0 +1,21 @@
+city: Bowler
+country: United States
+description: There has been said and heard of small children running up and down the hall of the high school. The high school kids have had unexplainable experiences, with lockers opening and closing, books flying, and cries of small children.
+location: Bowler high school and middle school
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.98234289999999
+latitude: 44.8565735
+city_longitude: -88.9820527
+city_latitude: 44.8630295
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

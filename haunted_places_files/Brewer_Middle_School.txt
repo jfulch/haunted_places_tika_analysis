@@ -1,0 +1,20 @@
+city: Greenwood
+country: United States
+description: Supposedly a cheerleader was killed under the gym stage after a game by a football player. She now haunts down there near the furnace.
+location: Brewer Middle School
+state: South Carolina
+state_abbrev: SC
+longitude: -82.10835469999999
+latitude: 34.2120049
+city_longitude: -82.1617883
+city_latitude: 34.1954001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

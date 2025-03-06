@@ -1,0 +1,20 @@
+city: Murrells Inlet
+country: United States
+description: Alice’s grave - the hermitage is not an inn.  it is Alice’s house.  When Alice was young, she was engaged to a guy but her brother didn’t approve.  When she got sick, he threw her ring into the marsh.  Then she died.  If you go to her grave, which is just a flat stone, flush with the ground, with just her name "Alice" on it, walk around (possibly 8 times, your ring will feel a pull on it.
+location: Hermitage
+state: South Carolina
+state_abbrev: SC
+longitude: -79.0301934
+latitude: 33.5615491
+city_longitude: -79.0414261
+city_latitude: 33.5510021
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

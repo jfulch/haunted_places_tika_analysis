@@ -1,0 +1,19 @@
+city: Kankakee County
+country: United States
+description: It has been said that there is a train track in the city of Kankakee where a bus full of children were hit by a train. Now, when you pass over the train tracks at night, you can hear children laughing. A few have even been brave enough to stop their cars on the tracks and turn the car off, and they will hear the sounds of a train coming, and their car will slowly move from the tracks as though someone were pushing it to safety. Some who have tried this have sworn that there were small handprints on their cars afterward.
+location: Haunted Railroad Tracks
+state: Illinois
+state_abbrev: IL
+city_longitude: -87.77633329999999
+city_latitude: 41.1790977
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: West Springfield
+country: United States
+description: Restaurant haunted by the ghost of the original owner Vincent. Some people have reported strange happenings with the electrical equipment and lighting as well as strange odors in certain areas of the building.
+location: Vincent's Steakhouse  Piccadilly Pub
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.6286472
+latitude: 42.1455884
+city_longitude: -72.6203675
+city_latitude: 42.1070383
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1507/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

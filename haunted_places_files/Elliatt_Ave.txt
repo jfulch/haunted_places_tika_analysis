@@ -1,0 +1,19 @@
+city: Seattle
+country: United States
+description: An apartment building that's located right off Elliott Avenue. Have seen someone walking through the hallways of the apartment building, but it disappears without any of the doors being opened.
+location: Elliatt Ave.
+state: Washington
+state_abbrev: WA
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/08/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

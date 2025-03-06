@@ -1,0 +1,19 @@
+city: Dexter
+country: United States
+description: There is a small cemetery near an apple orchard about a mile from town on Huron River Dr. There are only a few gravestones, but there is a particular tree that is said to grow over the grave of a warlock. The tree has thorns growing on it although it isn't the type of tree to naturally grow thorns. People say that if you lie on the ground in front of the tree you can see a shadow come at you and pass through you into the ground.
+location: Warlock Willie's
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.8885552
+city_latitude: 42.33836970000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lincoln Park
+country: United States
+description: The park is filled with drunk bums and well one day some teenagers saw a bum that was drunk and was walking around saying he was tired. Well then the kids thought it would be funny to see what the bum would do. They kept telling him to do odd things. They told him to stand on the concrete wall that was against the water and walk to the beer well one of the teens bumped him and he fell in drowning. Now if you go at 10:30p.m (the time it happened) you can see the bum walking on the concrete wall.
+location: Council Point Park
+state: Michigan
+state_abbrev: MI
+longitude: -83.1615501
+latitude: 42.2350392
+city_longitude: -83.1785361
+city_latitude: 42.2505943
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

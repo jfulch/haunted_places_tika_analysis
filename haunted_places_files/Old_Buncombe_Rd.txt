@@ -1,0 +1,20 @@
+city: Newberry
+country: United States
+description: This road contains an old church graveyard where it is said the Ghost Hound of Goshen is supposed to be. A couple went to the graveyard and on the right side the wind was not blowing, then you walk past a big old oak tree in the center of the graveyard, the wind nearly knocked the wife down. According to legend the dog belonged to a drifter that was wrongly accused of murder and hanged. They were not able to locate his grave, probably they did not bury him in the confines of the cemetery. The ghost dog doesn't appear to everybody, they have been out there all times of the day and even around midnight and have seen nothing.
+location: Old Buncombe Rd.
+state: South Carolina
+state_abbrev: SC
+longitude: -81.63573749999999
+latitude: 34.5571389
+city_longitude: -81.6187178
+city_latitude: 34.2745833
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

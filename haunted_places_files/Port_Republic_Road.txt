@@ -1,0 +1,21 @@
+city: Harrisonburg
+country: United States
+description: Just off Port Republic Road sets General Turner Ashby's grave across the road from Deer Run Apartments, a misty foggy after 12am has been reported.
+location: Port Republic Road
+state: Virginia
+state_abbrev: VA
+longitude: -78.8549922
+latitude: 38.3904346
+city_longitude: -78.8689155
+city_latitude: 38.4495688
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Accident
+witness_count: 1

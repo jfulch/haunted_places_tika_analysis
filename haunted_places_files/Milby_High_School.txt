@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: People report to have seen a janitor walk in the second floor hall. Student hear footstep down the hall and door slam shut. In the library people claim to see a ghostly figured of a librarian
+location: Milby High School
+state: Texas
+state_abbrev: TX
+longitude: -95.2774671
+latitude: 29.7107917
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

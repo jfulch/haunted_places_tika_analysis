@@ -1,0 +1,21 @@
+city: Grand Prairie
+country: United States
+description: Believed to be haunted by victims of a fire. Strange presence felt, electrical malfunctions that could not be explained, strange noises Like Bells & someone screaming, the motion detectors would go off and there wouldn't be any one in the building but a few staff members.
+location: Palace of Wax and Ripley's believe it or not.
+state: Texas
+state_abbrev: TX
+longitude: -97.0037022
+latitude: 32.7605037
+city_longitude: -96.9977846
+city_latitude: 32.7459645
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

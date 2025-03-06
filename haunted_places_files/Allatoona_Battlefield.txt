@@ -1,0 +1,21 @@
+city: Acworth
+country: United States
+description: Gunshots, voices, strange orbs of light, ghost train. Orbs of light by old grave of unknown Confederate soldier have been reported. Temperature drops about 10 degrees in old train bed. Also gunpowder can be smelled.
+location: Allatoona Battlefield
+state: Georgia
+state_abbrev: GA
+longitude: -84.71477139999999
+latitude: 34.1134923
+city_longitude: -84.6768796
+city_latitude: 34.0659329
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

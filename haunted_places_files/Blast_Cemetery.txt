@@ -1,0 +1,20 @@
+city: Gaffney
+country: United States
+description: During clear nights, about at midnight, you can hear gunshots and cannons going off. You can't see it but you can hear it, look back out in a few minutes and there will be people fighting and screaming. If you talk, jump, or run there will be people with red eyes, bloody teeth, and voice that says, "you are a killer, you must die." There have been many sightings of this encounter, many have been severely injured, some, however have disappeared. Do not stop near this place, there will be severe consequences!
+location: Blast Cemetery
+state: South Carolina
+state_abbrev: SC
+longitude: -81.694114
+latitude: 35.107328
+city_longitude: -81.64981949999999
+city_latitude: 35.0717945
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

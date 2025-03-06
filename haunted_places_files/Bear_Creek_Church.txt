@@ -1,0 +1,21 @@
+city: Columbia
+country: United States
+description: no known denomination. It has two stories, but only the first is accessible. The windows are painted blood red, even on the 2nd floor. Now abandoned, the place is still heavily guarded by pure evil, evident through spectral photos.
+location: Bear Creek Church
+state: Tennessee
+state_abbrev: TN
+longitude: -86.93194799999999
+latitude: 35.4231307
+city_longitude: -87.0352831
+city_latitude: 35.6150716
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.666666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

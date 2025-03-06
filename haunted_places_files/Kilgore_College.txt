@@ -1,0 +1,21 @@
+city: Kilgore
+country: United States
+description: Several years ago, a girl committed suicide on the eighth floor of Stark Hall, which was the girls' dorm at that time. The college closed that floor for several years after the fact because people complained about strange noises, footprints on their bed, extremely cold spots, and the feeling of being watched. The floor has been reopened ever since the dorm was remodeled. The residents of the eighth floor still complain however of strange happenings, such as knocking and scratching on the walls along with cold spots.
+location: Kilgore College
+state: Texas
+state_abbrev: TX
+longitude: -94.8719078
+latitude: 32.3777399
+city_longitude: -94.8757709
+city_latitude: 32.3862619
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

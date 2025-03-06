@@ -1,0 +1,21 @@
+city: Clarence
+country: United States
+description: in the early morning hours of spring and fall driving down this old carriage road you can feel a presence of old world culture. If on the right night one can make out a man standing roadside holding a lantern, and two feet on the right or left you can see a young girl waiting with the man for something. Warning: Rumors of a kid beaten pretty badly, please do not stop, it may not be safe.
+location: Delaware Rd
+state: New York
+state_abbrev: NY
+longitude: -78.62154319999999
+latitude: 43.0580614
+city_longitude: -78.5770812
+city_latitude: 42.982216
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

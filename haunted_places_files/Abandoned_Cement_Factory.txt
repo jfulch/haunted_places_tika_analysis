@@ -1,0 +1,19 @@
+city: Staten Island
+country: United States
+description: On one occasion it was reported that disembodied footsteps and screams were heard inside of the factory. Reports of a loud growl, voices, and footsteps and on one occasion, the entire facility shook violently. On the second floor, a chair that was placed in the corner, when the witness turned around to walk out of the room, their partner yelled that the chair was now at a desk in the center of the room.
+location: Abandoned Cement Factory
+state: New York
+state_abbrev: NY
+city_longitude: -74.1502007
+city_latitude: 40.5795317
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

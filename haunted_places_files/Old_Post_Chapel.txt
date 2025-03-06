@@ -1,0 +1,21 @@
+city: Fort Myer
+country: United States
+description: This is a military chapel used for funeral services since the 1930's at Arlington National Cemetery.  Soldiers have reported hearing voices, footsteps and also previously locked doors opening and closing by themselves.  Also there have been reports of soldiers finding all the cabinets and drawers in certain rooms being found open to perfect ninety-degree angels, when it was impossible for anyone to have been in those rooms.  Finally, there have been sightings of a figure sitting in the bridal room, previously used as a mourning room for grieving families.
+location: Old Post Chapel
+state: Virginia
+state_abbrev: VA
+longitude: -77.078876
+latitude: 38.880711
+city_longitude: -77.0810889
+city_latitude: 38.883541
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

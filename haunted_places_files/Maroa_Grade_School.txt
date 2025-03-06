@@ -1,0 +1,21 @@
+city: Maroa
+country: United States
+description: In the old Maroa grade school there have been reports by custodians late at night of a little boy that can be seen in the boiler room. He is said to be wearing very old style clothing like 1940,s. The School is very old, it was possibly built in the late 1930's to early 1940's. Others have seen the little boy through the 3rd floor windows. The creepy thing is that if you look at the old class photos hanging in the hall dated back from the very first class there is a missing photo of a child. The rumor is that the boy possibly contracted an illness and died, thus his photo was not taken, but he makes himself seen anyway.
+location: Maroa Grade School
+state: Illinois
+state_abbrev: IL
+longitude: -88.942516
+latitude: 39.9342201
+city_longitude: -88.957026
+city_latitude: 40.0364257
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

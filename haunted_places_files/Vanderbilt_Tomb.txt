@@ -1,0 +1,21 @@
+city: Staten Island
+country: United States
+description: (Moravian Cemetery-Richmond Rd)- Photos taken of people at the tomb either have additional (unknown) persons present when developed, or just the tomb appears with no image of the people who posed.
+location: Vanderbilt Tomb
+state: New York
+state_abbrev: NY
+longitude: -74.1215917
+latitude: 40.5842703
+city_longitude: -74.1502007
+city_latitude: 40.5795317
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1740/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

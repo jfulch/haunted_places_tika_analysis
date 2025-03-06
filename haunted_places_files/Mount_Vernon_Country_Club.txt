@@ -1,0 +1,20 @@
+city: Genesee
+country: United States
+description: Several hauntings have been reported. On Mondays, the restaurant is closed, but often a manager comes in to run invoices and such. The sound of feet walking across the floor were heard, in the lobby. When asked "who's there?" a straw flew from an empty glass sitting on a shelf behind him, and landed on paperwork he was working on. He left for the rest of the day. The next morning, the receptionist came in early and began to check messages. The telephone's 'auto-answer' feature was active, so the phone could not ring. As she was checking messages, the telephone, to her surprise, rang. She answered it in her normal fashion, and a scruffy, whispering voice on the other end said to her "tell me what you're wearing". She replied, "excuse me", and the voice again said, "tell me what you're wearing". Immediately, the caller hung up. The receptionist quickly had other workers in the club try to call her extension to see if it would ring, but all attempts were unsuccessful.
+location: Mount Vernon Country Club
+state: Colorado
+state_abbrev: CO
+longitude: -105.2821541
+latitude: 39.7195664
+city_longitude: -105.2727684
+city_latitude: 39.6858211
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

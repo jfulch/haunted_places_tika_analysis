@@ -1,0 +1,21 @@
+city: Victoria
+country: United States
+description: Some have reported things moving all by themselves, lights going on and off, things flying through mid air, and temperature drops and chills once in these houses.
+location: Tanglewood Townhouses
+state: Texas
+state_abbrev: TX
+longitude: -96.968316
+latitude: 28.818557
+city_longitude: -97.0035982
+city_latitude: 28.8052674
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

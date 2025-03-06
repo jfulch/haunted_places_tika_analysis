@@ -1,0 +1,21 @@
+city: Swedesboro
+country: United States
+description: Reported sightings of a man on a bike as well as screaming.
+location: Swedesboro Lake
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.307326
+latitude: 39.7434488
+city_longitude: -75.3104654
+city_latitude: 39.7476136
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

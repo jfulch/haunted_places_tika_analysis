@@ -1,0 +1,21 @@
+city: Iron River
+country: United States
+description: cold spots, hear people talking when there is no one there, glass brake when there is no glass to brake. foot steps up stairs doors open & close lights in the house but there hasn't been power in 15 years
+location: Iron Lake
+state: Michigan
+state_abbrev: MI
+longitude: -88.6631876
+latitude: 46.1308488
+city_longitude: -88.6423544
+city_latitude: 46.0927322
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

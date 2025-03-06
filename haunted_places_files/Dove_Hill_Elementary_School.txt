@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: It is said that at night, a boy with a name tag that says "Michael T." appears. He is said to wear regular clothes and seems like a child. But his face is sad to be missing. Just flat skin. Teachers who work late usually say they see him at night walking on the basketball courts. One teacher noted that she approached him to ask him why he was here so late. She ran and called another teacher when this ghost turned around and appeared to have no face. A group of boys have also said that they say lights in the classrooms turn on and off, while they were at the school late at night. There have been no records of any students dying at this school. However, people still talk about this mysterious ghost who hangs out at the basketball courts named, "Michael T."
+location: Dove Hill Elementary School
+state: California
+state_abbrev: CA
+longitude: -121.8101781
+latitude: 37.3007282
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

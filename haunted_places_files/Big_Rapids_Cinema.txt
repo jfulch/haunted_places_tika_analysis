@@ -1,0 +1,21 @@
+city: Big Rapids
+country: United States
+description: Reports of a woman crying for help, cold chills, weird noises and intense feelings when exploring the basement, which was once opened to tunnels that ran underneath the entire town but have since been filled in.
+location: Big Rapids Cinema
+state: Michigan
+state_abbrev: MI
+longitude: -85.4815053
+latitude: 43.6964729
+city_longitude: -85.4836557
+city_latitude: 43.6980782
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

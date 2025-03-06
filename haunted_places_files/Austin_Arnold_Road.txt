@@ -1,0 +1,19 @@
+city: Winslow
+country: United States
+description: This is a road in pike county where an old hermit found out that the coal mine was moving out by where he lived, burned down his crops, destroyed his home, he later laid down a tarp shot his dog and then himself. There is an old building left on the property it might have been a garage. Cold spats and strange fog are accustomed to this spot. - Reprisal: It was mentioned formerly that he killed his family, this was untrue.
+location: Austin Arnold Road
+state: Indiana
+state_abbrev: IN
+city_longitude: -87.21278629999999
+city_latitude: 38.382272
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

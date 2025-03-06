@@ -1,0 +1,21 @@
+city: Flint
+country: United States
+description: the old Cornwall family is said to still walk the place. You can see them in the window of the old office from 3rd street.
+location: Cornwall building
+state: Michigan
+state_abbrev: MI
+longitude: -83.693569
+latitude: 43.012403
+city_longitude: -83.6874562
+city_latitude: 43.0125274
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

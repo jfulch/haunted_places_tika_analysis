@@ -1,0 +1,21 @@
+city: Mount Savage
+country: United States
+description: There is a room in this castle that is haunted in a few ways. If you walk by it you hear scratching noises against the door and if you go in this room the closet door opens and shuts constantly. This castles is 160 years old.
+location: The Old Castle
+state: Maryland
+state_abbrev: MD
+longitude: -78.88252609999999
+latitude: 39.69477190000001
+city_longitude: -78.87974419999999
+city_latitude: 39.6956417
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 0

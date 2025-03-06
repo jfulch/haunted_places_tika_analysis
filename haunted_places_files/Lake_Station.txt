@@ -1,0 +1,21 @@
+city: Hobart
+country: United States
+description: New Chicago - Hobart Township - River Forest Junior and Senior High Schools-  The River Forest Junior and Senior High Schools are connected. Outside of the school there are tennis courts, before they were tennis courts there used to be a pool that was used for gym class. The reason that the tennis courts were built is because a boy drowned in the pool during gym class one day. He is sometimes seen and heard in the High School gym, Junior High multi-purpose Room, High School Cafeteria, and throughout the High School halls. He is usually not seen during school hours. Most of the people who see him have seen him while staying late for after-school activities or games. One lunch lady has actually claimed to having conversations with the boy. When asked about it she replied: "The first time I saw him it frightened me, but now I am not scared, and I know he means no harm. He is just a lost soul stuck on Earth. I was walking out to my car, which was parked near the tennis courts and I saw him standing inside the gate of the tennis court. He was staring at me so I asked him what he was doing there. He told me that he had drowned. I asked him his name and he disappeared. Now, whenever I talk with him he disappears if I ask his name, which I find very odd."
+location: Lake Station
+state: Indiana
+state_abbrev: IN
+longitude: -87.23892459999999
+latitude: 41.5750369
+city_longitude: -87.2550353
+city_latitude: 41.5322592
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/02/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

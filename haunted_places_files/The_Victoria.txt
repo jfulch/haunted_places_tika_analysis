@@ -1,0 +1,21 @@
+city: Anniston
+country: United States
+description: The Victoria was once a beautiful mansion. It's been adapted into a restaurant/hotel. Reports of the piano being played and footsteps in the main part of the building have scared more than a few visitors. Sometimes the glasses hanging in the bar clink, and a woman has been spotted on the upstairs landing.
+location: The Victoria
+state: Alabama
+state_abbrev: AL
+longitude: -85.8277193
+latitude: 33.665503
+city_longitude: -85.8316318
+city_latitude: 33.6598257
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1961/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

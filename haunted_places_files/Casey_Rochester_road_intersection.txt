@@ -1,0 +1,21 @@
+city: Dryden
+country: United States
+description: Back in the 70,s a serious car accident took place there on this corner which took the life of a few boys from the town. It is said that on stormy nights the boys could be heard screaming for help. The house that was located there at the time was also believed to be the persons that called for help for them often heard the boys crying out at night. and sometimes brakes could be heard screeching and the awful sound of the car hitting the tree. The house had lots of strange happenings and ghosts seemed always around. At night if you walk down Casey road past the cemetery you get an awful feeling that you are being followed and if you turn around quickly you can catch a glimpse of something behind you.
+location: Casey / Rochester road intersection
+state: Michigan
+state_abbrev: MI
+longitude: -83.1437021
+latitude: 42.9239416
+city_longitude: -83.12382649999999
+city_latitude: 42.9461395
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

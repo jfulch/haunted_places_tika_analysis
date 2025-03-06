@@ -1,0 +1,21 @@
+city: Westville
+country: United States
+description: Along River Drive there have been sightings of a ghost of a young woman in a night gown. She has been seen floating at about the second story level along River Drive. There is mention of a second spirt. this spirit sometimes looks like a fish or mermaid of some sort .Tributes to her are found on one of the bridges crossing the Big Timber Creek. Timber Creek runs next to River Drive, and the sightings have increased lately as there is a lot of digging taking place right now. It was an area of an amusement park a long time ago. Maybe the spirit is upset with the area being disturbed.
+location: river drive
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.1299725
+latitude: 39.8756294
+city_longitude: -75.1315649
+city_latitude: 39.8678912
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1898/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

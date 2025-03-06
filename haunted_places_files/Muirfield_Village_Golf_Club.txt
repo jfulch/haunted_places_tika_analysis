@@ -1,0 +1,20 @@
+city: Dublin
+country: United States
+description: 1976 - Was the start of the Memorial Tournament Jack Nicklaus - built the golf course on an Indian burial or sacred grounds. The legend has it - Chief Leatherlips makes it rain every year on Tournament. In 24 years it has been affected by rain 14 times. Twice it has been shortened to 54 holes. One year they move the tournament a week a head. It still rained.
+location: Muirfield Village Golf Club
+state: Ohio
+state_abbrev: OH
+longitude: -83.140923
+latitude: 40.1404806
+city_longitude: -83.1140771
+city_latitude: 40.0992294
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

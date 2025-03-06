@@ -1,0 +1,21 @@
+city: Arlington
+country: United States
+description: In the upstairs floor of the gym building that is condemned you can see a class walking up there. They are wearing older fashions though.
+location: Old Presidents Elementary
+state: Washington
+state_abbrev: WA
+longitude: -122.1202898
+latitude: 48.1954732
+city_longitude: -122.1251418
+city_latitude: 48.1987118
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1949/01/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

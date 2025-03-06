@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: The Point Hiton - The main ballroom is haunted by a drunken man who, when at a wedding reception some twenty years ago, reportedly walked up to the cliffs right behind the ballroom, and fell head first. As told by a couple of security guards there, he haunts the boiler room, and no one is allowed down there after midnight.
+location: Tapatio Cliffs
+state: Arizona
+state_abbrev: AZ
+longitude: -112.063949
+latitude: 33.594613
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2006/09/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

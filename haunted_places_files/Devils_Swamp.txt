@@ -1,0 +1,21 @@
+city: Thibodaux
+country: United States
+description: It is said that if you park your car over the rail road tracks, several things can happen. Car stalling, fogging of windows, handprints on windows, ghosts shaking and banging on your vehicle, and you can hear the sound of the train and see the headlights coming at you. It is said that a number of people were murdered on those tracks and that their ghosts remain to haunt the area.
+location: Devil's Swamp
+state: Louisiana
+state_abbrev: LA
+longitude: -90.8077637
+latitude: 29.75385709999999
+city_longitude: -90.822871
+city_latitude: 29.7957633
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

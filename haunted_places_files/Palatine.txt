@@ -1,0 +1,21 @@
+city: Cook
+country: United States
+description: Fremd High School Pool - In the 1970's a girl drowned in the deep end of the pool. There has been reports of a swim suit floating in the water, and when people go in to retrieve it, the water is freezing cold where the suit is. The lockers in the Girls Locker room are also known to open and close.
+location: Palatine
+state: Illinois
+state_abbrev: IL
+longitude: -88.03424000000001
+latitude: 42.1103041
+city_longitude: -87.697554
+city_latitude: 41.7376587
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

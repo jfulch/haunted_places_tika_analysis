@@ -1,0 +1,21 @@
+city: Peoria
+country: United States
+description: "Players" is supposedly haunted by Normie the friendly ghost. He died on stage during a performance a long time ago. This is possible because Players is the third oldest theatre in the country (I think). Normie has been seen backstage several times and has even helped a few people out with lighting. The toilets have flushed themselves He supposedly likes the women's dressing room too. A painting of him hangs in the bathroom.
+location: Peoria Players Theatre
+state: Illinois
+state_abbrev: IL
+longitude: -89.61155289999999
+latitude: 40.7403112
+city_longitude: -89.5889864
+city_latitude: 40.6936488
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1981/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

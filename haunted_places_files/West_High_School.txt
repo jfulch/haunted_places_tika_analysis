@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: the oldest high school in the state. people have seen shadows in the hallways and in the class rooms. catacombs run under the school to the temple and to the fair grounds reports say. a men’s restroom is bricked up so now one can get it to. i know of at least four students that have committed suicide while at west high. the basement has a cold and dark fleeing to it, its like your being watched
+location: West High School
+state: Utah
+state_abbrev: UT
+longitude: -111.9004459
+latitude: 40.7742989
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1869/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

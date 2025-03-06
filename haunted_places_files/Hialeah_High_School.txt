@@ -1,0 +1,21 @@
+city: Hialeah
+country: United States
+description: The bathroom near the auditorium: A couple of years ago, a freshmen had gone to the bathroom during her 3rd period class. A couple of boys raped her and banged her up so bad that she bled to death in the bath room and no one found out until after school hours when a janitor was went to clean the bathroom. Now, she haunts that bathroom and can not leave until the five boys who raped her die. Students have seen her sitting in the corner of the bathroom, on top of her own blood, rocking front and back chanting "when will they die...".
+location: Hialeah High School
+state: Florida
+state_abbrev: FL
+longitude: -80.27612820000002
+latitude: 25.8657662
+city_longitude: -80.2781057
+city_latitude: 25.8575963
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

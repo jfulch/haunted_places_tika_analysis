@@ -1,0 +1,21 @@
+city: Purdy
+country: United States
+description: One of the oldest cemeteries in West TN. Many apparitions seen and heard at the graveyard during the night.
+location: Purdy Graveyard
+state: Tennessee
+state_abbrev: TN
+longitude: -88.5403662
+latitude: 35.2306489
+city_longitude: -88.530418
+city_latitude: 35.2277569
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

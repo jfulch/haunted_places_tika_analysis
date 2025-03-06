@@ -1,0 +1,21 @@
+city: Jackson
+country: United States
+description: Its that a father and daughter that were killed in the crouch road murder reunite here on nov.21 after dark and before light. Small patches of fog have been seen settling over Jacob crouch's grave
+location: Renolds road cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -84.411047
+latitude: 42.2375
+city_longitude: -84.40134619999999
+city_latitude: 42.245869
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

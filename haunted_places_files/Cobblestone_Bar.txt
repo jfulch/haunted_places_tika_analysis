@@ -1,0 +1,21 @@
+city: East Troy
+country: United States
+description: The cobblestone was originally built to be a hotel. It was constructed in the early 1800's and at one time president Lincoln even stayed there. One day the owners just up and disappeared and were never heard from again. It is said that they still haunt the bar and there have been numerous sightings in all areas of the establishment.
+location: Cobblestone Bar
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.4061775
+latitude: 42.7855123
+city_longitude: -88.40509600000001
+city_latitude: 42.7852922
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

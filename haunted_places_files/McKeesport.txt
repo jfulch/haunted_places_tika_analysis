@@ -1,0 +1,21 @@
+city: Portvue
+country: United States
+description: Spotlight lounge - Many spirits haunt the spotlight lounge in Portvue. There are so many spirits and unusual things that happen. There are a lot of mirrors behind the bar and up on a stage. There are many spirits that can be seen if you look into the mirrors. It is hard to describe them they are there dancing and partying as if they were not dead. You can sit at the bar and here someone walk down the steps open the door walk towards the bathrooms but no one entered. Many ghosts haunt this place. Most of them ones who frequented the place when they where alive.
+location: McKeesport
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.86977069999999
+latitude: 40.3359028
+city_longitude: -79.86977069999999
+city_latitude: 40.3359028
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

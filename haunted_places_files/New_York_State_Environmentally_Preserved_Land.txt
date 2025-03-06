@@ -1,0 +1,19 @@
+city: Wyoming County
+country: United States
+description: This 100 acre woodland, on the northern boundary of Wyoming County, was sectioned off by the state and preserved in its original ecological state. It is now a park, where nothing is built aside for a few dirt roads and horse riding trails. A number of people have reported seeing apparitions of Indians being massacred here. It is also said that once a year during the summer months, residents from the neighboring Indian Reservation will come up to the state lands and disappear into the woods until morning.
+location: New York State Environmentally Preserved Land
+state: New York
+state_abbrev: NY
+city_longitude: -78.2020387
+city_latitude: 42.64205200000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

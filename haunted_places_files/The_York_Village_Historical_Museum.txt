@@ -1,0 +1,21 @@
+city: York
+country: United States
+description: Way back in the Colonial days, this building used to be the town hall for the village of York. The story goes that the village head had a young woman hung front of the building, accused of witchcraft. Doors open on there own, moving items, and cold breezes can be felt. Sometimes, locals (who have named her "The White Which") will see a woman walking around the outside of the building/along the road late at night. Across the street from the museum, there is a day care center. Some children at the center have told people that a "very nice lady in white" sometimes comes over and plays with them during there recess. A nice place to visit, the spirit does not harm anyone.
+location: The York Village Historical Museum
+state: Maine
+state_abbrev: ME
+longitude: -70.65298059999999
+latitude: 43.1443535
+city_longitude: -70.6482581
+city_latitude: 43.16174830000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

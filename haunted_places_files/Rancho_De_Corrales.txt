@@ -1,0 +1,21 @@
+city: Corrales
+country: United States
+description: A sad tale of jealousy and revenge sums up the history of this site. The Emberto family lived here in the late 1800s. In 1898, the son killed his father's mistress. Dad then shot his wife (the boy's mother) for starting the trouble. In all the confusion, Dad himself was shot and killed. It seems the spirits of the Embertos are still going at each other today.
+location: Rancho De Corrales
+state: New Mexico
+state_abbrev: NM
+longitude: -106.6118852
+latitude: 35.2309543
+city_longitude: -106.6066926
+city_latitude: 35.2378197
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1898/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

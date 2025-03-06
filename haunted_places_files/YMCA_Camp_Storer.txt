@@ -1,0 +1,21 @@
+city: Jackson
+country: United States
+description: January 2007: Has been removed.
+location: YMCA Camp Storer
+state: Michigan
+state_abbrev: MI
+longitude: -84.28919739999999
+latitude: 42.1597064
+city_longitude: -84.40134619999999
+city_latitude: 42.245869
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

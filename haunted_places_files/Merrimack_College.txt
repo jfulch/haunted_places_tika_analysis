@@ -1,0 +1,21 @@
+city: North Andover
+country: United States
+description: Ash Hall - There is a mysterious fire ghost who roams Ash Hall. He wears a charred and blackened fireman’s outfit, and often wields an axe. A fire alarm sounds during the night on many occasions sending students outside into the dark night. Here they may catch a glimpse of his darkened figure in various dorms windows, while they listen to the sound of the sirens rushing to the scene to secure the false alarm. Students return to a scent that is often described as being similar to that of a smoldered burnt out campfire and fire traces of ash and soot on doorknobs and handrails, though a single flame is never found.
+location: Merrimack College
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.12257050000001
+latitude: 42.6677049
+city_longitude: -71.1350575
+city_latitude: 42.69870239999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2017/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

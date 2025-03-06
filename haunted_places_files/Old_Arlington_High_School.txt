@@ -1,0 +1,21 @@
+city: Arlington
+country: United States
+description: A man doing maintenance on the auditorium roof fell through and hit his neck on the back of one of the chairs. He broke his neck and died. A cheerleader is also said to have died and they both can be seen at night walking on the top floor of the school. The Maintenance worker can also be seen in the auditorium. There is also said to be a "lost room" underneath the high school. It is probably just a bomb shelter.
+location: Old Arlington High School
+state: Washington
+state_abbrev: WA
+longitude: -122.1161054
+latitude: 48.1672878
+city_longitude: -122.1251418
+city_latitude: 48.1987118
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

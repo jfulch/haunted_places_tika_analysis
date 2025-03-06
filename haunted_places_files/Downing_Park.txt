@@ -1,0 +1,21 @@
+city: Newburgh
+country: United States
+description: A boy who drowned in the lake in the park is said to sit by the lake at night crying, he is also said to make bubbles in the water, as if trying to breathe, and he is said to scream whenever a child get to close to the water.
+location: Downing Park
+state: New York
+state_abbrev: NY
+longitude: -74.0194219
+latitude: 41.506065
+city_longitude: -74.0104178
+city_latitude: 41.5034271
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

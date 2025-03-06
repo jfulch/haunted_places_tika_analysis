@@ -1,0 +1,19 @@
+city: Houlton
+country: United States
+description: Foxcroft cemetery - Stories passed down over the years say that some older folks hooked on canned heat died in this small town after drinking poisonous canned heat, also on Hemore road there is an old green house that sits kitty cornered and has been abandoned since 66, A young woman with 9 children passed away from a misdiagnosed brain aneurysm and feelings of loneliness flood the area, as well as people sighting money flying out the windows only to see nothing at all.
+location: Paddy Holler
+state: Maine
+state_abbrev: ME
+city_longitude: -67.8402316
+city_latitude: 46.1261806
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2006/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

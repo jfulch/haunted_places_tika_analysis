@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: The ghost of an old heavy bald man is seen on the football field. He will show up in the middle of the day and then just disappear into thin air. Some say he is the ghost of an old football coach.
+location: George Washington High School
+state: Colorado
+state_abbrev: CO
+longitude: -104.9142354
+latitude: 39.7054946
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Chowchilla
+country: United States
+description: Reports of ghostly apparitions chasing cars down the dirt road, A woman screaming, children crying or laughing, and a man ghost picking up trash around the graves.
+location: Minturn Cemetery
+state: California
+state_abbrev: CA
+longitude: -120.274638
+latitude: 37.1399
+city_longitude: -120.2601754
+city_latitude: 37.1229997
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

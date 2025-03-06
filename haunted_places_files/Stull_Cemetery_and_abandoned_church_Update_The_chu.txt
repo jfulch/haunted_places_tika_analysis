@@ -1,0 +1,19 @@
+city: Stull
+country: United States
+description: Stull is said to be one of the six gateways to hell. The devil had a child with a local witch. The witch was hung in a tree and the boy was killed. The tree that she was hung from fell over and opened a gateway to hell. Many stories say that a large group of people went out into the cemetery on Halloween and the next day they were found all slaughtered. Witnesses report a demon like creature watching them from the doorway of the abandoned church on the hill of the cemetery. Do not go in the cemetery. Many bad things could happen.
+location: Stull Cemetery and abandoned church- Update: The church has since been torn down
+state: Kansas
+state_abbrev: KS
+city_longitude: -95.455833
+city_latitude: 38.971111
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

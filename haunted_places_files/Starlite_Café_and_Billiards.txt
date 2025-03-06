@@ -1,0 +1,20 @@
+city: Hazelwood
+country: United States
+description: now know as Action Cafe-  Reports of feeling a prcense walk past you, seeing a shaowy figure, seeing red eyes moving through the place, cold spots felt, and an apparition of an older man have all been experienced
+location: Starlite Café and Billiards
+state: Missouri
+state_abbrev: MO
+longitude: -90.356559
+latitude: 38.778943
+city_longitude: -90.3709489
+city_latitude: 38.7714396
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

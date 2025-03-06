@@ -1,0 +1,21 @@
+city: Greensboro
+country: United States
+description: Hobbs House - The Hobbs House is a dorm on the campus of Guilford College, but it used to be a real home. It is said that a long time ago this home belong to the Hobbs and they had a little girl named Mary. Well, one night Mary had a slumber party in the attic (third floor) of her house. After all the girls went to bed some boys decided to play a trick on them. The boys took rocks and wrapped them in paper and then lit them on fire and proceeded to try to throw them into the attic window. The rocks made it into the attic and started a fire. All the girls made it out of the attic in time except for Mary Hobbs. By the time the fire was put out, the third floor of the home was gone and so was Mary. It is said that if you sit in a specific room in the house/dorm you will hear faucets turning on and off and a faint cry from a little girl. You can also hear footsteps going up and down the hallways while she searches for her room.
+location: Guilford College
+state: North Carolina
+state_abbrev: NC
+longitude: -79.88873989999999
+latitude: 36.0917988
+city_longitude: -79.7919754
+city_latitude: 36.0726354
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

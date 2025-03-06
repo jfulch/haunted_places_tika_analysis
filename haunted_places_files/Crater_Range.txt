@@ -1,0 +1,21 @@
+city: Ajo
+country: United States
+description: In the 1950's, a couple was married in Ajo and was driving to Lake Tahoe for their honeymoon. Around midnight, they entered into crater range, which was lined with hills and huge rocks on both sides. Their car crashed into a rock and they were both killed. It is said that if you drive through crater range after midnight you can see their car and the couple off to the side of the road, trying to flag down help.
+location: Crater Range
+state: Arizona
+state_abbrev: AZ
+longitude: -112.9846094
+latitude: 32.6156093
+city_longitude: -112.8607099
+city_latitude: 32.3717248
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Huntington Beach
+country: United States
+description: is said to be haunted by the ghost of Ethel Dwyer, a woman who went to school there as a girl and was then a teacher there as well. When one drives by the school they can often see lights on in various rooms where none should be on and strange, paranormal sounds are sometimes heard coming from the school boiler room.
+location: Ethel Dwyer Middle School
+state: California
+state_abbrev: CA
+longitude: -118.0045647
+latitude: 33.6697033
+city_longitude: -117.9988026
+city_latitude: 33.6594835
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

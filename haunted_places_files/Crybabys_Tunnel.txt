@@ -1,0 +1,18 @@
+city: Chillicothe
+country: United States
+description: A mother and a newborn were crossing a bridge on a train track. While in the middle of the bridge, a train came which led the mother to toss the baby into the creek. The mother died along with the baby. At night you can see the mother's spirit and hear the baby crying.
+location: Crybaby's Tunnel
+state: Ohio
+state_abbrev: OH
+city_longitude: -82.9824019
+city_latitude: 39.3331197
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

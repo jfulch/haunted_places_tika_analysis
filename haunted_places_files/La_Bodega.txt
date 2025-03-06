@@ -1,0 +1,19 @@
+city: Monte Alto
+country: United States
+description: It is said this place has claimed the life of many. There have been many sightings and stories about noises when their is nobody but the people who cleanup. Noises that sound like if the place is in working order. Workers report hearing laughter from rooms that are not in use. People claim to feel chills and see shadows. People dying from accidents, shootings. Don't get caught by yourself you might get surprised.
+location: La Bodega
+state: Texas
+state_abbrev: TX
+city_longitude: -97.9716691
+city_latitude: 26.3731249
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

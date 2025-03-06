@@ -1,0 +1,21 @@
+city: St. Albans City
+country: United States
+description: St. Albans - Reports of being tapped and apparitions seen.
+location: Bellows Free Academy
+state: Vermont
+state_abbrev: VT
+longitude: -73.0828117
+latitude: 44.8080266
+city_longitude: -73.0835582
+city_latitude: 44.8107132
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

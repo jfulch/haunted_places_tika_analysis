@@ -1,0 +1,21 @@
+city: Big Sandy
+country: United States
+description: A conductor fell off of a train, and His head was tore off by the train wheels and He searches on foggy nights and on the death date for his head with a single light that if you walk toward it, It'll stay right there , But you feel nothing at all!
+location: Big Sandy Rail road Junction
+state: Tennessee
+state_abbrev: TN
+longitude: -88.0860275
+latitude: 36.2282401
+city_longitude: -88.08531459999999
+city_latitude: 36.2347791
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1772/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

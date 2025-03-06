@@ -1,0 +1,21 @@
+city: Strum
+country: United States
+description: This place is messed up, late at night when the moon is full, you can see shadows moving quickly through the graveyard, you can hear voices, and little children crying, one night a you could hear a girl scream but there was no one anywhere around.
+location: Strum Cemetery
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.4383513
+latitude: 44.5517931
+city_longitude: -91.3926578
+city_latitude: 44.5496859
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

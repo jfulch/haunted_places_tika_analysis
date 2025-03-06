@@ -1,0 +1,21 @@
+city: Brownwood
+country: United States
+description: by the River at nightstands three ghosts on the edge of the bank on their knees throwing roses. Probably because they lost a family member, and everybody that goes down there at night has to drive real slow or they will flip exactly 3 times at die or get severely injured and people say it is cursed by the Indians. When you just go down the road you see shadowy figures staring at you.
+location: Keys Crossing
+state: Texas
+state_abbrev: TX
+longitude: -102.1014974
+latitude: 31.9867596
+city_longitude: -98.9911611
+city_latitude: 31.7093197
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

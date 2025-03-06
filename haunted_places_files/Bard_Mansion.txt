@@ -1,0 +1,21 @@
+city: Port Hueneme
+country: United States
+description: The Bard Mansion, which resides inside the Port Hueneme Navy Base was originally built in 1876 on Senator Thomas Bard's Estate named "Berylwood." In 1911, the enlarged second home was torn down to clear the site for the construction of the present Thomas Bard House. It's rumored by many that the mansion is haunted by the late Senator's wife, Mrs. Bard. Her figure can often be seen walking the grounds, perhaps making sure everything is in order.
+location: Bard Mansion
+state: California
+state_abbrev: CA
+longitude: -119.1969548
+latitude: 34.1583169
+city_longitude: -119.1951074
+city_latitude: 34.1477829
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1876/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

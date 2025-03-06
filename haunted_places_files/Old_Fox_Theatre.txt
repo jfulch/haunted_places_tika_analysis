@@ -1,0 +1,21 @@
+city: North Platte
+country: United States
+description: Neville Center for the Performing Arts - Every Theatre has its ghosts, and this one is no exception. In the Balcony, specifically in the area of the Lighting booth, people have had "unexplainable" encounters with something. Usually, it happens as a sudden drop in temperature. Sometimes people have actually felt the touch of someone's hand. Everyone who performs there or is in anyway involved with the Playhouse has heard the stories and knows that he is harmless. Or, at least, he has been so far.
+location: Old Fox Theatre
+state: Nebraska
+state_abbrev: NE
+longitude: -100.76029
+latitude: 41.1373233
+city_longitude: -100.7601454
+city_latitude: 41.1402759
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

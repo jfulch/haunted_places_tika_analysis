@@ -1,0 +1,20 @@
+city: Troy
+country: United States
+description: Witnesses have claimed many different things happening. Doors open or shut without reason, things will be "misplaced", and voices have been heard on occasions.
+location: Kemper-Marsh funeral home
+state: Missouri
+state_abbrev: MO
+longitude: -90.9760222
+latitude: 38.9757637
+city_longitude: -90.9806954
+city_latitude: 38.9794922
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

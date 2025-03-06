@@ -1,0 +1,21 @@
+city: Niagara Falls
+country: United States
+description: Clet Hall - Clet Hall has burned down multiple times, resulting in numerous deaths. One ghosts is of a student who died in a fire. Many students have claimed to see his ghost inside their dorm rooms and in the adjacent theater.
+location: Niagara University
+state: New York
+state_abbrev: NY
+longitude: -79.0353197
+latitude: 43.1365152
+city_longitude: -79.0377388
+city_latitude: 43.0962143
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Shamokin
+country: United States
+description: In The Old D.E Jones Building Several People Claim to have heard in the basement sounds of footsteps walking through water, electricity failure (all the lights in the basemebt blew out each 1 day apart) signs on the wall (two Diamonds stacked on top of each other) and then one day the top Diamond Disappeared, Orbs found in several pictures and in one picture a face can be found.
+location: Old D.E Jones Building
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.538814
+latitude: 40.79111100000001
+city_longitude: -76.5588473
+city_latitude: 40.7889746
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1973/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

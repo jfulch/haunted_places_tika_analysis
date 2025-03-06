@@ -1,0 +1,21 @@
+city: Cynthiana
+country: United States
+description: It is the oldest building in Cynthiana. It used to be a house. The old occupants still haunt the building because they don't like that their house has been turned into a business and abused. There are voices, sightings, and objects mysteriously moving.
+location: WCYN radio station building
+state: Kentucky
+state_abbrev: KY
+longitude: -84.2978605
+latitude: 38.3915249
+city_longitude: -84.2941013
+city_latitude: 38.3903526
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

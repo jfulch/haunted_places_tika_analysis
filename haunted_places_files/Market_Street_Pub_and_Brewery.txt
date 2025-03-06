@@ -1,0 +1,21 @@
+city: Nashville
+country: United States
+description: Market Street on Second Avenue in downtown Nashville is currently a restaurant and bar. when the establishment has been empty (with the exception of the eyewitness, and on occasion, two or three others). There are stories of chairs moving across the dining room floor, seemingly of their own accord, light fixtures swinging in the absence of a draft or an open window (as well as lights going off by themselves, only to come back on when commanded to do so by a human), and people just feeling eerily uncomfortable when alone in the building.
+location: Market Street Pub and Brewery
+state: Tennessee
+state_abbrev: TN
+longitude: -86.7781688
+latitude: 36.1643285
+city_longitude: -86.7816016
+city_latitude: 36.1626638
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1776/06/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

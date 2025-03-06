@@ -1,0 +1,21 @@
+city: Fernandina Beach
+country: United States
+description: A lighthouse on the main beach is said to be haunted by its former caretaker and his young bride. She allegedly died tragically and he killed himself at the top of the lighthouse. When people visit putrid smells appear, the radio is turned on every night and a door is constantly unlocked.
+location: Amelia Island
+state: Florida
+state_abbrev: FL
+longitude: -81.46259189999999
+latitude: 30.6696818
+city_longitude: -81.46259189999999
+city_latitude: 30.6696818
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

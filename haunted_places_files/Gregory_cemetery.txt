@@ -1,0 +1,20 @@
+city: Gregory
+country: United States
+description: there has been spotted light orbs or what seems to be ghosts wandering around the cemetery and have scared away visitors.
+location: Gregory cemetery
+state: South Dakota
+state_abbrev: SD
+longitude: -99.4261643
+latitude: 43.2243682
+city_longitude: -99.4292927
+city_latitude: 43.2355446
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1927/10/31
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

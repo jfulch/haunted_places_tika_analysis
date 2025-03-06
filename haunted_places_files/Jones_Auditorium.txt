@@ -1,0 +1,21 @@
+city: Kingsville
+country: United States
+description: The was a worker who fell out of the rafters during construction and passed away. He now haunts the theater. There have been reports of lights turning on and off, doors locking, and costumes falling off the racks.
+location: Jones Auditorium
+state: Texas
+state_abbrev: TX
+longitude: -97.8786094
+latitude: 27.5241654
+city_longitude: -97.856109
+city_latitude: 27.5158689
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

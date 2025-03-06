@@ -1,0 +1,21 @@
+city: Jamestown
+country: United States
+description: The Willow Hotel reportedly has been haunted since the 1800s. Under the Hotel an old gold mine caved in and killed 23 miners, and now the hotel is haunted by these miners.
+location: The Willow Steak House
+state: California
+state_abbrev: CA
+longitude: -120.422472
+latitude: 37.954216
+city_longitude: -120.4226952
+city_latitude: 37.9532584
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1922/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Hopkinsville
+country: United States
+description: An old brick building in downtown, Bart's Grill and Racket Room Pub's third floor (once an apartment) is haunted by a woman who hung herself there years ago. Now a dining room for large parties and a storage area for the restaurant, workers have had things mysteriously fly off shelves at them, and have had problems with the electricity. Even with new light bulbs put in the light fixtures, they continue to glow extremely dim or not at all. There is also reports from one woman who lived there after the suicide that she finally had to have the elevator buzzer disconnected for good because it would go off every night at a certain time.
+location: Bart's Grill and Racket Room Pub
+state: Kentucky
+state_abbrev: KY
+city_longitude: -87.4886186
+city_latitude: 36.8656008
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1957/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

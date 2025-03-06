@@ -1,0 +1,19 @@
+city: Elizabethton
+country: United States
+description: short and sweet. not really sure what went on in this early 1900's house right off of Bristol highway. Witnesses say there is heavy activity in a house not surrounded by any living occupants. Ghost dogs, what appeared to be a little girl, and a ghost that told us to leave before she disappeared is just the tip of the iceberg.
+location: Gwendolyn’s house
+state: Tennessee
+state_abbrev: TN
+city_longitude: -82.21068760000001
+city_latitude: 36.3487196
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

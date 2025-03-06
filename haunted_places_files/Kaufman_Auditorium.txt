@@ -1,0 +1,21 @@
+city: Alameda
+country: United States
+description: You can hear noises, and people have sighted a female ghost walking around backstage.
+location: Kaufman Auditorium
+state: California
+state_abbrev: CA
+longitude: -122.245784
+latitude: 37.7650859
+city_longitude: -122.2416355
+city_latitude: 37.7652065
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

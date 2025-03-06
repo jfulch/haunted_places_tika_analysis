@@ -1,0 +1,20 @@
+city: Spartanburg
+country: United States
+description: Willard Dormitory - Supposedly a student jumped out a window in Willard Dormitory and died on. Many people say that they see him walking the halls very late at night and he has also been seen standing at the window he jumped out of.
+location: Spartanburg Methodist College
+state: South Carolina
+state_abbrev: SC
+longitude: -81.9712334
+latitude: 34.9557173
+city_longitude: -81.9320482
+city_latitude: 34.9495672
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1876/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Steele
+country: United States
+description: This stretch of forest is said to be haunted by the ghosts of a settlement of freed slaves. The people set up a small settlement in the flat-forested region shortly after the civil war. It is said that the KKK burned the little town one night and killed a large number of the residents. A few buildings still stand out there, and lights have been seen among them at dusk. There are also reports of the smell of burning meat on foggy nights.
+location: Flatwoods
+state: Alabama
+state_abbrev: AL
+longitude: -86.31810449999999
+latitude: 33.86495440000001
+city_longitude: -86.2016435
+city_latitude: 33.9398201
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

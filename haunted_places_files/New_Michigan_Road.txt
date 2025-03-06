@@ -1,0 +1,21 @@
+city: Victor
+country: United States
+description: A woman and her new husband were traveling home along New Michigan Road when they had a carriage accident, that killed them both. The Lady in White is still searching for her husband along the road. She has been spotted during the full moon along the road.
+location: New Michigan Road
+state: New York
+state_abbrev: NY
+longitude: -77.3600981
+latitude: 42.9478975
+city_longitude: -77.4088794
+city_latitude: 42.9825633
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

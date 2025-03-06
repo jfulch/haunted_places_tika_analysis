@@ -1,0 +1,19 @@
+city: Haverhill
+country: United States
+description: This is the house of murderer Lizzie Borden's' lawyers house. a family moved in 1995 doors mysteriously opened and had noises. there is a door that the family never had opened and there dog used to sit and bark at it. The family moved out that month of fright and fear
+location: Lizzie Bordens lawyers house
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.0772796
+city_latitude: 42.7762015
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1995/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

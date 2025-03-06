@@ -1,0 +1,20 @@
+city: Arcadia
+country: United States
+description: Built in 1840 as a Methodist High School and it also served as a hospital for Union forces during the Civil War. The Academy was purchased by Catholic nuns in 1877 and became a girl's school until it closed in 1971. This beautiful Academy is now a Bed and Breakfast and an antique store. Pictures taken inside the school and on the grounds surrounding it show orbs, vortexes and mists. These pictures appear on the Academy's web site. Apparently haunted by the nuns who once ran the school; door open and close at night by themselves. There is a large cemetery on the property where the sisters are buried.
+location: Arcadia Academy
+state: Missouri
+state_abbrev: MO
+longitude: -90.628924
+latitude: 37.582839
+city_longitude: -90.6290109
+city_latitude: 37.5881058
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1840/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

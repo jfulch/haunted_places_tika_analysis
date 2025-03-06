@@ -1,0 +1,21 @@
+city: Decatur
+country: United States
+description: Pictures have been taken of ghosts looking in from the outside. Heavy breathing has been felt from behind. Cold gusts of wind blow at the bottom of the stairs inside. Ghosts have been spotted darting into rooms.
+location: South Morgan Health Care Center
+state: Alabama
+state_abbrev: AL
+longitude: -86.97290579999999
+latitude: 34.5550861
+city_longitude: -86.9833417
+city_latitude: 34.6059253
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

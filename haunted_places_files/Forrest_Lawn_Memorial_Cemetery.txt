@@ -1,0 +1,21 @@
+city: Beaumont
+country: United States
+description: The Kissing Statues - If you go to the cemetery at night and find the statue of a young man and women, take the drive way that goes behind them and shine your bright lights on them and they will turn around and start kissing. You can see the girls face moving and the guy's arms moving all over her back.
+location: Forrest Lawn Memorial Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -94.1015963
+latitude: 30.1261157
+city_longitude: -94.1265562
+city_latitude: 30.080174
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

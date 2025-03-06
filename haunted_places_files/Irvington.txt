@@ -1,0 +1,21 @@
+city: Indianapolis
+country: United States
+description: Irvington is a town in Indiana. It was founded sometime in the 1800's. There is a church there that was once upon a time a house (it was added onto when it became a church) The church is on a circle surrounded by many little houses. The church use to be where a slave owner lived and all of his slaves and maids and such lived in the houses around him. If you walk by the church/house in the setting sun you can see a figure of a man either on the roof or somewhere on the church grounds. If you spend the night in Irvington you may experience several things. Some people, when they are sleeping, have reported waking up and feeling that someone else is in the room. Sometimes you will even see a young man. Also strange smells and sounds have been heard and feelings that you are not alone when you are.
+location: Irvington
+state: Indiana
+state_abbrev: IN
+longitude: -86.0708016
+latitude: 39.7684512
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1987/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.283333333333331
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

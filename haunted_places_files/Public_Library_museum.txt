@@ -1,0 +1,21 @@
+city: Toppenish
+country: United States
+description: There is a weird woman and man on the top floor. you can see them looking out the window and you get a weird chill down your bones and at night when you walk pass the window fly Open. the curtains wave in an eerie motion while you see the shining of the blade since there is a museum on the top floor
+location: Public Library / museum
+state: Washington
+state_abbrev: WA
+longitude: -120.3154637
+latitude: 46.3790245
+city_longitude: -120.3086667
+city_latitude: 46.3773509
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

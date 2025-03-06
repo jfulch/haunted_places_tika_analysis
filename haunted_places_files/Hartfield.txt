@@ -1,0 +1,21 @@
+city: Middlesex
+country: United States
+description: This house has been here since the 1600's and its a three story there are carvings on the outside of the house of people how live in the house in the 1600's and 1700's there is a legend there was a solider hanged and shot on the stair way they buried him out in the field now people who visit there see the ghost.
+location: Hartfield
+state: Virginia
+state_abbrev: VA
+longitude: -76.4460588
+latitude: 37.5512484
+city_longitude: -76.5257007
+city_latitude: 37.6040106
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

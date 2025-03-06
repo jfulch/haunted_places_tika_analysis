@@ -1,0 +1,21 @@
+city: Hayward
+country: United States
+description: An Employee was killed by a dropped engine block, some employee's say he haunts the warehouse behind the shop. Haunting includes "clowning on ricers", "stealing altezza lights"
+location: Vic Hubbards
+state: California
+state_abbrev: CA
+longitude: -122.108824
+latitude: 37.6668647
+city_longitude: -122.0807964
+city_latitude: 37.6688205
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

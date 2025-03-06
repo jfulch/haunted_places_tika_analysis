@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: Located at One Loraine Court, San Francisco. Originally part of the Odd Fellows Cemetery, the Columbarium still stands over Geary Boulevard near Stanyan Street. This repository of the dead is not only wonderful eye candy, but has been a place of ghostly sightings as well. One encounter included a visitor having felt a hand on her back. When the woman turned around, no one was there. But a eerie white handprint remained on her blouse. Now a registered city landmark, the Columbarium is open to the public. Donations are encouraged.
+location: Neptune Society Columbarium
+state: California
+state_abbrev: CA
+longitude: -122.457077
+latitude: 37.780615
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1905/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

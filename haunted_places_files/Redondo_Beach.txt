@@ -1,0 +1,21 @@
+city: Hawthorne Blvd
+country: United States
+description: General Cinema Theater I -  It is no longer used. The stock room could not be kept clean; boxes would always be opened, overturned, and/or dumped on the floor. The faucet would turn on and off by itself. Behind the concession stand, you could feel someone brush past you and bump into you as you were working and the cabinets would be padlocked at night and would be open in the morning, with the contents disheveled and strewn about.
+location: Redondo Beach
+state: California
+state_abbrev: CA
+longitude: -118.3527076
+latitude: 33.8655338
+city_longitude: -118.3539932
+city_latitude: 33.8529097
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1958/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

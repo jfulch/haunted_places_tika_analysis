@@ -1,0 +1,21 @@
+city: Lenox
+country: United States
+description: There is a cemetery onto of October Mountain that’s is supposedly haunted. There are many stories of people hearing humming noises and seeing ghostly figures of children.
+location: October Mountain Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -73.2244777
+latitude: 42.3490804
+city_longitude: -73.2848762
+city_latitude: 42.35646089999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

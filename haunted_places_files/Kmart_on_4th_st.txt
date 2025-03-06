@@ -1,0 +1,20 @@
+city: Ontario
+country: United States
+description: In the ladies room back in the lay-away dept. if you are in the restroom alone. once you are in the stall the other stall door will slam shut with no one else in the restroom.
+location: Kmart on 4th st.
+state: California
+state_abbrev: CA
+longitude: -117.6182184
+latitude: 34.0767165
+city_longitude: -117.6508876
+city_latitude: 34.0633443
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: Waipahu St. S Turn - Waipahu St. S turn is located below the sugar mill and in the opening of Kipapa(Valley)Gulch. Legends says that when King Kamehameha invaded this island, There were so much death that he and his men lined up all the dead from the opening of this gulch all the way into this deep valley in Mililani. On moonless nights when your driving into this s turn you may hear drums beats and may see torches of the night marchers and reports of a white lady. And if you hear those drumbeats your car may die down and wont be able to start. There’s people who live in that area say that at times they can hear those drum beats on certain nights and sometimes the drum beats is so loud that sounds like the marchers went through their homes. Also above this s turn is an old sugar plantation road that was used for Oahu Sugar Plantation. When you drive in this old plantation road you may feel like you may have hit someone. When you look back in your rear view mirror, You may see and old Filipino lady stand up from where she lay and start laughing a wicked laugh then disappear. Word that goes around is that the old Filipino lady was killed by a plantation truck during the plantation days back in the early 1900's. Sad to say though that part of this plantation road is blocked off and is under construction for new housing
+location: Waipahu
+state: Hawaii
+state_abbrev: HI
+longitude: -158.0091667
+latitude: 21.3866667
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

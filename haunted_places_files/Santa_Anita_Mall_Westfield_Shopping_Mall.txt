@@ -1,0 +1,21 @@
+city: Arcadia
+country: United States
+description: The KB toy store inside the Santa Anita Mall is said by employees to be haunted by a little boy in early 1930s clothing. An employee was closing the store at night when they spotted a little boy in knickers in one of the aisles playing with one of the toys. The employee was shocked and thought he was left behind by a parent and when she approached the little boy to ask him where his parents were he appeared to be transparent and disappeared the closer she got. Another sighting of the little boy was again after hours when two male employees of the mall were inside Macy's and happened to spot a little boy standing with his back to them by the escalator to go down as though in awe of the escalator. When they started to walk up to him to tap him on the back the little boy ran down the escalator without actually having touched the steps and vanished on ce at the bottom.
+location: Santa Anita Mall (Westfield Shopping Mall)
+state: California
+state_abbrev: CA
+longitude: -118.0515692
+latitude: 34.1343827
+city_longitude: -118.0353449
+city_latitude: 34.1397292
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

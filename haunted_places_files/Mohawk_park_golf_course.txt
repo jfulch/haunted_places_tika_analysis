@@ -1,0 +1,21 @@
+city: Tulsa
+country: United States
+description: There is an old bathroom facility on the golf course that a light can be seen at night from the women's side of. No power is run to that building. Also, the air coming out of it is always cold, even in midsummer, as if an air conditioner is running in there.
+location: Mohawk park golf course
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.917307
+latitude: 36.214925
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

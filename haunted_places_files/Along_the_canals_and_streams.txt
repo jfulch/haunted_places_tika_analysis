@@ -1,0 +1,21 @@
+city: Imperial Valley
+country: United States
+description: The canals of the Imperial Valley are said to be the home of La Llorona, which in English means The Crying Lady. She was said to be Malinche, the wife of the Spanish conquistador Cortez. An Indian maiden who was taken by lust during his stay, who also bore him 2 children. It was when Cortez was to return to Spain and told Malinche that he would take the children and not her back to Spain that she temporarily went insane and killed her own 2 children to prevent Cortez from taking them. She then disposed of their bodies in a nearby river. It is said, that after death she is supposed to walk along the canals and rivers crying looking for her lost dead children. Reports describe her as a long slender ethereal woman dressed in a white tattered dress. Reports have come from all over the Imperial Valley.
+location: Along the canals and streams
+state: California
+state_abbrev: CA
+longitude: -115.530885
+latitude: 32.763176
+city_longitude: -114.9633007
+city_latitude: 32.7375477
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1989/10/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Wise
+country: United States
+description: This place has experieced many strange sightings threw the years. Many People have said they can see a strange figure standing in a window lookin over the field. It has also been said that children that have been terribly murdered can be heard laughing and bouncing balls. Many peolpe have been heard screaming from the house with sheer terror.
+location: Wise County Orphange
+state: Virginia
+state_abbrev: VA
+longitude: -82.5718567
+latitude: 37.0015033
+city_longitude: -82.5757108
+city_latitude: 36.9759345
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

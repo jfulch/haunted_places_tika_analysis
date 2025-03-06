@@ -1,0 +1,21 @@
+city: Stone Mountain
+country: United States
+description: A very old cemetery dating back before the civil war, Orbs seen by the naked eye floating around and if you take a picture, you will be guaranteed to see an orb. You will have to go at night though. There are marble platforms to stand on between the graves and it feels like a hand is pushing you off and people never seem to keep their balance. You can hear footsteps and leaves and branches being crushed around you when there is nobody there. Even in the summer, numerous cold spots have been reported by many people (including me) and sometimes it feels like a cold hand is touching or poking you. This is a very haunted place. Everyone who goes there at night usually experiences something paranormal.
+location: old cemetery at the end of Main Street
+state: Georgia
+state_abbrev: GA
+longitude: -84.1716045
+latitude: 33.8122526
+city_longitude: -84.17019599999999
+city_latitude: 33.8081608
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.466666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

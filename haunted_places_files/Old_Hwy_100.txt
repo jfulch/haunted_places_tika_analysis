@@ -1,0 +1,20 @@
+city: Villa Ridge
+country: United States
+description: When Driving along old hwy 100, going towards Villa Ridge from Washington Mo. There is a mysterious hitchhiker, wearing a hiking pack, when picked up, he will talk to you and ask to be taken to the truck stop about 5 miles ahead, but before reaching the truck stop, he always vanishes, rumor had it that he was killed by a driver that picked him up, and all he wants is to get to the truck stop, but can't.
+location: (Old Hwy 100)
+state: Missouri
+state_abbrev: MO
+longitude: -90.8768205
+latitude: 38.4802407
+city_longitude: -90.8868042
+city_latitude: 38.47255250000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

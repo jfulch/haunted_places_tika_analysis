@@ -1,0 +1,21 @@
+city: Slippery Rock
+country: United States
+description: This Theater was named after Emma Guffey Miller, who is believed to be the ghost that haunts the place. There is often strange banging or pounding noises heard and when people go to see what the noise is, no one is there. The lights also flicker and go out during rehearsals. The students started the tradition of hiding "Baby" somewhere on the stage during performances to keep Emma from sabotaging the show. Baby started out as a whole baby doll, but has degenerated to a charred mutilated head. It is rumored that if Baby is not present, the show will be a disaster.
+location: Miller Auditorium
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0521503
+latitude: 41.0609103
+city_longitude: -80.0564468
+city_latitude: 41.0639506
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

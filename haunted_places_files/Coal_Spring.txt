@@ -1,0 +1,21 @@
+city: Hardburly
+country: United States
+description: Hardburly is a old mining camp in Kentucky. It has legends of hauntings. One is Coal Spring, a stretch of road that lines Jake Branch Stream. Its here they say you can hear a child scream, with no one there. The story is a boy drown in flood waters there. He still screams. In 1970s a guy was chased by a un seen thing. Faster he ran it ran, just behind him. He stopped to catch his breath it was heard gasping for air also. After he got up a bank he did not hear it any more.
+location: Coal Spring
+state: Kentucky
+state_abbrev: KY
+longitude: -83.1357819
+latitude: 37.301648
+city_longitude: -83.12405849999999
+city_latitude: 37.3017628
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

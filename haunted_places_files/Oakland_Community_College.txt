@@ -1,0 +1,21 @@
+city: Union Lake
+country: United States
+description: Highland Lakes Campus was once a hospital. It has been known to be haunted in the tunnel leading from Highland Hall to High Oak Hall. Most people will not even go down in the basement of Highland Hall (where the tunnel is) due to the fact it had served as the morgue. There have been sightings of ghosts believed to have died there. In Highland Hall there have been sightings especially of an elderly man just walking into the offices there. Cold spots and items missing have also been reported. At night screams have been heard along with noises that cannot be explained. - November 2003 update: many other students have experienced strange things there. The middle stairwell of Highland Hall always has an eerie feeling to it, especially on the second floor landing by the window. The feeling of someone walking behind you, and a sense of fear over come you. If you walk up to the fourth floor landing, you will see a medal door, which is locked, the eerie feeling is even stronger there.
+location: Oakland Community College
+state: Michigan
+state_abbrev: MI
+longitude: -83.4303358
+latitude: 42.6201893
+city_longitude: -83.4468828
+city_latitude: 42.6147541
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

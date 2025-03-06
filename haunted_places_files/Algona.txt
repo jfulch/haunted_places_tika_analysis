@@ -1,0 +1,21 @@
+city: Kossuth
+country: United States
+description: Little Africa - Rumor is that there are several places here that have been the scene of murders. The old bridge you cross has been the place of 2 hangings. 2 of the roads have had accidents on them because people claims things have been standing the middle of the road and won't move. The old farm house is said to have the spirit of the old maid who worked for the family had an affair and the husband killed her...the family left rite after and everything in the house is still there. Out past the hospital cemetery. Worth going there.
+location: Algona
+state: Iowa
+state_abbrev: IA
+longitude: -94.233019
+latitude: 43.0699663
+city_longitude: -94.2333355
+city_latitude: 43.25133839999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1865/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

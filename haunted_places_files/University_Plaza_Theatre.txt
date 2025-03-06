@@ -1,0 +1,20 @@
+city: Kent
+country: United States
+description: The older part of the University Plaza Theatre off the campus of Kent State University, is home to haunting. After hours, the manager has seen what appears to be the back of a patron's head in the seats. Mysterious things have occurred in the projection room and footsteps can often be heard but there is no one there.
+location: University Plaza Theatre
+state: Ohio
+state_abbrev: OH
+longitude: -81.35844159999999
+latitude: 41.1397964
+city_longitude: -81.3578859
+city_latitude: 41.1536674
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

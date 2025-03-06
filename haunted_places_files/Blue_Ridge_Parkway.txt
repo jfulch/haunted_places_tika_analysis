@@ -1,0 +1,21 @@
+city: Brown Mountain
+country: United States
+description: At two different places on the blue ridge parkway you can see the brown mountain lights. There are two stories to this one. 1) Its said that there was a war between two different Native American tribes. At night when it was safe the women would go out and look for there husbands with big bright torches but they were killed to so now they keep looking forever. 2) It was winter and a little girl had gone missing her father looked and looked for her she died and he died and to this day he continues the search. Brown mountain has no homes or roads built on it you cant even go on the mountain so that makes it a truly haunted place scientist have tried figure out what’s going on for hundreds of years and many people have seen these lights year after year.
+location: Blue Ridge Parkway
+state: North Carolina
+state_abbrev: NC
+longitude: -81.74593689999999
+latitude: 35.9159628
+city_longitude: -81.74593689999999
+city_latitude: 35.9159628
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Newark
+country: United States
+description: orbs are seen and photographed, this is an ancient Native American holy site built by the Adena Indians.
+location: Newark Earthworks
+state: Ohio
+state_abbrev: OH
+longitude: -82.42862099999999
+latitude: 40.040615
+city_longitude: -82.4012642
+city_latitude: 40.0581205
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

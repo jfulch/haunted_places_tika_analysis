@@ -1,0 +1,21 @@
+city: Cape May
+country: United States
+description: friendly spirits named Minerva and Esmerelda watch over the guests here. The owners of the Inn claim that theses spirits are "haughty" and "prissy".
+location: Inn at 22 Jackson
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.92238540000001
+latitude: 38.9314681
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1981/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Summerville
+country: United States
+description: This abandoned manor house was the scene of a double murder in 1982. Before the murder the site was once used for satanic rituals. It's said to be haunted by evil forces.
+location: Corpse Woods
+state: Georgia
+state_abbrev: GA
+longitude: -85.2320739
+latitude: 34.5524705
+city_longitude: -85.3477343
+city_latitude: 34.480642
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1982/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

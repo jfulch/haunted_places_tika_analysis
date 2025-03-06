@@ -1,0 +1,21 @@
+city: Kokomo
+country: United States
+description: Black shadows and noise in the old basement. Built in 1901 now used as a recording studio by. House Of Jordan Entertainment.
+location: Old Jabob's Funeral Home
+state: Indiana
+state_abbrev: IN
+longitude: -86.1550831
+latitude: 40.4396449
+city_longitude: -86.13360329999999
+city_latitude: 40.486427
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1901/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

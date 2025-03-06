@@ -1,0 +1,20 @@
+city: Charleston
+country: United States
+description: The ghost of an experienced fisherman haunts the lake. Because he was drowned there by the ghost of his own nephew whom he had killed with a shot gun accidentally
+location: Upper Big Lake
+state: Missouri
+state_abbrev: MO
+longitude: -89.36674289999999
+latitude: 36.9550512
+city_longitude: -89.35063099999999
+city_latitude: 36.9208854
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

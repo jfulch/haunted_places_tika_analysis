@@ -1,0 +1,21 @@
+city: Hagerstown
+country: United States
+description: In the 1930’s, this church was believed to be used for Satanic rites. Years later, the church burnt down. One night a young couple went parking at the church. Not long afterwards, when they were ready to leave, the car would not start. The guy told his girlfriend to stay in the car and keep the doors locked while he went to get help. When he came back, she was gone and the doors were still locked. He looked up, only to find her hanging from the old oak tree in front of the church. Sometimes at night you can see a figure hanging from that same tree. Some witnesses even claim that they have been chased by a phantom hearse near the site of the old church.
+location: Millers Church
+state: Maryland
+state_abbrev: MD
+longitude: -77.6362534
+latitude: 39.7138898
+city_longitude: -77.71999319999999
+city_latitude: 39.6417629
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

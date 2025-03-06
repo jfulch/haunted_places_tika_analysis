@@ -1,0 +1,19 @@
+city: Middleton
+country: United States
+description: One witness reports, "There was a bright blue light and then a shadow at the end of the hall. It was a ghost. It had screamed and shrieked. It had a long face that had been pale. It kept on saying, "I'm cold" It sounded like a young child. It sounded as if it were crying to the people of the Inn to find his jacket. It had looked as if it had the face of a young boy about the age of 8. It wasn't a peaceful ghost but it hadn't screamed that loud only small moans. It had not been a ghost that liked to destruct homes. It made everyone get shivers down their spine. I only stayed for about 10 minutes and then it all faded away with the wind saying one last time that it was cold. It had disappeared many times near the same wall and then walked into the wall and disappeared. It had done the same thing over and over again as if there used to be a door there or something."
+location: Blue Door Inn
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.0161643
+city_latitude: 42.59509389999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

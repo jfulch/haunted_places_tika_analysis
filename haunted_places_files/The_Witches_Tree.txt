@@ -1,0 +1,17 @@
+city: Selbyville
+country: United States
+description: You can see balls of light flowting around. You can see a Man in an old truck reading a newspaper, but it is impossible to get a truck back where you see him because next to the tree in an 8 foot ditch and the rest is surrounded by thick woods. you can hear a woman crying. A man mumbling. Dogs barking, There is sounds of a truck starting.
+location: The Witches Tree
+state: Delaware
+state_abbrev: DE
+city_longitude: -75.2207437
+city_latitude: 38.4603917
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Sheridan
+country: United States
+description: There is a house on Center St. haunted by the spirit of an old woman (witch?) She is seen wearing rags. There are strange choking chemical smells. Loud metal banging crashing from the abandoned house next door in the middle night. Whimpering moaning dog sounds from the other abandoned house also next door. TV’s will turn themselves on in the middle of the night full blast. Cupboards will bang in an empty kitchen. Footsteps are heard walking around the house/in the house at night. Strange break ins with no one being seen. The front door will unlock itself at night. Game systems (Nintendo, Playstation) will lose their memory. Shadows running around the house in the day. Yard gates unlock by themselves. Earthquake like rumbling in the day. Banging on the bedroom door at night. Sound of the front door opening/closing with no one around.
+location: NE Center St.
+state: Oregon
+state_abbrev: OR
+longitude: -123.3916332
+latitude: 45.1056451
+city_longitude: -123.3948291
+city_latitude: 45.0992814
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

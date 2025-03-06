@@ -1,0 +1,21 @@
+city: District of Columbia
+country: United States
+description: Kirby Hall - It is said to be haunted by the ghost of a co-ed who died in the late 1960's. She appears in the staircase and fifth floor lounge. Some reports of her ghost appearing in the dorm rooms too.
+location: Trinity College
+state: Washington DC
+state_abbrev: DC
+longitude: -77.0056073
+latitude: 38.9273457
+city_longitude: -77.0368707
+city_latitude: 38.9071923
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1570/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

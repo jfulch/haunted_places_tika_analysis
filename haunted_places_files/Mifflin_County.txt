@@ -1,0 +1,21 @@
+city: McVeytown
+country: United States
+description: Reports of floating lights in the cemetery.
+location: Mifflin County
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.7413818
+latitude: 40.4992419
+city_longitude: -77.7413818
+city_latitude: 40.4992419
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

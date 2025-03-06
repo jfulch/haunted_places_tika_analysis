@@ -1,0 +1,21 @@
+city: Eolia
+country: United States
+description: their used to be downstairs bathrooms in the school back in the late 1900's, but after many reports on a baby crying down their and due to the need for new bathrooms more where built up stairs and the bottom one sealed off. Now at night you can hear a baby crying and the sound of an older woman, thought to be the mother, saying, "LET ME OUT", and beating on the floorboards.
+location: Arlie Boggs Elementary
+state: Kentucky
+state_abbrev: KY
+longitude: -82.7946279
+latitude: 37.0269308
+city_longitude: -82.79154899999999
+city_latitude: 37.0537088
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

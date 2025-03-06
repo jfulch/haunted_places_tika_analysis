@@ -1,0 +1,21 @@
+city: Stanley
+country: United States
+description: Railroad Tracks - At least two persons have seen a white train traveling the railroad tracks and disappearing. One witness late in the evening saw the train clearly enough to notice its unusual color and that boxcar doors were open in violation of regulations. But when he came to the crossing, the train was gone! The village was once a well-known stop along the railroad route.
+location: Clearfield County
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.7911419
+latitude: 41.0570064
+city_longitude: -78.7911419
+city_latitude: 41.0570064
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

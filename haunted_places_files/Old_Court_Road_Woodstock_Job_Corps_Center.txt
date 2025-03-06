@@ -1,0 +1,21 @@
+city: Randallstown
+country: United States
+description: This used to be a Monastery for monks. There is a graveyard for the monks that still sits at the entrance of the center. A lot of strange things that would happen but we had one that was widely known around center he was called the black monk. Not because of the color of his skin but because he had no face and under the hood of his cloak you could only see black, he used to walk around the center at night if you woke up in the middle of the night and looked out your window you would sometime see him on the grounds.
+location: Old Court Road – Woodstock Job Corps Center
+state: Maryland
+state_abbrev: MD
+longitude: -76.8690043
+latitude: 39.3354503
+city_longitude: -76.79525249999999
+city_latitude: 39.3673278
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Canyon
+country: United States
+description: The lobby is know to be haunted a girl got murdered there a while back. It is haunted by a young lady who walks in the dorms and in the halls of the dorms. She has also been seen on the elevator. Also to be said there is one dorm room that has they say like an underground thing that leads all over the dorms. At midnight if you park your car at the Wal-Mart parking lot you will see a light go on and the girl will be standing there looking out the window. Also if you live in the dorms you will smell popcorn popping at 12:30.
+location: West Texas A&amp;M University Lobby
+state: Texas
+state_abbrev: TX
+longitude: -101.9158947
+latitude: 34.9829122
+city_longitude: -101.9188024
+city_latitude: 34.9803342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

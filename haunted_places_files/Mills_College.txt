@@ -1,0 +1,21 @@
+city: Oakland
+country: United States
+description: Mary Morse Hall - the ghost of a man in one of the rooms has been reported. There is a ghost carriage haunting the road behind this residence hall as well as Ethal Moore Hall. For more info go to http://www.artsfusion.com/millsghosts/main.html for a longer explanation.
+location: Mills College
+state: California
+state_abbrev: CA
+longitude: -122.1878385
+latitude: 37.78268449999999
+city_longitude: -122.2711137
+city_latitude: 37.8043637
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1791/04/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

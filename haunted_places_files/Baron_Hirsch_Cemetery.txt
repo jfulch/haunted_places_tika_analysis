@@ -1,0 +1,21 @@
+city: Staten Island
+country: United States
+description: The cemetery has spirits dating back to the early 1800's. People who live in the neighborhood have reported that some of the spirits from the cemetery have gravitated to the houses near the cemetery property and have now become unwelcome residents. Shadowy figures have been seen near these homes.
+location: Baron Hirsch Cemetery
+state: New York
+state_abbrev: NY
+longitude: -74.15309610000001
+latitude: 40.6204839
+city_longitude: -74.1502007
+city_latitude: 40.5795317
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

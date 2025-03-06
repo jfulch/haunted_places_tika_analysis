@@ -1,0 +1,21 @@
+city: Ocala
+country: United States
+description: Many people have had strange things happen in this graveyard. The most significant of which can occur almost any night. After dark if you drive thru the cemetery, near the back stretch over a large crack in the weathered roadway, your car will shift into neutral. This has happened many times to many people. All type of cars and almost all makes.
+location: Old Downtown Graveyard
+state: Florida
+state_abbrev: FL
+longitude: -82.1281079
+latitude: 29.1867488
+city_longitude: -82.14009229999999
+city_latitude: 29.1871986
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

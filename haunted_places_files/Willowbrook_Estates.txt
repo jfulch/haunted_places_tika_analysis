@@ -1,0 +1,19 @@
+city: Lake Hughes
+country: United States
+description: Owner of the estate hosts weddings, to include a nightly stay at an on-grounds guesthouse. While staying at the guesthouse, doors opened and closed, lights went on and off, and rustling noises went on throughout the night(1997).
+location: Willowbrook Estates
+state: California
+state_abbrev: CA
+city_longitude: -118.4525466
+city_latitude: 34.6773324
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

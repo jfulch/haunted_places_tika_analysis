@@ -1,0 +1,20 @@
+city: Winona
+country: United States
+description: All of W-K is haunted, but the most haunted places is one of the forth grade classrooms. In this particular classroom a bunch of weird thing happen like, things get moved when no one was there, weird noises in the vents, and things fall when no one touches them. The students that went there before are happy to get away from the ghost of W-K.
+location: W-K school
+state: Minnesota
+state_abbrev: MN
+longitude: -91.6195128
+latitude: 44.0426092
+city_longitude: -91.6663523
+city_latitude: 44.0553908
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: West Allis
+country: United States
+description: Part of this facility is the former summer home to Billy Mitchell's family.  Staff has heard voices and felt something brush past them.
+location: Mitchell Manor Senior Center
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.97967129999999
+latitude: 43.00209479999999
+city_longitude: -88.0070315
+city_latitude: 43.0166806
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2001/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

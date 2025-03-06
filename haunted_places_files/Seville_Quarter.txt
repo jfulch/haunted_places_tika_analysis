@@ -1,0 +1,21 @@
+city: Pensacola
+country: United States
+description: About ten years ago there was a man who would visit the bar at Seville Quarter frequently. He would visit so much, that he was offered a bartending job there. He worked there for a while and everyone loved him. He died in the bar one night (not exactly sure how) but people have reportedly seen his ghost in the bar area
+location: Seville Quarter
+state: Florida
+state_abbrev: FL
+longitude: -87.21292
+latitude: 30.40976
+city_longitude: -87.2169149
+city_latitude: 30.42130899999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

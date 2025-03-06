@@ -1,0 +1,21 @@
+city: Upland
+country: United States
+description: It has been said that a ghostly figure wanders the hallways and can be seen in the dark room that is not used anymore. Also, books fall off the shelves in the library and voices can be heard when no one is around in the office.
+location: Pioneer Junior High School
+state: California
+state_abbrev: CA
+longitude: -117.6541915
+latitude: 34.1291342
+city_longitude: -117.6483876
+city_latitude: 34.09751
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

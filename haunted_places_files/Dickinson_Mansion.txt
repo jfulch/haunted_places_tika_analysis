@@ -1,0 +1,19 @@
+city: Dover
+country: United States
+description: John Dickinson's ghost haunts this house, recordings of sounds have been made here also.
+location: Dickinson Mansion
+state: Delaware
+state_abbrev: DE
+longitude: -75.44901589999999
+latitude: 39.1029266
+city_longitude: -75.5243682
+city_latitude: 39.158168
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1732/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

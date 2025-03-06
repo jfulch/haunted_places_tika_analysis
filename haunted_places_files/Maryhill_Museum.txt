@@ -1,0 +1,21 @@
+city: Biggs Junction
+country: United States
+description: Maryhill Museum is a reproduction Italian villa (mansion) , after the mansion became a state museum, curators reported odd noises at night. Many of the local volunteer docents and cleaners also report noises and chills throughout the four-story, century-old villa.
+location: Maryhill Museum
+state: Washington
+state_abbrev: WA
+longitude: -120.8647706
+latitude: 45.6774581
+city_longitude: -120.8328408
+city_latitude: 45.669846
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1926/11/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

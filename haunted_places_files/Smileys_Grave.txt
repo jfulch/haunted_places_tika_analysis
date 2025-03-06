@@ -1,0 +1,21 @@
+city: Garland
+country: United States
+description: A story of a man who had slaughtered his entire family. It is said that if you lay on his grave at midnight on Halloween....it is a bit of a struggle to get up.
+location: Smiley's Grave.
+state: Texas
+state_abbrev: TX
+longitude: -96.5998632
+latitude: 32.9082427
+city_longitude: -96.6388833
+city_latitude: 32.912624
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/10/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

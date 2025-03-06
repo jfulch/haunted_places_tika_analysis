@@ -1,0 +1,20 @@
+city: East Hartford
+country: United States
+description: Haunted by a woman dressed in blue after the building was moved.
+location: Huguenot House
+state: Connecticut
+state_abbrev: CT
+longitude: -72.62622929999999
+latitude: 41.7759845
+city_longitude: -72.6128339
+city_latitude: 41.7634219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

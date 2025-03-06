@@ -1,0 +1,21 @@
+city: Battle Mountain
+country: United States
+description: Donna's Diner is said to be haunted by the lady in blue, who was killed by a drunk.The lady in blue has been known to follow women into the bathroom.It is said if you look in the mirror her face will slowly replace yours then suddenly disappear.The lady in blue also swings the light fixtures back and forth and turn the lights off in the rest rooms.
+location: Donna's Diner
+state: Nevada
+state_abbrev: NV
+longitude: -116.9326463
+latitude: 40.6403486
+city_longitude: -116.9342671
+city_latitude: 40.6421334
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1957/07/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

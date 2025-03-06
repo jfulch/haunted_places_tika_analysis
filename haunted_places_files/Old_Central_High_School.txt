@@ -1,0 +1,21 @@
+city: Tulsa
+country: United States
+description: The old high school has been converted into a business (the local utility company). Since the conversion strange things have occurred: lights flickering on and off, files being moved, bathroom faucets being turned on. Late at night some workers have heard footsteps, and have noticed trashcans moved into the hallways, and even elevators going up and down by themselves. Some think it's the spirit of Doris Dixon, a young girl that died in the basement swimming pool back in the 1930s under mysterious circumstances. The building contains stones engraved with each classes graduation dates. Some say, if you look at the stone for the class of 1936, you can see the faint outline of Doris's face.
+location: Old Central High School
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.0271166
+latitude: 36.162906
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

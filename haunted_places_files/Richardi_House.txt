@@ -1,0 +1,21 @@
+city: Bellaire
+country: United States
+description: The Richardi House (now known as The Grand Victorian Bed & Breakfast) is rumored to be haunted by Henri Richardi. Richardi built the house for his intended bride. When she left him for another man, he was heartbroken. Strange lights were seen in the cupola when the house was uninhabited (before being turned into a Bed & Breakfast).
+location: Richardi House
+state: Michigan
+state_abbrev: MI
+longitude: -85.209954
+latitude: 44.980443
+city_longitude: -85.2111728
+city_latitude: 44.9802822
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

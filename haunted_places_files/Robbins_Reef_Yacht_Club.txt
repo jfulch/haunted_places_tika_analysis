@@ -1,0 +1,21 @@
+city: Bayonne
+country: United States
+description: The gentleman who haunts this location was said to have hung himself in an unstairs bedroom. If you enter the room in the dark, a cold icy feeling passes over your skin. In addition, bottles have been seen "jumping" off the ledges in the back of the bar, not breaking, and if replaced on the ledge, will again leave the spot to land on the floor.
+location: Robbins Reef Yacht Club
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.1321361
+latitude: 40.6598189
+city_longitude: -74.1143091
+city_latitude: 40.6687141
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

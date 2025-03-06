@@ -1,0 +1,20 @@
+city: Pipestone
+country: United States
+description: The Pipestone County museum is formerly the old city hall. A little blonde girl has been seen there by several people. She is dressed in a blue 19th century dress with a white apron. Often, loud sounds are heard upstairs when no one is there (footsteps, stomping...) The old doctor's office is located off the library upstairs. Several employees and guests have heard the long since dead doctor "working" in the office when no one is actually in there. The chair squeaks, papers shuffle.
+location: Pipestone County Museum
+state: Minnesota
+state_abbrev: MN
+longitude: -96.3174635
+latitude: 44.0000651
+city_longitude: -96.3128117
+city_latitude: 43.9985815
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

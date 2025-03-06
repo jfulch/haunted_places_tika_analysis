@@ -1,0 +1,21 @@
+city: Cullowhee
+country: United States
+description: 8th Floor - In the early 1990's a young student hung herself in the East Wing. For many years the floor was shut off due to many occurrences with sightings of the young lady. Bathroom lights will turn on and off as well as doors opening and shutting. Water will run for no reason.
+location: Scott Residence Hall
+state: North Carolina
+state_abbrev: NC
+longitude: -83.18495449999999
+latitude: 35.30949390000001
+city_longitude: -83.1765333
+city_latitude: 35.3137111
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

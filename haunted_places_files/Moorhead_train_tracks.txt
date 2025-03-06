@@ -1,0 +1,21 @@
+city: Fargo
+country: United States
+description: There are train tracks that go through Fargo and Moorhead. A couple of years back, a woman tried jumping on to a train but instead was dragged all the way through town. Her body was later found with nothing really left. A couple of homeless guys were sleeping by the train tracks and reported seeing the woman. He woke up to see her in the distance with glowing red eyes. He thought if he was to shut his eyes and ignore her that she would go away. He opened his eyes to see if she was gone but she was only closer with her red eyes still on him. Frightened, he awoke his friend and they left to seek slumber else where.
+location: Moorhead train tracks
+state: North Dakota
+state_abbrev: ND
+longitude: -96.7851388
+latitude: 46.88098120000001
+city_longitude: -96.7898034
+city_latitude: 46.8771863
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 17m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

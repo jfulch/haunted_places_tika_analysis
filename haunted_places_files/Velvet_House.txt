@@ -1,0 +1,19 @@
+city: Kentwood
+country: United States
+description: A mother and young daughter can be heard talking to each other, and to this day you can see the ghost of a cat hiding in corners, and then quickly dashing off. Curtains move with no windows open. The attic door opens sporadically.
+location: Velvet House
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.64474919999999
+city_latitude: 42.8694731
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1963/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

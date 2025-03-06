@@ -1,0 +1,19 @@
+city: Gettysburg
+country: United States
+description: Witnesses reported being in the middle of a battle, reliving it.
+location: An open field near Devil's Den
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -77.2310955
+city_latitude: 39.8309293
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

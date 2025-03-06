@@ -1,0 +1,21 @@
+city: Cumberland
+country: United States
+description: A house that a witch lives in is said to attract many wandering souls, and is haunted. Residents have been known to hear footsteps when they are in the basement, or things moving in the attic.
+location: Mary St.
+state: Maryland
+state_abbrev: MD
+longitude: -78.76552310000001
+latitude: 39.6251984
+city_longitude: -78.7625185
+city_latitude: 39.6528654
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

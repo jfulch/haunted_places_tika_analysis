@@ -1,0 +1,21 @@
+city: Waupaca
+country: United States
+description: There has been numerouse reports from the emplyoes and frequent customers that there is a family waling around at night. They are not there to hurt anyone, but they let their presence be known.
+location: Simpson's resturante
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.08526499999999
+latitude: 44.356253
+city_longitude: -89.0859464
+city_latitude: 44.3580348
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

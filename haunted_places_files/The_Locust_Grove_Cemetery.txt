@@ -1,0 +1,21 @@
+city: Tab
+country: United States
+description: Reports of the sound of army cadence. Sounds believed to be Harrison's troop marching to the Battle of Tippecanoe.
+location: The Locust Grove Cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -87.43593249999999
+latitude: 40.4376195
+city_longitude: -87.47404089999999
+city_latitude: 40.413263
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

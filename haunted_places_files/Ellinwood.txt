@@ -1,0 +1,19 @@
+city: Manhattan
+country: United States
+description: Wolf House - Many weird sightings have taken place here. Like Men in top hats appearing with canes and dishes being thrown from the wall. Voices being heard, like conversations between a families. And also it was once an early whorehouse in which it was to be said that one of the women was killed there. Than many years later them man who lived there who was the town doctor committed suicide, and died a very slow and painful death. Now many years later the house is still abandoned and is used as a very interesting haunted house for the Boy Scouts of America!
+location: Ellinwood
+state: Kansas
+state_abbrev: KS
+city_longitude: -96.5716694
+city_latitude: 39.18360819999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

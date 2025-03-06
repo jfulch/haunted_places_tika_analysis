@@ -1,0 +1,21 @@
+city: Box Elder
+country: United States
+description: Box Elder Middle School - In the girls locker room janitors and students have heard girls opening and closing lockers when no one is in there. When you go into the big gym people have seen the girl "Marie" she lives there, and janitors have been known to see and talk to her. Down the hall of the boys locker room you can knock on this one door, and it will knock back to you. The only way you can feel the knocking back is if you believe she (Marie) might be there. She's (Marie) been known to run around the top of the building when girls are in the weight room.
+location: Brigham City
+state: Utah
+state_abbrev: UT
+longitude: -112.0155015
+latitude: 41.5102129
+city_longitude: -113.1918021
+city_latitude: 41.5380087
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1955/05/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

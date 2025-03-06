@@ -1,0 +1,21 @@
+city: Lynwood
+country: United States
+description: In the year of 2003, a young man of the age 20 was brutally killed while he was riding his bicycle, in the daylight time. During the day and night people have reported seeing a man riding his bicycle and disappearing in a distance of about 15 feet away from them, also in the same place he was found death people have seen a young men laying down asking for help suddenly he disappears.
+location: Lyngwood Park
+state: California
+state_abbrev: CA
+longitude: -118.2033179
+latitude: 33.9277072
+city_longitude: -118.2114603
+city_latitude: 33.930293
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

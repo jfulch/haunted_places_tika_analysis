@@ -1,0 +1,19 @@
+city: Sorrento
+country: United States
+description: There is a still standing, beautiful Victorian style home, that residents still believe is Capone’s home. Many, many people have tried to live in this home, but no one lasts. They are frightened by pots and pans banging at night (as if someone is cooking in the kitchen), by lights going on and off, voices of what is believed to be deceased notorious gangsters, and what feels very much like a body crawling into bed with the people who reside there.
+location: Al Capone's house
+state: Florida
+state_abbrev: FL
+city_longitude: -81.56368379999999
+city_latitude: 28.80777
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

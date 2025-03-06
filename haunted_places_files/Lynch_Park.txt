@@ -1,0 +1,21 @@
+city: Omaha
+country: United States
+description: You go there and you can hear footsteps of people running and the crying of a baby. One witness heard a man screaming saying,” It’s so cold, help me," and you could swear that you felt a man grab your leg.
+location: Lynch Park
+state: Nebraska
+state_abbrev: NE
+longitude: -95.9439433
+latitude: 41.2402087
+city_longitude: -95.9979883
+city_latitude: 41.2523634
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

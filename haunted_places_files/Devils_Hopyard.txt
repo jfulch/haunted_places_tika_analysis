@@ -1,0 +1,20 @@
+city: East Haddam
+country: United States
+description: Have been numerous reports of strange sightings and occurrences over the years. Many locals have seen and heard apparitions.
+location: Devils Hopyard
+state: Connecticut
+state_abbrev: CT
+longitude: -72.337318
+latitude: 41.484981
+city_longitude: -72.4757767
+city_latitude: 41.5034351
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1937/11/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

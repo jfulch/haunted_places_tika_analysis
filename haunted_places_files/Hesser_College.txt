@@ -1,0 +1,21 @@
+city: Manchester
+country: United States
+description: It is believed that a number of ghosts roam the halls of Hesser College. One of the spirits is the ghost of a young boy who bounces his ball around the third and fourth floors. Many people have heard him, but when they go to investigate, the boy disappears and the bouncing ball sound vanishes. Students have also reported hearing the sound of a wet finger running down their window and eerie blue eyes staring at them. Legend states that a young girl died of hypothermia and attempted to write help on the window. The back stairwell that goes down by the administration offices is haunted. Also, there is a lady that walks the 5th floor in high heels (you hear the tapping of the heals) the floor is carpeted. The little boys face (profile view)is imprinted in the study lounge on the 4th floor.
+location: Hesser College
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.469627
+latitude: 42.9719706
+city_longitude: -71.4547891
+city_latitude: 42.9956397
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

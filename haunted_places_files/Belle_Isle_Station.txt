@@ -1,0 +1,21 @@
+city: Oklahoma City
+country: United States
+description: The Belle Isle Station was demolished in 1999 to but in a shopping center there. But strange occurrences have begun there. The machinery has been acting up and moving by themselves, such as a crane, and power failures have happened. Sometimes at night you can see things in the form of a floating mist moving about. One day as I was going to Penn Square Mall, which is next to the shopping center, I felt a rush of cold air go right past me, but it was in the middle of August which would be about 100 degrees Fahrenheit. Even some of the construction workers complained about come things thinking its kids going there at night.
+location: Belle Isle Station
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.5360441
+latitude: 35.5249292
+city_longitude: -97.5164276
+city_latitude: 35.4675602
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fultonville
+country: United States
+description: Mansion and grounds once owned by John Starin. Noises, movement, shadows present on grounds and guest and servant quarters.
+location: Starin Place
+state: New York
+state_abbrev: NY
+longitude: -74.362873
+latitude: 42.942626
+city_longitude: -74.3704128
+city_latitude: 42.9478514
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1825/08/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

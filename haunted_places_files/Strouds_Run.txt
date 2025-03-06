@@ -1,0 +1,20 @@
+city: Athens
+country: United States
+description: They say that if you go to Strouds Run, at any time of night, you can see a buffalo drinking from the stream. The buffalo was the last buffalo of the area and it was made a law not to kill it. Later locals named the buffalo Stroud. Then one day the British or French, not sure which army it was, killed the buffalo. Well, the U.S got really mad and started killing all the soldiers in the camp. One of the soldiers took the skull of the buffalo and hid all of the army’s money in it then buried it... and it has never been found.
+location: Strouds Run
+state: Ohio
+state_abbrev: OH
+longitude: -82.01630999999999
+latitude: 39.33531139999999
+city_longitude: -82.1012554
+city_latitude: 39.3292396
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

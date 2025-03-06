@@ -1,0 +1,21 @@
+city: Harrah
+country: United States
+description: Reported sighting of the Dearlady Running right along side a moving truck. Making a truck shake.
+location: Harrah bridge
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.1594299
+latitude: 35.438344
+city_longitude: -97.1636408
+city_latitude: 35.4895085
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

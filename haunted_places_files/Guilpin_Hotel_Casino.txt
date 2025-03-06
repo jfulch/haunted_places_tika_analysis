@@ -1,0 +1,20 @@
+city: Blackhawk
+country: United States
+description: a woman is sometimes seen in the second floor restaurant people say she is Lucile; she killed her self after finding out her boyfriend was killed in a mine accident
+location: Guilpin Hotel Casino
+state: Colorado
+state_abbrev: CO
+longitude: -105.4931558
+latitude: 39.80093979999999
+city_longitude: -105.4938853
+city_latitude: 39.7969322
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1911/08/06
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

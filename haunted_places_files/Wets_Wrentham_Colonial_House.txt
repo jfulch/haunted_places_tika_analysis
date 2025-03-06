@@ -1,0 +1,17 @@
+city: Cumberland
+country: United States
+description: Haunted by an old man who appears in dreams, makes rapping noises, makes appearances, and creates strange noises.
+location: Wets Wrentham Colonial House
+state: Rhode Island
+state_abbrev: RI
+city_longitude: -71.4061876
+city_latitude: 41.9721816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

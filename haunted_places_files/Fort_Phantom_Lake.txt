@@ -1,0 +1,21 @@
+city: Abilene
+country: United States
+description: It is known that a lady walking across the lake late at night wearing a wedding dress then a fish jumps out of the water 3 times as she walks by then she disappears.
+location: Fort Phantom Lake
+state: Texas
+state_abbrev: TX
+longitude: -99.68704590000002
+latitude: 32.5945611
+city_longitude: -99.73314390000002
+city_latitude: 32.4487364
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

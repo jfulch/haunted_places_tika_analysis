@@ -1,0 +1,21 @@
+city: Rehoboth
+country: United States
+description: When you look in the window there is a teacher teaching a class of about 25 kids. They all look at you and they start to come out and they follow you around then suddenly they vanish. People that live around there hear the teacher wringing the bell; they hear noises, and voices coming from the school.
+location: Horbine School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.20132339999999
+latitude: 41.7984379
+city_longitude: -71.2393933
+city_latitude: 41.8470056
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

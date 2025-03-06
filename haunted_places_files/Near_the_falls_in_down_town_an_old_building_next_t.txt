@@ -1,0 +1,21 @@
+city: Idaho Falls
+country: United States
+description: around 9-12 at night if you look toward the top of the building you can see a man jumping from the window to his death, every Wednesday of every week.
+location: Near the falls in down town an old building next to the river
+state: Idaho
+state_abbrev: ID
+longitude: -112.0417226
+latitude: 43.4933323
+city_longitude: -112.0339645
+city_latitude: 43.49165139999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

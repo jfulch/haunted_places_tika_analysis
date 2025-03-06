@@ -1,0 +1,20 @@
+city: Fort Collins
+country: United States
+description: It's an abandoned goat farm. Many sightings have occurred there. The ghosts may vary from a floating white blob to a shadow figure of a man. Many say that they hear bells jingling as they approach the site.
+location: Hell
+state: Colorado
+state_abbrev: CO
+longitude: -105.4072985
+latitude: 40.3302738
+city_longitude: -105.084423
+city_latitude: 40.5852602
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

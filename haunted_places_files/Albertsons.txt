@@ -1,0 +1,21 @@
+city: Fullerton
+country: United States
+description: Sometimes, when all workers leave, cans of food come flying off the shelves leaving a huge mess for the workers to clean up. Also there has been sightings of a old man with a cane who moans and groans. As it stares you in the face, it fades away.
+location: Albertsons
+state: California
+state_abbrev: CA
+longitude: -117.9659799
+latitude: 33.8784952
+city_longitude: -117.9242123
+city_latitude: 33.8703645
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

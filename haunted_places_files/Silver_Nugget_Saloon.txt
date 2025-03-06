@@ -1,0 +1,19 @@
+city: Donna
+country: United States
+description: late at night some people have said they have seen lights turn on by themselves others have said they have heard music dancing and laughter coming from the building.
+location: Silver Nugget Saloon
+state: Texas
+state_abbrev: TX
+city_longitude: -98.05195
+city_latitude: 26.1703525
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

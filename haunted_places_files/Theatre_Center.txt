@@ -1,0 +1,21 @@
+city: Springfield
+country: United States
+description: Joe supposedly haunts the theatre! He was one of the best actors there one night when he was coming out of the building he was pulled be hind an alley and was murdered! He has haunted the theatre ever since.
+location: Theatre Center
+state: Illinois
+state_abbrev: IL
+longitude: -89.6476091
+latitude: 39.7977211
+city_longitude: -89.6501481
+city_latitude: 39.78172130000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

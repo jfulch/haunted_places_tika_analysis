@@ -1,0 +1,21 @@
+city: Yuba City
+country: United States
+description: the ghosts of students who died in a bus crash in the 70s have often been seen on the stage. Opening night of the musical fiddler on the roof was disrupted by the lights not working. Apparitions have been seen by the light cage and the costume closets. Cold spots are always felt in the tool room.
+location: Yuba City high school theater
+state: California
+state_abbrev: CA
+longitude: -121.623349
+latitude: 39.1297513
+city_longitude: -121.6169108
+city_latitude: 39.1404477
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1893/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

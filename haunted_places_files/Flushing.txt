@@ -1,0 +1,21 @@
+city: Queens
+country: United States
+description: Aurora Concept - Aurora Concept now a Rehab was once a Dancing Studio. A young girl hung herself on the Girls side of the Building in a room, which as a floor entrance too downstairs in one of the closets. Many people have seen a ghost, heard noises, had doors slam on them, lights shut off and on, & radio playing without being turned on.
+location: Flushing
+state: New York
+state_abbrev: NY
+longitude: -73.833079
+latitude: 40.7674987
+city_longitude: -73.7948516
+city_latitude: 40.7282239
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

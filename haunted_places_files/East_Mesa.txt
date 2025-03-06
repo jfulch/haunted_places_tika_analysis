@@ -1,0 +1,21 @@
+city: Maricopa County
+country: United States
+description: Nesbits (Campground) - Located on Mckelups Road and Power Road, just past Power Road on the north side, it is said that it used to be a satanic camp, and people were murdered there. There are reports of demonic laughter coming from everywhere, dark figures, strange noises and cold spots.
+location: East Mesa
+state: Arizona
+state_abbrev: AZ
+longitude: -111.6579135
+latitude: 33.4153255
+city_longitude: -112.4291464
+city_latitude: 33.2917968
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

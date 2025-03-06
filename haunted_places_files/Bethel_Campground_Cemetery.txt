@@ -1,0 +1,18 @@
+city: Benton
+country: United States
+description: At night you can hear voices coming from the cemetery and blue lights floating through it.
+location: Bethel Campground Cemetery
+state: Missouri
+state_abbrev: MO
+city_longitude: -89.5625848
+city_latitude: 37.0978279
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

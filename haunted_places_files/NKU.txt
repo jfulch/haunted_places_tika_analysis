@@ -1,0 +1,21 @@
+city: Highland Heights
+country: United States
+description: Alumni House - This house once belonged to a farming family who owned the land where Northern Kentucky University now sits. The house is now used as the Alumni House for gatherings and functions. At times locked doors are unable to be unlocked. Mysterious footsteps on the second floor where the bedrooms are and the toilet on the second floor flushing by itself. In the second floor window a person can be seen standing at the window with the curtain held back at times seen from outside. The longer you stand there looking at the window the person disappears and the curtain will fall back into place.
+location: NKU
+state: Kentucky
+state_abbrev: KY
+longitude: -84.4643828
+latitude: 39.0318034
+city_longitude: -84.4518854
+city_latitude: 39.0331169
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1954/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

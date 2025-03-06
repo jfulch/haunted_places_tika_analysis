@@ -1,0 +1,21 @@
+city: Weston
+country: United States
+description: Walters Hall - horrible feelings of fear and dread have been reported.
+location: Regis College
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.3076196
+latitude: 42.3502721
+city_longitude: -71.3031132
+city_latitude: 42.3667625
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1929/09/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

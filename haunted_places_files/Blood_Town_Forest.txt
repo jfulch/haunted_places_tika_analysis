@@ -1,0 +1,19 @@
+city: Lancaster
+country: United States
+description: This forest got its name back in the 70s when kids used to go camping out in the forest. One night a guy and a girl went out there, and while the girl was setting up the tent, the guy went back to the car to get something, and when he got to the car, the girl's head was resting on the hood of the car. So he ran to a nearby farmer's house and called the police, and when the police got to the car, the guy's body was dead next to it. Since then the name was been changed to Blood Town Forest for obvious reasons. You can hear all kinds of messed up things if you go out there, but be careful if you do because farmers that live nearby try to chase kids away from going in the forest. There is a big rock at the entrance that tells the entire story. A few kids have said that they have seen stuff out there.
+location: Blood Town Forest
+state: Maine
+state_abbrev: ME
+city_longitude: -70.26090649999999
+city_latitude: 43.660975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Huntsville
+country: United States
+description: Reports of handprints being left on witnesses 92 vehicles by unseen hands, apparitions, and a strange creature with no face.
+location: Bowden " Demons " Rd.
+state: Texas
+state_abbrev: TX
+city_longitude: -95.5507771
+city_latitude: 30.7235263
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

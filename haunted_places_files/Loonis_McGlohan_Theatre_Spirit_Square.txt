@@ -1,0 +1,21 @@
+city: Charlotte
+country: United States
+description: The original building in this location was constructed in the late 1800's, as a church. In 1903 it was rebuilt into the structure, which exists there today. The church was taken over by the city, in the 1940's or early 1950's, and renovated into a theatre. Now, almost 100 years later, you can hear people walking around in the Church/Theatre when the facility is closed. As well, a few of the employees have noted that sometimes when they are working in the sub-basement, they can hear faint singing coming from above them.
+location: Loonis McGlohan Theatre (Spirit Square)
+state: North Carolina
+state_abbrev: NC
+longitude: -80.83994
+latitude: 35.228964
+city_longitude: -80.8431267
+city_latitude: 35.2270869
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1903/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

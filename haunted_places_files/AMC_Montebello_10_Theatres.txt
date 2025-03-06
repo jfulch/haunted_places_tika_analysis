@@ -1,0 +1,21 @@
+city: Montebello
+country: United States
+description: This theatre is haunted by a spirit who was stabbed and later died when the theatre first opened. Most of the activity occurs around theatres 8 and 9. Theatre 9 is always eerily cold, even with the heaters on. Upstairs in the projection booth above #9, lights turned off by employees sometimes mysteriously come back on. It is also said you can see a figure's shadow when movies are on against the wall in theatre #6.
+location: AMC Montebello 10 Theatres
+state: California
+state_abbrev: CA
+longitude: -118.0927655
+latitude: 34.0340124
+city_longitude: -118.1137535
+city_latitude: 34.0165053
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

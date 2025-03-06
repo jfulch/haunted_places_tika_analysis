@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: This place is the elementary across from Our Lady of the Lake University. It is said that when it use to be a border school there was a girl that was killed in the restroom. Unusual things have happened such as lights being on after they were turned off and things have gone missing.
+location: St. Martin Hall
+state: Texas
+state_abbrev: TX
+longitude: -98.5426193
+latitude: 29.4252594
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

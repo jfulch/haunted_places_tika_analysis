@@ -1,0 +1,19 @@
+city: Livonia
+country: United States
+description: While walking around the outside of the building you can hear music, voices and moaning coming from one of the windows in the front of the building. While inside the building, witnesses heard screams, moaning, and slamming doors, and reports of severe temperature changes.- November Update: Has Been torn down, but there are reports you can still see ghosts.
+location: Ardmore center
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.35270969999999
+city_latitude: 42.36837
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

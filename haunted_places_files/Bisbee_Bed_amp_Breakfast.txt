@@ -1,0 +1,21 @@
+city: Bisbee
+country: United States
+description: A presence has been reported in both the Blue Room and in Room 13, as well as in several other locations throughout the house. In the Grandma Room, various guests have reported what appeared to be an older woman watching over them during the night. Although the sightings reportedly made guests nervous, it was thought to be a benevolent spirit offering its presence as a protection.
+location: Bisbee Bed &amp; Breakfast
+state: Arizona
+state_abbrev: AZ
+longitude: -109.9318312
+latitude: 31.4502219
+city_longitude: -109.9284084
+city_latitude: 31.4481547
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1886/06/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: ghosts including a tall black figure, Madame Lalaurie, and other spirits haunt this place.
+location: Lalaurie House
+state: Louisiana
+state_abbrev: LA
+longitude: -90.06114099999999
+latitude: 29.9618587
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1787/03/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: if you work night shift (12:00-8:00am)you see a figure of person laying on the bed. Most cleaning ladies in the emerald tower (green tower) hold rosary beads walking through those halls.
+location: MGM Grand hotel &amp; casino
+state: Nevada
+state_abbrev: NV
+longitude: -115.1702533
+latitude: 36.102576
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

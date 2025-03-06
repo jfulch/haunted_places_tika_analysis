@@ -1,0 +1,21 @@
+city: Paxton
+country: United States
+description: Music Building - There are doors that open and close on their own, curtains move on their own as well. The grand piano in the performance hall will sometimes play even when locked. People have also said they saw the two lowest notes played on some of the pianos in the practice rooms. - July 2005 Update: The ghost in the music building is believed to be a former student by the name of Betty.
+location: Anna Maria College
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.91794399999999
+latitude: 42.327075
+city_longitude: -71.9278427
+city_latitude: 42.3114889
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

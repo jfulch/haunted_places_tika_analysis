@@ -1,0 +1,19 @@
+city: Barnesville
+country: United States
+description: Behind the Gordon College Commons, adjacent to the baseball fields is one the scariest places in Georgia. All one need do is walk the two mile trasil just after midnight. Ask anybody who's done what they see everytime. It's just too good to be spoiled. Good news: It's a public walking path that is always open. Bring a flashlight...you'll need it. Need a tour guide, ask around campus for Chris Mckinley. That guy will tell you some tales.
+location: The Walking Path
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.15574950000001
+city_latitude: 33.0545709
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1685/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

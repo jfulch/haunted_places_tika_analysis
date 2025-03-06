@@ -1,0 +1,21 @@
+city: Wartburg
+country: United States
+description: There's a field on the right side of the road. Collin's Field. If someone drives by at Midnight when there's a full moon it is said, that there is a ghost of a slave that once worked that field who murdered his owner's daughter. He can be seen walking along waving around a pitchfork looking for his next victim.
+location: Pettit Lane
+state: Tennessee
+state_abbrev: TN
+longitude: -84.52204569999999
+latitude: 36.0713716
+city_longitude: -84.597162
+city_latitude: 36.1047979
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

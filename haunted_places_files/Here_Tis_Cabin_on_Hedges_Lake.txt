@@ -1,0 +1,19 @@
+city: Jackson
+country: United States
+description: This cabin has had many sightings of the supernatural. The back few rooms of the 100-year-old place have always been active ever since we bought the place. From washers running on their own with no electricity running through them to knocking on walls to footsteps going up and down the stairs with no one else in the cabin is a normal for up there. Ever since the back few rooms were redone and redecorated things have become a little more active this year which makes it a fun summer trip every year.
+location: Here Tis', Cabin on Hedges Lake
+state: New York
+state_abbrev: NY
+city_longitude: -73.3944466
+city_latitude: 43.0856937
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

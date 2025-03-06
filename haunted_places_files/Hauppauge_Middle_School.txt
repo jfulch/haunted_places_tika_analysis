@@ -1,0 +1,21 @@
+city: Hauppauge
+country: United States
+description: The old Hauppage is one of the most weirdest schools on Long Island. There is said to be a ghost for revenge in room A-22. There is a ghost that picks up pens & then throws them at people.
+location: Hauppauge Middle School
+state: New York
+state_abbrev: NY
+longitude: -73.1980674
+latitude: 40.8248443
+city_longitude: -73.2026138
+city_latitude: 40.8256536
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

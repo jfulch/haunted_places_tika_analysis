@@ -1,0 +1,21 @@
+city: Tomball
+country: United States
+description: In the Civil War era, a munitions factory existed in what is now the back portion of the park. It was destroyed when something touched off an explosion, which killed approximately 200 men. If you visit the sight today, even on a hot day, you will get chills
+location: Spring Creek Park
+state: Texas
+state_abbrev: TX
+longitude: -95.6526943
+latitude: 30.1005064
+city_longitude: -95.6160549
+city_latitude: 30.0971621
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

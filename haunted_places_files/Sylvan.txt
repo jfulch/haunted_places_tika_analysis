@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: Gibbs Bridge - Reports of hearing squealing brakes to a car, high pitched, giggling, & a dark figure walking towards the witnesses.
+location: Sylvan
+state: Ohio
+state_abbrev: OH
+longitude: -83.7122411
+latitude: 41.6112139
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2011/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: War
+witness_count: 1

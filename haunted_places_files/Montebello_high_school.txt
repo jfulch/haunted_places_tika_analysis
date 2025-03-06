@@ -1,0 +1,21 @@
+city: Montebello
+country: United States
+description: back in the late 80's a woman was hung in the c building. Now if you walk by C building late at night it is said that you can hear a woman struggling. In the auditorium when the lights are turned off and you are by yourself you can hear people laughing at you and hear mysterious footsteps.
+location: Montebello high school
+state: California
+state_abbrev: CA
+longitude: -118.1228745
+latitude: 34.0156404
+city_longitude: -118.1137535
+city_latitude: 34.0165053
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

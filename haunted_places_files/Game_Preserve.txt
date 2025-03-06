@@ -1,0 +1,19 @@
+city: Rockville
+country: United States
+description: The narrow bridge in the middle of the road... back at the turn of the century a woman and her child were killed my gang members. At midnight you can hear the child crying if there are no cars around and its all dark and quite.
+location: Game Preserve
+state: Maryland
+state_abbrev: MD
+city_longitude: -77.1527578
+city_latitude: 39.0839973
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

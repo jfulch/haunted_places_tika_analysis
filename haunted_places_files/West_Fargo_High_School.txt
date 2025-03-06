@@ -1,0 +1,21 @@
+city: West Fargo
+country: United States
+description: In the auditorium it is noted that a ghost "Rupert" is haunting the place. The lights flicker the sound shuts off. (When no one is at the controls.) It could be of a janitor who fell from the high lighting equipment in the early 80's.
+location: West Fargo High School
+state: North Dakota
+state_abbrev: ND
+longitude: -96.880953
+latitude: 46.867588
+city_longitude: -96.8999057
+city_latitude: 46.8769487
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1931/03/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

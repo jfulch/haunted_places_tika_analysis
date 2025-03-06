@@ -1,0 +1,20 @@
+city: Stony Brook
+country: United States
+description: An old farm house built in 1710, used as a stagecoach station in the1800's. Now a restaurant, is haunted by the ghost of a young woman who was hanged by the British as a spy during the revolutionary war. It's said that her presence can be felt on the staircase and in the kitchen.
+location: Country House Restaurant
+state: New York
+state_abbrev: NY
+longitude: -73.1421745
+latitude: 40.91265910000001
+city_longitude: -73.1409429
+city_latitude: 40.9256538
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1710/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

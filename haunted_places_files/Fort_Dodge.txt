@@ -1,0 +1,21 @@
+city: Dodge City
+country: United States
+description: still stands and in use as a retirement home for old solders. The building there is 150 years old and holds many spirits and is not for the faint of heart.
+location: Fort Dodge
+state: Kansas
+state_abbrev: KS
+longitude: -99.963396
+latitude: 37.7408005
+city_longitude: -100.0170787
+city_latitude: 37.7527982
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

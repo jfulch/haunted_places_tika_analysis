@@ -1,0 +1,21 @@
+city: Redlands
+country: United States
+description: This lovely mansion was once a bed and breakfast, but it is now under private ownership. There have been reports of several apparitions including a little girl, an old man (once a caretaker for the mansion) and a young boy has been seen. Most sightings are friendly in nature.
+location: Morey Mansion
+state: California
+state_abbrev: CA
+longitude: -117.2080128
+latitude: 34.0388214
+city_longitude: -117.1825381
+city_latitude: 34.0555693
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Miami
+country: United States
+description: People who work and live there complain about lights turning on and off, hearing footsteps when they know they are alone, hearing voices, doors locking by themselves. On one occasion security was called when people heard a fight going on in the garage. When security got there they could hear the yelling but could not find anyone there and then suddenly the voices stopped. It is not certain how many spirits are there but at times they do make themselves known.
+location: The Jockey Club
+state: Florida
+state_abbrev: FL
+longitude: -80.16547249999999
+latitude: 25.8796677
+city_longitude: -80.1917902
+city_latitude: 25.7616798
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

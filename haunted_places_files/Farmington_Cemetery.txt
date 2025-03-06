@@ -1,0 +1,21 @@
+city: Farmington Hills
+country: United States
+description: On Grand River just past Farmington road there is a cemetery that is haunted. If you are leaving through the west gate, which is on a hill, and you put your car in neutral, your car is mysteriously "pushed" up the hill and out of the gate of the Cemetery. - April 2007 update – a group went to investigate this haunting and found nothing. Further, they found no facts that it has ever really happened or have been recorded to happen.
+location: Farmington Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -83.3785425
+latitude: 42.5182053
+city_longitude: -83.3677168
+city_latitude: 42.4989936
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1854/06/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

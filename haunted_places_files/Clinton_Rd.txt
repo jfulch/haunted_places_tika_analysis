@@ -1,0 +1,21 @@
+city: West Milford
+country: United States
+description: There is said to be the spirit of a little boy which haunts a small stream. If you toss a coin in at midnight he will throw it back. There is the story of the haunted coach that runs the road. There is also a "Hell-Hound" that chases you down if you enter the woods on the side of the road and see it. It is said to travel as fast as your car can go. (Note: Clinton Road is a hot bed for ghosts and other mysterious happenings.).
+location: Clinton Rd.
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.4320853
+latitude: 41.1104037
+city_longitude: -74.3673254
+city_latitude: 41.1311292
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

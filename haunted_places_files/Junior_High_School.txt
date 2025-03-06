@@ -1,0 +1,21 @@
+city: Fabens
+country: United States
+description: In the Auditorium there's said to be a ghost in the bathrooms. They say that Bloody Mary appears there.
+location: Junior High School
+state: Texas
+state_abbrev: TX
+longitude: -106.144494
+latitude: 31.5020645
+city_longitude: -106.1585867
+city_latitude: 31.50234
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

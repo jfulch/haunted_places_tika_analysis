@@ -1,0 +1,21 @@
+city: Cowan
+country: United States
+description: At night you can see the tombstones shine and people sometimes report seeing people standing be side them.
+location: Ciwan Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -85.77661800000001
+latitude: 36.2170479
+city_longitude: -86.01053759999999
+city_latitude: 35.1645273
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2011/09/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

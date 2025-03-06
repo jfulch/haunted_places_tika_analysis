@@ -1,0 +1,20 @@
+city: Columbia
+country: United States
+description: This theater is haunted by the ghost of the former owner, who makes clanking noises and the curtains have been known to rise and fall without prompting.
+location: The Missouri Theater
+state: Missouri
+state_abbrev: MO
+longitude: -92.3277407
+latitude: 38.9493032
+city_longitude: -92.3340724
+city_latitude: 38.9517053
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

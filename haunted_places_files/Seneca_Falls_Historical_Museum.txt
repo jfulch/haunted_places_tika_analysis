@@ -1,0 +1,21 @@
+city: Seneca Falls
+country: United States
+description: The museum is supposedly haunted by a former resident named Edward Mynderse. The ghost is referred to as "Edward" and has been known to throw stuffed animals across rooms and remove tacks from the storm window plastic. He is a friendly ghost, a practical jokester. Museumgoers are informed of the ghost upon visiting the museum.
+location: Seneca Falls Historical Museum
+state: New York
+state_abbrev: NY
+longitude: -76.794958
+latitude: 42.9151929
+city_longitude: -76.79135579999999
+city_latitude: 42.9187636
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

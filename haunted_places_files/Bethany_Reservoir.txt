@@ -1,0 +1,21 @@
+city: Tracy
+country: United States
+description: There have been sightings of children running through the hills around the reservoir screaming. Rumor has it that in 1962 an alcoholic father took his 3 sons and 2 daughters on a fishing trip and went insane and hunted his kids down one by one.
+location: Bethany Reservoir
+state: California
+state_abbrev: CA
+longitude: -121.5994278
+latitude: 37.7692793
+city_longitude: -121.4252227
+city_latitude: 37.7396513
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1962/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

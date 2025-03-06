@@ -1,0 +1,20 @@
+city: Hastings
+country: United States
+description: is rumored to have a ghost of a former resident.
+location: LeDuc Mansion
+state: Minnesota
+state_abbrev: MN
+longitude: -92.8517885
+latitude: 44.7293069
+city_longitude: -92.8513706
+city_latitude: 44.7443293
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

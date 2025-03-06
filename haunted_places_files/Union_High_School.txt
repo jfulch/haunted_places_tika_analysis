@@ -1,0 +1,21 @@
+city: Neola
+country: United States
+description: The school was built on top of an old Indian burial ground. The Auditorium is haunted by a ghost named Edwin who has played mean tricks on people such as hanging costumes in the curtain tracks and turning of the lights on unsuspecting people in the auditorium alone. Also he pushed a coffin off the stage with a person inside it during the production of Dracula.
+location: Union High School
+state: Utah
+state_abbrev: UT
+longitude: -109.9765752
+latitude: 40.3008324
+city_longitude: -110.0298752
+city_latitude: 40.4332885
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

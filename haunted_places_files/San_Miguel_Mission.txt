@@ -1,0 +1,21 @@
+city: San Miguel
+country: United States
+description: Adobe Compound - Purchased from the Mexican government by John Reed, the adobe compound was turned into an inn. In 1848, a gang of English pirates raided the inn due to a rumor that a treasure was buried on the property. When the raid was complete, 13 people were killed including reed, his family, and other guests staying at the inn. The treasure was never found, their ghosts are said to haunt the property.
+location: San Miguel Mission
+state: California
+state_abbrev: CA
+longitude: -120.6971835
+latitude: 35.7449694
+city_longitude: -120.6962826
+city_latitude: 35.7524679
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1848/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

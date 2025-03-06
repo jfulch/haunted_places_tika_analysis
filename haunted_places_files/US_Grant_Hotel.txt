@@ -1,0 +1,21 @@
+city: San Diego
+country: United States
+description: This hotel was built in 1910, and apparently a man walks the hallways of the hotel, and at times goes into the rooms and makes noises.
+location: U.S Grant Hotel
+state: California
+state_abbrev: CA
+longitude: -117.1615416
+latitude: 32.7160596
+city_longitude: -117.1610838
+city_latitude: 32.715738
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1910/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 0

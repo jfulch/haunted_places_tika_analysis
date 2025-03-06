@@ -1,0 +1,21 @@
+city: Rogers
+country: United States
+description: This is the site of a Civil War encampment. There are reports of phantom regiments marching in the area, shouts in the middle of the night, musket fire and horses. All of this happens after dark, and there are heavy mists from the nearby lake that obscure visibility past 20-30 feet on the road. There have also been reports of a "Bigfoot-type" creature in the area, not unlike the Boggy Creek Monster.
+location: Cross Hollows
+state: Arkansas
+state_abbrev: AR
+longitude: -94.1132584
+latitude: 36.2784093
+city_longitude: -94.1185366
+city_latitude: 36.3320196
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

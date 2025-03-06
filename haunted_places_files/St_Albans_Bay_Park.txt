@@ -1,0 +1,21 @@
+city: St. Albans Bay
+country: United States
+description: There have been sightings of a ghost ship floating about in this bay. Witnesses have even claimed that ghostly pirates on the ship will yell out to the fishermen. Legend states that they are trying to capture a creature once believed to inhabit the bay, known as Champ.
+location: St. Albans Bay Park
+state: Vermont
+state_abbrev: VT
+longitude: -73.1427549
+latitude: 44.8098559
+city_longitude: -73.1393015
+city_latitude: 44.8078225
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

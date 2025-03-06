@@ -1,0 +1,21 @@
+city: Yorkville
+country: United States
+description: At the Fox River Front there is a dam. Many people think that since it is small they can get their canoes, boats, ext. over it. Well, you can't. Therefore they drown. There have been several drownings there. Around 1:00 a.m., Saturday, you can see a family of 3. The father is holding a canoe paddle, the mother is crying, and the girl that is about 11 is holding a life jacket. They start walking from the dam, through the river back to the river front, before they get onto the river front, they disappear.
+location: The Fox River Front
+state: Illinois
+state_abbrev: IL
+longitude: -88.4429626
+latitude: 41.64227109999999
+city_longitude: -88.44729480000001
+city_latitude: 41.6411409
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

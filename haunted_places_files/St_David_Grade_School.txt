@@ -1,0 +1,21 @@
+city: St. David
+country: United States
+description: A young girl was ran over while she was running across the street right in front of the school. She haunted the third swing from the right on the big swing set in the playground. Also, a janitor hung himself in the girl's restroom in the basement. In the classroom next to the restroom, there were doors slamming and papers flying off a desk when windows were closed. Since the occurrences, the school has been closed and someone lives in the abandoned school building.
+location: St. David Grade School
+state: Illinois
+state_abbrev: IL
+longitude: -110.2207883
+latitude: 31.9054198
+city_longitude: -90.04872840000002
+city_latitude: 40.4933728
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 26m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

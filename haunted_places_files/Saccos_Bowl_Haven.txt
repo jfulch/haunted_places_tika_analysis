@@ -1,0 +1,21 @@
+city: Sommerville
+country: United States
+description: Weird noises from the back of the bowling alley at night, if you watch the pins in the back of the all you can see something moving behind them, usually like a shadow passing over them. Scratching on the walls and can be heard at almost all hours, and for no reason a large area of the place will suddenly become freezing. Documented case of an employee's girlfriend walking to the back to shut off the lights after hours and coming back to the front desk with grease and oil "finger" streaks rubbed into her face.
+location: Sacco's Bowl Haven
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1238204
+latitude: 42.395749
+city_longitude: -71.0994968
+city_latitude: 42.3875968
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

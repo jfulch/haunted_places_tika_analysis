@@ -1,0 +1,21 @@
+city: O'ahu
+country: United States
+description: It has been said that a wheelchair ghost will roll up to a window and vanish, along with hearing footsteps and pounding when the building is empty at night.
+location: Camp H.M. Smith
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9095172
+latitude: 21.3852575
+city_longitude: -158.0000565
+city_latitude: 21.4389123
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1893/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

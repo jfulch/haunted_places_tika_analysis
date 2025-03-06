@@ -1,0 +1,21 @@
+city: Lake Forest
+country: United States
+description: The school is going to be 100 years old this year and there have so many ghost sightings there that you could write a whole book about it. Apparitions that have been seen include 3 children (2 girls and 1 boy), Nuns (not sure how many, but the school used to be Catholic and the Nuns used to live on campus) a groundskeeper and various others. A large majority of students have seen or heard unexplainable phenomena
+location: Barat College
+state: Illinois
+state_abbrev: IL
+longitude: -87.82951299999999
+latitude: 42.235301
+city_longitude: -87.840625
+city_latitude: 42.2586342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

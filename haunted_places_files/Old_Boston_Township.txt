@@ -1,0 +1,20 @@
+city: Peninsula
+country: United States
+description: This place is often called Mutane Town. The entire area is haunted. It's said if you look in the window of the old slaughterhouse you can see faces. The cemetery is haunted. The church is haunted. There is a crybaby bridge there and it's said that if you bring an extra set of keys, park on the bridge, turn your car off, lock the doors and walk away with the keys just sitting inside when you come back the car will be covered in dust with little footprints all over it and the car will be running, but still locked.
+location: Old Boston Township
+state: Ohio
+state_abbrev: OH
+longitude: -81.554644
+latitude: 41.241919
+city_longitude: -81.55261759999999
+city_latitude: 41.2411668
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

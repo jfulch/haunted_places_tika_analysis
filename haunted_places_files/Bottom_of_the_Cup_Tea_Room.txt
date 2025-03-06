@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: A ghost called Julhunts the place. People see the back of her turn around the corner or feel her brush past them.
+location: Bottom of the Cup Tea Room
+state: Louisiana
+state_abbrev: LA
+longitude: -90.0663454
+latitude: 29.9548494
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

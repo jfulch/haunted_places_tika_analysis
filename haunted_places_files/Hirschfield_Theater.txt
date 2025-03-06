@@ -1,0 +1,21 @@
+city: Miami
+country: United States
+description: footsteps and other unexplained events are common here.
+location: Hirschfield Theater
+state: Florida
+state_abbrev: FL
+longitude: -73.989201
+latitude: 40.759261
+city_longitude: -80.1917902
+city_latitude: 25.7616798
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

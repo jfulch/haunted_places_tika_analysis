@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: There have been many reports of 4th grade teachers and students that have seen a girl dressed in white that follows the students around the school. Only the teachers and 4th graders can see her. This girl appears out of nowhere and is often seen in room 26 and in the computer room. Stories tell that this girl was a former student at Edwards. She enrolled in the school in 1990 and died during her fist year @ this school. she was in fourth grade and that's why only the children that are currently in this grade can see her. Some kids claim that when they saw her face was deformed and she would screech really loud and would appear in the child's dream at night and this dream wouldn't go away until they told this entire story to another student or teacher.
+location: Edwards Elementary School
+state: Nevada
+state_abbrev: NV
+longitude: -115.0752343
+latitude: 36.1709011
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

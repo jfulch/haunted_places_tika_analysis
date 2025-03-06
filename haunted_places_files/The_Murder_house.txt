@@ -1,0 +1,18 @@
+city: Lavallette
+country: United States
+description: Eighty years ago, a middle aged sea captain purchased a large house on the boardwalk facing the ocean. Legend states that he bought it for his young wife, who was only eighteen at the time. A few years later, the Captain made his final voyage, never to return. His young wife was said to have spent countless nights on the widows walk, waiting for the Captain to return. One frigid January morning, exactly two years after the Captain left, her body was found frozen on the widows walk. To this day she can be seen standing on the widows walk, waiting for her beloved to return.
+location: The Murder house
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.0687475
+city_latitude: 39.9703958
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

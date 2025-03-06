@@ -1,0 +1,21 @@
+city: Alice
+country: United States
+description: This movie theater closed in the 1980's. Former employees and an occasional patron claimed to have seen shadowy figures in the upper darkened hallways and to have experienced feelings of dread. Feelings of being watched from the upper levels were a common experience.
+location: The Old Rialto Theater on Main Street
+state: Texas
+state_abbrev: TX
+longitude: -98.0735497
+latitude: 27.7502457
+city_longitude: -98.0697249
+city_latitude: 27.7522487
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Dutchess County
+country: United States
+description: Benett College - An old abandon all girls college. Haunted by the girls who used to attend the school. Many girls committed suicide there and are still roaming the dorms.
+location: Millbrook
+state: New York
+state_abbrev: NY
+longitude: -73.6940175
+latitude: 41.7850937
+city_longitude: -73.7477857
+city_latitude: 41.7784372
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/12/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

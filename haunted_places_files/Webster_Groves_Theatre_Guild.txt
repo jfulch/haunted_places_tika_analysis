@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: Believed to be haunted by a little girl in the upper part of the theatre, who is playful and likes to play tricks on people during rehearsals. Another spirit of an old lady whom the little girl is said to be terrified of, is in the basement of the theatre.
+location: Webster Groves Theatre Guild
+state: Missouri
+state_abbrev: MO
+longitude: -90.339764
+latitude: 38.599005
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Point Lookout
+country: United States
+description: Numercus hauntings of the campus. Ghost have been seen in the Theatre, in the steam tunnels and power plant, and in the older dorms. One ghost is known to had migrated from the former little theater to the New theater on campus, when the old theater was destroyed for safety reasons.
+location: College of the Ozarks
+state: Missouri
+state_abbrev: MO
+longitude: -93.2393789
+latitude: 36.6163199
+city_longitude: -93.239029
+city_latitude: 36.6185581
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

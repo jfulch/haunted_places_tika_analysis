@@ -1,0 +1,21 @@
+city: Lexington
+country: United States
+description: A walk past Captain Smith's house is the spot where one of the very first confrontation between the British Regulars and the Militia. The Militia ambushed the "Red Coats" killing eight. British soldiers are buried along the trail. Reports of fear and anguish towards sun down when the battle took place. Also children are sometimes seen around Captain Smith's house.
+location: Battle Road
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.32152049999999
+latitude: 42.4579978
+city_longitude: -71.2289641
+city_latitude: 42.4430372
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1850/01/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: War
+witness_count: 1

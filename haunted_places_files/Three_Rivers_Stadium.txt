@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: - December 2005 Correction/Additional Information: No longer exists - after Heinz Field and PNC Park were built. - December 2005 Correction/Additional Information: No longer exists, but a replica has been built among the office buildings. Famous sport stadium home of the Pittsburgh Steelers. Supposed victim and fan was set on fire and hung and is said to haunt any road team that ventures into Pittsburgh. - September 2005 Update: has been torn down & made into a new parking lot for for the new Heinz Stadium.
+location: Three Rivers Stadium
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0120913
+latitude: 40.4470344
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 0

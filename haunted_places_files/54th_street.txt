@@ -1,0 +1,21 @@
+city: Fennville
+country: United States
+description: in the back roads off the right side of m89 highway there were sightings of a werewolf looking creature it stood about 4 to 5 feet high crouching down a whitish grey color its been sighted by a few people
+location: 54th street
+state: Michigan
+state_abbrev: MI
+longitude: -86.07409469999999
+latitude: 42.559848
+city_longitude: -86.1017009
+city_latitude: 42.5939168
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

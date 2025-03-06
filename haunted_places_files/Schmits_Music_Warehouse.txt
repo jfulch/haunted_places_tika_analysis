@@ -1,0 +1,20 @@
+city: Brooklyn Park
+country: United States
+description: haunted by a man who had a heart attack and died in a doorway to the warehouse in the back of the store. While cleaning up after hours, staff have heard the pianos play by themselves, and the drums and other instruments hanging on the walls play by themselves.
+location: Schmits Music Warehouse
+state: Minnesota
+state_abbrev: MN
+longitude: -93.3121199
+latitude: 45.073213
+city_longitude: -93.3563405
+city_latitude: 45.0941315
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

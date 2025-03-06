@@ -1,0 +1,21 @@
+city: Tulsa
+country: United States
+description: Supposedly the last place where singer Enrico Caruso performed before he died, and said to be haunted by his ghost and that of a workman who fell off a ladder and died. People have heard noises, footsteps, and found ladders and things displaced while in there.
+location: Brady Theatre
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.9953915
+latitude: 36.1580954
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

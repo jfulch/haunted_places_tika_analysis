@@ -1,0 +1,20 @@
+city: Northampton
+country: United States
+description: there's a whole section of northampton where the ruins of an old mental hospital lies. there are various cold spots and apparitions when dusk approaches. even in broad daylight a sense of un-easy-ness can be felt.
+location: Mental Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.6531304
+latitude: 42.3305027
+city_longitude: -72.64120129999999
+city_latitude: 42.3250896
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

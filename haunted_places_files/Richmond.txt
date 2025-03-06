@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: Star piano building - People say that you can hear the voices of the people buried under the building, From when there was a cemetery there. - October 2004 update: The main building has been filled with grafitti over the years, and many of them seem to move, not just to watch visitors, but at times to even shift from floor to floor of the five storie bulding. At times a large truck cam be heard from the loading area in the basement, and you can also hear footsteps and even see debris shifting benieth the feet of an unseen person. Witnesses have reported phenimena from the common cold chills and sense of a "presence" to actual possession.
+location: Richmond
+state: Indiana
+state_abbrev: IN
+longitude: -84.8902382
+latitude: 39.8289369
+city_longitude: -84.981754
+city_latitude: 39.831882
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

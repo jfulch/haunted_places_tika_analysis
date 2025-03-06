@@ -1,0 +1,20 @@
+city: Rapid City
+country: United States
+description: Many employees have had strange interactions with paranormal activities in both the projection room and the main halls. Shadows of human like figures and balls of floating light have been seen by friends and workes alike. Reason for haunting unknown.
+location: Rushmore 9 movie theater
+state: South Dakota
+state_abbrev: SD
+longitude: -103.207077
+latitude: 44.1080216
+city_longitude: -103.2310149
+city_latitude: 44.0805434
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

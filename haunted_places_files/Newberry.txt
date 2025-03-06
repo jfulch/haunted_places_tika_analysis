@@ -1,0 +1,21 @@
+city: York
+country: United States
+description: Industrial Solvents and Chemical Company - Located on Stevens Rd., right next to I-83, ISCC used to be a functioning chemical recycling plant. It was closed awhile back, we're not sure exactly when. Since then local kids have trashed the inside of the place, but every time we go there strange things happen. Dusty gloves have moved without disturbing the dust. Garage doors have closed and locked with no sound. We have heard people screaming although no one was around. Once you walk into this place, you get the feeling that someone is behind you, but no one is there. The people that worked there left in a hurry because all kinds of things were left behind, from pay stubs to doctors excuses and time cards, to boxes of blank checks. Something bad happened there, and there are definitely still people there. - October 2003 update: there is some sort of constuction going on at the site. most of the buildings have been torn down. the main building still stands but the walls are gone.
+location: Newberry
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.79135579999999
+latitude: 40.1293106
+city_longitude: -76.727745
+city_latitude: 39.9625984
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

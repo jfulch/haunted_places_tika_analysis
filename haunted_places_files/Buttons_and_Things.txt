@@ -1,0 +1,19 @@
+city: Freeport
+country: United States
+description: Former employees described clearly hearing footsteps, regularly occurring, walking upstairs when nobody was up there. In what was formerly a house, now a retail store, employees describe having the feeling of being watched, and often catching a glimpse of a figure in a hanging wall mirror. Also, the bells on the door chime on their own when no breeze or person is in the room. - May 2008 Update - The building where Buttons and Things was is now gone. It was demolished to make way for more retail progress in Freeport.
+location: Buttons and Things
+state: Maine
+state_abbrev: ME
+city_longitude: -70.1031201
+city_latitude: 43.8570065
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 0

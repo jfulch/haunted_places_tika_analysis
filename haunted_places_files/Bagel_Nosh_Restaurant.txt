@@ -1,0 +1,21 @@
+city: Encino
+country: United States
+description: Formerly L.A. Cabaret - When it was the comedy club, 2 ghosts were reported. One was a pretty woman, dressed in the 50s era, sitting in a corner booth in the back of the main showroom. She always seemed happy & fun loving. The other was a man, usually in the kitchen area & the control room. One employee working late one night closing the bar & felt a presence which they associated with the male ghost. The sensation of impending danger grew in intensity within seconds, so that they ran out the front door. It is not known if he meant harm or was instead warning them of something, but they had never felt the feeling of being cold the very core like they did then.
+location: Bagel Nosh Restaurant
+state: California
+state_abbrev: CA
+longitude: -118.4863491
+latitude: 34.0291105
+city_longitude: -118.5214282
+city_latitude: 34.1517492
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

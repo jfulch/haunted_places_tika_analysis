@@ -1,0 +1,21 @@
+city: Tarrytown
+country: United States
+description: The ghosts of founders Father Gailhac and Mother Butler roam the halls of the dorms and protect the girls of this women's college.  Evil spirits lurk in Sacky parking lot, left behind when the Sacky House was torn down before the college was built in 1907.  Most haunted dorms:  Gailhac Hall and Gerard Hall.  Strange phenomenon exist in these halls from invisible bed guests to bed shaking and the constant feeling of being watched.  Beware students and stay far away from Ouija Boards.
+location: Marymount College of Fordham University
+state: New York
+state_abbrev: NY
+longitude: -73.85085269999999
+latitude: 41.0778722
+city_longitude: -73.85874609999999
+city_latitude: 41.0762077
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1907/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

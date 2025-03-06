@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: The Bush House is now a Art gallery has a ghost from the tern of the century, she was a young woman who suffered from schizophrenia, her family kept her in the basement in shame. She died there. She now haunts the house. The owners have residents who live in the upstairs they say the ghost of the young woman will play with the thermostat.
+location: Bush House
+state: Oregon
+state_abbrev: OR
+longitude: -123.0392624
+latitude: 44.931431
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

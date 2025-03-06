@@ -1,0 +1,21 @@
+city: Everett
+country: United States
+description: After the sun starts to set and housekeeping has left the basement and turned out the lights, an interesting show starts down there that is caught on the security camera. (Unfortunately, there is no videotape capability for the security camera to catch these events on tape.) On several occasions a shadowy man dressed in a blue or gray janitor's suit was seen to walk up and down the hallway. On other occasions there is the sound of someone noisily opening the washer or dryer although while observing via the camera, it is obvious no one is there and the machines are not being moved. Various clanking and the sound of things being moved around happen about once a night, once again with no one present in the basement. On a separate occasion a cloud of ectoplasm was seen to float across the top view of the camera in the basement, followed by a thunking noise off to the right off camera (the direction the ectoplasm was headed). A final odd incident, a guest's young daughter had the knack of tricking the elevator in to taking her down there -despite the supposed lock on the elevator to prevent such things- and was seen on one occasion holding a conversation with someone who could not be seen, but was heard as a mumbling male voice. Upon inspection by the front desk, there was no one down in the basement, but they experienced an uneasy feeling while retrieving the girl. The hotel has changed ownership twice since being built, so the identity of the gentleman in the basement is unknown. He was not an employee of the current owners. It is thought that he was an elderly maintenance man that died and continues to return to his job despite the change in staff, owners and a hotel name change.
+location: Everett Inn
+state: Washington
+state_abbrev: WA
+longitude: -122.2003645
+latitude: 48.0009744
+city_longitude: -122.2020795
+city_latitude: 47.9789848
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Death
+witness_count: 1

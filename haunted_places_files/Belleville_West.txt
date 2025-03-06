@@ -1,0 +1,21 @@
+city: Belleville
+country: United States
+description: The Auditorium -  of the old Belleville West campus, now Lindenwood University campus, is haunted by a former teacher that died before the production of her play. Props move after practices, she is friendly.
+location: Belleville West
+state: Illinois
+state_abbrev: IL
+longitude: -90.03791
+latitude: 38.51897599999999
+city_longitude: -89.9839935
+city_latitude: 38.5200504
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

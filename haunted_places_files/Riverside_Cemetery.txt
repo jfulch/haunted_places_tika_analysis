@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: Apparently when driving by the Riverside cemetery it's been said on certain nights and will start seeing eyes vaguely glowing, this turns into a crowd of eyes, most likely the residents of the cemetery. Seeing the number of sets of eyes staring shows the significance of how many apparitions are there.
+location: Riverside Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -91.5786964
+latitude: 41.4870473
+city_longitude: -91.5812759
+city_latitude: 41.4797413
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/12/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

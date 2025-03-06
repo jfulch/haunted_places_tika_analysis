@@ -1,0 +1,21 @@
+city: Crete
+country: United States
+description: The old library seems to be haunted by a woman in a white dress. On a full moon, she will appear in front of one of the windows. She has been reported to roam about the basement also.
+location: Doane College
+state: Nebraska
+state_abbrev: NE
+longitude: -96.950967
+latitude: 40.622954
+city_longitude: -96.9615141
+city_latitude: 40.6252173
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

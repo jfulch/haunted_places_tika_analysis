@@ -1,0 +1,21 @@
+city: St. Petersburg
+country: United States
+description: This school is said to be haunted by students that have had some tragic death while attending the school. Teachers and students have said to hear strange noises and sightings of strange movements on the third floor of the main buildings. Some of the late night workers have even said to have seen hauntings in the auditorium where the old gym use to be.
+location: St. Petersburg High School
+state: Florida
+state_abbrev: FL
+longitude: -82.6682151
+latitude: 27.7779616
+city_longitude: -82.6267345
+city_latitude: 27.7518284
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

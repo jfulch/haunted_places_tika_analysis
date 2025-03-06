@@ -1,0 +1,21 @@
+city: Casa Grande
+country: United States
+description: While driving on the desert roads at the base of the mountain late at night, or walking around, a black mist will appear. If you are walking in the desert, it will follow you.
+location: Casa Grande Mountain
+state: Arizona
+state_abbrev: AZ
+longitude: -111.684584
+latitude: 32.7972323
+city_longitude: -111.7733902
+city_latitude: 32.9110027
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

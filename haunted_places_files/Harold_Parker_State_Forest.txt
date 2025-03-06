@@ -1,0 +1,21 @@
+city: Andover
+country: United States
+description: Beyond the old stone walls if you look out around 3 am you will see a green light and hear footsteps. Also there are a number of unmarked graves out in those woods, as well as the ruins of old houses.
+location: Harold Parker State Forest
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0904104
+latitude: 42.6102551
+city_longitude: -71.1367953
+city_latitude: 42.6583356
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

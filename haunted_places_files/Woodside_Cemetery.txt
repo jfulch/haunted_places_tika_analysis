@@ -1,0 +1,19 @@
+city: Middletown
+country: United States
+description: The story goes that back in the mid 1800s 5 men were hung for a robbery of a bank in another state. If you go there late at night you will see the glimmers of 5 men hanging from a tree that no longer stands. The tree was removed when the cemetery was being put in because people claimed they seen these ghosts and thought removing the tree might stop.
+location: Woodside Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -84.4054477
+latitude: 39.4981283
+city_longitude: -84.39827629999999
+city_latitude: 39.5150576
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

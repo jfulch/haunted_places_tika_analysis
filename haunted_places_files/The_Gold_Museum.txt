@@ -1,0 +1,21 @@
+city: Dahlonega
+country: United States
+description: In the center of town, this old Civil War building used to be the town courthouse and jail. A tall figure in a hooded robe has been seen in the windows and on the balcony after hours. There is knocking from through the walls, and clanking noises from the attic and basement.
+location: The Gold Museum
+state: Georgia
+state_abbrev: GA
+longitude: -83.9848512
+latitude: 34.5326709
+city_longitude: -83.9843953
+city_latitude: 34.5261465
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

@@ -1,0 +1,20 @@
+city: St. Paul
+country: United States
+description: Ghostly figures have been seen walking through the aisles or sitting at unoccupied data entry terminals. Tax return batches regularly flew off of the shelves and when investigated, they always had multiple returns of deceased people in the batches. Early morning noises could be heard of lockers being opened and closed. The cause was never found. We were told an electrician died while the building was being constructed.
+location: Revenue bldg. former location at 10 River Park Plaza
+state: Minnesota
+state_abbrev: MN
+longitude: -93.095979
+latitude: 44.94781
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Hinsdale
+country: United States
+description: A woman name Helen died around 1900 while the land was still a potato farm and she can be seen walking around at night. She walks through the lot not paying attention to anyone and is visible at night if there is an outdoor fire going on.
+location: The Walsh Camp
+state: Massachusetts
+state_abbrev: MA
+longitude: -73.0969175
+latitude: 42.4558191
+city_longitude: -73.1253799
+city_latitude: 42.4386967
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/05/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

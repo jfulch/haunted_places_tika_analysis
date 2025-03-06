@@ -1,0 +1,21 @@
+city: Disneyland
+country: United States
+description: The ghost (s) of one or two people have been seen on Tom Sawyers Island. At least three boys (all Grad night victims) have drowned in the Rivers of America.
+location: Tom Sawyers Island
+state: California
+state_abbrev: CA
+longitude: -117.921853
+latitude: 33.812764
+city_longitude: -117.9189742
+city_latitude: 33.8120918
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

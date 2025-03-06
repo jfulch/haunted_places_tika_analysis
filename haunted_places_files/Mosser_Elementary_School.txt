@@ -1,0 +1,21 @@
+city: Allentown
+country: United States
+description: there are complaints of a shadow to walk up and down the stairwells mostly on the second floor stairways! There are noises and screams that students here mostly on the third floor! People say a girl jumped out of the third floor window and haunts the school ever since! This activity mostly happens at night
+location: Mosser Elementary School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.4450331
+latitude: 40.6084215
+city_longitude: -75.4901833
+city_latitude: 40.6084305
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

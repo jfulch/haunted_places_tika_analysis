@@ -1,0 +1,21 @@
+city: Magnolia
+country: United States
+description: Ghosts have been sighted in Theatre Three, and employees have had run-ins with ghosts messing with the movie projectors.
+location: Cameo Trio Theatre
+state: Arizona
+state_abbrev: AZ
+longitude: -93.239607
+latitude: 33.267595
+city_longitude: -93.239334
+city_latitude: 33.2670725
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Cape May
+country: United States
+description: The Christian Admiral, which has been torn down and converted into B & B's, Witnesses report being chased by ghosts. Apparitions of a women in white have been seen.
+location: Christian Admiral Hotel
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9243223
+latitude: 38.9313914
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Beech Creek
+country: United States
+description: Back in the late 1800s, early 1900s, the owner of the restaurant, Mr. Furst died in a fire in his barn, while trying to save his animals. Mr. Furst enjoyed smoking cigars and staff at the restaurant say that when most of the customers are gone you can smell cigar smoke, or chairs will move on their own. People who stay in the Furst Corner Bed & Breakfast also say you can smell smoke, and hear someone walking up and down the halls when no one is. One of the waitresses has even said once she had locked the door, and had gone over and it was unlocked.
+location: Furst Corner Restaurant
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.5907479
+latitude: 41.0750579
+city_longitude: -77.5886026
+city_latitude: 41.0758987
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

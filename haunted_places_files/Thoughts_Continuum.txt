@@ -1,0 +1,19 @@
+city: Ogden
+country: United States
+description: People have said that when they go there that they have seen books fly off of the shelves and have felt entities there.
+location: Thoughts Continuum
+state: Utah
+state_abbrev: UT
+city_longitude: -111.9738304
+city_latitude: 41.223
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

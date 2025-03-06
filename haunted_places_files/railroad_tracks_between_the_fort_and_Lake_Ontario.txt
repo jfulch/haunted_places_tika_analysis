@@ -1,0 +1,21 @@
+city: Oswego
+country: United States
+description: It is rumored that a civil war soldier from Fort Ontario had his head shot off by a canon ball. He is said to walk along the disused railroad tracks looking for his head. A floating light moving along the tracks is said to be him or his lantern.
+location: railroad tracks between the fort and Lake Ontario
+state: New York
+state_abbrev: NY
+longitude: -76.50665
+latitude: 43.4622974
+city_longitude: -76.5104973
+city_latitude: 43.4553461
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1755/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.866666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Gardendale
+country: United States
+description: Things bang on your car, faces and hands can be seen on your car windows, a wolf chases you, a light moves, red glowing eyes can be seen, tombstones move around, strange sounds, noises and music are heard, and shadowed creatures are seen.
+location: Hodges Cemetery
+state: Alabama
+state_abbrev: AL
+longitude: -86.87540949999999
+latitude: 33.6230357
+city_longitude: -86.8127702
+city_latitude: 33.6601033
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

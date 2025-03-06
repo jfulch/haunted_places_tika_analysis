@@ -1,0 +1,20 @@
+city: Fairfield
+country: United States
+description: All that has been seen so far is a picture in the dining room that rocks back and forth at night.
+location: Ludlow Health Center
+state: Connecticut
+state_abbrev: CT
+longitude: -73.2440096
+latitude: 41.2241114
+city_longitude: -73.2612615
+city_latitude: 41.1408363
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

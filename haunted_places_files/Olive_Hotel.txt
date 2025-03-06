@@ -1,0 +1,21 @@
+city: Orange County
+country: United States
+description: There are several ghosts and ghost stories. The one that sticks out is the one about (the ghost in the closet) People have rented this room and opened a closet door only to find a mans body hanging by the neck. This is a man who committed suicide more than 50 years ago .
+location: Olive Hotel
+state: California
+state_abbrev: CA
+longitude: -117.9257189
+latitude: 33.6943229
+city_longitude: -117.8311428
+city_latitude: 33.7174708
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

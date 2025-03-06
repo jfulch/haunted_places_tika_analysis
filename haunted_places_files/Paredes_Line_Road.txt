@@ -1,0 +1,20 @@
+city: Brownsville
+country: United States
+description: A sheriff was once killed in an accident with a drunk driver. At night if you pass the red light without stopping he will put the siren and stop you. He will just give you a warning and tell you to be careful and not drive too fast.
+location: Paredes Line Road
+state: Texas
+state_abbrev: TX
+longitude: -97.4838438
+latitude: 25.9861041
+city_longitude: -97.4974838
+city_latitude: 25.9017472
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

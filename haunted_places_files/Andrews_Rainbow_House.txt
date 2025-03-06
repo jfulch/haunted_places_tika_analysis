@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: A young man named Andrew who was gay finally decided to tell his father he was gay. His father freaked out and killed his son and himself. The next morning the house was painted rainbow colors on the front and the back of the house is an array of colors and swirls. There is also colored tile on the roof and a gray letter "A" in the tile roof. The house has been painted before but the next day the house is always backing to the rainbow colors. The house was shown on "Unsolved Mysteries" for the unexplained activity.
+location: Andrew's Rainbow House
+state: Washington
+state_abbrev: WA
+longitude: -122.353686
+latitude: 47.6239152
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

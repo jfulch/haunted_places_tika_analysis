@@ -1,0 +1,21 @@
+city: Hackettstown
+country: United States
+description: Ghostly apparitions are known to haunt the auditorium at, and also people have said that they have seen small patches of fog swirling around the stage area.
+location: Hackettstown high
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.8296946
+latitude: 40.8430977
+city_longitude: -74.8290555
+city_latitude: 40.8539879
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

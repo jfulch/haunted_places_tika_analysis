@@ -1,0 +1,21 @@
+city: Rancho Palos Verdes
+country: United States
+description: Typical lighthouse story of a waiting woman. It has been detailed on the news & maybe on Unsolved Mysteries. There were always stories about the Coast Guard being unable to keep the place staffed - lots of transfer requests.
+location: Pt. Vincente Lighthouse
+state: California
+state_abbrev: CA
+longitude: -118.4099042
+latitude: 33.7422359
+city_longitude: -118.3870173
+city_latitude: 33.7444613
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2011/06/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

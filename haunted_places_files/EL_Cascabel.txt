@@ -1,0 +1,19 @@
+city: Donna
+country: United States
+description: El Cascabel is an old bar that is out in the country. It has been abandon since 1995.It is said that two men got in a fight and one shoot the other man. The ghost can be seen at midnight of the man drinking.
+location: EL Cascabel
+state: Texas
+state_abbrev: TX
+city_longitude: -98.05195
+city_latitude: 26.1703525
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1995/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

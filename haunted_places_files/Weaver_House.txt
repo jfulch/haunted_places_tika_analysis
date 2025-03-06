@@ -1,0 +1,19 @@
+city: Des Moines
+country: United States
+description: this house has a table the seems to be haunted.
+location: Weaver House
+state: Iowa
+state_abbrev: IA
+city_longitude: -93.6091064
+city_latitude: 41.6005448
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2004/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

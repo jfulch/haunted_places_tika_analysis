@@ -1,0 +1,21 @@
+city: Anchorage
+country: United States
+description: Anchorage’s oldest hotel is haunted by many things. Several guests have reported seeing a young girl walk the second floor hall. In rooms 215 and 217, the television will turn on and off at will. Also, the water in the tub and sink will run by itself. Employees have reported hearing people coming down the stairs when the hotel is empty, and few have seen a man walk past the stairs.
+location: Historic Anchorage Hotel
+state: Alaska
+state_abbrev: AK
+longitude: -149.891671
+latitude: 61.21888790000001
+city_longitude: -149.9002778
+city_latitude: 61.2180556
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1706/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 10h 52m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

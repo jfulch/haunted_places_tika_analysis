@@ -1,0 +1,21 @@
+city: Rugby
+country: United States
+description: The Library still has the original first edition books that were brought over, including those from Thomas Hughes himself. They say that the curator is still there overlooking his books and his dog is still trying to get out the door at night.
+location: The Library
+state: Tennessee
+state_abbrev: TN
+longitude: -84.69714019999999
+latitude: 36.3587318
+city_longitude: -84.70077599999999
+city_latitude: 36.3603531
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

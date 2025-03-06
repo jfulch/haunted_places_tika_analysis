@@ -1,0 +1,17 @@
+city: Gumboro
+country: United States
+description: No matter if it be breathing on the stairs or figures walking across the yard this historic house in he heart of Gumboro Delaware still houses those of the past. No matter the way they come across hey are a pleasure to have around and act as protectors of the Old Homestead.
+location: Old Homestead
+state: Delaware
+state_abbrev: DE
+city_longitude: -75.365194
+city_latitude: 38.4776148
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1962/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

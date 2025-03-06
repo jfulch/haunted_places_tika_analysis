@@ -1,0 +1,21 @@
+city: Randolph County
+country: United States
+description: Mingo Cemetery - about 8 years ago 2 witnesses were in the cemetery and very busy recording the graves and felt like somebody was watching them. They finished and started to have a conversation saying, "I thought I saw and heard kids playing in the cemetery". And said she thought she seen them dressed in old-fashioned clothing, 1800s. They tried some of the locals about this area and nobody wants to talk about it.
+location: Mingo
+state: West Virginia
+state_abbrev: WV
+longitude: -80.0542344
+latitude: 38.4987251
+city_longitude: -80.0087746
+city_latitude: 38.8092552
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 2

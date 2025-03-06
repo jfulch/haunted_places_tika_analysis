@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: There is strange echoing laughter in the indoor pool next to the Lobby. The Pinball machine by the exit to parking on the upper level played by itself on several occasions. The mother and one of the daughters helped throw the other children off the balcony. They then jumped. One child survived. The father, thinking he was Jesus, took his own life(hose in the tailpipe)in one of our canyons around the same time as the children's deaths.
+location: Shilo Inn
+state: Utah
+state_abbrev: UT
+longitude: -111.8945009
+latitude: 40.764569
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

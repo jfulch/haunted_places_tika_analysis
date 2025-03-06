@@ -1,0 +1,21 @@
+city: Logansport
+country: United States
+description: In this house there are recorded to be two ghosts that haunt this location. The owner claims that a little girl pinched her arm while she was cooking, and then threw a tomato off the table and also claims the girl calls her name while she's in the kitchen. The son of the owners claims he has seen a shaggy haired man dressed in a civil war uniform at the foot of his bed on more than one occasion. Also while watching t.v. the channels will all of the sudden change without anyone touching the t.v. or the remote. Beside the house is an old graveyard. Some believe could be built over some unmarked graves from a long time ago.
+location: The Dowling House
+state: Louisiana
+state_abbrev: LA
+longitude: -90.4269958
+latitude: 42.4170896
+city_longitude: -93.9979678
+city_latitude: 31.975445
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

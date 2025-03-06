@@ -1,0 +1,21 @@
+city: Clinton
+country: United States
+description: Built over 200 years ago, the Red Mill is now an historical museum. The mill is haunted by a young girl who was injured there. She is said to ring a large bell and play a typewriter. The historic mill is located on 56 Main Street, Clinton.
+location: Red Mill
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9127852
+latitude: 40.6361664
+city_longitude: -74.90988999999999
+city_latitude: 40.6367682
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

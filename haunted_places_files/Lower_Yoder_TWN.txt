@@ -1,0 +1,21 @@
+city: Johnstown
+country: United States
+description: In the forest across from D St. & Norton RD. Children & Adults hear voices, whistling, and unexplainable noises. And sometimes see glows in the night which people call orbs. Local people sometimes walk through the forest and follow paths and come out just terrified but like something wants them to go back. Some people think its workers from the old coal mines or just spirits wondering.
+location: Lower Yoder TWN.
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.9219698
+latitude: 40.32674069999999
+city_longitude: -78.9219698
+city_latitude: 40.32674069999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1818/02/04
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

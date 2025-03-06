@@ -1,0 +1,21 @@
+city: Fairfax
+country: United States
+description: Gazebo - A small gazebo bordering the campus lake is said to be frequented by the spirit of a young man. He apparently drowned in the lake one evening. His body was found sitting in the gazebo by two females the next morning. Since that time, the man’s figure has been seen standing at the edge of the lake, or sitting in the gazebo. He has been known to beckon young women to come sit with him, and quickly disappearing when accommodated.
+location: George Mason University
+state: Virginia
+state_abbrev: VA
+longitude: -77.3120885
+latitude: 38.8315541
+city_longitude: -77.30637329999999
+city_latitude: 38.84622359999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

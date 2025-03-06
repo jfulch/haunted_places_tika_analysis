@@ -1,0 +1,21 @@
+city: Keys
+country: United States
+description: Screams, Slamming Doors in bathrooms. Apparitions, foot steps, books turning and getting out of place in the library. Shaking bleachers. Cougar growls(Keys Cougars is our nickname).Screaming from a girl that fell and slipped on the old gym floor. Tugging on shirts and backpacks. Objects move and disappear. PA
+location: Keys Elementary School
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.9630145
+latitude: 35.7972017
+city_longitude: -94.9298999
+city_latitude: 35.7980574
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

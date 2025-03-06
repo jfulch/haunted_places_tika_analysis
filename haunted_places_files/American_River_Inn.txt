@@ -1,0 +1,21 @@
+city: Georgetown
+country: United States
+description: haunted by the ghost of an old miner.
+location: American River Inn
+state: California
+state_abbrev: CA
+longitude: -120.8383664
+latitude: 38.9072825
+city_longitude: -120.8385462
+city_latitude: 38.9068445
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2013/01/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

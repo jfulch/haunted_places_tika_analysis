@@ -1,0 +1,21 @@
+city: Hauula
+country: United States
+description: It is said that an old foundation of a house, on top of the rock, it believed to be haunted. A lonely housewife that drowned trying to save her drowning child. She walks aggressively looking for her child angry with anyone. Late at night, you can hear the Child’s cry for his mother, as well as the pitter-patter of the child’s feet. If you look like her child, the mother would take your body to calm her restless soul.
+location: Pounder beach
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9210441
+latitude: 21.6320605
+city_longitude: -157.9225549
+city_latitude: 21.5918615
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1911/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

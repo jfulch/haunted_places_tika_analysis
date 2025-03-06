@@ -1,0 +1,19 @@
+city: Vernon
+country: United States
+description: Kashache National Forest - In the woods of central Louisiana the trees are very thick most of the time you can not see more than three feet in front of you, so to see anything is hard and a ghost is even harder. Sounds of drums & singing like Indians. Apparitions of 8 Indians dressed in the traditional get up dancing as though they were celebrating or something.
+location: Kerthwood
+state: Louisiana
+state_abbrev: LA
+city_longitude: -93.1779659
+city_latitude: 31.1320009
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

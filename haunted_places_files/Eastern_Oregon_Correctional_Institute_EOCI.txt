@@ -1,0 +1,21 @@
+city: Pendleton
+country: United States
+description: Formerly a State Mental Hospitol - Guards have stated hearing people down below yelling: "help, help, help." - March 2004 Update:Before being converted to a correctional institution, it was a state mental hospital. It was converted possibly sometime early in the 1990's. This might be the root of the "help, help, help" cries.
+location: Eastern Oregon Correctional Institute (EOCI)
+state: Oregon
+state_abbrev: OR
+longitude: -118.8170965
+latitude: 45.6713689
+city_longitude: -118.7885967
+city_latitude: 45.672075
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

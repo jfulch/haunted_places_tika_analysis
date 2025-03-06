@@ -1,0 +1,21 @@
+city: Groveland
+country: United States
+description: The Bed & Breakfast is haunted by the ghost of an old miner named "Lyle". Lyle died in his sleep in his own room and hasn't left since. You can stay in "Lyle's room" at the Groveland and possibly have your makeup thrown off the dresser or the water faucet turning off & on mysteriously. Lyle does not like people, especially women, in his room. -  March 2005 Correction: Lyle does really like people and loves to play with them. He just abhors women's cosmetics on his dresser and will move them over to the sink. He wanders all around the hotel and can be found watching over the chef and popping open the convection oven doors when the bread is perfect (the chef forgot to set the timer). He will take a shower when no one is watching, but the water is running, he watches over guests as they are falling asleep and checks to make sure everything is ok (repor ted by guests in Room 9), created a hair-raising experience for a group of 18 guests on a FAM trip from the UK by dimming the lights in the dining room several times, then sending a sharp chill from the ceiling, causing everyone in the room to gasp.
+location: The Groveland Hotel
+state: California
+state_abbrev: CA
+longitude: -120.2295306
+latitude: 37.8393125
+city_longitude: -120.2308167
+city_latitude: 37.8388779
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1957/11/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Clinton
+country: United States
+description: Before the old elementary school had burned down in 1998 it was believed to be haunted by the people who were once buried there. The tombstones were said to be removed but the bodies remained under the school. Numerous of students were said to be locked in the bathroom, heard and seen doors shut by themselves, and could also hear noises.
+location: The Old Hickman County Elementary School
+state: Kentucky
+state_abbrev: KY
+longitude: -88.674995
+latitude: 37.07918000000001
+city_longitude: -88.9933965
+city_latitude: 36.6672813
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1998/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

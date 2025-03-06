@@ -1,0 +1,21 @@
+city: Albuquerque
+country: United States
+description: employees who work here know about the seclusion suite being haunted. Numerous employees have witnessed water turning on and off by itself, lights flickering on and off, doors unlocking or locking without being able to unlock, and small black footprints walking across the bathroom floor. In one instance, the security cameras were blocked out by a black image and a figure walking towards the camera lens, which appeared larger and larger when you looked at the monitor televisions. Numerous patients who have stayed in the seclusion suite claim they cannot sleep due to visual "hallucinations" which may actually be ghosts.
+location: UNM Children's Psychiatric Hospital
+state: New Mexico
+state_abbrev: NM
+longitude: -106.6215205
+latitude: 35.092682
+city_longitude: -106.6055534
+city_latitude: 35.0853336
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

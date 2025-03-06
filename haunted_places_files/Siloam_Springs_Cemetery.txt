@@ -1,0 +1,19 @@
+city: Stigler
+country: United States
+description: Noises of Indian war drums, shadows of people and sometimes voices...Family massacre toplace here and reports of satanic rituals.....also sighting of demon cow caught on video.
+location: Siloam Springs Cemetery
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -95.1230169
+city_latitude: 35.253708
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

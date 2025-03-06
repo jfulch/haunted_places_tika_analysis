@@ -1,0 +1,21 @@
+city: Port Huron
+country: United States
+description: Early one morning when the teachers had just started to arrive they heard a student scream, and ran into the hallway to check, the screaming was gone and a locker 179 swung open. Inside layed half of a girls body, the rest was never recovered, and they never figured out who she was.
+location: Holland Ave.
+state: Michigan
+state_abbrev: MI
+longitude: -82.43889449999999
+latitude: 43.0166609
+city_longitude: -82.42491419999999
+city_latitude: 42.9708634
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 0

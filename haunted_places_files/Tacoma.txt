@@ -1,0 +1,21 @@
+city: Pierce county
+country: United States
+description: former site of "Children's Industrial Home" - Original orphanage building burned down. The newspapers report no fatalities. Current youth group home built using original foundation. Current residents complain of hearing children crying in one end of building. Adult staff members have seen ghosts of children playing in yard and around building.
+location: Tacoma
+state: Washington
+state_abbrev: WA
+longitude: -122.4442906
+latitude: 47.2528768
+city_longitude: -122.1295269
+city_latitude: 47.0675877
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1994/12/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

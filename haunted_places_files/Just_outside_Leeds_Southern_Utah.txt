@@ -1,0 +1,21 @@
+city: Silver Reef
+country: United States
+description: Old Catholic cemetery...Young girl seen several people following the family after visiting the cemetery late at night, a man heard the voices of several people - mostly children - asking to be taken home.  Several people have had the feeling of being watched, and heard footsteps in the old cemetery at night.
+location: Just outside Leeds-Southern Utah
+state: Utah
+state_abbrev: UT
+longitude: -113.3667868
+latitude: 37.2530123
+city_longitude: -113.3677281
+city_latitude: 37.25275970000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

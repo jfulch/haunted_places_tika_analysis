@@ -1,0 +1,21 @@
+city: Dickinson
+country: United States
+description: There have been many reports of toilets flushing by themselves and the feeling of being watched/followed by workers in the early morning hours. The ghost is said to be that of a doctor who went on a fishing trip, but never returned. He is believed to have drowned on that fateful trip.
+location: Ear, Nose and Throat Clinic
+state: North Dakota
+state_abbrev: ND
+longitude: -102.8208541
+latitude: 46.88924129999999
+city_longitude: -102.7896242
+city_latitude: 46.8791756
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 17m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

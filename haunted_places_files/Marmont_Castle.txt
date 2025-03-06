@@ -1,0 +1,20 @@
+city: Manitau Springs
+country: United States
+description: is or was haunted by a little boy and his stepfather. The nuns and/or monks may be there still. The castle is and can be found in the local Colorado Springs phone book.
+location: Marmont Castle
+state: Colorado
+state_abbrev: CO
+longitude: -104.922261
+latitude: 38.859234
+city_longitude: -104.9171989
+city_latitude: 38.8597127
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

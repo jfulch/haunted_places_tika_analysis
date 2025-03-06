@@ -1,0 +1,21 @@
+city: Arcola
+country: United States
+description: There is a ghosts seen holding and swinging a lantern.
+location: The depot by the rail road tracks
+state: Illinois
+state_abbrev: IL
+longitude: -88.309466
+latitude: 39.6845826
+city_longitude: -88.30643669999999
+city_latitude: 39.684755
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

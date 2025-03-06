@@ -1,0 +1,20 @@
+city: Lebanon
+country: United States
+description: The home was once an orphanage, which is now said to be haunted by some of the kids and faculty, that once lived there. On the third floor and in the attic, small children have been seen in recent years looking out into the yard and driveway from windows. As well as children and adults are seen in the recreation room, on the stairways and in some of the bedrooms.
+location: Mary Haven's boys group home
+state: Ohio
+state_abbrev: OH
+longitude: -84.1967617
+latitude: 39.4257226
+city_longitude: -84.2029922
+city_latitude: 39.4353373
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

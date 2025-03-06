@@ -1,0 +1,21 @@
+city: Topeka
+country: United States
+description: Three spirits have tied themselves to this building-the most famous being a police officer shot by a burglar he surprised on the roof, the other two are women inexplicably tied to an armchair in the ladies' room and loveseat in the hall at the lodge.  it has been reported that a custodian cleaning the ladies room there set a trashbag on the armchair, only to see it immediately fly across the room.
+location: North Topeka Moose Lodge
+state: Kansas
+state_abbrev: KS
+longitude: -97.6600732
+latitude: 39.5727867
+city_longitude: -95.6890185
+city_latitude: 39.0558235
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

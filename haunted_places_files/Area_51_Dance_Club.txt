@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: In the middle stall of the upstairs women's bathroom a young woman either accidentally or intentionally overdosed on cocaine and died. The door to the stall, although replaced and worked on constantly has problems staying shut. The toilet has been known to flush itself. Crying is heard there and people who have NOT been drinking report feeling nauseous and light-headed when the walk into the bathroom.
+location: Area 51 (Dance Club)
+state: Utah
+state_abbrev: UT
+longitude: -111.901336
+latitude: 40.759137
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

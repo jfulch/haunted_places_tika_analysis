@@ -1,0 +1,21 @@
+city: Leesburg
+country: United States
+description: There is a mental hospital called Graydon Manor. Back in the early 1900's a young woman was sent there for various reasons by her parents. She was forced to leave her lover. She would escape occasionally and meet up with her boyfriend at this gazebo out in the woods. Soon it became too much, she escaped on night in her prettiest dress, met up with her boyfriend and the two of them hung themselves in the gazebo. The girl is said to haunt the woods, the dirt road, and the gazebo occasionally. The gazebo can still be seen off an old dirt road, although it recently got hit from a falling tree.
+location: Graydon Manor
+state: Virginia
+state_abbrev: VA
+longitude: -77.5847572
+latitude: 39.1166515
+city_longitude: -77.56360149999999
+city_latitude: 39.1156615
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

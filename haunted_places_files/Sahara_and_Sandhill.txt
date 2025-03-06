@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: If you drive down the dirt roads in that area you may be chased by an elderly woman in a car. If you leave the street she won't follow.
+location: Sahara and Sandhill
+state: Nevada
+state_abbrev: NV
+longitude: -115.0920616
+latitude: 36.146285
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1598/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

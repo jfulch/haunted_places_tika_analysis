@@ -1,0 +1,21 @@
+city: Huntingdon
+country: United States
+description: in the 1980's there was a reported woman that worked in the cafeteria had chopped off another woman's head and put it in the children’s roast soup and from now on the children say every time they make roast soup you can here the woman crying in pain
+location: Huntingdon high school
+state: Tennessee
+state_abbrev: TN
+longitude: -88.3819255
+latitude: 36.0055757
+city_longitude: -88.4281063
+city_latitude: 36.0006178
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

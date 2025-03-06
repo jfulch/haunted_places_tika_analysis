@@ -1,0 +1,21 @@
+city: Tallahassee
+country: United States
+description: The Lively Building, located at the SW corner of Monroe Street and College Avenue, was the location of The Leon Bar. It operated from 1892 to 1904, and was a gathering spot for the roughest sort of element. Many shootings occurred there, as well as murders. The City passed an ordinance in 1904 that outlawed the sale of alcohol within the city limits, effectively putting The Leon out of business. Today, there is rumor that some of the "Crackers" (slang for the cowboys who frequented the bar, so named for the whips they used to corral the cattle) are still hanging around the corner where The Leon was once located.
+location: The Lively Building
+state: Florida
+state_abbrev: FL
+longitude: -84.344263
+latitude: 30.404874
+city_longitude: -84.28073289999999
+city_latitude: 30.4382559
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1892/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

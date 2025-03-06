@@ -1,0 +1,21 @@
+city: Fontana
+country: United States
+description: maple elementary is haunted by this man who stays at the school in the boys bathroom and messes with the students and teachers during class time.
+location: maple elementary
+state: California
+state_abbrev: CA
+longitude: -117.404151
+latitude: 34.087782
+city_longitude: -117.435048
+city_latitude: 34.0922335
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

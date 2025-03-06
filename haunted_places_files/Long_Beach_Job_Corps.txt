@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: Many people who live on campus have seen an older woman wearing a white wedding dress walking the halls of there dorm rooms late at night.
+location: Long Beach Job Corps
+state: California
+state_abbrev: CA
+longitude: -118.2158259
+latitude: 33.792449
+city_longitude: -118.1937395
+city_latitude: 33.7700504
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

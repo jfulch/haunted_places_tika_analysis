@@ -1,0 +1,21 @@
+city: Roby
+country: United States
+description: There is an inmate here that does not appear to be human. The ghost has made himself known to inmates through various forms of physical contact. Inmates have reported the spirit touching them, throwing things, flushing toilets, and just making noise. He has even been seen by the sheriff. One time, the ghost lit a stove for a jailer. The origin of the spirit is unknown, but it is believed to perhaps be the ghost or ghosts of a sheriff and deputy that were murdered by an inmate in 1927.
+location: Fisher County Jail
+state: Texas
+state_abbrev: TX
+longitude: -100.3793747
+latitude: 32.75063710000001
+city_longitude: -100.3776067
+city_latitude: 32.7448314
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1927/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

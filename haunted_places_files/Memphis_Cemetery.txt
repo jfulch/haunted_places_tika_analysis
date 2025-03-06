@@ -1,0 +1,21 @@
+city: Memphis
+country: United States
+description: If you take M-19 (Van Dyke Rd.) and follow it through Richmond to Memphis, the cemetery is on the right side. It is a small cemetery, but there is a narrow dirt road that runs through. At the very back center of the cemetery there is a huge black marble stone called the "witch's ball". If you get close enough you can see faces and shadows in the stone, just like a crystal ball. Voices have been heard and apparitions have been seen there too.
+location: Memphis Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -82.7687596
+latitude: 42.8795638
+city_longitude: -82.7688134
+city_latitude: 42.8964179
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

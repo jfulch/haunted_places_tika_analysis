@@ -1,0 +1,19 @@
+city: Shell Rock
+country: United States
+description: Under the bridge there are experiences of being watched unexplained sounds and tall white figures also you hear all around you moving and following as you go further down. There is a feeling of not wanting to be there.
+location: Satan's Hollow Bridge
+state: Iowa
+state_abbrev: IA
+city_longitude: -92.5829563
+city_latitude: 42.710237
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

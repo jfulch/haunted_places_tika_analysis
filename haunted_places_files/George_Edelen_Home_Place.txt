@@ -1,0 +1,19 @@
+city: Bradfordsville
+country: United States
+description: The house was moved from Old Lick Creek after a family died of cholera in the 1800's. The house had figurines that swayed more than 45 degrees off their setting, sounds of walking throughout the house, a three pound knocking was heard every night for 30 minutes beginning at 7:30 p.m. Sounds of clearing the throat from someone who was not there. Sounds of mirrors falling and crashing and no evidence of such happenings.
+location: George Edelen Home Place
+state: Kentucky
+state_abbrev: KY
+city_longitude: -85.1488483
+city_latitude: 37.4942356
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

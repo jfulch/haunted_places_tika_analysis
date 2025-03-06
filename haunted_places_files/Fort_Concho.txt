@@ -1,0 +1,21 @@
+city: San Angelo
+country: United States
+description: It is haunted by many of the buffalo soldiers, a young girl playing on the floor in an upstairs bedroom of Officer's Quarters #1 accompanied by cold spots.
+location: Fort Concho
+state: Texas
+state_abbrev: TX
+longitude: -100.4306566
+latitude: 31.45479
+city_longitude: -100.4370375
+city_latitude: 31.4637723
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1856/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

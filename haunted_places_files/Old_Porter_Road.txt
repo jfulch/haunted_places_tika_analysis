@@ -1,0 +1,21 @@
+city: Portage
+country: United States
+description: Late at night often during the winter months shadow-like figures has been seen along the train tracks in between Portage and Burns Harbor that line Old Porter Road. This lonely strip of road has seen many tragic events over it's rich history, some resulting in injury or even death, no one can pen down the explanation to the figures, some describe as dog like, as if a dog had grown long thin legs, and a long thin tail, stretched to twice the size of a medium sized canine and given glowing yellow eyes. A young person who lives on the desolate portion of this road has often been subjected to visions of these spectral beasts, roaming through her yard at night terrorizing the family pet, breathing, scratching, and growling at the windows and doors to the house. Some of the conductors say they can see the hounds running along side the trains as they blow by in the night, yellow eyes glowing bright, baying as they chase the wind.
+location: Old Porter Road
+state: Indiana
+state_abbrev: IN
+longitude: -87.1754109
+latitude: 41.5940405
+city_longitude: -87.1761455
+city_latitude: 41.5758707
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

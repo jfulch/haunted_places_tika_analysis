@@ -1,0 +1,21 @@
+city: Sullivan
+country: United States
+description: Strange lights, the sound of footsteps after hours, and the sounds of a man pleading for his life.
+location: Moultry County Court House
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.4938373
+latitude: 41.4237077
+city_longitude: -76.5025742
+city_latitude: 41.4781004
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

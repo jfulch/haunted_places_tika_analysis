@@ -1,0 +1,21 @@
+city: Tehachapi
+country: United States
+description: UFW headquarters/children's hospital - the swings swing of their own accord. There is blood in the bathrooms of the old hospital section (it was once a children's hospital). The feeling of death and what it has left behind is inundating...and you can hear voices. walking past a door that is shut off to the back building that is unused, a witness heard a banging on the door. The doorknob turned.
+location: La Paz
+state: California
+state_abbrev: CA
+longitude: -118.5599843
+latitude: 35.2297785
+city_longitude: -118.4489739
+city_latitude: 35.1321877
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

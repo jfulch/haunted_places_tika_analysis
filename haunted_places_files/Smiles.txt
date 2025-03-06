@@ -1,0 +1,21 @@
+city: Ogden
+country: United States
+description: Orbs and ghostly shadows appear in this photography studio, If you ask employees they might show you some of the pictures.
+location: Smiles
+state: Utah
+state_abbrev: UT
+longitude: -111.9388472
+latitude: 41.1566303
+city_longitude: -111.9738304
+city_latitude: 41.223
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

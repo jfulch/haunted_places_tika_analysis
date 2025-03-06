@@ -1,0 +1,21 @@
+city: Boise
+country: United States
+description: The Murder House - Now a Frat House - The house, located off of Broadway and Linden had a brutal murder about 30 years ago. A man cut up a number of people and dragged their mutilated body parts around the neighboring area. Bloodstains on the walls can still be seen, and blinds on the front window will open and close randomly. Sometimes if you go at night, and the blinds are open in the front window, you can see a lady standing there, looking out the window. The house is now a Frat house for Boise State University.
+location: Boise State University
+state: Idaho
+state_abbrev: ID
+longitude: -116.201649
+latitude: 43.6033127
+city_longitude: -116.2146068
+city_latitude: 43.6187102
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

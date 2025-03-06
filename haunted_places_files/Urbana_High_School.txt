@@ -1,0 +1,21 @@
+city: Urbana
+country: United States
+description: It is said that the ghosts of a student and a teacher haunt the fourth floor of this building, supposedly they were involved and the husband of the teacher found out and ended the relationship, the two lovers in a final act of undying love hung themselves together. It is also said that there is a wall in one of the boarded up classrooms that will always leak red paint/blood? The wall has been painted twice every year and has never failed to leak the mysterious red substance. There are also sightings of strange lights in the fourth floor tower after hours at the school. The fourth floor has been boarded up and students and staff are not allowed access, excepting some janitors that use the floor for storage.
+location: Urbana High School
+state: Illinois
+state_abbrev: IL
+longitude: -88.2087956
+latitude: 40.1039112
+city_longitude: -88.2072697
+city_latitude: 40.1105875
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

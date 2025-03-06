@@ -1,0 +1,19 @@
+city: Broken Arrow
+country: United States
+description: About three miles down a gravel road (about 10 from civilization) there once stood a concrete house supposedly once owned by KKK members which has just recently been torn to the ground. Several reports have been made about bonfires seen one minute and then disappear the next. Freezing cold temps inside the house even in the middle of summer. A sharp turn is located 15 feet from the rubble and at night there is a car that drives insanely fast around this turn and then will disappear into a nearby barbed wire fence out into a cornfield. No tire marks have ever been found.
+location: The Devil House
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -95.7974526
+city_latitude: 36.060949
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

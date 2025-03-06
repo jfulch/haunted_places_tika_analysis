@@ -1,0 +1,20 @@
+city: Louisville
+country: United States
+description: The Pizzeria is in historic downtown Louisville, used to be Colacci's. The basement was at one time during the turn of century and prohibition a bootlegging tunnel and gambling hall. A poker dispute caused a shooting of a man, and his "girl" who tried to stop it. The tunnels now blocked are said to be the entryway into the basement, which runs the length of the building. Employees for years have said the presence of the innocent girl who died prematurely is felt with quick changing temperatures and light bulbs disappearing.
+location: Pasquinis
+state: Colorado
+state_abbrev: CO
+longitude: -104.9870279
+latitude: 39.6928377
+city_longitude: -105.1319296
+city_latitude: 39.977763
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1738/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

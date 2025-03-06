@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: two former owners haunt this house: Sarah Gordon and her daughter-in-law Nellie Kinzie Gordon, who was the mother of Juliette Gordon Low, the founder of Girl Scouting. Nellie is said to rearrange furniture, play the piano, and slide down the banister after the museum closes down for the night. Visitors to the place often see Sarah, wearing an old-fashioned dress.
+location: The Juliette Low Birthplace
+state: Georgia
+state_abbrev: GA
+longitude: -81.09240199999999
+latitude: 32.077087
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1865/07/04
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.516666666666667
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

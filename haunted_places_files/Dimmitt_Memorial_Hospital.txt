@@ -1,0 +1,21 @@
+city: Carrizo Springs
+country: United States
+description: Late at night like about 8:00 pm-2:00am people been saying they see an old nurse dress in old nurse clothes walking in the baby's room.
+location: Dimmitt Memorial Hospital
+state: Texas
+state_abbrev: TX
+longitude: -99.8632477
+latitude: 28.5194218
+city_longitude: -99.8606107
+city_latitude: 28.5219292
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

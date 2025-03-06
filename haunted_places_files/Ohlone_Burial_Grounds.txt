@@ -1,0 +1,21 @@
+city: Fremont
+country: United States
+description: You can't enter the grounds because it is fenced off but you can read a large plaque designating it as an Ohlone Burial ground. Orbs have been photographed. It is down the road from Mission San Jose, which is very haunted. The Ohlone Indians who died at the Mission are buried here.
+location: Ohlone Burial Grounds
+state: California
+state_abbrev: CA
+longitude: -121.9356624
+latitude: 37.5317443
+city_longitude: -121.9885719
+city_latitude: 37.5482697
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

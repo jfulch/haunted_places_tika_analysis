@@ -1,0 +1,21 @@
+city: Ocean Shores
+country: United States
+description: A female spirit has been seen walking through the halls on numerous occasions by many people (including a former assistant manager). Once all the lights in the parking lot went off simultaneously and the registers in the restaurant disconnected for days. When the repairmen came they could find no reason.
+location: Shiloh Restaurant and Lounge
+state: Washington
+state_abbrev: WA
+longitude: -124.1673539
+latitude: 47.00781019999999
+city_longitude: -124.1562852
+city_latitude: 46.9736986
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

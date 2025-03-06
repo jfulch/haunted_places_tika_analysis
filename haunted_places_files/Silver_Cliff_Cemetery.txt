@@ -1,0 +1,20 @@
+city: Silver Cliff
+country: United States
+description: Well documented Ghost lights. The ghosts light of this old cemetery is well known in the region. The town has gone as far to shutting off all the lights in the town because critics stated that the ghost light is reflections of the streetlights. The town turned off all the lights and still the light danced around the tombstones. The lights were first noticed by a group of weary partygoers coming back by wagon from the town of Rosita. They were questionable witness to say the least. But, after their report other people began to notice lights in the graveyard. Thinking it was some local kids having fun, the local men decided to hide at night and catch the vandals. Well hidden, they waited past dark, and then the lights came. The men jumped out from their hiding place and saw the lights with no one around. They went home rather spooked. The lights are still seen today.
+location: Silver Cliff Cemetery
+state: Colorado
+state_abbrev: CO
+longitude: -105.4426869
+latitude: 38.1223624
+city_longitude: -105.4463902
+city_latitude: 38.1352779
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

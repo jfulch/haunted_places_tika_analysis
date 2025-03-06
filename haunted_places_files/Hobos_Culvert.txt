@@ -1,0 +1,19 @@
+city: Seward
+country: United States
+description: It is said that people buried the hobos that lived in this culvert, and now whoever goes there sees the ghosts of the hobos that lived there.
+location: Hobo's Culvert
+state: Nebraska
+state_abbrev: NE
+city_longitude: -97.0984927
+city_latitude: 40.9078784
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

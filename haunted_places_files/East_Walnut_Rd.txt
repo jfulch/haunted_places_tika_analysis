@@ -1,0 +1,21 @@
+city: Noble
+country: United States
+description: On the full moon at midnight you can see a woman walking up and down the road, she carries a flower in one hand and candle in the other, She is looking for her husband for fled town with another woman. If you try to come near her she fades away...
+location: East Walnut Rd
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.3939659
+latitude: 35.1433819
+city_longitude: -97.394753
+city_latitude: 35.1392357
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1875/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

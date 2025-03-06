@@ -1,0 +1,21 @@
+city: Dundalk
+country: United States
+description: At night there over by the playground down by the water you can see orbs and ghostly like images like dog clouds moving around even when there is nothing that is foggy around and some places are colder then others and some places you can feel things breathing on your back.
+location: Stansbury Quarry
+state: Maryland
+state_abbrev: MD
+longitude: -76.50185139999999
+latitude: 39.260065
+city_longitude: -76.5205184
+city_latitude: 39.2506633
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 15.45
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

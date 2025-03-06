@@ -1,0 +1,21 @@
+city: Noack
+country: United States
+description: Late nights corpse's candle's can be seen in the graveyard behind the church. After dusk the preacher who died while at the church can be heard.
+location: Lawrence chapel
+state: Texas
+state_abbrev: TX
+longitude: -97.2386531
+latitude: 30.48752859999999
+city_longitude: -97.30444
+city_latitude: 30.5577008
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

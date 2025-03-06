@@ -1,0 +1,19 @@
+city: St. Paul
+country: United States
+description: If you go to the trestle in Saint Paul you will hear a crying sound. Then if you flash your lights at it 3 times you can see three friends who died there. The story goes that all these friends were walking across the trestle and they fell. It was around 3:00 in the morning when they fell.
+location: Trestle
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.6283088
+city_latitude: 39.4281048
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

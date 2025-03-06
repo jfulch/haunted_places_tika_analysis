@@ -1,0 +1,21 @@
+city: Provo
+country: United States
+description: The history on this place is that dozens of rock climbers have died right at the mouth of the Canyon, where the huge rocks start, there has also been one or more killings up there and some satanic rituals have been performed up there.  People have heard noises, and have actually seen a 70's/80's dressed man standing on a rock peek, then proceeding to run/glide down the ROCK mountain at a faster then normal pace.  When leaving you can feel a presence trying to follow you.
+location: Rock Canyon
+state: Utah
+state_abbrev: UT
+longitude: -111.6407335
+latitude: 40.2673136
+city_longitude: -111.6585337
+city_latitude: 40.2338438
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

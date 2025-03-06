@@ -1,0 +1,21 @@
+city: Ocracoke Island
+country: United States
+description: near the Pamlico Sound. There is one ghost by the name of Edward Teach, also known as Blackbeard the pirate. The type of activity are usually phantom and ghost light, His demeanor is very violent so proceed with caution when going to the Ocracoke Islands.
+location: Ocracoke Inlet
+state: North Carolina
+state_abbrev: NC
+longitude: -76.0333885
+latitude: 35.0861054
+city_longitude: -75.9810097
+city_latitude: 35.1146152
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 0

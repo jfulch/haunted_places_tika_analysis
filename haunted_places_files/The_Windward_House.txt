@@ -1,0 +1,21 @@
+city: Cape May
+country: United States
+description: The ghost of a young Irish girl is occupying the 3rd floor "wicker" room.
+location: The Windward House
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.922788
+latitude: 38.931221
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

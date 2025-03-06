@@ -1,0 +1,20 @@
+city: Cleveland
+country: United States
+description: A haunted castle located in downtown Cleveland has said to be haunted by a ghost that roams the hallways at night. Reporters who toured the house reported cold rooms and heard a child crying from the carriage house and heard music coming from the third floor ballroom. The family that lived there reportedly said that their child's toys were missing and they would find clothing from the early 1900s.
+location: Franklin Castle
+state: Ohio
+state_abbrev: OH
+longitude: -81.7165798
+latitude: 41.4857366
+city_longitude: -81.6943605
+city_latitude: 41.49932
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1796/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

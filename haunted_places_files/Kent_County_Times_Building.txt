@@ -1,0 +1,19 @@
+city: West Warwick
+country: United States
+description: Several employees of the Times reported strange sensations and feelings of panic when working in a storage room on the third floor of the building.  The same has happened in the men's lavatory on the same floor.  One employee quit after being "followed" by someone she couldn't see.  It is rumored that a man killed himself by hanging in the third floor stairwell.
+location: Kent County Times Building
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.5231367
+latitude: 41.7009011
+city_longitude: -71.5215024
+city_latitude: 41.70367110000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

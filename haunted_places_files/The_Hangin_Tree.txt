@@ -1,0 +1,21 @@
+city: Leefield
+country: United States
+description: This location is so notorious as to be completely abandoned at night save the most curious. This tree was reportedly used for numerous lynchings and is currently surrounded by a small community that has been in this area since pre-antebellum. Reported that bodies can be seen in the tree from a distance and if it is approached, the swaying bodies will stare at the trespassers. Other sightings conclude that there is a murder of crows that constantly watch for trespassers as well.
+location: The Hangin' Tree
+state: Georgia
+state_abbrev: GA
+longitude: -104.6141549
+latitude: 38.2642199
+city_longitude: -81.6134428
+city_latitude: 32.4182391
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

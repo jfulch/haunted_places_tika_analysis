@@ -1,0 +1,21 @@
+city: Elgin
+country: United States
+description: No reports of deaths in this area yet doors open and close, lights turn on and off on their own and reports from employees of phone calls that tell them exactly were they are and what they are doing that can't be traced. Even when the phone line is unplugged.  April 2008 Update - Has been torn down and is now a parking lot; a new library was built on the North side of Kimball Street in approximately 2002. WARNING:If there is anyone that is planning on doing anything in any of those locations they must be sure that they have permission first else they will be arrested.
+location: Old Gail Borden Library and City Office Building
+state: Illinois
+state_abbrev: IL
+longitude: -88.287847
+latitude: 42.042708
+city_longitude: -88.2825668
+city_latitude: 42.0354084
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

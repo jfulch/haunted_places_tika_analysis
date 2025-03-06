@@ -1,0 +1,21 @@
+city: West Lafayette
+country: United States
+description: An apparition of a male seen by the window.
+location: Cumberland School
+state: Indiana
+state_abbrev: IN
+longitude: -86.9071795
+latitude: 40.4615359
+city_longitude: -86.90806549999999
+city_latitude: 40.4258686
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1844/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

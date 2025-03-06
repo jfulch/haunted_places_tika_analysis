@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: A female ghost is said to appear in the basement and other poltergeist activities occur in the basement of the establishment.
+location: The Speed Museum
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7608973
+latitude: 38.2176546
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

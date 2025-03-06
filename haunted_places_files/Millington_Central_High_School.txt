@@ -1,0 +1,21 @@
+city: Millington
+country: United States
+description: The school theater is haunted by a ghost that goes by the name of "Herky", this, however is not the person's name when she was alive.
+location: Millington Central High School
+state: Tennessee
+state_abbrev: TN
+longitude: -89.89802739999999
+latitude: 35.3455944
+city_longitude: -89.8973084
+city_latitude: 35.3414744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

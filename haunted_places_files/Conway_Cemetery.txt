@@ -1,0 +1,21 @@
+city: Bradley
+country: United States
+description: You can hear voices at midnight on a full moon. There is a tree that they hung people on where you can hear a lot of things.
+location: Conway Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -93.683578
+latitude: 33.10197300000001
+city_longitude: -93.6548983
+city_latitude: 33.0981881
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

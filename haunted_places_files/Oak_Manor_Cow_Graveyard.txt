@@ -1,0 +1,19 @@
+city: Houma
+country: United States
+description: many a times people have reported sounds of mooing and seeing white, clear cow figures grazing. some people even say they are coming after them and scaring them off the roads.
+location: Oak Manor Cow Graveyard
+state: Louisiana
+state_abbrev: LA
+city_longitude: -90.7195348
+city_latitude: 29.5957696
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1996/07/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

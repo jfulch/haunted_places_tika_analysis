@@ -1,0 +1,21 @@
+city: Academia
+country: United States
+description: Old girls' school, damaged by fire in 1800s, eerie, eerie things happen here at night. Lights flicker, strange sounds, presences felt, etc.
+location: Juniata County
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.4758231
+latitude: 40.4964672
+city_longitude: -77.4758231
+city_latitude: 40.4964672
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

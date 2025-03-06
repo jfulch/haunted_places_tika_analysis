@@ -1,0 +1,19 @@
+city: Boston
+country: United States
+description: Heard footsteps, TV come on in the middle of the night and stuff moved around and blankets being pulled off and saw something floating above the bed.
+location: Genova inn
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.0588801
+city_latitude: 42.3600825
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

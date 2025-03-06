@@ -1,0 +1,21 @@
+city: Atco
+country: United States
+description: Strange noise can be heard in theater 12 as if someone is moving their hands across the wall and voice can be heard.
+location: Multiplex
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.90726409999999
+latitude: 39.7763442
+city_longitude: -74.887946
+city_latitude: 39.7697878
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

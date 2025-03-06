@@ -1,0 +1,21 @@
+city: Woodson
+country: United States
+description: Woodson Lateral Road - The Woodson and Woodson Lateral Road are one and the same. Mysterious lights have been known to follow cars down Woodson Lateral Road.
+location: Pine Bluff
+state: Arkansas
+state_abbrev: AR
+longitude: -92.2098006
+latitude: 34.5281397
+city_longitude: -92.2109816
+city_latitude: 34.5292609
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

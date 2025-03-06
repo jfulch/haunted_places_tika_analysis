@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: voices heard in the projection room, apparitions of a grinning, pale man with big teeth standing in the open stall in the women's restroom mirror, feeling someone kiss them, and lights turning off then on again.
+location: Clairview Movie Theater
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2441369
+latitude: 40.9623429
+city_longitude: -74.2765441
+city_latitude: 40.92537249999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

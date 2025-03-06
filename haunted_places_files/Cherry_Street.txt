@@ -1,0 +1,21 @@
+city: Port Byron
+country: United States
+description: A home that is now torn down, used to be a hospital back in a war. And then later was a nursing home. There has been a man in a hat called "the man in the hat" that has been seen roaming around in the home. Seen by residence and visitors. Smoke in the dining room when no one was smoking. Very strong presence , eerie feelings, once someone heard there name called and no one else was in the home. Very strong eerie feelings even from the street.
+location: Cherry Street
+state: Illinois
+state_abbrev: IL
+longitude: -90.3316329
+latitude: 41.6066363
+city_longitude: -90.3354061
+city_latitude: 41.6064219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

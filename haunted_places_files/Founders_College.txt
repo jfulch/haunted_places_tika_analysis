@@ -1,0 +1,21 @@
+city: Charlotte
+country: United States
+description: Founders Hall - is haunted by a girl whose corpse was sold to the medical school here.
+location: Founders College
+state: North Carolina
+state_abbrev: NC
+longitude: -80.8421901
+latitude: 35.2268495
+city_longitude: -80.8431267
+city_latitude: 35.2270869
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1973/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 0

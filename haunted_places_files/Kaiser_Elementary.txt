@@ -1,0 +1,21 @@
+city: Roseville
+country: United States
+description: There was a custodian who was killed there and haunts the park at night. Only the bravest dare to go there. One 15 Year old girl went there in June and rumor is she is missing.
+location: Kaiser Elementary
+state: Michigan
+state_abbrev: MI
+longitude: -82.9485247
+latitude: 42.4922611
+city_longitude: -82.9371409
+city_latitude: 42.4972583
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Calavares County
+country: United States
+description: Murphys Historical Hotel - Instant feeling of something different there as soon as you walk in. It is said that a bookkeeper was shot and thrown over the balcony. the ghost is still there and roams the second floor. Feelings of being watched, and feeling a presence.
+location: Murphys
+state: California
+state_abbrev: CA
+longitude: -120.4596437
+latitude: 38.1374202
+city_longitude: -120.6805037
+city_latitude: 38.1960477
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1856/08/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

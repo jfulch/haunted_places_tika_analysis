@@ -1,0 +1,20 @@
+city: Totowa
+country: United States
+description: Repeated sightings of white robed woman appearing after dark discussion of said sightings on radio station WOR dozens of people have reported to have witnessed peaceful spirit. Cemetery closed before dusk sightings observed by dozens of people through main gates.
+location: Laurel Grove Cemetery
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2066813
+latitude: 40.9040717
+city_longitude: -74.20986789999999
+city_latitude: 40.9050988
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Cedar City
+country: United States
+description: - a psychic come in and said that a worker who died in the basement (boiler room) was still present down there as well as some others. workers have witnessed countless strange occurrences. These include noises (moaning, screaming, talking, clanking) coming from downstairs, the television has turned on and off by itself, objects have moved around by themselves- pizza bags have flown out of their holders. They have heard a little girl crying in the front one time. Lights also turn off by themselves. We also used to have a piano that would play the same notes over and over by its self. Overall strange feelings fill this place. When the psychic came in to eat, she instantly knew something was strange about it.
+location: The Depot Junction – Godfather’s Pizza
+state: Utah
+state_abbrev: UT
+city_longitude: -113.0618931
+city_latitude: 37.67747689999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

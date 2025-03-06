@@ -1,0 +1,21 @@
+city: Lake Jackson
+country: United States
+description: The lake for which the town was named, Jackson Lake is a slave-built structure with a strange history. The Lake was made to serve the Jackson Plantation, owned by two brothers. During a particularly ugly spat, one of the Jackson brothers murdered the other and threw his head into the nearby lake. From that day, apparitions have appeared as well as sounds of the headless brother searching for his head. The plantation was moved decades later to make way for a new subdivision. People who live in the now-called "Lake Jackson Farms" have reported apparitions outside their homes, strange noises, and in at least a few cases, full hauntings. All that remains on the site of the original plantation house is the fireplace, made of mud brick.
+location: Jackson Lake
+state: Texas
+state_abbrev: TX
+longitude: -95.4479663
+latitude: 29.0369147
+city_longitude: -95.4343859
+city_latitude: 29.0338575
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 1

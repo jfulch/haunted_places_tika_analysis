@@ -1,0 +1,20 @@
+city: Mansfield
+country: United States
+description: Many orbs and spirit strings appeared in photographs. This is the cemetery where Ceely Rose's parents and her brother are buried. (Rebecca, David and Walter Rose). She murdered them in 1896 by poisoning them with rat poison.
+location: Pleasant Valley Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -82.5132563
+latitude: 40.85079899999999
+city_longitude: -82.5154471
+city_latitude: 40.75839
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1896/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

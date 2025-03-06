@@ -1,0 +1,21 @@
+city: Langhorne
+country: United States
+description: Now a residential treatment facility for kids with behavioral problems the land was originally owned by a woman named Molly Woods. (the whole facility was named after her). Molly Woods was a patriot and allowed her property to be used as a makeshift hospice and cemetery for fallen Revolutionary soldiers because it was so near the battles in Trenton. Which is a scant 10 minute drive from Langhorne. There are many accounts of apparitions...Molly's original manor is used as the business epicenter but there are many esteemed, pragmatic and intrepid colleagues that refuse to go into that house after dark and state (without fanfare) that it is point-blank haunted.
+location: Woods services (off Bellvue Dr.)
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.9077225
+latitude: 40.1749634
+city_longitude: -74.92266649999999
+city_latitude: 40.1745538
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

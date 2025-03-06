@@ -1,0 +1,19 @@
+city: Hollywood
+country: United States
+description: It has been said that a woman and two children haunt one of the studios. My father used to work there. He would come back for lunch and things would be moved. For example the big rolls? of heavy wire that cannot be moved by even one or two people. They came back one time to find a of wooden beam props moved from one side of the studio to the next - impossible. He also said things would drop dangerously close to his head.
+location: KCET studio
+state: California
+state_abbrev: CA
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

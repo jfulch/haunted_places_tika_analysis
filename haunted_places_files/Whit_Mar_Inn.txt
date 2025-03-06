@@ -1,0 +1,21 @@
+city: Reading
+country: United States
+description: On the Pottsville Pike north of Reading. The ghosts of an old woman and an Indian have been spotted peering from the windows. The old lady's ghost would slam doors shut, turn the lights off and on, along with the air conditioner at times. Murry also claims that he has seen the ghostly figure of an Indian in the back of the building. - February 2004 additional info: the "Whit-Mar Inn" (also known as Poor Richard's Tavern and the Apple Inn). This was raised several years ago and is the home to a Wawa (convenience chain).
+location: Whit-Mar Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -81.575688
+latitude: 35.356312
+city_longitude: -75.9268747
+city_latitude: 40.3356483
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

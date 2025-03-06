@@ -1,0 +1,21 @@
+city: Virginia City
+country: United States
+description: a ghost of a woman can be seen a window upstairs.
+location: St. Paul's Episcopal School
+state: Nevada
+state_abbrev: NV
+longitude: -119.6480066
+latitude: 39.30920709999999
+city_longitude: -119.6499793
+city_latitude: 39.3095135
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: Close to 300 people died there of a plague, and it is haunted by the founder and builder Don Juan Temple, the bathroom is a hot spot of activity with many cold spats around it, and a lady in white has been seen in the Men's bathroom.
+location: Los Ceritos Ranchos
+state: California
+state_abbrev: CA
+longitude: -118.1954809
+latitude: 33.8397104
+city_longitude: -118.1937395
+city_latitude: 33.7700504
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

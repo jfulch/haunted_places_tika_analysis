@@ -1,0 +1,21 @@
+city: Easton
+country: United States
+description: Aunt Molly Tilghman has been seen floating down the steps here.
+location: Gross' Coate
+state: Maryland
+state_abbrev: MD
+longitude: -76.1441198
+latitude: 38.8561649
+city_longitude: -76.0763305
+city_latitude: 38.7742826
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.45
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

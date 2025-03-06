@@ -1,0 +1,21 @@
+city: Yosemite
+country: United States
+description: There are World War 2 Ghosts on the mezzanine level and the 3rd floor!
+location: Ahwahnee Hotel
+state: California
+state_abbrev: CA
+longitude: -119.574336
+latitude: 37.746154
+city_longitude: -119.5383294
+city_latitude: 37.8651011
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 0

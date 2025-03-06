@@ -1,0 +1,21 @@
+city: Cerro Gordo
+country: United States
+description: Beautiful semi-ghost town in the Inyo Mountains east of Lone Pine. The Belshaw House has shapes that are seen out of the corner of the eye and electrical effects like TVs, lights flickering, etc.
+location: Belshaw House
+state: California
+state_abbrev: CA
+longitude: -117.791744
+latitude: 36.5393799
+city_longitude: -117.791744
+city_latitude: 36.5393799
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

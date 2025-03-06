@@ -1,0 +1,20 @@
+city: Brunswick
+country: United States
+description: Salt shakers will smash against the wall. The freezer door will open and close for no reason. Food left unattended will have things added to them upon return.
+location: Johnny's Pub and Grill
+state: Ohio
+state_abbrev: OH
+longitude: -81.8411775
+latitude: 41.2258871
+city_longitude: -81.8418006
+city_latitude: 41.2381096
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 0

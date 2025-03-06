@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: Weston House - A dorm for the Savannah College of Art and Design which was formerly the Savannah Weston Hotel. It is located on 231 West Boundary St. and is one of the various areas of Savannah where civil war battles were fought. The old railroad also ran adjacent to it. At all times of the day students hear tapping on the walls, furniture moving in empty rooms, and a singing girl. There have been rare occasions of physical contact, in which students have reported being touched or grabbed. Sightings are more rare, but they have been experienced.
+location: Savannah College of Art
+state: Georgia
+state_abbrev: GA
+longitude: -81.0940516
+latitude: 32.0729232
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1710/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.516666666666667
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

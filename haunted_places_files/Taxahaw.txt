@@ -1,0 +1,20 @@
+city: Lancaster
+country: United States
+description: Forty Acre Rock - The legend is told you can start walking in the cave at dusk, it looks like its only fifteen or twenty feet deep but you can walk in about ten or twelve feet and see red eyes but no one has  never been deeper than that, but it is told that you can walk about 2 miles before getting to the end, and it will come out at big creek (Lynches River).
+location: Taxahaw
+state: South Carolina
+state_abbrev: SC
+longitude: -80.51673459999999
+latitude: 34.6898768
+city_longitude: -80.7709014
+city_latitude: 34.7204257
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1865/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Deming
+country: United States
+description: Recent janitors have been in the building by themselves and have heard doors opening and closing. Down the west side hall the girls bathroom flushes on it's own. They have also heard what sound like some running along roof. Teachers have reported that when they were by themselves working in the evening, they have heard doors slamming, someone walking in the hall, sound coming from other classrooms. Also doorknobs turning, knocking windows and noises that escalates in sound. They have also had as sense of uneasiness as if someone is watching you and also and apparition of a women reading a book.
+location: Martin Elementary
+state: New Mexico
+state_abbrev: NM
+longitude: -107.7567538
+latitude: 32.2737374
+city_longitude: -107.7586404
+city_latitude: 32.2686981
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1825/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

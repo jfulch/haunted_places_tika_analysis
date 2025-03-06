@@ -1,0 +1,21 @@
+city: St. Paul
+country: United States
+description: A man fell from this railroad bridge and was killed when this bridge was first built. A light can be seen from the bridge late at night. It looks like an old lantern light. Moans can be heard from the top of the bridge, but no one is there.
+location: Old Railroad Bridge over Flat Rock River
+state: Indiana
+state_abbrev: IN
+longitude: -85.6080889
+latitude: 39.4273461
+city_longitude: -85.6283088
+city_latitude: 39.4281048
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

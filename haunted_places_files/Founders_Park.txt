@@ -1,0 +1,21 @@
+city: Cedarburg
+country: United States
+description: The monument stone contains the recoverable names of the deceased which were laid to rest there. All that is left of the head stones to the original cemetery are small rocks and stones. There is a very strong negative feeling there, as well as many cold spots through out the park that will make the hair on your neck stand at lengths end on any given warm sunny day. You also don't feel "alone" when you are there.
+location: Founder's Park
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.97829229999999
+latitude: 43.3058696
+city_longitude: -87.9875898
+city_latitude: 43.2966716
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

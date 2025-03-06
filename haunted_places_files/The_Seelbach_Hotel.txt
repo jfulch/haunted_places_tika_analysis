@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: Reports of running footsteps in the hallway on wooden floors (the floor is carpeted. TV's will come on during the 4AM hour blaring, then after 15 minutes just stop.
+location: The Seelbach Hotel
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7582595
+latitude: 38.2509281
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

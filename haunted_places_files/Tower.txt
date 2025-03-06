@@ -1,0 +1,21 @@
+city: Hereford
+country: United States
+description: April 2007 - This has been removed. it is on Private Property. No Trespassing.
+location: Tower
+state: Texas
+state_abbrev: TX
+longitude: -102.16275
+latitude: 32.0009378
+city_longitude: -102.3977036
+city_latitude: 34.8150622
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

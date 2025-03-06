@@ -1,0 +1,21 @@
+city: El Centro
+country: United States
+description: Library and Library basement - Inside the actual library building itself it is almost impossible to go a night without hearing doors slamming, soft to hard footsteps, and people talking in the rows in the back of the library. Also, the basement of the library is a dark, damp, maze of rooms and hallways that was once used for detention back in the early and late 80's. It was affectionately called the dungeon for footsteps, crying, and laughing were often heard.
+location: Central Union High School
+state: California
+state_abbrev: CA
+longitude: -115.5637765
+latitude: 32.7887209
+city_longitude: -115.5630514
+city_latitude: 32.792
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

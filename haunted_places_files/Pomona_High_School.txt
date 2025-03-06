@@ -1,0 +1,21 @@
+city: Pomona
+country: United States
+description: in the band room there are 2 ghosts. One of them haunts the closet, when someone is changing by themselves they have a feeling of being watched. The other haunts the back (front) left door, when there is no wind at all the door either swings open or slams shut all of a sudden and sometimes it refuses to open even if you pull/push on it. - April Update: Located behind the school is an empty lot, which is what remains of Palomares Cemetery. Many believe this is why there are disturbances at the school. The only sign that the cemetery was there is a very small park (the size of a bathroom) and plaque located on the east side of the school.
+location: Pomona High School
+state: California
+state_abbrev: CA
+longitude: -117.7401771
+latitude: 34.0858778
+city_longitude: -117.7499909
+city_latitude: 34.055103
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

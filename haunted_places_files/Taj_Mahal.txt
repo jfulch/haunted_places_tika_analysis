@@ -1,0 +1,21 @@
+city: Atlantic City
+country: United States
+description: it is said that man jumped from the tenth floor of the garage and haunts that area every night around midnight
+location: Taj Mahal
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.4204805
+latitude: 39.36019840000001
+city_longitude: -74.4229266
+city_latitude: 39.3642834
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

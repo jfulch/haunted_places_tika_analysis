@@ -1,0 +1,21 @@
+city: Grapeview
+country: United States
+description: Residents in the park would see a reflection of an old man in mirrors, rocking chairs seems to rock by themselves, and feelings of being watched.
+location: Benson lake
+state: Washington
+state_abbrev: WA
+longitude: -122.921626
+latitude: 47.3350291
+city_longitude: -122.8293192
+city_latitude: 47.3352273
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

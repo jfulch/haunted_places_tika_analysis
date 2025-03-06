@@ -1,0 +1,21 @@
+city: Green County
+country: United States
+description: Memorial Park - it is said that two young girls were raped and murdered underneath of the what is now a plat for in the park. it is now cemented it and what not but there is a bathroom underneath it all.
+location: Brodhead
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.3762278
+latitude: 42.6183424
+city_longitude: -89.62516459999999
+city_latitude: 42.6287336
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/10/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.816666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Dalton
+country: United States
+description: A black man was supposed to have died during the construction of the building in 1938, and is said to be buried on the property. People have heard footsteps and loud, unexplained banging noises.
+location: The Wink Theater
+state: Georgia
+state_abbrev: GA
+longitude: -84.9685619
+latitude: 34.7713817
+city_longitude: -84.9702228
+city_latitude: 34.7698021
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1938/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

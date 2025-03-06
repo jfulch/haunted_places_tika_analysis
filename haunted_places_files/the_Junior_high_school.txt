@@ -1,0 +1,21 @@
+city: Stevensville
+country: United States
+description: There are three floors to the high school but one is abandoned. It’s said that this girl that went to school there hung herself in a classroom. A few years after that they reopened the floor and the janitor was cleaning, when she looked over the girl's spirit was coming towards her. A couple other janitors said they saw her and could here her crying. - March 2007 Update: Formerly listed as The High School.
+location: the Junior high school
+state: Montana
+state_abbrev: MT
+longitude: -114.0841457
+latitude: 46.5067471
+city_longitude: -114.0931588
+city_latitude: 46.50992249999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Crittenden
+country: United States
+description: There have been numerous occurrences there: hearing voices in the hallway, feeling something touching or grabbing your arm, seeing lights, a young woman twice and she almost instantly disappears.
+location: Juvenile Detention Facility
+state: Kentucky
+state_abbrev: KY
+longitude: -84.6057785
+latitude: 38.7985359
+city_longitude: -84.6052206
+city_latitude: 38.7828437
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

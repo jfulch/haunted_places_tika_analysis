@@ -1,0 +1,20 @@
+city: Camdenton
+country: United States
+description: Bridal Cave - Chanting and singing from the Osage Indians who frequented this area hundreds of years ago can be heard, along with drumbeats and the occasional appearances of Native American Apparitions.
+location: Thunder Mountain State Park
+state: Missouri
+state_abbrev: MO
+longitude: -92.7911222
+latitude: 38.0236314
+city_longitude: -92.7446289
+city_latitude: 38.0080902
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

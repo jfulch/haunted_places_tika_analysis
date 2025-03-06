@@ -1,0 +1,19 @@
+city: Bend
+country: United States
+description: Many people have reported seeing ghostly smoke, weird lights, footsteps, and voices. On the ground floor, in a restaurant, people have reported a ghostly voice (maybe of a long-dead waitress) shouting names and orders. The basement of the building is also haunted by the ghost of an old man.
+location: O'Kane building
+state: Oregon
+state_abbrev: OR
+city_longitude: -121.3153096
+city_latitude: 44.0581728
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Owensboro
+country: United States
+description: in the middle of the day you can hear screams of a woman in the girls bathroom of the 3rd floor. You can look around and see that there is no one there
+location: Davies County Middle School
+state: Kentucky
+state_abbrev: KY
+longitude: -87.095417
+latitude: 37.775823
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1987/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

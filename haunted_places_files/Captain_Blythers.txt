@@ -1,0 +1,21 @@
+city: Benicia
+country: United States
+description: This is a very old home now a restaurant. The former owners have had picture jump off of the walls and alarms go off. The town's police have even experienced this happening.
+location: Captain Blythers
+state: California
+state_abbrev: CA
+longitude: -122.1618617
+latitude: 38.0456848
+city_longitude: -122.1585777
+city_latitude: 38.049365
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

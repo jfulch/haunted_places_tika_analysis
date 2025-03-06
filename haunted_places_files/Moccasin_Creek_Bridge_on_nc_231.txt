@@ -1,0 +1,19 @@
+city: Middlesex
+country: United States
+description: a story long told by locals is that on the first Friday of every month at 9:00pm a boy is seen crawling out of the woods apparently trying to get help after his fatal car crash in 1963.
+location: Moccasin Creek Bridge on n.c. 231
+state: North Carolina
+state_abbrev: NC
+city_longitude: -78.20388419999999
+city_latitude: 35.79015589999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1963/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

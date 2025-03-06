@@ -1,0 +1,21 @@
+city: Philmont
+country: United States
+description: paranormal activities and sightings of apparitions have appeared over the years.
+location: the haunted mesa
+state: New Mexico
+state_abbrev: NM
+longitude: -104.9980592
+latitude: 36.4136471
+city_longitude: -104.958052
+city_latitude: 36.4540472
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

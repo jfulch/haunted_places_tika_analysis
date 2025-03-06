@@ -1,0 +1,21 @@
+city: Auburndale
+country: United States
+description: is supposedly "cursed". The land it sits on used to be swampland, and people say gangsters used to dispose of bodies there. No one who has owned the bowling alley supposedly has been able to make a go of it. Some say the building is haunted.
+location: the Bowling Alley
+state: Florida
+state_abbrev: FL
+longitude: -81.69261019999999
+latitude: 28.0212846
+city_longitude: -81.7886906
+city_latitude: 28.0652975
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

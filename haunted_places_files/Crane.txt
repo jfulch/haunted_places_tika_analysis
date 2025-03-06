@@ -1,0 +1,21 @@
+city: Davies County
+country: United States
+description: Crane Cemetery down the road from the abandoned Crane school - In the cemetery there is a headstone that glows only on certain nights. As soon as you enter the cemetery, turn off your headlights and drive straight. Look straight ahead and you will see a headstone start to glow then stop glowing as you get closer. Also when you leave the cemetery, look back and it will start to glow again.
+location: Crane
+state: Indiana
+state_abbrev: IN
+longitude: -86.9008772
+latitude: 38.8946267
+city_longitude: -87.14228949999999
+city_latitude: 38.7020241
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

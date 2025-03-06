@@ -1,0 +1,21 @@
+city: Mason
+country: United States
+description: From the 30's or 40's that has been desecrated by satanic cult. Statue of Mary that bleeds from the neck and eyes. WARNING~ trip wires, metal wires at neck height. etc. have been installed by caretaker to prevent vandals
+location: Old Trinity Church
+state: Tennessee
+state_abbrev: TN
+longitude: -89.51792449999999
+latitude: 35.4557738
+city_longitude: -89.5379687
+city_latitude: 35.4142966
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

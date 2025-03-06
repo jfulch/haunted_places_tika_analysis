@@ -1,0 +1,21 @@
+city: Grass Valley
+country: United States
+description: The downstairs reception hall is said to be haunted by spirits that drag chairs across the floor, turn lights on and off and voices are heard when no one is down there. The hotel was built in the 1800's and has hosted presidents, actors and was at one time a brothel. Arletta Douglas supposedly haunts the dining room named after her. Many of the hotel rooms are haunted by former guests who made the hotel a second home.
+location: The Holbrooke Hotel
+state: California
+state_abbrev: CA
+longitude: -121.0636282
+latitude: 39.2193428
+city_longitude: -121.0610606
+city_latitude: 39.2190608
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

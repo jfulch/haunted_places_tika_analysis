@@ -1,0 +1,19 @@
+city: El Reno
+country: United States
+description: Sightings of an old humped over man in a brown trench coat wearing Bogie style hat pulled down over his eyes walking on Route 66 between El Reno and Weatherford when it is raining. One person reported he picked the man up and started witnessing to him about religion and the old man tried to jump out of his moving car. Another person reported he thought he hit this man and stopped to see if he was dead and there was nothing there. More info found at www.route66clicks.com/ghost.html.
+location: Route 66 to Weatherford
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -97.9550493
+city_latitude: 35.5322741
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

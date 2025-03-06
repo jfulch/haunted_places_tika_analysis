@@ -1,0 +1,21 @@
+city: Morganton
+country: United States
+description: Main Building - Clock Tower - A hazy figure in the shape of a girl was seen moving slowly across the doorway.
+location: The Deaf School
+state: North Carolina
+state_abbrev: NC
+longitude: -81.69119239999999
+latitude: 35.7296832
+city_longitude: -81.6848188
+city_latitude: 35.7454071
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

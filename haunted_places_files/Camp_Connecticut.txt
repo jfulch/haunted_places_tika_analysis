@@ -1,0 +1,20 @@
+city: Colchester
+country: United States
+description: in pictures taken there are many "orbs" near the main gate and near the large sign within the camp, examinations shown not be photo error or bad development. Witnesses have seen 40 apparitions standing in front of the gate, as they walked towards them they parted, letting them though, and they walked right in between them. as the got to their car the figures slowly disappeared.
+location: Camp Connecticut
+state: Connecticut
+state_abbrev: CT
+longitude: -72.2185437
+latitude: 41.5267705
+city_longitude: -72.3320051
+city_latitude: 41.5756728
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

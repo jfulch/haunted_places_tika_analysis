@@ -1,0 +1,21 @@
+city: Artesia
+country: United States
+description: It's an old building that was a school awhile back...It has been closed for some time, some youth today sneak in the old haunted school and hear strange noises from around.
+location: Atoka School
+state: New Mexico
+state_abbrev: NM
+longitude: -104.3792249
+latitude: 32.7697565
+city_longitude: -104.4032962
+city_latitude: 32.8423345
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1590/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

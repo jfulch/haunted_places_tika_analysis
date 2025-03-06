@@ -1,0 +1,21 @@
+city: Cedar Rapids
+country: United States
+description: It is said that about 20 years ago, there was a convicted child molester living in one of the buildings. Years later one of the victim?s parents confronted the man and beat him to death. His body was found 3 days later. It is rumored that you can still hear the innocent cries of his victims echoing in the halls late at night in wildwood apartments.
+location: wildwood apartments
+state: Iowa
+state_abbrev: IA
+longitude: -91.6477644
+latitude: 42.021834
+city_longitude: -91.6656232
+city_latitude: 41.9778795
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Bridgeton
+country: United States
+description: 23 ghosts at last count inhabit this building.
+location: Payne-Gentry House
+state: Missouri
+state_abbrev: MO
+longitude: -90.3994077
+latitude: 38.7471887
+city_longitude: -90.4115057
+city_latitude: 38.7669954
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

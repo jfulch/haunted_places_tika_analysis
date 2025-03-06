@@ -1,0 +1,20 @@
+city: Owensboro
+country: United States
+description: At night, neighbors have reported screams and wicked laughter. They have seen doors flying open and shut as if possessed. There are dark reddish stains that have never come out of the floors in certain rooms.
+location: Owensboro Catholic Middle School
+state: Kentucky
+state_abbrev: KY
+longitude: -87.13412199999999
+latitude: 37.7460883
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

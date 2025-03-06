@@ -1,0 +1,21 @@
+city: Downey
+country: United States
+description: This building was closed down about 5-7 years ago. Extreme hot and cold spots felt, screams heard, doors seem to open and close on their own accord, and apparitions of people. - September 2005 Update: The hospital has been torn down and houses are being built on this site.
+location: Rio Hondo Hospital
+state: California
+state_abbrev: CA
+longitude: -118.1632554
+latitude: 33.9236865
+city_longitude: -118.1331593
+city_latitude: 33.9401088
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

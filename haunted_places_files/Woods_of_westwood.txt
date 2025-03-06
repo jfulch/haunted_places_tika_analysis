@@ -1,0 +1,19 @@
+city: Whitesburg
+country: United States
+description: back in the old days where a area is at use to be called graveyard holler and there is 3 graveyards on this site some graves dating back to the civil war if you go into the woods you can sometimes hear noises like gun shots firing when no one is in the woods then you can see what looks to be civil war dressed men running and disappearing.
+location: Woods of westwood
+state: Kentucky
+state_abbrev: KY
+city_longitude: -82.8268265
+city_latitude: 37.1184318
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: War
+witness_count: 1

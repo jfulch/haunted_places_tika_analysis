@@ -1,0 +1,21 @@
+city: Hammond
+country: United States
+description: There was a man who was having a very hard time. He and his wife had recently got a divorce, and he could no longer see his children. He was also fired from his job. The man was really, really upset and decided his life was no longer worth living. He committed suicide by hanging himself. Years later the residents living there can hear the man talking to them during the night, he also interferes with their lives by, for example, throwing tools all over the garage. Also, on the anniversary of his death a quick white light can be seen from his window to remind the neighborhood of the tragic event.
+location: Near Columbia School
+state: Indiana
+state_abbrev: IN
+longitude: -87.49882649999999
+latitude: 41.6148509
+city_longitude: -87.5000412
+city_latitude: 41.5833688
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

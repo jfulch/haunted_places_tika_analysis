@@ -1,0 +1,21 @@
+city: Ketchikan
+country: United States
+description: At night, as you drive up the main drive of the graveyard, a headless woman appears for a brief instant. Then, as you turn, a head is visible on the roadway.
+location: Ketchikan Graveyard
+state: Alaska
+state_abbrev: AK
+longitude: -131.6256146
+latitude: 55.3343198
+city_longitude: -131.6461112
+city_latitude: 55.34222219999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 10h 52m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

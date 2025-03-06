@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: This science museum was shut down in the early 90's and moved to a new location, but people visiting the surrounding parks and zoo hear odd noises and see strange lights coming from the abandoned empty building. -  July 2005 Update: This building was remodeled and opened as the Portland Children's Museum in 2001. www.portlandcm2.org. The building used to be rather creepy, most especially in the downstairs areas near the gem room. Those areas are employees-only now.
+location: Old OMSI building
+state: Oregon
+state_abbrev: OR
+longitude: -122.666298
+latitude: 45.508741
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2001/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Gretna
+country: United States
+description: Old night club that has been reopened after many years of being closed down. Since remodeling has started, voices, loud bangs (almost like a firecracker) in the restrooms, tools disappearing. Rumor ids the original owner committed suicide in the men’s restroom by shooting himself.
+location: The Jungle Rock Club
+state: Louisiana
+state_abbrev: LA
+city_longitude: -90.0539603
+city_latitude: 29.9146493
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

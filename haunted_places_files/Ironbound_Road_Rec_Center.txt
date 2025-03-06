@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: the blinds go up and down in the second floors nurses office, a ghost is seen to play baseball late at night and a shadowy figure has been seen walking around the woods late at night
+location: Ironbound Road – Rec Center
+state: Virginia
+state_abbrev: VA
+longitude: -76.73641219999999
+latitude: 37.29746850000001
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

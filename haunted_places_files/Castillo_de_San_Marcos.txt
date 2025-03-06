@@ -1,0 +1,21 @@
+city: St. Augustine
+country: United States
+description: Some of the most unusual occurrences include the "Battle Echoes" heard by visitors. By placing an ear to the wall, it is said you can hear the echoes of cannon fire and yelling. There is also telling of a young solder that can be seen leaning on the outside wall facing the bay after sundown.
+location: Castillo de San Marcos
+state: Florida
+state_abbrev: FL
+longitude: -81.31151870000001
+latitude: 29.89786179999999
+city_longitude: -81.31243409999999
+city_latitude: 29.9012437
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 42m
+time_of_day: Evening
+apparition_type: Mist
+event_type: War
+witness_count: 1

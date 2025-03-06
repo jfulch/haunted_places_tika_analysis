@@ -1,0 +1,21 @@
+city: Petaluma
+country: United States
+description: this used to be a movie theater and was burned down mysteriously and then it was built as an opera house and it burned down with people in it but, it was yet again a mystery on how it burned down, for more info on it go to the phoenix theater history. Anyway today this place is a hangout for kids and bands play here, but people see weird things up in the balcony you see out of the corner of your eye a white figure or a really dark shadow, in the bathrooms you hear things in the bathroom, the balcony is locked so no one can go in there unless a big show. the basement it the worst, if you ask the owner about it he will tell you about the place and if you know the band AFI they have witnessed stuff to, so if you want to check it out go for it! it's an awesome place to get scared in.
+location: the phoenix theater
+state: California
+state_abbrev: CA
+longitude: -122.6430667
+latitude: 38.2348794
+city_longitude: -122.6366524
+city_latitude: 38.232417
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2013/07/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

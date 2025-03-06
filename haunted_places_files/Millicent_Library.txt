@@ -1,0 +1,21 @@
+city: Fairhaven
+country: United States
+description: Music Room - Witnesses have claimed to hear Millicent laughter coming from what was once knawn as the "Music Room." Staff and patrons have also seen a man dressed in a tweed jacket and purple bowtie with small circular glasses mopping the floor in the basement. One librarian claimed he is the ghost of a janitor who suffered a spill and broke his neck on the wet floors he still mops relentlessly. The doors open and close by themselves and the bathroom lights will shut off seconds after being turned on by a visitor. Footsteps can be heard on the stairwell leading to the basement.
+location: Millicent Library
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9033893
+latitude: 41.635698
+city_longitude: -70.90364869999999
+city_latitude: 41.6376043
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

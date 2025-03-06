@@ -1,0 +1,20 @@
+city: Hayward
+country: United States
+description: This casino was actually a farm many years ago. In the past, there were stories of the farmhouse being haunted. Classic occurrences such as eerie footsteps could always be heard late at night. The house was moved about one mile down the road when the casino was built. Many workers of the casino graveyard shift have seen apparitions of people in the casino after it has been closed.
+location: Lac Courte Orielles Casino
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.3823073
+latitude: 45.9954139
+city_longitude: -91.4846208
+city_latitude: 46.0130065
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

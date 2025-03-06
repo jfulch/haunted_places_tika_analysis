@@ -1,0 +1,21 @@
+city: Shrewsbury
+country: United States
+description: objects thrown by invisible forces. sightings of former residents voices and lights flickering have all been reported by both employees and residents
+location: Southgate Retirement community
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.70358999999999
+latitude: 42.291989
+city_longitude: -71.71284709999999
+city_latitude: 42.2959267
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

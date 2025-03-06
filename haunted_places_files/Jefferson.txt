@@ -1,0 +1,21 @@
+city: Marion
+country: United States
+description: Good Shepard Clinic - The Clinic used to be the old Jefferson Hospital, The ambulance crews use one section of the old hospital as living quarters, the work out room used to be the nursury. There is one room in the quarters that they will not go into. Some have said that they have seen shadows in throughout the building that are not in the living quarters, after the clinic has closed late at night.
+location: Jefferson
+state: Texas
+state_abbrev: TX
+longitude: -94.3451926
+latitude: 32.7573626
+city_longitude: -98.1402865
+city_latitude: 29.5713402
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1874/12/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.466666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

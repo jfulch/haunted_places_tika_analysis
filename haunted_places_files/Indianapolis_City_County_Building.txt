@@ -1,0 +1,21 @@
+city: Indianapolis
+country: United States
+description: During the first years of construction on this building, a special elevator was erected to move court witnesses to different floors of the building. In the 1960's, a witness was being escorted to court in a Mafia case. He was shot in the elevator by one of the police escorts, who was really a hit man in disguise. After this happened, access to the elevator was blocked and the power cut off. Many people have reported hearing this mysterious elevator going through the floors, muffled by screams heard in the elevator shaft. Some have even claimed to see the actual ghost of the shooting victim wandering the halls of the building.
+location: Indianapolis City County Building
+state: Indiana
+state_abbrev: IN
+longitude: -86.1557412
+latitude: 39.76795329999999
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

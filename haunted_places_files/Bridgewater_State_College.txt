@@ -1,0 +1,21 @@
+city: Bridgewater
+country: United States
+description: Wood Hall - it has a room that a girl very long ago set herself on fire and she is still seen today running thru the hall screaming Fire and banging on doors when the students emerge from there rooms there is no one there.
+location: Bridgewater State College
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9660014
+latitude: 41.9877398
+city_longitude: -70.9750541
+city_latitude: 41.9903519
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1947/06/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

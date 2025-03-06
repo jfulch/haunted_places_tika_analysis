@@ -1,0 +1,21 @@
+city: Huntsville
+country: United States
+description: People have claimed to hear footsteps and laughing of teenagers through the halls at night after late softball or basketball practices.
+location: Huntsville High School
+state: Alabama
+state_abbrev: AL
+longitude: -86.5835201
+latitude: 34.7138634
+city_longitude: -86.5861037
+city_latitude: 34.7303688
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

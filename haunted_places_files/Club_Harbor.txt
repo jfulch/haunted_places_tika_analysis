@@ -1,0 +1,21 @@
+city: Pipe
+country: United States
+description: Club Harbor was a bed and breakfast back in the early 1900's when it was built. When you look at the window on the 3rd floor, you can see a women in the window. There were 2 murders and 1 suicide were performed in the very same room that the women is standing in. The woman is known to have blond hair and also may be the woman that was raped and murdered, or the woman that committed suicide.
+location: Club Harbor
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.31336519999999
+latitude: 43.9143025
+city_longitude: -88.31542689999999
+city_latitude: 43.9134184
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1856/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

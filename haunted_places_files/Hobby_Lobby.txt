@@ -1,0 +1,21 @@
+city: Buford
+country: United States
+description: has a picture hanging on the wall of an old abandoned house on Braselton Highway(124) in Braselton. The photo captures spirits looking out of the attic window...creepy. The photo is hanging on a wall near the restrooms in the back of the store. Check it out.
+location: Hobby Lobby
+state: Georgia
+state_abbrev: GA
+longitude: -84.0013527
+latitude: 34.0939991
+city_longitude: -84.0043513
+city_latitude: 34.1206564
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

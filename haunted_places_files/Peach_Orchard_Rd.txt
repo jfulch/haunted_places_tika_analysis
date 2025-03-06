@@ -1,0 +1,21 @@
+city: Dunmor
+country: United States
+description: sounds of the man who was killed and rolled of the hill on peach orchard rd. can still be heard
+location: Peach Orchard Rd.
+state: Kentucky
+state_abbrev: KY
+longitude: -87.007475
+latitude: 37.0405307
+city_longitude: -86.9961081
+city_latitude: 37.0736556
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2006/07/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Maryville
+country: United States
+description: people say they hear a little girl crying in the halls of the school. plus the school is built on a cemetery. When you are outside playing ghost come up to you and grab you and try to take you away but if you do not look at them they will leave you alone.
+location: Carpenters School
+state: Tennessee
+state_abbrev: TN
+longitude: -84.00505009999999
+latitude: 35.6772371
+city_longitude: -83.9704593
+city_latitude: 35.7564719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/04/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

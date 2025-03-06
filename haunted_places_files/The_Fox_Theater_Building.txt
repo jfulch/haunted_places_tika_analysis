@@ -1,0 +1,21 @@
+city: Fullerton
+country: United States
+description: the old Fox Theatre building is rumored to have Michael O’Donnell’s ghost guarding the kids in the neighborhood from violence. Michael O’Donnell was the son of travel agency founder Dorothy O’Donnell who had a troubled life with substance and drink but a genuine love people, especially kids in a rough area. He is said to be seen in the lobby of the theatre and sometimes leaning against a wall reading a book.
+location: The Fox Theater Building
+state: California
+state_abbrev: CA
+longitude: -117.9239231
+latitude: 33.8743505
+city_longitude: -117.9242123
+city_latitude: 33.8703645
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1998/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

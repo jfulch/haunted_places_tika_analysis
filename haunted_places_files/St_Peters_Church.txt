@@ -1,0 +1,20 @@
+city: North Ridgeville
+country: United States
+description: when it's quiet enough or not too many people you can hear footsteps walking up and down the isles.
+location: St. Peters Church
+state: Ohio
+state_abbrev: OH
+longitude: -82.0157912
+latitude: 41.3906503
+city_longitude: -82.01903209999999
+city_latitude: 41.3894905
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2010/07/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Mobridge
+country: United States
+description: In 1996 a janitor died after having a big crash down the stairs. There have been doors slamming in the boy’s bathroom.
+location: elementary
+state: South Dakota
+state_abbrev: SD
+longitude: -100.4281583
+latitude: 45.5388949
+city_longitude: -100.4279129
+city_latitude: 45.5372162
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1996/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 0

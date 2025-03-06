@@ -1,0 +1,21 @@
+city: Fond du Lac
+country: United States
+description: the Retlaw (Walter backwards) Theater originally owned and operated by Walter Schroeder, is believed to be haunted by Walter and the actors who performed there. The theater was remodeled to be used by Bravo Theater and was later made into Fusion Cafe. Many of the workers and volunteers have reported footsteps on the stage when there was no one on or near the stage, seats creaking and moving on their own, clapping heard at night, and figures reported to be seen off stage and in the basement storage area. There have also been reports that the hinged door on the stage floor would be left closed but would be open in the morning when the volunteers and workers returned.
+location: The Retlaw Theater
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.4885272
+latitude: 43.792697
+city_longitude: -88.4470508
+city_latitude: 43.7730448
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

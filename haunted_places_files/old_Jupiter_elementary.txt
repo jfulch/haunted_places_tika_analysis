@@ -1,0 +1,21 @@
+city: Jupiter
+country: United States
+description: the old building that's not reconstructed has been heard to turn lights on and off . also the walls and floors make creeping noises.
+location: old Jupiter elementary
+state: Florida
+state_abbrev: FL
+longitude: -80.100842
+latitude: 26.932121
+city_longitude: -80.0942087
+city_latitude: 26.9342246
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

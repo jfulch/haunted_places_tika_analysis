@@ -1,0 +1,21 @@
+city: Key West
+country: United States
+description: The home of Robert Eugene Otto is haunted by two spirits one is a malevolent spirit of Eugene’s doll Robert who was put in the attic by his wife just mainly an evil presence is felt in the attic.  Also Eugene’s wife’s spirit is believed to be trapped in the Turret room where Robert was kept.  The house is now a hotel or B&B.  Robert is displayed at a museum in Key West
+location: Artist House B&amp;B
+state: Florida
+state_abbrev: FL
+longitude: -105.5782263
+latitude: 36.3936515
+city_longitude: -81.7799871
+city_latitude: 24.5550593
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1840/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

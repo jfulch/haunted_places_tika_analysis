@@ -1,0 +1,21 @@
+city: Pittsburg
+country: United States
+description: McCray Hall - Music Department -  Sightings of a lady in a black dress. The Pipe organ is heard playing at night. Sudden temperature variations. Strange movements from corners of eyes. If wanting to investigate, please contact the university to ask permission to investigate.
+location: Pittsburgh State University
+state: Kansas
+state_abbrev: KS
+longitude: -94.6915709
+latitude: 37.3902857
+city_longitude: -94.70496
+city_latitude: 37.410884
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1894/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

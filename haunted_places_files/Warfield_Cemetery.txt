@@ -1,0 +1,21 @@
+city: Barbourville
+country: United States
+description: Something follows you. Its footsteps move as you do, and stop when you do, yet this unseen thing moves very fast. You can feel its sense of urgency, and the steps crunch over the ground, as if it's agitated. When it starts this, you standing there cringing, just certain something is going to knock you down from behind, but the steps just stop abruptly and don't start back up until you begin walking again. When you step outside of the gate, the sounds of the footsteps stop.
+location: Warfield Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -83.9199174
+latitude: 36.8551851
+city_longitude: -83.8888138
+city_latitude: 36.8664765
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1985/07/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

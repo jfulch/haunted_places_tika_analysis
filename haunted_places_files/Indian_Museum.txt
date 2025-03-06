@@ -1,0 +1,21 @@
+city: Marshals Creek
+country: United States
+description: This museum is haunted by the mysterious figure of a woman who descends the stairway in the main hall.
+location: Indian Museum
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.0436548
+latitude: 41.0693845
+city_longitude: -75.12740029999999
+city_latitude: 41.0431501
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

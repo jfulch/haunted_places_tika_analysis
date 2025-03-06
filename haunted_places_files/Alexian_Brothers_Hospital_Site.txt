@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: This is the actual site of an exorcism, the event the movie is based on. The original building was torn down some years ago. The exorcism was performed on a young (perhaps 11) year old boy. After a vision of St. Michael the spirit was vanquished. The site is part of the parking lot now. It has a reoccurring crack in the pavement directly under the room the exorcism was held in. On a side note, the boy was transferred back and forth from Alexian Bros to White house estates (A catholic retreat)
+location: Alexian Brothers Hospital Site
+state: Missouri
+state_abbrev: MO
+longitude: -90.2286233
+latitude: 38.5834635
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

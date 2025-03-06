@@ -1,0 +1,21 @@
+city: Fort Edward
+country: United States
+description: In the basement a man dressed in all black has been seen by several employees roaming the halls it is believed he was once a butler in the mansion that once stood where the nursing home is . Also a woman in a white night gown has been seen by residents as well as staff looking in the window of a second floor room on D wing the window is about 20 feet above the ground. Another man was seen on D wing wandering from room to room then disappears. There have been several more unexplained happenings in the facility.
+location: Fort Hudson Nursing Home
+state: New York
+state_abbrev: NY
+longitude: -73.58815899999999
+latitude: 43.28067799999999
+city_longitude: -73.5476338
+city_latitude: 43.2310452
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

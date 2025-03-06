@@ -1,0 +1,21 @@
+city: Layton
+country: United States
+description: In Layton near the highway 89 turn off going to Ogden there is a secluded neighborhood, there is a hidden trail that leads to a very large hollow, on one side is a small forest area and on the other is a fairly big lake. it seems like a great find for a good summer swim, but in the late 70's the undertow from the water began to mysteriously get violent on rare nights, many people went there drunk and went for a swim and swing off the rope swings, unfortunately many people began to disappear. lots of unsolved cases were linked to that lake, if you go there at night you can hear screams and people calling for help, and you can also see weird things in the reflection of the water.
+location: Hobbs Hollow
+state: Utah
+state_abbrev: UT
+longitude: -111.9190863
+latitude: 41.1017748
+city_longitude: -111.9710529
+city_latitude: 41.0602216
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2007/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

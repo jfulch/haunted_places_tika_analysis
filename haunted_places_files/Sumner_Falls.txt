@@ -1,0 +1,21 @@
+city: Hartland
+country: United States
+description: For nearly a century there have been reports of logger ghosts as they float down the Connecticut River near Sumner Falls. A tall phantom dressed in black, accompanied by a black hat, has also been spotted on the nearby trails.
+location: Sumner Falls
+state: Vermont
+state_abbrev: VT
+longitude: -72.3809249
+latitude: 43.5645152
+city_longitude: -72.3989314
+city_latitude: 43.540636
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

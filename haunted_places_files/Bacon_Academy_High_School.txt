@@ -1,0 +1,20 @@
+city: Colchester
+country: United States
+description: The catwalk in the auditorium is haunted by the ghost of a man who fell to his death while the school was being built. People have witnessed lights being turned on and off when no one is up there.
+location: Bacon Academy High School
+state: Connecticut
+state_abbrev: CT
+longitude: -72.3022522
+latitude: 41.5768416
+city_longitude: -72.3320051
+city_latitude: 41.5756728
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Shiloh
+country: United States
+description: Activity occurring in the old caretakers house. Doors open and close mysteriously. Cabinet doors open and close as well.
+location: Shiloh National Military Park
+state: Tennessee
+state_abbrev: TN
+longitude: -88.3408499
+latitude: 35.142937
+city_longitude: -88.36170849999999
+city_latitude: 35.1153617
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2017/11/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

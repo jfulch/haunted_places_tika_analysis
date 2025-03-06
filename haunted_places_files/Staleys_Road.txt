@@ -1,0 +1,20 @@
+city: New Carlisle
+country: United States
+description: There is a road in New Carlisle that runs past an old mill to the right and an old mansion to the left. Rumor has it Old Staley went crazy and murdered his family and servants, killing himself. Now, whenever you drive down the road at night, your car stalls and your vehicle goes crazy, lights flashing, horn honking, wheels braking all on their own. Every now and then you can see Old Staley pacing around in the mansion.
+location: Staley's Road
+state: Ohio
+state_abbrev: OH
+longitude: -84.0717308
+latitude: 39.9616024
+city_longitude: -84.0254913
+city_latitude: 39.9361699
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1967/08/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

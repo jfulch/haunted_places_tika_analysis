@@ -1,0 +1,20 @@
+city: Cortland
+country: United States
+description: Doors slamming, objects moving, a man walking the halls with a very large weird hat, chilly & uncomfortable feeling in the bedrooms. Has been told the Apartment Complexes are built on an old Indian Burial ground. You get the goose bumps and your hair stands up on your body. Several tenants have complained and described different ghostly activities in their apartments.
+location: Pauni Apartments
+state: Ohio
+state_abbrev: OH
+longitude: -80.7305049
+latitude: 41.3404523
+city_longitude: -80.7253575
+city_latitude: 41.3303342
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

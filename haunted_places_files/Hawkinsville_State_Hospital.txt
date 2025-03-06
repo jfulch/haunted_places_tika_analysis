@@ -1,0 +1,21 @@
+city: Hawkinsville
+country: United States
+description: It is right in the middle of Hawkinsville but it is big and gothic looking kids have messed it up inside but it is a very neat place to go. Audible noises have been heard, as well as cold spots, great E.V.P.'s from this location! There are many spirits at this location, to include former nurses, doctors, and patients. Must gain permission from owners before attempting! A must for any Paranormal Investigator!
+location: Hawkinsville State Hospital
+state: Georgia
+state_abbrev: GA
+longitude: -83.5007909
+latitude: 32.3047241
+city_longitude: -83.4721177
+city_latitude: 32.2837731
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

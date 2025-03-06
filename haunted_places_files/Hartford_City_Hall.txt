@@ -1,0 +1,20 @@
+city: Hartford
+country: United States
+description: Supposedly this ghost bangs on doors, closes doors, and opens doors that people know they've locked.
+location: Hartford City Hall
+state: Connecticut
+state_abbrev: CT
+longitude: -72.6734469
+latitude: 41.76255949999999
+city_longitude: -72.6850932
+city_latitude: 41.76371109999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

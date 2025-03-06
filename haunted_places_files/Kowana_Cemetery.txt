@@ -1,0 +1,21 @@
+city: Seminole
+country: United States
+description: Flashing lights seen .
+location: Kowana Cemetery
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.6698545
+latitude: 35.3463315
+city_longitude: -96.670573
+city_latitude: 35.2245201
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1832/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

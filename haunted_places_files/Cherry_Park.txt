@@ -1,0 +1,21 @@
+city: Yakima
+country: United States
+description: It has been reported more than 100 times at night in cherry park you can see, children running around in circles screaming at the top of there lungs. This goes on for a good half an hour, while you smell a strong scent of sulfur in the air.
+location: Cherry Park
+state: Washington
+state_abbrev: WA
+longitude: -120.5168443
+latitude: 46.6072246
+city_longitude: -120.5058987
+city_latitude: 46.6020711
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

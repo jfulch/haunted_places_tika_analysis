@@ -1,0 +1,21 @@
+city: Huntsville
+country: United States
+description: When you're in the loft of The Woodland Home at the Sam Houston Memorial Museum, you can hear people walking around underneath you, and see their footprints in the gravel leading up to the house. You can also see things fall off of Sam Houston's desk sometimes in his law office.
+location: Sam Houston Memorial Museum
+state: Texas
+state_abbrev: TX
+longitude: -95.5519693
+latitude: 30.7155851
+city_longitude: -95.5507771
+city_latitude: 30.7235263
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

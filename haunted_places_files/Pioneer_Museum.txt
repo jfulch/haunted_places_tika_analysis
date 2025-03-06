@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: Strange things have been observed in the Pioneer Memorial Museum by the Utah State Capitol surveillance camera.  Authorities reported the specter of what appears to be a woman's face first appeared in the early morning hours of October 10th 2007 in the motion cameras.  The image lingered on the camera for about five minutes but, when officers investigated, they found no sign of life in the museum. Since this time, the face appeared three or four nights of a seven or eight day period.  Camera lens were cleaned and other explanations were speculated, but no conclusion as to the face has been made.
+location: Pioneer Museum
+state: Utah
+state_abbrev: UT
+longitude: -111.8911489
+latitude: 40.7766104
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Oak Creek
+country: United States
+description: This is sort of covered with the Bender Park Story. It is also evident that Fitzsimmons Road was used for drag races and such back in the day. People went off the cliff at the end of the road and haunt it. The end is blocked off now, but you still get the vibe that something does not want people there.
+location: Fitzsimmons Road
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.8734604
+latitude: 42.8644299
+city_longitude: -87.8631362
+city_latitude: 42.8858503
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

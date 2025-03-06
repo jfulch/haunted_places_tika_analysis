@@ -1,0 +1,21 @@
+city: La Joya
+country: United States
+description: in the seventies.  The High School students did variety show at Halloween in the middle school auditorium.  There have been unexplained noises in locked rooms, moving of desks and the like.  The students called the building haunted.
+location: La Joya High School
+state: Texas
+state_abbrev: TX
+longitude: -98.4728944
+latitude: 26.2534517
+city_longitude: -98.4814092
+city_latitude: 26.2470165
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

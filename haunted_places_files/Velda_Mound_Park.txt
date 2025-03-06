@@ -1,0 +1,21 @@
+city: Tallahassee
+country: United States
+description: Old Indian Village. Sometimes at night, you can see visions of Indian’s keeping warm by a fire, but in a split second, they're gone. There is sometimes said that there is a white wolf that glows that can be seen there, and neighbors often say that they can hear it howling throughout the night.
+location: Velda Mound Park
+state: Florida
+state_abbrev: FL
+longitude: -84.22251370000001
+latitude: 30.5016003
+city_longitude: -84.28073289999999
+city_latitude: 30.4382559
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1984/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

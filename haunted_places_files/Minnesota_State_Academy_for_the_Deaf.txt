@@ -1,0 +1,20 @@
+city: Faribault
+country: United States
+description: Many ghost encounters are said to have occurred here. People have claimed to see a black ghost sitting in the balcony of Noyes Hall. Lights often go out in Noyes Hall and Tate Hall. Witnesses have also claimed to see a number other ghosts on the campus. The origins of the spirits are unknown.
+location: Minnesota State Academy for the Deaf
+state: Minnesota
+state_abbrev: MN
+longitude: -93.2615451
+latitude: 44.2967758
+city_longitude: -93.268827
+city_latitude: 44.2949636
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1916/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

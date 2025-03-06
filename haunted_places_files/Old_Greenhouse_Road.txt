@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: The ghost of an old woman who died in a car wreck appears here. If you turn off your headlights and drive around the corner to the bridge VERY slowly, a mist forms over the bridge and comes together to form the shape of a person. They say if you stick around long enough, the apparition will begin to approach the car. My friends and I have seen this ghost appear on even the clearest of nights. The ghost seems to prefer warm or cold clear nights or nights just after it has rained..
+location: Old Greenhouse Road
+state: Texas
+state_abbrev: TX
+longitude: -95.6897927
+latitude: 29.8507214
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

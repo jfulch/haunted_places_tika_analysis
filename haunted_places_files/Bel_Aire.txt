@@ -1,0 +1,21 @@
+city: Wichita
+country: United States
+description: when the Bel Aire water tower was being built a man snuck into the construction site and climbed the tower, he slipped and fell inside falling a horrible 183 feet to his death, when workers discovered he fell, they would have had to taken the tower apart to retrieve the body so they just built the tower over him, they say if anyone climbs the fence around the tower u can hear him inside tapping on the walls trying to have get out.
+location: Bel Aire
+state: Kansas
+state_abbrev: KS
+longitude: -97.2598913
+latitude: 37.7708346
+city_longitude: -97.330053
+city_latitude: 37.68717609999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2007/09/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

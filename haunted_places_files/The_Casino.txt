@@ -1,0 +1,21 @@
+city: Saratoga Springs
+country: United States
+description: in congress park is haunted, lights go on and off and the shades go up and down on the top floor.
+location: The Casino
+state: New York
+state_abbrev: NY
+longitude: -73.7737101
+latitude: 43.0615108
+city_longitude: -73.7845651
+city_latitude: 43.0831301
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.75
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

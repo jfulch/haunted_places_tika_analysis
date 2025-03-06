@@ -1,0 +1,21 @@
+city: Goliad
+country: United States
+description: This is an Old Spanish mission dating from the 1700s. It is reportedly extremely haunted, due to the many Texan revolutionaries executed there by general and President of Mexico, Antonio Lopez de Santa Anna on Palm Sunday, 1836. Among other phenomenon is a very short priest that roams the chapel yard, a cold, misty area in one corner, moans and sighs heard throughout the main yard, and a lady who is often seen praying in the chapel. More information can be found here: www.lonestarspirits.org
+location: Presidio La Bahia
+state: Texas
+state_abbrev: TX
+longitude: -97.3827953
+latitude: 28.6477385
+city_longitude: -97.3883265
+city_latitude: 28.6683252
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

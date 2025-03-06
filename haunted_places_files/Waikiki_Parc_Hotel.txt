@@ -1,0 +1,21 @@
+city: Waikiki
+country: United States
+description: This is an update to the story of the person punching in and out for work. A new employee at the front desk (who is allegedly able to see spirits) asked the others who the person who hangs out at the time clock is. He had only been there a few days so it was unlikely he knew about the time clock incidents. He was also able to describe the ethnicity of the ghost. The same person also says there is an angry Hawaiian ghost in the electrical room, but no one at the hotel seems to know who this ghost might be. The building is relatively new, so the angry Hawaiian ghost probably pre-dates the hotel.
+location: Waikiki Parc Hotel
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8306613
+latitude: 21.2782807
+city_longitude: -157.835698
+city_latitude: 21.285002
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1778/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

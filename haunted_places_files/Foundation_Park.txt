@@ -1,0 +1,21 @@
+city: Centralia
+country: United States
+description: Stover’s Hill a popular place where children go to sled when it snows. At the bottom of Stover’s hill there is a marry-go-round, witnesses report getting an image of a family in a picture taken there.
+location: Foundation Park
+state: Illinois
+state_abbrev: IL
+longitude: -89.1159701
+latitude: 38.5313504
+city_longitude: -89.1316944
+city_latitude: 38.5285169
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1923/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

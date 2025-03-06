@@ -1,0 +1,20 @@
+city: Branford
+country: United States
+description: as you walk into the woods you can hear gun shoots and screaming coming from behind you, you can also hear some one running and gasping for air but when you turn around to see where its coming from the noises disappear.
+location: Branford Slupy Pound
+state: Connecticut
+state_abbrev: CT
+longitude: -72.7524339
+latitude: 41.304983
+city_longitude: -72.81411849999999
+city_latitude: 41.2799027
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1919/04/30
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Waverly
+country: United States
+description: A rumor around here says that the spirit of a 12-year-old boy haunts this Boy Scout camp. Apparently while playing one day, he was swinging when he jumped, and hit his head on a 5-inch rock. Some say he was killed instantly, some slow and painfully. This happened 3 years ago. Anyway, a swing moving at the same height never higher never lower. Even creepier, there is never a breeze when this happens some say. I've only been going for a year, but it's been the same condition as they say. Some have even heard a giggle.
+location: Camp Ingawanas
+state: Iowa
+state_abbrev: IA
+longitude: -92.4159022
+latitude: 42.6895706
+city_longitude: -92.4668511
+city_latitude: 42.7272032
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

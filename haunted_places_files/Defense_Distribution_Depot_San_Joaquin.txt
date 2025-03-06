@@ -1,0 +1,21 @@
+city: Tracy
+country: United States
+description: Bldg 100 - During the evening hours employees hear footsteps in the deserted mainframe room. There are only one or two employees on duty and all have confirmed the sounds. The water in the men's room, adjacent to the mainframe area, is found to be running on occasion. It's suspected that either one of three previous employees, who have died by terrible disease and suicides are the cause.
+location: Defense Distribution Depot San Joaquin
+state: California
+state_abbrev: CA
+longitude: -121.3976236
+latitude: 37.7067909
+city_longitude: -121.4252227
+city_latitude: 37.7396513
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

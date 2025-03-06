@@ -1,0 +1,21 @@
+city: Oxford
+country: United States
+description: A bar in which there is an old slave tunnel in the Michigan basement. Glasses fall off shelving, juke box volume goes loud and quiet at random. Bathroom stall doors bang open and shut after hours as barmaids clean up. A ghostly figure of a man with white hair in a northern civil war uniform sometimes appears on steps that go down to the basement by the old slave tunnel. Photos taken here have shown blue colored squiggles as well as orbs.
+location: Rob's Place
+state: Michigan
+state_abbrev: MI
+longitude: -83.264921
+latitude: 42.824335
+city_longitude: -83.26466239999999
+city_latitude: 42.8247524
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1762/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

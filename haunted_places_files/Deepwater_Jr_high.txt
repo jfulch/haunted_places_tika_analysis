@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: there has been rumors that a girl drowned in the swimming pool when the school was built and now she haunts the girl's locker room by opening lockers and turning on the showers.
+location: Deepwater Jr high
+state: Texas
+state_abbrev: TX
+longitude: -95.161345
+latitude: 29.7031578
+city_longitude: -95.2091006
+city_latitude: 29.6910625
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

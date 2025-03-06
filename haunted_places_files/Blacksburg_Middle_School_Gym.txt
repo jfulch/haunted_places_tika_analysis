@@ -1,0 +1,20 @@
+city: Blacksburg
+country: United States
+description: In 1980 a girl basketball player for the school hung her self after a game they had won. Some of the teachers and students have witnessed her ghost staying late at school. Also during football season the lights in the gym have been seen going on in off after games.
+location: Blacksburg Middle School Gym
+state: South Carolina
+state_abbrev: SC
+longitude: -81.5157737
+latitude: 35.113169
+city_longitude: -81.51592459999999
+city_latitude: 35.1212408
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: West Point/King William
+country: United States
+description: Near the small crossroads town of Cohoke in King William, a ghost train appears to visitors more times than it doesn't. Looking down the tracks towards the west, a light will come like a train, but with no noise. It will get closer and closer and then just disappear. Also occasionally this light will be preceded by the apparition of a confederate soldier holding a lantern.
+location: Cohoke Railroad
+state: Virginia
+state_abbrev: VA
+longitude: -77.4382193
+latitude: 37.4795627
+city_longitude: -76.7963504
+city_latitude: 37.53153349999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 0

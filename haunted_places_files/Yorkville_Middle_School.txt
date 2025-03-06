@@ -1,0 +1,21 @@
+city: Yorkville
+country: United States
+description: Back in 1978 There was a janitor who was trapped in the elevator when the power went off for the summer for a whole week of summer vacation. He was reported missing a week later he was never found until the teachers came back to get ready for the next year. He died of starvation. He has been seen roaming the halls at night.
+location: Yorkville Middle School
+state: Illinois
+state_abbrev: IL
+longitude: -88.42183109999999
+latitude: 41.6168781
+city_longitude: -88.44729480000001
+city_latitude: 41.6411409
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

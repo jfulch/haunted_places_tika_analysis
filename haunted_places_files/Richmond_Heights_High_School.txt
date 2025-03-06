@@ -1,0 +1,20 @@
+city: Richmond Heights
+country: United States
+description: Every home football game, shimmers of mysterious light can be seen by the concession stand. You can also hear a young girl crying when passing by the bathrooms.
+location: Richmond Heights High School
+state: Ohio
+state_abbrev: OH
+longitude: -81.49540520000001
+latitude: 41.554229
+city_longitude: -81.5101208
+city_latitude: 41.5528288
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

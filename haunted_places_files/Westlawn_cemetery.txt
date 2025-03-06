@@ -1,0 +1,21 @@
+city: Racine
+country: United States
+description: we went to roam around in our car about 12;30am and there was always talk of the place but we went inside saw a old cop car vanish car did on us and low whispers were in the far east corner something jumped in front of our car and knocked on he side of it also when you drive in a faded tombstone jumps back into the cemetery with a glow.
+location: Westlawn cemetery
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.8968146
+latitude: 42.7226339
+city_longitude: -87.78285230000002
+city_latitude: 42.7261309
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

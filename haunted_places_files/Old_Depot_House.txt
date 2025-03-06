@@ -1,0 +1,18 @@
+city: New London
+country: United States
+description: Ey Witzke haunts this old railroad depot.
+location: Old Depot House
+state: Minnesota
+state_abbrev: MN
+city_longitude: -94.9441773
+city_latitude: 45.3010756
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

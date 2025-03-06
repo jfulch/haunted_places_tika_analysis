@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: Former Jefferson Tea House - A ghost is said to roam the third floor.
+location: Reality
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.14625869999999
+latitude: 41.8468001
+city_longitude: -79.1450445
+city_latitude: 41.8439486
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1939/10/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Marengo
+country: United States
+description: From the moment you see this place you know its haunted! Lights turn off & on, ghostly sounds can be heard and people say that the house itself is some sort of a portal. Several people have died in this place making it one of Indiana's haunted places.
+location: The Carl Smith House
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.34359169999999
+city_latitude: 38.36922759999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

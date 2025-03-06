@@ -1,0 +1,20 @@
+city: Dayton
+country: United States
+description: Apparently the Patterson's are still there. Staff report rocking chairs rocking on their own, items moved about, cold spots in certain rooms, one room that is always cold (Mrs. Patterson's bedroom, and the aroma of a good home cooked meal (it isn't really there. But Mrs. Patterson liked to cook and entertain. We figure she is still cooking.
+location: Patterson Homestead Historic Museum
+state: Ohio
+state_abbrev: OH
+longitude: -84.1808748
+latitude: 39.7352299
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1947/03/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

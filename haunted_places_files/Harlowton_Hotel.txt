@@ -1,0 +1,21 @@
+city: Harlowton
+country: United States
+description: The old man that used to own the hotel and restaurant used to sit on one of the top floors and look at a window in his rocking chair and look at the Musselshell River. After he died they put the chair in a closet, but almost every time it would end up back at the window, even when they did lock the door. Maids have reported that when there cleaning, someone or something will pull at their hair playfully also they can hear someone walking in the hall.
+location: Harlowton Hotel
+state: Montana
+state_abbrev: MT
+longitude: -109.8276251
+latitude: 46.4389733
+city_longitude: -109.8343499
+city_latitude: 46.435512
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 18m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: St. Joseph
+country: United States
+description: Benedicta Arts Center - The ghost who died during the construction of the building is named Steve. He has been know to shatter lights during performances and people have run into something solid when there's nothing there.
+location: College of St. Benedict
+state: Minnesota
+state_abbrev: MN
+longitude: -94.3218942
+latitude: 45.5603049
+city_longitude: -94.317966
+city_latitude: 45.5647724
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1964/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

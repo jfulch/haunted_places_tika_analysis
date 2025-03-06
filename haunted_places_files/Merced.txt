@@ -1,0 +1,21 @@
+city: Santa Clara
+country: United States
+description: HWY 152 Gilroy to Los Banos - Pacheo Pass "The Green Man " - There are many stories of the horrible things that have happened along Pacheco Pass between Gilroy and the Casa de Fruta but after the Casa de Frusta and just before you go up the pass to the San Luis Reservoir, there is a man that is spotted by travelers while driving the road from 1975 - 1980. The man was always in a black cape, has a lime green face, bald headed and is very visible at night or day. He is always floating just above the ground next to the southbound lanes with his arms folded and a stern look on his face.
+location: Merced
+state: California
+state_abbrev: CA
+longitude: -121.98479
+latitude: 37.3556896
+city_longitude: -121.9552356
+city_latitude: 37.3541079
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1975/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

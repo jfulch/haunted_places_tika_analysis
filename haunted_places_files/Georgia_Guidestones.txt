@@ -1,0 +1,21 @@
+city: Elberton
+country: United States
+description: 7 miles outside of Elberton, Georgia stands the Georgia Guidestones, the smaller version of Stonehenge, they are set up on a hill out in the middle of nowhere. No one knows whom the land belongs to or what the real name of the man is who had them made. They are engraved with eight different languages, they stand 19 feet high, and a time capsule is buried six feet below the stones. When you park your car there and get out you will get a faint feeling, the sky is clear only above the stones, and bats circle them at night.
+location: Georgia Guidestones
+state: Georgia
+state_abbrev: GA
+longitude: -82.89442629999999
+latitude: 34.2320243
+city_longitude: -82.8670839
+city_latitude: 34.1112226
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

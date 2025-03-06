@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: A couple was recently driving on the freeway when a policeman pulled them over. He approached the car and told the couple that the children playing in the back seat should be using their seat belts. The couple looked at him funny, because they had no children. The policeman looked in the back seat but could not see the children he saw while following them. When the couple arrived home, the checked the back seat again and found little handprints all over the back window.
+location: HWY 3
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9114022
+latitude: 21.3712453
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1958/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

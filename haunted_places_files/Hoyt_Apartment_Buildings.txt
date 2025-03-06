@@ -1,0 +1,20 @@
+city: Merrimac
+country: United States
+description: Above a local hardware store, the owner has three apartments. Each occupied, she took over the hardware business after her good friend who owned it passed on. A friendly spirit of the previous owner wanders the rooms watching over the occupants. Sometimes things move a few inches, a friendly aura is felt in the home.
+location: Hoyt Apartment Buildings
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0056821
+latitude: 42.8308347
+city_longitude: -71.0005509
+city_latitude: 42.8340582
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 0

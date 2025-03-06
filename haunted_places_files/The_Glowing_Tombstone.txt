@@ -1,0 +1,19 @@
+city: Benton
+country: United States
+description: The story goes that an old man and woman lived in a house near this cemetery and a cult was doing some funny business in a nearby barn one night. The old man did not return from checking out the strange happenings so the old woman went down to check on him and found him hung. The barn is still there. The house the old couple lived in is gone now, but a new house was trying to be built by a new couple and mysteriously fell down on the first try. When the tombstone is glowing the old man is inside the old barn waiting on the cult members who killed him to come back so he can extract his revenge.
+location: The Glowing Tombstone
+state: Kentucky
+state_abbrev: KY
+city_longitude: -88.350315
+city_latitude: 36.85727809999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

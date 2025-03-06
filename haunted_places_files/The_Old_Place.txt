@@ -1,0 +1,20 @@
+city: Gautier
+country: United States
+description: It has been noted that some of the slaves still haunt the property and the graveyard across the way. The Old Place is the only plantation house still standing in Gautier and the family cemetery is across hwy 90 from the home. Some of the slave quarters are still there and the hanging tree is still there as well.
+location: The Old Place
+state: Mississippi
+state_abbrev: MS
+longitude: -88.61081890000001
+latitude: 30.3818123
+city_longitude: -88.6116854
+city_latitude: 30.385755
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1927/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

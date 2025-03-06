@@ -1,0 +1,21 @@
+city: Dunn
+country: United States
+description: near coats savage junk yard - Around 12:30pm every night when you drive by you see the ghost of a young children in the junk yard playing. And if you listen closely you can hear them saying "ring around the rosy pocket full of posies ashes ashes we all fall dead." Some believe its the children that died in the fetal car accident that happened back in 1967 haunt it. Some also say that they were from the devastating fire that happened back in 1934. But nobody really knows why they haunt the junkyard.
+location: Coats
+state: North Carolina
+state_abbrev: NC
+longitude: -78.6604407
+latitude: 35.3732414
+city_longitude: -78.6089028
+city_latitude: 35.3062743
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1967/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

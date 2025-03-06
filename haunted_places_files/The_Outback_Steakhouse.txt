@@ -1,0 +1,21 @@
+city: Dublin
+country: United States
+description: Cold spots reported. There is a report of a police officer being killed there; possibly either right before the restaurant opened or right after the grand opening, there was a botched robbery and shootout. - March 2004 addition: The Dublin police officer that was shot there on the night of Dec. 11, 1998 was named John Paul Monego. Please visit his memorial page. Three men from the San Joaquin valley, which is just over the Altamont hills to the east of the Tri-Valley where Dublin is located, robbed the newly-opened Outback Steakhouse and held patrons and employees hostage. Monego was responding to a 911 call made from employees at the Outback when he was shot several times by one of the three men upon entering the restaurant. A short while later he died on the scene. His murderers were arrested and tried for murder.
+location: The Outback Steakhouse
+state: California
+state_abbrev: CA
+longitude: -121.9318556
+latitude: 37.6997479
+city_longitude: -121.9357918
+city_latitude: 37.7021521
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

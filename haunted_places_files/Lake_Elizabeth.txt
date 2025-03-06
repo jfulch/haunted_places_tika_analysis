@@ -1,0 +1,21 @@
+city: Santa Clarita
+country: United States
+description: Allegedly once occupied by sea serpent / monster and various demons. Once settled as a mining / farm community by Spaniards who reported dead cattle, sickness and ruined crops. Historical accounts of a terrible sulfuric smell pervading the surrounding area. The monster / creatures have not been seen recently, but the odor persists to this day, as well as an eerie presence in the town and homes there.
+location: Lake Elizabeth
+state: California
+state_abbrev: CA
+longitude: -118.3973236
+latitude: 34.666072
+city_longitude: -118.542586
+city_latitude: 34.3916641
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Topeka
+country: United States
+description: Former ATSF train station reportedly haunted by at least three entities: One is a woman occasionally seen dressed in early 20th century apparel on the second floor of the station, another sighting is of a former ticket-clerk who is often seen at "his" ticket booth, and a small boy, possibly ten years old often appears in pictures taken outside the building, as well as in reflections in the windows of the station.
+location: Overland station
+state: Kansas
+state_abbrev: KS
+longitude: -95.6694451
+latitude: 39.0662718
+city_longitude: -95.6890185
+city_latitude: 39.0558235
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bellwood
+country: United States
+description: At night, you'll see what appears to be a severely burned young woman standing in the library window, there are also cold and hot spots, strange sounds. You'll put something somewhere one night, it'll be gone or moved the next morning. Late nights, inside the building, the halls will be filled with the sound of jingling keys, but there's no source of the sound, you'll see shadows moving up and down the halls.
+location: Bellwood Elementary
+state: Nebraska
+state_abbrev: NE
+longitude: -97.2414704
+latitude: 41.3407716
+city_longitude: -97.2395379
+city_latitude: 41.3419146
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

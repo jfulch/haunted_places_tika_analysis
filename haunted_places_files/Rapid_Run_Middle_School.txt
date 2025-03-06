@@ -1,0 +1,20 @@
+city: Cincinnati
+country: United States
+description: Its haunted by the guy who died in the auditorium while building it. He had fallen off a ladder. The lights have gone off, chairs were missing during the concert.
+location: Rapid Run Middle School
+state: Ohio
+state_abbrev: OH
+longitude: -84.660598
+latitude: 39.111322
+city_longitude: -84.5120196
+city_latitude: 39.1031182
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

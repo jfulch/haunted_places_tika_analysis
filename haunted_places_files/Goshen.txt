@@ -1,0 +1,21 @@
+city: Granville
+country: United States
+description: there is an old bridge in Goshen said to be haunted by a young lady who died in a car crash there. It also has an old graveyard by it which once belonged to a church which has been abandoned. If you go there you can see the lady on the bridge and hear her cries. The graveyard gives an unwanted feeling to one whom is there.
+location: Goshen
+state: North Carolina
+state_abbrev: NC
+longitude: -78.76441229999999
+latitude: 36.3991165
+city_longitude: -78.6114999
+city_latitude: 36.2799451
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1894/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

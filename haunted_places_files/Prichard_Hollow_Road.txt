@@ -1,0 +1,21 @@
+city: Westfield
+country: United States
+description: Moaning, crying, and semi-quiet screaming can be heard on the Plant's parking lot and nearby houses yard. Things looking like 3-Dimensional shadows, (Nicknamed "Shades"), have been seen running through the parking lot, down the road, and hiding behind trees. Eerie feelings of being watched, somehow sensing a dog nearby, and even low growls can be heard day or night. Only seems to happen around 11:00 pm on cool nights.
+location: Prichard Hollow Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.5917558
+latitude: 41.9056922
+city_longitude: -77.5388744
+city_latitude: 41.9192368
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

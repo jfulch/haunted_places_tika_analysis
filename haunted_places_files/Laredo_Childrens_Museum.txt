@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: The childernes musem first floor used to be a morgue before a newer building was buit and the old one with was torn down. Sometimes you can see shadows and there have been reports of voices and cold spots.
+location: Laredo Childrens' Museum
+state: Texas
+state_abbrev: TX
+longitude: -99.498313
+latitude: 27.5533362
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

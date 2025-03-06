@@ -1,0 +1,21 @@
+city: Galveston
+country: United States
+description: It's on Seawall Blvd. and is the oldest hotel on the island. One room, room 505, is supposed to be haunted and most people how stay in that room, do not stay overnight. Most just feel incredibly uncomfortable there. You can also smell Gardenias in and around the room at times. There are two other ghosts there but no one seems to know much about them. There are several locations in Galveston that are haunted including the Tremont House hotel on Mechanic's Street and the Peanut Butter Warehouse to name a few. There is a link for Ghost tours in Galveston, there is a fee Ghost Tours of Galveston
+location: The Hotel Galvez
+state: Texas
+state_abbrev: TX
+longitude: -94.786181
+latitude: 29.292609
+city_longitude: -94.7976958
+city_latitude: 29.3013479
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

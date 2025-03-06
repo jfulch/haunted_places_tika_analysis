@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: old man blood killed many families and hung there bodies from the trees in this forest. Police eventually caught him but he escaped from a mental hospital some years later and was killed when he was found hanging more bodies. Late in the evening to early morning hours if you visit the stone entering Blood forest you can see images of bodies hanging from the trees. Shadows all around and even screams from old man blood’s victims. There have only been a few sightings of old man blood but his spirit is known to run when approached.
+location: Blood forest
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.7110435
+latitude: 42.4724011
+city_longitude: -71.6731242
+city_latitude: 42.4556452
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

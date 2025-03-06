@@ -1,0 +1,21 @@
+city: Durant
+country: United States
+description: Shear Hall the dormitory (football dorms) there is a ghost on the 3rd floor. It is completely locked up, so no one is able to get up there unless you have a key. it is said that a young student went crazy and shot several people then turned and shot himself. Today people who live there say that sometimes you can hear things sliding across the floor, people walking, and sometime at night when you drive by, you can see a light on. It has even been said that you can see posters hanging on the walls if you can get the right angle.
+location: Southeastern Oklahoma State University
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.3792838
+latitude: 34.0058724
+city_longitude: -96.3971233
+city_latitude: 33.9924186
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

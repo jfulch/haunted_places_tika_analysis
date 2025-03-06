@@ -1,0 +1,19 @@
+city: Sussex County
+country: United States
+description: The road alone leading to the swamp is creepy but it also has been said that late at night you can hear voices coming from the woods.
+location: Cypress Swamp.
+state: Delaware
+state_abbrev: DE
+longitude: -75.2996357
+latitude: 38.4834476
+city_longitude: -75.4344727
+city_latitude: 38.65308410000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

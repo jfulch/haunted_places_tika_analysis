@@ -1,0 +1,21 @@
+city: Watertown
+country: United States
+description: There are two parts to the school. The older part of the school that has now been reconstructed into assisted living housing is believed to be haunted by Harriet Hosmer whose grave can be found down the street at Mount Auburn Cemetery. The Auditorium of the hosmer school that connects the old and new part of the school is also believed to be haunted by her.
+location: Hosmer School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1674594
+latitude: 42.3685961
+city_longitude: -71.1828321
+city_latitude: 42.3709299
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

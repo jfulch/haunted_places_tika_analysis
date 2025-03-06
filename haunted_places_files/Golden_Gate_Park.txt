@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: There's a police officer ghost that roams Golden Gate Park. People will get pulled over and get speeding tickets by this guy, but when they go to file it through the courts they'll find out that the officer listed doesn't exist. He's been dead for 10 years. Anyway, the story goes that if a cop in the park is trailing you, you need to go outside of the park first before you pull over. And once you do, the ghost cop will disappear.
+location: Golden Gate Park
+state: California
+state_abbrev: CA
+longitude: -122.4862138
+latitude: 37.7694208
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Grand Forks
+country: United States
+description: In the auditorium of the school there have been reports of giggles and basketballs moving by themselves. There have also been strange nauseating odors, which come and go. The piano has been heard playing at night when no one else is in the building. The ghost of a little boy has been reported as being seen.
+location: Lake Agassiz Elementary School
+state: North Dakota
+state_abbrev: ND
+longitude: -97.0823005
+latitude: 47.9266452
+city_longitude: -97.0328547
+city_latitude: 47.9252568
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

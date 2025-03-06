@@ -1,0 +1,21 @@
+city: Oxnard
+country: United States
+description: In the dressing rooms of the theater the doors will not stay closed (over night) and the lights will not stay off so they don't bother turning them off anymore. Some have reported feeling coldness there and talking in the green room.
+location: Performing Arts Center
+state: California
+state_abbrev: CA
+longitude: -119.1881218
+latitude: 34.1935401
+city_longitude: -119.1770516
+city_latitude: 34.1975048
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

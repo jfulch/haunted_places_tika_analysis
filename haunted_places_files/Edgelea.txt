@@ -1,0 +1,21 @@
+city: Greencastle
+country: United States
+description: if you go and sit by the train tracks in Edgelea at night, you could see ghost of hobos jumping off the train. One lady all ready has seen a ghost of a hobo in her backyard. This lady has even heard them banging on her back door.
+location: Edgelea
+state: Indiana
+state_abbrev: IN
+longitude: -86.86314589999999
+latitude: 39.66074080000001
+city_longitude: -86.8647316
+city_latitude: 39.6444898
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1811/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

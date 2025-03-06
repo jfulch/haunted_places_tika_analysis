@@ -1,0 +1,21 @@
+city: McNabb
+country: United States
+description: The owners of the Putnam County Junior High John Swaney and Sarah haunt the school. Lockers in the P.E changing rooms at games have been known to open and shut. When people stay after school sometimes you will find yourself being chased by a person in a black cape.
+location: Putnam County
+state: Illinois
+state_abbrev: IL
+longitude: -89.2092522
+latitude: 41.17697990000001
+city_longitude: -89.2092522
+city_latitude: 41.17697990000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

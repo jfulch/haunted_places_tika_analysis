@@ -1,0 +1,20 @@
+city: St. Francis
+country: United States
+description: At a recent Graduation there, people video taped the graduating students in the hall and when they looked back at the video a little girl floating in the air watched the students. You can also find her in the gym of the school.
+location: St. Francis Indian School
+state: South Dakota
+state_abbrev: SD
+longitude: -100.90038
+latitude: 43.140756
+city_longitude: -100.9051874
+city_latitude: 43.1429794
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

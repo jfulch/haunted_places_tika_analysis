@@ -1,0 +1,21 @@
+city: Elm Grove
+country: United States
+description: The ghost of "pinky" a dead actor can be heard backstage time to time during performances.
+location: Sunset Theater
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.0778278
+latitude: 43.0399645
+city_longitude: -88.07897799999999
+city_latitude: 43.0430678
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

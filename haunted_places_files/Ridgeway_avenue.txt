@@ -1,0 +1,19 @@
+city: Providence
+country: United States
+description: People who live in the house around this street claim to see ghost walking around in the woods 1 house in particular is haunted by numerous spirits
+location: Ridgeway avenue
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.4599583
+latitude: 41.8284486
+city_longitude: -71.4128343
+city_latitude: 41.8239891
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

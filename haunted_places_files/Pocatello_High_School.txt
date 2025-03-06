@@ -1,0 +1,21 @@
+city: Pocatello
+country: United States
+description: while working late at night teachers have heard an alarm go of at the stroke of midnight, lasting for about 30 seconds in the vicinity of the old gymnasium. Janitors and administration have no explanation as the alarm sounds different from the modern motion detector alarms installed in the buildings. Apparitions have also been seen.
+location: Pocatello High School
+state: Idaho
+state_abbrev: ID
+longitude: -112.454319
+latitude: 42.863019
+city_longitude: -112.4455344
+city_latitude: 42.8713032
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

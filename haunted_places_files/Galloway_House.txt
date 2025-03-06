@@ -1,0 +1,21 @@
+city: Fond du Lac
+country: United States
+description: when you go on a tour of the house or you are just there by yourself it's like you can hear people moving around and talking and when you go upstairs you can sometimes hear kids giggling in the playroom. Also in the kitchen you can hear plates clattering and there also must be something else wrong to cause they won't let you see the slave quarters where the slaves lived and that makes me wonder if something very wrong happened up there....
+location: Galloway House
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.43612979999999
+latitude: 43.7538111
+city_longitude: -88.4470508
+city_latitude: 43.7730448
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

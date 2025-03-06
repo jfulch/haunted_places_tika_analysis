@@ -1,0 +1,21 @@
+city: Carrollton
+country: United States
+description: Rumors say that the ones who lived here may be still around. On different nights, nearby railroad crossing lights would flash and no trains would be there. - January 2007 Correction/ update: After several interviews of personnel - no one that works at the DeWitt Perry Museum has seen or heard anything strange or "paranormal." One of the employees that was spoken with has been with the museum for the past SEVEN years and they have never heard/seen anything to make them think the historical marker is haunted. The employees think that the middle school kids that walk home each day might be freaked out by the house and are the ones who may have started this rumor. If you would like a tour you can go to their website for details. No flash photography in the house and only certain parts of the property are on the tour itself.
+location: DeWitt-Perry Homestead
+state: Texas
+state_abbrev: TX
+longitude: -96.896306
+latitude: 32.9584479
+city_longitude: -96.8899636
+city_latitude: 32.9756415
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

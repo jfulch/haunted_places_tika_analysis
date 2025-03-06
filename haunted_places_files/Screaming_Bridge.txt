@@ -1,0 +1,21 @@
+city: Carmel
+country: United States
+description: It is said to be haunted by several spirits, if you go out on the bridge at midnight you can hear a woman screaming. It is no longer accessible. They blocked off the road because of too much traffic and violence at the bridge. - March 2008 Update: Sources say the bridge is no longer there.
+location: Screaming Bridge
+state: Indiana
+state_abbrev: IN
+longitude: -84.41042960000001
+latitude: 39.39447029999999
+city_longitude: -86.1180435
+city_latitude: 39.978371
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

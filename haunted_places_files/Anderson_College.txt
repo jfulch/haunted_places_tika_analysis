@@ -1,0 +1,20 @@
+city: Anderson
+country: United States
+description: Sullivan Music Center -  a ghost of a lovely young girl haunts this building. People say she is there because she is waiting for someone.
+location: Anderson College
+state: South Carolina
+state_abbrev: SC
+longitude: -82.6393813
+latitude: 34.5145743
+city_longitude: -82.6501332
+city_latitude: 34.5034394
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

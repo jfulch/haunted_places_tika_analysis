@@ -1,0 +1,21 @@
+city: South Hadley
+country: United States
+description: In 16c gothic church, the oldest in western Massachusetts, the organ plays of it's own accord from time to time, and the apparition of a young girl walking in circles was seen by the headmistress, who soon after retired.
+location: Mount Holyoke College
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.5761394
+latitude: 42.2532535
+city_longitude: -72.57479339999999
+city_latitude: 42.2591729
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1620/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

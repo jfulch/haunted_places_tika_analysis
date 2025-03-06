@@ -1,0 +1,21 @@
+city: Memphis
+country: United States
+description: If you park your car by the lake in Auburn Park, The Blue Lady is supposed to rise out of the lake and walk towards your car.
+location: Auburn Park
+state: Tennessee
+state_abbrev: TN
+longitude: -90.0350358
+latitude: 35.0291702
+city_longitude: -90.0489801
+city_latitude: 35.1495343
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1979/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

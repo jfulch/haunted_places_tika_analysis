@@ -1,0 +1,20 @@
+city: Fort Morgan
+country: United States
+description: The school has been rebuilt at least three times, and it burns down every time. The last time it burnt down was in '96, and once again it was rebuilt. You can see lights going on and off at night when no one is there, and you can hear children playing.
+location: Baker's School
+state: Colorado
+state_abbrev: CO
+longitude: -103.7958797
+latitude: 40.250588
+city_longitude: -103.7999509
+city_latitude: 40.2502582
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bentonville
+country: United States
+description: There was a little girl seen walking down the hall without a hall pass, so this boy went and told the principal. He went and inspected the hall, and the little girl was skipping down the hall, running her finger against the lockers. It was found out that this same girl was hung by her friend in the year 1950. The sighting occurred in 2005.
+location: Old High Middle School
+state: Arkansas
+state_abbrev: AR
+longitude: -94.2133363
+latitude: 36.373871
+city_longitude: -94.2088172
+city_latitude: 36.3728538
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

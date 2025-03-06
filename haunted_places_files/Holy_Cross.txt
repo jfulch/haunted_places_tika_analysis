@@ -1,0 +1,21 @@
+city: Fifield
+country: United States
+description: Ghostly woman appears over lake, near railroad tracks where she was killed by the train. She is said to be protecting everyone who comes near.
+location: Holy Cross
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.4082821
+latitude: 45.7935976
+city_longitude: -90.4195725
+city_latitude: 45.8799113
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

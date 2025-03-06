@@ -1,0 +1,21 @@
+city: Pecos
+country: United States
+description: It is said long ago a boy swinging in right swing died after falling and cracking his head open. Now a certain time between September and December the swing will swing by its self and it will look like someone is swinging on it, but the other swings are still and quiet on a calm day.
+location: Lamar Middle School
+state: Texas
+state_abbrev: TX
+longitude: -103.4993475
+latitude: 31.433933
+city_longitude: -103.4932293
+city_latitude: 31.4229124
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

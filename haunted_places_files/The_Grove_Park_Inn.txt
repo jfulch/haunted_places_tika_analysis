@@ -1,0 +1,21 @@
+city: Asheville
+country: United States
+description: There is a lady dressed in pink that haunts this Inn. You can see her and hear her late at night. Several guests and employees have had several encounters with her. She is known to tickle toes at night while visitors are attempting to sleep. She is said to be the wife of the famous writer Fitzgerald. When you get close to room 545, it seems to get cold. You can usually here doors slamming, laughter, and talking from rooms that are not used.
+location: The Grove Park Inn
+state: North Carolina
+state_abbrev: NC
+longitude: -82.542868
+latitude: 35.620178
+city_longitude: -82.5514869
+city_latitude: 35.5950581
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

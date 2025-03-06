@@ -1,0 +1,21 @@
+city: Rialto
+country: United States
+description: The story is said that a boy who had shot himself on campus because of depression and died before graduation is seen wandering around the C,E, and G buildings late at night. You can hear footsteps going up the stairs to the top of the halls. Janitors and faculty members have also said that when the school is closed at night and they are working late you can see an image of a boy walking around looking lost. it is also said that the C building, where the theater is located, is usually the coldest building and where unexpected things take place such as flickering lights, cold spots and more footsteps.
+location: Rialto high school
+state: California
+state_abbrev: CA
+longitude: -117.3548926
+latitude: 34.0894025
+city_longitude: -117.3703235
+city_latitude: 34.1064001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

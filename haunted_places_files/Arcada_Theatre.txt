@@ -1,0 +1,21 @@
+city: St. Charles
+country: United States
+description: There can be voices heard coming from the balcony & thought the building. A strange smell along with coldness sometimes floats through various parts of the theatre.
+location: Arcada Theatre
+state: Illinois
+state_abbrev: IL
+longitude: -88.3121194
+latitude: 41.9136245
+city_longitude: -88.3086867
+city_latitude: 41.9141945
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

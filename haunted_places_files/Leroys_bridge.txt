@@ -1,0 +1,20 @@
+city: Gaffney
+country: United States
+description: In the 60's a serial killer named Leroy Martin murdered several women in Gaffney, SC. Dubbed "The Gaffney Strangler", Leroy dumped the bodies of his victims in various locations around the county. One of these sites is a bridge just off HWY 329 in Gaffney, the place where the first body was found in a shallow creek under the bridge. It is said that if you walk across the bridge at night you can hear the sounds of a girl moaning in pain and begging for help.
+location: Leroy's Bridge
+state: South Carolina
+state_abbrev: SC
+longitude: -81.652406
+latitude: 35.0709982
+city_longitude: -81.64981949999999
+city_latitude: 35.0717945
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1576/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

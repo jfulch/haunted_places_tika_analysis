@@ -1,0 +1,21 @@
+city: Morristown
+country: United States
+description: Reportedly the Church has spirits inside, as it was used as a hospital during the Civil War, it's boarded up and they seem trapped inside. Mass graves of Confederate soldiers are nearby, and the soldiers seem to not like visitors, especially ones with Northern accents. There exists in the cemetery, a family plot of a couple and their daughter who died on the day of her birth which is reportedly a highly active area; the sound of a woman weeping and physical manifestations are known at that grave site.
+location: Bethesda Church and Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -83.2279463
+latitude: 36.2475937
+city_longitude: -83.29489219999999
+city_latitude: 36.2139814
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

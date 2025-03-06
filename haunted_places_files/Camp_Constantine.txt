@@ -1,0 +1,21 @@
+city: Possum Kingdom
+country: United States
+description: Reports of apparitions of 2 cowboys standing there staring, also screams and yelling are heard.
+location: Camp Constantine
+state: Texas
+state_abbrev: TX
+longitude: -98.4839817
+latitude: 32.8609777
+city_longitude: -98.4458421
+city_latitude: 32.9337599
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

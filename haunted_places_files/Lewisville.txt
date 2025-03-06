@@ -1,0 +1,21 @@
+city: Henry County
+country: United States
+description: Guyer Opera House - Guyer is know by staff to be haunted, and many have been spooked by dressing room lights that turn on one by one, strange banging noises emanating from the back of the auditorium, and sudden changes in temperature. The doors to the auditorium will close by themselves, and more than one of the staff has been driven from the light booth by growling noises and extreme drop in temperature. People have reported seeing the outline of a person in the back stage windows.
+location: Lewisville
+state: Indiana
+state_abbrev: IN
+longitude: -85.35274679999999
+latitude: 39.8067126
+city_longitude: -85.35496499999999
+city_latitude: 39.9704844
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1901/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

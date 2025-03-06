@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: at these apartments there have been sightings of ghosts. It is said that these apartments were build on top of an old cemetery and that there were still some graves. at one apartment a young woman hung herself because her family left her. there have been sightings of her after her death.
+location: Foxdale Apartments
+state: California
+state_abbrev: CA
+longitude: -121.8263741
+latitude: 37.346469
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

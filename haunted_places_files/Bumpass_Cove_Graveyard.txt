@@ -1,0 +1,21 @@
+city: Washington
+country: United States
+description: Bumpass Cove Graveyard is located off on a tall hill off Bumpass Cove Road way back to where the road leads. It is said that a jeep crash took place there off the side of a hill when a couple where sitting in a dirt spot beside the circular graveyard, when the man knocked the car out of gear and it tumbled down the mountain into the river. When the moon is full and at Midnight, you drive around the graveyard 3 times, the Jeeps headlights will appear and chase you a short distance. No color has been identified, just the outline. One thing is for sure, it exists.
+location: Bumpass Cove Graveyard
+state: Tennessee
+state_abbrev: TN
+longitude: -82.474768
+latitude: 36.1673665
+city_longitude: -82.5185837
+city_latitude: 36.3321016
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1780/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Accident
+witness_count: 0

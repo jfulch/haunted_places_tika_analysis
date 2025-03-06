@@ -1,0 +1,20 @@
+city: Provincetown
+country: United States
+description: Built in 1847, it was used as a morgue during one of the great plagues. Witnesses report seeing people moving form the corner of their eye and also felt their presence when they thought they where alone.
+location: Unitarian Universalist Meeting House
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.188361
+latitude: 42.050464
+city_longitude: -70.1786425
+city_latitude: 42.0584412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1847/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

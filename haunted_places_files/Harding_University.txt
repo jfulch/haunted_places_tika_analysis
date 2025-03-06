@@ -1,0 +1,21 @@
+city: Searcy
+country: United States
+description: Old Music Building - - September 2004 Update: The tale of Gertie is made up to scare freshmen.Believed to be haunted by a girl named Gertie. The top window where she was said to be seen is painted black. You can hear someone playing a piano, even when no one else is in the building. - December 2003 update: Gertie is the ghost of a girl who was a student many years ago, when the school was an all girls school. She fell to her death in the dumb-waiter of her dorm. That building has since been torn down, and the bricks were used in several places on campus. She has been seen in all of the places where those bricks were used, including the bell tower, one of the boys' dorms, the brick sidewalk across campus, and the music building. Piano music can be heard when no one is playing. One night, some students, in an effort to d iscover the source of the piano music, sprinkled powder on the piano keys, bench, and on the floor all around the piano. They then hid in the recording studio and waited. They heard and recorded the piano music that night. The powder had not been disturbed.
+location: Harding University
+state: Arkansas
+state_abbrev: AR
+longitude: -91.7235465
+latitude: 35.245152
+city_longitude: -91.7336846
+city_latitude: 35.2468204
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

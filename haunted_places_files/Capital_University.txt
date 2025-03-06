@@ -1,0 +1,20 @@
+city: Bexley
+country: United States
+description: Kerns Relgious Life Center - the basement of the oldest building on campus, Witnesses have felt an extremely cold feeling and had difficult time breathing. They have also reported experiencing an instant feeling of dread. It is rumored that the tower is haunted. When maintance turns of the lights in the tower, before they even get to the bottom of the staircase the lights are back on.
+location: Capital University
+state: Ohio
+state_abbrev: OH
+longitude: -82.938559
+latitude: 39.9549246
+city_longitude: -82.93768039999999
+city_latitude: 39.9689532
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

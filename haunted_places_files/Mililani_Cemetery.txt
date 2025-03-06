@@ -1,0 +1,21 @@
+city: Mililani
+country: United States
+description: If you go to this cemetery at 12 midnight, circle around this statue for 3 times and stop in front of it with your highlights on and see this statue move, dance & stare down at you. It will make you stay there and your car will not start up.
+location: Mililani Cemetery
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9878
+latitude: 21.4420111
+city_longitude: -158.0152807
+city_latitude: 21.4513314
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

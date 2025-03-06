@@ -1,0 +1,21 @@
+city: Lolita
+country: United States
+description: Apparitions of a elder gentleman whose spoke through telekinesis, doors closing after hours with footsteps, Orbs have been seen with bright lights.
+location: Industrial Junior High
+state: Texas
+state_abbrev: TX
+longitude: -96.6172592
+latitude: 28.81956959999999
+city_longitude: -96.5424743
+city_latitude: 28.8394332
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

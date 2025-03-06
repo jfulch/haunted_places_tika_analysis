@@ -1,0 +1,21 @@
+city: Fort Worth
+country: United States
+description: When up in the top floor you can smell lilacs, people say that it is the perfume of a settler that was killed there. You can also hear doors slamming. Sometimes a evil spirit that resembles a man with a broken neck will scream and can be felt chasing you out of the building.
+location: Log Cabin Village
+state: Texas
+state_abbrev: TX
+longitude: -97.36159
+latitude: 32.720224
+city_longitude: -97.3307658
+city_latitude: 32.7554883
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

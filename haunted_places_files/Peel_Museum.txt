@@ -1,0 +1,21 @@
+city: Bentonville
+country: United States
+description: Haunted by the former owner, the museum, open to the public, has light poltergeists and corner of the eye apparitions.
+location: Peel Museum
+state: Arkansas
+state_abbrev: AR
+longitude: -94.2222738
+latitude: 36.3691347
+city_longitude: -94.2088172
+city_latitude: 36.3728538
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: St. Cloud
+country: United States
+description: It is said that at the end of Jones Road there is a haunted creek. A little boy died in it several years ago. He was swinging on a rope attached to a tree that hung over the creek. The rope broke, and the boy feel on some rocks in the middle of the creek and died. If you go to the creek you can hear the little boy. He's very angry and doesn't like people to come back there. The creek is in the middle of woods so it's usually always dark.
+location: Narcoossee
+state: Florida
+state_abbrev: FL
+longitude: -81.2370682
+latitude: 28.3201992
+city_longitude: -81.2811801
+city_latitude: 28.2489016
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1998/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 0

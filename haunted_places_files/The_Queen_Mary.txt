@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: It is said that a male ghost has been seen in the engine room where he was killed while the ship was still in service, there have also been reports of the sound of children playing in the pool; sounds of splashing water in the empty pool area, accompanied by wet feet prints & apparitions around the surrounding pool area. The most accessible haunted area is near door 13 in the engine room, where a young man was crushed trying to escape a fire. Another haunting area is the front desk of what is now the hotel portion of the ship. Sightings include a mysterious woman in white & and a couple walking though the hallway.
+location: The Queen Mary
+state: California
+state_abbrev: CA
+longitude: -118.1903235
+latitude: 33.7526356
+city_longitude: -118.1937395
+city_latitude: 33.7700504
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

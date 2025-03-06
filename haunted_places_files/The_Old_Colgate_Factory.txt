@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: It was a prison during the Civil War, workers have spotted Soldiers walking around in the basement, it's said that the Basement workers get paid extra because they encounter the ghosts.
+location: The Old Colgate Factory
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7548662
+latitude: 38.2552615
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

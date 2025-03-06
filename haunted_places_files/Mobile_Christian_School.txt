@@ -1,0 +1,21 @@
+city: Mobile
+country: United States
+description: Students and coaches have heard people playing basketball in the gym. Games from the football field being announced when no game is taking place.
+location: Mobile Christian School
+state: Alabama
+state_abbrev: AL
+longitude: -88.1783088
+latitude: 30.6437135
+city_longitude: -88.0398912
+city_latitude: 30.6953657
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 0

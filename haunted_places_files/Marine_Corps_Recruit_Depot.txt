@@ -1,0 +1,20 @@
+city: Parris island
+country: United States
+description: Old Barracks (Rifle Range) -  There have been many murders and suicides by recruits on the rifle range. This area is also swampland and there was a partial platoon that got stranded and drowned in the quicksand on the banks of the swampland after they were forced marched into it by a Drill Instructor. I believe this accounts for the constant manifestations in the old barracks (Recruit Living quarters) there have been several Ghost sightings, moaning sounds, and bathroom stall doors flying open or slamming close and faucets that turn on and toilets that flush by themselves. This is something that is common knowledge to most Parris Island Marines but is not widely known to the public.
+location: Marine Corps Recruit Depot
+state: South Carolina
+state_abbrev: SC
+longitude: -80.6891655
+latitude: 32.3513924
+city_longitude: -80.6891655
+city_latitude: 32.3513924
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

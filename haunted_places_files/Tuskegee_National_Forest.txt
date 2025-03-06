@@ -1,0 +1,21 @@
+city: Notasulga
+country: United States
+description: Eye witnesses have reported strange noises. The forest was also used by devil worshipers for strange and unreal meetings in the early 1990`s. Macon County Sheriff’s Department raided an old house out in the forest after discovering bodies. The devil worshipers feared that the law would find their secret burial ground so they burned the house down, but still used the forest. To this day, if you go out in the forest at night on a full moon, beware of them. They cursed the area and made it haunted.
+location: Tuskegee National Forest
+state: Alabama
+state_abbrev: AL
+longitude: -85.6095086
+latitude: 32.4788366
+city_longitude: -85.6724538
+city_latitude: 32.5606908
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

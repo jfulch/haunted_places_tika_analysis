@@ -1,0 +1,19 @@
+city: Hickory
+country: United States
+description: Doorways seem to disappear after you pass through them and you can hear fleeting whispers and see shadows and mists out of the corner of your eye. And reports of being pushed by unseen hands.
+location: Alice M. Raeford Memorial Center
+state: North Carolina
+state_abbrev: NC
+city_longitude: -81.3444573
+city_latitude: 35.7344538
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1992/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Kettering
+country: United States
+description: It is said that in one of the restrooms a boy hung himself in the late '80 and haunts the area at night. There was also a brutal murder of three small kids. The murderer haunts the area and sound of kids screaming can be heard. This last part doesn't happen as often as the first. Some say that a person needs to sit on the concrete behind the restrooms, draw a circle around them with chalk in order to draw the murdering spirit out.
+location: Candelwood Park
+state: Ohio
+state_abbrev: OH
+longitude: -84.15628199999999
+latitude: 39.715219
+city_longitude: -84.1688274
+city_latitude: 39.68950359999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

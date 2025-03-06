@@ -1,0 +1,21 @@
+city: Dearborn
+country: United States
+description: It is known that when your in suite 418 the doors will close and open; And the lights will flicker on/off three times and the bathroom door will swing open; And the two French doors will fly open, and after you close it the handles will move up and down.
+location: Ritz Carlton Hotel
+state: Michigan
+state_abbrev: MI
+longitude: -83.2170915
+latitude: 42.3204642
+city_longitude: -83.17631449999999
+city_latitude: 42.3222599
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

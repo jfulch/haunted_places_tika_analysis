@@ -1,0 +1,19 @@
+city: Clay Center
+country: United States
+description: It's a creek where people have died before. Sometimes you can hear little girls screaming in the distance, you might see, or feel, this completely black shape shifter, or you might just get a really bad vibe but if you go there at night, it is terrifying.
+location: Hawks Landing Creek
+state: Kansas
+state_abbrev: KS
+city_longitude: -97.1247428
+city_latitude: 39.3769407
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

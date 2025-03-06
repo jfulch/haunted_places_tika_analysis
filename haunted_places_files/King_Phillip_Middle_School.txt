@@ -1,0 +1,20 @@
+city: West Hartford
+country: United States
+description: RM#22 - The ghost of a long lost child who was murdered has known to roam the halls of KPM and especially room 22. They say that until his body is found he will kill a person every Halloween. The name of this kid is unknown.
+location: King Phillip Middle School
+state: Connecticut
+state_abbrev: CT
+longitude: -72.7412713
+latitude: 41.7941597
+city_longitude: -72.7420151
+city_latitude: 41.7620842
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

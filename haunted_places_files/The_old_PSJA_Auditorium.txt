@@ -1,0 +1,21 @@
+city: San Juan
+country: United States
+description: It has been said that in the old auditorium years ago a janitor or tech was putting up a light on the top and he fell and died. Till this day if you look up the light has never been placed. The story is if you happen to do a production there, you have to put his name in the program because if not he will do something to ruin the show. Either drop the set, or something else horrid.
+location: The old PSJA Auditorium
+state: Texas
+state_abbrev: TX
+longitude: -98.1683159
+latitude: 26.1767775
+city_longitude: -98.1552872
+city_latitude: 26.1892409
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1921/11/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

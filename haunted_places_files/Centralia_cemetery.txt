@@ -1,0 +1,21 @@
+city: Centralia
+country: United States
+description: There is a statue of her where she was buried holding a violin and at night on certain days if you listen closely you can hear her play the instrument. - September 2004 update /correction: Annie ( Harriet Anne Marshall) was the daughter of a wealthy doctor. She took ill while on a family trip with her parents. She died of diptheria. Her mother was so distraught that she eventually lost her mind. She did not beat the child to death. Annie was an accomplished violinist. Her greiving father had the statue done as a monument. It was based on a painting of Annie with her violin standing next to her father at the piano. This painting was at one time owned by an antique dealer in Centralia. Everyone growing up had head the story of Annie playing her violin at night. The Marshall family has tried to maintain the statue but it has been attacked vandals several times. Her violin bow is broken off.
+location: Centralia cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -89.1235486
+latitude: 38.5414902
+city_longitude: -89.1316944
+city_latitude: 38.5285169
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1514/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

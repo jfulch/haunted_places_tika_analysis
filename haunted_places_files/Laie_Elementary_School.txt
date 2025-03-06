@@ -1,0 +1,21 @@
+city: Laie
+country: United States
+description: This school is built over a graveyard, and it is said that people tend to get stuck in the elevator often. The teachers who would come in at night to check their student's work have to close their windows and shut their doors, because they hear noises in the hallway and hear people's voices.
+location: Laie Elementary School
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9246794
+latitude: 21.6498732
+city_longitude: -157.9225549
+city_latitude: 21.6482858
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

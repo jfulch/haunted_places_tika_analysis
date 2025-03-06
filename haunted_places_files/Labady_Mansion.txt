@@ -1,0 +1,21 @@
+city: Bartlesville
+country: United States
+description: a 19th Century Victorian mansion, in the woods, far far outside of town, perched atop of a huge hill over looking the country side for miles. This house was the scene of 4 deaths in the early 20th century. Since then the house has burned 2 times, now only the rock walls and foundation remain to stand watch over the miles of lonely woods. If you make it through the mile of lush vegetation, to the top of the hill, you will generally be treated by your flashlights not working, strange, invisible people shouting your name, odd smells, strange animals running through the dark, only a few meters in front of you. But probably the most scary part of the whole ordeal, is when what's left of the fireplace starts to blaze on it's own as you leave.
+location: Labady Mansion
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.0203559
+latitude: 36.8984903
+city_longitude: -95.9808179
+city_latitude: 36.7473114
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1825/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

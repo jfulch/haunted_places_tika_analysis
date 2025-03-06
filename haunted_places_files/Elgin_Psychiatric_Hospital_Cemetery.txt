@@ -1,0 +1,21 @@
+city: Elgin
+country: United States
+description: Documentation of patients being tortured in the turn of the century era before science understood insanity. They then were buried five in a grave with the name of the body on top marking that grave. All kinds of supernatural activity here ranging from orbs to apparitions. - August, 2005 Update: Was actually the cemetery for those that died in the Elgin State Mental Institution. Little activity is found. Area is located near quarry in the back of the sports complex. Common activity is items of all types being dropped and when people look for them with flashlights or under other types of lighting the item can't be found. Than in the daylight they are seen placed on top of stones that were searched thoroughly the night before.- January 2006 Update: the cemetery belongs to the Elgin State Mental Hospital. The name it has is the name that belonged to the Hospital before in changed its name within the last 10 years. The Cemetery is easily accessed behind the local sports complex but has the same policy as the hospital. It is Private Government Property with armed guards patrolling, only certified personnel can get back there without getting hit by the fine.WARNING:If there is anyone that is planning on doing anything in any of those locations they must be sure that they have permission first else they will be arrested.
+location: Elgin Psychiatric Hospital Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.2985659
+latitude: 42.0184443
+city_longitude: -88.2825668
+city_latitude: 42.0354084
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

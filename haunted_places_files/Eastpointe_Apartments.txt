@@ -1,0 +1,21 @@
+city: Sterling Heights
+country: United States
+description: Showers or water have reportedly turned on all by themselves. Things are moved or pushed around in closets at night. Shadows of men going up the stairs to the second floor apartments are sometimes seen. An allover strange feeling can be felt in the atmosphere at certain times of the day. The apartments, built in the center of Sterling Heights (near 17 mile and Van Dyke), are known to be built on an ancient American Indian burial ground from many centuries ago.
+location: Eastpointe Apartments
+state: Michigan
+state_abbrev: MI
+longitude: -83.027157
+latitude: 42.5847845
+city_longitude: -83.0302033
+city_latitude: 42.5803122
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1994/04/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Natural Disaster
+witness_count: 1

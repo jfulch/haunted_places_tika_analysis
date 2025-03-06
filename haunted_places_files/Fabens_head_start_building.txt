@@ -1,0 +1,21 @@
+city: Fabens
+country: United States
+description: apparitions of century guards at the corners of the building can be seen. they appear to be wearing old Mexican army uniforms and holding rifles. when you car lights are turned on they fade into the dark.
+location: Fabens head start building
+state: Texas
+state_abbrev: TX
+longitude: -106.1518567
+latitude: 31.4994459
+city_longitude: -106.1585867
+city_latitude: 31.50234
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1521/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

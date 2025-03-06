@@ -1,0 +1,21 @@
+city: Albuquerque
+country: United States
+description: At night you hear the dead librarian saying "please come check out a book!” The lights turn on and off and things control themselves on they're own. Her dead children slither around while darkening the room!
+location: San Pedro Library
+state: New Mexico
+state_abbrev: NM
+longitude: -106.5778266
+latitude: 35.0688702
+city_longitude: -106.6055534
+city_latitude: 35.0853336
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

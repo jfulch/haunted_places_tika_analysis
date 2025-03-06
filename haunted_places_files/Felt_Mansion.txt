@@ -1,0 +1,21 @@
+city: Saugatuck
+country: United States
+description: The mansion was built in the 1920's by inventor Dorr Felt for his Wife Agnes. Shortly after the house's construction, Agnes, died of a stroke in her room at the mansion. Dorr Felt re-married but his new wife hated spending time at the house, most likely because Agnes was still there in spirit. The house has been a home for boys, then for nuns, and a state police post. After many, many years, the house is finally getting restored and ghost tours are giving through it to help raise money. Doors have opened and closed in Agnes's room, voices are heard, and activity shows up in pictures like orbs and mists. Many believe that Agnes and Dorr still reside in the house. The ballroom is said to be the most haunted room in the house.
+location: Felt Mansion
+state: Michigan
+state_abbrev: MI
+longitude: -86.1940284
+latitude: 42.6970535
+city_longitude: -86.2019825
+city_latitude: 42.6550248
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1928/05/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

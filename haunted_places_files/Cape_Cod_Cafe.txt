@@ -1,0 +1,21 @@
+city: Brockton
+country: United States
+description: Sounds of a baby crying when no children are present in the restaurant. There is a story about a baby that was left alone at the table while the mother drank at the bar. The baby supposedly choked to death in the booth.
+location: Cape Cod Cafe
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0165786
+latitude: 42.0660687
+city_longitude: -71.0183787
+city_latitude: 42.0834335
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Reading
+country: United States
+description: The Bathrooms in the lower hall of the school seem to be haunted. The door bangs in the Boys bathroom and a bloody handprint appears on the wall. You can hear a moan and it sometimes will give chase.
+location: St. Mary's Catholic School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.9147996
+latitude: 40.3307343
+city_longitude: -75.9268747
+city_latitude: 40.3356483
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

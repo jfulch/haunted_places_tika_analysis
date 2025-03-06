@@ -1,0 +1,19 @@
+city: Pitcairn
+country: United States
+description: If you walk back through the woods far enough, you come to an old bridge that connects you over a high fall to a creek. If you walk back that way and almost under the bridge you can see the "old man". The old man is thought to be the spirit of a child molester who used the woods for his crimes but when caught committed suicide. As you are walking throughout the high grass trails, he will turn from a trail ahead of you, and walk in your direction, he always bumps your arm as he passes you through the woods with his head down. If you attempt to chase back down the trail and find him again he will never be anywhere in the woods.
+location: Beyond the Creek
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -79.77810199999999
+city_latitude: 40.4031244
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

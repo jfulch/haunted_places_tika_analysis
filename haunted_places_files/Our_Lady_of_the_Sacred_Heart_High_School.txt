@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: A nun that lived in the convent there many years ago had died and her ghost is said to walk the hall of the third floor of the main school building after school hours. Most of the people who have claimed to have seen her are ones who stay after for extracurricular activities. She has no face so she is known as the faceless nun. When she is seen, she is walking down the hall with her head bowed down and her hands folded as if she is praying. Every year, incoming freshmen within their first two weeks of classes are told the story of the faceless nun. Some don't believe it, yet a lot of students, past and present, as well as teachers, have claimed to see her.
+location: Our Lady of the Sacred Heart High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.1565514
+latitude: 40.50220470000001
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

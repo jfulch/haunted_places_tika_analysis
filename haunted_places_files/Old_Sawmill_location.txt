@@ -1,0 +1,19 @@
+city: Patterson
+country: United States
+description: Dishes would sometimes shake and spread out all across the floor and feelings of dread.
+location: Old Sawmill location
+state: Louisiana
+state_abbrev: LA
+city_longitude: -91.3020502
+city_latitude: 29.6932641
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

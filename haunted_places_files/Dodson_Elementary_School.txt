@@ -1,0 +1,21 @@
+city: Reno
+country: United States
+description: at night time when the lights are out teachers report to hear awkward sounds.
+location: Dodson Elementary School
+state: Nevada
+state_abbrev: NV
+longitude: -119.7509284
+latitude: 39.4901026
+city_longitude: -119.8138027
+city_latitude: 39.5296329
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.9
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

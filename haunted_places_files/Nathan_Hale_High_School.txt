@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: Apparently, a long time ago someone was raped in one of the halls in this school. Some people have hear odd noises and there is a place in one of the halls where people have walked right thru it and a rush of fear came over their whole body.
+location: Nathan Hale High School
+state: Washington
+state_abbrev: WA
+longitude: -122.2956588
+latitude: 47.7075329
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2014/12/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 0

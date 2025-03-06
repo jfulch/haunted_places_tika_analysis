@@ -1,0 +1,21 @@
+city: Lovejoy
+country: United States
+description: At night confederate soldiers have been reported to have been seen in the homes and the train can still be heard. Specter train can also be heard.
+location: Lovejoy RD
+state: Georgia
+state_abbrev: GA
+longitude: -84.3218146
+latitude: 33.4404921
+city_longitude: -84.3143675
+city_latitude: 33.4362245
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

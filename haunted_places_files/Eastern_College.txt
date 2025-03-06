@@ -1,0 +1,21 @@
+city: St. David's
+country: United States
+description: There have been several sightings of figures dressed in black that seem to disappear. Please include my email - for if anyone else has seen any unusual events at this college they could email them to me.
+location: Eastern College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.37071949999999
+latitude: 40.0516866
+city_longitude: -75.37852339999999
+city_latitude: 40.0409428
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Redford
+country: United States
+description: "Garderner's Grave" - located when you walk in and to the left and if you stay there for a period of time you can all of a sudden smell a strong stench like a death smell and moments later it is said that you can see his ghost coming towards you over the hill to your left
+location: Redford cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -83.288804
+latitude: 42.37457000000001
+city_longitude: -83.2973732
+city_latitude: 42.3944486
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

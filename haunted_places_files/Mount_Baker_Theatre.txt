@@ -1,0 +1,21 @@
+city: Bellingham
+country: United States
+description: A woman that seems to want nothing more then to watch over her property and its present owners!!!
+location: Mount Baker Theatre
+state: Washington
+state_abbrev: WA
+longitude: -122.477941
+latitude: 48.7521648
+city_longitude: -122.4786854
+city_latitude: 48.7519112
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.25
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

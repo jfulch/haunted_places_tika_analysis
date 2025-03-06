@@ -1,0 +1,21 @@
+city: Oklahoma City
+country: United States
+description: In the behind-the-scenes area of the Aquatics building, a ghost of a woman with long hair has been seen at various times, usually at night, by several different people. No one has any idea of who she is or where she came from, much less why she is there.
+location: Zoo
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.4724894
+latitude: 35.5235472
+city_longitude: -97.5164276
+city_latitude: 35.4675602
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

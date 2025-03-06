@@ -1,0 +1,21 @@
+city: New Richmond
+country: United States
+description: There is a ghost that appears there often. Just lately they have found a picture of what looks like the young boy. They have also found out that his name is "Carl."
+location: Kozy Korner Restaurant
+state: Wisconsin
+state_abbrev: WI
+longitude: -92.753987
+latitude: 45.00210999999999
+city_longitude: -92.5365865
+city_latitude: 45.1230213
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

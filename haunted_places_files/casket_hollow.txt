@@ -1,0 +1,20 @@
+city: Magee
+country: United States
+description: This is said to be a place that has been rumored to have had caskets floating down the road on Halloween night, you can often feel a presence watching you from the woods. on this road there was a house that was said to drip blood when it rained. the house has long since been torn down.
+location: casket hollow
+state: Mississippi
+state_abbrev: MS
+longitude: -89.7627629
+latitude: 31.8842438
+city_longitude: -89.7336852
+city_latitude: 31.8737712
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

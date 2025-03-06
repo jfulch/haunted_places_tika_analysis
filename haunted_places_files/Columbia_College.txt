@@ -1,0 +1,20 @@
+city: Columbia
+country: United States
+description: St. Clair Hall - January 2007 Correction Formerly listed as Miller Hall - when the college was founded in the mid 1800's as a girl’s Christian school Miller was the main building and the students' dorm was in the attic. There was a fire in the dorm room and supposedly one of the girls died in her bed. The attic is now off limits to students behind a black steel door always kept locked and is used for storage. Janitorial staff and security have reported hearing a sound like a mewing cat or footsteps from the room, but never can find the source of the noises.
+location: Columbia College
+state: Missouri
+state_abbrev: MO
+longitude: -92.3264079
+latitude: 38.9578722
+city_longitude: -92.3340724
+city_latitude: 38.9517053
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1966/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

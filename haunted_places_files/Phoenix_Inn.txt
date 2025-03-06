@@ -1,0 +1,21 @@
+city: Alhambra
+country: United States
+description: It’s said that there is a female ghost that walks in and out of the kitchen, goes around the tables, watches what people order, sits there and admires what you eat.
+location: Phoenix Inn
+state: California
+state_abbrev: CA
+longitude: -118.120465
+latitude: 34.078464
+city_longitude: -118.1270146
+city_latitude: 34.095287
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Miles City
+country: United States
+description: Cooler Doors opening and shutting at night cold drafts in the bathrooms, equipment turning on and off by itself. The Ghost is believed to be that of an old man named Dave who had a small station on the sight years before. He died in the station of a heart attack.
+location: Town Pump truck stop
+state: Montana
+state_abbrev: MT
+longitude: -105.821245
+latitude: 46.396824
+city_longitude: -105.8405582
+city_latitude: 46.4083362
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1906/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 18m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

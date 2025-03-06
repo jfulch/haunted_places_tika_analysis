@@ -1,0 +1,20 @@
+city: Jackson
+country: United States
+description: Many can hear the sounds of the man who was gunned down on the entrance steps.
+location: Jefferson Hotel
+state: Kentucky
+state_abbrev: KY
+longitude: -83.3816511
+latitude: 37.5544252
+city_longitude: -83.38351349999999
+city_latitude: 37.5531457
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

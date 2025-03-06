@@ -1,0 +1,21 @@
+city: Grand Rapids
+country: United States
+description: Reports of an "evil presence" in the peanut gallery, gels flap in the lights, and people have been seen in the side bays or ducking behind curtains
+location: Grand Rapids Civic Theatre
+state: Michigan
+state_abbrev: MI
+longitude: -85.6677979
+latitude: 42.9642492
+city_longitude: -85.6680863
+city_latitude: 42.9633599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

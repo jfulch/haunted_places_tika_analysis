@@ -1,0 +1,21 @@
+city: Red Lodge
+country: United States
+description: A woman in a yellow dress haunts the thrid floor of the hotel; activity seems to revolve around Room 310.
+location: The Pollard Hotel
+state: Montana
+state_abbrev: MT
+longitude: -109.2467424
+latitude: 45.187195
+city_longitude: -109.2468211
+city_latitude: 45.1857782
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 18m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

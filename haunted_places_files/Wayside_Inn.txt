@@ -1,0 +1,21 @@
+city: Middletown
+country: United States
+description: Wayside is the oldest still running in America. There is one specific room that is supposedly haunted and that is room 14. Many guests comment on strange occurrences in that room. There have been other sightings throughout the inn as well.
+location: Wayside Inn
+state: Virginia
+state_abbrev: VA
+longitude: -78.2771083
+latitude: 39.0304812
+city_longitude: -78.280558
+city_latitude: 39.0276078
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

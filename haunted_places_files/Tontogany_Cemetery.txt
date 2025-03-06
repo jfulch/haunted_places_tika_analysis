@@ -1,0 +1,20 @@
+city: Tontogany
+country: United States
+description: Strange blinking lights have been seen and a blue light in the grave keeper’s shed as well. The night we went, there was no breeze and we kept seeing the door to opening and closing, as if someone was going in and out of the shed.
+location: Tontogany Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -83.7429452
+latitude: 41.4295896
+city_longitude: -83.7407702
+city_latitude: 41.419219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

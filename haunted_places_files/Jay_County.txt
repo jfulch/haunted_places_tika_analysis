@@ -1,0 +1,21 @@
+city: New Cordyon
+country: United States
+description: OLd School Houses - it is told to be that if you pass by the school house and look inside you will see shadows of people walking around. it is also told that in the 1960's a group of teenagers went to the school to see if it was really haunted and one of the girls that was there died in the school and it is said you can see her standing in the window if you look in there from afar, but if you look to long at her she will run away from the window and run out the front doors after you.
+location: Jay county
+state: Indiana
+state_abbrev: IN
+longitude: -84.8399642
+latitude: 40.5686574
+city_longitude: -84.8399642
+city_latitude: 40.5686574
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1773/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

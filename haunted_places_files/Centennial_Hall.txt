@@ -1,0 +1,19 @@
+city: Valentine
+country: United States
+description: Centennial Hall is the oldest standing school building in the state of Nebraska, as listed on the National Registry of Historic Places.  Now a museum, Centennial Hall is open to guests during the late spring through early fall months.   In 1944, a schoolgirl died of a heart attack brought upon by a poisoning.  According to local "lore" the girl's clarinet reed was poisoned, killing her.  Several former teachers have talked about cold drafts, strange noises, and a generally eerie feeling at times in the old school - as well as one teacher who wants to remain anonymous who thought that he actually saw an apparition for a split second.  Numerous people in town (including myself) have said that they can hear music coming from the old music room (the school hasn't been open but as a museum since 1978, and no instruments are left in the school - though the music room has been turned into a "bell" room for the museum).  A select few people have reported seeing chimes moving inside the building with no drafts, rocking chairs rocking with no one in them, etc.
+location: Centennial Hall
+state: Nebraska
+state_abbrev: NE
+city_longitude: -100.5509669
+city_latitude: 42.87278329999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1944/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

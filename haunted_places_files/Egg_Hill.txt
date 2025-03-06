@@ -1,0 +1,21 @@
+city: Centerhall
+country: United States
+description: Egg Hill is an old church where a reverend murdered the congregation after a sermon one night!! All of them are buried outside the church!! On a full moon sightings of people killed have been seen there are still blood stains on the floor of the and a picture of an anarchy drawn on the floor!! -  WARNING - There is no trespassing here. explorers have had a gun pulled on them and others claim that a man tries to make the visitors follow him away from the group.
+location: Egg Hill
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.62522899999999
+latitude: 40.8283435
+city_longitude: -77.6861093
+city_latitude: 40.8475635
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

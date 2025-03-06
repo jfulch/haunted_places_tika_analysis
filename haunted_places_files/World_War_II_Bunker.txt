@@ -1,0 +1,21 @@
+city: Cape May
+country: United States
+description: The magazine at Cape May point once housed guns to protect the coast from Nazi subs. A ghostly crew haunts this bunker. Soldiers have also been seen on the beach surrounding the bunker.
+location: World War II Bunker
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9556184
+latitude: 38.9315764
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

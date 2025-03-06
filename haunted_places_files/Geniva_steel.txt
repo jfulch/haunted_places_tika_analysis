@@ -1,0 +1,21 @@
+city: Lindon
+country: United States
+description: since the factory has been abandoned several groups of people have had strange experiences in the locker room, hearing footsteps behind you showers turning on and unexplained feelings.
+location: Geniva steel
+state: Utah
+state_abbrev: UT
+longitude: -111.7369413
+latitude: 40.3314126
+city_longitude: -111.7207608
+city_latitude: 40.3432857
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

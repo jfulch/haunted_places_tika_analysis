@@ -1,0 +1,21 @@
+city: San Angelo
+country: United States
+description: A woman named Marie, who apparently used to reside in the Santa Rita area and frequently walk in the park, still hangs around the park, just to the left of Santa Rita elementary. She died without much family. Stray dogs tend to roam the park at night, whether they are looking for food or a place to sleep, and their behavior is very peculiar - jumping up in the air, excitable, running to and fro, barking in a direction where no one or nothing can be seen. Marie seems to enjoy the dogs' company, and she tends to sit at the bench closest to the school - anyone who stands near or sits on that bench at night is sure to feel a chill and a sense of restlessness. One will also find that looking into the creek (which runs through the park) at night takes much courage, though nothing has reportedly been seen in the water.
+location: Santa Rita Park
+state: Texas
+state_abbrev: TX
+longitude: -100.4533544
+latitude: 31.4488235
+city_longitude: -100.4370375
+city_latitude: 31.4637723
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1955/05/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 1

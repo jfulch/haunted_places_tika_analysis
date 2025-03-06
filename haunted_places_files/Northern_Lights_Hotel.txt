@@ -1,0 +1,21 @@
+city: Fairbanks
+country: United States
+description: A little girl died on the third floor of this abandoned building. After that, the hotel closed off that part of the building. The front desk has reported getting phone calls from the third floor, Room #303. A little girl on the phone says she's looking for her mother and then hangs up. No one was on the third floor when the call was made.
+location: Northern Lights Hotel
+state: Alaska
+state_abbrev: AK
+longitude: -147.4167312
+latitude: 65.0431234
+city_longitude: -147.7163888
+city_latitude: 64.8377778
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 10h 52m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

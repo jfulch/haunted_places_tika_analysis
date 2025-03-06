@@ -1,0 +1,21 @@
+city: Evansville
+country: United States
+description: Reported in an abandoned 140 year old house, witnesses have said that in the top right bedroom you can sometimes see a man like apparition in the window.
+location: off of #6 school road by St. Joe mini mart.
+state: Indiana
+state_abbrev: IN
+longitude: -117.5525982
+latitude: 34.1017223
+city_longitude: -87.5710898
+city_latitude: 37.9715592
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

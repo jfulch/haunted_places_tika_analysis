@@ -1,0 +1,21 @@
+city: Oxnard
+country: United States
+description: Wal-Mart - the toy department of Wal-Mart is haunted by the ghost of a 7- 9 year old Mexican American girl, wearing a blue dress, with two pig tail braids, some say she looks to have been from the fifties or late sixties. Workers at night have heard and seen balls bouncing around by themselves, or cold spats. The girl herself has been seen by a number of people who say sometimes she is seen in a full apparition form (solid) or at times misty with half body visible. The ghost is playful often giggling, and smiling to workers who close up at night and come across her. Before Wal-Mart was erected it was all field and from elders around town the little girl may have been the victim of an accident since at night it was fairly treacherous to pass because it was pitch black and a number of people have been killed in accidents or, victims of random homicides. the whole complex where Wal-Mart is located (the rose shopping center) may in fact be haunted because of all that has happened over the years.
+location: Rose Shopping Center
+state: California
+state_abbrev: CA
+longitude: -119.1615137
+latitude: 34.22110250000001
+city_longitude: -119.1770516
+city_latitude: 34.1975048
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

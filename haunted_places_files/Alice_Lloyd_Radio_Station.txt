@@ -1,0 +1,21 @@
+city: Pippa Passes
+country: United States
+description: Radio station is haunted by a man named Cushing. Has been seen by numerous employees in this building and in Cushing Hall.
+location: Alice Lloyd Radio Station
+state: Kentucky
+state_abbrev: KY
+longitude: -82.8735944
+latitude: 37.3359167
+city_longitude: -82.8740498
+city_latitude: 37.334822
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1890/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Cinnaminson
+country: United States
+description: S.Forklanding road near jug handle in - When crossing rt 73 from jug handle in late at night crossing the little medal bridge near winners farm a car follows you to the bridge then vanishes it only happens around 12 a clock on a cold night in the winter it happens both ways crossing the bridge.
+location: Maple Shade
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.0063483
+latitude: 39.9702286
+city_longitude: -74.99276929999999
+city_latitude: 39.9969646
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

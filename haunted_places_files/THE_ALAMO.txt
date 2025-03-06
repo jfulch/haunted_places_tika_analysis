@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Cold spots and a feeling of melancholy can be felt throughout the Fort. 189 Alamo defenders and at least 1200 Mexican soldiers fought and died here in San Antonio, many without the benefit of a proper burial leaving a lot of lost souls in search of a eternal resting place, thus making San Antonio one of the most haunted cities in America.
+location: The Alamo
+state: Texas
+state_abbrev: TX
+longitude: -98.4861419
+latitude: 29.4259671
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1691/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

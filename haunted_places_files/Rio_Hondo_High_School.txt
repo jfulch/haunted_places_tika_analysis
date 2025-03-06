@@ -1,0 +1,21 @@
+city: Rio Hondo
+country: United States
+description: In the Rio Hondo High School when it was being constructed a man got electrocuted and died. Now the janitors that are cleaning late at night claim to see a shadow of a man in the sophomore hall chemistry hall were he died. Teachers who stay at night to grade paper also claim to here stuff and steps in the halls
+location: Rio Hondo High School
+state: Texas
+state_abbrev: TX
+longitude: -97.5660275
+latitude: 26.2312851
+city_longitude: -97.5819319
+city_latitude: 26.2353516
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

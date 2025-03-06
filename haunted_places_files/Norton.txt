@@ -1,0 +1,20 @@
+city: Summit
+country: United States
+description: Loyal Oak Tavern - Tavern is an old Inn. A bartender hanged himself in the bar. He is buried in the church cemetery next door. A new bar was built.( the old one is downstairs an is now a wine cellar) His spirit manifests itself in the restaurant to employees and patrons later at night. Temperature drops, Putting his hands on you or moving objects. Throwing pans etc. Not supposedly malicious. Well known throughout the area.
+location: Norton
+state: Ohio
+state_abbrev: OH
+longitude: -81.63817949999999
+latitude: 41.0292217
+city_longitude: -81.5596427
+city_latitude: 41.0918991
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: When Pictures are taken a thick mist will appear in the image. Witnesses report just hanging out at night then a mist started forming in front of the car, it drifted up and eventually formed the shape of an old man. You could see his eyes, face, clothes, hands and even his beard. But you could also see right through him and see the trees on the other side.
+location: Holy hill cemetery
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.0058712
+latitude: 43.0844449
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1916/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

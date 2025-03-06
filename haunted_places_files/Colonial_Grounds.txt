@@ -1,0 +1,20 @@
+city: Williamsburg
+country: United States
+description: While visiting Williamsburg i heard a story of a ghost of a slave named Jim. He was a slave to the Governor and he went to his shack one day and his family had disappeared. He is said to roam the halls of nearby hotels and knock on doors searching for his lost family.
+location: Colonial Grounds
+state: Virginia
+state_abbrev: VA
+longitude: -76.7055707
+latitude: 37.2707685
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

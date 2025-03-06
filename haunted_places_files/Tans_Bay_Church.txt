@@ -1,0 +1,20 @@
+city: Effingham
+country: United States
+description: There have been reports of lights being seen floating in the church.  Also you can hear a baby cry sometimes.  The story is that this church use to be a school many years ago.  There was a baby who was crying and when the lady went to get the baby, he or she fell on their head and died instantly.
+location: Tans Bay Church
+state: South Carolina
+state_abbrev: SC
+longitude: -79.78233999999999
+latitude: 34.1144303
+city_longitude: -79.75341159999999
+city_latitude: 34.0575712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

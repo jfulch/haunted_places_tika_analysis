@@ -1,0 +1,21 @@
+city: Bisbee
+country: United States
+description: The hotel is haunted by a dark, figureless apparition. She has been seen wandering the halls of the 3rd floor.
+location: The Copper Queen Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -109.9144646
+latitude: 31.44239319999999
+city_longitude: -109.9284084
+city_latitude: 31.4481547
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

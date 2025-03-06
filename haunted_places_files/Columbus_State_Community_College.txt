@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: The ghosts that haunt it are there because the school was built directly on top of a Catholic cemetery. It is a few blocks away from Kelton house, mentioned above.
+location: Columbus State Community College
+state: Ohio
+state_abbrev: OH
+longitude: -82.98719
+latitude: 39.969191
+city_longitude: -82.99879419999999
+city_latitude: 39.9611755
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

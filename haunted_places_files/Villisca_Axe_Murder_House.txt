@@ -1,0 +1,21 @@
+city: Villisca
+country: United States
+description: Believed to be haunted by the family that was murdered there. Doors slam, and ghost talk and lots of other things.
+location: Villisca Axe Murder House
+state: Iowa
+state_abbrev: IA
+longitude: -94.9733075
+latitude: 40.93072189999999
+city_longitude: -94.9766416
+city_latitude: 40.9296034
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

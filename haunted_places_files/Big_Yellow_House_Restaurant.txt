@@ -1,0 +1,21 @@
+city: Summerland
+country: United States
+description: This restaurant is believed to be haunted by a ghostly lady. People have claimed to see a lonely looking woman standing around by herself. When they attempt to get a closer look, she disappears. Money has also been known to disappear from tables.
+location: Big Yellow House Restaurant
+state: California
+state_abbrev: CA
+longitude: -118.3076722
+latitude: 34.0701949
+city_longitude: -119.5965173
+city_latitude: 34.42138449999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

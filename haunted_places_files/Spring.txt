@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: The Wunche Bros Cafe - Spring is really a portion of Houston on its north side. The building has served many purposes including rail station, brothel and restaurant. Many have seen an apparition of "Old Man Wunche" on the upstairs balcony. Several waitresses claimed to have seen him.
+location: Spring
+state: Texas
+state_abbrev: TX
+longitude: -95.3764852
+latitude: 29.7751513
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

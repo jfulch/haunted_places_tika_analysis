@@ -1,0 +1,19 @@
+city: Evansville
+country: United States
+description: It is said that a little girl fell into this well when she was playing with her dog. The well is in a field and split down the middle. You can hear the little girl crying and you also get the impression that you’re not supposed to be there.
+location: Split Well
+state: Arkansas
+state_abbrev: AR
+city_longitude: -94.4965417
+city_latitude: 35.7955749
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

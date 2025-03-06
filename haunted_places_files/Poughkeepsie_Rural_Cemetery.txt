@@ -1,0 +1,21 @@
+city: Poughkeepsie
+country: United States
+description: Countless spirits roam the grounds, and have done so for years! Some can-and-want to be seen, or otherwise noticed, some just "observe" those of us still here.
+location: Poughkeepsie Rural Cemetery
+state: New York
+state_abbrev: NY
+longitude: -73.930972
+latitude: 41.68514
+city_longitude: -73.9209701
+city_latitude: 41.7003713
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1809/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

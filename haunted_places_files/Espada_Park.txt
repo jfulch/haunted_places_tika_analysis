@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: There are railroad tracks here that are said to be haunted by some kids that were hit by a train while riding in a bus. When people come here and park their cars about ten to twelve feet away from the tracks, the ghostly kids push the car to safety.
+location: Espada Park
+state: Texas
+state_abbrev: TX
+longitude: -98.4681888
+latitude: 29.3498672
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

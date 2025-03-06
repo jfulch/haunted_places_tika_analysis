@@ -1,0 +1,21 @@
+city: Lake George
+country: United States
+description: when visiting the basement part where the prisoners use to be in the jail a visitor heard crying and screaming of the men and there was no one there.
+location: Fort William Henery Museum
+state: New York
+state_abbrev: NY
+longitude: -73.71103
+latitude: 43.420112
+city_longitude: -73.71234079999999
+city_latitude: 43.4261809
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

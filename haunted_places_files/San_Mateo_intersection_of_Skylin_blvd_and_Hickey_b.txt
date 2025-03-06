@@ -1,0 +1,21 @@
+city: Daly City
+country: United States
+description: There are stories that a lady in white is seen at the intersection in their view mirrors when foggy.
+location: San Mateo -intersection of Skylin blvd and Hickey blvd
+state: California
+state_abbrev: CA
+longitude: -122.4759197
+latitude: 37.660574
+city_longitude: -122.4702079
+city_latitude: 37.6879241
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

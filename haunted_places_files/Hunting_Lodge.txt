@@ -1,0 +1,19 @@
+city: Wascott
+country: United States
+description: Sounds of little girls voices can be heard when no one is there. Random Screaming in the middle of the night. Windows opening undetected by security system. Sightings of a young dark haired girl standing in the upper window.
+location: Hunting Lodge
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -91.8510151
+city_latitude: 46.21335380000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

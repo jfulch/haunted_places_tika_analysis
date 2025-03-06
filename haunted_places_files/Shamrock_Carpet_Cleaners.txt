@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: Footsteps have been heard in the back of the building and a telephone and carpet rolls have moved them selves a ghost of a man has also been seen he is reportedly named George
+location: Shamrock Carpet Cleaners
+state: California
+state_abbrev: CA
+longitude: -118.138852
+latitude: 34.7076951
+city_longitude: -118.1541632
+city_latitude: 34.6867846
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

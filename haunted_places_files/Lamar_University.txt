@@ -1,0 +1,21 @@
+city: Beaumont
+country: United States
+description: Sigma Phi Epsilon House - The house was built by a farmer. They say it was his dream house. After the man passed, that it was supposedly a whorehouse. The fraternity bought it in the late 80's. The house sits on old farmland. There is the main house in the front and also a huge house in the back (just a structure with two bathrooms and a small bar). Everyone that has lived in the house knows about "Chester" (that's what they call him). He likes to knock on the guy's doors when no one else is home. Opening and closing doors, & walking on the stairs. This ghost is very friendly with the guys and protects them from strangers.
+location: Lamar University
+state: Texas
+state_abbrev: TX
+longitude: -94.075231
+latitude: 30.040144
+city_longitude: -94.1265562
+city_latitude: 30.080174
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

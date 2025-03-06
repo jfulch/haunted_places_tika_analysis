@@ -1,0 +1,20 @@
+city: Joplin
+country: United States
+description: The Band Room -  Its is said that one night someone heard drums playing and when they walked into the band room there was no one there. People have also claimed to see strange glowing lights, and there's even one report about a janitor who saw a young boy in the band room....but then disappeared.
+location: Joplin High School
+state: Missouri
+state_abbrev: MO
+longitude: -94.5085557
+latitude: 37.068118
+city_longitude: -94.513281
+city_latitude: 37.08422710000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

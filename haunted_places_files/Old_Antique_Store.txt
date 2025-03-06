@@ -1,0 +1,21 @@
+city: Fort Pierce
+country: United States
+description: There is an old antique store sitting on a hill overlooking the St. Lucie River on US1 that is long rumored to be haunted. In the early 20th century, a man was brutally murdered by his wife on the staircase of their house which later became an antique store. When you come upon the second floor, the smell of cigar smoke seems to follow you around and you never feel completely comfortable. The stair on which the man was killed makes a horrible sound whenever it is stepped on and an old man was "pushed" down the stairwell on that exact stair a few years ago on Halloween night. The owners boarded it up after Florida experienced all of the Hurricanes and there is no word on whether or not it will open again.
+location: Old Antique Store
+state: Florida
+state_abbrev: FL
+longitude: -80.3422295
+latitude: 27.4899201
+city_longitude: -80.3256056
+city_latitude: 27.4467056
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

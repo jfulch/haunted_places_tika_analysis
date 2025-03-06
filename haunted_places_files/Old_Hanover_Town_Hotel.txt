@@ -1,0 +1,21 @@
+city: Hanover
+country: United States
+description: Throughout the early 1900's till the 1930's was a mental institution on Hanover Ma, later in the 1930's the institution closed and was turned into a Hotel "Hanover Town Hotel". Many of those who roomed in the hotel would leave earlier then expected for the hotel was considered haunted by those who died in the hospital prior to the creation of the hotel. the hospital is still considered haunted and has an eerie look and feel to it just when you pass by.
+location: Old Hanover Town Hotel
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8444143
+latitude: 42.1160016
+city_longitude: -70.8476708
+city_latitude: 42.1162217
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

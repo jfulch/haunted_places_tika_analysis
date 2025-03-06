@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: A former worker reports On the top floor there were dozens of times that voices could be heard, women crying, ceiling tiles moved about. There was no one in the ceiling, no place to go. Often we could hear dogs barking inside the building. A security guard quit after seeing a person running and then disappearing into a wall. A doctor was murdered by his jealous wife in that area. Also, the top floor of the facility performed abortions on young un-married women. Also the ICU was on that floor. Footsteps could be heard on the main floor when they where the only one in the building, and voices from behind closed doors in the old emergency room.
+location: Old Northwest General Hospital
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.0248649
+latitude: 43.0408561
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

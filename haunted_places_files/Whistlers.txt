@@ -1,0 +1,21 @@
+city: Stanton
+country: United States
+description: Story of guy went crazy killed his family then hung himself from second bridge. At night you can hear him whistling, because he always sat on the bridge and whistled while he fished. Some say to have seen him swinging during the late hours of night.
+location: Whistlers
+state: Nebraska
+state_abbrev: NE
+longitude: -97.290995
+latitude: 41.967085
+city_longitude: -97.2239336
+city_latitude: 41.950284
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

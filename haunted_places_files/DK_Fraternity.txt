@@ -1,0 +1,21 @@
+city: Potsdam
+country: United States
+description: A man named that used to live in this house is said to have killed his whole family. He haunts it but has never hurt anyone. There is an upstairs bedroom where there is a step up about a foot, but the ceiling underneath doesn't rise up at all. It is said he hid the bodies here. There is also a room in this house known as the "cold room." When you go in here you get a chill because it is cold. No matter how many heaters you put in here, the room never gets warm. There are many Sisson Mansions, and all are connected by underground tunnels, none of which have been found.
+location: DK Fraternity
+state: New York
+state_abbrev: NY
+longitude: -74.978833
+latitude: 44.669467
+city_longitude: -74.9813084
+city_latitude: 44.6697805
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

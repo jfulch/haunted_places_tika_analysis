@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: parking lot - This site was formerly the Gratiot Street Prison. Here is a bit of history on the place. The building had been McDowell's College, a medical college owned and operated by Joseph Nash McDowell. It was confiscated by the Federal authorities in the spring of 1861. In December 1861 the building was converted into a prison and later renamed. Even early Federal records often call the place "McDowell's College." It was right in the midst of some of the wealthiest homes in St. Louis. General Fremont's headquarters in the Brant Mansion were only a block away. Right across the street was the home of the wealthy Harrison family. Attached to Gratiot on the north was the Christian Brothers Academy. Unlike other Civil War prisons, Gratiot was used to hold just about anyone and everyone. Along with Confederate prisoners of war were also held civilians ("citizens"), women, children, confiscated slaves ("contrabands"), spies, saboteurs, political prisoners, guerrillas and bushwhackers, and even Federal soldiers who had committed crimes or had misbehaved. Of Confederate soldiers held at Gratiot, the most likely ones came from battles and states in the Mississippi River region as far south as New Orleans. They were sent north for processing at Gratiot then moved on to Alton and other eastern prisons. Also soldiers fighting in Missouri and Arkansas would be sent to St. Louis. There is more information here: CivilWarStLouis.com
+location: Ralston Purina
+state: Missouri
+state_abbrev: MO
+longitude: -90.1985526
+latitude: 38.6189179
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1862/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 0

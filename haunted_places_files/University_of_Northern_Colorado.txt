@@ -1,0 +1,20 @@
+city: Greeley
+country: United States
+description: Turner Hall -  Haunted by numerous spirits, chiefly, two main spirits that most of the students who reside in it know and have either seen or heard. The first spirit was a former student who threw himself out of the window of the 11th floor. Another is because of a fire that happened in one of the rooms (12th?)and trapped the students there.
+location: University of Northern Colorado
+state: Colorado
+state_abbrev: CO
+longitude: -104.6960383
+latitude: 40.4055121
+city_longitude: -104.7091322
+city_latitude: 40.4233142
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

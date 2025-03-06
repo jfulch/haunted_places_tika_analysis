@@ -1,0 +1,18 @@
+city: Winsted
+country: United States
+description: The story says that a woman named Hannah went crazy and killed her entire family. Afterward she felt so bad about it that she hung herself from a windmill. There were three windmills at her house and she hung herself from the middle one. Now whenever the wind is blowing the windmill in the middle blows the opposite way.
+location: Hannah's Grave
+state: Minnesota
+state_abbrev: MN
+city_longitude: -94.0474725
+city_latitude: 44.9638517
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Cambridge
+country: United States
+description: A woman in a white formal gown haunts the cemetery on clear summer nights, she will appear and the dissolve in a short time. Looks to be in a dress from the 20s.
+location: Northwood Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -81.58541679999999
+latitude: 40.0410002
+city_longitude: -81.5884561
+city_latitude: 40.031183
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

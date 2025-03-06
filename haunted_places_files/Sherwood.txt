@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: The house is a three story house, and is filled with friendly spirits. It was also built on ancient burial grounds of the Indians. One of the spirits is a woman, who hung herself in a closet in one of the bedrooms on the second floor. Another spirit is a small boy, who one time got stuck in the garage while it was on fire. The doors always keep opening and closing by themselves.
+location: Sherwood
+state: Ohio
+state_abbrev: OH
+longitude: -83.599913
+latitude: 41.604622
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: Stritch DormsCardinal Stritch dorms used to be a place where nuns would live. In the basement of Stritch they used to keep the sickly nuns that would eventually die. Sometime after dark you can hear the nun walking around the hallways. Also in some of the rooms on 3 Center spirits will tear posters off the wall, closets will open on their own, locked doors will swing open, and random objects will be pushed off desks onto the floor. On 2 west you can hear running up and down the hall. As soon as you open your door to see who it is the running will stop. When you close your door the running will startup again.
+location: Cardinal Stritch University
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.9083689
+latitude: 43.1401276
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/02/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

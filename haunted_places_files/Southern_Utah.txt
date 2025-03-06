@@ -1,0 +1,21 @@
+city: Grafton
+country: United States
+description: Witnesses report hearing footsteps, pacing on the floor boards, feeling warm breath in their faces and feeling whisks of air as though someone had just passed them. A little info- The town of Grafton was settled by Mormon pioneers whom were raided by Indians and most were killed.
+location: Southern Utah
+state: Utah
+state_abbrev: UT
+longitude: -113.0808663
+latitude: 37.1630437
+city_longitude: -113.0799425
+city_latitude: 37.167205
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

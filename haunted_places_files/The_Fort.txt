@@ -1,0 +1,20 @@
+city: Honey Hill
+country: United States
+description: This is an old Civil War fort that is said to be haunted by soldiers from that era. Legend states that on certain nights you can hear the battle between Confederate and Union soldiers. The hauntings include the firing of cannons, guns going off, and men screaming as they fight.
+location: The Fort
+state: South Carolina
+state_abbrev: SC
+longitude: -80.957367
+latitude: 35.001647
+city_longitude: -79.5756234
+city_latitude: 33.1904459
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

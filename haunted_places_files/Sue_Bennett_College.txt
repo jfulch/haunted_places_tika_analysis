@@ -1,0 +1,21 @@
+city: London
+country: United States
+description: they say the dorms and the theater are haunted and that Bell Bennett roams the halls all night playing the piano’s turning off and on lights and watching people sleep that still stay there if you go in your sure to find something
+location: Sue Bennett College
+state: Kentucky
+state_abbrev: KY
+longitude: -84.0884492
+latitude: 37.1250294
+city_longitude: -84.08326459999999
+city_latitude: 37.1289771
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/07/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

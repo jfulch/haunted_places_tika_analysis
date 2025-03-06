@@ -1,0 +1,21 @@
+city: Fort Bragg
+country: United States
+description: Formerly the Redwood Hospital - is said to be haunted by a lady she is often seen roaming around in their garden areas and there has been the sightings of a man who apparently appears in one of the windows.
+location: The Grey Whale Inn
+state: California
+state_abbrev: CA
+longitude: -123.806236
+latitude: 39.448374
+city_longitude: -123.8052935
+city_latitude: 39.445723
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Purchase
+country: United States
+description: Purchase - There is a cemetery on campus. If you happen to be studying in one of the college halls near the cemetery site... especially at night...strange and uncanny occurrences happen from time to time.. If your lucky. Also, there have been rumors of a mental institution that existed at one time near the college behind the woods. In those woods it is known someone committed suicide, they shot themselves with a rifle.
+location: State University of New Yory
+state: New York
+state_abbrev: NY
+longitude: -73.6977661
+latitude: 41.0466485
+city_longitude: -73.7144477
+city_latitude: 41.0400135
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.8
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

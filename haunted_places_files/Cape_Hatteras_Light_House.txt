@@ -1,0 +1,20 @@
+city: Outer Banks
+country: United States
+description: The Ghost of TheodosBurr - Theodoswas lost in a shipwreck off the coast here in 1812. Her ghost is still seen walking the shores late at night near the lighthouse. The beaches are located on the Outer Banks at the Cape Hatteras Light House.
+location: Cape Hatteras Light House
+state: North Carolina
+state_abbrev: NC
+longitude: -75.5288214
+latitude: 35.2505373
+city_longitude: -75.4665158
+city_latitude: 35.5584932
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1812/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

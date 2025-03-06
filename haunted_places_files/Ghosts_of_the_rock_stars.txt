@@ -1,0 +1,19 @@
+city: Mason City
+country: United States
+description: Some people occasionaly spot a plane crashing, and some say it was from the 1959 tragedy, when The Big Bopper, Ritchie Valens, and Buddy Holly died in the plane crash. Their spirits are rarely spotted, but 3 orbs were caught on tape once, and it was in the same spot where the 3 rock stars died.
+location: Ghosts of the rock stars
+state: Iowa
+state_abbrev: IA
+city_longitude: -93.2010367
+city_latitude: 43.1535728
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

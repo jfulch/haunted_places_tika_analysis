@@ -1,0 +1,21 @@
+city: San Luis Obispo
+country: United States
+description: Adelaide Cemetery - Look for "Charlotte's Grave" and every Friday night (between 10-12 pm) there is a woman ghost who comes to lay flowers on her dead daughter's grave (Charlotte) She has been seen as a bright white light, & witnesses have seen a white human like figure near the gates to the cemetery. >
+location: Paso Robles
+state: California
+state_abbrev: CA
+longitude: -120.6545022
+latitude: 35.6368759
+city_longitude: -120.6596156
+city_latitude: 35.2827524
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

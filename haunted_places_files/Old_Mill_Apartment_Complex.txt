@@ -1,0 +1,21 @@
+city: Provo
+country: United States
+description: There have been sightings of a previous tenant who mysteriously died at 27 and was discovered in the pool shed. He has a football players' build, and always lurks around the girls' apartments.
+location: Old Mill Apartment Complex
+state: Utah
+state_abbrev: UT
+longitude: -111.6713358
+latitude: 40.2576641
+city_longitude: -111.6585337
+city_latitude: 40.2338438
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

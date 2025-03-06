@@ -1,0 +1,20 @@
+city: St. Paris
+country: United States
+description: This road used to be a trail through this farm, the guy who owned the land had hung himself. The government had made it a road. The guy never liked people on his property, so when you go down this road the guy will appear and hit the hood of your car or be standing in the middle of the road. At night his eyes are red but during the day they look like black holes. TX
+location: Lonesome Road
+state: Ohio
+state_abbrev: OH
+longitude: -83.9118216
+latitude: 40.1432928
+city_longitude: -83.9592771
+city_latitude: 40.1284776
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

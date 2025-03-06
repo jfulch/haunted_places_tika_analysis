@@ -1,0 +1,20 @@
+city: Belcourt
+country: United States
+description: It has been said that a long time ago a fire was at the school  and a couple of people had died there ,kids have said to have said to have seen a man dressed really old clothes holding his hat down and looking at the ground in a shocked sort of way, also people have said to have turned the lights off while going to the bath room and when they were done they found the lights back on and they never heard anything.
+location: Belcourt School
+state: North Dakota
+state_abbrev: ND
+longitude: -99.7858678
+latitude: 48.8069997
+city_longitude: -99.7448689
+city_latitude: 48.8391712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 17m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

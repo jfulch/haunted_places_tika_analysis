@@ -1,0 +1,20 @@
+city: McCormick
+country: United States
+description: This is a cemetery that is very old (several hundred years) it is the place of burial for French Heugonaut settlers. Old stone blocks surround the cemetery, and the gate was iron with the grim reaper on the front. There have been numerous sightings of a troll walking the perimeter. The gate is no longer on the entrance, due to theft. There have been many strange occurrences at the site by young and old alike.
+location: Badwell Cemetery
+state: South Carolina
+state_abbrev: SC
+longitude: -82.37836539999999
+latitude: 33.9264588
+city_longitude: -82.29345850000001
+city_latitude: 33.9134577
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

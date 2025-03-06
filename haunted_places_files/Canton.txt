@@ -1,0 +1,21 @@
+city: Cherokee County
+country: United States
+description: Hell Church - is a place located in the old part of Canton. There is a long narrow road going back into the woods that is very difficult to get down. You then come upon a church, out in the middle of nowhere, there is a very small (one room ) and white. Located directly across the road is a cemetery with graves dating back to the 18th century. Although there have been accounts of graves freshly dug. The story goes that back in the 80's a boy was found mutilated. Most say that it was a cult killing. But the church was shut down and the newspaper clipping of this horrible event still exists. The church has been re-opened but there are still accounts of hearing faint piano music coming from inside the church late at night.
+location: Canton
+state: Georgia
+state_abbrev: GA
+longitude: -84.4907621
+latitude: 34.2367621
+city_longitude: -84.4802606
+city_latitude: 34.2514526
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

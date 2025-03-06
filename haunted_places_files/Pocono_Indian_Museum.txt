@@ -1,0 +1,21 @@
+city: Bushkill
+country: United States
+description: A ghost named Eli has been known to close doors. move objects, and communicate by using objects in this museum.
+location: Pocono Indian Museum
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.0436548
+latitude: 41.0693845
+city_longitude: -75.0018401
+city_latitude: 41.09342900000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

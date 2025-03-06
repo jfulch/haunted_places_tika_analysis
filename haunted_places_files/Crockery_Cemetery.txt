@@ -1,0 +1,21 @@
+city: Nunica
+country: United States
+description: Hot spot for paranormal activity. Many orbs and aparitions are seen.
+location: Crockery Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -86.0915024
+latitude: 43.0769649
+city_longitude: -86.06693349999999
+city_latitude: 43.0798819
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1957/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

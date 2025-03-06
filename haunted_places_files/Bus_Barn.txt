@@ -1,0 +1,21 @@
+city: Sierra Vista
+country: United States
+description: When you go here at night between 7PM and 12AM, rocks and sand will mysteriously be thrown at you. You will also hear footsteps and screams, and see shadows.
+location: Bus Barn
+state: Arizona
+state_abbrev: AZ
+longitude: -110.2646286
+latitude: 31.5557585
+city_longitude: -110.2772856
+city_latitude: 31.5455001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

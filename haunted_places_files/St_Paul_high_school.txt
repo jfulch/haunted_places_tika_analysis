@@ -1,0 +1,21 @@
+city: Whittier
+country: United States
+description: The restroom in the 100 building is haunted. When you are in the restroom alone, sometimes either one faucet will turn on or all of them will turn on when there is nobody else in the restroom. And other times the doors to the stalls will open and close.
+location: St. Paul High School
+state: California
+state_abbrev: CA
+longitude: -118.053539
+latitude: 33.95116
+city_longitude: -118.032844
+city_latitude: 33.9791793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

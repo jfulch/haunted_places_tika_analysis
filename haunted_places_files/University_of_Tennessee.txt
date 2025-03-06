@@ -1,0 +1,21 @@
+city: Martin
+country: United States
+description: Martin Clement Hall - This is the oldest building on campus and is used as a dorm hall when needed. On the fourth floor a student killed herself and has since haunted the hall. The annual haunted house is held here, but not on the fourth floor. Students have reported strange happenings on the fourth floor, especially in the community bathroom.
+location: University of Tennessee
+state: Tennessee
+state_abbrev: TN
+longitude: -88.8644041
+latitude: 36.3419358
+city_longitude: -88.8503379
+city_latitude: 36.3433965
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1931/04/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

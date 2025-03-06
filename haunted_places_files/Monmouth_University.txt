@@ -1,0 +1,21 @@
+city: West Long Branch
+country: United States
+description: Library - The library which was once the summer cottage of Murry and Leonie Guggenheim is haunted by the ghost of a lady in white who walks down the staircase overnight at midnight. No one is allowed there past 11:30, they close it down (conveniently) before 12. Upstairs and all inside the house you have the feeling that you truly don't belong and someone wants you to leave.
+location: Monmouth University
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.0058114
+latitude: 40.2804557
+city_longitude: -74.0176381
+city_latitude: 40.2903891
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

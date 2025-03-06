@@ -1,0 +1,21 @@
+city: Bakersfield
+country: United States
+description: one of the city's landmark buildings is so haunted you can feel it the moment you walk thru the foyer doors. You should contact the owner for specific details. - March 2004 update: they might tear it down but as of now they are just remodeling to open up a new building there.
+location: The Padre Hotel
+state: California
+state_abbrev: CA
+longitude: -119.0216201
+latitude: 35.375551
+city_longitude: -119.0187125
+city_latitude: 35.3732921
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

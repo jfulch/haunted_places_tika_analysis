@@ -1,0 +1,19 @@
+city: Warwick
+country: United States
+description: Apparition of a man in Farmers clothing seen at 4:00 A.M. on the fifth floor. Children have been heard running on the fourth floor when there are no children in the inn. A couple of the rooms are also known to be haunted and cold spots have been felt, and unknown voices have been caught when using a tape recorder.
+location: Fairfield Marriot Inn
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.43445129999999
+latitude: 41.7543916
+city_longitude: -71.4161671
+city_latitude: 41.7001009
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1531/12/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

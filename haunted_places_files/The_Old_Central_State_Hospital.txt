@@ -1,0 +1,21 @@
+city: Indianapolis
+country: United States
+description: This was a major mental hospital located on the North side of West Washington Street for more than a hundred years until it was closed in the last decade. There are numerous reports of hauntings at this facility many from former staff. Although the facility if not open to the public, there is a medical history museum that on the site that can be toured.
+location: The Old Central State Hospital
+state: Indiana
+state_abbrev: IN
+longitude: -86.2132931
+latitude: 39.7698762
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.333333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

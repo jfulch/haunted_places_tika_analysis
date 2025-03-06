@@ -1,0 +1,21 @@
+city: Huachuca Military Reservation
+country: United States
+description: This school is said to be haunted by a girl named Linda Landy. Linda was walking home from softball practice one day, and she was hit by a car and killed. She attended Smith Middle School in the late 70's. If you look in the tinted windows of the library, you will be able to see her walking around sometimes.
+location: Fort Huachuca -Smith Middle School
+state: Arizona
+state_abbrev: AZ
+longitude: -110.344383
+latitude: 31.588448
+city_longitude: -110.3461518
+city_latitude: 31.5547087
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

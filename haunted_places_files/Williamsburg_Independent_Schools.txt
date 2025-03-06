@@ -1,0 +1,20 @@
+city: Williamsburg
+country: United States
+description: The school was built on an old cemetery, some of the graves still reside on the grounds by the playground and football field. There are many different stories. One of which states that an Native American chief will appear at one end of the elementary hallway, and ride his horse down to the end of the hallway and then disappear. The gymnasium seems to be the next most haunted part of the school; there are a lot of stories surrounding it. Lights turning on and off and basketballs bouncing on their own.
+location: Williamsburg Independent Schools
+state: Kentucky
+state_abbrev: KY
+longitude: -84.1686764
+latitude: 36.736059
+city_longitude: -84.15965609999999
+city_latitude: 36.7434169
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

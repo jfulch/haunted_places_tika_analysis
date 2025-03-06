@@ -1,0 +1,21 @@
+city: Michigan City
+country: United States
+description: When you go past the white house on 5o north off of U.S.421 sometimes you can hear moans and the house at times is not there. There was a guy who killed his family at this house there his family is said to be buried in the basement and that is the moans you can hear coming from the basement.The house is vacated be careful if you go inside different rooms in the house are colder than others.
+location: 50 North
+state: Indiana
+state_abbrev: IN
+longitude: -86.9084019
+latitude: 41.615159
+city_longitude: -86.8950297
+city_latitude: 41.70753939999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

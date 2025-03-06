@@ -1,0 +1,20 @@
+city: Moncks Corner
+country: United States
+description: It is said to be haunted by a young girl who was chained to a tombstone there by her father. - May 2008 Update: The police regularly patrol this area and you will be arrested for trespassing if you are caught inside of the churchyard, especially at night.
+location: Strawberry Chapel
+state: South Carolina
+state_abbrev: SC
+longitude: -79.9351179
+latitude: 33.093777
+city_longitude: -80.01313739999999
+city_latitude: 33.1960027
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

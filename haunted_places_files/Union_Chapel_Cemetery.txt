@@ -1,0 +1,21 @@
+city: Inkster
+country: United States
+description: Union Chapel is on Michigan Ave. just passed Inkster Rd. It sits up on a hill and is easy to miss if you don't know where it is. There is a grave marker of a little girl aged 9 years old by the name of Mary Jane Walker who died Jan. 6 1866. If you ask her she may allow her picture to be taken. I tried this and got one picture that shows a vortex.
+location: Union Chapel Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -83.3058286
+latitude: 42.2939689
+city_longitude: -83.30993029999999
+city_latitude: 42.2942045
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

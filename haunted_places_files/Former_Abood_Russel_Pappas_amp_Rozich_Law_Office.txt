@@ -1,0 +1,21 @@
+city: Johnstown
+country: United States
+description: Many reports of occurrences happened at the law office, such as doors slamming by themselves, alarms going of from the inside when only one person was in the building, and areas of "fog". There ahve been a few people who have witnessed a young lady dressed in blue. The restaurant that was there after the law office relocated because of these hauntings also reported radios shutting off by themselves. The building is on its 107th year.
+location: Former Abood, Russel, Pappas &amp; Rozich Law Office.
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.91599090000001
+latitude: 40.3176518
+city_longitude: -78.9219698
+city_latitude: 40.32674069999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

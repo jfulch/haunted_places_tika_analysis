@@ -1,0 +1,20 @@
+city: Wallingford
+country: United States
+description: This restaurant used to be an inn back in the 1800's. rumor has it that a man committed suicide in one of the rooms. after being changed into an eating establishment\ banquet hall, the staff has seen a ghost walking up and down the stairs after a late night, around 12:30 or 1, when all the guests have left. there is also a feeling of someone behind you as you walk up the stairs. the final piece of evidence is there is a picture of a white ghostly image in the brochure for the hall. no member of management can explain this.
+location: Yankee Silversmith Inn
+state: Connecticut
+state_abbrev: CT
+longitude: -72.8349685
+latitude: 41.4566574
+city_longitude: -72.8230736
+city_latitude: 41.4570108
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

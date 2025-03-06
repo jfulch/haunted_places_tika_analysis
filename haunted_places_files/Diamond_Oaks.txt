@@ -1,0 +1,21 @@
+city: Weatherford
+country: United States
+description: Late at night if you come around a curve in the road on Diamond Oaks Trail there will be big rocks laying in the middle of the street, then you will hear little kids laughing, and playing. This has been reported many times.
+location: Diamond Oaks
+state: Texas
+state_abbrev: TX
+longitude: -97.6978726
+latitude: 32.7452955
+city_longitude: -97.7972544
+city_latitude: 32.7592955
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

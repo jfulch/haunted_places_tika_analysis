@@ -1,0 +1,21 @@
+city: Crown Point
+country: United States
+description: An old jail in the town square where John Dillenger made his famous soap gun escape! There are MANY hauntings there. It was used up until the 1960's as a jail and since then you can see spirits, orbs and hear a dog barking, jail cell's slamming, people talking, etc.
+location: Old Lake County Jail
+state: Indiana
+state_abbrev: IN
+longitude: -87.363732
+latitude: 41.415627
+city_longitude: -87.3653135
+city_latitude: 41.4169806
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

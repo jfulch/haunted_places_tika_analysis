@@ -1,0 +1,21 @@
+city: St. Augustine
+country: United States
+description: several apparitions are seen on campus and in the dormitories. These sightings have been witnessed for years and most of the staff and children are not alarmed by the strange noises, smells and cold spots allover this beautiful school.
+location: the Florida school for the deaf and blind
+state: Florida
+state_abbrev: FL
+longitude: -81.3157871
+latitude: 29.9137497
+city_longitude: -81.31243409999999
+city_latitude: 29.9012437
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

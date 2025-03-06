@@ -1,0 +1,19 @@
+city: North Judson
+country: United States
+description: supposedly a couple was murdered here, and at midnight you can hear the lady screaming and a dog howling. The car that they supposedly drove still sits there, and the road has been shut down. Rumor is if you go out there alone, your car turns itself around and you can see car headlights coming at you
+location: Dogface Bridge
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.7758501
+city_latitude: 41.2150403
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

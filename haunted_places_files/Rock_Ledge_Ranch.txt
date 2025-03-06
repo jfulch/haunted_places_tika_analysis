@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: this was once a hospital for Tuberculosis patients in the 1800s. Lights turn on by themselves, footsteps can be heard in the upper levels. The antique rocking chair in the basement moves by itself.
+location: Rock Ledge Ranch
+state: Colorado
+state_abbrev: CO
+longitude: -104.8714123
+latitude: 38.8773489
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2018/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

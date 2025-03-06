@@ -1,0 +1,21 @@
+city: Houma
+country: United States
+description: It is said that the plantation owner rapped and killed slaves and you can see figures in the windows during the day and mostly at night.
+location: Southdown Plantation
+state: Louisiana
+state_abbrev: LA
+longitude: -90.74005
+latitude: 29.58822499999999
+city_longitude: -90.7195348
+city_latitude: 29.5957696
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1986/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

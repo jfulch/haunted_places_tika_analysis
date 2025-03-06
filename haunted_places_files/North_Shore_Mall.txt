@@ -1,0 +1,20 @@
+city: Peabody
+country: United States
+description: Outside of Macy's, there is a grave. If you go to the mall after hours, you will see several spirits between JC Penney and Macy's. (The mall is rumored to be built on a cemetery).
+location: North Shore Mall
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.944278
+latitude: 42.5407812
+city_longitude: -70.9286609
+city_latitude: 42.5278731
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1858/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Hastings
+country: United States
+description: A lady is said to have been murdered in the old hotel. She was killed in a bar fight. On many occasions she has been seen walking the halls of the third floor. There is a cleaning lady who refuses to clean on this floor because she gets weird feelings when she is there. The lady has never been seen anywhere else only in the hotel. There is also a story of a young girl who was playing hide and seek and locked herself in an old chest. No one found her in time before she suffocated to death. She is said to have been seen walking the halls of the same floor.
+location: Charlton Park
+state: Michigan
+state_abbrev: MI
+longitude: -85.21163709999999
+latitude: 42.616978
+city_longitude: -85.29084030000001
+city_latitude: 42.6458682
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

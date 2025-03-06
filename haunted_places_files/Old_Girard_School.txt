@@ -1,0 +1,21 @@
+city: Phenix City
+country: United States
+description: Girard School used to stand on the south end of Sandfort Road until it was demolished in 1994. Next to the graveyard, which butted to the school, cold spots during the summer and hot spots during the winter can be felt to observers. Also, several people reported seeing children attending class in 1930's attire during the late 1980's. Sometimes the school bell will ring during the middle of the night, but the old abandoned building has no power.
+location: "Old Girard" School
+state: Alabama
+state_abbrev: AL
+longitude: -85.0018228
+latitude: 32.4370537
+city_longitude: -85.0007653
+city_latitude: 32.4709761
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1994/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

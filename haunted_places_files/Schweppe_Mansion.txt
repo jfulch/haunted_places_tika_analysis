@@ -1,0 +1,21 @@
+city: Lake Forest
+country: United States
+description: was unoccupied for 50 years after the owner committed suicide, while mourning the death of his wife, Laura Schweppe. The ghost of the family's servant haunts the mansion's hallways and corridors, while the ghosts of the owners haunt the bedrooms. One of the windows of the master bedroom that never needed to be cleaned, while all the others collect dust over the years.
+location: Schweppe Mansion
+state: Illinois
+state_abbrev: IL
+longitude: -87.8409582
+latitude: 42.2537896
+city_longitude: -87.840625
+city_latitude: 42.2586342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/05/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

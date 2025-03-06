@@ -1,0 +1,21 @@
+city: Beverly
+country: United States
+description: there have been rumors that a dark, cold woman who once lived nearby slit her own throat on the street. There have been reports of her from some of the residents of Cavendish Sq...windows opening, faint voices, faces in the mirror, blue glow.
+location: Cavendish Square
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8592247
+latitude: 42.5574873
+city_longitude: -70.880049
+city_latitude: 42.5584283
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

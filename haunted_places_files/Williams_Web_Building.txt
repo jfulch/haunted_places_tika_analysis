@@ -1,0 +1,21 @@
+city: Kirkland
+country: United States
+description: Several Residents (upstairs) have seen a short man in a hat, reported footsteps, cold spots, minor moving objects, rapping. A pair of residents (sisters) reported being "sat upon" while sleeping, one resident reported whispers in her ear. Restaurant workers (below) have spotted a shadowy figure
+location: Williams / Web Building
+state: Washington
+state_abbrev: WA
+longitude: -122.198108
+latitude: 47.665795
+city_longitude: -122.2059833
+city_latitude: 47.6768927
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

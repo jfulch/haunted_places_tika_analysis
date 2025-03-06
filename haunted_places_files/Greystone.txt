@@ -1,0 +1,20 @@
+city: North Branford
+country: United States
+description: It can be very ugly here. A man walks with his cane dripping with blood. Screams of young ones screeching in the night. Very dark and cold out here.
+location: Greystone
+state: Connecticut
+state_abbrev: CT
+longitude: -72.7511841
+latitude: 41.3561496
+city_longitude: -72.7673198
+city_latitude: 41.3275971
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Chanhassen
+country: United States
+description: Downtown - not known who its haunted by. but on any giving night strange noises can be heard, and a ghostly figure can be seen dancing around it and on top of it.
+location: Water Tower
+state: Minnesota
+state_abbrev: MN
+longitude: -93.5941963
+latitude: 44.85913
+city_longitude: -93.5323103
+city_latitude: 44.86196450000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

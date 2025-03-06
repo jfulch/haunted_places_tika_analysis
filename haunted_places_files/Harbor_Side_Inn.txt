@@ -1,0 +1,19 @@
+city: Block Island
+country: United States
+description: Woman dressed in 19th century black dress on 3rd floor seen entering room 302. Desk clerks have reported a sensation on being grabbed around the waist from behind, as if someone were trying to move them out of the way.
+location: Harbor Side Inn
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.5586793
+latitude: 41.1730124
+city_longitude: -71.5842643
+city_latitude: 41.1616556
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

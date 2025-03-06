@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: Occasionally on early morning rain storms, the spirit of Pere Dagobert can be heard singing the "Kyrie". The voice travels from St. Lois Cathedral to St. Louis Cemetery #1. The procession was from a funeral mass He conducted in 1769 for a group of townspeople who led a rebellion against the Spanish occupation. They were executed for insurrection against the crown and their bodies were left to rot in Jackson Square as an example. Pere held a mass for them and had them buried to the delight of the townspeople.
+location: St. Louis Cathedral
+state: Louisiana
+state_abbrev: LA
+longitude: -90.06372809999999
+latitude: 29.9579735
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1769/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

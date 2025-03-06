@@ -1,0 +1,21 @@
+city: Muskogee
+country: United States
+description: Once an old tea room, 219 e. side boulevard is haunted by many ghosts when you put your head under the water when you are taking a bath you an hear music from the early 50's and when you come down the stairs you feel cold air come down your back. and late at night the ghost of a man who died there will sit on the end of your bed and you can see red eyes when all the lights are off in the bathroom and you can see a big black shadow in the ceiling when all the lights are off and only the window light is all you can see the house since then has been blessed and has been auctioned off but when you drive by late at night you can hear two men talking like they are in your car.
+location: East Side Boulevard
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.3557479
+latitude: 35.751719
+city_longitude: -95.3696909
+city_latitude: 35.7478769
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Damascus
+country: United States
+description: The Old Pioneer Cemetary in Damascus, Oregon is crawling with eerie ghost activity. Many strange sounds as well as shadows can be seen and heard whenever visited. Talk to anyone who has ever taken pictures there and they will all say that their film had at least a few extra visitors floating around in it.
+location: Old Pioneer Cemetery
+state: Oregon
+state_abbrev: OR
+longitude: -122.5754002
+latitude: 45.4241438
+city_longitude: -122.4589783
+city_latitude: 45.4176209
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1676/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

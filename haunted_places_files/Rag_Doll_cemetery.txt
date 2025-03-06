@@ -1,0 +1,19 @@
+city: Mattoon
+country: United States
+description: Rag Doll cemetery is not behind the airport.it is east off of route 45 south (between Mattoon and Neoga)there are several back to back cemeteries in this location.
+location: Rag Doll cemetery
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.37282549999999
+city_latitude: 39.48308970000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Gilmer
+country: United States
+description: At different locations fog will rise up on the road. Thick enough that you have to slow down. Barely seen though the thick fog a woman and several small children have been seen crossing the road.
+location: Cherokee Trace
+state: Texas
+state_abbrev: TX
+longitude: -94.9893772
+latitude: 32.7837122
+city_longitude: -94.94243790000002
+city_latitude: 32.7287472
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

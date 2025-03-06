@@ -1,0 +1,21 @@
+city: Greencastle
+country: United States
+description: It is said that sometime in the early 1920's a little girl would swim in the stream, which the bridge crosses. At the end of the day her parent would drive into the covered bridge, turn off the motor, and honk three times telling the little girl it was time to leave. One day the something had happened to the little girl causing her to drown. They say that if at night you drive into the bridge, turn off the motor, and honk three times that the little girl will come and get in the car with you.
+location: Edna Collings Bridge
+state: Indiana
+state_abbrev: IN
+longitude: -86.9763
+latitude: 39.7274091
+city_longitude: -86.8647316
+city_latitude: 39.6444898
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

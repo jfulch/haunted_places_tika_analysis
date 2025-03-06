@@ -1,0 +1,19 @@
+city: Wilmington
+country: United States
+description: the ghost of a conductor named Joe Baldwin is said to haunt the Old Maco Station after getting run over by a train on the night of 1867. People say very time at night a train pulls in Maco Station you can see a figure of a man with a lantern in his hand swing it to make the train stop.
+location: Old Maco Station
+state: North Carolina
+state_abbrev: NC
+city_longitude: -77.9447102
+city_latitude: 34.2257255
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1938/11/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

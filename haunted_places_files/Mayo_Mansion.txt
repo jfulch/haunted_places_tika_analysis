@@ -1,0 +1,21 @@
+city: Paintsville
+country: United States
+description: Mr. Mayo has been seen in his era clothing and hat on the sidewalk watching people drive by. a tunnel leading from the house under ground to the church has long been filled however you get a eerie felling standing near the site of the tunnel.
+location: Mayo Mansion
+state: Kentucky
+state_abbrev: KY
+longitude: -82.8071928
+latitude: 37.8160845
+city_longitude: -82.8071054
+city_latitude: 37.8145384
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Dartmouth
+country: United States
+description: After the Park closed in 1986, it lay abandoned. Strange sounds, such as carnival-type music could be heard. The Park has been the site of many deaths over its 100-year history, including a worker who fell off the roller coaster in the mid 80's. Most buildings have since burned down.
+location: Lincoln Park
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0384249
+latitude: 41.6387356
+city_longitude: -70.9704787
+city_latitude: 41.6130323
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1986/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 0

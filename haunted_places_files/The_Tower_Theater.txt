@@ -1,0 +1,20 @@
+city: Merced
+country: United States
+description: The Tower Theater is said to be haunted by the ghost of a young women said to have killed herself by jumping off the tower peak after being notified that her fiancé had been killed in the war. People have said they have seen the women in the theater asking if they have seen "Johnny".
+location: The Tower Theater
+state: California
+state_abbrev: CA
+longitude: -120.480459
+latitude: 37.3005188
+city_longitude: -120.4829677
+city_latitude: 37.3021632
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1927/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

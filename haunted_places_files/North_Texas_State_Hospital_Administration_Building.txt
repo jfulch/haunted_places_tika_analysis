@@ -1,0 +1,21 @@
+city: Wichita Falls
+country: United States
+description: Old building, built in the 1920's. Used to house the insane, with many deaths occurring prior to it being turned into offices. Lights can be seen going off and on. On quiet evenings, can hear moans and wails coming from the third floor. Security reports occasionally hearing chains rattling and doors opening and closing. Employees see vague shapes at the ends of the hallways at dinnertime.
+location: North Texas State Hospital -Administration Building
+state: Texas
+state_abbrev: TX
+longitude: -98.5266171
+latitude: 33.8418279
+city_longitude: -98.4933873
+city_latitude: 33.9137085
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

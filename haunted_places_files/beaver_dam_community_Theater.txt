@@ -1,0 +1,21 @@
+city: Beaver Dam
+country: United States
+description: one night in the Theater a young girl was trying out for a play and did not make it she got really mad and went up to the loft of the Theater and made a nuse and hung herself.this young girls name is lacy.so somtimes when people have gone up there they have said that light goes out and footsteps have been herd running up the stairs and crying.
+location: beaver dam community Theater
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.836625
+latitude: 43.4582279
+city_longitude: -88.837329
+city_latitude: 43.4577692
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.983333333333333
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

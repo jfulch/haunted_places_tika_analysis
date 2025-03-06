@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: ComedySportz is haunted by an unknown female entity. When the building is nearly empty, employees and performers have heard a woman talking or laughing-sometimes quite loudly- in the back room where costumes and equipment is stored. The ladies room toilet has also had problems and flushed endlessly with no explanation. Employees have also seen lights in parts of the building, only to go back to turn them off and discover that no lights were on.
+location: ComedySportz
+state: Oregon
+state_abbrev: OR
+longitude: -122.6918729
+latitude: 45.529325
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 20m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

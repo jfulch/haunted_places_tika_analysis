@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: Just at the top of the hill and the road that leads down to Hanauma Bay, reports of "fireballs" have been seen. It is said that if you are driving pass this entrance back to town (heading west and not around the curve along the eastern coast line) that on some nights "fireballs" will shoot overhead in the same direction that you are driving. People who hear about this or know about it are warned not to look back in the direction the fireballs came from, which is Hanauma Bay and Kokohead- you will get into an accident if you do.
+location: Hanauma Bay/Kokohead
+state: Hawaii
+state_abbrev: HI
+longitude: -157.6960011
+latitude: 21.2775782
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1956/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

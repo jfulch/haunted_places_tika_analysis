@@ -1,0 +1,21 @@
+city: Vilonia
+country: United States
+description: During any time of a school day, you can peek through the basement window or doors at the base of the annex, and see the ghosts of special education kids in the dark, moaning and screaming as if they were being given licks from the paddle of a teacher.
+location: Vilonia School Annex Basement
+state: Arkansas
+state_abbrev: AR
+longitude: -92.2009538
+latitude: 35.08338550000001
+city_longitude: -92.2079277
+city_latitude: 35.083975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

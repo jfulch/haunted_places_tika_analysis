@@ -1,0 +1,21 @@
+city: Newark valley
+country: United States
+description: there had been reports of the elevator stopping all by itself and weird sounds. It is rumored that the school is built over and old Native American burial sight.
+location: Newark valley middle school
+state: New York
+state_abbrev: NY
+longitude: -76.1854106
+latitude: 42.23180139999999
+city_longitude: -76.183263
+city_latitude: 42.2236853
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

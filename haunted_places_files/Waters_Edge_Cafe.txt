@@ -1,0 +1,20 @@
+city: Morristown
+country: United States
+description: a heavyset male ghost can be seen on the staircase here.
+location: Water's Edge Cafe
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.4832371
+latitude: 40.7974921
+city_longitude: -74.4815438
+city_latitude: 40.79676670000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

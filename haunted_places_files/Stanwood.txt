@@ -1,0 +1,21 @@
+city: Marysville
+country: United States
+description: This road is many miles long and ends up a dead end. There is a hill to drive up at the beginning. People see somebody running up this hill keeping pace with there cars, looking in their windows as they are going up a steep hill. (35 to 40 mph). They also see Indians standing on the side of the road and look in the rearview mirror after they have passed and see no one. This road is on an Indian reservation (Tulalip). Some say they have seen people sitting in their backseat in the rearview mirror and turn to look and no one is there.
+location: Stanwood
+state: Washington
+state_abbrev: WA
+longitude: -122.3116155
+latitude: 48.2600475
+city_longitude: -122.1770818
+city_latitude: 48.0517637
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

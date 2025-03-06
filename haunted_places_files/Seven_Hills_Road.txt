@@ -1,0 +1,21 @@
+city: Ellicott City
+country: United States
+description: College Road - right off main street, has seven hills. supposedly, if you hit the seventh hill at midnight, you will be chased by a demon car that appears out of nowhere.
+location: Seven Hills Road
+state: Maryland
+state_abbrev: MD
+longitude: -76.8324141
+latitude: 39.2431756
+city_longitude: -76.7983067
+city_latitude: 39.2673283
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.5
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

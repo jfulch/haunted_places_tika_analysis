@@ -1,0 +1,21 @@
+city: Marion
+country: United States
+description: It has been said that the white figure of a young woman can be scene sitting in front of a window at midnight.
+location: Granger House
+state: Iowa
+state_abbrev: IA
+longitude: -91.5996702
+latitude: 42.0359468
+city_longitude: -91.5968958
+city_latitude: 42.033279
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

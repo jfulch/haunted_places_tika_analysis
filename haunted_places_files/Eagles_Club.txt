@@ -1,0 +1,21 @@
+city: Hallie
+country: United States
+description: In 1985 there was a wedding reception and a 65 year old woman had a heart attack and died. "BETH" has been said to haunt every wedding reception after her death.
+location: Eagles Club
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.4293129
+latitude: 44.88071859999999
+city_longitude: -91.3758649
+city_latitude: 44.8703479
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1985/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.7
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

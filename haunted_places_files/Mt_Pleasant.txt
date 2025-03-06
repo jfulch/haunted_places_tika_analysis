@@ -1,0 +1,21 @@
+city: Cabarrus County
+country: United States
+description: Cline School- On Cline School Road very late at night, 3a.m or so, you can see a man walking down the road on your right side, regardless of which way you are going. If you get out he'll dissapear.
+location: Mt. Pleasant
+state: North Carolina
+state_abbrev: NC
+longitude: -80.4358963
+latitude: 35.399308
+city_longitude: -80.5882803
+city_latitude: 35.4168123
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

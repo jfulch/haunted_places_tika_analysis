@@ -1,0 +1,21 @@
+city: Cedar Hill
+country: United States
+description: There is a hill that on some nights, you can see a lit up cabin, when you try to drive to it you cannot find it anywhere. In the late 1800's there was a witch that lived there and it is said that her ghost is still there trying to attract people so she won't have to be lonely.
+location: Witch Mountain
+state: Texas
+state_abbrev: TX
+longitude: -96.975224
+latitude: 32.6155205
+city_longitude: -96.9561152
+city_latitude: 32.5884689
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

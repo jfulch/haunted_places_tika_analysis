@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: a number of ghosts have been seen here including Thomas Jefferson.
+location: Baleroy
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.19958
+latitude: 40.06592
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1743/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

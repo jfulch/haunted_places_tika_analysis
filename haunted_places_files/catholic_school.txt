@@ -1,0 +1,20 @@
+city: Walsenburg
+country: United States
+description: half of the building was burned, and at one time the school was run by nuns. When you’re by yourself you can hear the baby cry. And in the 50s a girl died in the car accident, on the way to school, she still walks back and forth, up and down the hall.
+location: catholic school
+state: Colorado
+state_abbrev: CO
+longitude: -104.7793053
+latitude: 37.6227756
+city_longitude: -104.7802645
+city_latitude: 37.6241793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/04/02
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

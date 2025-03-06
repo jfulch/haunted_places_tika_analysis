@@ -1,0 +1,20 @@
+city: Nevada
+country: United States
+description: is haunted by 2 ghosts: (1) Vera: a student from long ago that was making candy in Rosemary Hall when her nightgown caught fire, and resulted in burning down the hall. Now she haunts the entire college, comforting some girls and tricking others (2) a man in black (or a black man) that haunts the college from slavery days, as the story goes, possibly looking for Vera.
+location: Cottey College
+state: Missouri
+state_abbrev: MO
+longitude: -94.370981
+latitude: 37.837377
+city_longitude: -94.3546719
+city_latitude: 37.83920519999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1989/11/18
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

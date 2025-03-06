@@ -1,0 +1,21 @@
+city: North Richland Hills
+country: United States
+description: People have reported seeing dark figures moving through the trees late at night at the top of the hill. Residents also report shouts and hollers early in the morning before dawn. It is reported that a local outlaw Known as Sam Bass took two men up to the top of the hill in 1870 and shot both of them in the head. Some residence have reported over the years of seeing men with old cowboy hats walking around by their fences, but when they go out to investigate no one is there.
+location: Knob Hill
+state: Texas
+state_abbrev: TX
+longitude: -97.1872877
+latitude: 32.8713536
+city_longitude: -97.2289029
+city_latitude: 32.8342952
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1870/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

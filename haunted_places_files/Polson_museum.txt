@@ -1,0 +1,21 @@
+city: Hoquiam
+country: United States
+description: a story of a lady in white that is in this place and a ghost of a child in the nursery area.
+location: Polson museum
+state: Washington
+state_abbrev: WA
+longitude: -123.8796645
+latitude: 46.9786368
+city_longitude: -123.8893348
+city_latitude: 46.9809247
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

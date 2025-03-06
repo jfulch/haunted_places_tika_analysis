@@ -1,0 +1,21 @@
+city: Westland
+country: United States
+description: At night you can see the ghosts of two boys playing basketball... it is said that approximately 12 years ago the two boys were playing basketball when one of the boys named JEREMY suddenly fell to the ground and had a heart attack. His twin brother GERARD scared of what his parents would do to him took his own life by hanging himself in the hoop... it is said that if you look at the south hoop at night you will hear screams for help and see a dangling boy.
+location: Corrado Park
+state: Michigan
+state_abbrev: MI
+longitude: -83.34286949999999
+latitude: 42.3524646
+city_longitude: -83.400211
+city_latitude: 42.32420399999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1772/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

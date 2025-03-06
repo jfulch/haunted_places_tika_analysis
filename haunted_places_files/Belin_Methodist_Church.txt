@@ -1,0 +1,20 @@
+city: Georgetown
+country: United States
+description: from the porch you can see ghost ships that sunk years ago.
+location: Belin Methodist Church
+state: South Carolina
+state_abbrev: SC
+longitude: -79.0352741
+latitude: 33.5552421
+city_longitude: -79.2944964
+city_latitude: 33.376834
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

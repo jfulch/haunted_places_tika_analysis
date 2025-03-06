@@ -1,0 +1,19 @@
+city: Moreno Valley
+country: United States
+description: if you put your car in neutral on 'Priest Hill' the priest who had broke down on the road, he will push your car up the hill, with your foot not on the pedal. if you put flour on the back of your car, you will see the handprints.
+location: Priest Hill
+state: California
+state_abbrev: CA
+city_longitude: -117.2296717
+city_latitude: 33.9424658
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1952/01/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

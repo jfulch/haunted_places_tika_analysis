@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: 201 Bruce Hall -  a dorm on the University Pittsburgh Campus is also supposed to be haunted. -  November 2003 update: the story on the sight said that room 201 was haunted..it was actually found that the 12th floor of bruce hall was haunted..it was the former sight of the schenley hotel..and story has it that the wife and mistress of the owner committed suicide on the 12th floor. the 12th floor is no longer used for housing purposes and is simply office space. Odd happenings have been reported. At times the elevator in Bruce Hall will take you to the 12th floor no matter what floor # you press..sometimes it wont let you go back down for a few minutes.
+location: University Pittsburgh
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.960835
+latitude: 40.4443533
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1949/10/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

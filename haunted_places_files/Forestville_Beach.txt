@@ -1,0 +1,21 @@
+city: Forestville
+country: United States
+description: One night a young teenager was driving his truck down to the beach. The road to the beach had a steep hill downwards towards the water. He was going to fast and couldn't stop in time so he plummeted in the water. The weight of his truck dragged him under to fast to escape so he drowned. Every summer night if you go to the beach you can hear his scream then a giant splash at around 11:30 pm
+location: Forestville Beach
+state: Michigan
+state_abbrev: MI
+longitude: -82.72920649999999
+latitude: 43.6723607
+city_longitude: -82.6093707
+city_latitude: 43.6619638
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

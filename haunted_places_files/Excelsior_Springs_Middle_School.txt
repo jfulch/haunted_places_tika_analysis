@@ -1,0 +1,20 @@
+city: Excelsior Springs
+country: United States
+description: Last school year a boy named Donny passed away from carbon monoxide poisoning and had his funeral in the gym if you walk in to the gym at 2:30 You will see him playing his Guitar
+location: Excelsior Springs Middle School
+state: Missouri
+state_abbrev: MO
+longitude: -94.2503996
+latitude: 39.3486207
+city_longitude: -94.2260559
+city_latitude: 39.3391712
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

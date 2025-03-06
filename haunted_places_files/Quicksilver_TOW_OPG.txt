@@ -1,0 +1,21 @@
+city: West Los Angeles
+country: United States
+description: Many fatal accidents reported in this area. Reports of eerie feelings, cold spots, sightings of children and handprints on cars, accompanied by the inside lights of the vehicle turning on.
+location: Quicksilver TOW-O.P.G.
+state: California
+state_abbrev: CA
+longitude: -118.4420161
+latitude: 34.0424111
+city_longitude: -118.442596
+city_latitude: 34.0412085
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

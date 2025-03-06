@@ -1,0 +1,20 @@
+city: Edgewater
+country: United States
+description: There have been sightings of the ghost of the Leni Lenapi Indians walking on the old river road... there is also an ancient burial ground on this road...it's a preserved cemetery from the 1400's of the old Leni Lenapi
+location: Old River Road
+state: New Jersey
+state_abbrev: NJ
+longitude: -73.9894082
+latitude: 40.8103282
+city_longitude: -73.97569399999999
+city_latitude: 40.8270448
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

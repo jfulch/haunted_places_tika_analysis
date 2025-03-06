@@ -1,0 +1,21 @@
+city: Washington
+country: United States
+description: Tilly Willy Bridge - In a secluded area down an old dirt road, a woman and her children ran off a narrow concrete bridge, down to their deaths, reportedly in the 1970's. Since then, their ghosts are spotted crossing the bridge in a phantom car. The woman is also seen in a white dress, twirling in the nearby fields late at night. There are also sightings of a green, goblin-like creature.
+location: Fayetteville
+state: Arkansas
+state_abbrev: AR
+longitude: -94.1718542
+latitude: 36.082156
+city_longitude: -93.6826796
+city_latitude: 33.774005
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

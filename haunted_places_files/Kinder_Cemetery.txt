@@ -1,0 +1,21 @@
+city: St. Helens
+country: United States
+description: an old cemetery located on the north side of highway 30, in the northwestern most corner of the cemetery there is the spirit of an old man name George, when he is angry, you actually can feel the temperature drop dramatically. George has also been known to push and slap when extremely irritated.
+location: Kinder Cemetery
+state: Oregon
+state_abbrev: OR
+longitude: -122.8254654
+latitude: 45.91365870000001
+city_longitude: -122.8158185
+city_latitude: 45.8590111
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

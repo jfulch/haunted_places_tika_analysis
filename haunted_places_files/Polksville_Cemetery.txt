@@ -1,0 +1,21 @@
+city: Salt Lick
+country: United States
+description: A cemetery where many of the graves date back to the late 1800's. A glowing has been spotted by many of the areas residents.
+location: Polksville Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -83.6679549
+latitude: 38.1176683
+city_longitude: -83.6146346
+city_latitude: 38.1200809
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1975/03/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

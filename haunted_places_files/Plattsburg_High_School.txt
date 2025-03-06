@@ -1,0 +1,20 @@
+city: Plattsburg
+country: United States
+description: The spirit of former star athlete haunts this high school. On random nights, people in the building have heard basketballs bouncing in the gym when no one is there. There are also reports of strange whisperings, eerie lights, and other strange occurrences.
+location: Plattsburg High School
+state: Missouri
+state_abbrev: MO
+longitude: -94.455546
+latitude: 39.5614475
+city_longitude: -94.4480059
+city_latitude: 39.5655549
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

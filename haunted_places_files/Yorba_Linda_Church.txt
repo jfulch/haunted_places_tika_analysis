@@ -1,0 +1,21 @@
+city: Yorba Linda
+country: United States
+description: Security personnel have reported feelings of being watched and followed during lock up procedures. EVP has been recorded in all buildings as well as outside. EVP includes the number seventeen when asked how many there were, and when asked what their names were "Kenny", "David", and "Jeremy" can be heard on tape. When a cold chill was felt near a closet, the question where are you was asked. "Hidden inside" was the answer.
+location: Yorba Linda Church
+state: California
+state_abbrev: CA
+longitude: -117.818758
+latitude: 33.896276
+city_longitude: -117.8132571
+city_latitude: 33.88850350000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

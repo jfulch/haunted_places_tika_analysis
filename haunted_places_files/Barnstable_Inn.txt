@@ -1,0 +1,21 @@
+city: Cape Cod
+country: United States
+description: Drinks get knocked over by an unseen force and doors slam.
+location: Barnstable Inn
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.3156609
+latitude: 41.7040107
+city_longitude: -70.29624079999999
+city_latitude: 41.6687897
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

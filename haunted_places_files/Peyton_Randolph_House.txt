@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: Many ghost sightings over 20 stories associated with this old mansion.
+location: Peyton Randolph House
+state: Virginia
+state_abbrev: VA
+longitude: -76.6998658
+latitude: 37.2726516
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

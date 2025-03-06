@@ -1,0 +1,20 @@
+city: Owensboro
+country: United States
+description: A girl who was accused of witchcraft in the 18th century was burned at the stake in the woods. If you up there at night you can see her ghost walking and the light of the torches of the people who came to burn her.
+location: Ben Hawes State Park
+state: Kentucky
+state_abbrev: KY
+longitude: -87.1834378
+latitude: 37.7952399
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1926/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

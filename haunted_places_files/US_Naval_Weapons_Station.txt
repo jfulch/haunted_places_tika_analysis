@@ -1,0 +1,21 @@
+city: Seal Beach
+country: United States
+description: The phenomenon occurring at the WPNS Station covers a variety of ghostly manifestations such as apparitions, knocking, footsteps, horrible ghostly moaning, laughter, animal spirits, water devas, and even poltergeist antics.
+location: US Naval Weapons Station
+state: California
+state_abbrev: CA
+longitude: -118.0889289
+latitude: 33.7496524
+city_longitude: -118.1047682
+city_latitude: 33.7414085
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

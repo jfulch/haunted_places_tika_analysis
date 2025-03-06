@@ -1,0 +1,21 @@
+city: Mount Angel
+country: United States
+description: Passed residents walking up and down the halls, standing in their old rooms, or sitting on their old bed. There's a story that a nun walks the halls at night, but some have never seen her. Feeling taps on your shoulder and hearing "can you help me?" Only to turn around to find that no one is there.
+location: Providence Benedictine Nursing Center
+state: Oregon
+state_abbrev: OR
+longitude: -122.8009362
+latitude: 45.0647087
+city_longitude: -122.8000917
+city_latitude: 45.0678986
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

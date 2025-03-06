@@ -1,0 +1,21 @@
+city: Corsicana
+country: United States
+description: Stairs and District Clerk's Office late night users of the law library or persons in the Courthouse have heard footsteps descending from the third and second floors. Rumored to be the ghost of the old District Clerk who was shot by the County Sheriff after a political dispute on the Court House steps.
+location: Navarro County Courthouse
+state: Texas
+state_abbrev: TX
+longitude: -96.4685188
+latitude: 32.0953512
+city_longitude: -96.4688727
+city_latitude: 32.0954304
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1569/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

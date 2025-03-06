@@ -1,0 +1,21 @@
+city: Valley City
+country: United States
+description: A teacher who fell from the roof and died has been sighted floating through the halls at night. Some say she keeps raving "how sweet is it that it's Friday that's so sweet!!!"
+location: Valley City High School
+state: North Dakota
+state_abbrev: ND
+longitude: -98.0039381
+latitude: 46.9270331
+city_longitude: -98.0031547
+city_latitude: 46.9233129
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

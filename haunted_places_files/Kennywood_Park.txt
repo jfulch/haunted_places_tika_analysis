@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: This isn't so much a report of a haunting as it is the clearing up of a false report. The report of the Steel Phantom ghost is completely inaccurate and just not possible as the Steel Phantom was built in the early 1990's, whereas Kennywood was built in 1898. This makes the stories time line false. I have personally never seen a news story involving any death with the building of the Steel Phantom.
+location: Kennywood Park
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.8642859
+latitude: 40.3878537
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1898/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

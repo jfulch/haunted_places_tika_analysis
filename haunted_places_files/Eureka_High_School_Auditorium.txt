@@ -1,0 +1,21 @@
+city: Eureka
+country: United States
+description: stories have been told of a two restless ghosts that wander the auditorium. The first is of a man who fell from the balcony during the buildings construction during the 20's and was decapitated. The second is of a young girl, who after losing the leading role in the school play of 1954, hung herself in the lighting booth in full view of the actress on stage. The actress took no notice of the wide eyed corpse in the balcony, and continued the show.
+location: Eureka High School Auditorium
+state: California
+state_abbrev: CA
+longitude: -124.1588747
+latitude: 40.7903788
+city_longitude: -124.1636729
+city_latitude: 40.8020712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

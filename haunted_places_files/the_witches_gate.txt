@@ -1,0 +1,19 @@
+city: Wichita falls
+country: United States
+description: in the 1950s there was a family that lived in a mansion and three men broke in and stole the jewelry and caught the house on fire but the father stopped the men and they all burned. About ten years ago some reporters went out there and they never came back.
+location: the witches gate
+state: Texas
+state_abbrev: TX
+city_longitude: -98.4933873
+city_latitude: 33.9137085
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

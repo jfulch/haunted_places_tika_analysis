@@ -1,0 +1,21 @@
+city: Lake Orion
+country: United States
+description: June 2008 Removed. No trespassing, if you are caught trespassing you will have charges brought against you.
+location: Scripps Road
+state: Michigan
+state_abbrev: MI
+longitude: -83.23920280000002
+latitude: 42.75223159999999
+city_longitude: -83.2396612
+city_latitude: 42.7844752
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Bellefontaine
+country: United States
+description: The fort hauntings have raised many questions over the years. People have claimed to see, hear, and feel things constantly. The most eerie of all of the hauntings though is at the staircase. The staircase is an old WPA project consisting of about 5 tiers. Most pictures taken of the staircase reveal a dark red smoke near the first or second stairs when you shoot from the ground up. This experiment has been done many times by many different cameras and ALWAYS this red light shows up in many different places near the first or second tier of steps.
+location: Fort Belle
+state: Missouri
+state_abbrev: MO
+longitude: -90.2175341
+latitude: 38.821295
+city_longitude: -90.2265001
+city_latitude: 38.7403281
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

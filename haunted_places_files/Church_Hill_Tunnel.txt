@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: In 1925 The church Hill Train tunnel was being reopened after being closed do to deaths in 1877. They needed more traffic area for trains the C&O train #231 and several cars was near the entrance of the tunnel when it collapsed killing everyone they tried to dig them out but only reached the conductor dead at the switch. Most nights around the first part of October and some other nights you can hear the train real faintly trying to get out the tunnel. Witnesses report seeing a man trying to get in the tunnel to reach his train to save the trapped workers and you can still hear them screaming.
+location: Church Hill Tunnel
+state: Virginia
+state_abbrev: VA
+longitude: -77.4232397
+latitude: 37.5361788
+city_longitude: -77.4360481
+city_latitude: 37.5407246
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1925/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

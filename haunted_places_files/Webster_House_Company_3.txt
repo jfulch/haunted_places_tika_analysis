@@ -1,0 +1,20 @@
+city: Ansonia
+country: United States
+description: Strange sounds have been heard. Feelings of not being alone. A grandfather clock that dates back many years will start to chime every 15 minutes. Chains being dragged across an upstairs floor, as well as voices, coughing and laughter have all been heard by witnesses that where alone in the building.
+location: Webster House Company #3
+state: Connecticut
+state_abbrev: CT
+longitude: -87.6368648
+latitude: 41.9217786
+city_longitude: -73.07899689999999
+city_latitude: 41.34620779999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

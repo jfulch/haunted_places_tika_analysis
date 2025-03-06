@@ -1,0 +1,21 @@
+city: Sanger
+country: United States
+description: In the mid 1900s a young orphan boy was caught trying to steal a pie cooling on the window sill of a farmers house. When the boy took off with the pie the farmer chased the boy to a developing street called "Acacia" The boy was shot and killed while begging for his life on the future site of 87 Acacia. People who have taken occupancy in this house have reported a young boy begging for his life in the hallway, and missing food.
+location: Acacia St.
+state: California
+state_abbrev: CA
+longitude: -119.5644268
+latitude: 36.7202966
+city_longitude: -119.5559652
+city_latitude: 36.708006
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1773/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

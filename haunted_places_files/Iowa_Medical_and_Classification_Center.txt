@@ -1,0 +1,21 @@
+city: Oakdale
+country: United States
+description: At night on certain units, especially segregation, you can sometimes see the shadowy figure of a man walking along the cells. You can only see the head and shoulders. Eerie feelings and cold sensations are also very common. More than a few guards and inmates have reported experiencing this.
+location: Iowa Medical and Classification Center
+state: Iowa
+state_abbrev: IA
+longitude: -91.6111278
+latitude: 41.71329739999999
+city_longitude: -91.6011369
+city_latitude: 41.70878099999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

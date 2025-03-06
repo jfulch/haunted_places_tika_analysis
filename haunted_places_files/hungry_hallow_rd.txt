@@ -1,0 +1,21 @@
+city: Danville
+country: United States
+description: the road is haunted by little kids that has starved to death durring the great depression times. it is really freaky you can go to the road and sit on this road and hear kids say, food, or say please food please. the kids that starved there lived in little shaqs. they got snowed in where they or thier parents could not get to town for a while so they starved.
+location: hungry hallow rd.
+state: Illinois
+state_abbrev: IL
+longitude: -87.6755836
+latitude: 40.1410459
+city_longitude: -87.6300207
+city_latitude: 40.124481
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

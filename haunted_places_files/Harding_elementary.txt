@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: in the 1960's a janitor was fixing the boys bathroom light and got shocked by faulty wiring he then fell and cracked his head open and died. it is said when your in the bathroom alone you hear screams and the lights flicker.
+location: Harding elementary
+state: Michigan
+state_abbrev: MI
+longitude: -83.01792619999999
+latitude: 42.4674066
+city_longitude: -83.01465259999999
+city_latitude: 42.5144566
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1931/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Tehachapi
+country: United States
+description: Janitors report feelings of being watched, and hearing footsteps Late at night, especially near a small memorial.
+location: Wells Elementary School
+state: California
+state_abbrev: CA
+longitude: -118.4460158
+latitude: 35.1289455
+city_longitude: -118.4489739
+city_latitude: 35.1321877
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

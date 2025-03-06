@@ -1,0 +1,21 @@
+city: Crystal Lake
+country: United States
+description: There is a stream behind the park that has some odd activity around it. Strange shadows have been seen there and a ball of light.
+location: Park in Covered Bridge Trails
+state: Illinois
+state_abbrev: IL
+longitude: -88.31886639999999
+latitude: 42.25207109999999
+city_longitude: -88.31619649999999
+city_latitude: 42.2411344
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

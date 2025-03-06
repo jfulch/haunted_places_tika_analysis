@@ -1,0 +1,21 @@
+city: Waco
+country: United States
+description: Witches Castle - this place called The witches castle is in Cameron park, if you go up to it there is a road and you turn right and go up all the way, you then start to smell something terrible, the smell is the bodies the witches killed, and you can hear screams, gasps, and banging. - October 2007 Update – An investigator reports that it is unknown if this place even exists. They talked to a park representative, from the Waco Parks and Recreation Dept and the representative’s response was, "Yes, we've heard about this place, but it's not in the park." The authors of "Weird Texas" claim that Witch's Castle is really Proctor Springs in Cameron Park. This isn't the case either. There is no building at all at Proctor Springs; there are just picnic tables.
+location: Cameron park
+state: Texas
+state_abbrev: TX
+longitude: -97.1561955
+latitude: 31.5835534
+city_longitude: -97.1466695
+city_latitude: 31.549333
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

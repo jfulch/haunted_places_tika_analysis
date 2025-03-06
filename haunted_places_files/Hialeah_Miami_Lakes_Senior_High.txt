@@ -1,0 +1,21 @@
+city: Hialeah
+country: United States
+description: fourth floor - There has been told that a few years ago a group of students were in the planetarium on the fourth floor of the main building. One of the girls that were in that group of student fell through a big skylight and was killed instantly, they then shut the 4th floor down. Nobody is allowed up there, you rarely see any janitor up there either but it is to be said that the janitors that do go up there have heard many noises from the 4th floor and believe it is the girl who died there many years ago.
+location: Hialeah-Miami Lakes Senior High
+state: Florida
+state_abbrev: FL
+longitude: -80.3066324
+latitude: 25.8950887
+city_longitude: -80.2781057
+city_latitude: 25.8575963
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

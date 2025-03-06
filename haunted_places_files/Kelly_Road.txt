@@ -1,0 +1,21 @@
+city: Ohioville
+country: United States
+description: Kelly Road, better known to the locals as Mystery Mile, has been fraught with strange occurrences for decades. Docile animals would become violent and chase people away. Tempers flare. The forest seems to come alive at night, with a variety of noises and spirits reported. Rumors abound as to the grigin of these events, but no one knows for sure. All that is known is that after you pass the one mile mark of Kelly Road, the strange phenomena stop, with no explanation. A popular theory is that the land is cursed by Native Americans who lost their homes when the 'white man' invaded.
+location: Kelly Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.4383454
+latitude: 40.6620012
+city_longitude: -80.4947892
+city_latitude: 40.6792311
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1980/12/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

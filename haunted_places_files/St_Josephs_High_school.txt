@@ -1,0 +1,21 @@
+city: Brooklyn
+country: United States
+description: In the computer room on the third floor there tends to be noises while no one is in the room you can feel breathing and it always feels like someone's watching you when there no one around your can hear walking and footsteps one girl says that someone once pulled her hair but when she turned around no body was there.
+location: St. Joseph's High school
+state: New York
+state_abbrev: NY
+longitude: -73.9855384
+latitude: 40.6920778
+city_longitude: -73.9441579
+city_latitude: 40.6781784
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1931/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

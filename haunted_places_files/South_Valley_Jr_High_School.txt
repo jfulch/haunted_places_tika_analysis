@@ -1,0 +1,21 @@
+city: Gilroy
+country: United States
+description: Inside old ROP building in the hallway footsteps were heard by the nightshift employees. Upon investigation no one was located in or around the area.
+location: South Valley Jr. High School
+state: California
+state_abbrev: CA
+longitude: -121.5670681
+latitude: 37.0146842
+city_longitude: -121.5682751
+city_latitude: 37.0057816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

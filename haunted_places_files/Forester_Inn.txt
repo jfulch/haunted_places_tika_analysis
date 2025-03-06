@@ -1,0 +1,21 @@
+city: Forester
+country: United States
+description: Minnie Quay is also known to haunt her house which is across from the Forester Inn, the Forester Inn and the Forester Cemetery.
+location: Forester Inn
+state: Michigan
+state_abbrev: MI
+longitude: -82.5684048
+latitude: 43.4998679
+city_longitude: -82.5693699
+city_latitude: 43.4991899
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1861/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

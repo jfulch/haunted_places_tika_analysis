@@ -1,0 +1,19 @@
+city: Riverside
+country: United States
+description: across from the Derbys tavern, A man and his sons of Beat a man and dragged him to the porch and left him for dead. The next day Riverside police found a man dead on the same porch. It is said late at night he can be seen roaming the porch and asking for mountain man. Also a strange murky god forsaken stench can be observed on the steps leading up to the attic.
+location: dead mans corner
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.9573908
+city_latitude: 40.0323338
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

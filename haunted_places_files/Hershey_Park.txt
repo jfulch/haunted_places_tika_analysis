@@ -1,0 +1,21 @@
+city: Hershey
+country: United States
+description: The Park at night can be a very scary place. The carousel turns on by itself in the middle of the night and is a mysterious maintenance worker who works on the Commet roller coaster. He was a victim of a freak accident at the roller coaster. It is also said that the ghost of Hershey himself roams the park to keep an eye on things.
+location: Hershey Park
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.65474689999999
+latitude: 40.2887809
+city_longitude: -76.65024679999999
+city_latitude: 40.2859239
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

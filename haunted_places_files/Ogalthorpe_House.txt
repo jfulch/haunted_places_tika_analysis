@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: It is a college dorm and water has turned on several times, a girl once tape recorded the sounds of her room after things were being rearranged when she left, and she heard only the door shut when she left and then shortly after there were noises of things moving. And there have been whispers in people's ears when they try to sleep at night. Others report the most famous place is in front of room 600 and/or 601. The place in front of the rooms is where a girl jumped and committed suicide years before, thus if you go there now the place has Plexiglas all round half of floor 6. In room 416 there are reports of a stool scrapping across the floor above and a marble dropping and rolling.
+location: Ogalthorpe House
+state: Georgia
+state_abbrev: GA
+longitude: -81.0957292
+latitude: 32.0772805
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

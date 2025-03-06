@@ -1,0 +1,21 @@
+city: Memphis
+country: United States
+description: The Metal museum of Memphis is on part of the grounds of what was the army hospital. This was ground zero for the yellow fever epidemic - and the equivalent of the CDC. Thousands died here. There are many tails of things at night. There is a lot of activity in the morgue building and the doctor’s residence.
+location: Metal Museum/Army hospital
+state: Tennessee
+state_abbrev: TN
+longitude: -90.0741641
+latitude: 35.1233856
+city_longitude: -90.0489801
+city_latitude: 35.1495343
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

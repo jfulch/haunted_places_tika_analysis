@@ -1,0 +1,21 @@
+city: Memphis
+country: United States
+description: It is said that one of the rooms on the 2nd floor is haunted by the spirit of a 17 year old female that died there. The spirit is reportedly friendly.
+location: St. Jude's
+state: Tennessee
+state_abbrev: TN
+longitude: -90.04287579999999
+latitude: 35.1545514
+city_longitude: -90.0489801
+city_latitude: 35.1495343
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

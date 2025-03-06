@@ -1,0 +1,21 @@
+city: Sparta
+country: United States
+description: Reports of people talking, music playing, footsteps heard, and cold spots when the building is occupied only by night shift custodians. Witnessing of doors opening on their own after being locked and secured. One custodian has even felt someone or something touch his arm when no one was there. There have been numerous sightings of a short bearded man in the first grade hallway. The building is quite old and has went through numerous phases of remodeling and additions. When it stood as a 2 story High School there reports of a man looking out of a 2nd story window, by the people who lived across the street. This was during a time when custodians did not work at the building at night. The school is thought to be haunted by a young student and a night shift custodian. The student was crushed by a set of lockers that were not attached to the wall, while playing in the school after schools hours, and was killed. This happened in the early 1950's. The night shift custodian died of diabetes at an early age. He was short with dark hair and a beard.
+location: Central Elementary
+state: Michigan
+state_abbrev: MI
+longitude: -85.7135603
+latitude: 43.1480836
+city_longitude: -85.71003929999999
+city_latitude: 43.1608578
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

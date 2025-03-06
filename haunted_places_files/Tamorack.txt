@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: Reports of footsteps running up the back stairs, arguing and heard a door open and then slam shut. An old woman was also seen in the mirror of the woman's bathroom.
+location: Tamorack
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.8971365
+latitude: 43.053197
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

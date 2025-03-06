@@ -1,0 +1,19 @@
+city: Broken Arrow
+country: United States
+description: Just north of the Arkansas River and south of a neighborhood there is an old military installation that has been shut off for years. Supposedly it used to hold Nazi POWs from WWII. If one goes there late at night you get a bad feeling from the place, and sometimes you can hear things from behind the locked gate.
+location: Nazi POW Camp
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -95.7974526
+city_latitude: 36.060949
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: War
+witness_count: 0

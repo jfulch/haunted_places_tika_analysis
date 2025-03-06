@@ -1,0 +1,18 @@
+city: Garwood
+country: United States
+description: The barn has since burnt down and been rebuilt but the apparition remains. During the Civil a family was murdered by the Union for being Confederates. The women and children were thrown in the old cistern, the slave was hung in the barn and the father was drug to death in the vally in front of the house. To this day, if the moon is full, you can see the slave swaying in the rafters. children are also heard laughing in the old house.
+location: Sanders Valley
+state: Missouri
+state_abbrev: MO
+city_longitude: -90.8779014
+city_latitude: 37.066439
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

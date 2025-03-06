@@ -1,0 +1,20 @@
+city: Aurora
+country: United States
+description: Theatre - May 2008 Removed
+location: Overland High School
+state: Colorado
+state_abbrev: CO
+longitude: -104.843122
+latitude: 39.6805372
+city_longitude: -104.8319195
+city_latitude: 39.7294319
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

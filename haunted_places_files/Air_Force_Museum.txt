@@ -1,0 +1,20 @@
+city: Dayton
+country: United States
+description: Little Vietnamese boy who walks the museum at night. He was said to have died in one of the helicopters. Another haunting I have seen is a nazi fighter plane the pilot who had crashed and died, the plane was restored and the pilot waves out the window to visitors
+location: Air Force Museum
+state: Ohio
+state_abbrev: OH
+longitude: -84.1093818
+latitude: 39.7807961
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

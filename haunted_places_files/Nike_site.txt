@@ -1,0 +1,20 @@
+city: Glastonbury
+country: United States
+description: This place is great for mountain biking or driving your car through during the day. This place is very big and takes up a section in the meshomasic state forest. During the day, visitor’s will notices graffiti markings of witchcraft on the rocks, along with some racial remarks. The Nike site itself is an old abandon military site that lies behind several yellow gates. This place was once used as a missile pad during the cold war era. The buildings, silo, and pad are all plowed over or demolished but many parts of it still remain. It is believed that there is still an entrance that leads underground to tunnels of the old silo. People have already tried to find this entrance and got lost in doing so. Once night falls the Nike site turns into a very Blair witch place. Sounds of random people walking around in the woods can be heard as long with their voices. This place has been nicknamed the insane asylum by the locals.
+location: Nike site
+state: Connecticut
+state_abbrev: CT
+longitude: -72.54478449999999
+latitude: 41.6386993
+city_longitude: -72.5450779
+city_latitude: 41.6861794
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: War
+witness_count: 0

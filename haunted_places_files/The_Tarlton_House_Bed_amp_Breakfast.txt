@@ -1,0 +1,21 @@
+city: Hillsboro
+country: United States
+description: It is said that he hanged himself on the third floor after the death of his second wife. Greene Duke Tarlton, the builder of the Tarlton House in 1895, built his family home with love and spared no money creating a lasting legacy for his family. Rumor has it that Mr. Tarlton himself is said to be wondering the halls at night. Witnesses have heard the footsteps and felt cool brushes, like soft kisses to their brow. Eyewitness accounts can be read in the journals that are found in every room, left behind from the weary traveler or vacationer. This house is currently a Bed & Breakfast Resort 1(800)823-7216.
+location: The Tarlton House Bed &amp; Breakfast
+state: Texas
+state_abbrev: TX
+longitude: -97.1260583
+latitude: 32.0125419
+city_longitude: -97.1300061
+city_latitude: 32.0109886
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1895/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

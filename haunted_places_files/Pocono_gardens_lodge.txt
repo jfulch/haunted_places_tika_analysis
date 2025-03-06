@@ -1,0 +1,21 @@
+city: Paradise
+country: United States
+description: A man was killed by a drowning in the outside pool of Pocono gardens and now he haunts the pool area and the lower rooms. Strange moving of statues have occurred in the pool area.
+location: Pocono gardens lodge
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.30059969999999
+latitude: 41.1245797
+city_longitude: -76.1285654
+city_latitude: 40.0098226
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Old Wethersfield
+country: United States
+description: Pictures have been taken with so very many orbs, it is hard to see the actual pictures.
+location: American Legion 23
+state: Connecticut
+state_abbrev: CT
+longitude: -72.653134
+latitude: 41.714172
+city_longitude: -72.6860349
+city_latitude: 41.6759115
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

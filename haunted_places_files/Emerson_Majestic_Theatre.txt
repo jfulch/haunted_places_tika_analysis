@@ -1,0 +1,21 @@
+city: Boston
+country: United States
+description: Built in 1903, the Majestic has been noted as one of the most haunted theatres in the district. A mayor of the city died in the theatre during a performance and today he is still seen in his seat. There is also a little girl and a married couple dressed in turn of the century clothes that haunt the now un-used balcony.
+location: Emerson Majestic Theatre
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0652951
+latitude: 42.3516331
+city_longitude: -71.0588801
+city_latitude: 42.3600825
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1903/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

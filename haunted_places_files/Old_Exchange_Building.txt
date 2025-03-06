@@ -1,0 +1,20 @@
+city: Charleston
+country: United States
+description: The Old Exchange contains much history. It's basement is said to have held some of the world's greatest criminals such as Black Beard.  In the basement, people have experienced chains swinging and orbs. Upstairs, doors have closed by themselves and there are a few cold spots. Many people have experienced such activity.
+location: Old Exchange Building
+state: South Carolina
+state_abbrev: SC
+longitude: -79.9268088
+latitude: 32.7768497
+city_longitude: -79.93105120000001
+city_latitude: 32.7764749
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

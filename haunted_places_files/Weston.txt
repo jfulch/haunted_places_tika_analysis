@@ -1,0 +1,21 @@
+city: Jonesboro
+country: United States
+description: Highway 810 - Down highway 810, there is an old red barn on the side of the road. There is a trail going into the woods. if you park the car on the trail and wait about 15 minutes, there will be a knocking on your windows. It is said that a black man was killed in that barn by hanging on meat hooks. - April 2008 Update: Has been torn down
+location: Weston
+state: Louisiana
+state_abbrev: LA
+longitude: -92.6134826
+latitude: 32.2440446
+city_longitude: -92.7159853
+city_latitude: 32.2412672
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

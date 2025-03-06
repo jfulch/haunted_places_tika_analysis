@@ -1,0 +1,21 @@
+city: Concord
+country: United States
+description: In the old building where the 5th grade hall was is a ghost of a long dead football player. The school was at one time a 1st thru 12th grade school. The 5th grade hall use to be used by the football players many years ago. It's said that after a football game the player came back to this part of the school and had a heart attack and died. He haunted the 5th grade hall behind the gym until the school was torn down to build the new school back in 1995 or so. He doesn't do anything. You see him walking down the hall, then he slides down the wall and disappears.
+location: Winecoff Elementary School
+state: North Carolina
+state_abbrev: NC
+longitude: -80.6179398
+latitude: 35.4464301
+city_longitude: -80.579511
+city_latitude: 35.4087517
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1995/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

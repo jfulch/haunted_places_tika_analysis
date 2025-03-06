@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: Ghost of an old man is seen walking the central staircase.
+location: Beachwood Drive Apartments
+state: California
+state_abbrev: CA
+longitude: -118.3209797
+latitude: 34.1087007
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

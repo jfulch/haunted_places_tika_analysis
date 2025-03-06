@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: Witnesses have seen green lights moving around in cave hill in Louisville. They have also heard noises and graves falling down. If you wait by the back gate it can be heard miles away.
+location: Cave Hill
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7148228
+latitude: 38.2454009
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

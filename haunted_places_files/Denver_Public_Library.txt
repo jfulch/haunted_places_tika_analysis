@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: According to some employees, there is a ghost in the basement of the library who shoves people hard when they are walking through. According to one employee, a security guard quit because they were frightened so badly while patrolling the basement at night. Now the security guards patrol it in groups of two.
+location: Denver Public Library
+state: Colorado
+state_abbrev: CO
+longitude: -104.988115
+latitude: 39.737371
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

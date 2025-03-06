@@ -1,0 +1,21 @@
+city: Mesa
+country: United States
+description: The shadow of a man walks from room to room. Also, in the backyard, there are tables where a small girl plays. There’s only one bad thing about it. She died many years ago. In the backhouse, something that was never human will talk to you about your future and your past. But it will soon tell you, "For this, there is a price to pay…". So come for coffee and stay forever.
+location: Cafe Talk
+state: Arizona
+state_abbrev: AZ
+longitude: -111.8742619
+latitude: 33.307338
+city_longitude: -111.8314724
+city_latitude: 33.4151843
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 0

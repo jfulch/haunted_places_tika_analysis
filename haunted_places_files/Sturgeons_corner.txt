@@ -1,0 +1,21 @@
+city: Helena
+country: United States
+description: A man named John Jo Weezer was Hit by a Combine at night to this day you can here Weezer moaning in pain around harvest every year.
+location: Sturgeon's corner
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.174517
+latitude: 36.3906946
+city_longitude: -98.2700706
+city_latitude: 36.5461432
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/05/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

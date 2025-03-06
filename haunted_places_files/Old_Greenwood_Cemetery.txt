@@ -1,0 +1,21 @@
+city: Greenwood
+country: United States
+description: there have been a sighting of a headless person behind my car you go at night you hear moaning, hart beats, and beating on the old iron gate.
+location: Old Greenwood Cemetery
+state: Louisiana
+state_abbrev: LA
+longitude: -93.7317244
+latitude: 32.4999908
+city_longitude: -93.9729615
+city_latitude: 32.4429323
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/07/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

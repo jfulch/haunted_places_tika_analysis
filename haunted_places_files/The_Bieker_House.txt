@@ -1,0 +1,19 @@
+city: Munster
+country: United States
+description: Update: Burned down - The beaker house is very well known in Munster Indiana. A woman dressed in white can be seen during day or night. The house is vacant [for years],and known for it's huge red barn. It is owned by the city. As at one time, the city offered the huge house and property "rent-free" &"utility-free" to anyone willing to live in the house for the purpose of preventing vandalism to the house & grounds. No offers were ever met - Update: the big red beaker barn has burned down, there was an electrical fire, and now its just the house.
+location: The Bieker House
+state: Indiana
+state_abbrev: IN
+city_longitude: -87.5125412
+city_latitude: 41.5644798
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

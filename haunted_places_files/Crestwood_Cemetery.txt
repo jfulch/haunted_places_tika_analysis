@@ -1,0 +1,21 @@
+city: Gadsden
+country: United States
+description: This location was formerly a plantation with a brutal history. Witnesses have caught glimpses of a slave hanging when visiting their family's graves. They reported they could also see the men responsible for hanging him and their dogs.
+location: Crestwood Cemetery
+state: Alabama
+state_abbrev: AL
+longitude: -85.9716104
+latitude: 33.9856045
+city_longitude: -86.0066386
+city_latitude: 34.014264
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

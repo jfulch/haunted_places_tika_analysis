@@ -1,0 +1,20 @@
+city: St. Paul
+country: United States
+description: The Marian Center in St. Paul is a nursing home located in what was once the old Mounds Park Hospital. It was closed as a hospital sometime in the 70's and reopened as a nursing home in the late 80's/early 90's. The story is that an off duty policeman who was working as a security guard was shot and killed as he was getting off the elevator in the basement, which is where the morgue was located. There are four elevators in the building, but if you get on that particular elevator, no matter what direction it is going or what floor you push, it will go straight to the basement, open, and then close again before going to where it's directed. The employee break room is in the basement but is rarely used, as you have to walk past the old morgue to get to it and there are strange noises there at night. There was also a tunnel from the basement leading to the old nurse's dormitory, which was once used for storage. The maintenance men disliked using it because they reported hearing strange noise and lights flickering off and on. The property sits across the street from a group of Indian burial mounds.
+location: Marian Center (Old Mounds Park Hospital)
+state: Minnesota
+state_abbrev: MN
+longitude: -93.0544251
+latitude: 44.9477904
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

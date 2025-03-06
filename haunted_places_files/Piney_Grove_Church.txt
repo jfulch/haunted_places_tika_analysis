@@ -1,0 +1,21 @@
+city: Concord
+country: United States
+description: An abandoned church, that was left with everything still there... There is a graveyard in the back, and I have seen things; things walking around in the cemetery, there is also said to be 4 spirits in the church.
+location: Piney Grove Church
+state: North Carolina
+state_abbrev: NC
+longitude: -80.571494
+latitude: 35.2942139
+city_longitude: -80.579511
+city_latitude: 35.4087517
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

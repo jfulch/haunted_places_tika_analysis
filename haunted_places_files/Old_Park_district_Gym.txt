@@ -1,0 +1,21 @@
+city: Havana
+country: United States
+description: 15 years ago a young man was playing basketball inside when he was locked in while using the bathroom. He was locked in for over 24 hours and could not reach anyone to let him out and he died. It has been said that at 12 o'clock at night at the gym the ghost of the man that died comes back to haunt the old gym. People have seen him at night; he will get a ball and shoot around at the basketball hoops. When the lights go on he will disappear. You can even hear him screaming for HELP sometimes.
+location: Old Park district Gym
+state: Illinois
+state_abbrev: IL
+longitude: -90.0600315
+latitude: 40.3023276
+city_longitude: -90.0609506
+city_latitude: 40.3000428
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

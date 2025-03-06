@@ -1,0 +1,21 @@
+city: Coolidge Pointe
+country: United States
+description: Reports of a phantom woman in a wheelchair.
+location: House of President Calvin Coolidge
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.6356524
+latitude: 42.31674659999999
+city_longitude: -70.7259557
+city_latitude: 42.57621169999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

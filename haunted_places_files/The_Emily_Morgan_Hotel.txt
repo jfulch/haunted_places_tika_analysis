@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Floor nine is a very active floor. Having been unaware that the building housed wounded soldiers during the battle of the Alamo, we stayed there on floor nine in room 902. We were the only ones on the floor yet doors opened and closed all night long. At one point he toilet seat slammed itself up and down about ten times while we were in the adjacent room. A bottle of wine slid off of the counter by itself as did the coffee pot the next morning and the elevator would not take us to the floor we wanted. Once we did get moving the doors would open and shut about ten times before standing still long enough to let us out. Management had responded to earlier complaints of the same but the motor was fine.
+location: The Emily Morgan Hotel
+state: Texas
+state_abbrev: TX
+longitude: -98.485758
+latitude: 29.426565
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 0

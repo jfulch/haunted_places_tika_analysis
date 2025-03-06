@@ -1,0 +1,21 @@
+city: Everglades City
+country: United States
+description: At the end of a dead end road there lies a historic trading post and general store that sits on stilts at the banks of the everglades. This was the site where a rather large manhunt ended many years ago. A local farmer was shot and killed as he came ashore at the store one day. He had lived near by, and operated a farm. He was found to be killing all his migrant workers at the end of the season, mutilating their bodies and dumping them in the glades instead of paying them. When word got to shore that he had left his farm and was heading by boat to the Smallwood store the sheriffs and local towns folk came to see this notorious killer. He was shot and killed on the banks and his farm later was burned. You get a feeling of uneasiness whenever near the store, and that you should not walk under the store at any cost. (It sits on stilts and is about 5' off the ground) Store is seasonal. Get permission before doing any investigating.
+location: Smallwood Store
+state: Florida
+state_abbrev: FL
+longitude: -81.3624823
+latitude: 25.8100279
+city_longitude: -81.3850695
+city_latitude: 25.8582443
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

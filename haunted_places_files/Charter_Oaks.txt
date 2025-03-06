@@ -1,0 +1,21 @@
+city: Guthrie
+country: United States
+description: The last people to live there was a girl and her mother. Both committed suicide. The house is abandoned and reports of screams, Sightings of ghost and doors closing. Even the Knife that was used for the suicides has been found.
+location: Charter Oaks
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.3495718
+latitude: 35.7543095
+city_longitude: -97.4253185
+city_latitude: 35.878937
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

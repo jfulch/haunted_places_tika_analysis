@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: In the late 1880s, Denver Children's Home located on Albion Street and Colfax Avenue in Denver, Colorado provided lodgings to orphaned children. A fire in 1888 (then known as the Denver Orphan's Home) killed several children in the attic/third floor. Today, DCH is still providing youth services, counseling, and housing to youth. Apparitions of children playing and ethereal voices of crying and whimpering are regular phenomena. Also, an apparition of a female in a wedding gown is regularly seen floating down the third floor steps and across the 50 ft. length of the second floor hallway. The FIFTH exorcism occurred in 1999, but still certain paranormal oddities remain.
+location: Denver Children's Home
+state: Colorado
+state_abbrev: CO
+longitude: -104.939406
+latitude: 39.740782
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1888/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

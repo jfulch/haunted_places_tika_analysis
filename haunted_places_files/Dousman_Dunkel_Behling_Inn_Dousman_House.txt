@@ -1,0 +1,21 @@
+city: Brookfield
+country: United States
+description: It’s an old house that ages back to the civil war. Very powerful negative feelings occur by the guest house and smithy shop. One of the doors in the window has been reported to slam with nobody present. a Dark figure walks back and forth upstairs while looking in the front door windows. The Figure sometimes rushes people and impacts them with such great force they will fly backwards off the porch. Nobody really knows too much about the history of the house.
+location: Dousman Dunkel Behling Inn /Dousman House
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.10740559999999
+latitude: 43.0439199
+city_longitude: -88.1064787
+city_latitude: 43.0605671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: War
+witness_count: 1

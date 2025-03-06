@@ -1,0 +1,21 @@
+city: Marcellus
+country: United States
+description: Years ago there was a house that sat back in the wood and they had a lot of horses the name of the family we the Morrises. One night a man on a black horse came up to the families home and shot the 2 kids, the mother, the father, and the maid then he rode off and stole one of their horses. They were buried in the Anderson Cemetery to this day the headstone still is there and on the night of the murder the headstone glows.
+location: Anderson Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -85.8967468
+latitude: 42.0762436
+city_longitude: -85.81555759999999
+city_latitude: 42.0258779
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

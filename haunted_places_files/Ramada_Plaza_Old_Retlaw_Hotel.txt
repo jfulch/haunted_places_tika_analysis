@@ -1,0 +1,21 @@
+city: Fond du Lac
+country: United States
+description: Rumor has it that Walter Schoreder (Owner) was murdered on property & haunts the Hotel. He likes to turn on faucets, lights, bangs on walls, & screaming , as well as apparitions.
+location: Ramada Plaza (Old Retlaw Hotel)
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.4462181
+latitude: 43.7790488
+city_longitude: -88.4470508
+city_latitude: 43.7730448
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Greenfield
+country: United States
+description: Pale woman in white dress has been seen crossing the same path night after night holding what appears to be an infant child. The woman does not respond to any interaction and disappears into the woods.
+location: Whitnall Park
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.03533639999999
+latitude: 42.926748
+city_longitude: -88.0125865
+city_latitude: 42.9614039
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/09/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

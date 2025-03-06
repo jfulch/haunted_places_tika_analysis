@@ -1,0 +1,21 @@
+city: Tallahassee
+country: United States
+description: A man by the last name of Phillips built a 20ft Mausoleum for himself so that he could go there to die. He also placed a Cherry Wood coffin in it and gave a friend a key to close it up after he died. People have reported feeling eerie feelings after leaving this site.
+location: Oak Lawn Cemetery
+state: Florida
+state_abbrev: FL
+longitude: -84.3315257
+latitude: 30.3969102
+city_longitude: -84.28073289999999
+city_latitude: 30.4382559
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1891/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

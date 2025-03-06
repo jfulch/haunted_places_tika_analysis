@@ -1,0 +1,21 @@
+city: Grand Coteau
+country: United States
+description: This building was an old Ursuline Convent that was now used as a preliminary training center for the Society of Jesus religious order. An old priest is seen wandering the halls here.
+location: Saint Charles Borromeo College
+state: Louisiana
+state_abbrev: LA
+longitude: -92.0441891
+latitude: 30.4200577
+city_longitude: -92.0465087
+city_latitude: 30.4199203
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

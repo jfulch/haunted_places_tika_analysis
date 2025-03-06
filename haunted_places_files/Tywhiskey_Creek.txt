@@ -1,0 +1,21 @@
+city: Kilgore
+country: United States
+description: In the bottoms of the creek there is said to be a chicken man. Many sightings occurred during the late 60's and 70's. If you go into the bottoms at night you can hear loud sounds as if whole trees are snapping in half and loud strange sounds deep in the woods.
+location: Tywhiskey Creek
+state: Texas
+state_abbrev: TX
+longitude: -100.7618299
+latitude: 41.1130475
+city_longitude: -94.8757709
+city_latitude: 32.3862619
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

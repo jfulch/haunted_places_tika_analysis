@@ -1,0 +1,19 @@
+city: Johnson City
+country: United States
+description: Swingle Hospital was the first hospital in Johnson City.  The hospital is located near Science Hill High School and Heritage Manor.  It is said that back in the 1920's, Dr. Swingle performed simple surgeries in this privately owned estate.  Dr. Swingle was a sloppy surgeon and all of his patients would die on the operating table.  If you slowly walk up the front walkway, between the row of hedges, leading to the main entrance you can hear the voices of the insane doctor and his staff, and if you walk around to the back of the house you can hear the screams of the dead patients, who are buried in the backyard.  You cannot get in to the old hospital due to boarded windows and doors.  If you decide to visit the hospital, park on the street next to it and walk over, but stay away from the road.  If caught on Swingle property, you can be charged with breaking and entering.  Be careful, cops watch that place very heavily. Interesting article http://www.people.fas.harvard.edu/~cadden/longautobio.html
+location: Swingle Hospital
+state: Tennessee
+state_abbrev: TN
+city_longitude: -82.3534727
+city_latitude: 36.3134397
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1962/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

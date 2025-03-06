@@ -1,0 +1,21 @@
+city: Point Lookout
+country: United States
+description: This park was once a Civil War prison camp named Camp Lincoln. The lighthouse, which is no longer in use, is said to be haunted. There are also stories of a woman who hunts for a grave. She has been known to ask passerby’s to help her find it. There is even a general who haunts the campground. In the fort proper, people have reported seeing figures on the walkway surrounding it, and hearing faint voices.
+location: State Park
+state: Maryland
+state_abbrev: MD
+longitude: -76.3374474
+latitude: 38.0609713
+city_longitude: -76.3374474
+city_latitude: 38.0609713
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

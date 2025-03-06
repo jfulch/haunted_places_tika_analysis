@@ -1,0 +1,20 @@
+city: Rochester
+country: United States
+description: It has been rumored that there has been numerous complaints and unusual encounters. The reason for that is many Mayo Clinic patients occupied in that hotel and have past away. One witness encountered an odd stench in the room, frequent temperature changes, and eerie sounds at night.
+location: Kahler Hotel
+state: Minnesota
+state_abbrev: MN
+longitude: -92.4655574
+latitude: 44.0233848
+city_longitude: -92.4801989
+city_latitude: 44.0121221
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1791/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Athol
+country: United States
+description: This location was said to be the site of a homicide and at least one suicide during World War II, when Farragut Naval Base was home to more than 300,000 servicemen. The former brig, which is the only original building remaining on what is now a state park and camping area, has been the scene of several apparitions, all described in detail by at least half a dozen state employees. These employees worked in the brig building, which was for many years used as a state parks maintenance building. All of the employees who encountered a ghostly visitor talked about a balding man who might have been in some kind of uniform - possibly prisoner's garb. Others, who did not see the apparition, talked about hair-raising experiences with large objects being mysteriously "relocated" or objects flying across the cells - which still exist in the building, bars and all.
+location: The Brig at Farragut State Park
+state: Idaho
+state_abbrev: ID
+longitude: -116.602778
+latitude: 47.951532
+city_longitude: -116.7079745
+city_latitude: 47.9479601
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: New Town
+country: United States
+description: In the hallways you hear whispers and where they hold funerals you can see a something there and feel something too!
+location: The Civic Center
+state: North Dakota
+state_abbrev: ND
+longitude: -102.4844434
+latitude: 47.9801031
+city_longitude: -102.4901804
+city_latitude: 47.9808483
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1994/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

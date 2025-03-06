@@ -1,0 +1,20 @@
+city: Princeton
+country: United States
+description: On April 14,1755,The daughter of Robert and Martha Keyes, went to fetch some sand from the ,Wachusett Lake, but she vanished in the woods that day never to be heard for again. Robert and Martha and the towns people searched but never found her. It is said that, Martha still haunts the wooded hillsides of Wachusett Mountain calling, "Lu--cy...Lu-cy.
+location: Watchusett Mountain
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.88704249999999
+latitude: 42.4891723
+city_longitude: -71.877296
+city_latitude: 42.4487019
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1840/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

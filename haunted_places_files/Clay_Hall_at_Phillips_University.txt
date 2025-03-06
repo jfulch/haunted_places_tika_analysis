@@ -1,0 +1,21 @@
+city: Enid
+country: United States
+description: This haunted dormitory was condemned by state in the early 1980's. Voices have been heard here along with piano playing. Recordings of ghostly women singing have also occurred.
+location: Clay Hall at Phillips University
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.8476198
+latitude: 36.3942117
+city_longitude: -97.8783911
+city_latitude: 36.3955891
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

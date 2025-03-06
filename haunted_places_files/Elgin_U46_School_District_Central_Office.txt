@@ -1,0 +1,21 @@
+city: Elgin
+country: United States
+description: Once known as the Old Elgin High School, the building was erected in the late 1800s. After a fire broke out in the first 50 years the school moved down the road and the District boarded the place up. No human deaths occurred however it is said that pets of the Science Faculty and classroom pets of most other departments were victims. The building has long since been gutted though many rooms still remain boarded up and the building no serves as the storage facility of all the district paperwork and offices of the central employees of the district. Lights will go on and off and in rooms that the windows are boarded up occasionally employees have still seen the rooms sunlight as if the windows were not boarded up. Note- This office is private property just like the schools within the district.WARNING:If there is anyone that is planning on doing anything in any of those locations they must be sure that they have permission first else they will be arrested.
+location: Elgin-U46 School District Central Office
+state: Illinois
+state_abbrev: IL
+longitude: -88.27786069999999
+latitude: 42.0368891
+city_longitude: -88.2825668
+city_latitude: 42.0354084
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

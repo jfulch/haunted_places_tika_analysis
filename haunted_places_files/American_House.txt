@@ -1,0 +1,21 @@
+city: Livonia
+country: United States
+description: Every night at the evening setting for dinner you can hear the evil shrieks of a deceased supervisor named Bree who went crazy in the back office. Employees claim to have had spontaneous bouts of turrets syndrome while working there.
+location: American House
+state: Michigan
+state_abbrev: MI
+longitude: -83.37369
+latitude: 42.36624
+city_longitude: -83.35270969999999
+city_latitude: 42.36837
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

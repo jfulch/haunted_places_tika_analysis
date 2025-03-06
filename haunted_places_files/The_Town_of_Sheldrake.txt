@@ -1,0 +1,21 @@
+city: Sheldrake
+country: United States
+description: is about four miles north of Paradise, Michigan. You can't find Sheldrake on any map, because it if a VERY small town. Few people live there, but none of them will talk about the hauntings. People that live there year-round will see more than any tourist. Lights turning on by themselves, window shades opening without anyone around, and an old sea captain who will disappear when boats pass. They had many fires and boat accidents.
+location: The Town of Sheldrake
+state: Michigan
+state_abbrev: MI
+longitude: -85.03361000000001
+latitude: 46.67778
+city_longitude: -85.03361000000001
+city_latitude: 46.67778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

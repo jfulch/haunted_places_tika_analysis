@@ -1,0 +1,21 @@
+city: Berville
+country: United States
+description: An abandoned farm house located 2 miles north of Berville where a very ill 12 year old boy had died in his sleep. Drive past this house at around 1 A.M. when it is said the boy died and you may catch a glimpse of lights flickering in the windows. Inside you can hear a faint whispering, footsteps upstairs, and things will move in the house including doors being opened that were closed. enter the boys bedroom at the end of the upstairs hall and experience an overwhelming cold chill and sudden sad emotions at times.
+location: Berville Rd.
+state: Michigan
+state_abbrev: MI
+longitude: -82.88573939999999
+latitude: 42.9232364
+city_longitude: -82.8829846
+city_latitude: 42.9083621
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1789/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

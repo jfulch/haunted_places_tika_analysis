@@ -1,0 +1,21 @@
+city: St. Clair Shores
+country: United States
+description: Greenwood Elementary School - Apparitions are seen down the first hallway by night custodians of children playing; in one of the classrooms down the first hallway a strong negative feeling overwhelms you. Teachers have reported hearing a child whisper their name in their ear when there is no one there.
+location: Joan Street
+state: Michigan
+state_abbrev: MI
+longitude: -82.9122995
+latitude: 42.5027449
+city_longitude: -82.89636039999999
+city_latitude: 42.4974085
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

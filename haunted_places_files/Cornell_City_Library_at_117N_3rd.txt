@@ -1,0 +1,21 @@
+city: Cornell
+country: United States
+description: The small city library in Cornell is a location that triggers unease in most any one that enters it. As far as the history of the building, the basement, where the restroom is, used to be a jail during the earlier duration of Cornell's existace. The entire building has a heavy sort of a feeling to it, but it is the basement in particular that makes all who step down there to visit the restroom uneasy. Some librarians working there would not go down to the basement to the restroom the entire time they worked there because of the uncomfortable feeling that overwhelms visitors to the basement. The entire basement area has had virtually no remodeling and is for lack of better description "rugged". To my knowledge there has been no sightings of any kind, just the feeling of an overbearing presence of some kind.
+location: Cornell City Library at 117N 3rd
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.148595
+latitude: 45.1679699
+city_longitude: -91.1493107
+city_latitude: 45.1671881
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

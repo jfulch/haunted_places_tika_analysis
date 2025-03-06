@@ -1,0 +1,19 @@
+city: Weatherford
+country: United States
+description: Originally built in 1894 it is said to be haunted by Charles Baker, a son of the of the original owner JD Baker. JD Baker died before the house was completed and Charles mysteriously disappeared in 1908. It was purchased by the Fant family in 1940 and reports of ghostly encounters are given by a relative who lived in the house off and on during a 30 year period. She reports seeing shadows on the staircase, feelings of being touched by an invisible hand, seeing ghostly figures and on one occasion the sounds of someone violently pounding the inside of the locked basement door when she was alone in the house. The current owners have had no encounters with any ghostly presence but a worker states that an unseen person tried to push them off the stairs on the second floor. Source: Bob Hopkins, The Baker Mansion Baker Mansion
+location: Baker Mansion
+state: Texas
+state_abbrev: TX
+city_longitude: -97.7972544
+city_latitude: 32.7592955
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1894/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

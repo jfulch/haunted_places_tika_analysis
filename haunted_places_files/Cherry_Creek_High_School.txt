@@ -1,0 +1,20 @@
+city: Englewood
+country: United States
+description: The Old School House - It was reported that sometime in the 1930's a little girl was beaten to death by her teacher inside that school house. Students often hear screams coming from the inside of the schoolhouse and once in a while see a girl walking on the greenbelt and then suddenly disappearing. School supplies come up missing quite often.
+location: Cherry Creek High School
+state: Colorado
+state_abbrev: CO
+longitude: -104.880273
+latitude: 39.6299727
+city_longitude: -104.9877597
+city_latitude: 39.6477653
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

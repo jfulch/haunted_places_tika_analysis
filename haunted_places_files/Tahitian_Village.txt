@@ -1,0 +1,19 @@
+city: Lompoc
+country: United States
+description: Supposedly built on an Indian burial site (Chumash) there have been voices and strange occurrences. Including hearing a faint voice in one of the apartment closets of a man playing guitar, two men 'stealing' goods from the pantry, and scratches on resident's faces in the middle of the night.
+location: Tahitian Village
+state: California
+state_abbrev: CA
+city_longitude: -120.4579409
+city_latitude: 34.6391501
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

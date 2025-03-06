@@ -1,0 +1,21 @@
+city: Burlington
+country: United States
+description: Simpson Hall -  a spirit of a man who stalked a girl, followed her to her dorm one year. He now resides in Simpson. Late at night students wake up with a sense they are being watched, usually the room becomes icy cold when it happens. Very rarely some wake up freezing at night with the feeling that there is someone else in there bed.
+location: University of Vermont
+state: Vermont
+state_abbrev: VT
+longitude: -73.1964637
+latitude: 44.4778528
+city_longitude: -73.21207199999999
+city_latitude: 44.4758825
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/04/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

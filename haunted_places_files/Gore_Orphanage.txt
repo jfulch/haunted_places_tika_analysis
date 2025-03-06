@@ -1,0 +1,20 @@
+city: Amherst
+country: United States
+description: little girl and boy died because they were homeless and had no food or water for weeks TVs turn on and off of kid's channels.
+location: Gore Orphanage
+state: Ohio
+state_abbrev: OH
+longitude: -82.332044
+latitude: 41.3458107
+city_longitude: -82.2223774
+city_latitude: 41.3978217
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.133333333333333
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

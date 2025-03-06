@@ -1,0 +1,21 @@
+city: Batesville
+country: United States
+description: Throughout the years, there have been mysterious lights in the cemetery. Also, an old woman can be seen, usually during the summer months, in a rocking chair in the upstairs window. The gravel road in front of Liberty is also rumored to be haunted by a young woman who had been killed in the early 1900's. A little boy has also been seen in the cemetery and is seen in pictures that had been shot in the cemetery. Lights turn on and off mysteriously in the church.
+location: Liberty Baptist Church/Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -91.5065592
+latitude: 35.83027320000001
+city_longitude: -91.6409721
+city_latitude: 35.769799
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

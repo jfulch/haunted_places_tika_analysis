@@ -1,0 +1,19 @@
+city: South Pasadena
+country: United States
+description: The ghost of a WWII soldier is still trying to get a message to his son.
+location: Penthouse Apartments
+state: California
+state_abbrev: CA
+city_longitude: -118.1503488
+city_latitude: 34.1161196
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 0

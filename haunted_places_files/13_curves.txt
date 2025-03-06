@@ -1,0 +1,21 @@
+city: Syracuse
+country: United States
+description: located on Onondaga Hill, apparently is the site where about 70 years ago a newly married couple had been killed in an auto accident trying to go through the treacherous curves. To this day it is said that a woman in a flowing white gown can be seen through the woods looking for her bridegroom.
+location: "13 curves"
+state: New York
+state_abbrev: NY
+longitude: -76.11617679999999
+latitude: 43.5551566
+city_longitude: -76.14742439999999
+city_latitude: 43.0481221
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1798/04/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Murder
+witness_count: 1

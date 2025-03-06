@@ -1,0 +1,21 @@
+city: Yuma
+country: United States
+description: There are two predominate places within the prison where the spirits are active. One is the dark cell and the other is the visitors' museum. The dark cell hosts a ghost that likes to pinch. It is attracted to children and the color red. There are supposedly two spirits in the visitors' museum. One is a woman who sings quite early in the morning, and the other is a poltergeist that likes to play with money. He's attracted to dimes.
+location: Yuma Territorial Prison State Historic Park
+state: Arizona
+state_abbrev: AZ
+longitude: -114.614955
+latitude: 32.727049
+city_longitude: -114.6276916
+city_latitude: 32.6926512
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

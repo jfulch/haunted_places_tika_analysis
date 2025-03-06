@@ -1,0 +1,20 @@
+city: Kiawah
+country: United States
+description: A 19th century plantation existed on this island and during a stay in 2002 in one of the homes on the island, one witness got the distinct impression that the spirit of a small boy,(who might have died while wandering away into the interior of the island looking for his cat) was seen (along with the ghost of a cat) running though the house and through walls. Some further research might be warranted to determine if any deaths are associated with the plantation on this island.
+location: Kiawah Island
+state: South Carolina
+state_abbrev: SC
+longitude: -80.11913659999999
+latitude: 32.5999942
+city_longitude: -80.0848166
+city_latitude: 32.6082373
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

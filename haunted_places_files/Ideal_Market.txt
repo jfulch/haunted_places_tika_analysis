@@ -1,0 +1,21 @@
+city: Johnstown
+country: United States
+description: people that work here have reported putting things some where in the store and it disappearing and reappearing somewhere else. This has happened on quite a few occasions.
+location: Ideal Market
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.92246879999999
+latitude: 40.3246032
+city_longitude: -78.9219698
+city_latitude: 40.32674069999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

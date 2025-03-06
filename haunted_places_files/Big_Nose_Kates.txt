@@ -1,0 +1,21 @@
+city: Tombstone
+country: United States
+description: Numerous cowboy ghosts have been seen and photographed.
+location: Big Nose Kate's
+state: Arizona
+state_abbrev: AZ
+longitude: -110.066648
+latitude: 31.7123203
+city_longitude: -110.0675764
+city_latitude: 31.7128683
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

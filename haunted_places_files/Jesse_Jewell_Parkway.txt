@@ -1,0 +1,21 @@
+city: Gainesville
+country: United States
+description: Hong Kong King Buffet - Formerly listed as Shoney's Brown Bridge Road - Plates rattling, footsteps, strange noises, cold spots, and claims of being touched. These occurrences usually happen after hours when there are just a few employees.
+location: Jesse Jewell Parkway
+state: Georgia
+state_abbrev: GA
+longitude: -83.810397
+latitude: 34.3052977
+city_longitude: -83.8240663
+city_latitude: 34.2978794
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

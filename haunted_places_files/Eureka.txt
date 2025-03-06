@@ -1,0 +1,21 @@
+city: Humboldt
+country: United States
+description: Granada convalescing hospital - October 2007: this submission has been removed
+location: Eureka
+state: California
+state_abbrev: CA
+longitude: -124.1636729
+latitude: 40.8020712
+city_longitude: -123.8695086
+city_latitude: 40.7450055
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1649/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

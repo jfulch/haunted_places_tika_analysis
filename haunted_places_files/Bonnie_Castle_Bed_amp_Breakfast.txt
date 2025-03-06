@@ -1,0 +1,21 @@
+city: Grantville
+country: United States
+description: This renovated bed & breakfast is haunted by two ghosts. One of the ghosts is called Mary. She hates electricity. The second ghost is a ghost cat. The cat has been seen at least twice in a particular spot upstairs. A young girl once saw a man go up to the gate and asked about him. She identified the man in a picture of the original owner. Noises can be heard all through the night, but the ghosts are nice.
+location: Bonnie Castle Bed &amp; Breakfast
+state: Georgia
+state_abbrev: GA
+longitude: -76.93181299999999
+latitude: 43.23884899999999
+city_longitude: -84.8357678
+city_latitude: 33.2348419
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

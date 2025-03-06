@@ -1,0 +1,21 @@
+city: Solen
+country: United States
+description: This one time when This gurl was walking in the hallway she heard some basketballs bouncing in their gym. So she walked down there to see whats up, but when she got there noone was in there. She started walking back up to her class.Then she heard them again so she ran back down there.Then she saw these two gurl playin basketball. She told her counsler and her counsler said it was her team mates that had died that year before.
+location: Solen High School
+state: North Dakota
+state_abbrev: ND
+longitude: -100.7922528
+latitude: 46.3885338
+city_longitude: -100.7984628
+city_latitude: 46.3888848
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 17m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

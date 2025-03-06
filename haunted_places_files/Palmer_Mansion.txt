@@ -1,0 +1,19 @@
+city: Sheffield
+country: United States
+description: During the Civil War Era, a black man and his wife burned to death on the location of the huge Southern Mansion owned by the Palmer Family. The current residents have seen a figure of the black man standing in the doorways. They also hear him making noises all through the night. The mansion also has a small round window to a room that has no access from the inside of the house! Guests have seen objects move by themselves in the house.
+location: Palmer Mansion
+state: Alabama
+state_abbrev: AL
+city_longitude: -87.6986407
+city_latitude: 34.7650887
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

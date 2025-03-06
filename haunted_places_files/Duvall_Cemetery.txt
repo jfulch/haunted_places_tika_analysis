@@ -1,0 +1,21 @@
+city: Duvall
+country: United States
+description: Witnesses report, noises, strange feelings and being frightened.
+location: Duvall Cemetery
+state: Washington
+state_abbrev: WA
+longitude: -121.9853715
+latitude: 47.74774379999999
+city_longitude: -121.9856781
+city_latitude: 47.7423218
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

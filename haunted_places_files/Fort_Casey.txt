@@ -1,0 +1,21 @@
+city: Whidbey Island
+country: United States
+description: Weird noises and figures and a woman screaming there is also weird drawings on the walls. Something scratches on the wall like claws.
+location: Fort Casey
+state: Washington
+state_abbrev: WA
+longitude: -122.6775001
+latitude: 48.16444
+city_longitude: -122.4395026
+city_latitude: 47.9982761
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 0

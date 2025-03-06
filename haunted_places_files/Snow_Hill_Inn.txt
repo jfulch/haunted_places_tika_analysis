@@ -1,0 +1,21 @@
+city: Snow Hill
+country: United States
+description: The original part of the house was built in 1790 and was enlarged in 1850. The Inn is haunted by a spirit known as JJ. Employees reported that they have the feeling a man is standing behind them. JJ likes to turn lights off and on and he likes to lock doors. Sometime employees report seeing a man standing crossed legged who just disappears. Workers were in the Barrister Room trying to get windows open, they tried everything and gave up and went on to another task when the window suddenly opened up by themselves. The workers were given lodging while they were working. The workers, after several unusual experiences, refuse to sleep at the Inn. One guest woke up to see a spirit crossing the room to the bathroom.
+location: Snow Hill Inn
+state: Maryland
+state_abbrev: MD
+longitude: -75.39197920000001
+latitude: 38.1779043
+city_longitude: -75.39269589999999
+city_latitude: 38.1770634
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1790/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

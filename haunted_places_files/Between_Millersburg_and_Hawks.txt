@@ -1,0 +1,19 @@
+city: Presque Isle
+country: United States
+description: Haunted store - A family ran the store. It was robbed by two men who ended up killing everybody in the store except for the young boy. He was severely beaten, but lived. The presence of ghosts was so apparent that the mess from the murder was never cleaned up. The store was boarded up and abandoned right after the murder took place.
+location: Between Millersburg and Hawks
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.46583319999999
+city_latitude: 45.2819607
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

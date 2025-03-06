@@ -1,0 +1,21 @@
+city: Washoe
+country: United States
+description: Bower's Mansion - Mrs. Bower's, who died penniless after her husband died, is said to haunt the second floor of the house. She used to conduct Séances in the parlor after her husband died, in an attempt to contact him. The Graveyard on the hillside behind the Mansion has also been a spot of numerous sightings of glowing figures on moonless nights.
+location: Washoe Valley
+state: Nevada
+state_abbrev: NV
+longitude: -119.7761221
+latitude: 39.2963286
+city_longitude: -119.6035495
+city_latitude: 40.5608387
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1988/11/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

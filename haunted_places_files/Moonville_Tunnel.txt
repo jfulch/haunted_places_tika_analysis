@@ -1,0 +1,20 @@
+city: Zaleski
+country: United States
+description: Near the Zaleski CCC Camp is an old railway tunnel named Moonville Tunnel. The tunnel is still there and many local kids swim there in the creek. In the 1800's during a thunderstorm the trestle or train bridge was washed out. With no other way to stop the train the signalman stood this side of the creek where the trestle had stood. On the opposite bank was just about 20 feet then the tunnel itself. On the other side of the tunnel was a turn in the track. It was near midnight so the story goes when the signalman was waving the lantern to warn of danger. He knew it was of little use because of the layout of the track and tunnel before the trestle. The train probably didn't even see his light before crashing into the ravine below. A lot of people died that night in the crash. People who live down in the area swear that they've been to the tunnel on the anniversary of the tragic disaster. They swear that you can clearly see the signalman lamp swinging it's warning and you can see the light of the oncoming train.
+location: Moonville Tunnel
+state: Ohio
+state_abbrev: OH
+longitude: -82.3245566
+latitude: 39.3084376
+city_longitude: -82.39487590000002
+city_latitude: 39.282293
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

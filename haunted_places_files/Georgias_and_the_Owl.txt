@@ -1,0 +1,20 @@
+city: Amidon
+country: United States
+description: Not only a fine place to dine, Georgia's and the Owl is home to several paranormal activities.  A little boy has been reported to run around the restaurant, playing and bumping into people.  Occasionally, music and voices can be heard.  Potato chip bags clipped to a rack have been found strewn about the floor when the restaurant was opened for the day.  A local team of investigators has conducted extensive investigations here and has recorded some strange muttering voices.
+location: Georgia's and the Owl
+state: North Dakota
+state_abbrev: ND
+longitude: -103.3211637
+latitude: 46.4826789
+city_longitude: -103.3218466
+city_latitude: 46.4822327
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 17m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

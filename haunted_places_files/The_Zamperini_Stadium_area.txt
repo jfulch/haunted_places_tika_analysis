@@ -1,0 +1,21 @@
+city: Torrance
+country: United States
+description: A young woman and her children were walking home from a football game when they were both brutally murderer and left in the stadium grounds. At night claims of children laughing and a woman crying are heard through out the neighborhood. Sometimes late at night two young children and their supposed mother are seen then vanish.
+location: The Zamperini Stadium area
+state: California
+state_abbrev: CA
+longitude: -118.3215335
+latitude: 33.8229812
+city_longitude: -118.3406288
+city_latitude: 33.8358492
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

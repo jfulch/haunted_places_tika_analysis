@@ -1,0 +1,21 @@
+city: Altus
+country: United States
+description: High School Stage - At the Ozark High School, the stage used for musicals and plays is supposed to be haunted by a student who longed to be in a production. The director never cast him, and the boy told the director that one day he would be on stage. He later moved from the district and soon died in a car wreck. They say about a week before production, things are misplaced and missing, but he never disturbs anything the nights of the production.
+location: Ozark
+state: Arkansas
+state_abbrev: AR
+longitude: -93.76393310000002
+latitude: 35.4374848
+city_longitude: -93.7624172
+city_latitude: 35.4461965
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2006/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

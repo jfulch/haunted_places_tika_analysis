@@ -1,0 +1,20 @@
+city: Brownsville
+country: United States
+description: Camp Lulu was a camp for young kids until it was closed down after the counselor went crazy and raped and killed the girls. Now if you go at night you can hear the crying of the girls. But if you are caught trespassing you might get shot by the owner of the property who tries to preserve the souls of the young girls.
+location: Camp Lulu
+state: Texas
+state_abbrev: TX
+longitude: -97.529977
+latitude: 25.9896921
+city_longitude: -97.4974838
+city_latitude: 25.9017472
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Mt. Sterling
+country: United States
+description: In an abandoned church on Stepstone. The church still stands but the inside of the church was gutted by a fire long ago. A few men hung 4 teenage girls on a cross in the loft and set fire to the church. If you go at night, it is said you can hear them laugh, cry and see the shadows of them flying around. It is also known that if you do something to upset the girls, you will find hear them scream in rage.
+location: Stepstone Church
+state: Kentucky
+state_abbrev: KY
+longitude: -83.9620418
+latitude: 38.0572195
+city_longitude: -83.9432556
+city_latitude: 38.0564679
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

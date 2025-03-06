@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: Most of the very large Rivera Library was remodeled during 2000-2001. Parts of it were left untouched however, upon entering the main entrance turn left, it will be clear which parts are older. It is said a female ghost haunts these parts, on the first and second floors, mainly at night and after patrons have left and in the early morning hours. Janitors working after midnight have reported sounds and cold spots. Short lasting obnoxious odors have been smelled in the basement. A great time to go would be during finals week as the library is open until 2am.
+location: University of California Rivera Library
+state: California
+state_abbrev: CA
+longitude: -117.3274004
+latitude: 33.972416
+city_longitude: -117.3961564
+city_latitude: 33.9533487
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

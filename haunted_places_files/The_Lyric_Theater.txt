@@ -1,0 +1,20 @@
+city: Tupelo
+country: United States
+description: After the April 5, 1936 tornado leveled much of Tupelo, the injured and dieing were brought to the Lyric Theater. Popcorn machines were used to sterilize medical instruments. Local lore has it that the building is haunted to this day.
+location: The Lyric Theater
+state: Mississippi
+state_abbrev: MS
+longitude: -88.70571129999999
+latitude: 34.2584105
+city_longitude: -88.7033859
+city_latitude: 34.2576066
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1936/04/05
+date_source: description
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

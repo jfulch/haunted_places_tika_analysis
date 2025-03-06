@@ -1,0 +1,21 @@
+city: Midlothian
+country: United States
+description: This is the sight of a load of supernatural occurrences like : a "ghost house " , balls of light , the ghost of a woman and a young child who stand near the shore of a pond where a satanic cult dug up their bones and threw them in the pond . It's an old German cemetery with most of it's headstones dating to early 1900 or even 1800's .
+location: Bachelor's Grove Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -87.7706649
+latitude: 41.6309089
+city_longitude: -87.7175491
+city_latitude: 41.6253116
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

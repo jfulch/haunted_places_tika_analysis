@@ -1,0 +1,21 @@
+city: Armagosa
+country: United States
+description: haunted by several ghosts who were residents during the borax mining. The hotel workers have pictures of orbs and many stories as well as some documentaries have been filmed on the hauntings.
+location: Armagosa hotel and opera house
+state: California
+state_abbrev: CA
+longitude: -116.414663
+latitude: 36.3022031
+city_longitude: -117.6917245
+city_latitude: 33.53825339999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1888/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

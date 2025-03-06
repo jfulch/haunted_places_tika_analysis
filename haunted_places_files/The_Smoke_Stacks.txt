@@ -1,0 +1,21 @@
+city: Millington
+country: United States
+description: This used to be a gunpowder factory during the world wars. Most of it is under ground and a lot of tunnels. Rumor has it that it was used by an old crazy homeless man to kill and hide his victims. The factory is off limits but you can see the stacks for miles. rumor has it the woods are haunted by the old mans victims and the tunnels are haunted by the old man himself
+location: The Smoke Stacks
+state: Tennessee
+state_abbrev: TN
+longitude: -89.9519244
+latitude: 35.3491525
+city_longitude: -89.8973084
+city_latitude: 35.3414744
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

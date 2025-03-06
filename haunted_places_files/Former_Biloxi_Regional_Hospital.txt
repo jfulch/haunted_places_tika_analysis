@@ -1,0 +1,20 @@
+city: Biloxi
+country: United States
+description: When an active hospital, dying patients would see young girls at the end of their beds. One time there was a sighting of a tall, white figure pass through the dispatcher area, which became extremely cold. Locked doors can be heard opening and slamming shut during the night.
+location: Former Biloxi Regional Hospital
+state: Mississippi
+state_abbrev: MS
+longitude: -88.8896922
+latitude: 30.3956483
+city_longitude: -88.88530779999999
+city_latitude: 30.3960318
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

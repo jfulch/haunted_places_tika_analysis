@@ -1,0 +1,21 @@
+city: Perryville
+country: United States
+description: An Old abandoned Dutch Church with Iron Doors. If you place your hands on the doors, they will feel hot...like the "Gates of Hell". Put your ear on the door and hear a church sermon-taking place.
+location: Old Mud Meeting House
+state: Kentucky
+state_abbrev: KY
+longitude: -84.8630084
+latitude: 37.7239641
+city_longitude: -84.9516234
+city_latitude: 37.650351
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

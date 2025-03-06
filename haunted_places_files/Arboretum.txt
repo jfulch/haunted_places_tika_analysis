@@ -1,0 +1,21 @@
+city: Arcadia
+country: United States
+description: 301 N. Baldwin Avenue Arcadia, CA 91006. This once was the home of Chief Buffalo Child Long Lance, a 1930's actor. He claimed to be a Native American, but he was exposed by a reporter to be an African American, this drove him to suicide. His ghost has been seen by many including Aaron Spelling. The house was used as Mr. Roark's house on the TV show Fantasy Island.
+location: Arboretum
+state: California
+state_abbrev: CA
+longitude: -118.0508813
+latitude: 34.1448279
+city_longitude: -118.0353449
+city_latitude: 34.1397292
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Arlington
+country: United States
+description: The Hobo - Near the park are some railroad tracks that run through an area called Mosier Valley so the park is a good getting off place for the train hoppers since the train has to slow down here. One night an old hobo was staying in the park and was awoken by the sounds of screams. Wondering to the edge of the woods from where he had been sleeping he saw a car parked and what appeared to be a man and a woman fighting. Walking closer he saw the man hitting the woman and the woman knocked unconscious. Opening the door he grabbed the man but in the struggle that ensued was shot. The next day the woman was found wondering through the park delirious and half naked but the hobo laid dead next to where the car had been. However, lovers parked late at night still catch a glimpse of the old hobo. Legend has it that late at night if you are still in the park after closing you will hear a tap on your window and there will be an old man standing there in rags.
+location: River Legacy Park
+state: Texas
+state_abbrev: TX
+longitude: -97.1144413
+latitude: 32.7903322
+city_longitude: -97.1080656
+city_latitude: 32.735687
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

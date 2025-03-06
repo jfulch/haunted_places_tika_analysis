@@ -1,0 +1,21 @@
+city: Judsonia
+country: United States
+description: If you go to the Judsonia Cemetery at night, you will see a large statue of an angel. Stand directly underneath her and it appears that she is looking right at you. Some even say that her eyes light up red.
+location: Judsonia Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -91.6405527
+latitude: 35.2782653
+city_longitude: -91.6398575
+city_latitude: 35.270085
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

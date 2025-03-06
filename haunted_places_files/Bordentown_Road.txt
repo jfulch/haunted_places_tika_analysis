@@ -1,0 +1,21 @@
+city: Tullytown
+country: United States
+description: "Midnight Mary" has been seen gliding or walking along Manor Lake on Bordentown Road. She has been seen gliding across the road or walking on the water . Sometimes she is also seen hitchhiking in a dripping wet prom gown. She is a ghost of a young girl who died coming back from the prom when the car which she was riding in when of the road and into Manor Lake. The girl's body was never found.
+location: Bordentown Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.8032324
+latitude: 40.1448883
+city_longitude: -74.8146076
+city_latitude: 40.1392766
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

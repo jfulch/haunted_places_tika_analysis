@@ -1,0 +1,21 @@
+city: Webster City
+country: United States
+description: Years ago a med student killed himself in the old surgery room. It was on the 3rd floor along with obstetrics. The large heavy doors have been heard opening and slamming, but no one there. On 3rd shift and evenings is when this always happens. Also many pts and nurses have reported seeing a nurse in a white uniform in the dark halls and in rooms. Call lights going off in empty rooms. When OB is closed not uncommon to hear babies crying.
+location: Hamilton County Hospital
+state: Iowa
+state_abbrev: IA
+longitude: -93.8134614
+latitude: 42.4528232
+city_longitude: -93.8159149
+city_latitude: 42.4694321
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Acworth
+country: United States
+description: Sound of light footsteps, assuming a child, running down the hall. The sound of doors slamming loud enough to wake a sleeping adult and strong enough to feel a vibration on a wall has been reported. The sounds of chairs moving in the kitchen and the icemaker being used have been heard. Furniture moving in the basement office, sounded like banging of a metal file cabinet. A live two-year old running out of his room saying "Mommy, scaredy me!" when his mother goes to his room with him he says " Scaredy go way."
+location: Hickory Grove Subdivision
+state: Georgia
+state_abbrev: GA
+longitude: -84.5975716
+latitude: 34.0631052
+city_longitude: -84.6768796
+city_latitude: 34.0659329
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

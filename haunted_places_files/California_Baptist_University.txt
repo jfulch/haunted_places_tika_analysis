@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: Catacombs - Before the old mission style buildings were a college campus, they housed an insane asylum. In the early 1900's through the 1950's mentally insane patients walked the halls of the 4 story building. Under the building was a network of catacombs that allowed hospital workers to enter and exit the hospital once all the doors were locked. It is rumored that sometimes bad patients were taken down into the catacombs to be tortured. The basement of the college now holds offices, but also is where the entrance to the catacombs are located. Throughout the campus there are entrances to the catacombs as well. At night, one can hear knocking on the door to the catacombs in the basement and will feel a very cold presence. At random times the secret entrances will be found open with freezing cold air coming out of them. Students have reported going into th e catacombs and seeing the spirits of the patients from the asylum walking through the catacombs.
+location: California Baptist University
+state: California
+state_abbrev: CA
+longitude: -117.4255596
+latitude: 33.9284067
+city_longitude: -117.3961564
+city_latitude: 33.9533487
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1836/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

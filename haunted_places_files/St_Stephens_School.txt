@@ -1,0 +1,21 @@
+city: Grand Rapids
+country: United States
+description: Around 1970,a mysterious fire broke out in the downstairs gymnasium and trapped a young girl named Susan in the girl's bathroom. Students reported hearing screams and hollers coming from a stall in the girls locker-room, and seeing no one there.
+location: St. Stephens School
+state: Michigan
+state_abbrev: MI
+longitude: -85.6285066
+latitude: 42.9490465
+city_longitude: -85.6680863
+city_latitude: 42.9633599
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

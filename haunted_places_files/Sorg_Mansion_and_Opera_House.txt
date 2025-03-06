@@ -1,0 +1,20 @@
+city: Middletown
+country: United States
+description: Some that have stayed there say every night you can see and hear the old residents still walking through the tunnel and about the mansion, an actress that use to work there supposedly disappeared one night never to be seen again but she left her red dress. Some janitors have reported hearing a woman singing back where the dressing rooms are and when they go back there is a lady wearing a red dress putting on makeup but when she sees them staring she looks frightened and disappears just like in real life.
+location: Sorg Mansion and Opera House
+state: Ohio
+state_abbrev: OH
+longitude: -84.4053656
+latitude: 39.5160943
+city_longitude: -84.39827629999999
+city_latitude: 39.5150576
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

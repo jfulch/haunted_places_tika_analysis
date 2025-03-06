@@ -1,0 +1,21 @@
+city: Lincoln
+country: United States
+description: 3 months after it opened the owner was walking down the hall and saw a person run across the room way ahead of him. He went after it and it was gone. Also, bells were once heard ringing and a broom caught on fire in the storeroom when no one was there.
+location: Speed Indoor Racing
+state: Nebraska
+state_abbrev: NE
+longitude: -71.410924
+latitude: 41.88527
+city_longitude: -96.6851982
+city_latitude: 40.8257625
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

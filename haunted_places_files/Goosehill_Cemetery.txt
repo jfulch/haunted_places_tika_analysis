@@ -1,0 +1,21 @@
+city: Strykersville
+country: United States
+description: The cemetery on the top of Goosehill is from the 1800-early 1900's. Very small (about 30 graves or so) surrounded by woods on top of a steep hill, many have witnessed strange dark shadows walking around, and unexplained voices from the woods surrounding it.
+location: Goosehill Cemetery
+state: New York
+state_abbrev: NY
+longitude: -78.53760179999999
+latitude: 42.7141072
+city_longitude: -78.4483532
+city_latitude: 42.7050607
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

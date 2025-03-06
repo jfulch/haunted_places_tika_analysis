@@ -1,0 +1,20 @@
+city: Carbon
+country: United States
+description: Virginian - A ghost is said to haunt the rooms and restaurant. Employees have reported items mysteriously moved around, and have reported sightings of ghosts through out the old hotel.
+location: Medicine Bow
+state: Wyoming
+state_abbrev: WY
+longitude: -106.2047385
+latitude: 41.8955212
+city_longitude: -106.912251
+city_latitude: 41.6032207
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1861/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

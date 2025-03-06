@@ -1,0 +1,18 @@
+city: Patterson
+country: United States
+description: you get some really weird feelings around that area it was used by the Confederates back when the war between the states was going on.
+location: Old Fort Benton/ Old Patterson school
+state: Missouri
+state_abbrev: MO
+city_longitude: -90.5509599
+city_latitude: 37.1885
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1861/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

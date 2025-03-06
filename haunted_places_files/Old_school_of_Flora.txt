@@ -1,0 +1,21 @@
+city: Flora
+country: United States
+description: The school has been rotting for over 20 years in the middle of a small town named Flora. Also about a quarter mile behind the school lies an old cemetery full of broken down tombs from the early 20th century. Story goes that the building is home for those buried in graveyard. If you can ever enter the old school which is locked up you can hear talking and things are moved to different places. Flashes are some times seen when walking by.
+location: Old school of Flora
+state: Indiana
+state_abbrev: IN
+longitude: -86.48097399999999
+latitude: 40.54623
+city_longitude: -86.5244434
+city_latitude: 40.5472587
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

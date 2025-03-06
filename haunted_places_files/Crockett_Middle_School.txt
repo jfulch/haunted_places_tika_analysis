@@ -1,0 +1,21 @@
+city: Irving
+country: United States
+description: A young pregnant girl killed herself in the old ladies dressing room. There have been sightings of this young girl and screams heard before and after gym class in the new dressing room
+location: Crockett Middle School
+state: Texas
+state_abbrev: TX
+longitude: -96.9779778
+latitude: 32.8344477
+city_longitude: -96.9488945
+city_latitude: 32.8140177
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

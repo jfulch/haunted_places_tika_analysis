@@ -1,0 +1,21 @@
+city: Brownstown
+country: United States
+description: Back in the early 90's there was a rumor heard of a man with a ax walking around in the woods and every time a kid from the neighborhood walked into the woods they would see him for a split second but then the face disappeared it was said that someone actually got it on video tape but now you only see it during a full moon you can see an extra shadow walking besides you with a man and a axe.
+location: Dawnshire Park
+state: Michigan
+state_abbrev: MI
+longitude: -83.220996
+latitude: 42.1663269
+city_longitude: -83.2572332
+city_latitude: 42.1261157
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

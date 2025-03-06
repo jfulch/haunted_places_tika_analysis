@@ -1,0 +1,21 @@
+city: York
+country: United States
+description: A very tall old brick building. People have said that as you reach the second floor where the first cellblock is located 2 or 3 ghosts follow you as you progress up the stairs. You can also look down at the cells and see a red glow as though from a cigarette. Many people are said to have committed suicide and have been murdered in this prison. - June 2008 Update: you are no longer able to enter the building. The door in the back, which was the way to enter the building, has been sealed with cinderblocks.
+location: Abandoned York Prison/George St.
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.6629631
+latitude: 39.9862469
+city_longitude: -76.727745
+city_latitude: 39.9625984
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

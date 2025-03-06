@@ -1,0 +1,21 @@
+city: Hull
+country: United States
+description: Noises and whispering can be heard. When standing in one of the many rooms there are often more than one and up to 4 doors from which you will see shadows fly by and even see shadows linger in the doorway. On the far end of forts, it has been known that sometimes if something is thrown into the doorway it comes flying back out at you. Possesses many evil-like characteristics, such as the steps of the stairs leading down to the forts are diagonal and extremely awkward to walk down.
+location: Fort Revere
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9051126
+latitude: 42.3045351
+city_longitude: -70.9078346
+city_latitude: 42.3020647
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

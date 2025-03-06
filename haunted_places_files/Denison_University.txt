@@ -1,0 +1,20 @@
+city: Granville
+country: United States
+description: On the 7th tier of the Denison University library, students who have fallen asleep reported being woken up by a shadowy woman in old dress. This woman evidently has a serious problem with male students, and will wake them by hitting them on the back of the head with some type of rod.
+location: Denison University
+state: Ohio
+state_abbrev: OH
+longitude: -82.5223309
+latitude: 40.0734583
+city_longitude: -82.51960369999999
+city_latitude: 40.06811920000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1831/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Topeka
+country: United States
+description: Topeka High School is one of the oldest schools in Topeka. There are tunnels beneath the school and is supposedly built over a graveyard. There have been witnesses of ghosts and even pictures. When said to be alone, there has been conversations between the ghosts. Also, there have been weird things that have happened to teachers and students in the halls and classrooms when they are alone. Students say “even though this school is thought to be haunted, it is still the best high school ever!!”
+location: Topeka High School
+state: Kansas
+state_abbrev: KS
+longitude: -95.6854466
+latitude: 39.04947740000001
+city_longitude: -95.6890185
+city_latitude: 39.0558235
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

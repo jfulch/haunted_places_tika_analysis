@@ -1,0 +1,21 @@
+city: Arlington Heights
+country: United States
+description: Rumor has it that one night a janitor was cleaning in the auditorium while it was dark. While cleaning the stage he bumped into something. When he looked up he saw a boy hanging from a rope. people say you can hear strange voices and see odd things. - November 2007 Correction - A student found the body rather than a janitor.
+location: St. Viator High School
+state: Illinois
+state_abbrev: IL
+longitude: -87.969388
+latitude: 42.09449619999999
+city_longitude: -87.98062650000001
+city_latitude: 42.0883603
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Columbus
+country: United States
+description: it is suspected that hyvee is haunted by a ghost named scooter. he is about 5"6' and appears to have brown hair. he comes out around 2 and people have said to hear screeching noises in the back room close to the dairy produce section. employees have reported this to management but they have thought nothing of it up until about 2 months ago the manager had a akward encounter with this suspected ghost.
+location: Hy-Vee
+state: Nebraska
+state_abbrev: NE
+longitude: -97.364109
+latitude: 41.440518
+city_longitude: -97.3593904
+city_latitude: 41.43029730000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

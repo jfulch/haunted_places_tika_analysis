@@ -1,0 +1,20 @@
+city: Aberdeen
+country: United States
+description: Johnson Fine Arts Center - This is a young building, having only been built in the early 1970s.  However, there have been some unexplained occurrences.  Occasionally, there can be heard a whistled tune from one of the men's restrooms when there is no one present.  Sometimes the lights in the makeup room and costume shop come on or off, depending on how one leaves them.  On rare occasions, phantom keys have been heard jingling in the empty seating area.  One night in particular, this was followed up by a loud crash on some platforms set up onstage.  One time, a small group of students had a ball of tape thrown at them from nowhere and the wheelchair lift operated on its own.  After dark, when the building is empty, many students who have passed through the front hallway have expressed an intensely creepy feeling - the need to hurry up and get out of the hallway.
+location: Northern State University
+state: South Dakota
+state_abbrev: SD
+longitude: -98.4844923
+latitude: 45.4510995
+city_longitude: -98.4864829
+city_latitude: 45.4646985
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

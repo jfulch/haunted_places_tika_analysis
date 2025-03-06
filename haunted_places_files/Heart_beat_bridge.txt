@@ -1,0 +1,19 @@
+city: Ellicott City
+country: United States
+description: Years ago, at the house across from the bridge, a man cut out a woman's heart and threw it into a stream by the bridge. To this day, if you go there, and turn off your engine ... you can still hear her heart beat. Off of Bonnie Branch Road
+location: Heart beat bridge
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.7983067
+city_latitude: 39.2673283
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.45
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

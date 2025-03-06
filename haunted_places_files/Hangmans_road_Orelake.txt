@@ -1,0 +1,19 @@
+city: LaPorte
+country: United States
+description: On this road, a young couple was driving home from a date when all of a sudden, their car broke down. The young man went for help while the girl sat in the car. When the man returned he couldn't find his girlfriend. He figured she had gone to look for help also. A drop of blood dripped on the windshield and he looked up above his car to find the girl hanging from a tree. People have seen ghosts hanging, weird things in the woods, and since the site is right next to a swamp, they say it is very creepy. It is a popular place for breakdowns and a lot of people have been killed there by car accidents.
+location: Hangman's road/ Orelake
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.7227195
+city_latitude: 41.611143
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

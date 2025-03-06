@@ -1,0 +1,21 @@
+city: Springville
+country: United States
+description: In the downstairs men's bathroom the toilets sometimes flush by themselves. Also, from the stage you can see a light shining on the wall from the doorway that leads down there but there is no explainable source and it is not visible when actually walking by the doorway.
+location: Art City Playhouse (previously the Villa theater)
+state: Utah
+state_abbrev: UT
+longitude: -111.6110469
+latitude: 40.16342239999999
+city_longitude: -111.6107526
+city_latitude: 40.1652335
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

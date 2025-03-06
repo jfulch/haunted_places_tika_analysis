@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: On Valentine's Day in 1929, Al Capone sent some of his men to leave a tragic message to Bugs Moran at one of his buildings. The building was called the S-M-C Cartage Company and was a red, brick structure on Clark Street. Seven men were lined up and mowed down with machine gun fire, leaving the wall splattered with blood and full of bullet holes. After hearing the news, Bugs was heard to exclaim, "Only Capone kills guys like that!" In 1972, a man bought the factory and transformed it into a 20's themed club. The brick wall the massacre took place on was dismantled and the factory was torn down. People still hear gunfire and screams coming from the area. Supposedly, before it was torn down, seven shadowy figures were seen lined up on the wall and the viewer would be filled with fear.
+location: S-M-C Cartage Company
+state: Illinois
+state_abbrev: IL
+longitude: -87.63781949999999
+latitude: 41.9208233
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1929/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

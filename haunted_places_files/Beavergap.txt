@@ -1,0 +1,19 @@
+city: Stilwell
+country: United States
+description: There's an old place called beaver gap were there are old Indian spirits that will come out and you can see them at night some people say they see a white horse running around there that no one can catch they say it just disappears when you chase it.
+location: Beavergap
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -94.6285553
+city_latitude: 35.81453
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Forester
+country: United States
+description: A young girl named Minnie Quay is said to haunt the shores of this lake. When Minnie was around 15 years of age, she fell in love with a sailor. Unfortunately, Minnie's parents disapproved and would not let her see him. The sailor later died at sea. Minnie was so upset upon hearing of his death that she dressed herself in all white and jumped off the pier into the cold waters of Lake Huron. Her body is buried in the nearby cemetery. People have claimed to see her ghost walking the beach, crying for her lost love.
+location: Lake Huron
+state: Michigan
+state_abbrev: MI
+longitude: -82.5683672
+latitude: 43.4984489
+city_longitude: -82.5693699
+city_latitude: 43.4991899
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

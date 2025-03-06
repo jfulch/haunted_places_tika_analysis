@@ -1,0 +1,20 @@
+city: Cedar Point
+country: United States
+description: The carousel in the park is an old one, with hand carved horses. Legend has it that the man who carved the horses for the carousel caught his wife cheating on him with a jockey from the local horse track. He shot and killed them both for their infidelity. There is a black horse on the carousel with bones carved into his mane, and the image of a jockey is carved into the saddle of another horse. Employees have reported hearing the music of the carousel at night while it spins backwards. They have also reported leaving it at night and arriving the next morning to find the horses in different positions.-  November 2003 update: The carousel did not originate in Ohio it is actually from Michigan, near Lake Lansing. The locals there believe that Al Capone used to torture people on the carousel and then dump their bodies into the lake, which is where the haunting actual begins.
+location: Amusement Park
+state: Ohio
+state_abbrev: OH
+longitude: -82.6835206
+latitude: 41.482207
+city_longitude: -82.6835206
+city_latitude: 41.482207
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

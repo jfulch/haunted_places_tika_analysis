@@ -1,0 +1,21 @@
+city: Steilacoom
+country: United States
+description: there is a lot of history behind this mansion. Many employees have reported abnormal occurrences with in the building. One of the owner’s wives killed herself in the mansion and still haunts it, but it has been reported that multiple ghost or entities reside there. At one time it was a B&B during the depression.
+location: ER Rogers’s restaurant
+state: Washington
+state_abbrev: WA
+longitude: -122.5204728
+latitude: 47.1702945
+city_longitude: -122.6026274
+city_latitude: 47.1698197
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

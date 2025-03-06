@@ -1,0 +1,21 @@
+city: Lock Haven
+country: United States
+description: A school custodian died very suddenly of a violent heart attack in the school's multipurpose room during the 1996-97 school year. His presence is still seen and felt by many teachers as well as some of the students throughout the school.
+location: The McGhee Elementary School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.4546596
+latitude: 41.1327181
+city_longitude: -77.4469263
+city_latitude: 41.1370133
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1772/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

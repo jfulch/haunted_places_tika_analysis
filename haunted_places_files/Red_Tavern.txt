@@ -1,0 +1,21 @@
+city: Methuen
+country: United States
+description: Loud crashes heard from the top floor. They also have heard a young girl playing and laughing through the halls. Seen grayish figures in kitchen and have heard snarling from the basement.
+location: Red Tavern
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.187074
+latitude: 42.728297
+city_longitude: -71.1908924
+city_latitude: 42.7262016
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1802/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

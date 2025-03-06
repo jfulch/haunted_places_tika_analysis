@@ -1,0 +1,19 @@
+city: Elkton
+country: United States
+description: An abandoned 19th century bridge standing approximately 100 feet over the Elk river. Supposedly a mother and her infant child were crossing the bridge one night in their carriage, when suddenly the carriage wheel broke, flipping the carriage over into the river, killing the both of them. Local residents claim that if you go to the bridge late at night, you can hear the faint cries of the baby and the horrid screams of the terrified mother.
+location: Hanniwal Bridge
+state: Tennessee
+state_abbrev: TN
+city_longitude: -86.88861500000002
+city_latitude: 35.0523054
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

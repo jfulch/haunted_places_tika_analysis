@@ -1,0 +1,20 @@
+city: Cincinnati
+country: United States
+description: There are adjoining doors to the now-empty swimming pool from the boys and girls locker rooms. One day, a foreign exchange student decided to skip gym class. He opened the first door, and the area was very dark. He heard a noise, and began running, stumbling right into the swimming pool. A janitor heard screaming, opened the door and turned on the light. The student was being pushed under water by something invisible. To this day, at 1:24 in the afternoon, you can hear screaming and splashing.
+location: Western Hills High School
+state: Ohio
+state_abbrev: OH
+longitude: -84.599589
+latitude: 39.124648
+city_longitude: -84.5120196
+city_latitude: 39.1031182
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

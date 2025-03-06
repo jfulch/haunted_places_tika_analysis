@@ -1,0 +1,21 @@
+city: Cedar Bluffs
+country: United States
+description: late at night you can hear people talking and you will think that a chain saw is running after you. you will look back and see that nothing is there. at the corner every thing will stop if you do not believe come see for your self.
+location: Old Coap
+state: Nebraska
+state_abbrev: NE
+longitude: -96.610044
+latitude: 41.3956342
+city_longitude: -96.6114157
+city_latitude: 41.3969461
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

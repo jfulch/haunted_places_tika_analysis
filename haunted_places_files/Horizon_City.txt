@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Carrol T Welch - Rumors of a little girl getting killed during the construction of the school. Hearing noises and seeing the ghost of the little girl have been reported.
+location: Horizon City
+state: Texas
+state_abbrev: TX
+longitude: -106.2074793
+latitude: 31.69261209999999
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

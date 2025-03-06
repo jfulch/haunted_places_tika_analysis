@@ -1,0 +1,20 @@
+city: Lexington
+country: United States
+description: Marine Hall - ghosts inhabit one of the barracks for the cadets. A student accidentally committed suicide by hanging himself. Ever since reports of strange noises, showers turning on by themselves and strange apparitions have appeared.
+location: Wentworth Military Academy
+state: Missouri
+state_abbrev: MO
+longitude: -93.8720852
+latitude: 39.1868282
+city_longitude: -93.8799426
+city_latitude: 39.1847339
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1867/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

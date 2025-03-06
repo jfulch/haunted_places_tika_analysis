@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: Theater -  there is a ghost of a young girl who haunts the theatre. She is said to be seen in the basement storage, on the stage, and in the draft room late at night while students worked. She often tries to touch students and changes the station or volume on the radio when students are drafting should she dislike a station or like a song. She has often "hung out" with students while they worked late at night. She is dressed in a Victorian 1900's or so dress and hat with lace trim.
+location: University of Portland
+state: Oregon
+state_abbrev: OR
+longitude: -122.7275712
+latitude: 45.5732046
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

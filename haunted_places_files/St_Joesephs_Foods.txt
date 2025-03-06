@@ -1,0 +1,20 @@
+city: St. Joseph
+country: United States
+description: at night some of the guards have said to see the door of the guard shack open and the sound of footsteps as if someone was coming in the guard shack, one guard said he was doing his rounds and saw someone walking outback by the back fence, sounds come from the basement when no one is in the building.
+location: St. Joeseph's Foods
+state: Missouri
+state_abbrev: MO
+longitude: -94.8753934
+latitude: 39.720025
+city_longitude: -94.846681
+city_latitude: 39.7674578
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Hornersville
+country: United States
+description: Reports of 3 human ghosts and a dog ghost walking the cemetery.
+location: The Old Hornersville Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -90.476776
+latitude: 36.0698802
+city_longitude: -90.1139826
+city_latitude: 36.0417362
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

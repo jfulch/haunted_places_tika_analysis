@@ -1,0 +1,19 @@
+city: Greeneville
+country: United States
+description: March 2007: Has been Removed
+location: Old Arch Rail Road Bridge
+state: Tennessee
+state_abbrev: TN
+city_longitude: -82.83098609999999
+city_latitude: 36.1631574
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

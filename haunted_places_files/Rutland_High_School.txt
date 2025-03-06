@@ -1,0 +1,21 @@
+city: Rutland
+country: United States
+description: When Rutland High School was first getting built there was a man who operated the cement mixer. He was called Smokey because he smoked like 6 packs a day. Well one day he disappeared. The foreman thought he just took off and didn't give it a second thought. Once the school opened girls started smelling smoke in the girls locker room. At first everyone thought that some one was smoking before gym class. The female gym teacher then stood guard to catch anyone smoking. She never caught anyone but the smoke smell is always there.
+location: Rutland High School
+state: Vermont
+state_abbrev: VT
+longitude: -72.9546905
+latitude: 43.6174987
+city_longitude: -72.9726065
+city_latitude: 43.6106237
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1926/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

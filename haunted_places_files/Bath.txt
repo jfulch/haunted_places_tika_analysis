@@ -1,0 +1,21 @@
+city: Steuben
+country: United States
+description: V. A. Center Cemetery - it is said you can that you can see the soldiers.
+location: Bath
+state: New York
+state_abbrev: NY
+longitude: -77.31775770000002
+latitude: 42.3370164
+city_longitude: -75.2829465
+city_latitude: 43.3200694
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1774/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

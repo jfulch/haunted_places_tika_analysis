@@ -1,0 +1,19 @@
+city: Los Angeles
+country: United States
+description: Reports of a residual scene of a murder happening - A woman running, a man running after her, when they reach the edge of the over pass he grabs her to strangle her and throws her over.
+location: The over pass over Pasadena Free way
+state: California
+state_abbrev: CA
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

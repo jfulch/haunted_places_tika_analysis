@@ -1,0 +1,21 @@
+city: Disneyland
+country: United States
+description: which is above the Pirates of the Caribbean. Workers have reported that after park closing and in the early morning, they see a figure of a tall man walking around in the Gallery. He is believed to be the spirit of Walt himself. Cold spots are also reported by numerous visitors.
+location: The Disney Gallery
+state: California
+state_abbrev: CA
+longitude: -117.9184696
+latitude: 33.8100999
+city_longitude: -117.9189742
+city_latitude: 33.8120918
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1724/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

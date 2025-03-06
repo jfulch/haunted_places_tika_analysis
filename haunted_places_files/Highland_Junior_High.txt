@@ -1,0 +1,21 @@
+city: Gilbert
+country: United States
+description: In the girls P.E. locker room, the toilets flush, the blow-dryers turn on, and the lockers open all by themselves. The school was built on a piece of land that used to be a farm. On the farm, the father ran over his own daughter with the tractor, killing her. The ghost of the little girl never left.
+location: Highland Junior High
+state: Arizona
+state_abbrev: AZ
+longitude: -111.6841027
+latitude: 33.36358790000001
+city_longitude: -111.789027
+city_latitude: 33.3528264
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

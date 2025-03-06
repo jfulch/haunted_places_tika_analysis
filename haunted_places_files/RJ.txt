@@ -1,0 +1,20 @@
+city: Medway
+country: United States
+description: there is a weird feeling when you go there, there has been strange noises and doors unlocking and opening on there own.
+location: RJ
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.4087157
+latitude: 42.1552471
+city_longitude: -71.3967256
+city_latitude: 42.1417641
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

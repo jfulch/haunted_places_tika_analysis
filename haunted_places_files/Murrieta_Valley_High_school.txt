@@ -1,0 +1,21 @@
+city: Murrieta
+country: United States
+description: Apparitions of kids and equipment moves.
+location: Murrieta Valley High school
+state: California
+state_abbrev: CA
+longitude: -117.2307136
+latitude: 33.5640069
+city_longitude: -117.2139232
+city_latitude: 33.5539143
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

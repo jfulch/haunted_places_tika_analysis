@@ -1,0 +1,21 @@
+city: Manteca
+country: United States
+description: An apparition of a girl has been seen twice by employees working graveyard shift .Some nights after closing, music and laughter has been heard. When workers go to check it out the music and voices stop.  December Update: The details of the story behind the murder have been removed out of respect for the family.
+location: Home Depot
+state: California
+state_abbrev: CA
+longitude: -121.1926854
+latitude: 37.7942198
+city_longitude: -121.2160526
+city_latitude: 37.7974273
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

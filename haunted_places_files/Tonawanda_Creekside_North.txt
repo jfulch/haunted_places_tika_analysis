@@ -1,0 +1,19 @@
+city: Batavia
+country: United States
+description: On the north side of the Tonawanda, in the City of Batavia, lies the old Pioneer Cemetery. It was moved more than seventy years ago to the center of Batavia because of a flooding problem. When the creek flooded, it would sometimes wash up a body or two. It is believed that not all of the bodies were relocated. There now stands a number of businesses where the original cemetery once was. People claim to this day of seeing a mysterious woman in gray walking along the creekside.
+location: Tonawanda Creekside North
+state: New York
+state_abbrev: NY
+city_longitude: -78.1875167
+city_latitude: 42.9981156
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1806/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

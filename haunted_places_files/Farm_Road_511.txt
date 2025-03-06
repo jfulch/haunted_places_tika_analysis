@@ -1,0 +1,20 @@
+city: Brownsville
+country: United States
+description: Farm road 511 is a fairly well traveled road, but it has been reported, in the local newspaper and other media, that if you travel these roads late at night People have encountered what are known as "ghost cows" in this desolate stretch or road in the middle of the night. As you drive down the road you may suddenly see a cow six feet in front of you and try to avoid it... only to find out that your evasive action was unnecessary, since there was never really anything there. We have had some people get into serious accidents, causing great damage to their vehicles and person only to get out of their vehicles and find no sign of any animal of living creature in sight.
+location: Farm Road 511
+state: Texas
+state_abbrev: TX
+longitude: -97.5086773
+latitude: 25.9804505
+city_longitude: -97.4974838
+city_latitude: 25.9017472
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1975/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Walkerton
+country: United States
+description: The tracks are set back behind houses this worker was building the tracks. There was one more spike to set he was trying to finish it when he was hit by a train. He wears a blood spattered on his railroad uniform he still doesn't realize it's been placed. There is also a suicidal teenage girl who killed herself
+location: Railroad tracks that go through the middle of town
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.4830681
+city_latitude: 41.4667113
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

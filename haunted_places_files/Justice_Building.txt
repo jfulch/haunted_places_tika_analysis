@@ -1,0 +1,21 @@
+city: Medford
+country: United States
+description: The Justice Building in Medford Oregon, located downtown...every person who has ever worked for any of the janitorial companies to do cleaning in that building has experienced some sort of incident on the 4th floor...the cleanings would take place after 1:00 a.m. and the workers always worked alone and were in the building alone. Lights would get turned off....the worker would hear someone calling his or her name. doors would mysteriously slam shut and chills would run up and down your spine!
+location: Justice Building
+state: Oregon
+state_abbrev: OR
+longitude: -122.8843111
+latitude: 42.3233235
+city_longitude: -122.8755949
+city_latitude: 42.3265152
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1841/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Arlington
+country: United States
+description: Right next to the cemetery it is said that there is an apparition of an older woman dressed in servant’s clothing who walks from the back room and through the walls.
+location: Robbins Cottage
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1553105
+latitude: 42.4149016
+city_longitude: -71.1564729
+city_latitude: 42.4153925
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 0

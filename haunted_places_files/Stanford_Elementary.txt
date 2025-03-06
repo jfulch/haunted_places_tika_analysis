@@ -1,0 +1,21 @@
+city: Southgate
+country: United States
+description: there's was a white little girl with green eyes that got killed by her boyfriend. apparently he was a gang member. it says that her spirit follows around the school, and you can hear her cried at times in the night.
+location: Stanford Elementary
+state: California
+state_abbrev: CA
+longitude: -118.2217736
+latitude: 33.9510783
+city_longitude: -118.2120161
+city_latitude: 33.954737
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

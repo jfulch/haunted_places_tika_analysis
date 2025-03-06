@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: Spotted a girl in the hallway. Her parents died in a car crash and she was left in the school where she hung herself. Now is said that she walks around the halls opening and closing doors and also seen when walking alone.
+location: Piedmont Hills High School
+state: California
+state_abbrev: CA
+longitude: -121.8505235
+latitude: 37.4024306
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

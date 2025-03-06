@@ -1,0 +1,19 @@
+city: Dannemora
+country: United States
+description: Ghost often appears in the bathroom mirror being hanged. He committed suicide with a orange extension cord. Little girl was killed by her father and they both haunt the house to this day. Little girl loves music and you can hear her sing. The wine cellar is haunted due to a little boy being trapped and burned alive.
+location: House on Flagg Street
+state: New York
+state_abbrev: NY
+city_longitude: -73.7237528
+city_latitude: 44.7214301
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

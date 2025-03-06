@@ -1,0 +1,21 @@
+city: Thorp
+country: United States
+description: People have reported sightings of the ghost of an Indian woman by the name of Suzy who was lynched by persons unknown in the thorp area around 1890. She has been seen riding a white horse and crying among the tombstones on moonlit nights
+location: Thorp cemetery
+state: Washington
+state_abbrev: WA
+longitude: -120.6711851
+latitude: 47.0679018
+city_longitude: -120.6711851
+city_latitude: 47.0679018
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

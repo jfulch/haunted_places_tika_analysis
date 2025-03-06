@@ -1,0 +1,20 @@
+city: Sheffield Lake
+country: United States
+description: January 2007 Removal of false entry.
+location: Sheffield Middle School
+state: Ohio
+state_abbrev: OH
+longitude: -82.0948743
+latitude: 41.469049
+city_longitude: -82.1015369
+city_latitude: 41.48754
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

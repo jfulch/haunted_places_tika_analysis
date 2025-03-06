@@ -1,0 +1,20 @@
+city: Branson
+country: United States
+description: A wagon train once passed through here, where some of its passengers were killed. People feel cold chills at night through the valley on this road.
+location: Animal Safari Rd
+state: Missouri
+state_abbrev: MO
+longitude: -93.2912098
+latitude: 36.6282515
+city_longitude: -93.2185144
+city_latitude: 36.6436731
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Sacramento
+country: United States
+description: Theater - An old paddle wheel boat docked at Old Sacramento, now used as a theater and restaurant. The theater is haunted by the ghost of the original captain. Employees have seen him sitting in the balcony during productions; footsteps are heard above deck, a glass of water spilled by unseen force onto the soundboard in the sound booth.
+location: Delta King River Boat
+state: California
+state_abbrev: CA
+longitude: -121.5066906
+latitude: 38.5827116
+city_longitude: -121.4943996
+city_latitude: 38.5815719
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

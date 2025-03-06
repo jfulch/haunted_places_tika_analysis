@@ -1,0 +1,21 @@
+city: Santa Clara
+country: United States
+description: Roast Beef Shop -  There was a man wearing a blue shirt that got locked up in the freezer and froze to death. Every night at exactly 10:00 p.m. to 12:00 a.m. when closing u can hear screams in the freezer of the man in the blue shirt.
+location: Paramount's Great America
+state: California
+state_abbrev: CA
+longitude: -121.975126
+latitude: 37.3984205
+city_longitude: -121.9552356
+city_latitude: 37.3541079
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

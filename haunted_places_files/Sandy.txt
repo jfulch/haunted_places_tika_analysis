@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: Liberty Heights - 4 years ago, this apartment building had a pool where a playground is now built. A little boy went swimming by himself with no supervision. He drowned, and was found a couple hours later. It is said if you go to the playground by yourself you'll feel a cold presence. Swings move by themselves. and if you dig in the woodchips, puddles of water float to the surface.
+location: Sandy
+state: Utah
+state_abbrev: UT
+longitude: -111.8389726
+latitude: 40.5649781
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

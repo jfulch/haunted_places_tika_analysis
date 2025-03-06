@@ -1,0 +1,19 @@
+city: Deming
+country: United States
+description: Old factory in the desert, you can hear screams from an abandoned house 50 yards away. Shadowy figures, and a little girl holding a baby doll.
+location: Greensands
+state: New Mexico
+state_abbrev: NM
+city_longitude: -107.7586404
+city_latitude: 32.2686981
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Eckley
+country: United States
+description: story be told....sit on the couch once and you get a scratch....sit on it again and you bleed...sit on it the third and final time you die. bad luck comes to those that sit on this stone couch.
+location: stone couch on side of road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.8440666
+latitude: 40.9886719
+city_longitude: -75.8626117
+city_latitude: 40.99352220000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

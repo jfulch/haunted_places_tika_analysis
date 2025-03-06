@@ -1,0 +1,21 @@
+city: Reading
+country: United States
+description: Ghost of a former resident of this old house now turned restaurant. She is a teenager named Emily who is seen in the wine cellar and the 2nd floor banquet
+location: Emily's Pub
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.90826980000001
+latitude: 40.2340901
+city_longitude: -75.9268747
+city_latitude: 40.3356483
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

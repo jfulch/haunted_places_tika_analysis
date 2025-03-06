@@ -1,0 +1,21 @@
+city: Talcott
+country: United States
+description: the ghost of John Henry haunts this tunnel where he died finishing it's construction.
+location: Big Bend Tunnel
+state: West Virginia
+state_abbrev: WV
+longitude: -80.7671197
+latitude: 37.6495322
+city_longitude: -80.7542478
+city_latitude: 37.6515095
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1848/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Maryville
+country: United States
+description: It is said in the gym in the boy's locker room that a young man hung himself. The Toilet flushes by its self and the closet light goes on and off by its self. Also in the theater there is said to be ghosts walking around and playing the piano.
+location: Porter Elementary School
+state: Tennessee
+state_abbrev: TN
+longitude: -83.8688385
+latitude: 35.8043953
+city_longitude: -83.9704593
+city_latitude: 35.7564719
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1993/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

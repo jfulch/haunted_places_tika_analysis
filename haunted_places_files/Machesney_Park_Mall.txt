@@ -1,0 +1,21 @@
+city: Machesney Park
+country: United States
+description: People just recently reported that when they were in the bathroom by themselves at the mall they could hear doors slamming, toilets flushing, and water running and the person said she looked under the stall while she was still in it and she could see nothing but still hear everything and then when they would get out of the stall no one would be there.
+location: Machesney Park Mall
+state: Illinois
+state_abbrev: IL
+longitude: -89.0209572
+latitude: 42.3667771
+city_longitude: -89.03899559999999
+city_latitude: 42.3472406
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

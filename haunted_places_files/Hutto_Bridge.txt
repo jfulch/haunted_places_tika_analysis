@@ -1,0 +1,21 @@
+city: Hutto
+country: United States
+description: To this day if you go out to the bridge and turn your car off and put it in neutral, ghosts push you across the bridge away to safety from Jake (the bridge is flat). And if you put flower on the back of your car you can see the handprints of them from them pushing your car.
+location: Hutto Bridge
+state: Texas
+state_abbrev: TX
+longitude: -97.5481007
+latitude: 30.5474058
+city_longitude: -97.5466702
+city_latitude: 30.54269949999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/07/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

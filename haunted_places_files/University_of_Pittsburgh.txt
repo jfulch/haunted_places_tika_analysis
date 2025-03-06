@@ -1,0 +1,21 @@
+city: Johnstown
+country: United States
+description: Oak Hall - Drums can be heard off in the distance as well as chanting. Whispers calling out the name Allison and Abby can sometimes be heard.
+location: University Of Pittsburgh
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.83568199999999
+latitude: 40.267516
+city_longitude: -78.9219698
+city_latitude: 40.32674069999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1968/04/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

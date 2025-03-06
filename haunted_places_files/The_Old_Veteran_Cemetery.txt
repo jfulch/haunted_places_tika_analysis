@@ -1,0 +1,19 @@
+city: Warwick
+country: United States
+description: Reports of hearing twigs snapping, shadows moving by the lake, and seeing strange shapes kneeling behind the graves have been reported.  Also, at night the is a tree in the center of the cemetery that looks like a demon.
+location: The Old Veteran Cemetery
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.39634099999999
+latitude: 41.754934
+city_longitude: -71.4161671
+city_latitude: 41.7001009
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

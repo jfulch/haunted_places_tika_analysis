@@ -1,0 +1,21 @@
+city: Fairmont
+country: United States
+description: every 13 years on Halloween you can here two boys screaming and hear a vinegar barrel hitting the lake and the first person they see they haunt for 13 years.
+location: Vinegar Hill
+state: West Virginia
+state_abbrev: WV
+longitude: -80.15482089999999
+latitude: 39.4182677
+city_longitude: -80.1425781
+city_latitude: 39.4850848
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/10/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

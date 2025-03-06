@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: Formerly the site of Austin State School - There are several buildings that have had sightings and sounds by staff members. This old place was built over a cemetery. The cemetery is that of the patients that expired in the early part of this century. But recently to show proof that this never took place a coffin popped out of the ground right next to one of the condemned buildings. - April 2005 update: the school has been torn down. If there was any evidence of the bodies, they have been removed.
+location: Central Market
+state: Texas
+state_abbrev: TX
+longitude: -97.739661
+latitude: 30.307434
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

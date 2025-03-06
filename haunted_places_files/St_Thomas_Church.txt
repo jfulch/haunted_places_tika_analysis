@@ -1,0 +1,20 @@
+city: Thomaston
+country: United States
+description: The school and the church basement is haunted. in the basement you can see an orb glowing in the hallways, footsteps downstairs yet no one else is there. Also people have seen chairs and tables move down there. In the school you can feel a presence sometimes of another person, and everyone who went there refused to go in there at night. The school is now and many believe it to be haunted by a priest who preached there but died, and he left a million dollars for it to stay open.
+location: St. Thomas Church
+state: Connecticut
+state_abbrev: CT
+longitude: -73.0720584
+latitude: 41.6745949
+city_longitude: -73.0724037
+city_latitude: 41.6743343
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

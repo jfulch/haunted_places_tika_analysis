@@ -1,0 +1,21 @@
+city: Bloomsberg
+country: United States
+description: In the early 80's, my family rented this beautiful old home. We were told that the owners mother died in the upstair room right off the stairs. You can still smell her perfume and hear her walking at night. In the guest house, the front enclosed porch, the rocking chair would rock and the room was airtight. The attic door would never stay close, so my father would wedge a knife in the top of the door. Every monday morning, the knife would be neatly placed on the step inside the door. Us boys were way too short to reach it.
+location: Old Turkey Hill Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.42701
+latitude: 41.0252089
+city_longitude: -76.4549457
+city_latitude: 41.003698
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

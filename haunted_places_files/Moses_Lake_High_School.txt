@@ -1,0 +1,21 @@
+city: Moses Lake
+country: United States
+description: Theater - In the theatre the curtains sway when no one is there. The lights turn on when there is no one there. There is a cat walk above the seats where they can be heard swaying when the door to the stairway is locked tight, and the stairs creak also when the door is locked tight. When you go to the costume room you can feel the atmospheric imprint of people there.
+location: Moses Lake High School
+state: Washington
+state_abbrev: WA
+longitude: -119.2658505
+latitude: 47.1117297
+city_longitude: -119.2780771
+city_latitude: 47.1301417
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

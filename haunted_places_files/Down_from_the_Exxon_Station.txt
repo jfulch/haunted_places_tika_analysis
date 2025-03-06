@@ -1,0 +1,19 @@
+city: Albertville
+country: United States
+description: On any night, you will hear mumbles and objects like rocks and pebbles. Wait for a minute and you'll see dark shadows.
+location: Down from the Exxon Station
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.20886689999999
+city_latitude: 34.2675937
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Kenosha
+country: United States
+description: There are reports of noises and voices and other occurrences, accompanied by an apparition of a man.
+location: Rhode Opera House
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.8180653
+latitude: 42.5853969
+city_longitude: -87.82118539999999
+city_latitude: 42.5847425
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Vale
+country: United States
+description: A man is constantly seen sitting on an old stump, walking around. An electric keyboard comes on and off. At night, You can see a green mist from behind the shop. You can hear big thumps in rooms, you'll go in there and nothing will be there.
+location: Skerjanec Ranch
+state: Oregon
+state_abbrev: OR
+city_longitude: -117.2382311
+city_latitude: 43.9821055
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

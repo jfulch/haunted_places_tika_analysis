@@ -1,0 +1,18 @@
+city: Rapid City
+country: United States
+description: Hooky's is the oldest building in Rapid City, built in the late 1800's. There have been reports of noises - people talking, footsteps, and chairs moving around all when no one is there. Bartenders report of seeing people walk by only to find that there is no one around, also things that are pushed very far back from a ledge mysteriously fall.
+location: Hooky Jacks/Phatty McGees Restaurant and Bar
+state: South Dakota
+state_abbrev: SD
+city_longitude: -103.2310149
+city_latitude: 44.0805434
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/08/28
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

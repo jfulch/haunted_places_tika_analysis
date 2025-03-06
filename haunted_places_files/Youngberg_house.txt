@@ -1,0 +1,19 @@
+city: Oskaloosa
+country: United States
+description: Faint, deep moans can be heard on the second story. Feet have appeared to be dangling down from the attic door. Right when you get up on the second story, an overwhelming feeling of fear and pain is reported by the owners. The house has had many owners and has been around for nearly 100 years.
+location: Youngberg house
+state: Iowa
+state_abbrev: IA
+city_longitude: -92.6493595
+city_latitude: 41.2916728
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Desoto
+country: United States
+description: If you travel down that road day or night there is said to be a house that used to be owned by a man that owned slaves. They say you can hear voices and see lights and if you walk in the house be very careful because it is very old and not in good condition. They say if you pull up to the columns entering the driveway not to go between them or past them or you will not get out.
+location: Vineland Road
+state: Missouri
+state_abbrev: MO
+longitude: -90.5978013
+latitude: 38.1151495
+city_longitude: -90.5551258
+city_latitude: 38.1394978
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

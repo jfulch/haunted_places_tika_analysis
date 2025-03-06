@@ -1,0 +1,21 @@
+city: Brunswick
+country: United States
+description: Mt. Misery Road - Mt. misery Road is right beside the Capefear River and used to lead all the way to Fayetteville. Back in the time when people owned slaves. The slave ships would dock at the river and march the slaves up Mt. Misery 90 miles to Fayetteville, many died of heat exhaustion. It is said now late at night you can hear the sound of chains and moans as the slave marched.
+location: Leland
+state: North Carolina
+state_abbrev: NC
+longitude: -78.0447143
+latitude: 34.2562805
+city_longitude: -78.2020387
+city_latitude: 34.0275398
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1836/11/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

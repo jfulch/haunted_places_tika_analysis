@@ -1,0 +1,21 @@
+city: Topeka
+country: United States
+description: Very large facility, opened in 1872-closed 1997, at one time the site of Kansas' hospital for criminally insane.  Orbs, apparitions in windows, voices and music heard from many of the buildings on campus.  1,157 people are buried in the cemetery on site-95 percent are in unmarked graves.  Local PD still patrol the area, although several have stated they hesitate to enter the grounds at night.
+location: Topeka State Hospital
+state: Kansas
+state_abbrev: KS
+longitude: -95.696951
+latitude: 39.0563813
+city_longitude: -95.6890185
+city_latitude: 39.0558235
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1872/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

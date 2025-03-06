@@ -1,0 +1,19 @@
+city: Woonsocket
+country: United States
+description: Supposedly one of the former Brothers or the Sacred Heart (The brothers that run the high school)had died and was so disliked that the students stuck pencils in his eyes at his funeral. For revenge he is known to haunt the 4th floor and walk in and out of the rooms.
+location: Mount Saint Charles Academy
+state: Delaware
+state_abbrev: DE
+longitude: -71.501915
+latitude: 41.995936
+city_longitude: -85.9991369
+city_latitude: 39.905778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

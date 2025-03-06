@@ -1,0 +1,21 @@
+city: Diamond Bar
+country: United States
+description: Many students feel that when you walk through the hallways alone you will feel someone's hand on your shoulder but when you look back, nothing is there and when you look back you'll see a girl in your face whose eyes are not there. Legend says that this girl was once a cheerleader in this school and her boyfriend and some friends raped and killed her.
+location: Diamond Bar High School
+state: California
+state_abbrev: CA
+longitude: -117.8390886
+latitude: 33.9824763
+city_longitude: -117.8103367
+city_latitude: 34.0286226
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

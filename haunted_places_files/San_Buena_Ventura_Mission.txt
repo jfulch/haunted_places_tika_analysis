@@ -1,0 +1,21 @@
+city: Ventura
+country: United States
+description: in the early morning hours you can hear chanting, cries, and children talking.
+location: San Buena Ventura Mission
+state: California
+state_abbrev: CA
+longitude: -119.2981918
+latitude: 34.2811033
+city_longitude: -119.2290316
+city_latitude: 34.274646
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

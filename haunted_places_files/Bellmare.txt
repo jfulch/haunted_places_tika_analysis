@@ -1,0 +1,19 @@
+city: Parke
+country: United States
+description: old Bellmore schoolhouse ruins - In the ground of the ruins of the school house there is an extreme change in temperature to very cold and in the boiler room you can hear the voice of a young boy screaming and sometimes playing. Legend has it he was killed down there and put in one of the furnaces and when people go down there rocks and bricks fly at you out of the dark.
+location: Bellmare
+state: Indiana
+state_abbrev: IN
+city_longitude: -87.14228949999999
+city_latitude: 39.69929459999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2007/09/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

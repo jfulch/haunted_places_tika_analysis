@@ -1,0 +1,21 @@
+city: Byron
+country: United States
+description: This hotel is located on the right hand side of the road about a quarter of a mile back down a long drive way. There is an old orange hotel from the late 1800's that remains are still intact. Legend says that this place is haunted by many who lost their lives in there. So far all that has been seen is an old man wearing white rags, and a young boy who runs up and down the halls. dragging noises have been heard on the first floor towards the main entrance. Dark shadows were seen from a distance and then disappeared after seen. Very active spots. You could tell this wasn't a happy house.
+location: Hot Springs Hotel
+state: California
+state_abbrev: CA
+longitude: -121.6332566
+latitude: 37.8482529
+city_longitude: -121.6380069
+city_latitude: 37.8671476
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

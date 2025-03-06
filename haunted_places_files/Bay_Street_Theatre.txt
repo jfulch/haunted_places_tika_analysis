@@ -1,0 +1,21 @@
+city: Eustis
+country: United States
+description: The Bay street Theatre was once the State theatre of Florida but sadly is now a mere echo of it's former glory. Theatrical productions still thrive, as do the encounters with the supernatural. Screams have been heard in the upstairs costume and prop rooms, orbs have been witnessed, presences felt. A man was seen hanging by his neck from a whole in the balcony ceiling. On several occasions during technical rehearsals the switch board on the same balcony operated unmanned, randomly turning lights on and once the main spotlight dimmed and pulsed slowly to a heartbeat rhythm. And was unaffected but peoples attempts to fix it. The area under the stage known as "the hole" has marked temperature variations and few people will go down there because of the sense of a presence. Nearly everyone who has worked there has some kind of experience, there are simply too many to list.
+location: Bay Street Theatre
+state: Florida
+state_abbrev: FL
+longitude: -81.6855638
+latitude: 28.8539106
+city_longitude: -81.6853534
+city_latitude: 28.8527675
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1840/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

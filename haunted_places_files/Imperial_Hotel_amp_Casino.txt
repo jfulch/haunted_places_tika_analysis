@@ -1,0 +1,20 @@
+city: Cripple Creek
+country: United States
+description: Workers report it is guaranteed to see or hear something that wasn't of this world. Some people say they have seen a man falling down the stairs, or a young lady walking by during a mellow drama wearing clothing from the 1800's. A former employee worked at the casino for three years has documented some of what happened while they where there at - Not a Ghost of a Chance
+location: Imperial Hotel &amp; Casino
+state: Colorado
+state_abbrev: CO
+longitude: 139.7589148
+latitude: 35.6723855
+city_longitude: -105.1783149
+city_latitude: 38.7466555
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

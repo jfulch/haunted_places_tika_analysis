@@ -1,0 +1,21 @@
+city: Shelbyville
+country: United States
+description: apparitions, and cold spots recorded.
+location: Hillcrest Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -86.4112865
+latitude: 35.4820557
+city_longitude: -86.46027169999999
+city_latitude: 35.483406
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

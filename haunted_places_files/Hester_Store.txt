@@ -1,0 +1,20 @@
+city: Dacusville
+country: United States
+description: An African American was hung in the back of the old store in an oak and it is said you can still see him hanging at night. Also, in the top window, you can see an old lady rocking in her chair.
+location: Hester Store
+state: South Carolina
+state_abbrev: SC
+longitude: -82.5362603
+latitude: 34.8965739
+city_longitude: -82.55888999999999
+city_latitude: 34.93528
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1783/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

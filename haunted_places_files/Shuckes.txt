@@ -1,0 +1,18 @@
+city: Waseca
+country: United States
+description: This is the farm that lived a family that was murdered. There was a family of three children. You can see them running through the fields and the girls can be seen running down the road. You can't always drive out of the drive with your tires all full until you hit the main road.
+location: Shuckes
+state: Minnesota
+state_abbrev: MN
+city_longitude: -93.5083843
+city_latitude: 44.0770411
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

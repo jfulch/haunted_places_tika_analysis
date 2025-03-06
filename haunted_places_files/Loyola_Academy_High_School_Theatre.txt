@@ -1,0 +1,21 @@
+city: Willmette
+country: United States
+description: There has been a legend that a blue light appears in the "little theatre" of Loyola Academy high school when all the lights are @ut. It is said that a young male student died in the theatre from falling from the catwalk years ago before the school went co-ed.
+location: Loyola Academy High School Theatre
+state: Illinois
+state_abbrev: IL
+longitude: -87.7601861
+latitude: 42.0835483
+city_longitude: -87.7228384
+city_latitude: 42.0722513
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

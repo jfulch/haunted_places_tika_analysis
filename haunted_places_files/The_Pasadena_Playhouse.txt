@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: Once a school of theater arts and now a state historic landmark theater, is said to be haunted by the spirit of its founder, Gilmore Brown. The elevator mysteriously stopped and started, and often stopped for no reason on the floor of Mr. Brown's offices. Hear a distinct male voice saying "hello," but there is no one in the room.
+location: The Pasadena Playhouse
+state: California
+state_abbrev: CA
+longitude: -118.137375
+latitude: 34.145114
+city_longitude: -118.1445155
+city_latitude: 34.1477849
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

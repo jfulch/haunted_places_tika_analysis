@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: "The Colonel" has been seen by almost all the hotel staff that works in the Convention Center. He is seen late at night between midnight and 4am. Staff will see him in the ballroom and in the back hallways. He is an older man dressed all in black. The most infamous sighting was by a new employee that asked another employee who the man dressed all in black was that he just saw walking down the hall. The Colonel is thought to have been a well-decorated civil war hero and the owner of a large plantation that once stood on the ground where the University Plaza Hotel now stands. These sightings have not been made public because of the hotel not wanting it to hurt business.
+location: University Plaza Hotel
+state: Missouri
+state_abbrev: MO
+longitude: -93.282864
+latitude: 37.207354
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/02/17
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

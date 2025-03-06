@@ -1,0 +1,21 @@
+city: Brea Canyon Road
+country: United States
+description: Since the road is very dark at least 4 deaths are known of. You can see two crosses next to each other, if you go further there is another cross, and as you continue you see a tombstone. The 3 crosses were of people that died there from car accidents because it's so dark and the tombstone. It is said that at night you can see hikers trying to get a ride. When you look back they are gone. Another freaky thing is that there are many cars that have been on the side for who knows how long. They appeared to have been broken down there for a while. And if you stop by the crosses there is a spine tingling feeling that makes you want to scream.
+location: Diamond Bar
+state: California
+state_abbrev: CA
+longitude: -117.844996
+latitude: 33.98419
+city_longitude: -117.7853201
+city_latitude: 34.0527279
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

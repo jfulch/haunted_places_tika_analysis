@@ -1,0 +1,21 @@
+city: Johnstown
+country: United States
+description: The school was shut down around 1990-91.It is said to be haunted by a janitor that was doing one of his many jobs and a board fell from the ceiling and killed him. It is also said to be haunted by a little boy who had an asthma attack during lunch one day. Lights still turn on and off and there is no electricity. December 2006 Additional Information: There always had stories of the janitor that haunted the halls. There was an old wall-piano that was supposed to be sent to the local High School. One day, it was sitting on a landing. The next day, it was in shambles at the bottom of the stairs. Chandler has since been reopened. It is an apartment building for elderly folks.
+location: Chandler School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.94686060000001
+latitude: 40.3492754
+city_longitude: -78.9219698
+city_latitude: 40.32674069999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

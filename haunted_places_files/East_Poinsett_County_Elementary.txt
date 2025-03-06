@@ -1,0 +1,21 @@
+city: Tyronza
+country: United States
+description: Reports of hearing footsteps behind you. Toilets flush on their own. It’s said to be true that when the Tyronza Elementary School burned down in the 1950's, that the kids that burned inside still haunt the halls.
+location: East Poinsett County Elementary
+state: Arkansas
+state_abbrev: AR
+longitude: -90.3583689
+latitude: 35.483502
+city_longitude: -90.358711
+city_latitude: 35.49008269999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Kingsport
+country: United States
+description: This tunnel was built in the early 1920's and is one of the most famous haunted places in our area. Mr. Sensabaugh is told to have killed his entire family in the stream that runs through the tunnel, and now it is said you can hear his baby's voice crying and legend tells you can see all types of orbs and figures, also it is said that a women and her child was in a bad storm and pulled off into the tunnel to get shelter and the next day they found the body's of the two dead and now it is said if you pull your car into the tunnel and shut the engine down it will not start. - January 2007 additional information: Most young people from the area have visited the tunnel. The one common story is that when driving through the tunnel, a woman suddenly appears in the back seat of the car. There are reports of a photo taken inside a car in the tunnel and there was the outline of a woman sitting in the backseat. The Shadowlands has not seen the photo.- March 2007 Correction: there are actually 2 tunnels, and the one you can drive through is NOT the haunted tunnel. The other has a creek flowing through it and you have to walk through the tunnel on a ledge. A family explored this tunnel a few months ago and took their 6-year-old son. When about halfway through the tunnel, their son started screaming to the top of his lungs to get out...get out. so they ran out of the tunnel and asked what was wrong...he said he heard a baby crying in the tunnel.
+location: Sensabaugh Tunnel
+state: Tennessee
+state_abbrev: TN
+longitude: -82.6264221
+latitude: 36.5805009
+city_longitude: -82.5618186
+city_latitude: 36.548434
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

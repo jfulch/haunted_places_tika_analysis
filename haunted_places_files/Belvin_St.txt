@@ -1,0 +1,21 @@
+city: San Marcos
+country: United States
+description: The Pike House - There is a huge haunted hospital which has been said to have ghost roaming in the halls of the hospital and there are secret passage ways that lead to operating and emergency rooms. it was built in the 1950's. from the road, there is a huge `pen field, and looming at the end of the field, on top of the hill is a huge 4 story building. It used to be an insane asylum, but was closed down. Years later, the Pike Fraternity, bought the property, and made it the pledge house. During one of the pledge processes, some of the pledges were killed...the brothers had the pledges write down what happened in the pledge books, burn them, then nail them to the walls. If you go in there, you can see the pledge books, as well as Polaroid's, blood on the walls, etc. - October 2007 Update – The Pike House has burned down.
+location: Belvin St.
+state: Texas
+state_abbrev: TX
+longitude: -97.95428
+latitude: 29.8761461
+city_longitude: -97.9413941
+city_latitude: 29.8832749
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1812/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

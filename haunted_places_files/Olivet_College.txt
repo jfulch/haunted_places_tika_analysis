@@ -1,0 +1,21 @@
+city: Olivet
+country: United States
+description: Shepard's Hall -  Phantom music has been noted coming from empty dorms when security was the only one in the dorm (Shepherd's Hall). There are many different pictures and eyewitness accounts as the college and town are over 150 years old.
+location: Olivet College
+state: Michigan
+state_abbrev: MI
+longitude: -84.9248939
+latitude: 42.4431108
+city_longitude: -84.92415419999999
+city_latitude: 42.4414273
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1894/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

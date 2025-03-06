@@ -1,0 +1,20 @@
+city: Rapid City
+country: United States
+description: This hotel is supposedly haunted by the ghost of a former hotel manager who leapt to her death from the roof in the 1930's. A ghost who stands at the foot of the room’s bed at night haunts one of the rooms. Several hotel workers have reported poltergeist activity on the hotel's top floor. This floor is currently used for storage, and workers have heard furniture moving around and lights flickering on and off. One employee reported having a chair thrown down the stairwell at him from the top floor doorway when there was no one on the floor at the time. Several employees have quit because of the apparitions.
+location: The Hotel Alex Johnson
+state: South Dakota
+state_abbrev: SD
+longitude: -103.2275215
+latitude: 44.0804214
+city_longitude: -103.2310149
+city_latitude: 44.0805434
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Boulder Creek
+country: United States
+description: A girl in a formal dress runs across the lobby, then disappears into thin air. In an empty Mermaid Room, voices and music are softly heard. Hidden rooms and secret passages are mysterious vestiges of Brookdale Lodge's rich past.
+location: Brookdale Lodge
+state: California
+state_abbrev: CA
+longitude: -122.1262597
+latitude: 37.1250956
+city_longitude: -122.1221869
+city_latitude: 37.12605780000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1947/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

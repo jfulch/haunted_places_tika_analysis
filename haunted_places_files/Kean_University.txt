@@ -1,0 +1,20 @@
+city: Union
+country: United States
+description: Wilkins Theater -  is said to haunted by a man named George who died accidentally there.
+location: Kean University
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2342865
+latitude: 40.678071
+city_longitude: -74.26316349999999
+city_latitude: 40.6975898
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1966/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Lyon
+country: United States
+description: These old mine shafts are said to be haunted. Strange voices have been herd in various openings to the shaft. Several survivors of a mining accident have visited the site and claimed to hear their buddies scream for help.
+location: The Old Mine Shafts
+state: Montana
+state_abbrev: MT
+city_longitude: -112.1383237
+city_latitude: 44.6382468
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

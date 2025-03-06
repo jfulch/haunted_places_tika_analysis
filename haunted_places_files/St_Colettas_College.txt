@@ -1,0 +1,21 @@
+city: Jefferson
+country: United States
+description: Serra Hall - St. Coletta's is a giant campus of buildings, houses, and dormitories that serves people with disabilities. one of the dormitories known as "Serra Hall" has had several occurrences where someone is heard walking up and down the hallway of the second floor, despite everyone being in their respected rooms. in addition, staff working on the first floor would sometimes have to repeatedly call the second floor staff to let them know that she (the spirit) had turned on the showers again.
+location: St. Coletta's College
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.78567029999999
+latitude: 43.0108062
+city_longitude: -88.8073273
+city_latitude: 43.0055594
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1973/10/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

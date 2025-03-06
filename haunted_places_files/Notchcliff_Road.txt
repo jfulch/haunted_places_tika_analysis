@@ -1,0 +1,21 @@
+city: Baltimore
+country: United States
+description: Located about a mile and a half from the Loch Raven Reservoir, Notchcliff road is a long and winding dark road. The road, due to it's sharp turns and constant hills, has been the site of many accidents. One such accident stands out though. Around 11:30 p.m. coming in from the front way, double yellow lines slowly disappear and around the next turn, off in the distance you can see headlights and a mangled car. As you drive closer it slowly disappears and there is a tree with red "paint", busted up from the car.
+location: Notchcliff Road
+state: Maryland
+state_abbrev: MD
+longitude: -76.51093689999999
+latitude: 39.4337784
+city_longitude: -76.6121893
+city_latitude: 39.2903848
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

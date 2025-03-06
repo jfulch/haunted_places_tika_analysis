@@ -1,0 +1,20 @@
+city: Florence
+country: United States
+description: there was a man who took a baby and covered the baby in cement in the basement of the hotel along with a woman. People have seen the lady walking down to the basement and also in the bathrooms, bedrooms and the old dining room. At night some people can hear the baby crying, if you ever go there (ask to sleep in the pink room.)
+location: Florence Hotel
+state: Colorado
+state_abbrev: CO
+longitude: -105.110042
+latitude: 38.3779007
+city_longitude: -105.1185988
+city_latitude: 38.3902777
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

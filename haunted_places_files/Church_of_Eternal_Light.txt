@@ -1,0 +1,20 @@
+city: Bristol
+country: United States
+description: Formerly one of the three original churches built in Bristol by the Sessions family, church was built late 1889. It has been on national T.V. show , a ghost hunter filmed ghost balls or spirit balls. There are also reports of a former churchgoer who was struck by lightning on the front steps. There have also been reports of an apparition seen in the bell tower.
+location: Church of Eternal Light
+state: Connecticut
+state_abbrev: CT
+longitude: -72.9790597
+latitude: 41.7137071
+city_longitude: -72.9492703
+city_latitude: 41.67176480000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

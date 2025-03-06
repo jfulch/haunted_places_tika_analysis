@@ -1,0 +1,21 @@
+city: McCreary County
+country: United States
+description: Built on a ancient Indian burial ground. In the middle of the night you see balls of light flying at you. You can also hear footsteps, people talking, and doors slamming.
+location: Granny's Old House
+state: Kentucky
+state_abbrev: KY
+longitude: -84.47504479999999
+latitude: 36.7469123
+city_longitude: -84.4802606
+city_latitude: 36.6973499
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

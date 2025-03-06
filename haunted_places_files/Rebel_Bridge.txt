@@ -1,0 +1,20 @@
+city: Kenton
+country: United States
+description: In Hardin County on CR 125, a cemetery located next to Rebel Bridge, holds the remains of 16 unknown soldiers.  At night on occasions, you can drive by and see white glowing figures in the yard.  Located about 100 yards south of the cemetery, is Rebel Bridge, where it is said you can still see to this day an image of a Rebel flag flying above the bridge.
+location: Rebel Bridge
+state: Ohio
+state_abbrev: OH
+longitude: -84.6313624
+latitude: 39.0077866
+city_longitude: -83.60965159999999
+city_latitude: 40.6469982
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1974/02/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

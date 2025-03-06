@@ -1,0 +1,20 @@
+city: Kansas City
+country: United States
+description: cemetery near by -A cemetery by the theme park worlds of fun. At night you will sometimes see shadows moving very fast across one side of the graveyard to the other. Moans are also heard. Some say a man committed suicide in the cemetery some years back.
+location: Worlds of Fun
+state: Missouri
+state_abbrev: MO
+longitude: -94.4867878
+latitude: 39.173146
+city_longitude: -94.5785667
+city_latitude: 39.0997265
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

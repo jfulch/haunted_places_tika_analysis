@@ -1,0 +1,21 @@
+city: Rome
+country: United States
+description: Tower Between East And West Mary Girl's Dorms - Between the dorms of East Mary and West Mary on the Berry College campus is a tower that has stood there ever since the college opened almost a century ago. It is said that a student at Berry hung herself up in the tower and was not found for days. No one knows why she killed herself. The room in which she died is now locked, but you can go to the door. It is inexplicably could in the tower, even during the hot Georgia month of August, and it is said that if you wait there long enough in the dark, you can hear her crying--her last cries--just before ending her life.
+location: Berry College
+state: Georgia
+state_abbrev: GA
+longitude: -85.189199
+latitude: 34.290361
+city_longitude: -85.1646726
+city_latitude: 34.257038
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1732/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

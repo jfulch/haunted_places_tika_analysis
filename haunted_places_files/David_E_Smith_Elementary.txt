@@ -1,0 +1,21 @@
+city: Haltom City
+country: United States
+description: Some of the 5th grade girls who have gone to after school activities and have walked into the bathroom have said it that it tends to get really cold all of a sudden, some have heard yelling, seen writing on the walls and stall doors, been touched on the head or shoulder and told to leave because it was to dangerous there. Many girls have said they have heard ripping of tape, screams, blood dropping on the floor.
+location: David E. Smith Elementary
+state: Texas
+state_abbrev: TX
+longitude: -97.27439
+latitude: 32.8187561
+city_longitude: -97.2691817
+city_latitude: 32.7995738
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

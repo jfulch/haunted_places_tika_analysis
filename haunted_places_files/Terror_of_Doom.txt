@@ -1,0 +1,19 @@
+city: Rochester Hills
+country: United States
+description: Creepy noises come during the night.
+location: Terror of Doom
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.1499322
+city_latitude: 42.65836609999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

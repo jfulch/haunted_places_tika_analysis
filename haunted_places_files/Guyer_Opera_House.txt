@@ -1,0 +1,21 @@
+city: Lewisville Henry County
+country: United States
+description: The Guyer Opera House has already been added to your list of haunted places. I have another bit of information to add... A little boy was killed back in the early 1900s during a Wild West gun show. During one of the shows, a bullet ricocheted into the audience, killing the boy. Perhaps his ghost still lingers in the Guyer. In addition, the founder of the Guyer Opera House, O.K. Guyer, died the same year his opera house opened. His funeral was held in the auditorium of the Guyer. The "Guyer Ghosts" exist for sure.
+location: Guyer Opera House
+state: Indiana
+state_abbrev: IN
+longitude: -85.353056
+latitude: 39.807203
+city_longitude: -85.35274679999999
+city_latitude: 39.8067126
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1839/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: New Athens
+country: United States
+description: Kids party at this area and sometimes when your sitting all by yourself you hear growling and feel something rub up against your leg. Sometimes around midnight you can see a silhouette of a dog. It is now called the crazy tunnel dog.
+location: Tunnel Hill
+state: Illinois
+state_abbrev: IL
+longitude: -88.8318196
+latitude: 37.5136009
+city_longitude: -89.8770468
+city_latitude: 38.3264383
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

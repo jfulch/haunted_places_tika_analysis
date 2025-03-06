@@ -1,0 +1,21 @@
+city: Pflugerville / Hutto
+country: United States
+description: story has it that Jake (a farmer) killed his wife and 2 kids then hung himself off the bridge and if you go to the bridge and put your car in neutral and put flour on the back of your car the wife and 2 kids will push you across the bridge to "save" you from Jake -the bridge has been proven to be flat. Recently has been visited and better directions have been given: Go east on 685 to a road called Row Lane. Go down that way for a while until you reach Jakes Hill Road. Then after going down a hill you will come to a bridge, which is Jake's bridge.
+location: Jake's hill road
+state: Texas
+state_abbrev: TX
+longitude: -97.5527235
+latitude: 30.4852557
+city_longitude: -97.579741
+city_latitude: 30.5001364
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/07/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

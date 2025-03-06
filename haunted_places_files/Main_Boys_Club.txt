@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: Through out the years there have been reports of sounds coming from all over the building when rooms are empty or even after hours. In the gym for instance people have heard laughter and basketballs bouncing only to come in to an empty room and in the swimming pool area people have heard the water splashing around and the diving board being used, again when it is empty. There is a rumor that a child drowned in the pool which could explain things.
+location: Main Boy's Club
+state: Texas
+state_abbrev: TX
+longitude: -99.5012044
+latitude: 27.5101805
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

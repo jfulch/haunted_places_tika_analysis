@@ -1,0 +1,18 @@
+city: Adrian
+country: United States
+description: Young's Mansion was known by locals as one of the most haunted mansions known. Several people have been in the old slave tunnels found under the house leading into the barn. The chains are still on the walls. There is a mans voice heard by many people, which have been yelled at to "leave" and leave they did...footsteps up the stairs and in the hallways, slamming doors, rocking chairs. High-pitched screams can be heard all over the property. The place is now being torn down to stop children from being hurt from entering the house. but even being torn down, just driving by the property will send chills up your spine.
+location: Young's Mansion
+state: Missouri
+state_abbrev: MO
+city_longitude: -94.3516159
+city_latitude: 38.397518
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

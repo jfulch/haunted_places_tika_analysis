@@ -1,0 +1,21 @@
+city: Tucson
+country: United States
+description: A strange man dressed from the 1920's, has been seen around this theater. He will ask for money to feed his family, who are suffering from The Great Depression.
+location: Fox Theater
+state: Arizona
+state_abbrev: AZ
+longitude: -110.9716152
+latitude: 32.2220224
+city_longitude: -110.926479
+city_latitude: 32.2217429
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

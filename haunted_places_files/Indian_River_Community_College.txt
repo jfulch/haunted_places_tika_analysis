@@ -1,0 +1,21 @@
+city: Fort Pierce
+country: United States
+description: There have been sightings of a tall male figure in the theatre. This figure appears pale blue and has been seen in the broom closet on the left side of the stage. He has also been seen in the light and sound room. Sometimes the figure dances and waves, but mostly just watches people silently. Cold chills have been reported as well as soft gusts of wind.
+location: Indian River Community College
+state: Florida
+state_abbrev: FL
+longitude: -80.35792409999999
+latitude: 27.4232701
+city_longitude: -80.3256056
+city_latitude: 27.4467056
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

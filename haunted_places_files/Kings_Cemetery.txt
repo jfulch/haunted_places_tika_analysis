@@ -1,0 +1,21 @@
+city: Bishop Township
+country: United States
+description: Pictures have been taken at night, and mysterious orbs are seen in the pictures, And silhouettes jumping out of the person, though not moving....At least 5 different cameras used and different kinds of film. It's in the Middle of Nowhere, no houses, just trees.
+location: Kings Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.431939
+latitude: 39.0235282
+city_longitude: -88.4210006
+city_latitude: 39.0395893
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

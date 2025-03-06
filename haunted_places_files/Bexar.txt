@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Tro Bridge - you'll see a long bridge that is above water and if you look down while your walking across you'll feel people grabbing your legs. no ever goes all the way cause they get to scared from the grabbing.
+location: Bexar
+state: Texas
+state_abbrev: TX
+longitude: -98.4936282
+latitude: 29.4241219
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1528/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

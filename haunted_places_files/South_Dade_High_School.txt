@@ -1,0 +1,21 @@
+city: Homestead
+country: United States
+description: In the auditorium, only if there are just a couple people lights will start to go on and off. You will also see a figure of a boy and girl on stage. There is also a faint sound of music.
+location: South Dade High School
+state: Florida
+state_abbrev: FL
+longitude: -80.4598432
+latitude: 25.5008829
+city_longitude: -80.4775569
+city_latitude: 25.4687224
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

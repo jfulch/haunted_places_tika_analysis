@@ -1,0 +1,21 @@
+city: North Bend
+country: United States
+description: There used to be an old pool underneath the sophomore hall of North Bend high school. A young man died in the pool of an unexplained drowning. The hall has been rumored to not only have students wandering the halls. It is believed by some to be the home of a long lost soul that died there so many years ago. There have been flashes of light, doors opening and closing, strange gurgling sounds, and even items being tossed across the room. The staff at North Bend don't like to talk much about the rare, yet most strange occurrences. But they have been talked about by the students for many years.
+location: North Bend High
+state: Oregon
+state_abbrev: OR
+longitude: -124.2338705
+latitude: 43.4014256
+city_longitude: -124.2242803
+city_latitude: 43.4065012
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

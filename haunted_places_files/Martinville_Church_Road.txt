@@ -1,0 +1,20 @@
+city: Sumter
+country: United States
+description: A few miles down this road there is the old Martinville Church. The history behind this church is not really known, but something definitely is unusual about the site. It is a very old unused church and there is a cemetery behind the church with a large iron gate. At the cemetery entrance witnesses heard singing and saw faint lights on in the church. It was very cold all of a sudden(on a July evening) and the air was very heavy. They ran and got back into the car and as soon as they pulled away from the church the lights in the church suddenly went off.
+location: Martinville Church Road
+state: South Carolina
+state_abbrev: SC
+longitude: -80.3000698
+latitude: 34.0595352
+city_longitude: -80.3414693
+city_latitude: 33.9204354
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

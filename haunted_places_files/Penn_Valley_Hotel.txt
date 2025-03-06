@@ -1,0 +1,21 @@
+city: Bernville
+country: United States
+description: Unexplainable sounds have been heard inside the Penn valley. Built around 1854 the log-framed building has served as a country inn and roadhouse, and was used as a stage coach stop in the last century. Very unsettling sounds can be heard inside. Footsteps from the floor above, but there is no floor above. Pots and pans rattling, muffled sounds of children playing and rooms lights turning off and on in front of your eyes. The whir of the cash register and the drawer opening and the ring of a bell. Dirty dishes placed in the sink when just minutes before all the dishes were cleaned and put away.
+location: Penn Valley Hotel
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.1155421
+latitude: 40.5139064
+city_longitude: -76.1121648
+city_latitude: 40.433426
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1906/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

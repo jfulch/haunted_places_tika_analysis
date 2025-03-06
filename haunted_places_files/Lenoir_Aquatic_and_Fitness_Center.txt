@@ -1,0 +1,21 @@
+city: Lenoir
+country: United States
+description: A ghost of a little boy that has been heard in the main hall crying, "Mommy" in the early morning and in the late afternoon. . People have heard weights dropping, people talking, and music playing in the middle of the night .
+location: Lenoir Aquatic and Fitness Center
+state: North Carolina
+state_abbrev: NC
+longitude: -81.5216774
+latitude: 35.9383872
+city_longitude: -81.5389849
+city_latitude: 35.9140196
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1936/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

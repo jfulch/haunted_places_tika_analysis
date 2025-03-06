@@ -1,0 +1,21 @@
+city: Lehi
+country: United States
+description: Porter's Place is dedicated to the late Porter Rockwell, who was LDS profet Joseph Smith Jr.'s body guard. The theme of the restaurant is set in the 1800's Old West. Workers there say to have things go missing. (EX: silver wear, food, jackets, books, etc.) One worker says while working in the back walk in a man in dark brown leather boots walked into the room through a solid wood wall. When the worker turned around to see who it was, there was no one. The ghost is said to be an older male and usually out in the back (blue) dining room. There are even pictures of Porter Rockwell's grave stone! Workers don't believe the ghost to be Porter Rockwell, himself.
+location: Porter's Place
+state: Utah
+state_abbrev: UT
+longitude: -111.84965
+latitude: 40.3880774
+city_longitude: -111.8507662
+city_latitude: 40.3916172
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1813/06/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

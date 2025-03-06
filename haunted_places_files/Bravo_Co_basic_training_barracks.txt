@@ -1,0 +1,20 @@
+city: Fort Leonard Wood
+country: United States
+description: In the men’s restroom (the first one on the left) of on the third floor you can hear the sound of a girl laughing.  Also at around three in the morning in the showers there is a three foot tall apparition with ping pong sized eyes that look like an animals when you shine a light in them it wears a black robe with hood.  It ducks and weaves then breaks off into a sprint after you.
+location: Bravo Co.  basic training barracks
+state: Missouri
+state_abbrev: MO
+longitude: -92.1348413
+latitude: 37.7944939
+city_longitude: -92.1348413
+city_latitude: 37.7944939
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

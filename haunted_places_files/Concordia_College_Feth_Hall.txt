@@ -1,0 +1,21 @@
+city: Bronxville
+country: United States
+description: is inhabited by a ghastly Rev Dr. Henry Feth.
+location: Concordia College -Feth Hall
+state: New York
+state_abbrev: NY
+longitude: -73.8221475
+latitude: 40.9426774
+city_longitude: -73.8320784
+city_latitude: 40.93815439999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1929/01/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

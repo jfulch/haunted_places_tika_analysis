@@ -1,0 +1,21 @@
+city: Sunnyvale
+country: United States
+description: There have been many reports of one of the rooms in this hotel being haunted by a man. He apparently died there of a heart attack. Guests will often complain of noises coming from the unoccupied, haunted room. Apparitions seen.
+location: Quality Inn Suites
+state: California
+state_abbrev: CA
+longitude: -122.0258852
+latitude: 37.3994659
+city_longitude: -122.0363496
+city_latitude: 37.36883
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 1

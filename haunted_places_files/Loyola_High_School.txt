@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Reported noises and movement at night in the field house. A classroom, which used to be a dormitory for students in the 60's, is haunted by a student who killed himself in a trap door located on the ceiling of the room. Students and even the teacher who uses the room report an eerie presence there. The living quarters for the Jesuits is reportedly visited by an apparition of a nun. The school itself is over 150 years old.
+location: Loyola High School
+state: California
+state_abbrev: CA
+longitude: -118.296672
+latitude: 34.044917
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

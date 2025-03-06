@@ -1,0 +1,21 @@
+city: Wildcat
+country: United States
+description: This area was owned by a wealthy lady from the early 1920's until the late 1980's.  She lived there her whole life.  When she passed on, her ashes were buried beside a cabin on the mountainside.  People have said that they have seen her walking the dirt road wearing a hat and long summer dress.
+location: Cleveland Wildcat Road
+state: West Virginia
+state_abbrev: WV
+longitude: -80.4436261
+latitude: 38.7856354
+city_longitude: -80.43814130000001
+city_latitude: 38.7534347
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

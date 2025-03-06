@@ -1,0 +1,21 @@
+city: Paradise
+country: United States
+description: When working in the preseason you can hear what sounds like furniture being moved and someone walking in the hallways and rooms above in the Annex part of the Inn. You also get the feeling of being watched when you are working all alone. The wind also sounds like voices in some of the dormer windows throughout the Inn. Nothing is known to have happened in the Inn but people who have stayed at the Inn and went on to climb the mountain have died on the mountain in various places. That fact has been verified.
+location: Paradise Inn
+state: Washington
+state_abbrev: WA
+longitude: -121.7349733
+latitude: 46.7853161
+city_longitude: -121.7349733
+city_latitude: 46.7853161
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

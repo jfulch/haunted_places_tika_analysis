@@ -1,0 +1,20 @@
+city: Burlington
+country: United States
+description: A very old Cemetery, with some occasional orbs and lights. Incorrect info passed on about the Smallpox, it is haunted though. Hikers from nearby trails have seen apparitions and orbs of light. One hiker reported seeing a man in uniform standing near a gravestone, yelled to him for the time and the man disappeared. the hiker walked over and it was the grave of a WWII Veteran.
+location: Lampson Corner Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -72.9709697
+latitude: 41.7431452
+city_longitude: -72.9648388
+city_latitude: 41.7691235
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: St. Petersburg
+country: United States
+description: October 2004 UPDATE: This is now private property. NO TRESPASSING - around the 1950s a servant was taking a bath when her radio fell in and killed her. also, prior to that event, a murder was committed inside the estate. footsteps can be heard inside house, along with lights and faces in the windows on several accounts during the late evening to early morning.
+location: Rutland Manor
+state: Florida
+state_abbrev: FL
+longitude: -82.6491905
+latitude: 27.8293893
+city_longitude: -82.6267345
+city_latitude: 27.7518284
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Spooner
+country: United States
+description: Railroad and newspaper man Frank Hammill is generally regarded as the ”Father of Spooner.” He arrived in 1883 on the Chicago Northwestern Railroad. He later became publisher of the Spooner Advocate, mayor of the town, and a prominent Republican politician. Hammill died suddenly in 1922 of a mysterious stomach problem. His body was displayed in the beautiful house he had built for himself and his family. His wife lived the remainder of her days there and often reported felling that Frank was still there with her. As time passed and new owners took over, the house gained a reputation of being haunted. Frank, said the owners, was still in “his” house, watching over “his” town. Most reported hearing noises, voices, and feeling that they simply were not alone in the old house -- one family even moved out. Today the apparent hauntings continue, and the current residents are absolutely certain they are not alone. They even refer to their “guest” as Frank.
+location: Hammill House
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -91.8893431
+city_latitude: 45.8224475
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1883/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

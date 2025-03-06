@@ -1,0 +1,19 @@
+city: Ashland
+country: United States
+description: back in the mid seventies there was a janitor working late, he was a kind man in mid summer he would turn A/Cs on so the offices would be cool in the mornings, he was on the top floor working in an office on the sprinkler system when he fell from his step ladder and onto the counter flipping him over making him land on his head, breaking his neck. to this day in the office building fire alarms can be tripped, lights go out in the elevator, strange noises are heard on the top floor, A/Cs are turned on and apparitions are seen wandering the up-stairs lobby.
+location: office building behind john stones
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.4633956
+city_latitude: 42.2612067
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

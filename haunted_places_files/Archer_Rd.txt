@@ -1,0 +1,21 @@
+city: Gainesville
+country: United States
+description: Goodys - Sounds of change being counted in cash office without anyone being in the room. Leaving the store neat at night and returning with it still neat and turning around and clothes being half off hangers with no shoppers in the store. Also alarm has sounded at 3:00am and security cameras shut off at the same time for no reason.
+location: Archer Rd.
+state: Florida
+state_abbrev: FL
+longitude: -82.40705410000001
+latitude: 29.6088254
+city_longitude: -82.32482619999999
+city_latitude: 29.6516344
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2004/09/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

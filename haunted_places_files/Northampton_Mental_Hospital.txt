@@ -1,0 +1,20 @@
+city: Northampton
+country: United States
+description: Witnesses Report loud screams from the building late at night, a ghostly figure wandering around, feeling violently ill when entering certain places and voices.
+location: Northampton Mental Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.6531304
+latitude: 42.3305027
+city_longitude: -72.64120129999999
+city_latitude: 42.3250896
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

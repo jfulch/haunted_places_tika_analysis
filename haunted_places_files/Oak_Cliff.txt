@@ -1,0 +1,21 @@
+city: Dallas
+country: United States
+description: Wilbur Street Play ground -  They say in the 1920s that a little girl got permission from her parents, to go play in the playground of Wilbur St. around a creek. A drunk driver was out of control and hit the girl, which was happily playing on the swing. People now say that if you look closely at the swings you will see the happy little girl swinging.
+location: Oak Cliff
+state: Texas
+state_abbrev: TX
+longitude: -96.8645856
+latitude: 32.7362591
+city_longitude: -96.7969879
+city_latitude: 32.7766642
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1937/11/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

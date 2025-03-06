@@ -1,0 +1,20 @@
+city: Minneapolis
+country: United States
+description: Arcola Trail Bridge - A young wife searches to find her husband along the abandoned railroad tracks of Arcola Trail in Stillwater Minnesota. You may find her walking about with her lantern in her white gown late at night.
+location: Stillwater
+state: Minnesota
+state_abbrev: MN
+longitude: -92.8345333
+latitude: 45.0377549
+city_longitude: -93.2650108
+city_latitude: 44.977753
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

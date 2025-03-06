@@ -1,0 +1,19 @@
+city: Glasgow
+country: United States
+description: Strange noises and the sound of someone being thrown into water followed by laughter are almost always heard. Just turned your car off, put the keys on the dash, and sit on the bridge. - August 2004 update: has been torn down
+location: Slash Bridge Right off of Lexington Drive
+state: Kentucky
+state_abbrev: KY
+city_longitude: -85.91192149999999
+city_latitude: 36.9958839
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

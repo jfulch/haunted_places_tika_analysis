@@ -1,0 +1,21 @@
+city: Willow Springs
+country: United States
+description: About a half block into the woods off the side of German Church Road. The old gravel driveway can barely be seen now that most of it is covered with dirt and grass. You find yourself walking up a slight hill and all of a sudden you find yourself standing on top a an old foundation. The house was torn down and all that is left is the foundation. Behind it is the bog. The bog where the two girls were thrown into after they were drugged, raped, and murdered. The Grime sisters were their names. It is said that the two sisters haunt the wooded area near the house.
+location: Indian Head Park
+state: Illinois
+state_abbrev: IL
+longitude: -87.9022808
+latitude: 41.7703092
+city_longitude: -87.86033429999999
+city_latitude: 41.74086519999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

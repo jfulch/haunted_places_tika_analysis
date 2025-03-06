@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: When driving on a flat surface, it feels as though you are going down a step hill. Also heard a specter motorcycle.
+location: NC rte. 24
+state: North Carolina
+state_abbrev: NC
+longitude: -77.41450119999999
+latitude: 34.7428568
+city_longitude: -77.4302414
+city_latitude: 34.7540524
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

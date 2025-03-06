@@ -1,0 +1,19 @@
+city: Paris
+country: United States
+description: Most people get a bad feeling just looking at this house because of the way that it seems to just stare at you when you see it and you feel like someone is watching you. People report seeing a woman in the attic and hearing strange sounds. It has also been reported that you can see the wheelchair move across the room. If you look down into the well on the corner of the kitchen in the front of the house you can see a reflection and this may be the son of the slave master. Out back there are eleven cabins, on one side there are six and on the other there are five and if you go to the middle cabin, known as cabin number five, on the side with only five cabins you may hear screams. Cabin number five is where it is believed that some of the slave girls were raped and killed.
+location: Old Plantation home in Slate Shoals
+state: Texas
+state_abbrev: TX
+city_longitude: -95.555513
+city_latitude: 33.6609389
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

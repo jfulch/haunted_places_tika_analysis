@@ -1,0 +1,21 @@
+city: Marquette
+country: United States
+description: The Shamrock, on Front Street, is reported haunted. The building was built in the late 1800's, and was originally a furniture store doubling as a funeral home. It was common for furniture makers to build caskets years ago. The building was converted to a bar years later (I think the 1930's). Most of the hauntings are late at night, after the bar has closed.
+location: Shamrock Pub
+state: Michigan
+state_abbrev: MI
+longitude: -87.3920529
+latitude: 46.5447206
+city_longitude: -87.39559539999999
+city_latitude: 46.5475825
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1597/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

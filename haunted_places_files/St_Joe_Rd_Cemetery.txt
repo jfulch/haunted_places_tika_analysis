@@ -1,0 +1,21 @@
+city: New Albany
+country: United States
+description: in the middle of the cemetery there is an old hanging tree in the day the hanging branch at night it is there. and if you go to the very back and look to the front there will be a huge blare of smoke.
+location: St. Joe Rd. Cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -85.805579
+latitude: 38.2999147
+city_longitude: -85.8241312
+city_latitude: 38.2856247
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

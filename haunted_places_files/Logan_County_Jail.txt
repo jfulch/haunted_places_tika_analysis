@@ -1,0 +1,21 @@
+city: Guthrie
+country: United States
+description: The Logan County Sheriff's Office and Jail have been in the same building since 1898. Since then, many inmates have hung themselves, mainly in the kitchen, while others have been inside the jail cells. Even with the lights on (they never go off) you can hear odd noises once everyone falls asleep, and I have seen things appear in the cameras faced into the cells. in the kitchen, several trustees and inmates that took their own lives up until about the 50's. All of the deaths at the jail are on record. Apparitions walking into the kitchen a man hanging from a rope in the kitchen. Things also liked to move by themselves, like the door would slam while while workers where in there in there and lock behind them.
+location: Logan County Jail
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.4223271
+latitude: 35.8762842
+city_longitude: -97.4253185
+city_latitude: 35.878937
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1898/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Newport Beach
+country: United States
+description: John Wayne's boat docked in Newport Harbor is said to be haunted by the Duke himself. Several maintenance workers, passers by, and Mrs. Wayne have seen the spirit if the actor walking the decks of his beloved yacht, or waving from the top deck.
+location: Wild Goose
+state: California
+state_abbrev: CA
+longitude: -117.9370735
+latitude: 33.6277237
+city_longitude: -117.9298493
+city_latitude: 33.6188829
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1907/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

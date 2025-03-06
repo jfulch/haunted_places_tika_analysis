@@ -1,0 +1,21 @@
+city: Fresno
+country: United States
+description: This street is haunted by the SANDLADY of Pindale who has been seen at night and believe to for no apparent reason throw sand in the eyes of people walking by. When they clear their eyes they see that she has vanished. The spirit is believed to look like an old Spanish lady carrying a small tote bag.
+location: Pindale Ave
+state: California
+state_abbrev: CA
+longitude: -119.8917591
+latitude: 36.8430752
+city_longitude: -119.7725868
+city_latitude: 36.7468422
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

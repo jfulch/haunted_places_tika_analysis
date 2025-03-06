@@ -1,0 +1,21 @@
+city: Villanova
+country: United States
+description: St. Mary’s Hall - St. Mary's Hall used to be a convent. Rumors of a nun that hung herself. Today St. Mary's is believed to be haunted by both students and night shift custodial workers. One nighttime janitor claimed to have heard a radio blaring from behind a closed door, and upon entering the vacant room, the music stopped and the janitor discovered the radio was unplugged! Several janitors also have reported hearing what sounds like water splashing from someone swimming in the St. Mary's pool at all hours of the night. However, upon entering the poolroom, no one is present, and the water in the pool is still. This has happened on more than one occasion. As well as hearing a piano being played in the music room, and no one is there. security guards have also claimed to have heard banging on the walls and doors coming from the kitchen in St. Mary's Hall. The odd thing about all of these occurrences is that they took place during the university's "off-season", when students have left the campus for the semester and the dorms are unoccupied.
+location: Villanova University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.34358
+latitude: 40.037056
+city_longitude: -75.3491813
+city_latitude: 40.0375832
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

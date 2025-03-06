@@ -1,0 +1,21 @@
+city: Dearborn
+country: United States
+description: In the main house, an angry, disheveled, dark haired man wearing green work pants and a wife beater undershirt storms down the steps with his belt raised over his head.
+location: Ford Rouge Plant
+state: Indiana
+state_abbrev: IN
+longitude: -83.233109
+latitude: 42.303109
+city_longitude: -84.981754
+city_latitude: 39.1713075
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: There used to be a Indian Burial ground. Now when tourists come around they can feel a presence in the car with them. We have had reports of cars dieing in the middle of the road and being found the next day empty with the doors left completely open. The breaks on cars have been known to go out. Blue orbs have been seen.
+location: Garden of the Gods
+state: Colorado
+state_abbrev: CO
+longitude: -104.8697878
+latitude: 38.8784456
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

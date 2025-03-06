@@ -1,0 +1,19 @@
+city: Crossville
+country: United States
+description: it has been said that if one puts their vehicle in neutral when you get to the hill your vehicle will be pushed up it. When you get out their will be handprints on the back of the vehicle.  The reason is because a bus broke down with a load of kids and a semi came over the hill and hit them killing them all. The reason you are pushed over the hill is to get you out of the way of on coming traffic.
+location: Mile Marker Ten
+state: Tennessee
+state_abbrev: TN
+city_longitude: -85.0269014
+city_latitude: 35.9489566
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

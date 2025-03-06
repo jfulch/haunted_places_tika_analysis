@@ -1,0 +1,21 @@
+city: Cary
+country: United States
+description: On cary-algonquin road across the street from fox trails are the foundations of an old burnt down retirement home.  with over 6 deaths when the building fell in the late 80's, many find this spot to be a hotbed for spirit activity.  many have experienced hot areas where the fire once burned and several wandering spirits in the woods.  on one or more occasions spirits have been photographed.
+location: Old Cary Oaks Retirement Home
+state: Illinois
+state_abbrev: IL
+longitude: -88.247731
+latitude: 42.2203938
+city_longitude: -88.24768499999999
+city_latitude: 42.21324990000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

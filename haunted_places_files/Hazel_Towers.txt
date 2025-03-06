@@ -1,0 +1,21 @@
+city: Bronx
+country: United States
+description: it Has been and Said that random apartments are haunted in this building. no one knows why. but these ghosts are mean ghosts.
+location: Hazel Towers
+state: New York
+state_abbrev: NY
+longitude: -73.83485759999999
+latitude: 40.8464684
+city_longitude: -73.8648268
+city_latitude: 40.8447819
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

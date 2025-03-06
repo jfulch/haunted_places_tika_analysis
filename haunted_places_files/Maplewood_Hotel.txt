@@ -1,0 +1,21 @@
+city: Lily Dale
+country: United States
+description: On the 3 floor of the Maple wood many people have reported seeing someone, perhaps a maid, in the corridors.  Many people have heard footsteps in the hall, felt a presence, or heard soft voices in conversation.
+location: Maplewood Hotel
+state: New York
+state_abbrev: NY
+longitude: -79.32531809999999
+latitude: 42.3523825
+city_longitude: -79.3242113
+city_latitude: 42.3517246
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Port Deposit
+country: United States
+description: it use to be a Hotel and tavern from 1700's I've heard there is an lady in blue gown that haunts the place. It is now an eating establishment. The owner Janet lives on top floor and has had a few encounters and has some of the employees.
+location: Rt.222-The Union Hotel
+state: Maryland
+state_abbrev: MD
+longitude: -76.149051
+latitude: 39.642247
+city_longitude: -76.11522889999999
+city_latitude: 39.6048327
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1700/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

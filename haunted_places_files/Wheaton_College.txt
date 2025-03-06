@@ -1,0 +1,21 @@
+city: Norton
+country: United States
+description: has a number of ghosts, some in dormitories, some in classroom buildings, and one in the library. The library ghost is that of a former librarian. She roams the stacks at night and though no one has ever seen the specter, people often report "feeling watched" in the stacks late at night. She supposedly would mess with the card catalog.
+location: Wheaton College
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.18519429999999
+latitude: 41.9680101
+city_longitude: -71.1869963
+city_latitude: 41.9667703
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

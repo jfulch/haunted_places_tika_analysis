@@ -1,0 +1,21 @@
+city: Blowing Rock
+country: United States
+description: A room on the 3rd floor of the Hotel is reported to be haunted by a woman who died there years ago. She has also been reported seen walking on the 3rd floor. I have walked on the 3rd floor and just get shivers up my back. You can feel something in the air.
+location: The Green Park Inn Hotel
+state: North Carolina
+state_abbrev: NC
+longitude: -81.6604406
+latitude: 36.1186699
+city_longitude: -81.6776059
+city_latitude: 36.135129
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

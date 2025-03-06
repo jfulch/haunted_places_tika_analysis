@@ -1,0 +1,21 @@
+city: Tulsa
+country: United States
+description: The eyes of some of the statues will follow you, and some of the heads will actually turn. There are strange lights go up and down the halls, late in the evenings.
+location: Philbrook Museum
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.9699573
+latitude: 36.12416230000001
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

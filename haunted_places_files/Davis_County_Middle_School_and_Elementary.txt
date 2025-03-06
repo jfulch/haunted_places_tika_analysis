@@ -1,0 +1,21 @@
+city: Bloomfield
+country: United States
+description: If you are in the building at night you can see weird shadows and sometimes hear voices and moaning. Up by the 5th grade there is a corner and if you are up there sometimes you can see a shadow around the corner and hear a moan but if you look around the corner nothing is there. Also in the big storage room aka "bowling alley" you can hear moans and see shadows when nothing is there.
+location: Davis County Middle School and Elementary
+state: Iowa
+state_abbrev: IA
+longitude: -92.4095409
+latitude: 40.7546535
+city_longitude: -92.4149074
+city_latitude: 40.75168840000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

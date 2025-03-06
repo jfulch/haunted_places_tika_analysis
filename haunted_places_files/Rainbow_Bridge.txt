@@ -1,0 +1,21 @@
+city: Lake City
+country: United States
+description: A few miles south of Lake City, there is an old bow-string bridge, which is blocked off from traffic and cannot be driven on. If you walk out on the bridge at midnight, lay an unopened candy bar on the middle of the bridge and go back off the bridge and wait for 5 minutes in the dark, when you go back for it, the wrapper will be unopened and intact, but the chocolate is gone. - October 2003 Update: visitors to our web site tried this and report it does not work.
+location: Rainbow Bridge
+state: Iowa
+state_abbrev: IA
+longitude: -94.746072
+latitude: 42.26365759999999
+city_longitude: -94.7338704
+city_latitude: 42.2674828
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1847/07/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

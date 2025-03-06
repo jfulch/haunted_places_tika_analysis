@@ -1,0 +1,21 @@
+city: Rehoboth
+country: United States
+description: Haunted by a red-headed hitchhiker who terrorizes motorists who drive by on dark lonely nights. Has been known to do frightening acts.
+location: Route 44
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.2441204
+latitude: 41.851674
+city_longitude: -71.2393933
+city_latitude: 41.8470056
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

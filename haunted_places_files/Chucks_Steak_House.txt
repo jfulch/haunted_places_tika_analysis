@@ -1,0 +1,21 @@
+city: Concord
+country: United States
+description: voices are heard in the dining room and kitchen.
+location: Chuck's Steak House
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.46706499999999
+latitude: 43.23954699999999
+city_longitude: -71.5375718
+city_latitude: 43.2081366
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

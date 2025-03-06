@@ -1,0 +1,21 @@
+city: Bloomington
+country: United States
+description: Old Junior High School - Some sort of haunt on the 3rd floor that likes to rattle doors and play music loudly. Can be heard only at night. Upon further inspection of the room that the music has been heard in nothing was found to show that there was anyone in there. Could possibly be the spirit of a basketball player who choked on his own vomit trying not to be embarrassed.
+location: Blooming Grove Academy
+state: Illinois
+state_abbrev: IL
+longitude: -88.988042
+latitude: 40.4800127
+city_longitude: -88.99368729999999
+city_latitude: 40.4842027
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/06/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

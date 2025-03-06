@@ -1,0 +1,19 @@
+city: Westminster
+country: United States
+description: There are cowboys or country type of apparitions (think Mark Twain, Huckleberry Finn) that have been heard and seen in the restaurant, and around the entire premise of the shopping center.
+location: Country Harvest Buffet
+state: California
+state_abbrev: CA
+city_longitude: -117.9897058
+city_latitude: 33.7591757
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Ward
+country: United States
+description: The name of the tabernacle is painted onto the side of the building, with white reflective paint. At night, when you come over the tracks, the paint looks red, as if it were dripping blood.
+location: Deliverance Tabernacle
+state: Arkansas
+state_abbrev: AR
+longitude: -91.949244
+latitude: 35.0283912
+city_longitude: -91.950421
+city_latitude: 35.0303648
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

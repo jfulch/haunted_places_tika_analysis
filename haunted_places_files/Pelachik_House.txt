@@ -1,0 +1,19 @@
+city: Sayre
+country: United States
+description: The ghost of a murdered constable still patrols the Pelachik house. This was a house of ill repute in the early 1900's.
+location: Pelachik House
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -76.51549899999999
+city_latitude: 41.9789631
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

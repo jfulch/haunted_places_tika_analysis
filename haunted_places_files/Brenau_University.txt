@@ -1,0 +1,21 @@
+city: Gainesville
+country: United States
+description: One of the United States most prestigious female universities is haunted by a ghostly shadow that hangs from the balcony of the auditorium. A young dedicated dancer supposedly hung herself after being denied lead performer in a popular ballet play. Many students and faculty continue to witness the mysterious apparition.
+location: Brenau University
+state: Georgia
+state_abbrev: GA
+longitude: -83.81967519999999
+latitude: 34.3039749
+city_longitude: -83.8240663
+city_latitude: 34.2978794
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Rolla
+country: United States
+description: Is supposedly haunted by the "Goat Man" and others, reported policeman have been spotted appearing out of no-where and then disappearing out of nowhere. There are a lot of scary stories about this place that will make the hair on the back of your neck stand up!! It is pretty freaky! take it from the experienced!
+location: "Goat Mans Grave"
+state: Missouri
+state_abbrev: MO
+city_longitude: -91.7715303
+city_latitude: 37.948544
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1966/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

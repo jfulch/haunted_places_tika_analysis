@@ -1,0 +1,21 @@
+city: Lock Haven
+country: United States
+description: Sloan Hall- The university arts building, is haunted--by three ghosts: one a woman draped in white, very calming (seen mostly in the main stage theatre area), the second a feeling of a curious child (but nothing seen--generally in the studio theatre on the third floor) and lastly a black, fast moving blur of a spirit, very menacing.
+location: Lock Haven University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.4621475
+latitude: 41.1423205
+city_longitude: -77.4469263
+city_latitude: 41.1370133
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1942/03/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

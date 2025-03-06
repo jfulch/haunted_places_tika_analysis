@@ -1,0 +1,19 @@
+city: Union
+country: United States
+description: The man who used to live here hung his whole family from the willow tree in back. Then he hung himself in the house. If you leave your car outside the house someone or something will do something with it.
+location: Kessington House
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.1271907
+city_latitude: 42.03431579999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

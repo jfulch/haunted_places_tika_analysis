@@ -1,0 +1,21 @@
+city: Bremerton
+country: United States
+description: Rumor is that the theater that there is some Ghost sightings. One person said she saw a guy in the auditorium wearing a top hat and a cape. It is also said that there has been a sighting in the girl’s bathroom. There is also a ghost up in the catwalk above were the lights are for the stage. Some times you can also hear some strange sounds.
+location: Bremerton Community theater
+state: Washington
+state_abbrev: WA
+longitude: -122.6322912
+latitude: 47.5821952
+city_longitude: -122.6269768
+city_latitude: 47.5650067
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

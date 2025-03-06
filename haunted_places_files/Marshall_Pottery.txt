@@ -1,0 +1,21 @@
+city: Marshall
+country: United States
+description: HWY 59 - When they were building the new plant, they apparently found one of the workers dead by a tree when the construction first started. That tree was located what is now, the center of the warehouse. Unknown causes of death. The second story is that the plan was built on ancient sacred Indian grounds, it may be both. Workers will very clearly hear their name called, even with the roaring of machinery.
+location: Marshall Pottery
+state: Texas
+state_abbrev: TX
+longitude: -94.3186585
+latitude: 32.5121755
+city_longitude: -94.3674184
+city_latitude: 32.5448714
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Murder
+witness_count: 0

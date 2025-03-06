@@ -1,0 +1,21 @@
+city: Spanish Fork
+country: United States
+description: In the Spanish Fork Cemetery.  There is a headstone stature of a woman; she is crouched down with one arm extended and the other near her face.  She is known as the Weeping Willow or Widow, depending on whom you hear it from.  But if you go there after dark, it is said that the statue will actually cry, tears stream down her face.  There are old water markings still on the statue.  And sometimes you can hear her crying and calling for her baby.
+location: Spanish Fork Cemetery
+state: Utah
+state_abbrev: UT
+longitude: -111.6482094
+latitude: 40.1042481
+city_longitude: -111.654923
+city_latitude: 40.114955
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Hannibal
+country: United States
+description: Reports of strange balls of lights.
+location: Hannibal graveyard
+state: New York
+state_abbrev: NY
+longitude: -76.58368589999999
+latitude: 43.3216621
+city_longitude: -76.5719414
+city_latitude: 43.32178870000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

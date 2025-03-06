@@ -1,0 +1,21 @@
+city: Seale
+country: United States
+description: In slavery times, whites went to church here. The story is that someone was hung behind the church, but no one knows for sure. It is said that the church lights up in the middle of the night and deep monstrous voices could be heard. On the same street, there is said to be a man (ghost), maybe in his lower 30s, who walks the street in the middle of the night and will try to run you off the road. The church is near a cemetery.
+location: A Church
+state: Alabama
+state_abbrev: AL
+longitude: -85.1669812
+latitude: 32.2997061
+city_longitude: -85.1688255
+city_latitude: 32.2973697
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2013/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

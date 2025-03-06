@@ -1,0 +1,21 @@
+city: Virginia Beach
+country: United States
+description: (An Exclusive Private Golf and Tennis Club)Several spirits are known to roam the 100 year old Clubhouse. There have been reports of an evil man in a cape that sends guests and employees running with fear as well as a bride that disappears who is seen in the bar area. A former employee reports hearing old time type music coming from one of the hotel rooms (exclusively used by members and their guests) and the sound of the dining rooms being set for dinner. When the place was closed for maintenance. There are also rumors that a secret underground bunker is there similar to the one at The Greenbrier Hotel.
+location: The Princess Anne Country Club
+state: Virginia
+state_abbrev: VA
+longitude: -75.9830558
+latitude: 36.8656334
+city_longitude: -75.97798499999999
+city_latitude: 36.8529263
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

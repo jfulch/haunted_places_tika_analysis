@@ -1,0 +1,19 @@
+city: Williamsport
+country: United States
+description: in south side near Duboistown on Mosquito Valley Road. Woman who was killed in plane crash who was decapitated is often seen, her head was never found.
+location: Allison's Grave
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -77.00107860000001
+city_latitude: 41.2411897
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

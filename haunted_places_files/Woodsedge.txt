@@ -1,0 +1,21 @@
+city: Urbana
+country: United States
+description: there have been sightings of strange animals and colorful orbs seen in the woods and sometimes at night if your walking through the trails you will see a horse and carriage appear and vanish and you always get the feeling of being watched
+location: Woodsedge
+state: Illinois
+state_abbrev: IL
+longitude: -88.206802
+latitude: 40.14179499999999
+city_longitude: -88.2072697
+city_latitude: 40.1105875
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

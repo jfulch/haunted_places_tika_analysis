@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: The site of the Laredo Community College is actually an old fort. A lot of the old buildings are still up and either used as classrooms or offices. The thing is if you check the campus maps there used to be a cemetery that went with it, which is where people claim to have seen apparitions.
+location: Laredo Community College
+state: Texas
+state_abbrev: TX
+longitude: -99.5197036
+latitude: 27.5085423
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

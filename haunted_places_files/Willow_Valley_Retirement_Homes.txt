@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: Said to be known at night that in a kitchen located at one of the Manors that a white ghostly figure walks through the doors of the kitchen, it is known to be a figure of a chef.
+location: Willow Valley Retirement Homes
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.2834575
+latitude: 39.9981933
+city_longitude: -76.3055144
+city_latitude: 40.0378755
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Lincoln
+country: United States
+description: University Hall - It is the oldest building on campus and several people have had weird experiences there. Reports of foot steps, and things being knocked over &/or disappear. A face will sometimes appear in the bell tower. At night if you look in the windows you can see white shadows in the Second through 4th floor windows. Some people are very sensitive to things and said that they felt something watching them.
+location: Lincoln College
+state: Illinois
+state_abbrev: IL
+longitude: -89.3611111
+latitude: 40.1567541
+city_longitude: -89.3648183
+city_latitude: 40.1483768
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1973/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

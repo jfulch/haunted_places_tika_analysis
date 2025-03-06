@@ -1,0 +1,20 @@
+city: Dayton
+country: United States
+description: formerly listed as St. Elizabeth Medical Center - Haunted hospital. Cold spots Self-motivated elevators. Moans and groans. Doors open and close when locked.
+location: Dayton Heart Hospital
+state: Ohio
+state_abbrev: OH
+longitude: -84.2078315
+latitude: 39.8165478
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

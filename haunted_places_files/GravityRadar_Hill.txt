@@ -1,0 +1,19 @@
+city: Ochelata
+country: United States
+description: If you put your car in neutral at the bottom of the hill, some unknown force will push the car up the hill. The hill is on a road called gap road, and the story is that black slaves where hung there years ago and there ghosts push you up the hill b/c they do not want you there.
+location: Gravity/Radar Hill
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -95.9797109
+city_latitude: 36.6000907
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2015/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

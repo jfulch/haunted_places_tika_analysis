@@ -1,0 +1,20 @@
+city: Kershaw county
+country: United States
+description: Feelings of not being alone, sounds of being followed, footsteps on the 2nd floor, children laughing and playing, someone standing in the balcony have all been reported.
+location: Mt. Pisgah Baptist church
+state: South Carolina
+state_abbrev: SC
+longitude: -80.40562539999999
+latitude: 34.5768215
+city_longitude: -80.5882803
+city_latitude: 34.3671762
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: the ghost of Grace Bird Kelton is seen in this house.
+location: Kelton House
+state: Ohio
+state_abbrev: OH
+longitude: -82.984302
+latitude: 39.960793
+city_longitude: -82.99879419999999
+city_latitude: 39.9611755
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

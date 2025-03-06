@@ -1,0 +1,20 @@
+city: Cheyenne
+country: United States
+description: a man killed in the furnace room. If you look in the window, you will see one more shadow that is next to yours, and is supposedly the ghost's. This only works at night. Also you will hear clanking if you listen closely and you will see lights flicker in other rooms. The building, which was built in 1945, looks like a German crematory.
+location: Deming School
+state: Wyoming
+state_abbrev: WY
+longitude: -104.8293516
+latitude: 41.1502998
+city_longitude: -104.8202462
+city_latitude: 41.1399814
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

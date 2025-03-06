@@ -1,0 +1,21 @@
+city: Haltom City
+country: United States
+description: down behind the old Haltom High School (Now its Shannon High) The story goes that a High School boy was killed and thrown down in the creek, a group of kids skipping school and going down by the creek to smoke found his body. This was in the mid 90's. There are two places that he can be heard and one that he has been seen. On nights that the moon is not out if you stop and go under the bridge its really cold and you can hear heavy breathing and moaning. Also if you walk through the woods there at night you can hear breathing and a feeling of being watched. A young man has also been spotted walking along the road that runs parallel to Broadway back in the forest but as you get close to him he disappears.
+location: Broadway St Bridge
+state: Texas
+state_abbrev: TX
+longitude: -97.2694286
+latitude: 32.8096157
+city_longitude: -97.2691817
+city_latitude: 32.7995738
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1858/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

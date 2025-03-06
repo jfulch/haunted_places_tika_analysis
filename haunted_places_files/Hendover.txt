@@ -1,0 +1,21 @@
+city: Hyden
+country: United States
+description: tugs point - you hear horses and wagons coming down the river. hooves and guns.
+location: Hendover
+state: Kentucky
+state_abbrev: KY
+longitude: -83.364289
+latitude: 37.12704799999999
+city_longitude: -83.3732373
+city_latitude: 37.1609254
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

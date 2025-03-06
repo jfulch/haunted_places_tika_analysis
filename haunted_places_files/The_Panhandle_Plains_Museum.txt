@@ -1,0 +1,21 @@
+city: Canyon
+country: United States
+description: At the Panhandle Plains Museum, there is an old ambulance-wagon that sits in the middle of the car/wagon room. A ghostly woman known as "Sara Jane" is sometimes seen standing near the ambulance, and several visitors have experienced headaches, feelings of panic, and the smell of blood as they pass by the old vehicle.
+location: The Panhandle Plains Museum
+state: Texas
+state_abbrev: TX
+longitude: -101.917255
+latitude: 34.980323
+city_longitude: -101.9188024
+city_latitude: 34.9803342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

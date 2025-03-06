@@ -1,0 +1,19 @@
+city: Spencer
+country: United States
+description: Very creepy old school. Overgrown weeds, vines, and bushes surround the building. Two rooms are very cold and breezy even on nights where it's warm, humid, and not windy. One room, if you spend about 20 minutes in it, you'll hear a man screaming by the door that leads to the gymnasium. Old pair of shoes (60's style?) appear and disappear. Sounds of a motorcycle idling outside of the building but you can only hear it if you're inside. There are no "No Trespassing" signs up, however you might take the hint from the barbed wire fence! Very creepy and uneasy feelings as well as cold shivers up your spine.
+location: George Wright School
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -97.3678624
+city_latitude: 35.5103197
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

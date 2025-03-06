@@ -1,0 +1,20 @@
+city: Greenville
+country: United States
+description: In the 1950s, after the schools construction, a girl was killed in the Girls Locker Room. From legends told you can see a dark shadow slamming the girls locker room door, many people have saw this acclaimed shower. In the boys Locker Room the showers will go off and on by themselves, and accasionally a locker door will slam. Also, the lights will go off automatically. The sixth grade hall, on rainy days you will see wet footprints made by no one when your alone. Also, there is rumor to be a lower sixth grade hall in which a mad man entered and killed nearly every student, the blood on the walls is said to seep through the fresh paint. The lower sixth grade hall was said to be buried after the incedent, and tops of door frames have been found.
+location: Tanglewood Middle School
+state: South Carolina
+state_abbrev: SC
+longitude: -82.46881400000001
+latitude: 34.8243955
+city_longitude: -82.3940104
+city_latitude: 34.85261759999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

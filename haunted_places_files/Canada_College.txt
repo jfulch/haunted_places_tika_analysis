@@ -1,0 +1,21 @@
+city: Redwood City
+country: United States
+description: Many people have taken the elevator in the learning center around 1:15 in the afternoon, and they have complaint that all of a sudden they smell dead dog. Also, In the parking lot, People can see a naked guy doing the spits and disappearing into thin air.
+location: Canada College
+state: California
+state_abbrev: CA
+longitude: -122.2650223
+latitude: 37.4479354
+city_longitude: -122.2363548
+city_latitude: 37.48521520000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

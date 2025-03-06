@@ -1,0 +1,20 @@
+city: Van Buren
+country: United States
+description: Built on a battlefield graveyard, many strange things happen on 3rd shift. Nurses report feeling that they have been touched on their backs. Also on some nights several things happen at once. Such as lights blink, and the fire sprinkler by the nurses desk pours water for only a few moments. Also doors close on their own. All through the night voices are heard through the halls. Apparitions seen.
+location: Riverways Nursing Home
+state: Missouri
+state_abbrev: MO
+longitude: -91.0163158
+latitude: 36.9998764
+city_longitude: -91.0145714
+city_latitude: 36.9956066
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

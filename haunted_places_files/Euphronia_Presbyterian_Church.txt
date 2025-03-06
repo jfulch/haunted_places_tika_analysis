@@ -1,0 +1,21 @@
+city: Sanford
+country: United States
+description: Witnesses report feeling a strange presence. Pictures have shown orbs and strange smoky figures behind the pulpit.
+location: Euphronia Presbyterian Church
+state: North Carolina
+state_abbrev: NC
+longitude: -79.3469732
+latitude: 35.4714152
+city_longitude: -79.1802994
+city_latitude: 35.4798757
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

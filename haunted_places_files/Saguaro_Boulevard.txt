@@ -1,0 +1,21 @@
+city: Fountain Hills
+country: United States
+description: In the early 1980's there was said to be a young girl who was kidnapped and murdered. Her body parts were hidden throughout a house on Saguaro Blvd. Sometimes you can hear a strange scream, crying, and see a strange figure by the house on Saguaro. Some say she looks scared, as if she was running from something. If you blink to try to take a better look, she disappears.
+location: Saguaro Boulevard
+state: Arizona
+state_abbrev: AZ
+longitude: -111.7136525
+latitude: 33.594748
+city_longitude: -111.7256936
+city_latitude: 33.6042079
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

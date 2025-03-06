@@ -1,0 +1,19 @@
+city: Algoma Township
+country: United States
+description: On a winding dirt road next to the Rogue River called Friske, there is a small turn-around for no particular reason. On this turn-around, there is a trail that leads off a ways into the woods. If you follow the trail, it leads to an old iron bridge called Hell's Bridge. It is said that if you are sitting or standing on the bridge at midnight you can hear the devil laughing. The reason is, in the 1800's, when Algoma didn't really exist and Rockford was known as Laphamville, a man named Elias Friske murdered several children and claimed a demon made him do it. Later the bodies were found in the part of the river where the bridge is now. Sometimes you can also hear the children crying, @r the noise of splashing water where their bodies were thrown. Some fishermen in the early morning have reported seeing a strange figure near the bridge...
+location: Hell's Bridge
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.62292959999999
+city_latitude: 43.1492928
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: It has been said that in the boiler room of the ship there is a spirit of a young man in a sailor outfit who will tell you where things are located.
+location: The USS Lexington
+state: Texas
+state_abbrev: TX
+longitude: -97.3887026
+latitude: 27.8150729
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Cullman
+country: United States
+description: A little boy in the girls’ dorm looks over you while you sleep. There is also a monk that can be seen floating across the campus late at night!
+location: St. Bernard Prep. School
+state: Alabama
+state_abbrev: AL
+longitude: -86.8179996
+latitude: 34.177184
+city_longitude: -86.8436124
+city_latitude: 34.1748208
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

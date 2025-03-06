@@ -1,0 +1,20 @@
+city: Tupelo
+country: United States
+description: Female ghost (Lola) haunts the concession, arcade, and employee break room. Three others haunt the theaters. They especially like it when horror movies are playing. There is also a man haunting the upstairs and projection room.
+location: Theater at Barnes Crossing Mall
+state: Mississippi
+state_abbrev: MS
+longitude: -88.70093109999999
+latitude: 34.3081326
+city_longitude: -88.7033859
+city_latitude: 34.2576066
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1588/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

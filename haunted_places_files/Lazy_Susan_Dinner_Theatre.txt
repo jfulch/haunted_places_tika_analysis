@@ -1,0 +1,21 @@
+city: Woodbridge
+country: United States
+description: The ghost or ghosts who haunt the Lazy Susan have been known to rearrange the chairs & place settings in the dining room.  Several people have reported seeing unexplained lights moving around backstage, and many people have reported feeling a "presence" when alone in the theatre.
+location: Lazy Susan Dinner Theatre
+state: Virginia
+state_abbrev: VA
+longitude: -77.237577
+latitude: 38.670986
+city_longitude: -77.2497049
+city_latitude: 38.6581722
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

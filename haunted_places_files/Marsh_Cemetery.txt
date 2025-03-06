@@ -1,0 +1,21 @@
+city: Glendive
+country: United States
+description: Marsh Cemetery appears to be a turn of the century plot with some modern upkeep. The size is small, with many plots being occupied by local families. Several orbs have been sighted here.
+location: Marsh Cemetery
+state: Montana
+state_abbrev: MT
+longitude: -104.9326905
+latitude: 46.884709
+city_longitude: -104.7107931
+city_latitude: 47.106401
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 18m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

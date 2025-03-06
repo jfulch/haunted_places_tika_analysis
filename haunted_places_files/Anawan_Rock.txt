@@ -1,0 +1,21 @@
+city: Rehoboth
+country: United States
+description: Large outcropping of rock in woods off route 44. It was used by Indians in the King Philip's war as a campsite. Fires can be seen burning on the rock at the top. Indian voices are often heard shouting.
+location: Anawan Rock
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.21455329999999
+latitude: 41.8660025
+city_longitude: -71.2393933
+city_latitude: 41.8470056
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

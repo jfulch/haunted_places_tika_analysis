@@ -1,0 +1,21 @@
+city: Jackson
+country: United States
+description: July 5, 1939, Frozen Creek was suddenly flooded killing hundreds. One of the most tragic events in Eastern Kentucky History. Supposedly you can hear children's cries at this site which was once a school/church before the flood.
+location: Frozen Creek
+state: Kentucky
+state_abbrev: KY
+longitude: -83.3825616
+latitude: 37.5671147
+city_longitude: -83.38351349999999
+city_latitude: 37.5531457
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1939/07/05
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 0

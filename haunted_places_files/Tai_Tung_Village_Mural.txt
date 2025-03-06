@@ -1,0 +1,21 @@
+city: Chinatown
+country: United States
+description: On special nights, especially during nights when it is uncommonly calm and quiet, you can feel a cold aura when you stare at the mural. If you stare at the right corner long enough, you could see something emerging from the painting in the form of a small child or a short man.
+location: Tai Tung Village (Mural)
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0624516
+latitude: 42.3475848
+city_longitude: -71.0624052
+city_latitude: 42.3500641
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1992/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

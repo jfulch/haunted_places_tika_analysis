@@ -1,0 +1,20 @@
+city: Lucasville
+country: United States
+description: Since the riot many correction officers has seen strange things such as shadows passing by them and hearing doors slamming shut in the blocks where the riot occurred. One correction officer had even seen a inmate walking the ranges and then disappear, after midnight after all inmates were locked up for the night
+location: Southern Ohio Correctional Facility
+state: Ohio
+state_abbrev: OH
+longitude: -82.96791209999999
+latitude: 38.8768458
+city_longitude: -82.99684189999999
+city_latitude: 38.879518
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

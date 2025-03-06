@@ -1,0 +1,20 @@
+city: Redby
+country: United States
+description: In the summer after raining if you look north towards the sawmill a man should be walking from there carrying a bundle of tools in his right arm. Then by the time he gets close he'll disappear.
+location: Behind the Westbrook Stare
+state: Minnesota
+state_abbrev: MN
+longitude: -94.911554
+latitude: 47.879248
+city_longitude: -94.9130452
+city_latitude: 47.8785681
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: War
+witness_count: 1

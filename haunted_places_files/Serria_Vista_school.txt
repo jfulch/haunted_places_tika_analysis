@@ -1,0 +1,21 @@
+city: La Habra
+country: United States
+description: people have seen ghostly things up around the class room areas and on the street right next to the back of the school, people run away from the school and when they look back there is something chasing them ( sounds like a lie but it has happened to many people) when you are there by your self the swings starts to swing and there are creaking sounds all around the school many sightings of a little girl in one of the girls restrooms
+location: Serria Vista school
+state: California
+state_abbrev: CA
+longitude: -117.9269597
+latitude: 33.9386196
+city_longitude: -117.946137
+city_latitude: 33.9318591
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2001/10/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

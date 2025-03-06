@@ -1,0 +1,21 @@
+city: Milton
+country: United States
+description: In rooms 145-148 there are two ghostly figures of old teachers that are seen. They died when the school caught fire in the 60's. If you sit in any desks one of the women will walk past you and give you an evil look. You’ll feel very disoriented and uncomfortable. If you look at the chalkboard you'll see that the names of all the children these two punished are writing there. You can't erase them. Also, if you were to sit in the Auditorium that was just built, you will hear the curtains open slightly and then fall to the floor.
+location: Milton High School
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.9555018
+latitude: 42.7742587
+city_longitude: -88.94399899999999
+city_latitude: 42.7755645
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

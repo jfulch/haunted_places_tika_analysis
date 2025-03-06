@@ -1,0 +1,18 @@
+city: Spartanburg
+country: United States
+description: Hells Gate is an older cemetery located in the heart of Spartanburg, South Carolina. Strange things like having a cell phone give a busy signal, when it was later confirmed that the line that was called was NOT busy. As well, we have seen many odd and unexplained lights within the woods of the graveyard. Trying to take pictures and the flash wouldn't work. Apparitions of children and a whitish mist.
+location: Hell's Gates
+state: South Carolina
+state_abbrev: SC
+city_longitude: -81.9320482
+city_latitude: 34.9495672
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

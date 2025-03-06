@@ -1,0 +1,21 @@
+city: Bridgewater
+country: United States
+description: Is a very beautiful campus, but it has many secrets. Founded in 1880, it is built on Native American hunting grounds. is said to be haunted by the ghost of it's namesake, Mr. Cole. His ghost has been sighted many times by members of the drama club, musicians, and audience members. Usually seated on the balcony, the ghost appears when he is particularly pleased with a performance. Once, at the end of a play, the lights overhead began to flicker rapidly, and a cold spot was felt near a particular seat on the balcony. Once again, Mr. Cole was pleased.
+location: Bridgewater College Campus
+state: Virginia
+state_abbrev: VA
+longitude: -78.969386
+latitude: 38.378879
+city_longitude: -78.97669599999999
+city_latitude: 38.38207060000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1880/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

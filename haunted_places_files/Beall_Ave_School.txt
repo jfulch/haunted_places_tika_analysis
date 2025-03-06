@@ -1,0 +1,20 @@
+city: Wooster
+country: United States
+description: Gault Learning Center - Witnesses report to hear their names being called at night and there is nobody there doors slam. It is an old building it was built in 1901
+location: Beall Ave. School
+state: Ohio
+state_abbrev: OH
+longitude: -81.9343449
+latitude: 40.81086
+city_longitude: -81.935143
+city_latitude: 40.8050565
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1901/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Cuba
+country: United States
+description: A ghost supposedly by the name of "Joe Beisly" haunts our school. He was a very loyal janitor and he fell off a ladder and now people say that if you call his name 3 times he will appear.
+location: Cuba Middle School gym
+state: Missouri
+state_abbrev: MO
+longitude: -91.4023287
+latitude: 38.0552902
+city_longitude: -91.4034833
+city_latitude: 38.0628225
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/13
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

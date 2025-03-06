@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: Place D'Armes Hotel - Guests have been awakened in the middle of the night by a knock at the door. Upon answering the knock they find a small girl in old fashioned nightclothes asking if they have seen her grandmother. She then fades away.
+location: Vieux Carre
+state: Louisiana
+state_abbrev: LA
+longitude: -90.0644107
+latitude: 29.9584426
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

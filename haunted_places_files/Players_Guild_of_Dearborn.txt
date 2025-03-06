@@ -1,0 +1,21 @@
+city: Dearborn
+country: United States
+description: It's a local community theatre to which I belong. Pictures have been taken of outlines of ghosts and it has been known to play tricks on members of The Guild. I have had a few encounters with the ghost. Hearing footsteps, when no one is around, and things moving around. At times, there is also a heavy breathing coming from stage Right.
+location: Players Guild of Dearborn
+state: Michigan
+state_abbrev: MI
+longitude: -83.249648
+latitude: 42.2912778
+city_longitude: -83.17631449999999
+city_latitude: 42.3222599
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

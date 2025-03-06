@@ -1,0 +1,21 @@
+city: Fair Oaks
+country: United States
+description: American River - A drowning victim, in wet clothing, approaches visitors. Many drownings have occurred here. Park Ranger was locking the restroom for the night when this ghost Appeared, wearing wet fishing clothes, then vanished.
+location: Sailor Bar
+state: California
+state_abbrev: CA
+longitude: -121.2455044
+latitude: 38.6362934
+city_longitude: -121.2721718
+city_latitude: 38.6446264
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1848/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

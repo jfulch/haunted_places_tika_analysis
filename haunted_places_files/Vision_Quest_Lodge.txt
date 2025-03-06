@@ -1,0 +1,21 @@
+city: Elfrida
+country: United States
+description: Used to be a dude ranch. The stable boy went insane and killed the owners and guests. A woman in a white gown haunts the old guest quarters. The house where the owners were killed has several odd events. A woman walks halls, and re-occurring bloodstains appear on the bathroom wall. Old Stable is also the sight of a two-year-old girl being killed by a horse kicking her. Now, the girl's crying can be heard and an apparition can be seen of the girl standing in the doorway. Also, in the mountains that border the camp, the apparition of a white glowing man is seen on a white glowing horse.
+location: Vision Quest Lodge
+state: Arizona
+state_abbrev: AZ
+longitude: -109.5948503
+latitude: 31.6853571
+city_longitude: -109.6874513
+city_latitude: 31.6852283
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

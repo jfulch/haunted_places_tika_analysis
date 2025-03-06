@@ -1,0 +1,21 @@
+city: Brownwood
+country: United States
+description: Flat Rock - Many people have experienced problems with their boats while they attempt to load or unload using the boat ramp here. People have also mentioned receiving damage to their boats like they hit a large rock, but no rock would be anywhere near the location. Several people have also drowned in the swimming area around this portion of the lake. Legend has it that a small girl drowned in the Pecan Bayou before the lake was built. Some residents in the area have mentioned hearing a little girl laugh at night. Another resident said they have seen a little girl run down the walk to their dock and jump in.
+location: Lake Brownwood
+state: Texas
+state_abbrev: TX
+longitude: -99.0222344
+latitude: 31.8556425
+city_longitude: -98.9911611
+city_latitude: 31.7093197
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

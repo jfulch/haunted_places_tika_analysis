@@ -1,0 +1,21 @@
+city: Iowa Falls
+country: United States
+description: an outside church in lower Eagle city too many voices too recognize.
+location: Eagle City
+state: Iowa
+state_abbrev: IA
+longitude: -93.1472368
+latitude: 42.4712682
+city_longitude: -93.2645741
+city_latitude: 42.51988679999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1995/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

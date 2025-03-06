@@ -1,0 +1,20 @@
+city: Pontotoc
+country: United States
+description: There have been more than one actions where weird things have happened. Most of these events have happened in the backroom. The incident that stands out most is when two employees, saw a very bright light coming toward them. The two fled in confusion, when suddenly a loud crash happened. When they got the guts to check it out nothing had been moved. This was the first known appearance of the light, but the crash has been heard a few times. Legend has that a man or woman died in the building when it used to be Wal-Mart.
+location: Sav-a-lot
+state: Mississippi
+state_abbrev: MS
+longitude: -89.0165871
+latitude: 34.2536432
+city_longitude: -88.998673
+city_latitude: 34.2478831
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

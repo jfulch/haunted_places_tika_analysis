@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: There have been door knobs that turned when no one was in the hall, shadows passing under the doors, footsteps heard, faucets turned on in some apartments, heavy perfume smells, chains rattling. Some apartments are more haunted than others.
+location: The Castle Green
+state: California
+state_abbrev: CA
+longitude: -118.1490803
+latitude: 34.1439444
+city_longitude: -118.1445155
+city_latitude: 34.1477849
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

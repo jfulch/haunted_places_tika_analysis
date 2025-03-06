@@ -1,0 +1,20 @@
+city: New London
+country: United States
+description: Gallows Lane - It's been said that this is where a lot of witches were burned though there is no real record. However, if you walk down the road (even in the middle of the day) you get the ominous feeling that not only are you being watched but also followed. One person who has done a séance there reported that there was the shrill voice of an old woman that told him to go away and never come back, though there was no one in sight, the voice seemed to be all around him. Most people from that area wont walk down that road alone and especially not at night.
+location: Quaker Hill
+state: Connecticut
+state_abbrev: CT
+longitude: -72.1122491
+latitude: 41.4035625
+city_longitude: -72.0995209
+city_latitude: 41.3556539
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

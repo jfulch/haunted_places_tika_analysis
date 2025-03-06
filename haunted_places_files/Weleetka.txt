@@ -1,0 +1,21 @@
+city: Weleetka
+country: United States
+description: A long time ago there was a wreck at "cry baby" bridge, a mother and her baby. The mother had retrieved the crying baby, soon after the baby died in the mothers arms. The mother had cried for her baby before she realized she was dead and died herself with her baby. If you were to go to "crybaby" bridge at night and you will hear a baby crying underneath the bridge and you will see the mother at the end of the bridge with her baby lying in her arms rocking back and forth crying.
+location: Weleetka
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.136614
+latitude: 35.3387819
+city_longitude: -96.1363921
+city_latitude: 35.3356496
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

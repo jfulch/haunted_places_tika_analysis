@@ -1,0 +1,20 @@
+city: Raleigh
+country: United States
+description: Backstage of the auditorium, the stairs leading up to the lighting area are said to be haunted by the ghost of a student who died in a motorcycle crash.
+location: Millbrook High School
+state: North Carolina
+state_abbrev: NC
+longitude: -78.6033424
+latitude: 35.865662
+city_longitude: -78.6381787
+city_latitude: 35.7795897
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

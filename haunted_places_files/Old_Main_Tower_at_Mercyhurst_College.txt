@@ -1,0 +1,21 @@
+city: Erie
+country: United States
+description: This structure used to be a convent in the earlier part of the twentieth century. A woman that had been told that her lover was killed in WW2 joined the convent back in its day. A few years later, the lost lover returned, but the nun had already given her heart to God. She went crazy and was locked in the tower where she committed suicide. The ring that her lover gave her was placed at the base of a Virgin Mary statue. For the last fifty years, anyone who had touched the ring died within five years. The ring was eventually locked away, but appears every so often. People have also claimed to see the nun's spirit roam the halls.
+location: Old Main Tower at Mercyhurst College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.05365929999999
+latitude: 42.10507030000001
+city_longitude: -80.085059
+city_latitude: 42.12922409999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

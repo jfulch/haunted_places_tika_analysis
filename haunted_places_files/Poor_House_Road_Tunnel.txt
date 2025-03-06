@@ -1,0 +1,21 @@
+city: Lexington
+country: United States
+description: The tunnel was part of an old railroad system that ran from Lexington to Staunton in the early 1900s. Inside the tunnel at night, voices of children are heard whispering "Come on, come on." Misty dark fog gathers around you when standing in the middle of the tunnel.
+location: Poor House Road Tunnel
+state: Virginia
+state_abbrev: VA
+longitude: -79.39114529999999
+latitude: 37.8405843
+city_longitude: -79.4428157
+city_latitude: 37.78402080000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

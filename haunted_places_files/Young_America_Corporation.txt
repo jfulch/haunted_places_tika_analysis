@@ -1,0 +1,19 @@
+city: Oklahoma City
+country: United States
+description: Two employees committed suicide after being terminated, and it is said that you can feel cold spells of air pass by while walking through the lunch area, and also hearing loud noises, such as gunfire, late in the evening.
+location: Young America Corporation
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -97.5164276
+city_latitude: 35.4675602
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

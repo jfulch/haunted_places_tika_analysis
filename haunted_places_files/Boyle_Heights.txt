@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Our Lady of Talpa Catholic School - In the school's auditorium you can hear footsteps and movement from behind the stage curtains. In the hallways and bathrooms you can also hear footsteps like someone is running only to look and no one is there. It is said that a Nun who was a teacher there died during one of her classes of heart attack or old age. She played the piano and sometimes the piano in the auditorium will play on its own.
+location: Boyle Heights
+state: California
+state_abbrev: CA
+longitude: -118.2117257
+latitude: 34.0297895
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

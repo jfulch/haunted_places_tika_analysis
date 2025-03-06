@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: Three security guards on second shift noticed a small dark figure dancing on the second floor. When they arrived at the site, no one was around. All the doors were locked and all the exits were within the guards' view as they went to the area of the sighting.
+location: Grand Avenue Mall
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.91449000000001
+latitude: 43.03861209999999
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

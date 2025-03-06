@@ -1,0 +1,21 @@
+city: Idaho Falls
+country: United States
+description: In the 1940's, a china couple moved in there. The husband found out that his wife had cancer. Later she died and it broke the husbands heart. In a rage, he lit the house on fire and hung himself on a tree next to the house. Reports of hearing footsteps and a man crying at night.
+location: The China House
+state: Idaho
+state_abbrev: ID
+longitude: -114.772206
+latitude: 42.1649604
+city_longitude: -112.0339645
+city_latitude: 43.49165139999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

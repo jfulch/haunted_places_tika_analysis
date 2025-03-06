@@ -1,0 +1,21 @@
+city: Alamogordo
+country: United States
+description: People who work in the DWI offices (located in the old part of Alamogordo.) claim that there is a ghost haunting it. It used to be a sheriff’s office and cellblock. People who work there claim they see and hear doors open, hear footsteps, and occasionally see a young male dressed in an old style suit from about 90 years ago. No bad vibes are usually felt in these offices, unless you make noises like running or moving furniture. That’s when you feel cold and doors slam.
+location: DWI Offices
+state: New Mexico
+state_abbrev: NM
+longitude: -106.780286
+latitude: 32.298524
+city_longitude: -105.960265
+city_latitude: 32.8995325
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

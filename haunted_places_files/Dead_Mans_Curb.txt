@@ -1,0 +1,19 @@
+city: El Reno
+country: United States
+description: South of Elreno Behind the Old Sewage Plant is a Road that Curbs Dangerously it is Said that in 1987 there was a reported death toll of 9 people and if you go out there and wait for a bit it has been reported that you can hear cars crashing and people Screaming!
+location: Dead Mans Curb
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -97.9550493
+city_latitude: 35.5322741
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1987/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

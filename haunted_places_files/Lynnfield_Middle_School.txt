@@ -1,0 +1,20 @@
+city: Lynnfield
+country: United States
+description: there were ghosts of old students from the fifties yelling things that were unexplainable and you could see and hear these things around 12:00 and 2:00 in the morning.
+location: Lynnfield Middle School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.015349
+latitude: 42.512464
+city_longitude: -71.0465638
+city_latitude: 42.53869
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1887/05/25
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

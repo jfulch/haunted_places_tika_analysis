@@ -1,0 +1,21 @@
+city: Winchester
+country: United States
+description: There is a sharp curve in the road where a car accident happened, killing the passengers in the car. At midnight on a full moon, you can sit on the side of the road down from the curve and wait for the ghost of a woman to appear and walk from the curve toward your car. Witnesses say if you shut your car off, you will have a hard time starting it again and leaving before she can get to you. And if you leave your car running, the engine tries to bog down and die. So far no one has stayed long enough for the ghost to get to them.
+location: Jones Nursery Road
+state: Kentucky
+state_abbrev: KY
+longitude: -84.2975766
+latitude: 37.9472518
+city_longitude: -84.17965029999999
+city_latitude: 37.990079
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

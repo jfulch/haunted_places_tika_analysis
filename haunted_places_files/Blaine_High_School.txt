@@ -1,0 +1,20 @@
+city: Blaine
+country: United States
+description: Believed to be haunted by a girl possibly named Alana. In the hallway, if someone is alone, we would hear footsteps, like real close be you. But when you turn around or look around, you see no one, but you still hear footsteps. Then in the girls bathroom, someone wrote Alana 6-1978. The janitor took it off, but like a few days later, it is still there, the exact same way, the same exact writing, just everything.
+location: Blaine High School
+state: Minnesota
+state_abbrev: MN
+longitude: -93.2635555
+latitude: 45.1992816
+city_longitude: -93.2349489
+city_latitude: 45.1607987
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1976/06/18
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

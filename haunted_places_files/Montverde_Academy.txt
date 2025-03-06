@@ -1,0 +1,21 @@
+city: Montverde
+country: United States
+description: DAR, the girl's dorm, built in the 20s or 30s, has had eerie sounds of footsteps running up stairs and doors slamming during the months when the school is not in session and the dormitory is empty. It is rumored a girl committed suicide there, and past students claim they would return to their locked rooms after class only to find objects rearranged. The old Arnold Hall which has since been torn down was also rumored to be haunted. The school has been was built in 1912.
+location: Montverde Academy
+state: Florida
+state_abbrev: FL
+longitude: -81.675186
+latitude: 28.597584
+city_longitude: -81.673964
+city_latitude: 28.6002769
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1912/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

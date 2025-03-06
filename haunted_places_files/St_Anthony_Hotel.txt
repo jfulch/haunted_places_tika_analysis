@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: A 1909 San Antonio Hotel haunted by a Hispanic employee named Anita, an elderly lady in a women's bathroom, a sad young woman who is in the roof ballroom, and a ghostly couple who frequently come back to a certain hotel room to re-live their honeymoon. More ghosts are there, but many are unknown. Reports of being followed, people see shadowy outlines, doors opening and closing by themselves, & apparitions of 2 different women.
+location: St. Anthony Hotel
+state: Texas
+state_abbrev: TX
+longitude: -98.4895429
+latitude: 29.4273335
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1924/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

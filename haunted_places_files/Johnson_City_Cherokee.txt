@@ -1,0 +1,21 @@
+city: Washington
+country: United States
+description: dry creek - It has been said that if you are out after dark that something will walk up behind you. You can't see anyone but you can feel their presents. if you run it will chase you but if you stop it will stop. Some people have actually seen it. They have said that it looks like human with no face.
+location: Johnson City – Cherokee
+state: Tennessee
+state_abbrev: TN
+longitude: -82.36022299999999
+latitude: 36.3060288
+city_longitude: -82.5185837
+city_latitude: 36.3321016
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

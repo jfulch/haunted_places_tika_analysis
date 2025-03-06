@@ -1,0 +1,20 @@
+city: Lancaster
+country: United States
+description: Mattresses moving, orbs & ecto type mist in pictures and home movies. One woman was attacked by unseen hands as it tried to choke her leaving marks on her neck.
+location: Farm
+state: South Carolina
+state_abbrev: SC
+longitude: -80.5978085
+latitude: 34.7914127
+city_longitude: -80.7709014
+city_latitude: 34.7204257
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

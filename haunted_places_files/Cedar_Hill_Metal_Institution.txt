@@ -1,0 +1,20 @@
+city: Newington
+country: United States
+description: There is an old metal institution which is now boarded up. Many people committed suicide in this place. A man hung himself. You can see little orbs and figures glowing. You can also hearing moaning and other noises. There is now a new metal institution, which has patients in it right now, but this old institution is still there, boarded up, old and full of disturbed souls that may never leave.
+location: Cedar Hill Metal Institution
+state: Connecticut
+state_abbrev: CT
+longitude: -72.7093466
+latitude: 41.7067957
+city_longitude: -72.7228293
+city_latitude: 41.6972996
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

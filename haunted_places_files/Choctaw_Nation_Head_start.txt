@@ -1,0 +1,21 @@
+city: Idabel
+country: United States
+description: The office is just inside the front door as is the restrooms. One day the cook was trapped in the restroom. People in the office area did not hear her screaming and pounding on the door which was about six feet away. Also if you're alone in the office you can hear noises like a child playing in the classroom area. If you're alone in the classroom you can hear the merry-go-round squeaking as if it were turning.
+location: Choctaw Nation Head start
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.7938961
+latitude: 33.8801961
+city_longitude: -94.8263281
+city_latitude: 33.8956647
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

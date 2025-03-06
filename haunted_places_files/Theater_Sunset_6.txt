@@ -1,0 +1,21 @@
+city: Bellingham
+country: United States
+description: There is an old woman that sits in auditorium number 1 in the very back and a child that roams 3 and 4. An employee has noticed weird noises and whispers in number three and a cold feeling down by the screen when no one else is in there...
+location: Theater-Sunset 6
+state: Washington
+state_abbrev: WA
+longitude: -122.4614242
+latitude: 48.774173
+city_longitude: -122.4786854
+city_latitude: 48.7519112
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Photo lab - Students and faculty have reported feeling a presents in the back of the photo lab. The revolving door has opened by its self and the curtain has opened as if someone is watching you. Some students have even reported that they felt someone touching their shoulder and breathing on the back of their necks. The school was built on top of the old Prices Dairy, and some believe a presents from the dairy has found a new home in the school photo lab. Some of the janitorial staff refuses to clean the photo lab area after dark.
+location: El Paso Community College
+state: Texas
+state_abbrev: TX
+longitude: -106.438272
+latitude: 31.886595
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Middlebury
+country: United States
+description: Well a while back an Amish man got hit by a car. Some of my neighbors have said they see him some nights roaming the streets.
+location: on CR.18
+state: Indiana
+state_abbrev: IN
+longitude: -83.12095719999999
+latitude: 41.124358
+city_longitude: -85.7061011
+city_latitude: 41.675328
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Ionia
+country: United States
+description: It is often said that you can hear screams from a traffic accident that happened and landed in the front yard of a mill St. home.
+location: Mill st railroad tracks
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.07111739999999
+city_latitude: 42.9872547
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

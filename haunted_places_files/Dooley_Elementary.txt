@@ -1,0 +1,21 @@
+city: Roseville
+country: United States
+description: It is said that a little girl playing on the slide was accidentally hung when the drawstring on her coat got caught at the top of the slide. Sometimes at night you can see her running up the slide. If you stop and get out she will sometimes appear to you and try to follow you out. - July 2005 Update: this apparition may be caused by a reflection of a light in the distance that reflects off of the slide, to cause the effect.
+location: Dooley Elementary
+state: Michigan
+state_abbrev: MI
+longitude: -82.9558729
+latitude: 42.5226816
+city_longitude: -82.9371409
+city_latitude: 42.4972583
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

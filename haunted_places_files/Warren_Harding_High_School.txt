@@ -1,0 +1,20 @@
+city: Bridgeport
+country: United States
+description: Staff members in Harding High School have noticed an older gentleman running up and down the hallways screaming help. It has been said that in the early 60's a janitor was chased and later killed by a deranged student. The deranged student was never found and some even say that they both haunt the school. Till this day you can still hear and see Mike running as he pleads for his life.
+location: Warren Harding High School
+state: Connecticut
+state_abbrev: CT
+longitude: -73.1668237
+latitude: 41.1922148
+city_longitude: -73.19517669999999
+city_latitude: 41.1865478
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

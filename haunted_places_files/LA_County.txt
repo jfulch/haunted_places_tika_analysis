@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Walnut - City Of Indusry - St. Mary's Catholic School - Since the school doubled as an orphanage, the kids also lived there. When the school was running, kids played in the small field behind the school. One night, a couple of kids (unknown how many) snuck out of their beds and went outside to play. Then the next day the nuns found the kids dead outside. No one knows how they died (or some make up stories) But if you go there at night you can hear running inside the building and the sounds of swings and other children's toys moving. The are also devil worshipers who write anti-christ slurs on the walls in blood which can be found through out the school. There is also a story that someone was killed in the bathroom facilities behind the school either by gang members or devil worshipers. You can see the handprints in blood and other stains in side the backrooms.
+location: LA County
+state: California
+state_abbrev: CA
+longitude: -118.2436849
+latitude: 34.0522342
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

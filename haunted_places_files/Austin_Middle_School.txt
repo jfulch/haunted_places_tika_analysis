@@ -1,0 +1,21 @@
+city: San Juan
+country: United States
+description: There is a ghost of a basketball player haunting the gym. Around 6 p.m. you can see the lights turn on by themselves and hear a basketball bounce on the floor, dribbling and also foot steps. 30 min. later the lights go off and all noises stop. There is restrooms next to the gym that are closed because of a girl who committed suicide. Many students before reported seeing this girl in a white gown staring at them while looking at themselves in the mirrors or washing their hands.
+location: Austin Middle School
+state: Texas
+state_abbrev: TX
+longitude: -98.1488981
+latitude: 26.1836854
+city_longitude: -98.1552872
+city_latitude: 26.1892409
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

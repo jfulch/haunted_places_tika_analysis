@@ -1,0 +1,21 @@
+city: Friday Harbor
+country: United States
+description: This place was an old naval station a long time ago. Strange things happen off and on. Windows and doors open by themselves, apparitions can be seen out of the corners of you eye. It is rumored that an Indian is buried on the property.
+location: U.W. Labs dinning hall
+state: Washington
+state_abbrev: WA
+longitude: -123.0129873
+latitude: 48.5460236
+city_longitude: -123.0171242
+city_latitude: 48.5342662
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

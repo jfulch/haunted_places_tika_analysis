@@ -1,0 +1,21 @@
+city: Ione
+country: United States
+description: an eerie feeling has been reported. An old abandoned youth prison has been closed since 1960. It used to house youth offenders. - February 2007 Additional Information: this place is currently under construction and is technically not abandoned the current youth prison was moved down the hill...but is under the same owner ownership. - Preston Castle the current youth prison Division Board
+location: Youth Prison
+state: California
+state_abbrev: CA
+longitude: -120.9533785
+latitude: 38.3706819
+city_longitude: -120.9327177
+city_latitude: 38.3526912
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

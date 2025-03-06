@@ -1,0 +1,21 @@
+city: Kerman
+country: United States
+description: Witnesses have heard the laughter of children as if they were playing when none are present at 1:30am.
+location: Kerney Park
+state: California
+state_abbrev: CA
+longitude: -119.9185994
+latitude: 36.7255669
+city_longitude: -120.059879
+city_latitude: 36.72355719999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

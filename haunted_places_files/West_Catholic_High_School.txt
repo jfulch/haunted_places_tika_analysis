@@ -1,0 +1,21 @@
+city: Grand Rapids
+country: United States
+description: There is a cemetery next to the high school that has a 'glowing nun' near one of the tombstones. You can only see this glowing nun during a full moon. When you see it, it is glowing and transparent. There is no logic of the source of light or why it glows like a hologram. After you drive past the tombstone - it disappears. Hundreds of cars would line up to see the glowing nun every full moon in the 1980's.
+location: West Catholic High School
+state: Michigan
+state_abbrev: MI
+longitude: -85.71027869999999
+latitude: 42.9965143
+city_longitude: -85.6680863
+city_latitude: 42.9633599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

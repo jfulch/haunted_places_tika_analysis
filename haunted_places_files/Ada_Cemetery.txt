@@ -1,0 +1,21 @@
+city: Ada
+country: United States
+description: Ada witch - Sometimes you can see a misty blue figure floating within a 3-mile radius of the Ada Cemetery on 2 Mile between Egypt Valley and Honey Creek. The story of her origin is as follows: A man suspected his wife of having an affair, so he followed her late one night when she thought he was asleep. Sure enough, she went to a field near their property where she met her lover. The husband was enraged and killed his wife, which resulted in a struggle with the other man. Both men died from their injuries. It is said that late at night (especially during the night of and the nights preceding a full moon) people driving by the field can see her ghost, searching for her lover. Some people have reported stopping to try to communicate with her, but she always disappears or runs into the woods where she cannot be followed (due to the thick brambles that inhabit the area). She is said to dress in a long white gown which authorities say dates her to the turn of the 20th century. Usually she is seen alone, but sometimes witnesses report seeing a ghostly death scene re-enacted... Others report seeing nothing at all but hearing the killer's shouts of rage followed by the victims' screams of agony... Although it is said she haunts the field on Honeycreek Road where she died, other witnesses have reported her in nearby Seidman Park, and in nearby Findlay Cemetery, where she is supposedly buried. This story was actually featured in the book "Ghosts of Grand Rapids."
+location: Ada Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -85.50489309999999
+latitude: 42.9621061
+city_longitude: -85.4954803
+city_latitude: 42.960727
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

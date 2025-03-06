@@ -1,0 +1,21 @@
+city: McHenry
+country: United States
+description: Their is a guy who walks around the cafeteria at 3:45 P.M. and every year, on the last day of school, there are over 50 spirits of jail breakers who never got caught walking all over the school. One Reported seen during lunch, Math Class and in the Library. (The School was designed by a man who designed prisons too)there are metal detectors in the library and they go off every year for no reason.
+location: McHenry East High School
+state: Illinois
+state_abbrev: IL
+longitude: -88.2668516
+latitude: 42.3421014
+city_longitude: -88.2667534
+city_latitude: 42.333355
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

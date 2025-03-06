@@ -1,0 +1,21 @@
+city: Fort Dodge
+country: United States
+description: The school is supposedly haunted by a young boy who drowned in the pool. The boy has been sited peeking around corners and playing jokes on people. Also at night you can see a red glow and the smell of fire because of the alleged grease fire that happened in the home-ec room several years ago.
+location: Phillips Middle School
+state: Iowa
+state_abbrev: IA
+longitude: -94.185234
+latitude: 42.510024
+city_longitude: -94.1680158
+city_latitude: 42.4974694
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

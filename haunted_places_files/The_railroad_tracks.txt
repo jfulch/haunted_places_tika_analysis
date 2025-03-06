@@ -1,0 +1,19 @@
+city: Rockford
+country: United States
+description: There is a stretch of railroad that passes through Rockford. If you're on this railroad at night time, watch out. People have seen strange, shadowy figures and heard laughter, breathing, and other things. The railroad is haunted by the ghosts of two girls who were sitting on it when a tram came by, killing them both. Now they are doomed forever to walk the tracks near the area where they died. Some friends of mine and I were checking it out once and we heard them singing. Other people have said they have actually seen these two girls or heard them talking, or singing. It is said you see them sitting at the exact location they died, and if you get close enough, they will get up and start coming toward you. If you run, they will follow you.
+location: The railroad tracks
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.5600316
+city_latitude: 43.1200272
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Hyden
+country: United States
+description: Due to an explosion of a coal mine up in Hurricane, Kentucky...it is said that when driving through around three in the morning you can see a coal miner walking down the road. Also you can see lights, hear men laughing, talking, and screaming.
+location: The Fan
+state: Kentucky
+state_abbrev: KY
+city_longitude: -83.3732373
+city_latitude: 37.1609254
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1810/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

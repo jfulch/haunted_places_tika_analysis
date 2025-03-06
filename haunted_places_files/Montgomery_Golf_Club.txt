@@ -1,0 +1,20 @@
+city: Montgomery
+country: United States
+description: Haunted by at least two ghosts. One of the ghosts is reported to be the ghost of the farmer that used to live on the current golf club grounds and is actually buried on the first hole. He will watch the clubhouse from various locations on the course as the employees lock up at night wearing a hat and overalls. The second ghost is of one of the Golf Club founders. He has been spotted sitting at the bar and peering in windows as, again, employees lock up at night. Televisions have turned on by themselves long after they have been turned off and the air conditioner dial will mysteriously turn itself down past 50 degrees without anyone touching it.
+location: Montgomery Golf Club
+state: Minnesota
+state_abbrev: MN
+longitude: -93.576607
+latitude: 44.449988
+city_longitude: -93.5813201
+city_latitude: 44.4383146
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

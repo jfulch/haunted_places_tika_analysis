@@ -1,0 +1,19 @@
+city: Bountiful
+country: United States
+description: An old building on eaglewood drive once used as a mortuary, a mink farm, and most recently a museum. The museum is abandoned, but still houses many LDS "artifacts" and has been seen with dark, shadowy people on the property with a very eerie presence felt.
+location: the haunted museum
+state: Utah
+state_abbrev: UT
+city_longitude: -111.880771
+city_latitude: 40.8893895
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2009/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

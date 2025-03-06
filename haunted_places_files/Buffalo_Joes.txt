@@ -1,0 +1,21 @@
+city: McKinney
+country: United States
+description: A fine dining restaurant located in downtown McKinney on the east side of the old city hall. The restaurant has four areas. the lower level, the main dining room upstairs, the private banquet room, and the storage area behind the banquet room. A mischievous spirit occupies the storage area. Sometimes our toilet paper would be strung out, other times forks would be pinned into walls. All the employees left at the same time just because we were easily freaked out being by ourselves up there. The restaurant used to be a brothel when McKinney was first founded. Also check out the jailhouse restaurant, a couple blocks west.
+location: Buffalo Joes
+state: Texas
+state_abbrev: TX
+longitude: -96.8533811
+latitude: 32.9958442
+city_longitude: -96.6397822
+city_latitude: 33.1972465
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Oklahoma City
+country: United States
+description: Place is said to house several spirits which have been seen by homeless teens who stay there. Now owned by Lryic Theatre
+location: former theatre (Name unknown)
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.6053873
+latitude: 35.4948915
+city_longitude: -97.5164276
+city_latitude: 35.4675602
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

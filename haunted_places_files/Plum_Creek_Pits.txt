@@ -1,0 +1,21 @@
+city: Algona
+country: United States
+description: Back in the far corner there has been a little boy said to be playing near the waters edge legend has it that the little boy was running back to the river on the other side of the pits when he tripped on a stone and was stabbed by a stick he had fallen on. The local fisherman who use to fish their say they have seen this boy walking on the bank of the pit when they yelled to him he seemed to have looked up and ran back towards the river and disappear nobody knows what this boys name is or even his age.
+location: Plum Creek Pits
+state: Iowa
+state_abbrev: IA
+longitude: -94.1859373
+latitude: 43.13103210000001
+city_longitude: -94.233019
+city_latitude: 43.0699663
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

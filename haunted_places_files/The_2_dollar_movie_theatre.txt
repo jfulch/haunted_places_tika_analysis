@@ -1,0 +1,21 @@
+city: Nashua
+country: United States
+description: In the Theater and the parking lot, where several kills have taken place, the atmosphere is said to electrically charge.
+location: The 2 dollar movie theatre
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.4984877
+latitude: 42.7619459
+city_longitude: -71.46756599999999
+city_latitude: 42.7653662
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.666666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

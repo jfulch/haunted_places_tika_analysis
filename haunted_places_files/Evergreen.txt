@@ -1,0 +1,21 @@
+city: Edinboro
+country: United States
+description: Written about in Edinboro University newspaper in early 1990's. The tavern is over 100 years old, and has always been a way station for travelers. It is said to be haunted by a former employee from the 18th or 19th century. He likes to move the bed and other objects in one of the upstairs bedrooms. Other hauntings are said to be present, but of unknown origin. Tavern is now closed, but you can feel a presence as you drive by.
+location: Evergreen
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.1153485
+latitude: 41.88221799999999
+city_longitude: -80.1317236
+city_latitude: 41.87422249999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Marion County
+country: United States
+description: There are many locations in the "forest" as it is know to locals. There are many secluded camping sites where the "rainbow people" ( a group of modern-day traveling gypsy-like people) have told stories of seeing ghosts of children that giggle with affection. Campsites have been found destroyed and scattered over miles of rugged terrain. One of the most famous of paranormal activities that occur in the forest is that of a man who wanders up and down the country roads. Dressed in a long hooded black coat (which is worn so you cannot see he face). Numerous travelers from Daytona Beach to Ocala have called local rangers and the highway patrol reporting a man laying on the side of the road, walking, and sitting on the guard rails of bridges late at night.
+location: Ocala National Forest
+state: Florida
+state_abbrev: FL
+longitude: -81.79146999999999
+latitude: 29.1669226
+city_longitude: -82.12783999999999
+city_latitude: 29.2787765
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

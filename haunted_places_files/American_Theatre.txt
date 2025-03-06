@@ -1,0 +1,21 @@
+city: Cherokee
+country: United States
+description: East Main St. - It has been said by the employees that work in this old movie theatre that the former owner, Mr. Goldie, haunts it. A previous theatre manager related a story about an incident that occurred to him, when he was all-alone in the theatre. Apparently on day as he was walking across the stage he looked out at the seats where the customers would sit. And he saw one seat about 3-4 rows from the front and 2 seats in rocking slowly all by itself. There are other stories to be told of the hauntings there, but all you need to do...is come, and visit with the staff at the American Theatre.
+location: American Theatre
+state: Iowa
+state_abbrev: IA
+longitude: -95.5506955
+latitude: 42.7497807
+city_longitude: -95.5515431
+city_latitude: 42.7496413
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

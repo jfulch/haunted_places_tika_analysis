@@ -1,0 +1,20 @@
+city: Gulfport
+country: United States
+description: A civil war park that has a man thats head was blown off. People claim that if you go out there at night you can see his ghost walking around looking for his head.
+location: Grandgulf
+state: Mississippi
+state_abbrev: MS
+longitude: -91.0535905
+latitude: 32.030072
+city_longitude: -89.0928155
+city_latitude: 30.3674198
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

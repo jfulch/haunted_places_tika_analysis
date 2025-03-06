@@ -1,0 +1,21 @@
+city: Alton
+country: United States
+description: this is a very haunted hospital. there is at least three ghosts there. on is a small boy on the third floor in the administration area. another is said to be on the second floor near the endoscopes dept. the third is on the first floor in the sterile processing dept. this ghost is said to be one of the nuns from the order that is in residence at the hospital.
+location: St. Anthony’s hospital
+state: Illinois
+state_abbrev: IL
+longitude: -90.1730373
+latitude: 38.9080247
+city_longitude: -90.1842764
+city_latitude: 38.8906038
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1958/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

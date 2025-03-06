@@ -1,0 +1,21 @@
+city: Shillington
+country: United States
+description: Bartenders, Trustees and Patrons have reported hearing and seeing things. A trustee was in the second floor office with the door open and was the only one in the building with all the doors locked. As he was doing paper work he heard a man’s voice behind him saying "help me". A bartender was done for the night with the doors locked and he being the only one in was just getting finished cleaning the bar. As he was done he threw the cleaning rag in the middle of the bar turned to hang the cleaning bottle and as he turned to switch off the TV he heard a noise behind him, as he turned to look, the bar rag was laying in the middle of the floor and the cleaning bottle was swinging back and forth. Also, apparently the ghost likes to play in the women’s bathroom by locking the doors and turning the water on. Reportedly, a man of age had died of a heart attack at this establishment.
+location: Shillington Social Quarters
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.97248859999999
+latitude: 40.3036296
+city_longitude: -75.9654896
+city_latitude: 40.3078702
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Dawson Springs
+country: United States
+description: McNeeley graveyard - about 3 miles down Olney Road. A road to the right Walter Calvert road. Up the road about 1 mile a grave yard on right named McNeeley. You will hear a baby crying at night. - Always get permission or tell the proper authorities before exploring this site after hours.
+location: Olney Road
+state: Kentucky
+state_abbrev: KY
+longitude: -87.7378451
+latitude: 37.2089877
+city_longitude: -87.6925074
+city_latitude: 37.1672684
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

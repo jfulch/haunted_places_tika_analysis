@@ -1,0 +1,21 @@
+city: Cumberland
+country: United States
+description: spook hollow - Back in the early 1900's a man was cheating on his wife.  He was doing this in a cabin somewhere back in the woods in the hollow.  Well one day his wife found out and went back with a gun and shot both of them.  And it is still said you can hear the screams of them getting killed some nights.
+location: Newville
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.3985963
+latitude: 40.1731433
+city_longitude: -77.2405153
+city_latitude: 40.1299841
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

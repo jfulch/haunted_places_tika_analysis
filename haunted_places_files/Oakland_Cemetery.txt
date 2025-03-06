@@ -1,0 +1,20 @@
+city: St. Paul
+country: United States
+description: A woman haunts the cemetery and has appeared to many people that have frequented the cemetery over the years. She is a woman in her mid twenties with shoulder length brown hair, blue eyes, Caucasian, approx 5'5" to 5'7" in height wearing a long white lacey style dress from about the turn of the century.
+location: Oakland Cemetery
+state: Minnesota
+state_abbrev: MN
+longitude: -93.0968635
+latitude: 44.96899740000001
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

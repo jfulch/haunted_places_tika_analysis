@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: The ghost of a Native American woman has been seen at night when all the tourists and shoppers have gone home. The site was sacred somehow to Indians until the market was built. The woman still hangs out. Also at pike place market at the bead emporium, the ghost of a child haunts. When renovations were done to this business a few years ago, it was discovered that in the wall was a basket of beads from when the store opened until the present though there was no way to access this space as the door had been painted shut many years before the store opened.
+location: Pike Place Public Market
+state: Washington
+state_abbrev: WA
+longitude: -122.3420567
+latitude: 47.6101359
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

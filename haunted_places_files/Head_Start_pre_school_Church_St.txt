@@ -1,0 +1,21 @@
+city: Granville
+country: United States
+description: poltergiest activity, her name is Lizzy she died in a fire a long time ago when the building was a privete home. at night you can see the lights go on and off room to room, and she knocks over objects when she's upset, the feeling of another presence when your alone in the building. things like that
+location: Head Start pre-school, Church St.
+state: New York
+state_abbrev: NY
+longitude: -73.259529
+latitude: 43.406987
+city_longitude: -73.259553
+city_latitude: 43.4078495
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

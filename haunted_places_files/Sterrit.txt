@@ -1,0 +1,21 @@
+city: Utica
+country: United States
+description: In the 1980's A girl in a white dress was raped and murdered on Sterrit. It is said every night at 12 she walks down the streets looking in peoples windows for her killer.
+location: Sterrit
+state: Michigan
+state_abbrev: MI
+longitude: -83.01771219999999
+latitude: 42.6285582
+city_longitude: -83.0335384
+city_latitude: 42.6261446
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1944/04/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

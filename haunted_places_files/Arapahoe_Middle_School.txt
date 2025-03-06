@@ -1,0 +1,20 @@
+city: Arapahoe
+country: United States
+description: there has been sounds and things getting thrown around and cooks have been hearing things in the basement and in the gym you can here people talk when your by your self.
+location: Arapahoe Middle School
+state: Wyoming
+state_abbrev: WY
+longitude: -108.4792374
+latitude: 42.9720248
+city_longitude: -108.4898309
+city_latitude: 42.9621822
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

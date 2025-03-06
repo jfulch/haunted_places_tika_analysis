@@ -1,0 +1,18 @@
+city: Olive Hill
+country: United States
+description: Clark Hill - In the late 1960's, there was said to be paranormal activity to take place there, such as plates flying into the air, chairs moving by themselves, etc. Eventually, the Callihans had a paranormal investigator to come into the house, which came upon the conclusion that the paranormal activity was caused by one of the children having been going through adolescence, or possible demon possession.
+location: The old Callihan House
+state: Kentucky
+state_abbrev: KY
+city_longitude: -83.17406539999999
+city_latitude: 38.3000809
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/01/22
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

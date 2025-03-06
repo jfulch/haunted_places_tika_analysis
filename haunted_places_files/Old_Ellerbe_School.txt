@@ -1,0 +1,19 @@
+city: South Shreveport
+country: United States
+description: This is an old elementary school where children whose parents were wealthy went to school. There was a possible fire. Bells and faint screams can be heard at night. For more information http://myfamily20011.homestead.com/Ellerbe.html
+location: Old Ellerbe School
+state: Louisiana
+state_abbrev: LA
+city_longitude: -93.7501789
+city_latitude: 32.5251516
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

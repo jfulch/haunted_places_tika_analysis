@@ -1,0 +1,21 @@
+city: Oshkosh
+country: United States
+description: During renovation work in the 1980's, workers and crew saw the ghost of Percy Keene, a stage manager who died in the 1960's. They saw his face in windows sometimes and thought it was a night watchman, but the opera house didn’t hire any night watchman. Also during the filming of a movie based on a haunted theatre, the director saw Percy's ghost in the balcony smiling down at him. Other ghosts are in the basement. Percy's the only one who can roam, apparently.
+location: The Grand Opera House
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.5386276
+latitude: 44.017506
+city_longitude: -88.5426136
+city_latitude: 44.0247062
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

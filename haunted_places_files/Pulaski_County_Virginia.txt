@@ -1,0 +1,21 @@
+city: Hiawassee
+country: United States
+description: Old Paint Factory -  One night a hunter was walking through the woods with his dogs near the factory. Suddenly a man appeared in front of him. He knew if he let the dogs go they would tear the man to pieces but they were hurting his hand so he had to let them go. He caught up with the dogs after they ran off to find them sniffing the ground as if no one was there. He told a relative of the incident and described the man. He was wearing an old paint factory uniform. There are many apparitions in the hills of Hiwassee.
+location: Pulaski County Virginia
+state: Virginia
+state_abbrev: VA
+longitude: -80.71367889999999
+latitude: 36.9687335
+city_longitude: -80.71367889999999
+city_latitude: 36.9687335
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

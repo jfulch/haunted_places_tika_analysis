@@ -1,0 +1,21 @@
+city: Friday Harbor
+country: United States
+description: The Mausoleum by the cemetery in Roche Harbor. There are stories that late at night on a full moon you can walk up the long trail that leads to the mausoleum and once you get there you can see the six people that are buried under the seats around the table will be sitting there laughing and talking. Other stories about are ones that are told that when it is raining you can go up there sit at the table and even though there is an opening in the roof of the mausoleum no rain will come in.
+location: Roche Harbor Resort
+state: Washington
+state_abbrev: WA
+longitude: -123.1529885
+latitude: 48.6084725
+city_longitude: -123.0171242
+city_latitude: 48.5342662
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

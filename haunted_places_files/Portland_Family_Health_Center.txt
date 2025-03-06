@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: Old Army Hospital - In the back of the property is the original two-story hospital, which was built before the civil war. It was built near the banks of the Ohio river, for easier access the river. It was used to treat army soldiers. Also used in the Civil War. They stopped using the building because of the said hauntings. People have seen soldiers walking around, and have heard strange noises. Windows and doors have been seen to open and close on their own. Lights have been seen on at night, when not a person is there.
+location: Portland Family Health Center
+state: Kentucky
+state_abbrev: KY
+longitude: -85.78432629999999
+latitude: 38.2704843
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1918/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: War
+witness_count: 1

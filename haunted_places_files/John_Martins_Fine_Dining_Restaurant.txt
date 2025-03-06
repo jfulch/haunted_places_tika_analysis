@@ -1,0 +1,18 @@
+city: Natchez
+country: United States
+description: This popular restaurant is haunted by the ghost of a prostitute. She was killed by her son after discovering her profession. Employees have reported many strange occurrences on the second floor such as lights flickering on and off, doors slamming in your face, and footsteps coming down the stairs when no one is there.
+location: John Martin's Fine Dining Restaurant
+state: Mississippi
+state_abbrev: MS
+city_longitude: -91.403171
+city_latitude: 31.5604442
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: The elevator is believed to be haunted. The 6th floor is haunted as well. There was a double murder over a lover’s quarrel. Could spots have been felt as well as chandeliers swaying with no sound.
+location: The Hawthorne Hotel
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8903974
+latitude: 42.5227362
+city_longitude: -70.8967155
+city_latitude: 42.51954
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

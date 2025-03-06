@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: There is a place near interstate 10 were it is say that at night this lady is said to haunt the place since six poles was used as a slaughter site for animals early in the century. This lady that is said to work at this place accidentally killed herself with the non mechanical machine used there and it is said that late on nights her spirit haunts the place and that she appears to carry her head on her waist and a bloody scene appears every time you hear her moan in pain this place is located behind a new community college built about 2 years ago and close to an amusement park now closed because this kid got killed in the unsafe wheel of fortune.
+location: Six Poles
+state: Texas
+state_abbrev: TX
+longitude: -106.2662123
+latitude: 31.6769476
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

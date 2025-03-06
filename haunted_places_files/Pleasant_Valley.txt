@@ -1,0 +1,21 @@
+city: Cedar Hill
+country: United States
+description: it is said if you go there late at night carry a book of matches with you and you have a little boy who is unknown sit in the passenger seat and talk to you and also your radio starts changing stations suddenly the car jumps into drive and the car doesn't move.
+location: Pleasant Valley
+state: Texas
+state_abbrev: TX
+longitude: -97.0012138
+latitude: 32.5583486
+city_longitude: -96.9561152
+city_latitude: 32.5884689
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

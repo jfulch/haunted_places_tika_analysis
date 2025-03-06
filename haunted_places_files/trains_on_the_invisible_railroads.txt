@@ -1,0 +1,19 @@
+city: Aquilla
+country: United States
+description: There used to be a railroad track here. A long time ago the city burnt down twice because of the trains throwing sparks, so they decided to just take up all the rails. Well every now and then around 12:00 midnight you can here the train. Residents say it's so loud that it will wake you up from a dead sleep! You can see the light on the front and hear it blow its whistles! But it never stops it just goes right through town.
+location: trains on the invisible railroads
+state: Texas
+state_abbrev: TX
+city_longitude: -97.2180635
+city_latitude: 31.8515484
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

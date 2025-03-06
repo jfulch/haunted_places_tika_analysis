@@ -1,0 +1,21 @@
+city: New Athens
+country: United States
+description: In the old locker rooms what is now just a storage room in the early 60's a janitor was found dead one morning when the students came to school. There was never any cause found for his death. Janitors and students can see the ghost of him cleaning throughout the school at night and through the windows. There are also reports of doors slamming and lights turning on and off on their own.
+location: New Athens High School
+state: Illinois
+state_abbrev: IL
+longitude: -89.86783679999999
+latitude: 38.3187893
+city_longitude: -89.8770468
+city_latitude: 38.3264383
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

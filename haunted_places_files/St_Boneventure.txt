@@ -1,0 +1,21 @@
+city: Allegany
+country: United States
+description: Fancis Hall - It's very old and many monks used to live there. Workers and students have reported weird noises and feelings of spirits. No one likes to go in there at night.
+location: St. Boneventure
+state: New York
+state_abbrev: NY
+longitude: -78.4750213
+latitude: 42.0803426
+city_longitude: -78.4941887
+city_latitude: 42.0900647
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1624/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

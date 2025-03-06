@@ -1,0 +1,21 @@
+city: Montpelier
+country: United States
+description: College Hall Chapel -  was built in the 1830's. In the late 1800's, a girl died in one of the towers. A security guard was taking a group of students up to the tower and one of the girls left side of her body went numb. They found out later that the autopsy of the girl whom was murdered, her left side of her body went numb because of getting shot behind her left ear. When you walk through the building, you can feel someone blowing behind your head. the pipe organ played three chords on its own when it was turned off.
+location: Vermont College
+state: Vermont
+state_abbrev: VT
+longitude: -72.5676241
+latitude: 44.2551934
+city_longitude: -72.5753869
+city_latitude: 44.26005929999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1696/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

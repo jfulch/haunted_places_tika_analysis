@@ -1,0 +1,21 @@
+city: Elgin
+country: United States
+description: the girls restroom is said to be haunted so don't go in alone is the advice to students
+location: Elgin Elementary school
+state: Texas
+state_abbrev: TX
+longitude: -97.3797666
+latitude: 30.3496347
+city_longitude: -97.3702735
+city_latitude: 30.3496528
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

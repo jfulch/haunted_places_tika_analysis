@@ -1,0 +1,21 @@
+city: Narth fork
+country: United States
+description: built in the mid 1800. The town was once the stop for the Yosemite stagecoach. The church sets on a hill overlooking the town. At night you can see a light in the bell tower and the bell rings. This has been happening for so long the residents consider it normal. The only problem is the bell hasn't been in the church for 100 years and it has never had electricity. It still continues to this day.
+location: the old church
+state: California
+state_abbrev: CA
+longitude: -119.5087382
+latitude: 37.2290831
+city_longitude: -119.5094012
+city_latitude: 37.2293678
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1851/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

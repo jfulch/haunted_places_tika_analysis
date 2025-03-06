@@ -1,0 +1,21 @@
+city: Wichita Falls
+country: United States
+description: You can hear water dripping in the basement although the place has been vacant and no utilities for over 30 years. When up on the second floor we heard heavy footsteps coming up the stairs, but no one else was in the building. Also if you are very quite on a quite night, can hear the faint sound of old printers and machines running. - October 2007 Update: It was located off of 287 on California St. Building was renovated about 4 or 5 years ago.
+location: Old Insane Asylum
+state: Texas
+state_abbrev: TX
+longitude: -98.5049679
+latitude: 33.901643
+city_longitude: -98.4933873
+city_latitude: 33.9137085
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

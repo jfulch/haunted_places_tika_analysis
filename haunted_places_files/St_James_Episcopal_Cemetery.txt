@@ -1,0 +1,21 @@
+city: Bristol
+country: United States
+description: There are many ghosts that haunt this place including a ghost of a witch. There is a chair that sits right next to the tombstone of Merritt P. Wright called the Witch's Chair. Legend has it that if you sit in the chair at midnight in the month of October, you will feel the hands of a witch encircling you.
+location: St. James Episcopal Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.85435629999999
+latitude: 40.0977648
+city_longitude: -74.8518311
+city_latitude: 40.1006661
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

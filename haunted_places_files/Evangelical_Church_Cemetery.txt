@@ -1,0 +1,21 @@
+city: Oakbrook
+country: United States
+description: In a small town called Oakbrook behind the old Graue Mill underground railroad station there lies a church. Behind this church lies the most haunted cemetery in the entire world. It has been rumored that the church has been around since the early settlement of the Chicago area. The church was certainly around during the time of the fugitive salves and was the church of the mill owners and the mill's surrounding inhabitants. Buried in the cemeteries grounds are the bodies of the slaves which never achieved true freedom and died on their trek to Canada. On some late summer nights it’s been said that one can see the slaves not at rest, but stirring about in the cemetery and the church. The cemetery is most defiantly haunted by these restless souls as well as many other ghouls and probably monsters. Just joking about the monsters but for real the place is haunted and is defiantly worth a trip out to see.
+location: Evangelical Church Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -87.9308183
+latitude: 41.8201992
+city_longitude: -87.95355339999999
+city_latitude: 41.8397865
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

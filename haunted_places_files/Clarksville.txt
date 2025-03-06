@@ -1,0 +1,21 @@
+city: Clark County
+country: United States
+description: : Colgate Palmolive factory - Clarksville, Indiana is the correct location of the Colgate-Palmolive factory which used to be a prison; the basement is especially said to be haunted. If you are on the riverfront in downtown Louisville, Kentucky just look for the huge clock on the other side of the river, and that is the factory.
+location: Clarksville
+state: Indiana
+state_abbrev: IN
+longitude: -85.759963
+latitude: 38.2967362
+city_longitude: -85.7256372
+city_latitude: 38.4492903
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1806/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Joplin
+country: United States
+description: an ex-tenant reports faucets turning on by themselves in the bathroom when she was alone in the house, only to turn back on when she would shut them off. Hearing her record player playing.
+location: Main St. (private residence)
+state: Missouri
+state_abbrev: MO
+longitude: -94.5144292
+latitude: 37.0702943
+city_longitude: -94.513281
+city_latitude: 37.08422710000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

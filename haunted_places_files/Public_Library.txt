@@ -1,0 +1,21 @@
+city: Boerne
+country: United States
+description: many feel the ghost when inside, if you drive by late at night you can see lights in the building going on and off.
+location: Public Library
+state: Texas
+state_abbrev: TX
+longitude: -98.7313718
+latitude: 29.7981514
+city_longitude: -98.7319703
+city_latitude: 29.79466409999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Tannersville
+country: United States
+description: It is said that a man in his late 30's early 40's was hit by a car and left to die. This happened right behind the inn. Today he haunts a bedroom on the top floor. People said they have seen him laying on the bed and sitting on the couch. They used to have the doorway and windows boarded-up.
+location: Tannersville Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.300893
+latitude: 41.031844
+city_longitude: -75.3057288
+city_latitude: 41.0398099
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

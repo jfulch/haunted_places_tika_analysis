@@ -1,0 +1,21 @@
+city: Bellingham
+country: United States
+description: Their have been reports of a ghostly apparition floating along the stone walls of the cemetery. Inside the walls there are 3 hot spots and a monument called the "death bed", it is said that when one lies upon this monument they expedite their death. The other "haunted" monument is called "angel eyes", it is believed that the apparition that is seen wandering the stone enclosure is the spirit of the person buried beneath that statue.
+location: Bayview Cemetery
+state: Washington
+state_abbrev: WA
+longitude: -122.441462
+latitude: 48.748549
+city_longitude: -122.4786854
+city_latitude: 48.7519112
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

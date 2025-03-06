@@ -1,0 +1,21 @@
+city: East Aurora
+country: United States
+description: The Roycroft Pavilion is the home of the Auroura Players. Many of the cast members have felt a presence or seen strange things. The ghost is said to be that of a middle aged dark haired woman.
+location: Roycroft Pavilion
+state: New York
+state_abbrev: NY
+longitude: -78.6166876
+latitude: 42.7635628
+city_longitude: -78.6133589
+city_latitude: 42.7678376
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1661/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

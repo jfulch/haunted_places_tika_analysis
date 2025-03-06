@@ -1,0 +1,21 @@
+city: South Bend
+country: United States
+description: Over the years many children have drowned here swimming at the beach, when fishing at night on the fishing pier across from the beach next to the cemetery you can hear the sound's of a child crying and calling for it's mother when you go over to the beach where you hear the cries there is no one there....
+location: Potato Creek State Park
+state: Indiana
+state_abbrev: IN
+longitude: -86.36167999999999
+latitude: 41.5350934
+city_longitude: -86.25198979999999
+city_latitude: 41.6763545
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

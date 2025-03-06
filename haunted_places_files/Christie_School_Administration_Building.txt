@@ -1,0 +1,21 @@
+city: Mary Hurst
+country: United States
+description: Many years ago, when Christie School was an orphanage for girls, several children died of various diseases. Now, the fourth floor where the children lived is said to be haunted by these children. People have claimed to hear children singing and making other noises. There is also a voice of a woman that has been heard. Recently, four people went to the fourth floor at midnight. There was a cold draft and the sounds of children talking.
+location: Christie School Administration Building
+state: Oregon
+state_abbrev: OR
+longitude: -122.6509783
+latitude: 45.402721
+city_longitude: -122.6543286
+city_latitude: 45.3891078
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Waco
+country: United States
+description: The whole Rainbow Lake area has been plagued with rumors of witchcraft, cult activity, and peeping Tom's. Some homes that back up to the Rainbow Lake area have reported seeing paranormal figures, hearing shrieks during the night, and cold spots in the heat of summer. Rumors of a dead body being found further upstream in the Rainbow Creek area have also turned up as well as a sighting of a ghost-like male deeper into the woods. A few graves have also been found in the area, some marked with simple wooden crosses while others remain unmarked. - March 2008 Update: This location dose in fact exists. It is an area located right off on the frontage road of Highway 84 and Hewitt/Estates drive. It is right between Braughton fields and the Sherwin Williams paint store. If you go to Google maps and in put the following location (Rainbow Dr, Woodway, TX 76712) zoom in a bit and you will see the lake. However This location is on a private drive. There may be trespassing issues. Be safe and be courteous.
+location: Rainbow Lake/Creek
+state: Texas
+state_abbrev: TX
+city_longitude: -97.1466695
+city_latitude: 31.549333
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

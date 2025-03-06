@@ -1,0 +1,19 @@
+city: Weeksbury
+country: United States
+description: at night you can hear a woman screaming up the hollow. But there is never a woman there.
+location: The Hollow
+state: Kentucky
+state_abbrev: KY
+city_longitude: -82.6882119
+city_latitude: 37.3278808
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1820/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

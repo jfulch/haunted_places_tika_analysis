@@ -1,0 +1,21 @@
+city: Huntington
+country: United States
+description: A women spirit has been seen floating in the hallways of the Physical Education Recreation Center, wearing a long white dress. She is only seen by men. Toilets have been known to flush and showers turn on with know one in the restrooms and locker rooms.
+location: Huntington College
+state: Indiana
+state_abbrev: IN
+longitude: -85.4991407
+latitude: 40.8988334
+city_longitude: -85.49747599999999
+city_latitude: 40.8831011
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

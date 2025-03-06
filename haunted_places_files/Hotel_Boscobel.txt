@@ -1,0 +1,21 @@
+city: Boscobel
+country: United States
+description: Visions of Adam Boebel. The man who built the hotel has been seen by many employees and visitors of the historic building. It's also the birthplace of the Gideon bible.
+location: Hotel Boscobel
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.705561
+latitude: 43.1345
+city_longitude: -90.7054045
+city_latitude: 43.1344289
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

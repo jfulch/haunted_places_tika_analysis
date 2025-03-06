@@ -1,0 +1,21 @@
+city: Weatherford
+country: United States
+description: At night a woman can be seen walking the creek bed with a lantern in hand. The woman died in the creek bed. Cars also stall out on the bridge.
+location: Dead Woman's Crossing
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.65056
+latitude: 35.56778
+city_longitude: -98.7075744
+city_latitude: 35.5261633
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

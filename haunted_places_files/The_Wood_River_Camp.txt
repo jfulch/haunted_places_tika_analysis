@@ -1,0 +1,21 @@
+city: Baker Creek
+country: United States
+description: is supposed to be haunted by a well known immigrant miner some call Russian John. The sightings of the apparition began in the 1920's.
+location: The Wood River Camp
+state: Idaho
+state_abbrev: ID
+longitude: -114.5644832
+latitude: 43.745085
+city_longitude: -114.5644832
+city_latitude: 43.745085
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1690/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

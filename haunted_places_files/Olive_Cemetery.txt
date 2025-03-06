@@ -1,0 +1,19 @@
+city: Murrysville
+country: United States
+description: Located on Logan's Ferry Rd. and is said to be haunted by Logan himself.
+location: Olive Cemetery
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -79.69754499999999
+city_latitude: 40.4284015
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1992/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

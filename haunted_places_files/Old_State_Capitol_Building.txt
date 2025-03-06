@@ -1,0 +1,21 @@
+city: Baton Rouge
+country: United States
+description: The ghost of "Pierre" who is believed to be an senator or congressman from who died from a heart attack in his mid- to late- forties because of a political issue that he was particularly riled about. Before he could start to serve his term. He is said to haunt the upstairs of the Old State Capitol Building. Several security officers report alarms (motion sensors mostly) going off in the middle of the night and the video camera shows no signs of anyone. One female security guard briefly glimpsed "Pierre" one night upstairs were the senate used to meet. The guards and tour guides at the building also report instances of doors opening and closing when no one else is in the building as well.
+location: Old State Capitol Building
+state: Louisiana
+state_abbrev: LA
+longitude: -91.189033
+latitude: 30.446596
+city_longitude: -91.1403196
+city_latitude: 30.4582829
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

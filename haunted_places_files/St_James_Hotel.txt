@@ -1,0 +1,21 @@
+city: Cimarron
+country: United States
+description: Room 18  is haunted by a man that was killed after winning rights to the hotel in a poker game and they say he is so violent, the room is padlocked and no one is allowed in there. A local says staff members occasionally enter the room to refill his Jack Daniels and afterwards, he seems to come downstairs and wreak havoc on the place for about a month - he does NOT want anyone in his room for any reason.
+location: St. James Hotel
+state: New Mexico
+state_abbrev: NM
+longitude: -104.9205143
+latitude: 36.5049181
+city_longitude: -104.9158341
+city_latitude: 36.5108691
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Rancho Cucamonga
+country: United States
+description: The sycamore inn, now a great steak house along the old route 66, was established in 1848 but the original inn burned down and was rebuilt across the street. Apparitions of a man dressed in cowboy style clothes. www.thesycamoreinn.com
+location: The Sycamore Inn
+state: California
+state_abbrev: CA
+longitude: -117.6234244
+latitude: 34.1056107
+city_longitude: -117.5931084
+city_latitude: 34.10639889999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1848/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

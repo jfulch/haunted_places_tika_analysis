@@ -1,0 +1,21 @@
+city: O'ahu
+country: United States
+description: The construction of this controversial highway destroyed or altered dozens of sites, including family homes, sacred burial grounds, and temples. The project was plagued with accidents and claimed the lives of 2 workers.
+location: Kukuiokane Temples
+state: Hawaii
+state_abbrev: HI
+longitude: -157.832237
+latitude: 21.430724
+city_longitude: -158.0000565
+city_latitude: 21.4389123
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

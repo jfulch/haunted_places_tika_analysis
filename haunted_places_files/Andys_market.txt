@@ -1,0 +1,20 @@
+city: Apple Valley
+country: United States
+description: The haunted place is called Dead Man's Hill. The story is a little boy named Dameon. He was sliding down the back hill, when an arrow shot him in the eye. He is heard moaning, and pushing people in their sleds into trees. He can be harmful but all he wants is a buddy.
+location: Andy's market
+state: Minnesota
+state_abbrev: MN
+longitude: -93.20813
+latitude: 44.7458081
+city_longitude: -93.21772
+city_latitude: 44.7319094
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

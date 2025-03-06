@@ -1,0 +1,21 @@
+city: Fort Wayne
+country: United States
+description: A student hung himself here long ago and has been spotted by students. Many have reported unexplainable "cold spots" in the library,reports of people actually seeing her hanging, and other strange happenings.
+location: The University of Saint Francis library
+state: Indiana
+state_abbrev: IN
+longitude: -85.17373970000001
+latitude: 41.087771
+city_longitude: -85.1393513
+city_latitude: 41.079273
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Hope
+country: United States
+description: There are many different tales, but here is one of many. Jenny was a nine year old girl who lived generations ago. The small white house where she lived stood far below a high cliff. One day the child was picking berries or playing on the rocks when an Indian surprised her. In great fear she called to her father for help. He cried, "Jump, Jenny Jump!" The obedient child jumped from the high rocky cliff to her death. Her small figure can still be seen wandering around the location it is reported.
+location: Jenny Jump State Park
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.922874
+latitude: 40.912799
+city_longitude: -74.9673626
+city_latitude: 40.9111182
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

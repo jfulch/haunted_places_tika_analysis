@@ -1,0 +1,21 @@
+city: Tuscaloosa
+country: United States
+description: This is an old plantation home, now in the midst of Tuscaloosa. It was built by Dr. John Drish, for his wife Sarah. When Dr. Drish died, Sarah burned candles while he lay in state. After the ceremony, Sarah locked away the candles and asked that they be burned at her funeral. As Sarah's health declined, she became somewhat obsessed with the candle burning. Then, after her death, her friends and family were too busy to look for the candles, and Sarah was buried without the ceremony. Shortly after, the tower where Sarah burned the candles for her husband, caught fire. But as fire crews arrived, the fire was gone. There was no evidence of burned wood, not even a wisp of smoke. The ghostly fire happened a few times more and people began wondering who was starting the ghostly fires. Then, one night after one of the fires mysteriously vanished, the ghost of Sarah Drish appeared.
+location: Drish Mansion
+state: Alabama
+state_abbrev: AL
+longitude: -87.5618432
+latitude: 33.1975422
+city_longitude: -87.56917349999999
+city_latitude: 33.2098407
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2006/02/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: New York City
+country: United States
+description: Numerous reports since the 1920s of students seen -- and recognized by students, and [former] professors years back -- known to have died in the First World War, haunting one of the former political club lounges in Shepherd Hall. Legend had it that in one particular instance, a math tutor noticed that a student's clothes seemed somewhat dated for the mid-20s and put it in his mind to inquire as to how the young man was making out financially; given it was still a wholly free college with a mostly working class student body. Only later that night did this "absent minded professor" wake up from sleep with a start, scaring his wife in the process [isn't that always the case?], with the recollection that the young man died in France in 1918. Apparitions dressed in 60's & 70's clothes and one ghost in particular is in grunge attire, he always appears "sad looking", is only seen just before or after closing hours.
+location: The City College of New York
+state: New York
+state_abbrev: NY
+longitude: -73.9492724
+latitude: 40.8200471
+city_longitude: -74.0059728
+city_latitude: 40.7127753
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1918/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

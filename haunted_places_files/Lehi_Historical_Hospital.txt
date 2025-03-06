@@ -1,0 +1,21 @@
+city: Lehi
+country: United States
+description: This hospital is over a hundred years old, the windows are broke and the back stairs have collapsed.  At night there have been reported sights of a nurse that is hung hanging from a steel flag pole.  the story is that she was working late in the ward and a doctor went crazy and hung her out there.
+location: Lehi Historical Hospital
+state: Utah
+state_abbrev: UT
+longitude: -111.8784398
+latitude: 40.4252683
+city_longitude: -111.8507662
+city_latitude: 40.3916172
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

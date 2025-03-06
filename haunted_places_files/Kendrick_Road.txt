@@ -1,0 +1,21 @@
+city: Kendrick
+country: United States
+description: As you drive along this road you may see a white, glowing, floating object following your vehicle.
+location: Kendrick Road
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.7649042
+latitude: 35.7562003
+city_longitude: -96.7748298
+city_latitude: 35.7858169
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Scottsville
+country: United States
+description: This cemetery dates from before Texas was a state. The haunting is actually on the grounds bordering the west of the cemetery and church. There is a covered spring house at the foot of a hill just outside the fenced off area leading to the cemetery parking lot. Stairs lead up the hill from the spring house to the top, where a large, two story house once stood. This house burned in the 50's, but was reputed to be haunted. Old-timers told of standing outside in their youth and listening to voices and furniture being moved in the empty rooms inside. Youths of today say that if you stand at the top of the stairs, you can hear a woman weeping several hundred feet away, down at the spring house.
+location: Scottsville Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -94.2330151
+latitude: 32.540837
+city_longitude: -94.2382471
+city_latitude: 32.5404281
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Virginia City
+country: United States
+description: It is said that "Two Feathers," an Indian (Chief?) was killed after a fight in the saloon. Two Feathers controls ONE nickel slot machine. On the 2nd or 3rd (?) floor, there is evidence of a doll, and if you change her clothes, they will be changed back to original dress. It is said that the little girl was ran over by a wagon, and her Mother can be heard crying over the loss of her little girl. Many people have seen "blue lights" at night, and many other strange things!
+location: Long Branch Saloon
+state: Nevada
+state_abbrev: NV
+longitude: -84.3677518
+latitude: 43.6676559
+city_longitude: -119.6499793
+city_latitude: 39.3095135
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1976/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

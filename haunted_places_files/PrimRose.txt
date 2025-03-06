@@ -1,0 +1,21 @@
+city: New Carlisle
+country: United States
+description: a road the length of a quarter mile long surrounded by woods, its known to have a ghost truck that changes color and is known to chase visitors out of the area
+location: PrimRose
+state: Indiana
+state_abbrev: IN
+longitude: -86.145472
+latitude: 39.9678476
+city_longitude: -86.509462
+city_latitude: 41.7003231
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: Reports of footsteps on the second floor even though no one is there, there is a foul odor that travels around the room and a cold spot.
+location: V.M.T. Magnet School
+state: Texas
+state_abbrev: TX
+longitude: -99.4751799
+latitude: 27.5222667
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

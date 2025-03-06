@@ -1,0 +1,19 @@
+city: Spring Valley
+country: United States
+description: The area surrounding the tomb has many local reports of paranormal occurrences, Some murders took place within a mile of the place, as well.
+location: Massock Mausoleum
+state: Illinois
+state_abbrev: IL
+city_longitude: -89.1998076
+city_latitude: 41.3275352
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

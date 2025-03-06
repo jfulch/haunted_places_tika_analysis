@@ -1,0 +1,21 @@
+city: Verona
+country: United States
+description: This place was an old orphanage. Then it became a place where cancer and pneumonia patients went to die. The road stretches for about 2 miles and there are two entrances. There are 5 buildings on this road, all abandoned. There have been sightings of ghosts and footsteps. Also, there is a manhole right when u reach the fork in the road; if you take it off, on your way back it will be covered again. Or vice-versa. It's guaranteed to happen. Happy haunting!
+location: Overbrook
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.23406489999999
+latitude: 40.8518541
+city_longitude: -74.24016089999999
+city_latitude: 40.82980060000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

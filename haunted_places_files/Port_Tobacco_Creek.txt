@@ -1,0 +1,21 @@
+city: Port Tobacco
+country: United States
+description: Supposedly, there is sad that a dog haunts the grounds of the creek. The dog has been sighted since the 1920s.
+location: Port Tobacco Creek
+state: Maryland
+state_abbrev: MD
+longitude: -76.97525139999999
+latitude: 38.5292877
+city_longitude: -77.018833
+city_latitude: 38.51138359999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

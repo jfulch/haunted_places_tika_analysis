@@ -1,0 +1,19 @@
+city: Sevierville
+country: United States
+description: It is said that Mr. Eledge died of a heart attack in the house and has haunted the place since it had happened. The lights flicker on and off at night and noises are heard throughout the house. The noises are of Mr. Eledge and his children talking and laughing. The basement of the house is haunted by ghost of his children.
+location: The Old Eledge House
+state: Tennessee
+state_abbrev: TN
+city_longitude: -83.56183500000002
+city_latitude: 35.8681455
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1996/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

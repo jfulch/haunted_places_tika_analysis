@@ -1,0 +1,21 @@
+city: Atlanta
+country: United States
+description: During a production of Henry IV Part I in 1993, the actor playing Falstaff suddenly came from the men's dressing room, very shaken. He had seen a very young boy dressed in a velvet suit much like children wore in the 1800's beside his dressing table. Others have seen passing images and odd lights over the years. Sometimes when the theater is pretty much deserted, voices will be heard, as if a group is meeting together. There is a room in the top level of the building that sensitive people will not enter, because it is clammy and the energy feels terrible in there. An old man has been spotted on a couple of occasions. A female energy once warned of a fire, and sometimes upsets things in the women's dressing room. Occasionally a shadowy figure can be seen on the catwalk above the stage.
+location: The Shakespeare Tavern
+state: Georgia
+state_abbrev: GA
+longitude: -84.38520179999999
+latitude: 33.7681757
+city_longitude: -84.3879824
+city_latitude: 33.7489954
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1993/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

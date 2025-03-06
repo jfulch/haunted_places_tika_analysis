@@ -1,0 +1,20 @@
+city: Kansas City
+country: United States
+description: On a rainy night there is a headless woman that walks the river bank. It is said she was in a covered wagon that turned over and rolled down the hill and she was decapitated.
+location: Kaw River
+state: Missouri
+state_abbrev: MO
+longitude: -94.5785667
+latitude: 39.0997265
+city_longitude: -94.5785667
+city_latitude: 39.0997265
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1600/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

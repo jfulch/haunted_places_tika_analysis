@@ -1,0 +1,21 @@
+city: Annapolis
+country: United States
+description: Has been abandoned since the 1970's a lot of strange occurrences happen he if you put your ear up to the doors you can hear moaning and scratching. Rumors that people were killed here in the 1960's. it was a segregated school where only the blacks went in before it closed down a girl was thrown to her death out the window and was never found. Reports of lights being on inside with no power at all, also 5 years ago they tried to make it into a senior center but something scared them away after 2 months.
+location: Old Bates Middle
+state: Maryland
+state_abbrev: MD
+longitude: -76.5057326
+latitude: 38.9722578
+city_longitude: -76.4921829
+city_latitude: 38.9784453
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

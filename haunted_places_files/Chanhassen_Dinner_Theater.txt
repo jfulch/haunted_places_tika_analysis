@@ -1,0 +1,20 @@
+city: Chanhassen
+country: United States
+description: This theater was built over the site of a house that burnt down with a woman still inside. She is said to haunt the new structure. There is another ghost here of an actor who was hit by a car when she was bicycling home from work. Her spirit has been spotted backstage. - March 2008 update: According to Chanhassen Dinner Theatre AND the Carver County Historical Society - there isn't now and never was a haunting.
+location: Chanhassen Dinner Theater
+state: Minnesota
+state_abbrev: MN
+longitude: -93.5335079
+latitude: 44.86168420000001
+city_longitude: -93.5323103
+city_latitude: 44.86196450000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

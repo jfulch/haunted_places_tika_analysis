@@ -1,0 +1,21 @@
+city: Winchester
+country: United States
+description: The cries and ghostly figures of those wounded haunt the battle fields once every year. When ghostly figures appear each year is unknown--it is always different!
+location: Fort Colier Battle Field
+state: Virginia
+state_abbrev: VA
+longitude: -78.153778
+latitude: 39.20116
+city_longitude: -78.1633341
+city_latitude: 39.1856597
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

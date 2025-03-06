@@ -1,0 +1,19 @@
+city: Iowa Falls
+country: United States
+description: This dorm and Union Cemetery across the road are both haunted. One resident advisor was spending the Christmas holiday in the dorm alone, and reported hearing footsteps and voices from the unoccupied basement floor, which was locked up, and no one could get into. There have also been sightings of Mr. Ellsworth (a town benefactor) and other ghosts in the cemetery, and strange noises can be heard in both places.
+location: Thompson Hall Dormitory
+state: Iowa
+state_abbrev: IA
+city_longitude: -93.2645741
+city_latitude: 42.51988679999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Natural Disaster
+witness_count: 1

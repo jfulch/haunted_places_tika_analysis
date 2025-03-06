@@ -1,0 +1,21 @@
+city: Cumberland
+country: United States
+description: According to legend back in the 1950's 5 young high school boys were murdered mysteriously at the school. No one knows who did it. Ever since, late at night when you’re walking the track behind the school you'll see glimpses of lights going on and off and hear strange noises if your near the school, even feel like your being watched. There is also 2 graveyards near the school, which also have many hauntings. Like the old man in the graveyard path, whom is dark, tall, you speak to him and he just stares at you, then vanishes into thin air.
+location: Greely High School
+state: Maine
+state_abbrev: ME
+longitude: -70.2548777
+latitude: 43.7984714
+city_longitude: -70.2585205
+city_latitude: 43.796573
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

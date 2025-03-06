@@ -1,0 +1,21 @@
+city: Rowland Heights
+country: United States
+description: One of the faculty members died in a car accident right in front of the school. Since then, at night students have been reporting a lady wearing torn up clothes and scars through her face standing in the middle of the road.
+location: Rowland High School
+state: California
+state_abbrev: CA
+longitude: -117.8848705
+latitude: 33.9819728
+city_longitude: -117.9053395
+city_latitude: 33.9761238
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

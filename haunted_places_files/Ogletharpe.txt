@@ -1,0 +1,21 @@
+city: Macon County
+country: United States
+description: Taylor House - Randolph St. - A long time ago, Oglethorpe was a large city and was going to become the capital of Georgia, but all of the people died of small pox and it is now divided into two towns (Oglethorpe and Montezuma) by the Flint River Bridge. There is a house on Randolph Street, The Taylor House, which was owned back when Oglethorpe was a big place, by Colonel George W. Fish. He built the home himself and has often been reported being seen by occupants of the home and also, walking outside along the front walk and the sidewalk. His house was once renovated and he was said to have pitched such a fit, breaking things, scaring people into falling downstairs.. etc.., that the house was forced to be restored to its formal conditions.
+location: Ogletharpe
+state: Georgia
+state_abbrev: GA
+longitude: -84.0610191
+latitude: 32.293769
+city_longitude: -84.05902900000001
+city_latitude: 32.3523607
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

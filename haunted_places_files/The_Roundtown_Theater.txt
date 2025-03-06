@@ -1,0 +1,20 @@
+city: Circleville
+country: United States
+description: This theater is home to several playful poltergeists. There have been numerous reports of mysterious sights and sounds such as eerie footsteps on the balcony. On one account, a dog responded in such terror to the ghost that it had to be removed from the building. The ghost has also been seen peering out of the mirrors into the eyes of horrified witnesses. The ghost is known as Charlie.
+location: The Roundtown Theater
+state: Ohio
+state_abbrev: OH
+longitude: -82.942831
+latitude: 39.600838
+city_longitude: -82.9460133
+city_latitude: 39.600618
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

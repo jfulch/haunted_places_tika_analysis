@@ -1,0 +1,21 @@
+city: Carson
+country: United States
+description: at the track field at midnight you can see a boy running around the track and if you get close to it, it'll disappear.. or right before the sun comes up it'll disappear.
+location: Carson High School
+state: California
+state_abbrev: CA
+longitude: -118.2755011
+latitude: 33.8237889
+city_longitude: -118.281693
+city_latitude: 33.8316745
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Van Buren
+country: United States
+description: Things have been heard and seen by actors and maintenance workers during the running of plays.
+location: King Opera House Theatre
+state: Arkansas
+state_abbrev: AR
+longitude: -94.3550277
+latitude: 35.4352764
+city_longitude: -94.348268
+city_latitude: 35.436756
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

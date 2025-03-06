@@ -1,0 +1,21 @@
+city: Cotter
+country: United States
+description: There are reports of an apparition of a woman being chased by hounds, children playing on the train tracks below, and sounds of a baby crying.- February 2004 Correction – Additional Information: You can also hear footsteps and see footprints, but no one is there.
+location: Historic Cotter Bridge/ Springs
+state: Arkansas
+state_abbrev: AR
+longitude: -92.543398
+latitude: 36.265936
+city_longitude: -92.5354402
+city_latitude: 36.2711798
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

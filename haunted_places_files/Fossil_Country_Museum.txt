@@ -1,0 +1,20 @@
+city: Kemmerer
+country: United States
+description: A dance team practices there in the late afternoon. They always hear thumps and bumps. They are the only ones in the museum at the time. In the museum part of the building you can feel a presence. It is very creepy.
+location: Fossil Country Museum
+state: Wyoming
+state_abbrev: WY
+longitude: -110.54011
+latitude: 41.797455
+city_longitude: -110.5376692
+city_latitude: 41.792447
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

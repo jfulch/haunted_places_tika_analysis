@@ -1,0 +1,21 @@
+city: Enterprise
+country: United States
+description: Every night at 12:30 you can hear a man yelling, “I am going to die” and then a and you can see a flash from a flashlight and a cop car drives by.
+location: old Graingroers
+state: Oregon
+state_abbrev: OR
+longitude: -117.2758738
+latitude: 45.417527
+city_longitude: -117.2787816
+city_latitude: 45.4262617
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

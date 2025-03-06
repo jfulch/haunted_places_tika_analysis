@@ -1,0 +1,20 @@
+city: Cincinnati
+country: United States
+description: A little girl's spirit is said to haunt King's Island along with several other ghosts. The girl has blond hair, blue eyes, and wears a pretty blue dress. She has been seen playing around in Water Works and scares tram drivers by playing hide-and-seek with them after the park is closed. She is thought to be buried in the cemetery that is located between the parking lot and the campgrounds which is on King's Island property. Another ghost haunted the observation deck of the Eiffel Tower. This ghost is thought to be the spirit of a young man who in a drunken stupor tried to climb the tower and fell to his death. It seems though that he has left. There is the ghost known as "the Beast" which haunts the roller coaster with the same name. Several guests have seen this ghost. There is a ghost that supposedly died on the ride "the Octopus". There are many other spirits that roam this Paramount theme park.
+location: King's Island theme park
+state: Ohio
+state_abbrev: OH
+longitude: -84.4186119
+latitude: 39.0547343
+city_longitude: -84.5120196
+city_latitude: 39.1031182
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

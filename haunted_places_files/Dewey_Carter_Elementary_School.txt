@@ -1,0 +1,20 @@
+city: Effingham
+country: United States
+description: Sometimes, when you are staying late in the afternoon, you can hear people in the ceiling, and at midnight, you can see fire on the playground.
+location: Dewey Carter Elementary School
+state: South Carolina
+state_abbrev: SC
+longitude: -79.7690755
+latitude: 34.0875917
+city_longitude: -79.75341159999999
+city_latitude: 34.0575712
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

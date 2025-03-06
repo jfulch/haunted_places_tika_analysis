@@ -1,0 +1,21 @@
+city: Carrizo Springs
+country: United States
+description: Late at night you can hear footsteps walking up the stairs to the second floor and the rattling of keys. The footsteps are those of the old sheriff who was slain at his residence by two men.
+location: Dimmitt County Courthouse
+state: Texas
+state_abbrev: TX
+longitude: -99.859936
+latitude: 28.522088
+city_longitude: -99.8606107
+city_latitude: 28.5219292
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

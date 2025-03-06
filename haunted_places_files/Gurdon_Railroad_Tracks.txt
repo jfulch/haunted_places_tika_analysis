@@ -1,0 +1,21 @@
+city: Gurdon
+country: United States
+description: If you walk down the tracks late at night, you will see a green light down the track. They say there was a man that was walking on them, and one day had got stuck in them. A train had cut his head off, and ever since then, you can see a light that looks like a lantern going down the tack. He is looking for his head. It was on “Unsolved Mysteries”.
+location: Gurdon Railroad Tracks
+state: Arkansas
+state_abbrev: AR
+longitude: -93.1791049
+latitude: 33.9541588
+city_longitude: -93.1540591
+city_latitude: 33.9209365
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bluefield
+country: United States
+description: Different sightings has been reported about seeing children running down the halls although this school has been closed down quite some time now. There has been a few people killed at Wade including a women getting decapitated and three kids falling over dead for no apparent reason
+location: Wade elementary school
+state: West Virginia
+state_abbrev: WV
+longitude: -81.24031269999999
+latitude: 37.2618606
+city_longitude: -81.2223195
+city_latitude: 37.2698395
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

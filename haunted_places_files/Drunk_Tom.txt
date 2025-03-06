@@ -1,0 +1,19 @@
+city: Wichita Falls
+country: United States
+description: Outside of fallstown there is a place in between the North Texas State Hospital and Southwest parkway, where a young college bound man, Drunk Tom, was walking along the Holliday Creek reservoir. Drunk Tom had been drinking heavily that night and either tripped or was pushed into the reservoir. It is said if you go there at night and stand in the exact spot where he died, you will hear a whiskey bottle breaking against the concrete, and see something in the corner of your eye, which immediately disappears.
+location: Drunk Tom
+state: Texas
+state_abbrev: TX
+city_longitude: -98.4933873
+city_latitude: 33.9137085
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1980/09/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

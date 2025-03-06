@@ -1,0 +1,21 @@
+city: Lechworth
+country: United States
+description: in the central upstairs hallway, clear your mind. this entire buildings ghosts feed off your fear. when you try to leave they appear behind you. But if you stare at them directly , they don't disappear they come closer
+location: Lechworth Insane Asylum
+state: New York
+state_abbrev: NY
+longitude: -74.02837339999999
+latitude: 41.2142477
+city_longitude: -78.026519
+city_latitude: 42.5902082
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

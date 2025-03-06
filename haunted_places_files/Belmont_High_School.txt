@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: The spirit of a young girl by the name of "Arabella" haunts the Belmont auditorium. She has reported to follow actors and crew around the stage during rehearsals, flickering lights, moving curtains, turning on and off the faucets in the dressing rooms, and occasionally is heard opening and shutting doors. Legend has it, she is the spirit of a young girl who attended the once "Private Belmont School for Girls" during the 1900s and died there shortly after a fire destroyed the school.
+location: Belmont High School
+state: California
+state_abbrev: CA
+longitude: -118.2629339
+latitude: 34.0614573
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

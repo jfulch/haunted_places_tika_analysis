@@ -1,0 +1,21 @@
+city: Santa Clara
+country: United States
+description: In the north valley Baptist church, there was a mass cult suicide, where innocent children were slaughtered like cows for there meat. Their spirits have inhabited this church since the late 60's when it happened. There have been sightings of pentagrams on the floor and ceilings covered in blood. Witnesses have seen apparitions of mangled bodies and heard children's screams below through the halls. You can sometimes feel the children hitting you to get out.
+location: Blood Tavern
+state: California
+state_abbrev: CA
+longitude: -121.9696857
+latitude: 37.4043841
+city_longitude: -121.9552356
+city_latitude: 37.3541079
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1609/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

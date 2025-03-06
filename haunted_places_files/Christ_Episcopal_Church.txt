@@ -1,0 +1,20 @@
+city: Poughkeepsie
+country: United States
+description: The ghost of former Rector, Dr. Alexander Griswold Cummings has been reported here many times since his death in the late 1940s or early 50s. While he was still living, he did not like using candles, so candles used during services were repeatedly blown out. At one point, a bat materialized in the church, then disappeared. In the 1970s, Bishop James Pike, Rector at the time, scared the ghost away from the sanctuary by bringing his dog into the church. After that, Alexander remained quiet for a while. In the 1990s, Alexander surfaced again. This time, it was because current Rector, the Rev. Michael Phillips, decided to move the Rector's office to a different location in the building. The move outraged the ghost, and for years afterwards, the old rector's office (now the library) would be freezing cold in the mornings, even during the spring. Eventually, the ghost went back into hiding. Another ghost is the spirit of an elderly lady, who died in the middle of a service sometime in the 1910s. Her ghost has been seen sitting in a pew halfway back, and many who sit halfway back in darkness in the evening and night feel a strange presence, even if there appears to be nothing there.
+location: Christ Episcopal Church
+state: New York
+state_abbrev: NY
+longitude: -73.92737939999999
+latitude: 41.6983404
+city_longitude: -73.9209701
+city_latitude: 41.7003713
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1986/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

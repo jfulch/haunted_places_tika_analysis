@@ -1,0 +1,18 @@
+city: Gillette
+country: United States
+description: Reports of shuffling footsteps, clicks, faint breathing, and items move.
+location: Kost Kutters
+state: Wyoming
+state_abbrev: WY
+city_longitude: -105.5022205
+city_latitude: 44.2910915
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Springfield
+country: United States
+description: Alumni Hall - James Naismith, inventor of basketball (which was invented at Springfield college), though deceased, has been spotted several times over the past years lurking around Alumni Hall. Most of the sightings have been reported on the third floor, room 374 where he once lived. Room 373 is the most dreaded room on the campus.
+location: Springfield College
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.5565631
+latitude: 42.1022292
+city_longitude: -72.589811
+city_latitude: 42.1014831
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1955/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

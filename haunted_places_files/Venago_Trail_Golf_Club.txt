@@ -1,0 +1,21 @@
+city: Cranberry
+country: United States
+description: The golf course is built atop the former Venango Trail, a Native American 'highway’. Indians in period dress supposedly emerge from the forest to cross the fairway before disappearing into thin air.
+location: Venago Trail Golf Club
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.08918400000002
+latitude: 40.6724524
+city_longitude: -80.1071379
+city_latitude: 40.6849626
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

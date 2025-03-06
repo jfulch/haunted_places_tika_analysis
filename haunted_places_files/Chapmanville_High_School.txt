@@ -1,0 +1,21 @@
+city: Chapmanville
+country: United States
+description: In the band room office of Chapmanville High the ceiling has always leaked.  Maintenance workers have replaced ceiling tiles, pipes, and repeatedly checked the roof above for leaks, but the ceiling continues to leak.  PVC pipes have replaced metal piping, yet the water leaking is a reddish hue.  Stories have been told that previous to the school's construction, the bottom which it occupies was a swampy area, and it has been said that a murder occurred there on the spot that is now the office of the band room.
+location: Chapmanville High School
+state: West Virginia
+state_abbrev: WV
+longitude: -82.0265008
+latitude: 37.977278
+city_longitude: -82.0173502
+city_latitude: 37.9737114
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1947/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

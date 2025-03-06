@@ -1,0 +1,20 @@
+city: Honolulu
+country: United States
+description: It is said that this fire station is haunted by the ghost of an old man and his dog. One story tells of a man who wanted one of the rocks outside of the fire station for his garden. They let him take it. The man later reported being haunted by an old man and his dog, who showed up at his door, both with no head. The man was told to return the rock he took. When he did, the hauntings stopped. Kaka'ako Fire Station, on Queen Street, is in downtown Honolulu near Kawaihao Church which is on the corner of King Street and Punchbowl Street, southeast and diagonally across the street from the Hawai'i State Library which is on the northwest corner of the King and Punchbowl intersection. Just west of the library, about fifty yards or less away, is I'olani Palace- the grounds of which have been reputed to be haunted. Behind the I'olani Palace, which is on King Street, is the Hawaii State Capitol Building on South Beretania Street, and is also known to be haunted. The Kawaihao Church has a lot of royalty buried in its grounds. Queen Lili'uokalani, the last queen of Hawai'i and whose ghost haunts the State Capitol Building, is buried at Kawaihao Church.
+location: Kaka'ako Fire Station
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8587575
+latitude: 21.3026125
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1799/07/25
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

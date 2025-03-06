@@ -1,0 +1,21 @@
+city: San Marcos
+country: United States
+description: The Thompson Island bridge in San Marcos is said to be haunted by the ghost of a long dead Confederate soldier. He died there at his post while guarding it during the American Civil War. It is believed that he still appears there. Dressed in his grey and yellow uniform. cap, and cape. and armed with a kentucky longtom riffle. Although sightings are very remote, it is reported that the dead soldiers ghost is more active before, and during wartime.
+location: Thompson Island Bridge
+state: Texas
+state_abbrev: TX
+longitude: -97.9147004
+latitude: 29.8994347
+city_longitude: -97.9413941
+city_latitude: 29.8832749
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

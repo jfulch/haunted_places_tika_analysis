@@ -1,0 +1,21 @@
+city: Melbourne
+country: United States
+description: Strange lights have been seen, and the closest source of light is ten miles away. The ghost of an unknown confederate soldier floats around the cemetery. Blue orbs have also been sited.
+location: Old Philadelphia Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -91.8670484
+latitude: 36.1103465
+city_longitude: -91.9084819
+city_latitude: 36.0595148
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

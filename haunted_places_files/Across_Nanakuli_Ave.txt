@@ -1,0 +1,19 @@
+city: Nanakuli
+country: United States
+description: The shadow of an arrow that has no source is shown on a wall.
+location: Across Nanakuli Ave.
+state: Hawaii
+state_abbrev: HI
+city_longitude: -158.1610274
+city_latitude: 21.3875264
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

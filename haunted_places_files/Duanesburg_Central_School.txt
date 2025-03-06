@@ -1,0 +1,21 @@
+city: Duanesburg
+country: United States
+description: There have been two deaths at the High school. Since then there have been doors that slam by themselves, odd noises, and many orbs have been caught on camera, especially in the gymnasium. Also at weekend sports practices, students have claimed to see a figure run by the windows in the hallways.
+location: Duanesburg Central School
+state: New York
+state_abbrev: NY
+longitude: -74.1881361
+latitude: 42.7485598
+city_longitude: -74.1944529
+city_latitude: 42.7842177
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

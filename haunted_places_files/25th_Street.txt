@@ -1,0 +1,21 @@
+city: Ogden
+country: United States
+description: In the late 1800's Ogden was one of the epicenters of the West. It was also the World's murder capital. Most of the business along historic 25th street were brothels. The "stores" were all connected beneath the street with a system of catacombs or tunnels. On the rare occasion that law enforcement attempted to arrest the prostitutes and clients the simply hid in the tunnels or crossed the street to avoid imprisonment. Apparently, several people died in these tunnels and 25th street is haunted to this day.
+location: 25th Street
+state: Utah
+state_abbrev: UT
+longitude: -111.9558404
+latitude: 41.220424
+city_longitude: -111.9738304
+city_latitude: 41.223
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1942/10/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

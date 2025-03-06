@@ -1,0 +1,21 @@
+city: Murray
+country: United States
+description: Graves shift sometimes, strange noises can be heard in the surrounding woods, and this is just during the daytime. At night there is an odd feeling, a feeling of true urgency that is indescribable. Although it is too dark to see anything properly. The farther back you go in the graveyard the older the tombstones get. One is just an crudely carved stone slab that becomes illegible after a few lines.
+location: Coles Campground Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -88.3311884
+latitude: 36.6683544
+city_longitude: -88.31476099999999
+city_latitude: 36.6103334
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/06/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

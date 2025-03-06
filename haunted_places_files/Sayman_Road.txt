@@ -1,0 +1,21 @@
+city: Dushore
+country: United States
+description: Witnesses that travel this road and have seen hanging bodies on the side of the road when you flash your light on them they disappear also there were said to be sacrifices in these woods and you can hear unexplained noises throughout the woods
+location: Sayman Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.43987109999999
+latitude: 41.5762011
+city_longitude: -76.4007744
+city_latitude: 41.524242
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

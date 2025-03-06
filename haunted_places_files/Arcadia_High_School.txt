@@ -1,0 +1,21 @@
+city: Arcadia
+country: United States
+description: Said to be haunted by a janitor who walks the kitchen and indoor cafeteria- Says students who have actually encountered the ghost. It said late at night if you're in the foyer you can hear him walk up and down the kitchen and cafeteria pushing a squeaky cart with cleaning tools rattling in it.
+location: Arcadia High School
+state: California
+state_abbrev: CA
+longitude: -118.0378591
+latitude: 34.1303807
+city_longitude: -118.0353449
+city_latitude: 34.1397292
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

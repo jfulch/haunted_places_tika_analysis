@@ -1,0 +1,19 @@
+city: Winchester
+country: United States
+description: This old bridge, named Ghost Bridge, is said to be haunted by 4 teenagers who were drinking and smoking and jumped off the bridge to an untimely death. People have seen the images of the 4 young teens walking below in the dark night.
+location: Ghost Bridge
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.17965029999999
+city_latitude: 37.990079
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

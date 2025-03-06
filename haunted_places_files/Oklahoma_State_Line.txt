@@ -1,0 +1,20 @@
+city: Horton
+country: United States
+description: The spook light is seen by thousands of people a year and has been unexplained for over 100 years. Could be the same source as the "Joplin Spook Light."
+location: Oklahoma State Line
+state: Missouri
+state_abbrev: MO
+longitude: -93.2806696
+latitude: 37.20056599999999
+city_longitude: -94.365228
+city_latitude: 37.9747569
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

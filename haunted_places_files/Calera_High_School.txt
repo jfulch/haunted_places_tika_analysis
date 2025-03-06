@@ -1,0 +1,21 @@
+city: Calera
+country: United States
+description: its a legend there up that some girl had died in the gym. But no one seems to know the girls name or anything. The story goes that it was during a game that she hit the wall and died. The basketball goals on each side are hanging off the brick walls of the gym. Many of us hit the walls trying to save the ball or getting pushed but they had big pads up on them at that time. And as the story goes, that is why they put the pads up, because of that girl. As for the school itself, there is the original brick building that was the whole school way back in the early 1900's then they built on to it. Then added the grade school building and the kindergarten. Witnesses have heard footsteps, lockers slamming  and voices. In the gym, they have heard a ball dribbling and someone walking around.
+location: Calera High School
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.429989
+latitude: 33.936125
+city_longitude: -96.4286022
+city_latitude: 33.9345433
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Oldsmar
+country: United States
+description: In the year of 2000 employees heard sounds of gym equipment being used. No one was in the gym but employees. When one of the employees went to look who was there he could find no one. but there was signs of trampoline being used recently.
+location: Suncoast allstar gym
+state: Florida
+state_abbrev: FL
+longitude: -82.660705
+latitude: 28.039227
+city_longitude: -82.6650992
+city_latitude: 28.0341847
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

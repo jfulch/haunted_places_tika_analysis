@@ -1,0 +1,20 @@
+city: Kansas City
+country: United States
+description: All around Houston Lake, especially the beach on by lake, at night you get these weird vibes like someone is watching you.
+location: Houston Lake
+state: Missouri
+state_abbrev: MO
+longitude: -94.6202345
+latitude: 39.1927808
+city_longitude: -94.5785667
+city_latitude: 39.0997265
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

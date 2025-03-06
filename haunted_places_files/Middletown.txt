@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: Woodland Hills - While driving on one of the roads in Woodland Hills, a lady in her 90's with white hair and black eyes, runs after your car and takes a picture. It is to be known that her husband died in a hit and run, and the lady runs out of no where and takes the pictures of the vehicle. The woman’s basement is filled with pictures on her walls, of cars, and teenagers. However when you take a picture of her, it doesn't come out, but in the films negatives, you see a white mark. The lady goes by the name of "The Watcher on Davidson", and to her neighbors, she died twenty years ago.
+location: Middletown
+state: Kentucky
+state_abbrev: KY
+longitude: -85.53884889999999
+latitude: 38.2453487
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1769/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

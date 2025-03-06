@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: This old "adults only" hotel was once the former site of an all-boys boarding school that was completely destroyed during the infamous New Orleans fire of the 1700's. Five boys died in this fire. Guests have reported hearing the boys laughing and playing outside in the courtyard of this hotel. Others have reported seeing an apparition of a General resembling Andrew Jackson.
+location: The Andrew Jackson Hotel (919 Royal St.)
+state: Louisiana
+state_abbrev: LA
+longitude: -90.0630817
+latitude: 29.9601425
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Taunton
+country: United States
+description: The Goss Building -  is definitely haunted. Staff have seen a man in white walking the halls of the third floor. Also, there is a corner room at the front of the building (third floor) that gives everyone a "creeped-out" feeling. - Never Trespass on any of these locations!!! Always get permission to enter abandon or private property. If you want to visit any of these locations please read this first.
+location: Taunton State Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.10220570000001
+latitude: 41.9066689
+city_longitude: -71.0897674
+city_latitude: 41.900101
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1981/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

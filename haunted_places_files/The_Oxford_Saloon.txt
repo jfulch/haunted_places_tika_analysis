@@ -1,0 +1,21 @@
+city: Snohomish
+country: United States
+description: "This old saloon contains around 18 ghosts upstairs and down. Workers have in the past had quite frightening experiences with spirits of the old saloon girls who operated a brothel upstairs. A police officer that was stabbed and killed their remains, and a young teenager who was killed in the street by a car as well. There are too many to list, but ask someone behind the bar, and they will provide you with a detailed list compiled by psychics.
+location: The Oxford Saloon
+state: Washington
+state_abbrev: WA
+longitude: -122.0939296
+latitude: 47.9111377
+city_longitude: -122.0981847
+city_latitude: 47.91287560000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

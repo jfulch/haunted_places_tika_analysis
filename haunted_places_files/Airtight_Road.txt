@@ -1,0 +1,21 @@
+city: Douglas County
+country: United States
+description: Witnesses say specters can be seen along at night. If you stop and shut off your car, it is almost impossible to restart your car w/ out the aid of another.
+location: Airtight Road
+state: Illinois
+state_abbrev: IL
+longitude: -88.2852137
+latitude: 39.7957086
+city_longitude: -88.2071598
+city_latitude: 39.7617631
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

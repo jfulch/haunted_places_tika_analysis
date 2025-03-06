@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: On some days before any kind of break ( Christmas, Summer, Fall, ect.) it is reported that a girl in a yellow dress that will stand at the very end of the all the lockers outside the gym at the ends of the stage and locker rooms. There is no known reason for the girl to stand there. She is spotted singing quietly. Sometimes she is even spotted running down the hallway screaming after school when the school is nearly empty.
+location: Whitley County Middle School
+state: Kentucky
+state_abbrev: KY
+longitude: -84.15565459999999
+latitude: 36.7795435
+city_longitude: -84.15965609999999
+city_latitude: 36.7434169
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

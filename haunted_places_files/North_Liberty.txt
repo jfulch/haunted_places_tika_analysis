@@ -1,0 +1,21 @@
+city: Johnson County
+country: United States
+description: Green castles Cemetery - This is a very old cemetery, No one has been buried there in years. When you go there at night the dirt is freshly dug by many of the stones, as if someone was buried there that day. Tombstones move all by there self. Many people have seen a witch in black with long dark hair, she talks to young children. She looks like she is between 16 and 18 yrs. old.
+location: North Liberty
+state: Iowa
+state_abbrev: IA
+longitude: -91.6080974
+latitude: 41.739482
+city_longitude: -91.5983959
+city_latitude: 41.6698982
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

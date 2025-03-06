@@ -1,0 +1,21 @@
+city: Nampa
+country: United States
+description: A building now owned by the school used to be a hospital. There are some strange goings on that happen there occasionally.
+location: NNU
+state: Idaho
+state_abbrev: ID
+longitude: -116.5666261
+latitude: 43.56124310000001
+city_longitude: -116.5634625
+city_latitude: 43.5407172
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

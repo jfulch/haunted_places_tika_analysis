@@ -1,0 +1,21 @@
+city: Philipsburg
+country: United States
+description: A little girl has been heard crying in the woods between US 322 and Hillcrest Drive. At the same time, it sounds like something is wrestling in the leaves, but there is nothing there.
+location: Hillcrest
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.23549799999999
+latitude: 40.889883
+city_longitude: -78.2205688
+city_latitude: 40.8964465
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1916/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Albertville
+country: United States
+description: Some of the workers say that the elevator will go up and down by itself. They’ll hear water running in the bathroom and it stops when they look to see where it’s coming from. They say that the library was built over a house that was torn down in the early 1900's and that the people who lived there are angry about it, so they haunt the library. Most of the things happen early in the morning, when the first person comes to work all alone.
+location: Albertville Public Library
+state: Alabama
+state_abbrev: AL
+longitude: -86.2032138
+latitude: 34.2640414
+city_longitude: -86.20886689999999
+city_latitude: 34.2675937
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

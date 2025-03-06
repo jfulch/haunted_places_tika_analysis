@@ -1,0 +1,21 @@
+city: Pearl Harbor
+country: United States
+description: The Pacaf Headquarters building is a historical site of WWII because of the bullets holes on outside from the bombing a Pearl Harbor. Inside many soldiers were killed. Moans of dying soldiers can be heard, and bombing sounds. Doors opening and closing on there own and ghosts of dead soldiers are known to roam the halls dressed in fatigues from that era.
+location: Hickam Air Force Base
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9435574
+latitude: 21.3488372
+city_longitude: -157.9642869
+city_latitude: 21.3420741
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1944/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

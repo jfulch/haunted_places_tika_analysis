@@ -1,0 +1,21 @@
+city: Mt. Prospect
+country: United States
+description: The shadow of a very tall man makes occasional appearances.  Things go flying off the kitchen counters when no one is near by. The hangers on the coat rack have been known to spin and fly off the rod when there are only a few people around and its quiet. The books on a decorative book shelf like to sail off the shelves to the extent that books can no longer be kept there.
+location: Mrs. P &amp; Me Restaurant
+state: Illinois
+state_abbrev: IL
+longitude: -87.93518089999999
+latitude: 42.0621497
+city_longitude: -87.9372908
+city_latitude: 42.0664167
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

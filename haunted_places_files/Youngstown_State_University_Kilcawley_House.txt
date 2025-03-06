@@ -1,0 +1,20 @@
+city: Youngstown
+country: United States
+description: Strange growling and whisperings have been heard in the back stairwell by Resident Assistants during the summer. Occupants in three person rooms at the end of the hall report hearing scratching on the ceiling and strange occurrences. The apparition of a janitor was seen on the 6th floor.
+location: Youngstown State University, Kilcawley House
+state: Ohio
+state_abbrev: OH
+longitude: -80.64852549999999
+latitude: 41.1069767
+city_longitude: -80.6495194
+city_latitude: 41.0997803
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Topeka
+country: United States
+description: This church is one of the most haunted places in Kansas. This church was a normal church until one-day possessed by the Devil and is now abandoned. People say they hear screams and a little girl crying. Do not go there unless you are wanting a fright.
+location: Harrison Church
+state: Kansas
+state_abbrev: KS
+longitude: -95.6796899
+latitude: 39.0493435
+city_longitude: -95.6890185
+city_latitude: 39.0558235
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

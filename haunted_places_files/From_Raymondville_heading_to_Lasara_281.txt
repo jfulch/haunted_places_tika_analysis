@@ -1,0 +1,19 @@
+city: LaSara
+country: United States
+description: On the way to Lasara Many people have seen a man walking on the side of the road. If you stop and pick him up he seems almost real. All he ask is that you give him a ride to the Lasara cemetery. While in the vehicle though you feel a sense of sorrow and coldness. Then as the man gets out of the car he disappears without a trace.
+location: From Raymondville heading to Lasara (281)
+state: Texas
+state_abbrev: TX
+city_longitude: -97.9111115
+city_latitude: 26.4647894
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

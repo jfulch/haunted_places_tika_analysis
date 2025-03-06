@@ -1,0 +1,20 @@
+city: Spartanburg
+country: United States
+description: Haunted by the ghost of Martha Walker. Walker was the tough, stoic woman who took over running the school for a few years during the Civil War. Her ghost is said to still roam the halls of the school's historic main building checking rooms to make sure the students are o.k. Students, Faculty, Alumni and even the schools current female President all say they have experienced Martha's presence.
+location: South Carolina School for the Deaf and Blind
+state: South Carolina
+state_abbrev: SC
+longitude: -81.88116280000001
+latitude: 34.9091673
+city_longitude: -81.9320482
+city_latitude: 34.9495672
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

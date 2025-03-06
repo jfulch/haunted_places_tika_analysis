@@ -1,0 +1,20 @@
+city: Commerce City
+country: United States
+description: The barn is located on a dirt road the runs behind the Rocky Mountain Arsenal. Legend says that one night to high school sweethearts went out to the barn. When they arrived the boyfriend went psycho and killed his girlfriend by hanging her by the rafters of the barn. On some nights when you go out to the barn you can hear the screams of a woman coming from within the barn. It's believed that the girl that was killed in the barn haunts the area. The second you hit the road to make your way to the barn your hair stands on ends.
+location: The Barn
+state: Colorado
+state_abbrev: CO
+longitude: -104.9423662
+latitude: 39.811725
+city_longitude: -104.9338675
+city_latitude: 39.8083196
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

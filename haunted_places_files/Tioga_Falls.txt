@@ -1,0 +1,21 @@
+city: West Point
+country: United States
+description: At night behind the bridge, Civil War soldiers have been spotted walking and riding horses. There were both confederate and union uniforms on these men and boys.
+location: Tioga Falls
+state: Kentucky
+state_abbrev: KY
+longitude: -85.96092999999999
+latitude: 37.96891
+city_longitude: -85.94357459999999
+city_latitude: 37.9995164
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 0

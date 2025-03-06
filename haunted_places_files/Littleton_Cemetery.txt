@@ -1,0 +1,20 @@
+city: Littleton
+country: United States
+description: Alfred Packer, the alleged cannibal is buried here. While he seems to rest in peace, Angelica, a goat that was supposed to serve as a medium for him, supposedly haunts the graveyard. If you aren't impressed with a medium-goat, go for Alfie's grave and the other lovely old graves. Since it is a Cemetery, It's probably open to the public, but locked at night. The Littleton Cemetery is actually just up the road from the melting pot- two trips for one!
+location: Littleton Cemetery
+state: Colorado
+state_abbrev: CO
+longitude: -105.0173887
+latitude: 39.6039553
+city_longitude: -105.0166498
+city_latitude: 39.613321
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1842/01/21
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

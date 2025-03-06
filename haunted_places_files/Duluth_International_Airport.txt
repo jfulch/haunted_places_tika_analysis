@@ -1,0 +1,20 @@
+city: Duluth
+country: United States
+description: The ghost of a woman murdered on a nearby road haunts the airport to which her murderer fled after stabbing her to death. The ghost has been seen by security staff and causes doors to open and close sounding alarms with no one in the secured areas.
+location: Duluth International Airport
+state: Minnesota
+state_abbrev: MN
+longitude: -92.1875408
+latitude: 46.8421083
+city_longitude: -92.1004852
+city_latitude: 46.78667189999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

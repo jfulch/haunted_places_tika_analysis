@@ -1,0 +1,20 @@
+city: Paulding
+country: United States
+description: Its said that the library is suppose to be haunted but know one knows who the ghost that haunt the library really are. One day a couple of workers were working late and they saw someone that wasn’t suppose to be there standing and looking at the workers so the workers ran across the street to the police station and the police searched the library and nobody was there. All that is known is that a man and a little girl haunts the building
+location: Paulding Carnage Library
+state: Ohio
+state_abbrev: OH
+longitude: -84.5791483
+latitude: 41.1361648
+city_longitude: -84.5805082
+city_latitude: 41.1381051
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

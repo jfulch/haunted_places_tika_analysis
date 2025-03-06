@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: reports of salt and peppershakers being moved and even fully or disembodied apparitions, strange feelings of not being alone, & photos of orbs and mists throughout the building.
+location: Spaghetti Warehouse
+state: Texas
+state_abbrev: TX
+longitude: -98.4780862
+latitude: 29.4250145
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

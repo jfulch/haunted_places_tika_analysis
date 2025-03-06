@@ -1,0 +1,21 @@
+city: Glens Ferry
+country: United States
+description: ghost of old school-worker who died when she fell down the stairs haunts the school. There have been sightings and sometimes very late at night you can hear her screams.
+location: old high school
+state: Idaho
+state_abbrev: ID
+longitude: -115.3097158
+latitude: 42.9582698
+city_longitude: -115.3009037
+city_latitude: 42.9548989
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

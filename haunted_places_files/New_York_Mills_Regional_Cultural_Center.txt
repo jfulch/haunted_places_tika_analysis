@@ -1,0 +1,20 @@
+city: New York Mills
+country: United States
+description: Used to be an old general store. In the basement of the cultural center is where the store keeper went crazy and killed all of his family including himself. The man and his family are still seen as they where on that grizzly night.
+location: New York Mills Regional Cultural Center
+state: Minnesota
+state_abbrev: MN
+longitude: -95.3756254
+latitude: 46.5186733
+city_longitude: -95.3761465
+city_latitude: 46.518016
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

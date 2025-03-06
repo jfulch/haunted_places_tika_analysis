@@ -1,0 +1,20 @@
+city: Spring
+country: United States
+description: Supposedly a girl about 12 was playing in the loft when she fell. She had died from complications. She is said to walk the loft.
+location: The Cat House
+state: Texas
+state_abbrev: TX
+longitude: -95.5082212
+latitude: 29.983708
+city_longitude: -95.4171601
+city_latitude: 30.0799405
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

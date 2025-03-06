@@ -1,0 +1,21 @@
+city: Henderson
+country: United States
+description: A white face of a girl appears in the school hall when your alone. She cries out for help.
+location: Treem Elementary School
+state: Nevada
+state_abbrev: NV
+longitude: -115.0575748
+latitude: 36.0786411
+city_longitude: -114.9817213
+city_latitude: 36.0395247
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1954/09/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

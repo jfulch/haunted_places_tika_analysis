@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: Old Hotel - On Lake St. where it ends near the mountains of Angeles Crest, there use to be a old hotel on the mountain, people have numerous things around the old ruins and around Echo mountain in Angeles Crest, where the hotel use to be.
+location: Angeles Crest
+state: California
+state_abbrev: CA
+longitude: -118.1898852
+latitude: 34.2382916
+city_longitude: -118.1445155
+city_latitude: 34.1477849
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

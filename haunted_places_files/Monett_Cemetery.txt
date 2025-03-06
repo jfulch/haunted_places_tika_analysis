@@ -1,0 +1,21 @@
+city: Monett
+country: United States
+description: There was a mausoleum made of glass in this cemetery. When the body inside started to rot, the city covered it in concrete and painted it. The grave has no name or date on it. It is said that you can hear the man crying out at night. You’ll know when you find it, because chills will run up your spine when you do. Sometimes you will see a man wandering the cemetery at night with a lantern.
+location: Monett Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -93.9241603
+latitude: 36.9374755
+city_longitude: -90.3442678
+city_latitude: 35.8906286
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

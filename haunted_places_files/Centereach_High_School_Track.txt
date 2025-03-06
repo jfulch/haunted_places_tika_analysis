@@ -1,0 +1,21 @@
+city: Long Island
+country: United States
+description: Back in 1997, there was an off-duty FDNY firefighter running track on a highschool track near his house. There were some kids who had a gun and they wanted to see what it felt like to shoot someone, so they waited in the woods until the fireman came around the northeast corner of the track, then they shot him. Both boys were arrested and convicted for killing the firefighter. Not long after, people reported seeing a glowing figure running along the track. Others have seen the body of a man laying on the track then dissappearing, all in the same spot he was shot, the northeast corner of lane 5. Most people won't go over to the northeast bleachers because they have the feeling of being watched. When visiting football teams come to visit, they and their fans refuse to sit in the visitors bleachers, as those lie on the northeastern part of the field. That part has now become mostly abandoned.
+location: Centereach High School Track
+state: New York
+state_abbrev: NY
+longitude: -73.0873469
+latitude: 40.8747948
+city_longitude: -73.13496099999999
+city_latitude: 40.789142
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

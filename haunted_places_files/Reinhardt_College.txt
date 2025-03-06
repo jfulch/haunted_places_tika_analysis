@@ -1,0 +1,21 @@
+city: Waleska
+country: United States
+description: Paul Jones Hall - Many of the buildings on the campus of Reinhardt College, a Methodist school founded in 1883 in the northern section of Cherokee County, have supernatural occurrences attached to them. The ghost of a janitor who hung himself in the 65-year-old building's attic haunts the oldest still-standing dormitory, Paul Jones Hall. In that dormitory, the doors open and close by themselves, showers and water spigots turns on and off, and the noises of the suicide can be heard replayed almost nightly by guys on the top floor coming from the padlocked attic.
+location: Reinhardt College
+state: Georgia
+state_abbrev: GA
+longitude: -84.55053079999999
+latitude: 34.3209328
+city_longitude: -84.5521524
+city_latitude: 34.3164826
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1883/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

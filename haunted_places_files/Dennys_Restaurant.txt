@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: an evil entity is said to haunt this location.
+location: Denny's Restaurant
+state: Oregon
+state_abbrev: OR
+longitude: -122.9876463
+latitude: 44.949879
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

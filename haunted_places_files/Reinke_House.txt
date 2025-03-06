@@ -1,0 +1,21 @@
+city: Harrison
+country: United States
+description: There are many stories about this house. One is the mother (Mrs. Reinke) was standing in her kitchen putting away groceries, and looked up and saw twin daughters (around 6 years old) holding hands and walking toward her. They walked right past her and out the door down towards Budd Lake. Another story is the large man story. Mr. Reinke was tying up his boat when he looked up into his bedroom window and saw a large figure of a man in the window. He rushed up to make sure everything was ok and when he got there, nothing was in the room. Soon after, another sighting of this large man happened. The daughter was sleeping when she noticed that a light was coming from her closet. The way the light comes through the window it would be impossible to be shining into the closet. She looked away, and when she looked back, saw a large man in her closet, the same man her dad had seen earlier. She described the man looking just the way her dad had seen, and he hadn't told anyone about the man yet (he didn't want to look stupid). The next day, the whole family was out of the house, and no one had been there all day. When the daughter came home, she found her room in total shambles, everything in the closet had been thrown around, and figurines and other possessions where seen lying on the ground. Another story has to do with the son. One night he could hear a bouncing ball in the attic above his room. He hears it about once every month or so, and if he gets annoyed with it, he tells the ghost or whatever is bouncing the ball to quit, and it usually does. He is very used to it, and it doesn't scare him anymore to hear it. All of the son's friends are afraid to sleep in the house, and will not really sleep in any rooms alone.
+location: Reinke House
+state: Michigan
+state_abbrev: MI
+longitude: -84.7987629
+latitude: 44.0176644
+city_longitude: -84.7994675
+city_latitude: 44.0191862
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Windham
+country: United States
+description: A woman who was once considered a witch at one time was killed. She now haunts the Old Windham Inn, which now are apartments. Sometimes in the hallways at night you can hear a baby crying when there are no baby's living in the apartments.
+location: Old Winham Inn
+state: Connecticut
+state_abbrev: CT
+longitude: -72.1469831
+latitude: 41.7564047
+city_longitude: -72.1570219
+city_latitude: 41.6998208
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Hanover
+country: United States
+description: Omens happen before one dies, green mist in photo, a balloon bounced into a room, the piano plays and the keys have been seen moving.
+location: Hanover Nursing Center
+state: Indiana
+state_abbrev: IN
+longitude: -85.482177
+latitude: 38.715289
+city_longitude: -85.4735707
+city_latitude: 38.7142263
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1725/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

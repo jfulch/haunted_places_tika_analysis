@@ -1,0 +1,19 @@
+city: Athol
+country: United States
+description: This was once a theater, Then converted to a bowling ally and bar. At night when everyone is gone. Closing you can hear people moving upstairs where the old theater was. It was said a woman hung herself up there.
+location: The Rotunda Bowling Ally
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -72.2267383
+city_latitude: 42.59593290000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

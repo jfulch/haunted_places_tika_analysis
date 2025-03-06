@@ -1,0 +1,21 @@
+city: Bell Gardens
+country: United States
+description: the small forest - Sometime between 1972 & 1973, two boys from Cudahy were killed in the park. Apparently, they had gone night fishing at the pond that was located in the park and were murdered by someone who was never caught. They were found in the morning by the pond with their throats slashed. It was told by word of mouth and in the newspapers that is was a grisly scene straight out of hell. It could be the ghosts of the two boys that haunt the park. - June 2008 Correction/Additional Information: A Police officer in Bell Gardens reports the boys bodies were recovered with the help of a local psychic; the bodies were recovered in the Whittier Narrows area not at the park and a suspect was arrested, tried and convicted of the crime. The real story here is that there were no leads at all until the psychic was contacted as a last resort by one of the detectives.
+location: John Anson Ford Park
+state: California
+state_abbrev: CA
+longitude: -118.1498519
+latitude: 33.9589406
+city_longitude: -118.1514588
+city_latitude: 33.9652918
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1998/05/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

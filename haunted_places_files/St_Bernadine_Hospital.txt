@@ -1,0 +1,21 @@
+city: San Bernardino
+country: United States
+description: A nun has been seen walking the halls in the oldest parts of the hospital for at least 30 years. She is seen mostly at night and on a few different floors. This part of the hospital is no longer used for patients and is empty at night. A convent is connected to this part of the hospital and a few nuns have died there.
+location: St Bernadine Hospital
+state: California
+state_abbrev: CA
+longitude: -117.276782
+latitude: 34.134958
+city_longitude: -117.2897652
+city_latitude: 34.1083449
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

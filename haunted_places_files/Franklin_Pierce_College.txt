@@ -1,0 +1,21 @@
+city: Rindge
+country: United States
+description: The Manor - At the turn of the century, what most know today as The Manor, was previously a brothel run by a woman named Edna McGuinness. McGuinness hung a large portrait of herself in the stairwell leading to the second floor. When McGuinness passed away the building was sold but the portrait was never taken down. During the late 1990's an employee of the college was cleaning the manor after a banquet and heard a piano playing. However, there had not been a piano in The Manor for many years. The employee went searching for the noise and didnt come across anything unusual until she walked by the stairwell and saw the apparition of a woman holding a baby in her right hand walking down the stairs. The woman was wearing a glowing dress and humming. To this day students and faculity members have seen and heard very strange things in and around The Manor. Some say McGuinness can be seen looking out the 2nd story window towards Pearly Pond.
+location: Franklin Pierce College
+state: New Hampshire
+state_abbrev: NH
+longitude: -72.0560856
+latitude: 42.7793667
+city_longitude: -72.0098021
+city_latitude: 42.7511964
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1944/06/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

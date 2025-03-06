@@ -1,0 +1,21 @@
+city: Bridgeport
+country: United States
+description: there is said to be in the first years the school was built the principal was accidentally killed by a teacher....Now all the teachers that have problems with the principal face in school injuries like falling and breaking bones.
+location: Bridgeport High School
+state: Michigan
+state_abbrev: MI
+longitude: -83.8698136
+latitude: 43.3553067
+city_longitude: -83.88163639999999
+city_latitude: 43.3594696
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

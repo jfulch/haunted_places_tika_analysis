@@ -1,0 +1,21 @@
+city: Hollis
+country: United States
+description: It is haunted by a family who was murdered in the late 18 hundreds. Sometimes you can see the ghost of a little boy who was on of the murdered children standing in the road trying to flag people down for help.
+location: Pine Hill Rd Cemetery
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.53868779999999
+latitude: 42.7684645
+city_longitude: -71.58953439999999
+city_latitude: 42.74251659999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.666666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

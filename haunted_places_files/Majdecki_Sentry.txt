@@ -1,0 +1,21 @@
+city: West Allis
+country: United States
+description: Ghost heard whistling in the aisles and in the back room of the store. The sound of children laughing is also heard at night by the 3rd shift workers. Toys in the store get played with when the store is closed for the night. Some food also disappears. the store is said to be built on the site of an old graveyard.
+location: Majdecki Sentry
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.0438408
+latitude: 42.9970229
+city_longitude: -88.0070315
+city_latitude: 43.0166806
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Clarksville
+country: United States
+description: Trahern Theater - The Third floor and stage are apparently haunted by a ghost of a young woman students call "Margaret". Messing with elevators, locking doors, banging lockers, and calling the unfortunate night owl's name.
+location: Austin Peay State University
+state: Tennessee
+state_abbrev: TN
+longitude: -87.3548855
+latitude: 36.53498
+city_longitude: -87.3594528
+city_latitude: 36.5297706
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1942/05/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

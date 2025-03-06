@@ -1,0 +1,21 @@
+city: Greensburg
+country: United States
+description: The Courthouse Square office building is built on the site of the old county jail, which was in use from the early 1900's to the 1960's. In the early 1900's the building was the location of several executions by hanging. In 1984, 911 dispatchers in what was then the 911 dispatch center saw the transparent image of the lower part of a man hanging on a video security monitor. The camera was pointing toward the hallway in the upper parking level, leading from the magistrate's office toward the delivery garage area. When they went to the area to investigate the image on the security monitor, they saw nothing; however, they felt coldness in the area, and were seen to pass through the image on the camera as they checked the area. Later research in the historical society revealed that the hangings were conducted on the second floor on the prison building, which would locate it in the area now known as upper parking in the new building, in that part of the office building near the intersection of Pittsburgh St. and Pennsylvania Ave.
+location: County Courthouse Square Bldg.
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.5447136
+latitude: 40.3026716
+city_longitude: -79.5389289
+city_latitude: 40.3014581
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1984/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: There have been reports of a woman with red heels walking down an empty hall on the 2nd floor. Students get the urge to climb the roof stairs and jump off the roof; a 5th grader did this in the 70s. Lights turn on and off inexplicably, and laughter is heard in the auditorium girls' bathroom.
+location: Our Lady of Loretto Elementary
+state: California
+state_abbrev: CA
+longitude: -118.264006
+latitude: 34.0669529
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

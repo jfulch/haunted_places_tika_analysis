@@ -1,0 +1,21 @@
+city: College Park
+country: United States
+description: Easton Hall - heard strange noises, many people have seen "objects" move swiftly in peripheral vision. An RA saw a person walk through a door, while another heard the ghost (not looking). Apparently 10 years ago, a student fell out of the 7th floor window and died.
+location: UMCP
+state: Maryland
+state_abbrev: MD
+longitude: -76.9425543
+latitude: 38.9869183
+city_longitude: -76.93776
+city_latitude: 38.9896967
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1592/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

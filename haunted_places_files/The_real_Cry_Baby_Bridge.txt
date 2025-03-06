@@ -1,0 +1,19 @@
+city: Kelleyville
+country: United States
+description: The original cry baby bridge is in the town of Kellyville. It has spawned many urban legends, (Kiefer, Schulter, Catoosa, and there are 3 more fake ones in Kellyville.)The road has been completely re-routed, and the bridge is no longer standing. The original legend goes like this: Legends states that if you go there you can sometimes hear, or see the woman looking for her baby in the form of a glowing soft blue light.
+location: The real "Cry Baby Bridge"
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -96.2136136
+city_latitude: 35.9436968
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

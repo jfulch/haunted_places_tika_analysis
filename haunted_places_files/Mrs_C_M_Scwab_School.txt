@@ -1,0 +1,19 @@
+city: Weatherly
+country: United States
+description: A gift to the town in the early 20th century from Charles Schwab, in honor of his wife. This stately building served as a school until the 1980s.  Several private owners have let the beautiful building fall into disrepair.  Touring the building as a possible buyer, photographs were taken of the interior, of ornate moldings, ceilings, etc. There are orbs of all sizes on most photos.  Most of the orbs are concentrated on the stage area. Fabulous building needs repair.
+location: Mrs. C. M. Scwab School
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -75.82964
+city_latitude: 40.9417535
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

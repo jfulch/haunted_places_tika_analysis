@@ -1,0 +1,21 @@
+city: Norfolk
+country: United States
+description: this cancer hospital still remains open to min employee's. There is no patient care or emergency services there. There are reports from remaining employee's that they see a little girl down the hallway or an elderly man on an elevator. Sightings of patients roaming the halls and rooms, hearing of foot steps but no one there. Strange smells, cold spots, and white fuzzy spots sightings.
+location: Caritis Southwood Hospital / Old Pondville Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.2890081
+latitude: 42.0967606
+city_longitude: -71.3250563
+city_latitude: 42.1195426
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

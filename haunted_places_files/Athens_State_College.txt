@@ -1,0 +1,21 @@
+city: Athens
+country: United States
+description: McCandles Hall - It’s supposedly haunted by a girl in a white dress who died in McCandles Hall. It’s also supposedly haunted by Madame Childs, who haunts the young women who stay out past curfew.
+location: Athens State College
+state: Alabama
+state_abbrev: AL
+longitude: -86.9650947
+latitude: 34.8054077
+city_longitude: -86.9716741
+city_latitude: 34.8028661
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1894/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

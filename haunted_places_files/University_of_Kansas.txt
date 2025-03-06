@@ -1,0 +1,21 @@
+city: Lawrence
+country: United States
+description: Sigma Nu Fraternity -  Apparently the ghost of the mistress of a former governor who lived there. She hung herself and is now sighted every once in a while. Some ghost hunters came to town and agreed that something was there. It was Ed Warren and his wife, Lorraine.
+location: University of Kansas
+state: Kansas
+state_abbrev: KS
+longitude: -95.2557961
+latitude: 38.9543439
+city_longitude: -95.2352501
+city_latitude: 38.9716689
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/01/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

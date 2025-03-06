@@ -1,0 +1,21 @@
+city: Oysterville
+country: United States
+description: Oysterville Schoolhouse is said to be haunted by a child who died from an epileptic seizure. The old schoolhouse was built in the very early turn of the century, it stands in Oysterville WA on the Longbeach peninsula.
+location: School House
+state: Washington
+state_abbrev: WA
+longitude: -124.030194
+latitude: 46.546716
+city_longitude: -124.0282197
+city_latitude: 46.5489871
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1841/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

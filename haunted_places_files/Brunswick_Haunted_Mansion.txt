@@ -1,0 +1,18 @@
+city: Brunswick
+country: United States
+description: There is a mansion set off the road in Brunswick, that is said to be haunted in the bay windows at the front of the house there have been sightings of figures moving to and from the window. Any one who dares to go there will in some cases be chased out by a ghost who legend has it hung himself from the old metal spiral staircase in the corner of his destroyed house. In areas of the house at night you can feel icy-cold spots and here glass breaking in the parts of the house and no one else is there. If you dare to get in and get out it is a highly patrolled area by police and you will be arrested. -  June 2005 Update: It has since been torn down
+location: Brunswick Haunted Mansion
+state: Ohio
+state_abbrev: OH
+city_longitude: -81.8418006
+city_latitude: 41.2381096
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

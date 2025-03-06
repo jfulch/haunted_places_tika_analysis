@@ -1,0 +1,21 @@
+city: Beloit
+country: United States
+description: People have reported loud crashing noises coming from the building. People have reported seeing an old woman looking out the window. People have reported that a little girl has been seen floating on the front lawn. Workers have reported upstairs when you look in the mirror they see people but when they turn around nothing is there.
+location: The Manor
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.9820987
+latitude: 42.5298548
+city_longitude: -89.03177649999999
+city_latitude: 42.5083482
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

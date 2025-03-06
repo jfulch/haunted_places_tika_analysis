@@ -1,0 +1,21 @@
+city: North Andover
+country: United States
+description: Legend has it that a ghost roams the cemetery and the shack that the workers use for storage. Many EVPs and Pictures can be captured. Near the back are really old graves so if you're there, go to the back and see.
+location: Ridgewood Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.10340099999999
+latitude: 42.680857
+city_longitude: -71.1350575
+city_latitude: 42.69870239999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

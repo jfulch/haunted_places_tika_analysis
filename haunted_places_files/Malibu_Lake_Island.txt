@@ -1,0 +1,21 @@
+city: Malibu Lake (Agoura Hills)
+country: United States
+description: The Lady of the Lake - Believed to be haunted by Margaret Hersh Robertson. Margaret (1907-1993). Every morning, as was known by many lake residents, Margaret would swim out to the island. She did this early every morning. She has been sighted numerous times, after her passing, swimming seemingly along side a startled couple in a canoe. Her figure was just below the surface of the water in a bathing cap.
+location: Malibu Lake Island
+state: California
+state_abbrev: CA
+longitude: -118.7556531
+latitude: 34.1097022
+city_longitude: -118.757
+city_latitude: 34.107
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1903/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

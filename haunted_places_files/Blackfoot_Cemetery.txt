@@ -1,0 +1,21 @@
+city: Pike County
+country: United States
+description: This old cemetery is located out in the middle of nowhere. It contains gravestones dated from the 1800's, and is a known spot for paranormal activity. Many people visiting the cemetery have reported seeing strange lights and hearing scary noises. There is even a lone gravestone in the cemetery that is separated from all the others. Legend states that a witch is buried here.
+location: Blackfoot Cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -87.28917179999999
+latitude: 38.500546
+city_longitude: -87.2618328
+city_latitude: 38.4110583
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

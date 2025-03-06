@@ -1,0 +1,21 @@
+city: Hammond
+country: United States
+description: People say there are 2 women owners who died there and they haunt the place. You can hear people walking around upstairs if no one is there. There have also been sightings seen in the forest behind the mansion. People have seen 2 unknown women working in the background. This usually happens when they are setting up for Reaper's Realm.
+location: Old Botanical Gardens/Reaper's Realm
+state: Indiana
+state_abbrev: IN
+longitude: -87.5124349
+latitude: 41.5732765
+city_longitude: -87.5000412
+city_latitude: 41.5833688
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

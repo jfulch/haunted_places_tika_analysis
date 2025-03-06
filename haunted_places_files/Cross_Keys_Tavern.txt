@@ -1,0 +1,20 @@
+city: Chillicothe
+country: United States
+description: The tavern is said to be haunted by a spirit who was murdered in the ally behind the tavern years ago. It is said he still likes to stir up a little trouble in the bar by throwing wine glass's off there rack.
+location: Cross Keys Tavern
+state: Ohio
+state_abbrev: OH
+longitude: -82.98145
+latitude: 39.333535
+city_longitude: -82.9824019
+city_latitude: 39.3331197
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

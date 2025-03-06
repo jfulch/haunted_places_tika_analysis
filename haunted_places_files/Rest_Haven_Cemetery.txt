@@ -1,0 +1,21 @@
+city: Wichita
+country: United States
+description: Amateur ghost hunters claim to have captured a child’s voice and capture anomalies on film.
+location: Rest Haven Cemetery
+state: Kansas
+state_abbrev: KS
+longitude: -97.4787686
+latitude: 37.6646137
+city_longitude: -97.330053
+city_latitude: 37.68717609999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,18 @@
+city: Wateree River Swamp Bridge
+country: United States
+description: Where US 76 crosses the Wateree River between Sumter and Richland counties, South Carolina, the westbound bridge has been haunted by a phantom hitchhiker, a young woman who is trying to get to Columbia to see her ill mother. She appears solid and holds a brief conversation before she disappears when the Good Samaritan who picks her up drives over the bridge. She has been reportedly seen since the 1930's when the bridge was new.
+location: US 378 between Sumter and Columbia
+state: South Carolina
+state_abbrev: SC
+city_longitude: -80.654861
+city_latitude: 34.0585352
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

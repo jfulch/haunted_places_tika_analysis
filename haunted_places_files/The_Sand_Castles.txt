@@ -1,0 +1,21 @@
+city: Pitcairn
+country: United States
+description: The sand castle is the term for what is left of the old railroad buildings still located within these trails. It has been reported that at night, when the wind starts to pick up you can hear voices through the trees around you.
+location: The Sand Castles
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9268431
+latitude: 40.3984534
+city_longitude: -79.77810199999999
+city_latitude: 40.4031244
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

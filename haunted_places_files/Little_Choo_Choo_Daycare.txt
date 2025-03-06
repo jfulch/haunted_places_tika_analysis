@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: The daycare was closed because of a teacher who committed suicide and a little boy who was killed getting dragged underneath the tracks of the toy train. Some people said usually at night or sometimes in the day there is a presence of a little boy digging with his shovel in the ground. Nobody knows who he is, but sometimes he appears out of nowhere and some said at night a black woman can been seen trespassing and disappearing out of thin air.
+location: Little Choo Choo Daycare
+state: Nevada
+state_abbrev: NV
+longitude: -115.1688717
+latitude: 36.1243431
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

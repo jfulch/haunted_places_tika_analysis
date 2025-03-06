@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: Ghostly figures; little boy and man both died in a trailer park one murdered another burned to death when the whole thing went up. Doors opening, voices at night, lights turn on by themselves.
+location: Cinemark Tinsel town 17
+state: Texas
+state_abbrev: TX
+longitude: -95.4963837
+latitude: 29.8468251
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

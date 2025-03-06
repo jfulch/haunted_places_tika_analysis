@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: This bed and breakfast is said to be haunted by the original lady of the house and some children. The lady has been sensed in the library, and the children play on the stairs.
+location: Terrel Castle Bed and Breakfast
+state: Texas
+state_abbrev: TX
+longitude: -98.46845
+latitude: 29.44281
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

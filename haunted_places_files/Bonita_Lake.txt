@@ -1,0 +1,21 @@
+city: Ruidoso
+country: United States
+description: Full of abandoned gold mines, this lake used to be a miners prospect. There is still an entire town underneath the lake. In the camping areas around the lake you can still find many miners carts, lanterns much of it untouched. There is a house in one part that many people camping in the area have reported strange lights coming from as well as sounds. "I thought there were a bunch of kids goofing off" claimed one camper. "It sounded like a party with music, lots of people talking and gunfire." Later this camper discovered the only other people in the area were three adult campers and a border collie.
+location: Bonita Lake
+state: New Mexico
+state_abbrev: NM
+longitude: -105.7354838
+latitude: 33.4554261
+city_longitude: -105.6588485
+city_latitude: 33.3672525
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

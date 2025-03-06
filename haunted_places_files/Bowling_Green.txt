@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: Russellville - Off of old Russellville rd. There is a old haunted wooden bridge, When u drive across it, It makes eerie sounds just put your car in neutral and let it roll across. Also people say if u go to it at midnight and park, you can see headlights come up out of the water from a woman who drove off of it.
+location: Bowling Green
+state: Kentucky
+state_abbrev: KY
+longitude: -86.4808043
+latitude: 36.9685219
+city_longitude: -86.49965460000001
+city_latitude: 36.9886043
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

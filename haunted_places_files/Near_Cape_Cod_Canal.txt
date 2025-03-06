@@ -1,0 +1,21 @@
+city: Sandwich
+country: United States
+description: A large ship with giant sails was drifting out near Cape Cod Canal. As the ship was sailing the sails looked old and torn. The ship sailed off into the fog and seemed to disappear.
+location: Near Cape Cod Canal
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.5661411
+latitude: 41.7681612
+city_longitude: -70.49393169999999
+city_latitude: 41.7589615
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1858/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Idanha
+country: United States
+description: This place has been said to be inhabited by loggers and other ancient spirits. Many people have seen a woman hanging, a skinless dog, a headless logger, and even a little girl in white.
+location: The Rock Piles
+state: Oregon
+state_abbrev: OR
+city_longitude: -122.0786856
+city_latitude: 44.7026218
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

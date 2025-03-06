@@ -1,0 +1,21 @@
+city: Shepherdsville
+country: United States
+description: ghostly figures walking threw the forest at midnight across the mud path: legends say people were murdered in the forest and if you listen closely you can here people screaming for help!
+location: Cherry St.
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7171829
+latitude: 37.9932589
+city_longitude: -85.7157924
+city_latitude: 37.9883991
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2023/03/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

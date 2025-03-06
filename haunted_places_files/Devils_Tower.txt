@@ -1,0 +1,21 @@
+city: Alpine
+country: United States
+description: It is said to be, that a long time ago, during the 1900's though, a man was building a "tower" tall enough so that his wife could see the New York Skyline. While it was being built, the wife went up to the top floor, as she came down, she saw her husband with another woman! She ran back up to the top, and jumped out. There is a myth, if you circle the tower, 8 times or something, something is supposed to happen. Nobody has been able to complete it.
+location: Devil's Tower
+state: New Jersey
+state_abbrev: NJ
+longitude: -73.9332032
+latitude: 40.9338063
+city_longitude: -73.9312478
+city_latitude: 40.9559316
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

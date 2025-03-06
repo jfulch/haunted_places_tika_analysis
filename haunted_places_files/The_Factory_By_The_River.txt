@@ -1,0 +1,19 @@
+city: Camden
+country: United States
+description: Various orbs can be seen at night. People can be seen down the hallways, and voices and an old-fashioned telephone can be heard at night. Doors and cabinets open by themselves. Lights turn on and off by themselves.
+location: The Factory By The River
+state: Arkansas
+state_abbrev: AR
+city_longitude: -92.8343294
+city_latitude: 33.5845581
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

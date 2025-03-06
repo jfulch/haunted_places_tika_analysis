@@ -1,0 +1,21 @@
+city: Greene
+country: United States
+description: Office is a separate house from school, there are strange banging noises and bizarre animal like creatures that appear, also doors swing open on own.
+location: West Greene School Office
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.28335129999999
+latitude: 39.8687935
+city_longitude: -80.1875065
+city_latitude: 39.8113005
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1856/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

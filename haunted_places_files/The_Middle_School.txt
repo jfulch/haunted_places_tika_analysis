@@ -1,0 +1,20 @@
+city: Marblehead
+country: United States
+description: In the girls' locker room there is a ghost of a young man who died in a motorcycle and now he haunts the girl room. Also there was a report of UFOs over the school it was even in the local news paper there was a photo of the UFOs. The town of Marblehead was built on a psychical portal a sort of window that lets in both negative and positive spiritual energy, a "hellmouth" as it was called in the 17th century.
+location: The Middle School
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.86181909999999
+latitude: 42.4981591
+city_longitude: -70.8578024
+city_latitude: 42.49995819999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

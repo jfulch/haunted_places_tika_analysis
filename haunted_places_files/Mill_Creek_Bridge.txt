@@ -1,0 +1,21 @@
+city: Jasper
+country: United States
+description: The bridge collapsed when two men in an asphalt truck went over it. Their ghosts are supposed to haunt the new bridge.
+location: Mill Creek Bridge
+state: Alabama
+state_abbrev: AL
+longitude: -87.1569653
+latitude: 33.9469451
+city_longitude: -87.2775053
+city_latitude: 33.8312185
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

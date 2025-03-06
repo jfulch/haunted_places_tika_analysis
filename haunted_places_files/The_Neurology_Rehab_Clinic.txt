@@ -1,0 +1,21 @@
+city: Apple Valley
+country: United States
+description: Used to be the old Apple Valley Inn. Reported to have 3 ghosts, The man hung himself, one woman was murdered and no one really knows what happened to the third one. She is always dressed in white and is seen only at a certain part of the old building. The man is sometimes seen walking across the parking lot, but then he disappears. None of the ghosts are harmful. The rehab center is now a private school for the mentally challenged. And there is a soil company there and an old barbershop. -  November 2005 update: Apple Valley Inn is no longer a Rehab facility. It was sold in the last year and now has a nice restaurant and lounge. There are several other businesses on the property as well including an insurance firm, beauty salon, and others. Note: Apple Valley is where Dale Evans and Roy Rogers made there home for decades. Bother passed a way in the last couple years here. They still have a family ranch locally, as well as the family home in Apple Valley near the Apple Valley Country Club. The house has big iron gates with 2 "R"'s on it.
+location: The Neurology Rehab Clinic
+state: California
+state_abbrev: CA
+longitude: -117.2661257
+latitude: 34.5451973
+city_longitude: -117.1858759
+city_latitude: 34.5008311
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

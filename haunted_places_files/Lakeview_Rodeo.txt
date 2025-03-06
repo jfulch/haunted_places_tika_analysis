@@ -1,0 +1,19 @@
+city: Holiday
+country: United States
+description: Ever since the Lakeview rodeo burned down in may of this year there have been sights of a young man standing in the middle of the sight.
+location: Lakeview Rodeo
+state: Florida
+state_abbrev: FL
+city_longitude: -82.73954540000001
+city_latitude: 28.18779
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/02/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

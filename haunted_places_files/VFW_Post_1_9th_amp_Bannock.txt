@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Many employees of the bar at the VFW Post #1 have reported seeing ghostly shapes in the hallway and hearing a loud rapping noise in the furnace room (these are assumed to be the spirits of dead soldiers attached to the artifacts in the VFW's Museum, dating back to the Spanish/American War to current). The most frightening of these occurrences happened after the bar closed one night in 2003. The bar manager (my husband)was alone in the building, cleaning the bar area. He turned on the TV to a hard-rock music channel to help keep him motivated and awake. The TV channel suddenly turned to a non-music channel. The bar manager, not yet frightened, turned the channel back to the music channel. Again, the channel changed to a non-music channel. The bar manager, says out loud "I can get out of here much faster if you let me listen to my music channel". The channel changed back to the music channel and stayed there.
+location: VFW Post # 1 (9th &amp; Bannock)
+state: Colorado
+state_abbrev: CO
+longitude: -92.731915
+latitude: 38.0007961
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2003/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

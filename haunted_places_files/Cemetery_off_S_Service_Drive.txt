@@ -1,0 +1,21 @@
+city: Belleville
+country: United States
+description: Denton Rd. - There's an overall bad feeling in this cemetery. If you take a camera (preferably digital) and take pictures, you'll see orbs everywhere. There's a specific large, greenish orb that shows up in photographs quite a bit.
+location: Cemetery off S. Service Drive
+state: Michigan
+state_abbrev: MI
+longitude: -83.522807
+latitude: 42.2167069
+city_longitude: -83.4852133
+city_latitude: 42.2047619
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

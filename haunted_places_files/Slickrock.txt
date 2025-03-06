@@ -1,0 +1,21 @@
+city: Prestonsburg
+country: United States
+description: years back a mad man cut his brothers head off and put it on a fence now you can see every time it rains blood running down it. there is a lot of strange stuff that happens up that hollow
+location: Slickrock
+state: Kentucky
+state_abbrev: KY
+longitude: -82.67437319999999
+latitude: 37.6422402
+city_longitude: -82.7715486
+city_latitude: 37.6656527
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

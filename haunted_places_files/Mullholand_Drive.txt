@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: Errol Flynn's Former Estate - Residents in the neighboring homes have reported lights of all shapes and colors on the property. And noises of that of a social gathering or gala party going on. The most active month is usually August, when these noises are heard on almost a nightly basis. Very amusing considering that all that is left of the home is the foundation and a tennis court.
+location: Mullholand Drive
+state: California
+state_abbrev: CA
+longitude: -118.4904271
+latitude: 34.1312659
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1939/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: McCrory
+country: United States
+description: Several workers have seen people or images walking past them inside the factory. One janitor saw a little boy dressed as an Indian standing at the bottom of the stairs. Then, he vanished. One power truck driver screamed one night, because she said a little boy was staring her in the face when she turned around, and then he just disappeared.
+location: American Greetings
+state: Arkansas
+state_abbrev: AR
+longitude: -89.97545219999999
+latitude: 35.6870459
+city_longitude: -91.2001246
+city_latitude: 35.2561978
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Empire
+country: United States
+description: A small, greenish light in the graveyard can be seen when you pass by it.
+location: Little Vine Grave Yard
+state: Alabama
+state_abbrev: AL
+longitude: -86.9833325
+latitude: 33.8162147
+city_longitude: -87.0105552
+city_latitude: 33.8084373
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

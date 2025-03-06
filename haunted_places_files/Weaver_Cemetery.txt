@@ -1,0 +1,21 @@
+city: Bristol
+country: United States
+description: High EMF readings, vortexes, and feelings of wooziness, and being followed.
+location: Weaver Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -82.18516780000002
+latitude: 36.5251812
+city_longitude: -82.18874439999999
+city_latitude: 36.5951059
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1975/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

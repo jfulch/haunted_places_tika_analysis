@@ -1,0 +1,19 @@
+city: Olney
+country: United States
+description: The legend is so old that nobody really knows what happened to the man but, as the story goes, if you travel down this road late at night you will see a green shining lantern/light quickly float behind your car, your car lights will shut off and the car will die, then a man in a trench coat ends up holding the lantern and walks out in front of you to the cemetery and disappears in the woods, where as, your car starts up again.
+location: Green Lantern Road
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.0853154
+city_latitude: 38.7308811
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

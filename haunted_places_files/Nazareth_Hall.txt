@@ -1,0 +1,20 @@
+city: Waterville
+country: United States
+description: Noises and shadows are seen. also at night a figure in shape of a nun floats down the halls moaning. The bathrooms are haunted.
+location: Nazareth Hall
+state: Ohio
+state_abbrev: OH
+longitude: -83.8040192
+latitude: 41.4339825
+city_longitude: -83.7182701
+city_latitude: 41.5008859
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

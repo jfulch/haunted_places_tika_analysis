@@ -1,0 +1,21 @@
+city: Fontana
+country: United States
+description: the hauntings take place between 11pm and 4am. You can hear footsteps when there is nobody there and in the bathrooms for both boys and girls you can hear the distinct sound of a toilets overflowing and even a conversation going on when both the bathrooms are locked. There are loud bangs in the night and the whispering and the strange feeling of another presence is felt.
+location: Mary B. Lewis Elementary
+state: California
+state_abbrev: CA
+longitude: -117.4107829
+latitude: 34.0779457
+city_longitude: -117.435048
+city_latitude: 34.0922335
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

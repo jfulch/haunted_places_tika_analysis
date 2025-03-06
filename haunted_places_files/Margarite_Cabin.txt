@@ -1,0 +1,21 @@
+city: Summit Lake
+country: United States
+description: Girls from Glenwood Middle School often get to see the Margarite Cabin during a camping trip called Outdoor Ed. Some say that the painting there is fine at first but then bleeds when they turn their backs, & the eyes on the painting seem to follow you around the room. the piano plays on its own & blood appears on it as well. You can hear and see chains when you look in the chimney if you hike to the cabin. Bloodstains on the wall and carpet. They say that a girl named Margarite died there.
+location: Margarite Cabin
+state: Maryland
+state_abbrev: MD
+longitude: -77.404384
+latitude: 39.6886056
+city_longitude: -77.404384
+city_latitude: 39.6886056
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

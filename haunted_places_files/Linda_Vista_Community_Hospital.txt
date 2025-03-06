@@ -1,0 +1,21 @@
+city: Boyle Heights
+country: United States
+description: It is an abandon hospital there is green light that is always on. the reason they shut down the hospital was because the doctors would kill their patients and there is a very strong order that comes from the 3rd floor.
+location: Linda Vista Community Hospital
+state: California
+state_abbrev: CA
+longitude: -118.2174583
+latitude: 34.0383532
+city_longitude: -118.2117257
+city_latitude: 34.0297895
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

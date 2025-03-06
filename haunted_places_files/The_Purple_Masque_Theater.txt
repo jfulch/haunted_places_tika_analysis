@@ -1,0 +1,21 @@
+city: Manhattan
+country: United States
+description: on the k-state campus is haunted by several ghosts. nick a football player killed in a tragic accident rearranges chairs and makes loud bangings. Another ghost is that of a confederate soldier that sits in a phantom chair atop the stage.
+location: The Purple Masque Theater
+state: Kansas
+state_abbrev: KS
+longitude: -96.5849931
+latitude: 39.1868562
+city_longitude: -96.5716694
+city_latitude: 39.18360819999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Putnam
+country: United States
+description: There have been many sightings of ectoplasm, and many orbs in pictures. There have also been reports of very strange happenings, objects being thrown, and even a black shadow that was apparently caught on film.
+location: Putnam Housing
+state: Connecticut
+state_abbrev: CT
+longitude: -71.8967718
+latitude: 41.9175043
+city_longitude: -71.8689917
+city_latitude: 41.90460119999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

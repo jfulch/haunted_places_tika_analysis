@@ -1,0 +1,21 @@
+city: North Little Rock
+country: United States
+description: If you look through the gates at the Old Mill, you can see weird things moving through the windows. Then you can see a rope hanging from the side of the building, and a shadow on the building of a person hanging from the rope.
+location: Old Mill
+state: Arkansas
+state_abbrev: AR
+longitude: -92.2493967
+latitude: 34.7916927
+city_longitude: -92.2670941
+city_latitude: 34.769536
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1937/11/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

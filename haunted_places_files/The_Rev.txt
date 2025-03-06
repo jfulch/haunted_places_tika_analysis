@@ -1,0 +1,21 @@
+city: Fitchburg
+country: United States
+description: It's a revolutionary cemetery hence "the rev". It's on a dead end dirt road in west Fitchburg. Driving by there one can here loud screams, especially at night, and eerie feelings when in the cemetery itself, it's a creepy place surrounded by stone a stone wall, rumors of devil worshipping in the woods surrounding the place. There have been numerous deaths there, a man in his 20's killed and burned on that rd and a girl died after hitting a tree with her car. Stay out of the woods behind the cemetery, marked with no trespassing signs, there are houses around and police do patrol from time to time.
+location: "The Rev"
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.8494638
+latitude: 42.6145227
+city_longitude: -71.8022955
+city_latitude: 42.5834228
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

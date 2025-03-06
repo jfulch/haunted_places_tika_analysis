@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: Located right off 13 Mile Road (Chicago RD) and Ryan Road. Reports of driving at night after having stopped the car after you think you hit something. When you get out of your car to look around. There is nothing in sight. Except by the picnic tables that were located towards the center of the park at that time. Witnesses report there was a large black figure coming at them screaming. There was no way that they hit him he was at least 100 feet away. When they all got back in the car and locked the doors. One of the passengers wanted to start driving away as fast as she could. After about 10 seconds they heard someone on top of her car. Hitting it with their hands. They didn't dare get out of the car to see what it was. Then after 30 seconds the noise stopped. They looked ahead and there was a car. That was not there before this. They could only see their tail lights. Next thing they know the car just disappeared, along with the strange black figure.
+location: Halmich Park
+state: Michigan
+state_abbrev: MI
+longitude: -83.07491600000002
+latitude: 42.523806
+city_longitude: -83.01465259999999
+city_latitude: 42.5144566
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lenax
+country: United States
+description: High Point was built in 1910. Reports of hearing voices, lights turning on and off in the bathroom, see apparitions of people looking out the windows, feelings of being touched, and cold spots. - September 2005 Warning / Update: the Old High Point mansion has been converted into a Residential Treatment Facility for teenage boys. The facility is now owned by Hillcrest Educational Centers. It has been reported to us that through the summer and early fall during the nights kids have been caught on the property looking into the windows and walking around in the woods with flash lights. There are people working at this facility 24 hours a day 365 days a year and If any people are caught on the property without permission they WILL be PROSECUTED to the fullest extent.
+location: Pittsfield
+state: Massachusetts
+state_abbrev: MA
+longitude: -73.2453824
+latitude: 42.4500845
+city_longitude: -73.2848762
+city_latitude: 42.35646089999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1910/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

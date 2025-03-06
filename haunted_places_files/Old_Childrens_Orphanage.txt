@@ -1,0 +1,21 @@
+city: Marquette
+country: United States
+description: Residents near the building say that children were beaten and killed in the orphanage. One story was that a little girl went outside to play during a winter blizzard and got pneumonia. She later died from that and her body was displayed in the front lobby as an example of what happens when the kids play outside. People have seen figures inside the house and heard mysterious sounds of children from inside. The 6 story orphanage still stands today with half the windows and all the doors boarded up.
+location: Old Children's Orphanage
+state: Michigan
+state_abbrev: MI
+longitude: -87.40418489999999
+latitude: 46.53997560000001
+city_longitude: -87.39559539999999
+city_latitude: 46.5475825
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

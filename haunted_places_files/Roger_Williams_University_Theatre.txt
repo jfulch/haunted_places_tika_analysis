@@ -1,0 +1,19 @@
+city: Bristol
+country: United States
+description: The Barn -  Originally two separate 19th century barns the Roger Williams theatre is home to a ghost sometimes referred to by the students as Banquo. I was told that a farm hand froze to death in the hayloft of one of the barns before it was the theatre. There have been accounts of cold spots where the temperature is significantly colder in a localized area. Also have the heavy stage 'blacks' blowing in the wind when there is no wind. Names being called by no one.
+location: Roger Williams University Theatre
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.2594597
+latitude: 41.6510618
+city_longitude: -71.26620249999999
+city_latitude: 41.6771101
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1991/06/21
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

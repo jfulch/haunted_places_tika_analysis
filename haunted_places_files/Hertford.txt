@@ -1,0 +1,21 @@
+city: Chapanoke
+country: United States
+description: The Five Bridges Ghosts - In the early 1900's a man and his wife were driving on 5 Bridges Road in the suburb of Chapanoke and they got a flat tire. He got out to change it, and when he got back in the car, she was gone. He looked around for her, and saw her hanging in a tree. Someone had hung her and he was never found. If you go out there at night, turn off the lights on your truck/car, you'll hear someone knock for a ride home. Also, it's been reported that you can see her dangling from a tree, and something will sound like footsteps walking across the top of your car.
+location: Hertford
+state: North Carolina
+state_abbrev: NC
+longitude: -76.38195639999999
+latitude: 36.2602527
+city_longitude: -76.3774387
+city_latitude: 36.2540457
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2021/10/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

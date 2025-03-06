@@ -1,0 +1,19 @@
+city: Woonsocket
+country: United States
+description: The ghost of an elderly brother (priest) is said to roam the halls of the 4th floor after dark.  Apparently he was murdered by a student way back in the early 1900's when the Academy was an all boy’s boarding school.
+location: Mount St. Charles Academy
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.501915
+latitude: 41.995936
+city_longitude: -71.51478390000001
+city_latitude: 42.00287609999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

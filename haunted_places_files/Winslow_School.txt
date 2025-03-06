@@ -1,0 +1,19 @@
+city: Racine
+country: United States
+description: One of the three oldest school buildings in the city. It was built in 1856 on the site of Racine's first cemetery. Various Sightings reported over the years.
+location: Winslow School
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -87.78285230000002
+city_latitude: 42.7261309
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1856/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

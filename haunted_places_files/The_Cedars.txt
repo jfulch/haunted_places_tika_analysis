@@ -1,0 +1,21 @@
+city: McPherson
+country: United States
+description: The Cedars is a retirement center, one of the past residents of the south unit used to walk up and down the halls with a funny little hat on, years after he died new residents of the facility who had never met him say during some nights the see a figure with some type of hat on roaming from room to room, the staff on the noc shift report seeing this figure too.
+location: The Cedars
+state: Kansas
+state_abbrev: KS
+longitude: -97.652883
+latitude: 38.379907
+city_longitude: -97.6642087
+city_latitude: 38.3708415
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

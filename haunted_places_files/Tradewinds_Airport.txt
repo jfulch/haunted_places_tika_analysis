@@ -1,0 +1,21 @@
+city: Amarillo
+country: United States
+description: Rumor has it that back when the place was a private air strip, a woman caught her husband with his mistress in their private plane and killed both of them then committed suicide. This would explain the distinct smell of perfume, which comes and goes(even in the strongest breeze) Also strange lights( like a plane gearing up) can be seen coming from an abandoned hanger. From this same area the sounds of arguing have been heard but there is no one there.
+location: Tradewinds Airport
+state: Texas
+state_abbrev: TX
+longitude: -101.8274338
+latitude: 35.1700342
+city_longitude: -101.8312969
+city_latitude: 35.2219971
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

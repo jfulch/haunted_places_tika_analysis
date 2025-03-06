@@ -1,0 +1,20 @@
+city: Surry
+country: United States
+description: A mysterious fireball appears from a nearby cemetery and circles the castle then enters through one of the chimneys and disappears in the basement kitchen
+location: Bacons Castle
+state: Virginia
+state_abbrev: VA
+longitude: -76.72231699999999
+latitude: 37.10903
+city_longitude: -76.8352384
+city_latitude: 37.1379265
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1869/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

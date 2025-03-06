@@ -1,0 +1,21 @@
+city: Gilroy
+country: United States
+description: Chitactac-Adams Interpretive Center, on Watsonville Road, is the site of an Indian burial grounds now buried under the asphalt parking lot, drivers have reported that at night while driving by, that their air conditioners in their cars will suddenly turn on & blast cold air upon them. There are trails to take through the park to see ancient rock carvings made by the once native Ohlone tribe. This was once the main village for the area.
+location: Chictactac-Adams Interpretive Park
+state: California
+state_abbrev: CA
+longitude: -121.6562533
+latitude: 37.0299339
+city_longitude: -121.5682751
+city_latitude: 37.0057816
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1924/01/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

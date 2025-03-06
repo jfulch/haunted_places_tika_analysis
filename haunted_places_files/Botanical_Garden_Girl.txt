@@ -1,0 +1,21 @@
+city: Claremont
+country: United States
+description: there is said to be a small girl, maybe five to six years of age, who sits by a pond and watches the fish while crying. She is said to be wearing Native American clothing, most likely she is a Cauhillan, (pronounced Kaheeya), a tribe of Native Americans who once lived on that land. Incidences include, cold spots, sudden strong gusts of wind, and crying sounds.
+location: Botanical Garden Girl
+state: California
+state_abbrev: CA
+longitude: -117.7147498
+latitude: 34.1106126
+city_longitude: -117.7197785
+city_latitude: 34.0966764
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

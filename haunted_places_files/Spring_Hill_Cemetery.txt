@@ -1,0 +1,21 @@
+city: Brooksville
+country: United States
+description: The Spring Hill Cemetery, is located off of Fort Dade Ave. in Brooksville. It is an old black cemetery with the earliest "known" burial starting in the late 1800's. At dusk you can see what seems to be a man hanging from a tree limb. Also, groups of spirits can be seen standing together around the headstones of family plots. One report states that an infant’s cry can be heard during certain times of the night.
+location: Spring Hill Cemetery
+state: Florida
+state_abbrev: FL
+longitude: -82.4522671
+latitude: 28.5525669
+city_longitude: -82.3878709
+city_latitude: 28.5552719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1890/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

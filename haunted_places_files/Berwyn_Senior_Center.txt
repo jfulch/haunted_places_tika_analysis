@@ -1,0 +1,21 @@
+city: Dearborn Heights
+country: United States
+description: About 33 years ago, at a old school called Berwyn elementary(located at Berwyn and Richardson), there was a janitor that hung himself in the location of where the library stands today. Today it is called the Berwyn Senior Center. It is said by the senior citizens, and neighborhood kids, that they hear keys rattling, tapping on the glass of the library windows, moaning, and sometimes a figure or a face in the library's windows. Many say that this place is haunted.
+location: Berwyn Senior Center
+state: Michigan
+state_abbrev: MI
+longitude: -83.297266
+latitude: 42.3367661
+city_longitude: -83.27326269999999
+city_latitude: 42.3369816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1908/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Johnstown
+country: United States
+description: A janitor was killed in the auditorium of Johnstown High School because he fell from the balcony. Some students have seen the janitor or someone walking around. Doors shut, seats creak and no one is in the room. Under the stage are rooms. When you go under, you can hear someone on the steps and doors slam.
+location: Greater Johnstown High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.9097287
+latitude: 40.3031728
+city_longitude: -78.9219698
+city_latitude: 40.32674069999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

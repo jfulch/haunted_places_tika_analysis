@@ -1,0 +1,20 @@
+city: Ostrander
+country: United States
+description: The old school house on this road is haunted by a little girl who was pushed down the stairs. She can be heard playing the piano, bouncing basketballs in the gym, and typing on the old typewriter in the gym office. At night you can also see a lady dressed in a white dress dancing on the front lawn.
+location: Ostrander road
+state: Ohio
+state_abbrev: OH
+longitude: -83.19858909999999
+latitude: 40.297291
+city_longitude: -83.2126932
+city_latitude: 40.266172
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Clinch
+country: United States
+description: Strange noises. Bright lights. Graves Glow in pictures. Church lights up.
+location: Antioch Church
+state: Georgia
+state_abbrev: GA
+longitude: -82.5920811
+latitude: 30.9513256
+city_longitude: -82.82097399999999
+city_latitude: 30.9716985
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

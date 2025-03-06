@@ -1,0 +1,21 @@
+city: Goodrich
+country: United States
+description: voices and sounds of people talking throughout the night.
+location: Cemetery by the Elementary School
+state: Michigan
+state_abbrev: MI
+longitude: -83.506616
+latitude: 42.9206458
+city_longitude: -83.5063365
+city_latitude: 42.916972
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

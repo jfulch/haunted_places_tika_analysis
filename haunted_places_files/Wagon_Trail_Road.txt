@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: Cupboards opening and slamming shut, Doors open and shut, Animals going insane, Evil presence, Beating on homes on all sides at the same time, Lights in homes, Footsteps on the hill(no one was there), Voices, Something touched a witness’s wife’s side,
+location: Wagon Trail Road
+state: Oregon
+state_abbrev: OR
+longitude: -123.0097436
+latitude: 42.3031964
+city_longitude: -122.9669865
+city_latitude: 42.31345839999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

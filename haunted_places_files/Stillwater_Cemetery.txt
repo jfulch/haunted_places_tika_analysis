@@ -1,0 +1,21 @@
+city: Stillwater
+country: United States
+description: Sightings of a green glowing orb above a gravesite
+location: Stillwater Cemetery
+state: New York
+state_abbrev: NY
+longitude: -73.636459
+latitude: 42.950618
+city_longitude: -73.6771662
+city_latitude: 42.9759856
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

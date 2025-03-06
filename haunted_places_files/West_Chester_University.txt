@@ -1,0 +1,21 @@
+city: West Chester
+country: United States
+description: Hollinger Field House - Haunted by the Ghost of Drutz. Back in the early 20's, there was a student who hung himself on the fourth floor stairwell on homecoming weekend, and is said to appear each year at homecoming, and if encountered he will CRUSH his victims
+location: West Chester University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.5999933
+latitude: 39.9518653
+city_longitude: -75.6054882
+city_latitude: 39.9606643
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

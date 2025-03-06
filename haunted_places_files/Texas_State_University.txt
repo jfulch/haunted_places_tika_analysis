@@ -1,0 +1,21 @@
+city: San Marcos
+country: United States
+description: Butler Hall - Butler Hall is a three-story dorm located next to the theatre building, which is also said to be haunted, and is more than 50 yrs old. The bottom floor is partially underground, moist (bad plumbing, AC/heating, and large laundry room), and feels very uneasy during quiet hours. The feeling of being watched in the laundry/study room is common and strange noises are heard. Tapping on doors, windows, and walls is also common but usually assumed to be other students. Hallway lights on the male side of the dorm tend to flicker or some will only some will be lit.
+location: Texas State University
+state: Texas
+state_abbrev: TX
+longitude: -97.938351
+latitude: 29.888411
+city_longitude: -97.9413941
+city_latitude: 29.8832749
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1939/12/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Natural Disaster
+witness_count: 0

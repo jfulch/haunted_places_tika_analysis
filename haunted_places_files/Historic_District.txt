@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: the old Moore Building - A shadow of a man climbing the stairway to the second story of the building above the ground level shop's. Store keeper's hearing noises and footstep's in the second level and rear of building's first level leading to the basement of the building. Some storekeeper's tell of walking in to cold spots and areas where the hair on your arms and neck stand on edge.
+location: Historic District
+state: Michigan
+state_abbrev: MI
+longitude: -89.6301273
+latitude: 44.9591381
+city_longitude: -83.01465259999999
+city_latitude: 42.5144566
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1929/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 0

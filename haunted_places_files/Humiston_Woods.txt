@@ -1,0 +1,21 @@
+city: Pontiac
+country: United States
+description: Behind one of the larger creeks, there is an Indian Burial site where there are still remains of Indians, many of them being children bones. When children play around this area, they tend to feel a pull at their legs as if someone is trying to use them to get out, or someone is trying to pull them in.
+location: Humiston Woods
+state: Illinois
+state_abbrev: IL
+longitude: -88.7160687
+latitude: 40.9317791
+city_longitude: -88.62978389999999
+city_latitude: 40.8808666
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1685/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Central Falls
+country: United States
+description: a nursing home that was built in the 50's. A temporary nurse working the graveyard shift reports - First night there, a well-dressed, friendly woman unlocked the door to cheerily let her in & gave her directions to the unit. Later en route to the candy machine on the ground floor, she passed the smiling, humming woman. The nurse commented to an aide that she wished that she was as "bright-eyed & bushy-tailed" as the lady downstairs. The aide said that there was no way that anyone was in the locked building & there were no employees or residents that fit that description. At the end of the shift this was confirmed.
+location: Cartie's health center
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.3884168
+latitude: 41.8933636
+city_longitude: -71.3922785
+city_latitude: 41.8906553
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Green Bay
+country: United States
+description: Spirit of a man named Henri roams the hospital and the grounds. Some people feel panicked,as if they must leave the building, others have said that they heard footstep or thought that they were watched. Considered to be an evil entity by the staff that knows about him.
+location: Heritage Hill State Park/ Fort Howard Hospitial
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.0312103
+latitude: 44.4734793
+city_longitude: -88.019826
+city_latitude: 44.51915899999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1924/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.8
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

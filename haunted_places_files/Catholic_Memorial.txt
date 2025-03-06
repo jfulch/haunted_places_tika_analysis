@@ -1,0 +1,21 @@
+city: Boston
+country: United States
+description: A Christian Brother that passed away has been heard talking in the halls to a teacher during classes.
+location: Catholic Memorial
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1660234
+latitude: 42.2776416
+city_longitude: -71.0588801
+city_latitude: 42.3600825
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1802/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

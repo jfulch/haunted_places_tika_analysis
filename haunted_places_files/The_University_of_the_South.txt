@@ -1,0 +1,21 @@
+city: Sewanee
+country: United States
+description: Walsh-Ellet Hall - Witnesses have heard footsteps come up the staircase and continue into the corridor pause by the open door where I was studying--felt an odd chill--then the footsteps continued down the hall and down the staircase on the other side. In addition, there are two enclosed staircases on the exterior of Walsh-Ellet Building on the Quad and one is labeled 'UP' and the other is labeled 'Down' Many students have heard & seen the gownsman (different from the gownsman in the library. especially if they are going the 'wrong direction' on the stairs.
+location: The University of the South
+state: Tennessee
+state_abbrev: TN
+longitude: -85.91766059999999
+latitude: 35.20518
+city_longitude: -85.9210899
+city_latitude: 35.2031373
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1822/08/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

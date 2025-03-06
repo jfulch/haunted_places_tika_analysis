@@ -1,0 +1,20 @@
+city: Hernando
+country: United States
+description: Any time when its dark and the gym is empty you can hear someone walking on the ceiling. The music teacher has actually heard the ghost playing his piano but when he went to check nothing was there. There were a few incidents that students at after school programs have actually seen the image of a young girl. These happenings still go on to this day.
+location: Hernando Middle School
+state: Mississippi
+state_abbrev: MS
+longitude: -89.9783502
+latitude: 34.8311403
+city_longitude: -89.9937018
+city_latitude: 34.823987
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

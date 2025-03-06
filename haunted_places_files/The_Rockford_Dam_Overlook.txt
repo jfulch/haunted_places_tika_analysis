@@ -1,0 +1,21 @@
+city: Rockford
+country: United States
+description: The dam is haunted by the ghost of a boy who drowned there. Witnesses report odd occurrences like losing items after being on the dam overlook, feeling a presence, being pushed, etc. Some even claim to have seen the boy running from the dam into the nearby nature trail.
+location: The Rockford Dam Overlook
+state: Michigan
+state_abbrev: MI
+longitude: -85.56181579999999
+latitude: 43.1204364
+city_longitude: -85.5600316
+city_latitude: 43.1200272
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

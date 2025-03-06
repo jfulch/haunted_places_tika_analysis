@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: the house is haunted by a little boy. Sometimes residents would get locked out of house and food/cloths stolen. Sometimes residents would hear footsteps in attic.
+location: neighborhood
+state: Florida
+state_abbrev: FL
+longitude: -81.56224519999999
+latitude: 30.35365729999999
+city_longitude: -81.65565099999999
+city_latitude: 30.3321838
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

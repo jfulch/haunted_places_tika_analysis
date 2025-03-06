@@ -1,0 +1,19 @@
+city: Farmington Hills
+country: United States
+description: There have been many occurrences with employees especially the buildings and grounds workers of the sound of a woman walking down the hallway in hi-heel shoes. This could seem to be normal but all the doors in the building are locked and the workers are 100% sure there is no one there. There have also been the sounds of children playing but there is no one there.
+location: William Tyndale college
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.3677168
+city_latitude: 42.4989936
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

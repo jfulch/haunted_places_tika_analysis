@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: Reports of something VERY creepy in the basement - has scared employees so badly, they refuse to talk about it. a bartender, alone after closing had finished cleaning the bar-i.e. no glasses were left out, etc. and went downstairs-to the creepy basement?-and heard a CO2 canister activate.  A very distinct sound and not made when not in use-that is to say there is no pressure release on CO2 cylinders.  Upon coming back upstairs the bartender found an upside-down shot glass on the bar.
+location: LOTUS-nightclub downtown
+state: Oregon
+state_abbrev: OR
+longitude: -122.6762317
+latitude: 45.51631099999999
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

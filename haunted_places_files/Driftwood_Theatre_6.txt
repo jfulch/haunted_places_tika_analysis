@@ -1,0 +1,21 @@
+city: Granbury
+country: United States
+description: In theatre 6 you can hear children playing after close. They run up and down laughing and talking. Also their have been occasions to where people have seen a woman in a white dress walking through that theatre and through the projection booth and offices upstairs. Employees get a creepy feeling going in that theatre because of this. Also things get moved and doors open and close by themselves.
+location: Driftwood Theatre 6
+state: Texas
+state_abbrev: TX
+longitude: -97.7751199
+latitude: 32.4322033
+city_longitude: -97.7941967
+city_latitude: 32.4420826
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

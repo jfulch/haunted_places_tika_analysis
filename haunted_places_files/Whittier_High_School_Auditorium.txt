@@ -1,0 +1,21 @@
+city: Whittier
+country: United States
+description: A ghost named George who was supposedly hung by accident haunts the Auditorium. He is usually heard downstairs in the Green Room.
+location: Whittier High School Auditorium
+state: California
+state_abbrev: CA
+longitude: -118.0437662
+latitude: 33.9809286
+city_longitude: -118.032844
+city_latitude: 33.9791793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 0

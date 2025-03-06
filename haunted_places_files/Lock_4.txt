@@ -1,0 +1,20 @@
+city: Canal Fulton
+country: United States
+description: Information is hard to find on this place but there is some out there and I have found it. Back when the canal started construction in 1857 many men worked on it complex structure. The man who was head of this operation caught wind of the government shutting down the Canal Fulton operation. He was angered and while working burned many of the workers and him self with acid. His hateful spirit still haunts the building and waterways of lock four along with many of the poor souls he killed
+location: Lock 4
+state: Ohio
+state_abbrev: OH
+longitude: -81.5834882
+latitude: 40.8776635
+city_longitude: -81.597623
+city_latitude: 40.8897784
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1857/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

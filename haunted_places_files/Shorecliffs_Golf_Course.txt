@@ -1,0 +1,21 @@
+city: San Clemente
+country: United States
+description: Sewer pipes running through the Shorecliffs golf course have images of children floating through the walls and sometimes walking in the tunnels. Laughter and crying are often heard with no explanation. Also growling animals are heard snarling and whimpering as if in combat and being killed.
+location: Shorecliffs Golf Course
+state: California
+state_abbrev: CA
+longitude: -117.6458542
+latitude: 33.4528035
+city_longitude: -117.6126004
+city_latitude: 33.4273521
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1882/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: War
+witness_count: 0

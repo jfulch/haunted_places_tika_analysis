@@ -1,0 +1,21 @@
+city: Lubbock
+country: United States
+description: Originally posted as J.T. Hutchison - it has been said that a substitute teacher kill him self. Every now and then you will see light go one and off and hear strange noises. Also, the light is in the theater, and the ghost has also been known to make the stage lights shake violently from time to time. Supposedly, it has tried to push people down the stairs a few times. As for the identity of the ghost, it was supposedly a teacher who died near the theatre when it was being built.
+location: O.L. Slaton
+state: Texas
+state_abbrev: TX
+longitude: -101.8542132
+latitude: 33.5657426
+city_longitude: -101.8551665
+city_latitude: 33.5778631
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1956/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

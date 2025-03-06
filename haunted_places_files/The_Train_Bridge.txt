@@ -1,0 +1,21 @@
+city: Rushville
+country: United States
+description: Outside of the town there is an old bridge over train tracks where people where said to have been killed years and years before. People have seen things under the bridge moving. Trees falling at night and there are no trees that have fallen the next day. trains that appear and disappear. Screams are heard and things brought with people are know to move or turn off
+location: The Train Bridge
+state: Illinois
+state_abbrev: IL
+longitude: -90.5707587
+latitude: 40.1252917
+city_longitude: -90.56318290000002
+city_latitude: 40.1211577
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

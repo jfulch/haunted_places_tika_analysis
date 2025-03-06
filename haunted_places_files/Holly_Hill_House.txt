@@ -1,0 +1,21 @@
+city: Port Townsend
+country: United States
+description: Has been removed by owner's request. there are no hauntings.
+location: Holly Hill House
+state: Washington
+state_abbrev: WA
+longitude: -122.7616139
+latitude: 48.11635
+city_longitude: -122.7604471
+city_latitude: 48.11703869999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Rocklin
+country: United States
+description: A ghost named "Billy" is believed to haunt the school's theater. There have been many incidents such as when after school two students helping the teacher touchup paint on the walls of the theater saw "help" mysteriously written on the unpainted part of the wall. Another time, a cell phone was found after school and put in a locked cupboard for three days. When it stared ringing on the third day, a student unlocked the cupboard to answer it and couldn't reach it in time. So he dialed *69. A graduated student that was visiting cell phone rang. the first student asked her why she was calling that phone and she said that that number had called her the day before. And she didn't call the phone at all. The interesting thing is that the phone had been locked up all weekend long. Only the teacher had keys to the lock.
+location: Rocklin high school theater
+state: California
+state_abbrev: CA
+longitude: -121.2523162
+latitude: 38.8132098
+city_longitude: -121.2357828
+city_latitude: 38.7907339
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1981/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

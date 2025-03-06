@@ -1,0 +1,20 @@
+city: Avon Lake
+country: United States
+description: A figure of a ghost was seen in the auditorium of the school. Many students have heard loud banging noises and have seen mysterious lights. An old janitor, by the name of Clark Danbury died a terrible death in the early 1900's and he comes here to take care of his place.
+location: Avon Lake High School
+state: Ohio
+state_abbrev: OH
+longitude: -82.0166221
+latitude: 41.5082707
+city_longitude: -82.02820009999999
+city_latitude: 41.5053178
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

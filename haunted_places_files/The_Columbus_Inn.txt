@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: This is a very old restaurant in the center of a very small town. There have been numerous sightings throughout the years. They have even had paranormal investigators come in to investigate the series of sightings. A large piece was done on this restaurant on TV and in the newspapers several years ago. Inside the restaurant, one of the articles can be found behind the bar. One of the employees there even told us that there is a legend that the famous "Jersey Devil" was reported to have been born there.
+location: The Columbus Inn
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.7064433
+latitude: 40.1289504
+city_longitude: -74.7206894
+city_latitude: 40.0727889
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

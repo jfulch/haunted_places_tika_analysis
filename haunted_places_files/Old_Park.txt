@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: A little girl wanders saying “where's my mommy?” at night. She has a white dress, and looks around behind trees. You can she her behind a tree or walking.
+location: Old Park
+state: Texas
+state_abbrev: TX
+longitude: -95.413962
+latitude: 29.7023832
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

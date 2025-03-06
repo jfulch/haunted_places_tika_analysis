@@ -1,0 +1,21 @@
+city: Oakland City
+country: United States
+description: Cockram Hall - where the wife of Colonel William Cochram, the founder of Oakland City University, hung herself in the upstairs of the tower. If you look in the windows at night u will see doors open and shut, and see a bright orange glow come from some of the windows.
+location: Oakland City College
+state: Indiana
+state_abbrev: IN
+longitude: -87.35191189999999
+latitude: 38.3401193
+city_longitude: -87.3450132
+city_latitude: 38.3386591
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

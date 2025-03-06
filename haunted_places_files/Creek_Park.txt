@@ -1,0 +1,21 @@
+city: La Mirada
+country: United States
+description: Across the bridge to the right there is a stair case up a hill in between bushes. at the top of the stairs there is whitish grey figure standing there. it looks like a statue or a person with a hood on. Late at night when you are walking down the stairs by the horse trail or on the horse trail, people have heard a little girl screaming for her mom. If you walk by the opening in the trees closest to the stairs people claim to see the little girl looking at them
+location: Creek Park
+state: California
+state_abbrev: CA
+longitude: -118.0089274
+latitude: 33.9153245
+city_longitude: -118.0120086
+city_latitude: 33.9172357
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

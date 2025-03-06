@@ -1,0 +1,21 @@
+city: Reading
+country: United States
+description: This school just received air conditioning, but the halls do not have it, nor the bathrooms. The boy wasn't the only one killed, a janitor has also died there, and a couple years ago a girl was kicked out for being accused of witchcraft, they say for a scare she came back and planned to draw a dramatic portrait of the devil on the wall, but instead she hung herself in the principles office for revenge. They say you can hear her call out the devils name and you can see 666 every now and then around the school. She's mainly in the bathroom, so if you smell smoke, or rotten smelling things , she was there. Also during dances students claim to have seen her, and felt very cold spots, she has long coal black hair and is somewhat pail, and only talks to devil worshipers -  WARNING- AFTER SCHOOL HOURS NO ONE IS ALLOWED IN AND THERE ARE JANITORS THERE ALL NIGHT, THE ONLY NIGHTS YOU ARE ALLOWED IS NIGHTS OF THE DANCE-
+location: St. Ignatuis
+state: Oklahoma
+state_abbrev: OK
+longitude: -76.004648
+latitude: 40.3373823
+city_longitude: -95.9319291
+city_latitude: 36.1856223
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

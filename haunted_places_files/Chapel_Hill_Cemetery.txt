@@ -1,0 +1,21 @@
+city: McKenzie
+country: United States
+description: Strange lights are sometimes seen "dancing" on the graves. A nearby church, re-built on the site of a much older church (and near an old Indian mound) is said to have "shadows" appear where there are no obstructions and lights to appear.
+location: Chapel Hill Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -88.56636209999999
+latitude: 35.2372734
+city_longitude: -88.5186636
+city_latitude: 36.1325616
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

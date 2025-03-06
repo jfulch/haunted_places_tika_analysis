@@ -1,0 +1,21 @@
+city: Sunnyvale
+country: United States
+description: The ghost of Mr. Bishop the school's namesake is said the walk the halls and auditorium of the school.
+location: Bishop Elementary School
+state: California
+state_abbrev: CA
+longitude: -122.0247508
+latitude: 37.3867637
+city_longitude: -122.0363496
+city_latitude: 37.36883
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

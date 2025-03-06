@@ -1,0 +1,21 @@
+city: Lumberton
+country: United States
+description: Many people claim that they sometimes see Claire Townsend, a young lady who died on her wedding night in the early 1900's, strolling through the cemetery late at night.
+location: Meadowbrook Cemetery
+state: North Carolina
+state_abbrev: NC
+longitude: -79.0044619
+latitude: 34.6363869
+city_longitude: -79.0086424
+city_latitude: 34.6182199
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

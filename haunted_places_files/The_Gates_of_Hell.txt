@@ -1,0 +1,21 @@
+city: Redlands
+country: United States
+description: There are two black iron gates standing along the roadside of Sunset street in Redlands. Extremely unusual things are supposed to happen after crossing these gates, such as, a ghost with a headless cat comes running after you, a bloody bull's head rolls down the drive-way, and so on. The black iron gates are still sitting on the road, but the trail leading to the house has been hidden by bushes and trees.  Update: Has been torn down and built over.
+location: The Gates of Hell
+state: California
+state_abbrev: CA
+longitude: -118.0197776
+latitude: 33.9909828
+city_longitude: -117.1825381
+city_latitude: 34.0555693
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

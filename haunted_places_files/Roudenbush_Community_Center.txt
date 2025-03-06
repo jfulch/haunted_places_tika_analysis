@@ -1,0 +1,21 @@
+city: Westford
+country: United States
+description: A grey ghost nicknamed "Jenny" haunts the building, which used to be a high school. Janitors and employees have occasionally seen it. No one really knows who it is. As a result, the local school's mascot is the "Grey Ghosts"
+location: Roudenbush Community Center
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.432279
+latitude: 42.5602103
+city_longitude: -71.4378411
+city_latitude: 42.5792583
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

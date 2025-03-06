@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: Voices in the former eating area as well as the cell blocks are heard when no one else is around. Footsteps and the sounds of cell doors opening and closing also echo throughout the corridors. People have reported feeling "cold spots" in certain areas and the feeling that they are not alone, even when they are.
+location: Alcatraz
+state: California
+state_abbrev: CA
+longitude: -122.4229555
+latitude: 37.8269775
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Hatfield
+country: United States
+description: A woman has been seen walking along the railroad tracks, that had got married the same day she was struck by a train in the 1940's. Also the coal mines, workers has seen a man on his knees working that had been killed several years before, also they have seen men coming out with their mining lights on. There has been several hauntings on big creek too many to be told on here, there are also several houses as well.
+location: big creek
+state: Kentucky
+state_abbrev: KY
+longitude: -82.35450449999999
+latitude: 37.7107008
+city_longitude: -82.3684776
+city_latitude: 37.7245437
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Beaufort
+country: United States
+description: This notorious church is located on St. Helena and now stands deserted. When workers tried to seal up the crypt behind the church, they would find a surprise awaiting them the following morning. The bricks used to seal off the crypt somehow got neatly put in a little pile. All of their work seemed to be in vain for this happened numerous times. Other people have reported strange sensations when walking through the church's graveyard.
+location: The Chapel of Ease
+state: South Carolina
+state_abbrev: SC
+longitude: -80.5767735
+latitude: 32.3754725
+city_longitude: -80.6698286
+city_latitude: 32.4315813
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

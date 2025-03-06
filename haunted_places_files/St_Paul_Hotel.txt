@@ -1,0 +1,20 @@
+city: St. Paul
+country: United States
+description: A ghost of a bellboy still tries to make the guest comfortable.
+location: St. Paul Hotel
+state: Minnesota
+state_abbrev: MN
+longitude: -93.095969
+latitude: 44.9450351
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

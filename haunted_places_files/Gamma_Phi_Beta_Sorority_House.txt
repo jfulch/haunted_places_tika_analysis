@@ -1,0 +1,21 @@
+city: Tuscaloosa
+country: United States
+description: The name or origin of the ghost is not known for sure, but the legend has it that before sorority row was built, there was a home for children on that site. It is said that a small boy by the name of Adam was accidentally scalded to death in a bathtub. There have been numerous incidents of faucets cutting on and off without explanation, as well as doors slamming down the halls of the house. The spirit is more noticeable at around 8PM, when not many people are present in the house. Several have reported having a "creeped out feeling" and then seeing faucets or televisions turn on without explanation.
+location: Gamma Phi Beta Sorority House
+state: Alabama
+state_abbrev: AL
+longitude: -87.5465526
+latitude: 33.2064364
+city_longitude: -87.56917349999999
+city_latitude: 33.2098407
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

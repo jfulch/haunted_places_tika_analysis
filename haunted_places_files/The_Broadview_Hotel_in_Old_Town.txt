@@ -1,0 +1,21 @@
+city: Wichita
+country: United States
+description: Reports of lights flickering on and off only in the rooms not in the hallway. Within seconds of leaving a room furniture would be rearranged. The doors while they shake violently only to find no one on the other side.
+location: The Broadview Hotel in Old Town
+state: Kansas
+state_abbrev: KS
+longitude: -97.342446
+latitude: 37.686398
+city_longitude: -97.330053
+city_latitude: 37.68717609999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

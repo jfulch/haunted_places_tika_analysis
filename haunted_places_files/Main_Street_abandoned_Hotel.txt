@@ -1,0 +1,21 @@
+city: Lake Elsinore
+country: United States
+description: On Saturday nights, It has been said by many and also the mechanics shop that they often hear screaming inside the hotel. The whole place is boarded up. Also they see a man in a janitors suit looking down off the roof at about 1 am in the morning.
+location: Main Street abandoned Hotel
+state: California
+state_abbrev: CA
+longitude: -117.3254654
+latitude: 33.6729259
+city_longitude: -117.3272615
+city_latitude: 33.6680772
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1975/10/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

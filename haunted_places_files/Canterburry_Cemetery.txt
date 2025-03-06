@@ -1,0 +1,21 @@
+city: Tigard
+country: United States
+description: Ghostly lights and apparitions have been sighted from the highway below by passing motorists. This historic cemetery in located atop Canterburry hill in this suburban area. The lights are usually small greenish balls that move about in the trees. They don't seem to get close to people; they stay in the distance. Newer homes and apartments have been developing around the cemetery since the 1970's and residents in the area have also heard unearthly howls and screams from here. There is a large malevolent presence that comes and goes from there. And one of the condos built near the cemetery is the sight of ghostly phenomenon linked to the cemetery. - March 2008 Update: This cemetery was cleaned up about six years ago, and actually looks great up there now. It is no longer abandoned, and is very viewable from the street since they took down a lot of trees. The stories from the place areeasily explainable as there are two entrances in the back to two different apartment complexes. People can very easily get in there and turn on flashlights, or flares or such.
+location: Canterburry Cemetery
+state: Oregon
+state_abbrev: OR
+longitude: -122.7903723
+latitude: 45.4149029
+city_longitude: -122.7714861
+city_latitude: 45.4312294
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

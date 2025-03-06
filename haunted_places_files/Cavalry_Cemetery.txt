@@ -1,0 +1,21 @@
+city: Sioux City
+country: United States
+description: Many visitors report two things after walking through the grounds: Their ears ring persistently, and they feel the sensation of fingertips or cobwebs drifting over their face. Some report that both sensations get stronger as they approach a gravestone with a tree growing out of it- half of the tree is dead, half of it still produces green leaves every year. - June 2008 Correction: The Headstone with the tree is wrong. It is an actual tree made into a headstone. It is cut off of an old hanging tree. It is cut from the part down from where they used to hang people from it. The rope is still attached to the tree and the headstone is actually carved into the tree. It is in the older top part of the cemetery, along the dirt cut through.
+location: Cavalry Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -96.4430181
+latitude: 42.5212268
+city_longitude: -96.4003069
+city_latitude: 42.4999942
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

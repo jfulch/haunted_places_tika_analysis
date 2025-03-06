@@ -1,0 +1,21 @@
+city: Keahou
+country: United States
+description: Foot steps, chanting and screams and cries in the upper levels of the hotel.
+location: The Kona Lagoon Resort
+state: Hawaii
+state_abbrev: HI
+longitude: -155.990336
+latitude: 19.632069
+city_longitude: -155.9605604
+city_latitude: 19.5756191
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

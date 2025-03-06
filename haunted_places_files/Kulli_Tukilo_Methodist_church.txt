@@ -1,0 +1,21 @@
+city: Idabel
+country: United States
+description: This is a very old church, with a cemetery you have to pass to get to the church bell. In the old days the preacher would ring the "faithful bell" before services, and anyone in earshot that was faithful, would come to service. If you go down to Kulli, mostly at night, and ring the bell; you can hear doors open, people talking and some have heard singing from inside the church. A few people have seen someone coming up from the graveyard headed to church. The faith bell will forever call the faithful, as the stories go.
+location: Kulli Tukilo Methodist church
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.7538738
+latitude: 33.8411081
+city_longitude: -94.8263281
+city_latitude: 33.8956647
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

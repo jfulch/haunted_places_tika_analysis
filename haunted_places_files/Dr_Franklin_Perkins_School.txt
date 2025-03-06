@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: This place is a private residential school for DSS and DYS children. There are several buildings on it's campus, but the building is called The Manor. It is over a hundred years old and is the size of a mansion. There is a girl about the age of 6 who runs out of one of the bedrooms at nighttime. She is in a long nightgown and wearing a nightcap. There is another girl downstairs who roams one of the units for the older girls. She just passes through...always at the same time of night. Up on the third floor, furniture is moved around, windows are opened, you can hear footsteps, and in one certain spot on the second floor, right above you, it sounds like somebody dropping something. Outside, only on certain nights...not all the time, on the third floor in one of the windows is a faint blue glow.
+location: Dr. Franklin Perkin's School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.6718776
+latitude: 42.4622692
+city_longitude: -71.6731242
+city_latitude: 42.4556452
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

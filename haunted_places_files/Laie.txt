@@ -1,0 +1,21 @@
+city: O'ahu
+country: United States
+description: Polynesian Cultural Center - Each village here seems to have its own specialty. The Fiji village drums play by themselves and the Marquesas village has a ghostly crying baby. People have also reported seeing a woman floating face in the main lagoon.
+location: Laie
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9225549
+latitude: 21.6482858
+city_longitude: -158.0000565
+city_latitude: 21.4389123
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1963/10/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 48m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

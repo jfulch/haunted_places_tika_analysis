@@ -1,0 +1,21 @@
+city: Paso Robles
+country: United States
+description: The original Paso Robles Inn caught on fire many years ago, the date is unknown to me. Because there was no 911 then, one male resident stayed behind. From a telephone inside the Inn, he dialed every room to make sure everyone got out. He ended up dying from a heart attack while still warning other customers. The new Inn was built using some of the original bricks. It is said that that in one room, a ghost calls 9-1-1. It was thought of as a prank at first but when the calls were traced, there were all traced back to this one room. No one had checked into the room and it was locked. It is believed that the resident is still tying to save others from the fire, not knowing that everyone got out except him.
+location: Paso Robles Inn
+state: California
+state_abbrev: CA
+longitude: -120.69206
+latitude: 35.6255535
+city_longitude: -120.6545022
+city_latitude: 35.6368759
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

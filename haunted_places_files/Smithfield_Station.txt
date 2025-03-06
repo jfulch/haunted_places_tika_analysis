@@ -1,0 +1,21 @@
+city: Smithfield
+country: United States
+description: Employees of the restaurant say that there is a ghost of a man who sits at the bar sometimes late at night when the restaurant is closed. He is believed to have drowned in the river behind the restaurant after leaving the bar one night. He just sits there drinking and staring off into space, if approached, he will disappear.
+location: Smithfield Station
+state: Virginia
+state_abbrev: VA
+longitude: -76.623453
+latitude: 36.982412
+city_longitude: -76.63106619999999
+city_latitude: 36.9823709
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Sandy Lake
+country: United States
+description: The furnaces used to be an old steel mill that burnt over 50 yrs. ago. Many of accidents happened taking many lives, so it is said to be haunted by the workers who died there. If you visit the furnaces during the winter you can see foot prints, shadows, and things leaping from tree to tree, over 100 yard distance. As you go down the hill it gets much colder, until you get directly into the furnaces, and then you feel it get warmer. Many of nights the restless spirits will chase you out and give you a real fright.
+location: The furnaces
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0145963
+latitude: 41.3413504
+city_longitude: -80.0822822
+city_latitude: 41.3486673
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

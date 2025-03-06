@@ -1,0 +1,21 @@
+city: Sedro Woolley
+country: United States
+description: In the old superintendents mansion several people have been frightened by a bright light on the second floor. Most of the old dorms are very cold even in the heat of summer. In the old nurses dorm, faint voices can sometimes be heard. The gymnasium has also had supernatural activity since the 50's. - October 2007: WARNING - There is no trespassing. The police will be called and you will be arrested.
+location: Northern State Hospital / Cascade Job Corps
+state: Washington
+state_abbrev: WA
+longitude: -122.206254
+latitude: 48.53398
+city_longitude: -122.2361101
+city_latitude: 48.50389
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

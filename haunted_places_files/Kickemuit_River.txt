@@ -1,0 +1,19 @@
+city: Warren
+country: United States
+description: School house roads - It is said that there are seven haunted heads there if u go at the right time u can see them. The head are seen floating above seven poles where they were posted as a warning to all English pioneers not to go on the land. this warning was put up by the Native Americans that didn’t want the English invading.
+location: Kickemuit River
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.24584329999999
+latitude: 41.7520612
+city_longitude: -71.2825493
+city_latitude: 41.7303793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

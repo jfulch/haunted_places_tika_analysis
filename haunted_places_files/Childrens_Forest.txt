@@ -1,0 +1,19 @@
+city: Newton
+country: United States
+description: It is known that a neighboring resident found an antique glass jar in the woods of Children's Forest. A week later, when the jar was kept inside the resident's garage, a group of teenagers saw a depressed indian walking through a table. The next day they busted the jar against a tree inside the Forest, and now they say you can hear Indian calls from within the woods.
+location: Children's Forest
+state: Iowa
+state_abbrev: IA
+city_longitude: -93.05735330000002
+city_latitude: 41.7033177
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

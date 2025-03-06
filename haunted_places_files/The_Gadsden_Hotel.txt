@@ -1,0 +1,21 @@
+city: Douglas
+country: United States
+description: Prankster Indian boy plays on the Mezzanine, headless Pancho Villa walks the tunnels in the basement, and Sara the elderly guest frequents the 4th floor. The basement of the hotel has been identified as the most haunted section of the building. The luminous form of a man glides across the wall. - May 2005 Update: A bartender at this bar from the late 1960's until 1971, has never heard of Pancho Villa walking this hotel or of the Prankster Indian boy. In fact, he said the whole time he has worked at this hotel, not once were there any reports of hauntings.
+location: The Gadsden Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -109.5547655
+latitude: 31.3451633
+city_longitude: -109.5453447
+city_latitude: 31.3445471
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Upland
+country: United States
+description: Supposedly a busload of school children were killed when the bus ran off of the road. The bus still sits there in what is now a graveyard. There is a bridge up the road that the bus fell off of and supposedly if you go too slow over the old iron bridge, your engine will die and you will have to push the vehicle off of the bridge to get it started. You will hear children screaming and crying while you are pushing your car.
+location: Spook's Corner
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.4944168
+city_latitude: 40.4755974
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

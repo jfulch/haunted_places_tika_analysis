@@ -1,0 +1,21 @@
+city: Butler County
+country: United States
+description: Snyder Cemetery - A green glowing light come from a small gravestone, white flashes of light, weird fog reported.
+location: Moraine State Park
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.097413
+latitude: 40.9422565
+city_longitude: -79.8296743
+city_latitude: 40.9115243
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1939/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

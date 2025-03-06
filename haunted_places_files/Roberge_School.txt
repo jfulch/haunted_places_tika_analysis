@@ -1,0 +1,20 @@
+city: River Vale
+country: United States
+description: The ghost of a friendly janitor who died of a hart attack is heard sweeping hallway and bathroom floors. you also laugh out of no where when he is present.
+location: Roberge School
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.0108704
+latitude: 40.9935761
+city_longitude: -74.01197359999999
+city_latitude: 41.0147679
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

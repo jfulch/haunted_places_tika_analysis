@@ -1,0 +1,21 @@
+city: Midvale
+country: United States
+description: there is a big black shadow that haunts the halls and when every one is in class it takes things from teachers (the teachers brush it off as though they misplaced the items)
+location: Union Middle School
+state: Utah
+state_abbrev: UT
+longitude: -111.8739992
+latitude: 40.6070972
+city_longitude: -111.8999353
+city_latitude: 40.6110589
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

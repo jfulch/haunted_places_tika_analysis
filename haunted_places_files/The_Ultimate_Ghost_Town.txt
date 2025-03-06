@@ -1,0 +1,19 @@
+city: Redlands
+country: United States
+description: The majority of the houses are very old and Victorian, especially on the far South side. There are many stories of haunted houses and ghost there. Redlands is also supposed to be one of the highest ranking cities for devil worshippers.
+location: The Ultimate Ghost Town
+state: California
+state_abbrev: CA
+city_longitude: -117.1825381
+city_latitude: 34.0555693
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

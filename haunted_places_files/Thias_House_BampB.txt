@@ -1,0 +1,20 @@
+city: Washington
+country: United States
+description: This historic 1888 home has left more than one person with the feeling that something supernatural is in the house. Customers coming in for lunch and touring the home have seen the apparition of a lady combing her hair at the dresser in the master bedroom, someone touching their shoulder in the attic, and the lady with the long hair and Victorian clothing has been seen coming down the grand staircase. The spirit of a cat also roams the house and has been seen jumping across the furniture and scurrying around the corner. The sound of a cat crying has been heard on more than one occasion when there are no cats anywhere to be seen. Bed & Breakfast guests have been visited by the invisible bat flying around them in the evening. On searching for it, the bat seems to have vanished in to thin air.
+location: Thias House B&amp;B
+state: Missouri
+state_abbrev: MO
+longitude: -83.7973234
+latitude: 41.5266577
+city_longitude: -91.0120878
+city_latitude: 38.55810719999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

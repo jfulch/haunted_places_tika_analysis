@@ -1,0 +1,21 @@
+city: Tacoma
+country: United States
+description: Security guards there have reported elevators moving on their own accord, lights being turned off and on, and doors that were locked being checked and found unlocked. There is a spooky vibe there, and several guards have quit rather than work at that location.
+location: Old City Hall
+state: Washington
+state_abbrev: WA
+longitude: -122.4420906
+latitude: 47.2557586
+city_longitude: -122.4442906
+city_latitude: 47.2528768
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

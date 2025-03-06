@@ -1,0 +1,21 @@
+city: Norristown
+country: United States
+description: In the Valley Forge residential building, there have been reports of a ghost named Ethan being seen and heard. One student claims that Ethan once grabbed her ankle.
+location: The Pathway School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.3893167
+latitude: 40.130892
+city_longitude: -75.3399048
+city_latitude: 40.121497
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

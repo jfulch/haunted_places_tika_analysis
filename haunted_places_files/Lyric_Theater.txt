@@ -1,0 +1,21 @@
+city: Blacksburg
+country: United States
+description: The Lyric has been around for more than 75 years, and is one of the few theaters left with an upper balcony. Yjere have been numerous accounts from workers there of hearing things, and feeling someone brush behind them.  It is believed that a worker died in the theater years ago.
+location: Lyric Theater
+state: Virginia
+state_abbrev: VA
+longitude: -80.415656
+latitude: 37.2301297
+city_longitude: -80.4139393
+city_latitude: 37.2295733
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1876/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

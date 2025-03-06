@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: Very strange noises, like the sound of a dog jogging on cement, a strange light what seemed to be a white glow stick go by very fast, but the oddest of them all was the Unexplainable feeling of evil, the feeling of being watched, and being rushed and overwhelmed with a negative energy.
+location: Saint Mary's Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.910856
+latitude: 42.535836
+city_longitude: -70.8967155
+city_latitude: 42.51954
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

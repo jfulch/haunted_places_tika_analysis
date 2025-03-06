@@ -1,0 +1,21 @@
+city: East Lansing
+country: United States
+description: There is a boy who roams the halls of the auditorium. Also, there have been stories of weird noises coming from the stage areas.
+location: Fairchild Auditorium
+state: Michigan
+state_abbrev: MI
+longitude: -84.4768477
+latitude: 42.7287519
+city_longitude: -84.48386540000001
+city_latitude: 42.7369792
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

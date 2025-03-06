@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: in the rotunda shadows have been seen and cold spots have been felt. A number of students felt the urge to jump off the 3rd floor balcony "when I walked past the entrance to the 3rd floor balcony, I felt the sudden urge to brake through the gate and jump off". two people killed by hanging themselves and jumping off. Cold spots have also been felt and light flicker in the auditorium. One person died falling off fixing lights.
+location: Fairfax high School
+state: California
+state_abbrev: CA
+longitude: -118.3597627
+latitude: 34.0821574
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

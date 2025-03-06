@@ -1,0 +1,21 @@
+city: Cedar Rapids
+country: United States
+description: Workers report cold spots, hearing foot steps walking around the store when you are the only person in there, pans started flying at us like someone was throwing them, but there was know one there. ?We ran out of the store and when we got brave enough to go back in we found all the pans had been put back on the shelf.?
+location: Domino's Pizza
+state: Iowa
+state_abbrev: IA
+longitude: -91.7165762
+latitude: 41.9527293
+city_longitude: -91.6656232
+city_latitude: 41.9778795
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

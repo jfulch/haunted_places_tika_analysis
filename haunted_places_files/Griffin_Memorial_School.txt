@@ -1,0 +1,21 @@
+city: Litchfield
+country: United States
+description: There has been reported a reappearing ghost sighting outside the baseball field at GMS. It is thought to be a young kid that hung himself off the fence around the baseball field. He is seen on warm nights where the stars shine bright. The janitors report hearings of desks moving in other rooms and when they investigate they find the desks and chairs rearranged in a circular pattern.
+location: Griffin Memorial School
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.4792841
+latitude: 42.83909180000001
+city_longitude: -71.4797889
+city_latitude: 42.84425359999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

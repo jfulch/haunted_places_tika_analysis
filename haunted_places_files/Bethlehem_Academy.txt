@@ -1,0 +1,21 @@
+city: Elizabethtown
+country: United States
+description: Now a restaurant, this old house use to be a convent later a hotel. It is said that several nuns were murdered here along with others. Cold spots are present and during restaurant hours chairs are moved and things are misplaced. Drive by at any hour after midnight and you will see windows open and close along with lights being turned on and off. If you're brave enough walk up on the porch and feel the bad feelings that seem to radiate from the building.
+location: Bethlehem Academy
+state: Kentucky
+state_abbrev: KY
+longitude: -85.9949086
+latitude: 37.7014844
+city_longitude: -85.8649408
+city_latitude: 37.7030646
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

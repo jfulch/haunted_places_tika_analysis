@@ -1,0 +1,21 @@
+city: Glendale
+country: United States
+description: The park used to be the estate of the brand family, with the library having been the mansion they lived in. There is a trail behind the house leading up in to the hills. If you follow it, it will take you to the family cemetery. Mr. Brand's tomb is a large pyramid where occult activity is pretty common. Also, further up in the hills is what looks to be a 3-foot tall stone watchtower.
+location: Brand Park
+state: California
+state_abbrev: CA
+longitude: -118.2764402
+latitude: 34.1826353
+city_longitude: -118.255075
+city_latitude: 34.1425078
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

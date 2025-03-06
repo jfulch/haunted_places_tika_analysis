@@ -1,0 +1,21 @@
+city: Sunnyvale
+country: United States
+description: is said to have a ghost walking the halls on the second floor.. It's been known to lock doors, open doors and it's presence can be felt. People have also said that they've seen it, and one teacher claims that the ghost tapped him on his shoulder. One parent attending an orientation, felt a strong negative presence, as if it were saying, “Go home please.” They apologized out loud for intruding and left.
+location: Homestead High School
+state: California
+state_abbrev: CA
+longitude: -122.0497249
+latitude: 37.3371416
+city_longitude: -122.0363496
+city_latitude: 37.36883
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Wagerville
+country: United States
+description: There is a small place called Wagerville, between Chatom and Leroy. Behind the Texaco Gas Station, there is a dirt road by a cemetery that is haunted by a woman who was raped and killed there. Around midnight until about 3AM, you can park on the road along the cemetery gate, turn everything off and put your car in neutral. The white lady will push you along the road out of harms way. It is NOT downhill. The car rocks back and forth like someone is pushing it. Some have seen the lady as a white light or form, and others have seen her walking in the cemetery. Sometimes you don't see her but you can hear her footsteps outside, as she pushes the vehicle.
+location: The White Lady of Wagerville
+state: Alabama
+state_abbrev: AL
+city_longitude: -88.0283357
+city_latitude: 31.4362772
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

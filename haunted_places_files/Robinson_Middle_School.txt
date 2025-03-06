@@ -1,0 +1,21 @@
+city: Wichita
+country: United States
+description: There's a lady/girl that walks around the hall ways after dark. She makes the locks of the lockers clank, and bounce against them.
+location: Robinson Middle School
+state: Kansas
+state_abbrev: KS
+longitude: -97.2796172
+latitude: 37.691072
+city_longitude: -97.330053
+city_latitude: 37.68717609999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

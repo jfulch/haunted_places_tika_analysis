@@ -1,0 +1,20 @@
+city: Boulder
+country: United States
+description: a lady and her baby often haunt the hotel Patrons have seen her.
+location: Hotel Boulderodo
+state: Colorado
+state_abbrev: CO
+longitude: -105.279446
+latitude: 40.019416
+city_longitude: -105.2705456
+city_latitude: 40.0149856
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

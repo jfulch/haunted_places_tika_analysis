@@ -1,0 +1,20 @@
+city: Buffalo
+country: United States
+description: The old bathroom is reportedly the sight of a lot of paranormal activity. Names written in blood on the mirror. Strange balls of light floating in and out. Old man Sturges, a wealthy businessman of Buffalo in the 1880s is seen occasionally wandering through his old house, which is right next to the park.
+location: Sturges Park
+state: Minnesota
+state_abbrev: MN
+longitude: -93.8734951
+latitude: 45.1667497
+city_longitude: -93.8747929
+city_latitude: 45.1717846
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

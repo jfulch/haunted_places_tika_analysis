@@ -1,0 +1,21 @@
+city: Gulliver
+country: United States
+description: Upper Penn - It is said that the lighthouse there is haunted by one of the old keepers. there has been some work done and the put 12 cigars on the table and sealed off the room for the night, the next morning, with the seal undisturbed the cigars were found throughout the room including one in the pocket of the keepers uniform which was on display in the room.- May 2005 additional information - For more information go to http://www.greatlakelighthouse.com/ They have a gift shop that sells a video of additional ghost stories.
+location: Seul Choix Point
+state: Michigan
+state_abbrev: MI
+longitude: -85.9121605
+latitude: 45.9213487
+city_longitude: -86.012069
+city_latitude: 45.9930329
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

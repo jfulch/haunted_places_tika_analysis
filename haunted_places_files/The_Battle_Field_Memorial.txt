@@ -1,0 +1,21 @@
+city: Battle Ground
+country: United States
+description: Back in the 1800's there was a terrible battle fought on the grounds where the memorial is. If you are anywhere close to the creek right after dark, then you hear battle cries and see human forms running through to woods. You also can never fall asleep out there no matter how tired you are.
+location: The Battle Field Memorial
+state: Indiana
+state_abbrev: IN
+longitude: -86.8438216
+latitude: 40.5068614
+city_longitude: -86.8416763
+city_latitude: 40.5083685
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

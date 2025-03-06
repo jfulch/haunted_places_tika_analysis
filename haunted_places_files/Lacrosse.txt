@@ -1,0 +1,21 @@
+city: Whitman
+country: United States
+description: School house - Sometimes when you walk in the house you will get a feeling someone is watching you& feelings of being bumped or pushed when alone.
+location: Lacrosse
+state: Washington
+state_abbrev: WA
+longitude: -117.8818834
+latitude: 46.8140449
+city_longitude: -117.5887295
+city_latitude: 46.8363403
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

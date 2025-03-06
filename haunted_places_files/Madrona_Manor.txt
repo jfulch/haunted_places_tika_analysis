@@ -1,0 +1,21 @@
+city: Healdsburg
+country: United States
+description: This Victorian era hotel is the home of a ghost that lives in one of the ground floor rooms. A little girl does no harm and her history is unknown.
+location: Madrona Manor
+state: California
+state_abbrev: CA
+longitude: -122.8865106
+latitude: 38.604548
+city_longitude: -122.8691609
+city_latitude: 38.6104658
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

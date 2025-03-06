@@ -1,0 +1,21 @@
+city: Auburndale
+country: United States
+description: The building was at one time a hospital. There are about 10 beds there, with about 2 or 3 people dying each week (sometimes more). The ghost of Mary Morrow, the wife of the doctor is sometimes seen by the staff. In 2004 one CNA that worked there saw a woman wearing a flower pattern dress walked through a closed door. She told the nurse on duty what she saw, who described Mary Morrow to her. The description she gave matched. Some staff in the office areas report feelings of nausea and light headiness at times, but a source for this has never been found.
+location: The Good Shepherd Hospice
+state: Florida
+state_abbrev: FL
+longitude: -81.7934701
+latitude: 28.0689488
+city_longitude: -81.7886906
+city_latitude: 28.0652975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

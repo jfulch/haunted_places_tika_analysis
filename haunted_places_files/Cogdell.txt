@@ -1,0 +1,21 @@
+city: Clinch
+country: United States
+description: "Cogdell Light" -  Most folks in southeast Georgia have traveled to this tiny settlement on the fringe of the Okefenokee swamp late at night to see the "Cogdell light." Young couples are especially drawn to drive into the woods on one of the deserted roads, turn off the car, and flash the headlights a few times to conjure up the "ghost." If their visit is timed just right, an eerie greenish yellow glow coming from out of nowhere may be seen making its way slowly toward them in the darkness. Some say it's the ghost of an unknown man whose head was severed in a train accident. He swings a lantern in a futile search for his missing part. Others say the "light" is the glow of the lantern swung by two lovers in their effort to stop the train late at night. Their parents forbid them to see each other, thus they planned this escape but were shot by her father who thought they were prowlers. The "light" is a ghostly reminder of their tragic love.
+location: Cogdell
+state: Georgia
+state_abbrev: GA
+longitude: -82.7179192
+latitude: 31.1649301
+city_longitude: -82.82097399999999
+city_latitude: 30.9716985
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

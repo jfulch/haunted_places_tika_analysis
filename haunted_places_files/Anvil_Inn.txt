@@ -1,0 +1,21 @@
+city: Fort Edward
+country: United States
+description: There's supposedly a woman that haunts this diner that has dropped bottles on the floor and broken them and turns on and off the lights and music when she doesn't want them on.
+location: Anvil Inn
+state: New York
+state_abbrev: NY
+longitude: -73.583349
+latitude: 43.2645887
+city_longitude: -73.5476338
+city_latitude: 43.2310452
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

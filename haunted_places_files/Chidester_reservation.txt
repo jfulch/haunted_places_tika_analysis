@@ -1,0 +1,19 @@
+city: Highland
+country: United States
+description: Apparitions of a man working in the fields in the middle of the night.
+location: Chidester reservation
+state: Utah
+state_abbrev: UT
+city_longitude: -111.7979285
+city_latitude: 40.4248665
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

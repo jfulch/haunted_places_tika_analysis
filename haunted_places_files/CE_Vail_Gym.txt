@@ -1,0 +1,21 @@
+city: La Feria
+country: United States
+description: In 1978 there was a suicide by a young girl who hung herself in the gym. For many years students and Faculty workers claimed to have seen her. A Custodian was once cleaning the gym at 5:30 and claimed to have seen her walking with a rope in her hand. Also students reported to teachers that the young girl had chased them out of the gym. Back then the school use to be a high school now it is an elementary. The gym has been demolished and was said to be built on an old cemetery.
+location: C.E. Vail Gym
+state: Texas
+state_abbrev: TX
+longitude: -97.8266633
+latitude: 26.1525757
+city_longitude: -97.8238853
+city_latitude: 26.1589644
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

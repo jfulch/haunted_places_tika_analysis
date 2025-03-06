@@ -1,0 +1,21 @@
+city: Shelby
+country: United States
+description: A few people have seen two young girls in flowing white dresses playing in the middle of the road very late at night.? They have a light glowing around them and disappear almost into thin air.?
+location: Old Hwy 83
+state: Iowa
+state_abbrev: IA
+longitude: -95.6913339
+latitude: 41.2884385
+city_longitude: -95.45028
+city_latitude: 41.5161017
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

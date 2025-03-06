@@ -1,0 +1,20 @@
+city: Deadwood
+country: United States
+description: Its haunted by the sheriff of Deadwood and its namesake Seth Bullock. Seth was sheriff in the 1800's.
+location: Bullock Hotel
+state: South Dakota
+state_abbrev: SD
+longitude: -103.7289887
+latitude: 44.3777193
+city_longitude: -103.7296415
+city_latitude: 44.376651
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

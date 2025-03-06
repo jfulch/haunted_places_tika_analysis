@@ -1,0 +1,21 @@
+city: Alsip
+country: United States
+description: Alsip was once a huge brickyard for Chicago, as well as a planned cemetery. A really large one, supposedly dubbed The City of Chicago Cemetery. Many of the older houses have pre-dug graves within. Since not all of Alsip was used as a cemetery, the plan was debunked. However, Alsip has Illinois' largest cemetery count. There have been cases of ghosts, poltergeist activity (objects moved around homes), voices, etc. Besides its own graveyards, Alsip also borders several famous ones such as Holy Sepulcher.
+location: Cemetery(s )
+state: Illinois
+state_abbrev: IL
+longitude: -87.75050940000001
+latitude: 41.6804813
+city_longitude: -87.73866190000001
+city_latitude: 41.6689223
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

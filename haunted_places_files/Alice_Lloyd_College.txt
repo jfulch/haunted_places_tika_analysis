@@ -1,0 +1,20 @@
+city: Pippa Passes
+country: United States
+description: Lilly Hall - Second Floor Suite Strange and unusual noises have been heard from this room. There is a mechanical room in the back where scratching and moaning take place at night. The girls that live there have saw shadows of an unknown figure.
+location: Alice Lloyd College
+state: Kentucky
+state_abbrev: KY
+longitude: -82.8735944
+latitude: 37.3359167
+city_longitude: -82.8740498
+city_latitude: 37.334822
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

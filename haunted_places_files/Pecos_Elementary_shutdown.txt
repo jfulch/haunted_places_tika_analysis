@@ -1,0 +1,21 @@
+city: Pecos
+country: United States
+description: It is said that voices and strange apparitions will appear on top of the roof and in the girls bathroom. Late at night children are heard playing the rundown playground.
+location: Pecos Elementary (shutdown)
+state: Texas
+state_abbrev: TX
+longitude: -103.5069469
+latitude: 31.4049294
+city_longitude: -103.4932293
+city_latitude: 31.4229124
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

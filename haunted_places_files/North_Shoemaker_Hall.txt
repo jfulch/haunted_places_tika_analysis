@@ -1,0 +1,20 @@
+city: St. Cloud
+country: United States
+description: North Shoemaker Hall was built in the early part of the twentieth century. Legend states that one of the lunch ladies hanged herself in the basement meat locker. Many of the resident advisors have reported hearing strange things in the meat locker. They even say that the door will unlock by itself after employees had locked it.
+location: North Shoemaker Hall
+state: Minnesota
+state_abbrev: MN
+longitude: -94.1499438
+latitude: 45.5498026
+city_longitude: -94.1632404
+city_latitude: 45.5579451
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1946/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

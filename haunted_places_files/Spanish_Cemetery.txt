@@ -1,0 +1,21 @@
+city: Granite City
+country: United States
+description: also known as Irish Cemetery - There is an old cemetery down the street from the Wal-Mart (the only wal-mart in granite city). It was owned by the Irish family. It is said that if you trespass onto the cemetery, the ghost of an Irish family member will actually scare you so much, that you will have a Heart Attack. They said it only happens at night though, and to people that are not there to mourn the deaths of the Irish.
+location: Spanish Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -90.1096963
+latitude: 38.7066645
+city_longitude: -90.1487199
+city_latitude: 38.7014389
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1534/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

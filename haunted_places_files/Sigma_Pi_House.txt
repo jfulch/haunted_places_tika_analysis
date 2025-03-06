@@ -1,0 +1,21 @@
+city: Vincennes
+country: United States
+description: Is said to be haunted by Civil War Colonel. Doors open and close as well as strange clouds and figures appear all the time.
+location: Sigma Pi House
+state: Indiana
+state_abbrev: IN
+longitude: -87.5165157
+latitude: 38.6873476
+city_longitude: -87.5286325
+city_latitude: 38.677269
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

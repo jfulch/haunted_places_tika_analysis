@@ -1,0 +1,20 @@
+city: Painesville
+country: United States
+description: The story about Riders Inn is that there is a ghost from the civil war. People have said that they have seen him, standing by the windows waving. - July 2004 update/additional info: The owners report a former Innkeepers wife, Suzanne, haunts the inn. That once they went out to a ball game all day and late into the night and totally forgot that they had a honeymooning couple coming that night! They didnt remember until the couple showed up for Breakfast! The couple said that they arrived the night before and found the inn locked and dark. They banged on the door and a woman in a nightgown came to the door and opened it, putting her finger to her lips as in "SShhhh" and only pointed upstairs! They knew which room they had reserved and went to bed kind of ticked!! There was no one in the inn that night when the couple arrived! The currant innkeeper is very nice and will be happy to give tours andthey even have a ghost cam on a local news site!
+location: Riders Inn
+state: Ohio
+state_abbrev: OH
+longitude: -81.2602472
+latitude: 41.7133054
+city_longitude: -81.245657
+city_latitude: 41.7244885
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

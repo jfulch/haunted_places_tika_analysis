@@ -1,0 +1,21 @@
+city: Coalgate
+country: United States
+description: Coalgate was once a boomtown for foreigners who came to work in the coalmines back at the turn of the century.  When the mines gave way and became strip pits---some of these are so deep they've not been measured.  For this reason, they were easy targets for mobs from the east coast to dispose of "unwanted" or "no longer needed" mobsters.  Remains have been found and traced back to east coast mob activities throughout the years in some of these remote (and deep) strip pits.  Several cars from New York, New Jersey and Illinois along with some remains, unidentified, of course, have been brought up out of the watery graves!
+location: The Mines
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.2164962
+latitude: 34.5355417
+city_longitude: -96.2186092
+city_latitude: 34.5381481
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1889/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

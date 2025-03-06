@@ -1,0 +1,21 @@
+city: Lemont
+country: United States
+description: Believed to be curse by souls that where buried there.
+location: Old Quarry Jr. High School
+state: Illinois
+state_abbrev: IL
+longitude: -88.0133185
+latitude: 41.6546709
+city_longitude: -88.0017261
+city_latitude: 41.673642
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

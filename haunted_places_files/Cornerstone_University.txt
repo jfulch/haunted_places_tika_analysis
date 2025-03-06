@@ -1,0 +1,21 @@
+city: Grand Rapids
+country: United States
+description: Pickett Hall - numerous stories of a girl that waits outside of Pickett Hall during very late hours. she is always claimed to wear the same dress, and is clothed in a fashion that resembles the 70's. the girl often vanishes when she notices she is being watched.
+location: Cornerstone University
+state: Michigan
+state_abbrev: MI
+longitude: -85.5948623
+latitude: 42.9809156
+city_longitude: -85.6680863
+city_latitude: 42.9633599
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1870/12/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

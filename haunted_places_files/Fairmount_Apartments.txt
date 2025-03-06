@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: Manvelant and benevolent hauntings. This is a building that is located on the corner of NW 26th and Vaughn Street in northwest Portland. This is the last building standing from the centennial celebration of the Lewis and Clark expedition in 1905. It was once a grand hotel and it now an apartment complex. Some of the residents over the years, have reported seeing apparitions late at night, while others have felt somewhat of a threatening presence mostly on the lower floors especially in the halls. Upstairs, the presence is not as threatening.
+location: Fairmount Apartments
+state: Oregon
+state_abbrev: OR
+longitude: -122.7046608
+latitude: 45.5365111
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1905/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

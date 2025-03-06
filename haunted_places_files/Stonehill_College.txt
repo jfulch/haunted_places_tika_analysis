@@ -1,0 +1,21 @@
+city: Easton
+country: United States
+description: A small passenger plane crashed into the pond several years ago, and on the anniversary the pond gets covered with a blue mist and goes on to become a thick fog throughout the rest of campus. As it begins to clear, some say they see the pilot struggling to get out of the cockpit and climb onto drier land.
+location: Stonehill College
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0806276
+latitude: 42.0590153
+city_longitude: -71.1286594
+city_latitude: 42.0245442
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1984/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Accident
+witness_count: 1

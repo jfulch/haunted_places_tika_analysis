@@ -1,0 +1,20 @@
+city: Vergus
+country: United States
+description: it is believed that there are many spirits that hunt people who go through there. Many have died by hitting a tree. There is also a cemetery there where the headstones glow and there are candles there but the flame does not touch the wick.
+location: Vergus Trails
+state: Minnesota
+state_abbrev: MN
+longitude: -95.8384117
+latitude: 46.7067455
+city_longitude: -93.4806556
+city_latitude: 44.6709766
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

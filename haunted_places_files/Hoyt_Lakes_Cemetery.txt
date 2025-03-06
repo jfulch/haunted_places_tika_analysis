@@ -1,0 +1,20 @@
+city: Hoyt Lakes
+country: United States
+description: It is said that after being left in the cemetery a young girl was frightened to death, and now is seen at nights waiting for her ride to come back for her.
+location: Hoyt Lakes Cemetery
+state: Minnesota
+state_abbrev: MN
+longitude: -92.1342239
+latitude: 47.5215301
+city_longitude: -92.1385071
+city_latitude: 47.5196465
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

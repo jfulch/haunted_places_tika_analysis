@@ -1,0 +1,21 @@
+city: Hebron
+country: United States
+description: If you go to Moody's road at night, flash your brights 3 times a light will appear and if you shut off your car it will not restart.
+location: Moody's Road
+state: Indiana
+state_abbrev: IN
+longitude: -87.14406029999999
+latitude: 41.5758002
+city_longitude: -87.2003091
+city_latitude: 41.3186482
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/05/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

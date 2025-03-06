@@ -1,0 +1,17 @@
+city: Harpo Studios
+country: United States
+description: Was the sight of a makeshift morgue after the Easton tragedy. There were 1,500 people that died in the incident, and they're bodies brought to the armory for identification. Numerous stories of the armory, now Harpo Studios, being haunted.
+location: formerly the Chicago armory
+state: Illinois
+state_abbrev: IL
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

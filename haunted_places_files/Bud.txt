@@ -1,0 +1,21 @@
+city: Wyoming County
+country: United States
+description: Bud Mountain - at the bottom of the mountain on a full moon night just as you start up the first steep hill you can hear old man Burg Hammon playing his fiddle. a lot of years ago Burg Hammon was a peddler of different things mostly musical instruments. it was said that his horse and buggy went over the mountain there and killed him. all you have  to do is say BURG HAMMON let us hear your pretty music, and he will play for you.
+location: Bud
+state: West Virginia
+state_abbrev: WV
+longitude: -81.37950959999999
+latitude: 37.5373919
+city_longitude: -81.5596427
+city_latitude: 37.6339466
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

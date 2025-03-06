@@ -1,0 +1,20 @@
+city: Minneapolis
+country: United States
+description: The story is that an usher who committed suicide as a teenager haunts the theater. He can be seen in the aisles when the lights in the house are down and there is light shining in from the corridor. - January 2007 Update: Guthrie theatre in Minneapolis was closed down and moved to a brand new building built in another location.
+location: Guthrie Theatre
+state: Minnesota
+state_abbrev: MN
+longitude: -93.2559432
+latitude: 44.9781059
+city_longitude: -93.2650108
+city_latitude: 44.977753
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Capitola
+country: United States
+description: Reports of hearing voices and all kinds of racket going on in the theater as if there were a theater-going crowd.
+location: The Capitola Theater
+state: California
+state_abbrev: CA
+longitude: -121.9668415
+latitude: 36.9718848
+city_longitude: -121.953293
+city_latitude: 36.9752283
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

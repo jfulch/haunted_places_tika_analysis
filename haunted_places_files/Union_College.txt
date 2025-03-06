@@ -1,0 +1,21 @@
+city: Schenectady
+country: United States
+description: There is a wonderful garden behind the college. On the first full moon after the summer solstice, the spirit of Alice is said to walk along the creek there. She was burned at the stake centuries ago.
+location: Union College
+state: New York
+state_abbrev: NY
+longitude: -73.92980530000001
+latitude: 42.817017
+city_longitude: -73.9395687
+city_latitude: 42.8142432
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

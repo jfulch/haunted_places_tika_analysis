@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: This is a fairly new school, built about 5 years ago in 1998. They say that a construction worker died while building the school and his body was left in the schools foundation and was never found. Noises are heard in the bathrooms. - January 2006 Additional information: In the auditorium (theater) cold spots have been felt backstage and there is no air conditioning back there. Footsteps have been heard on the catwalk. It is thought to be linked to the construction worker's body. One of our custodians doesn't like to stay at night because she hears noises around the school.
+location: Cypress Springs High School
+state: Texas
+state_abbrev: TX
+longitude: -95.7200616
+latitude: 29.8922279
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1998/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

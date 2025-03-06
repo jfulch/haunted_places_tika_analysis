@@ -1,0 +1,21 @@
+city: Galena
+country: United States
+description: Many Ghost sightings have been seen and documented in this town. We are the town of U.S. President U.S. Grant; many stories about haunted houses and cemeteries are here. This town is rich on haunted sights.
+location: Many
+state: Illinois
+state_abbrev: IL
+longitude: -90.4273989
+latitude: 42.4157448
+city_longitude: -90.4290168
+city_latitude: 42.4166744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

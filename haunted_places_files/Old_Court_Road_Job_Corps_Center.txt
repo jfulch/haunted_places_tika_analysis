@@ -1,0 +1,21 @@
+city: Randallstown
+country: United States
+description: Columbia Hall - There used to be an extension to the dorm that you could access through a door at the back of the lounge (the entrance to that part was always kept locked) on the upstairs section of the dorm. This section of Columbia burned down sometime in the eighty's. When the dorm caught fire there was a sixteen-year-old girl who perished in the fire, she has been seen many times in the dorm lounge.
+location: Old Court Road – Job Corps Center
+state: Maryland
+state_abbrev: MD
+longitude: -76.8690043
+latitude: 39.3354503
+city_longitude: -76.79525249999999
+city_latitude: 39.3673278
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1754/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 1

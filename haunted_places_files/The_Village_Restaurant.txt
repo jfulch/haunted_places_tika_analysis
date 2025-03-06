@@ -1,0 +1,21 @@
+city: Mount Pleasant
+country: United States
+description: This restaurant, located on west Main St., is said to be haunted. Many strange noises are heard, footsteps are heard and an old woman was seen sitting on the steps in the basement. The restaurant was once a funeral home.
+location: The Village Restaurant
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.5379614
+latitude: 40.1480247
+city_longitude: -79.54114969999999
+city_latitude: 40.1489607
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Dearborn
+country: United States
+description: Doors and windows opening and shutting on their own. Several reports of the figure of a man following someone and vanishing. Reports of a man in and old fashioned uniform wandering the hallway and vanishing (a witness who spotted this later saw a picture of the Ford's butler and said that it was the same person that they spotted). The Michigan Ghost Watchers did an investigation at the estate and got pictures of orbs, mists and a figure of a man in one of Mr. Ford's cars.
+location: The Henry Ford Estate
+state: Michigan
+state_abbrev: MI
+longitude: -83.2324072
+latitude: 42.3140335
+city_longitude: -83.17631449999999
+city_latitude: 42.3222599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1956/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

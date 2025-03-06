@@ -1,0 +1,21 @@
+city: Santa Clara
+country: United States
+description: Built around 1918 after the original structure was destroyed in 1912. Workers have witnessed apparitions, strange laughter, screaming, cold spots and freezer doors flying open violently along with the ejection of the contents. - December 2003 Update: Agnews developmental center was torn down and became the new site of the SUN Microsystems Santa Clara Campus. Information about the site can be found rsconst.com
+location: Agnews Insane Asylum
+state: California
+state_abbrev: CA
+longitude: -121.9531991
+latitude: 37.4010483
+city_longitude: -121.9552356
+city_latitude: 37.3541079
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1912/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

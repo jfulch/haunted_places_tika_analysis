@@ -1,0 +1,20 @@
+city: Sauk Center
+country: United States
+description: This hotel was built in 1901 on top of another hotel that had burned down in 1900. There are rumors of a small boy bouncing a ball down one of the hallways late at night
+location: Palmer House
+state: Minnesota
+state_abbrev: MN
+longitude: -94.9522179
+latitude: 45.7374118
+city_longitude: -94.9525216
+city_latitude: 45.737465
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1901/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

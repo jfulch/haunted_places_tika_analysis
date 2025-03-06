@@ -1,0 +1,21 @@
+city: Alexandria
+country: United States
+description: Revolutionary War soldiers have been seen here.
+location: Brown House
+state: Virginia
+state_abbrev: VA
+longitude: -77.04200279999999
+latitude: 38.8052079
+city_longitude: -77.0469214
+city_latitude: 38.8048355
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1763/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

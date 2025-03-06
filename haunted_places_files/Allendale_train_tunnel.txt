@@ -1,0 +1,19 @@
+city: Elsmere
+country: United States
+description: In the back if the Allendale trailer park in Elsmere KY, There is a train tunnel back in the woods. Many years ago a man hung himself on the edge of the top of this tunnel. There is a hook that still sticks out of the concrete where he tied this rope. But people who have seen an apparition hanging and sometimes walking inside the tunnel.
+location: Allendale train tunnel
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.60466629999999
+city_latitude: 39.0125608
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

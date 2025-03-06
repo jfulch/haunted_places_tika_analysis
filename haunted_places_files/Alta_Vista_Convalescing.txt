@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: Call light turning on in room after patient passed away. Heavy medication door closing by itself on station 3.Many reports by staff of seeing a ghostly figure of a man who killed himself years ago on station 3.
+location: Alta Vista Convalescing
+state: California
+state_abbrev: CA
+longitude: -117.4400226
+latitude: 33.928201
+city_longitude: -117.3961564
+city_latitude: 33.9533487
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1983/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

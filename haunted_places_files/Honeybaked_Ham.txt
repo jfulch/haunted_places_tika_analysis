@@ -1,0 +1,21 @@
+city: Gurnee
+country: United States
+description: The back office door opens and shuts by itself and the light in that office turns on and off by itself.  A girl has been heard screaming and seen on security cameras when nobody is there.  Things fall of the shelves randomly.
+location: Honeybaked Ham
+state: Illinois
+state_abbrev: IL
+longitude: -87.925095
+latitude: 42.372855
+city_longitude: -87.90201859999999
+city_latitude: 42.3702996
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

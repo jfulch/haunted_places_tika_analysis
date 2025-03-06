@@ -1,0 +1,21 @@
+city: Hampton
+country: United States
+description: On the Tinsman Highway across the road, there is a solitary lost and forgotten grave. At exactly three in the morning, a pale form of a man in a old confederate uniform appears for a mere second, and is gone. Also, if you sit on, touch, or disturb the grave in any way, a false sense of security falls over you. Things like car keys, hairbrushes and small objects are often misplaced.
+location: Tinsman
+state: Arkansas
+state_abbrev: AR
+longitude: -92.354576
+latitude: 33.627141
+city_longitude: -92.4698762
+city_latitude: 33.537892
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 0

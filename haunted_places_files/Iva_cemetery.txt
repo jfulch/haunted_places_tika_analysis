@@ -1,0 +1,20 @@
+city: Iva
+country: United States
+description: if you pass the cemetery on foot at sun down and look behind you. you can see an old man and then you look back and he is gone.
+location: Iva cemetery
+state: South Carolina
+state_abbrev: SC
+longitude: -82.67082599999999
+latitude: 34.307671
+city_longitude: -82.663743
+city_latitude: 34.3064966
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1937/11/08
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

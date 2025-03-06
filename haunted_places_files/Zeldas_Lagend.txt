@@ -1,0 +1,19 @@
+city: Covina
+country: United States
+description: In the Early 1900's a young girl around 15 was kidnapped and taken to an underground tunnel by a cult. The cult sacrificed her latter that night in the end of the tunnel. No-one has ever made it to the end of the tunnel and if they have they never came out. The legend is of you make it to the end the girl Zelda will sacrifice you to.
+location: Zelda's Lagend
+state: California
+state_abbrev: CA
+city_longitude: -117.8903397
+city_latitude: 34.0900091
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

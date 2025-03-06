@@ -1,0 +1,21 @@
+city: Utica
+country: United States
+description: There is a seat that they do not sell the ticket for, nor will they tell you what seat it is. Many people who have sat in the seat have felt someone sit on them, or try to force them out of the seat.
+location: Stanley Theatre
+state: New York
+state_abbrev: NY
+longitude: -75.2354716
+latitude: 43.0990832
+city_longitude: -75.232664
+city_latitude: 43.100903
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

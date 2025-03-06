@@ -1,0 +1,20 @@
+city: Newark
+country: United States
+description: B Building - There was this janitor accidentally hung himself and on the night he was known to die you can hear footsteps and him whistling his favorite tune.
+location: Newark high school
+state: Ohio
+state_abbrev: OH
+longitude: -82.4198229
+latitude: 40.066563
+city_longitude: -82.4012642
+city_latitude: 40.0581205
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

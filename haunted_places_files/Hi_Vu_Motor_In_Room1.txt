@@ -1,0 +1,21 @@
+city: Rochester
+country: United States
+description: The feeling of someone watching you is over whelming. The walls bang when the lights are out and there is coldness throughout the room.
+location: Hi-Vu Motor In Room#1
+state: New Hampshire
+state_abbrev: NH
+longitude: -70.94037639999999
+latitude: 43.28504119999999
+city_longitude: -70.97561859999999
+city_latitude: 43.304526
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

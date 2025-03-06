@@ -1,0 +1,21 @@
+city: St. Mary’s
+country: United States
+description: In the cemetery there is a grave known to locals as "Cooney's Grave". It is an actual tombstone of a Priest in the early 20th century who was rumored to have killed the woman who was impregnated by him. Weird things happen to the stone, especially during strong moonlit' nights. It is said that you can see a "glistening liquid" on the stone (rumored to be blood) and other ghostly phenomenon.
+location: St. Mary’s Catholic Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.57216799999999
+latitude: 41.437276
+city_longitude: -78.5609398
+city_latitude: 41.42737380000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1715/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

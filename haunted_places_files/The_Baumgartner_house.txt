@@ -1,0 +1,21 @@
+city: South Pittsburgh
+country: United States
+description: Located directly across the street from the cemetery. Built and owned by the first undertaker of the town. Haunted by three family members. A woman, probably the original owner's wife dressed in a blue dress, a dark haired attractive man, and a slender tall man with a short hair cut wearing a long john shirt and slacks. Seen frequently in rooms not being used for a period of time and then used again. Ghosts here don't seem to want to be noticed much. These ghosts interact with the surroundings and are quite visible.
+location: The Baumgartner house
+state: Tennessee
+state_abbrev: TN
+longitude: -85.7096229
+latitude: 35.0121139
+city_longitude: -85.70441489999999
+city_latitude: 35.0123024
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

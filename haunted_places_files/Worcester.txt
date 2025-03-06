@@ -1,0 +1,21 @@
+city: Montgomery county
+country: United States
+description: Old Baptist Road Murder House - Reports of orbs, mysterious blue lights, and "Ghost Dogs," surround an abandoned house where an alleged multiple-murder/suicide took place. (A man is supposed to have killed his whole family, a la Amityville Horror.) House is located on Old Baptist Road.
+location: Worcester
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.35287790000001
+latitude: 40.1944656
+city_longitude: -75.3878525
+city_latitude: 40.2290075
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1976/08/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

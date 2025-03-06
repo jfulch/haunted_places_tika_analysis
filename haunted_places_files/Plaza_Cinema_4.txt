@@ -1,0 +1,21 @@
+city: Carlsbad
+country: United States
+description: In theater 3 a female usher was scared out by a rolling trashcan rolling up the hall way while cleaning. The girl also heard a name being whispered in the theater. when she came out to see if it was another employee doing the whispering everyone else was busy. She then started crying and then quit the next day. In theater 4 (the big theater) an usher was cleaning the theater when a large piece of ceiling almost hit him and fell a couple feet from him.
+location: Plaza Cinema 4
+state: California
+state_abbrev: CA
+longitude: -116.967599
+latitude: 32.805374
+city_longitude: -117.3505939
+city_latitude: 33.1580933
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1935/07/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

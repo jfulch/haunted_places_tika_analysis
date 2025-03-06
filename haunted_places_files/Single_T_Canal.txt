@@ -1,0 +1,19 @@
+city: Keyes
+country: United States
+description: A mysterious lady with a bluish glow has been seen roaming the banks of this canal. She has even been known to chase people until they get off the canal bank. Legend has it that the woman died trying to save one of her children caught in one of the irrigation pipes. She is known to locals as The Blue Lady.
+location: Single T Canal
+state: California
+state_abbrev: CA
+city_longitude: -120.9154858
+city_latitude: 37.5565994
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

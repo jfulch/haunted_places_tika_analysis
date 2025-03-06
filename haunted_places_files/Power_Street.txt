@@ -1,0 +1,21 @@
+city: Cumberland
+country: United States
+description: It is believed that a little girl haunts this neighborhood. The people that live there tell at night they hear noises like someone trying to get into doors and windows. If you look out they say you can see where her mother hit her in the head with an axe. It is believed she is hunting the people who did not come to her rescue when her mother was doing this to her.
+location: Power Street
+state: Kentucky
+state_abbrev: KY
+longitude: -82.997427
+latitude: 36.976866
+city_longitude: -82.9884955
+city_latitude: 36.9781475
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1991/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

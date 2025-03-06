@@ -1,0 +1,20 @@
+city: Upton
+country: United States
+description: Reports of creaking floorboards, ghostly moaning, trophies flying, chairs moving. Also in room 113 a younger kid broke in through the window and fell through the floor into the basement breaking his neck. The main stairwell is reported to have footsteps going up and down. Laughter, crying. NOTE: The High School was torn down on 9/15/02. But the site is still haunted.
+location: Old High School Site
+state: Wyoming
+state_abbrev: WY
+longitude: -104.6186341
+latitude: 44.0971193
+city_longitude: -104.6280156
+city_latitude: 44.0997037
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

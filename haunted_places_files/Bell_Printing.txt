@@ -1,0 +1,21 @@
+city: Layton
+country: United States
+description: Bell Printing purchased this building about 3 years ago. A former employee reports the feelings of being watched, apparitions, strange laughing and employees hair being touched.
+location: Bell Printing
+state: Utah
+state_abbrev: UT
+longitude: -111.949176
+latitude: 41.102791
+city_longitude: -111.9710529
+city_latitude: 41.0602216
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

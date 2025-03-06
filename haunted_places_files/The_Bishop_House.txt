@@ -1,0 +1,19 @@
+city: Wilbraham
+country: United States
+description: This 170 year old home is located on a lonely, unlit country road. It’s haunted by several ghost, including a farmer, young boy and two females. Many visitors have experienced ghostly encounters here.
+location: The Bishop House
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -72.431586
+city_latitude: 42.1237206
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

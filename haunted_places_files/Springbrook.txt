@@ -1,0 +1,21 @@
+city: Urbandale
+country: United States
+description: There is a legend told about this scary dead guy called Uncle Charlie.You can see him running through the woods late at night. An elementary school student saw a flesh eaten face at her window staring. If you have a camera i tell you right now don't turn the flash on.? But if you have the flash on you will see a guy standing behind the thing you took a picture of. Late at night you are the only one up you can hear people running and screaming high pitched. Sometimes you can feel cold trembling fingers on you when know one is behind you.? You have your covers torn off by nothing.
+location: Springbrook
+state: Iowa
+state_abbrev: IA
+longitude: -93.8422698
+latitude: 41.6559421
+city_longitude: -93.7121656
+city_latitude: 41.6266555
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

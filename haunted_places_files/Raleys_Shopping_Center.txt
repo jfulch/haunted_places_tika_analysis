@@ -1,0 +1,21 @@
+city: Vallejo
+country: United States
+description: The ghosts of the 1897 trail derailment. In 1897 Vallejo welcomed the Royals of England with a train ride through the Napa Valley. It derailed and Princess Margaret and Princess Marie Elena died instantly as well as 100 of the passengers that accompanied them from the Ride from NY to Vallejo to the Napa Valley. The 100 passengers that traveled with them were the 100 servants of the Princesses of England.
+location: Raley's Shopping Center
+state: California
+state_abbrev: CA
+longitude: -122.253845
+latitude: 38.1324004
+city_longitude: -122.2566367
+city_latitude: 38.1040864
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1897/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

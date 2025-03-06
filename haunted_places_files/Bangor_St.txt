@@ -1,0 +1,21 @@
+city: Kingsburg
+country: United States
+description: The old church on the north side of Bangor St. has been the place of many unnatural occurrences. Lights have been seen in the building even though it has no power. Doors lock and unlock on their own. People have been seen in the windows at night, but during the day the building was boarded up. An old man could be seen on the porch standing against the wall. He would turn and walk through the front doors of the church. Humanoid figures with wings and tails would stand on top of the roof. Something would swing from a rope in the bell tower. You could hear the bell in the bell tower, even though the bell was removed years ago. Windows that were nailed shut would open and close on their own. Children have been seen playing in front of the old building. Glowing orbs have been seen, and strange figures with no faces and no legs below the knee have chased people off the property many time s. -  NOTE: the building was torn down about four years ago and a house built on the property. The house took an extremely long time to build, much longer than it should have taken.
+location: Bangor St.
+state: California
+state_abbrev: CA
+longitude: -119.5576557
+latitude: 36.4668575
+city_longitude: -119.5540175
+city_latitude: 36.5138398
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

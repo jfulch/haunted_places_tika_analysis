@@ -1,0 +1,21 @@
+city: Racine
+country: United States
+description: sometimes at night when the store is dead carts will move from were you put them , can goods will be stacked 10 high , lights flick on and off - June 2008 Investigated and debunked: The faculty said they had never had anything weird happen. After investigating for a length of time, it was easily deemed not haunted, nor was there any paranormal activity whatsoever.
+location: Northside Pick n' Save
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.80727739999999
+latitude: 42.7858872
+city_longitude: -87.78285230000002
+city_latitude: 42.7261309
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

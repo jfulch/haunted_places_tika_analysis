@@ -1,0 +1,19 @@
+city: Marion
+country: United States
+description: Many unexplainable things have happened here. Doors opening and slamming shut by themselves, cooking utensils flying out of their holder for no reason, knobs turned on the oven and coffee maker while no one in the room, fluorescent light bulb bursting even though it wasn't turned on.
+location: group home for disabled adults
+state: Iowa
+state_abbrev: IA
+city_longitude: -91.5968958
+city_latitude: 42.033279
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

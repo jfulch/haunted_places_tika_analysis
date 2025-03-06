@@ -1,0 +1,20 @@
+city: Stark county
+country: United States
+description: Fairmount Children's Home - On Route 183 heading towards Minerva, behind the Fairmount Greenhouse is an old beat down Orphanage. 3 stories off the ground and with a humongous basement that has tunnels leading all over. Going inside the house you will frequently hear voices, footsteps, see people outside while you are inside, feelings of being watched, and see shadows on walls. You just get an overall creepy feeling just by looking at the place.
+location: Alliance
+state: Ohio
+state_abbrev: OH
+longitude: -81.10593089999999
+latitude: 40.9153362
+city_longitude: -81.2518833
+city_latitude: 40.8684676
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

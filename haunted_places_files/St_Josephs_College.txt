@@ -1,0 +1,21 @@
+city: Rensselaer
+country: United States
+description: Theater - There are multiple places on campus that are either haunted or possessed. All in all, this campus may be one of the most haunted in the country. First of all, and the most widely acknowledged among the student body is the theater. Legend has it that one of the many priests on campus hung himself there after an exorcism went awry. Others believe it is a student who didn’t get a part that killed himself, rather than a priest. People still feel things touching them when they are on the catwalk and doors move without reason.
+location: St. Joseph's College
+state: Indiana
+state_abbrev: IN
+longitude: -87.1563334
+latitude: 40.9198658
+city_longitude: -87.15085619999999
+city_latitude: 40.9367045
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

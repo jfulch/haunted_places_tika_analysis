@@ -1,0 +1,20 @@
+city: Mason
+country: United States
+description: a woman was killed in the building on the corner 100 years ago and has been seen walking around on the upper floors.
+location: Mason Montgomery and US 42
+state: Ohio
+state_abbrev: OH
+longitude: -84.3091566
+latitude: 39.3602243
+city_longitude: -84.309939
+city_latitude: 39.3600586
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

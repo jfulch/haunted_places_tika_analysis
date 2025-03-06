@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: Formerly known as the Hampton House. It was habited by the Hampton Family in the 1800's. The house had many parties and balls there. Mrs. Hampton always burned a lamp in the second floor window when Mr. Hampton was not home. The lamp still burns at night when no one is they're watching for Mr. Hampton to come home. The elevator, which was installed after their deaths, goes up and down the 3 story building and opens at every floor as if someone is looking for someone. The spirit of Mrs. Hampton can be seen at times walking the halls of the house.
+location: The Deaf Community Center, Inc.
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7536466
+latitude: 38.2385407
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/02/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

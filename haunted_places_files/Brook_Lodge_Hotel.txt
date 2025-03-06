@@ -1,0 +1,19 @@
+city: Augusta
+country: United States
+description: Hotel now owned by Michigan State University.  Originally the Upjohn Family (of Upjohn Pharmaceauticals - since bought by Pharmacia and later Pfizer) summer residence.  Dr. Upjohn died in the Doctor's Cottage - a beautiful, upscale large cottage on the edge of the creek, surrounded by his japanese garden. Guests in staying in the cottage have told staff they hear footsteps and no one is there.  It's not uncommon for guests staying in the Doctor's Cottage to go to the front desk during the night to request to be moved to another room due to the strange noises and feelings of uneasiness. Hotel staff have said they hear the piano playing when alone in the Doctor's cottage, closing up after events- and yet they are the only people there. Guests staying in the carriage house have reported hearing piano music during the night - but the only piano currently on property is too far away to be heard there.
+location: Brook Lodge Hotel
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.35222189999999
+city_latitude: 42.3364294
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1564/10/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 1

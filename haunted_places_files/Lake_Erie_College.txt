@@ -1,0 +1,20 @@
+city: Painesville
+country: United States
+description: Morley Music Hall - It is said that Mrs. Morley and maybe even Mr. Morley still visit. Sometimes even Stephanie. Mostly Mrs. Morley. One time she yelled at the security guard to get out really loud. Others have heard footsteps and even a piano playing downstairs, but when they go investigate no one is there. Others have felt hot or chilling drafts or spots.
+location: Lake Erie College
+state: Ohio
+state_abbrev: OH
+longitude: -81.2513355
+latitude: 41.7163857
+city_longitude: -81.245657
+city_latitude: 41.7244885
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1931/11/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

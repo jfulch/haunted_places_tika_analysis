@@ -1,0 +1,21 @@
+city: Avon
+country: United States
+description: a railway bridge over White Lick Creek. The ghost of a construction worker from when the bridge was built, and the sounds of a baby crying, supposedly from an incident during which a baby was inadvertently dropped into the creek from the bridge.
+location: The Haunted Bridge
+state: Indiana
+state_abbrev: IN
+longitude: -86.4136985
+latitude: 39.75784489999999
+city_longitude: -86.3997167
+city_latitude: 39.7628227
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

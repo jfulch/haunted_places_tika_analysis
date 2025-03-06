@@ -1,0 +1,19 @@
+city: Newport
+country: United States
+description: This large home, now used as an inn, is haunted by a female spirit that is supposedly related to the house's builder, Mr. Agassiz. The ghost has appeared to various staff members over the last 25 years and has even been known to throw china in the pantry.
+location: Agassiz Mansion on Castle Hill
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.36102650000001
+latitude: 41.4627258
+city_longitude: -71.3128285
+city_latitude: 41.4901024
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Crookston
+country: United States
+description: McCall Hall - A former resident claims always being able to hear people laughing and stomping in the hall with no one there when you would open the door. Also hearing their door open and then shut again and seeing apparitions of a girl. This building is one of the oldest on campus and used to be used to house students when it was an agricultural high school, the building is about 100 yrs old who knows if it is drafts or someone who doesn’twant to leave the building.
+location: University of Minnesota
+state: Minnesota
+state_abbrev: MN
+longitude: -96.6072394
+latitude: 47.7998548
+city_longitude: -96.6093911
+city_latitude: 47.7745617
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1894/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

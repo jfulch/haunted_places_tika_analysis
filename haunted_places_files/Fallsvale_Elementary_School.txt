@@ -1,0 +1,21 @@
+city: Forest Falls
+country: United States
+description: Many sightings of the "Ghost Children" have occurred over the years in the forest that surrounds the school and the fenced old school that remains on the same property. Most children who attend the school seem to accept their presence. It's not uncommon to hear the children address them by name. The old school a great historical landmark, is securely fenced and prohibits any public admission.
+location: Fallsvale Elementary School
+state: California
+state_abbrev: CA
+longitude: -116.9188285
+latitude: 34.0878916
+city_longitude: -116.9203046
+city_latitude: 34.0883449
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

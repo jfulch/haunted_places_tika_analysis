@@ -1,0 +1,19 @@
+city: Devour
+country: United States
+description: the place was being cleaned because of new owners. A worker decided to stay the night to get a very early start in the morning. That night he heard noises, the fire pit turned on all by itself, the lights flickered and shook, he decided to stay outside on the cement. the next day the other workers heard the story when they where cleaning up and in the bar and they found an urn of an old truck driver who visited frequently.
+location: Treehouse Fun Ranch
+state: California
+state_abbrev: CA
+city_longitude: -117.4105251
+city_latitude: 34.2334918
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

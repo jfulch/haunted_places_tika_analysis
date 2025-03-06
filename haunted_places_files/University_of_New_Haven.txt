@@ -1,0 +1,20 @@
+city: West Haven
+country: United States
+description: Maxxy Hall - use to be an orphanage where some children were abused to death. Many have said that they hear the children cry at night.
+location: University of New Haven
+state: Connecticut
+state_abbrev: CT
+longitude: -72.9616437
+latitude: 41.2907035
+city_longitude: -72.9469711
+city_latitude: 41.2705484
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

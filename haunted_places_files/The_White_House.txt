@@ -1,0 +1,21 @@
+city: Wilmington
+country: United States
+description: The White House, a hotel, is said to be haunted by quite a few spirits. One is that of an old maid who used to work there. Also some say that there are hidden passages that one can find if they look hard enough.
+location: The White House
+state: Vermont
+state_abbrev: VT
+longitude: -72.8543834
+latitude: 42.8639213
+city_longitude: -72.8714468
+city_latitude: 42.8683889
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1600/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

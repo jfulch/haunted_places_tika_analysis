@@ -1,0 +1,21 @@
+city: Meadville
+country: United States
+description: There have been sightings of ghost that died in many reasons. They have been known to roam the theatre.
+location: Academy Theatre
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.1521651
+latitude: 41.6382432
+city_longitude: -80.15144839999999
+city_latitude: 41.6414438
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Oxford
+country: United States
+description: Locals rumor that there is an old white church house beyond the old High School building, in which several women were executed as witches by a vigilante group, similar to the Bald Knobbers. The inside of the building is inaccessible, due to a rotting floor. However, several adventurous souls have confirmed the old-timer's stories, that from the churchyard, a shadow of a rope can sometimes be seen. One such story involves a couple of high school girls who journeyed out there to take names and dates off the old tombstones for a research project. Not aware of the stories, they thought they could hear cries for help, but being near an open field, they could see there was no one around. They decided to explore inside the building, and reported seeing a rope hanging from the ceiling. However, one of the girl’s feet broke through a floorboard. They were frightened by a sen se of danger beyond the building's decaying condition and a colony of vicious yellow jackets. Something threatening wanted them to go away. They jumped in the car, leaving without the needed historical information they had come for. They told their teacher later that "…there is something wrong with that place. Something really bad and wrong." They were told later that the area all around the old high school was a place rumored to be a witch-hunt site.
+location: Old Church House and Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -94.0295584
+latitude: 36.1020005
+city_longitude: -91.9293165
+city_latitude: 36.2211783
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1954/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

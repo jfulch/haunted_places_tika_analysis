@@ -1,0 +1,19 @@
+city: Argonne
+country: United States
+description: Back in the 1950's, a janitor hung himself in the upstairs storage room. When he school finally closed in the early 1990's, kids would go up on a dare to write their name on the wall, and would see a man plain as day hanging from the rafter, and even if they didn't see him they would hear the sounds of the rose squeaking on the boards and of the janitor moaning.- January 2006 Update: The school was condemned in the early 1990's, and a few years ago it was torn down, but some people still see lights there late at night.
+location: Old Argonne Grade School
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -88.8792825
+city_latitude: 45.6596839
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

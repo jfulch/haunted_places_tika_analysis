@@ -1,0 +1,21 @@
+city: Gainesville
+country: United States
+description: After hours the apparition of a young brown haired girl is seen. Books also tumble off the shelves. The library was built on the site of a hotel where a murder may have occurred.
+location: Chestatee Regional Library
+state: Georgia
+state_abbrev: GA
+longitude: -84.1083733
+latitude: 34.4187883
+city_longitude: -83.8240663
+city_latitude: 34.2978794
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

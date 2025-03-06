@@ -1,0 +1,20 @@
+city: Jefferson City
+country: United States
+description: The second bridge on Old 94 highway is hard to find, but does exist. Local rumor has it that during the Civil War, an entire family of white abolitionists were hung on the bridge, including their young twin son and daughter, who were no more than 7 or 8. Sounds of screaming can be heard, as well as children laughing, and wet footprints have been reported appearing in front of cars on the bridge.
+location: Old 94 Bridge
+state: Missouri
+state_abbrev: MO
+longitude: -94.5943364
+latitude: 39.0506518
+city_longitude: -92.1735164
+city_latitude: 38.57670170000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

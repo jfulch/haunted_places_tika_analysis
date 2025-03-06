@@ -1,0 +1,21 @@
+city: Indiana
+country: United States
+description: Waller Hall Building - Ghost of a little girl, "Sarah", who drowned in the pool before it was taken out and the building made the theatre department.  She's often seen sitting in the grid above the main stage during productions watching the show or playing in a corner.  Also a "bad presence" of an older gentleman often causing things to move or doors to bang, especially in the studio theatre or props loft in the basement of the building.
+location: IUP Campus
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.1614562
+latitude: 40.6137192
+city_longitude: -79.15253489999999
+city_latitude: 40.6214551
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1867/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

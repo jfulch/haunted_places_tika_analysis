@@ -1,0 +1,21 @@
+city: Wilsonville
+country: United States
+description: Damish is an old insane asylum that has reports of seeing a man walking around with mo flashlight in the middle of the night. There were also reports of people being raped while staying in the hospital. - March 2008 Update was torn down a little over 3 years ago.
+location: Damish Hospital
+state: Oregon
+state_abbrev: OR
+longitude: -122.8036791
+latitude: 45.3047801
+city_longitude: -122.7737062
+city_latitude: 45.2998418
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1928/04/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: the hospital has spirits such as nurses, doctors, and patients that still roam its halls. Many have gone into this establishment and have had their own personal experiences such as being watched, seeing shadows, and smelling sterilization solutions in certain spots. The spirits are restless and have been agitated from all of the visitors they've been receiving. It was built upon a site of about 3,000 graves of civil war and yellow fever victims, from when it was a cemetery in the 1800's. It is now patrolled fairly heavily by the local fire department, which is right next door. Explores/ghost hunters suggest that it not be visited unless you are with a fairly large group that can respect their domain. - !!Warning!! As with any abandoned building, they may be structurally unsound or you can find yourself being robbed as these kids did or much worse. abclocal.go.com/ktrk/news/80103_local_teenscare.html - April 2005 Update: The building is currently getting renovated.
+location: Jefferson Davis hospital
+state: Texas
+state_abbrev: TX
+longitude: -95.3679963
+latitude: 29.7687673
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

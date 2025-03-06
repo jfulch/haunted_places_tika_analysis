@@ -1,0 +1,19 @@
+city: Brazil
+country: United States
+description: A ghost of a father looking for the head of his daughter. A car flashes it's headlights three times and a light can be seen coming down the road and "scanning" the area.
+location: Spook Light Hill
+state: Indiana
+state_abbrev: IN
+city_longitude: -87.1250154
+city_latitude: 39.523652
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

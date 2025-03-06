@@ -1,0 +1,21 @@
+city: Brea
+country: United States
+description: Employees have reported that during late hours, frozen food would get launched across the kitchen. After about 15 minutes, a loud laughter would come about scaring the employees. One night, the refrigerator door flew open and someone or something threw out all the food on to the floor and also weird shadows were seen on the walls.
+location: Breas Best
+state: California
+state_abbrev: CA
+longitude: -117.904405
+latitude: 33.9096168
+city_longitude: -117.9002918
+city_latitude: 33.916475
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

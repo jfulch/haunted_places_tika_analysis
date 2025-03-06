@@ -1,0 +1,21 @@
+city: Doylestown
+country: United States
+description: Almshouse Rd. and Rt. 611. The complex was used as the Bucks County Almshouse from 1810 to 1966. Several of the old buildings are still standing. People are said to have seen apparitions in and around the old buildings on the complex.
+location: Neshaminy Manor Center
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.1336675
+latitude: 40.2673616
+city_longitude: -75.1298939
+city_latitude: 40.3101063
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1810/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

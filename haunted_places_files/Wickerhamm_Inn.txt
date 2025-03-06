@@ -1,0 +1,18 @@
+city: Peebles
+country: United States
+description: In the 1800's a man stayed in the Inn and in the morning he didn't show up for breakfast and the person who owned the Inn went to find him and when she got in his room there were bloodstains on the floor (which are still there) but they didn't find the body. Years later they were remodeling and pulled up a floor board in that room and found a skeleton with out a skull. It was the man's, the man that died haunts the house looking for his head. ( Things that were reported are sounds of footsteps going up the stairs and piano playing bye itself )
+location: Wickerhamm Inn
+state: Ohio
+state_abbrev: OH
+city_longitude: -83.40574579999999
+city_latitude: 38.9489593
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

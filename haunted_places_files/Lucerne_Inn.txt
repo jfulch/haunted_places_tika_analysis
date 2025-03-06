@@ -1,0 +1,21 @@
+city: Lucerne
+country: United States
+description: Shadows on the wall, footsteps, a woman and a child talking outside of the door when there is no one there, some one always watching over you.
+location: Lucerne Inn
+state: Maine
+state_abbrev: ME
+longitude: -68.59935879999999
+latitude: 44.7024274
+city_longitude: -68.59935879999999
+city_latitude: 44.7024274
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

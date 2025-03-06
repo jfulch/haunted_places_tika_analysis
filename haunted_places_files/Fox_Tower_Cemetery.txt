@@ -1,0 +1,19 @@
+city: Vanderbilt
+country: United States
+description: A small cemetery with few graves. Upon passing through the gate the air temp feels a lot cooler. At night, you can hear footsteps throughout the cemetery, yet no one is around. A few ghostly sightings have occurred, however only the people who live around the cemetery have seen anything.
+location: Fox Tower Cemetery
+state: Michigan
+state_abbrev: MI
+city_longitude: -84.6603091
+city_latitude: 45.14279030000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

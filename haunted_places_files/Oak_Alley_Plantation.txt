@@ -1,0 +1,21 @@
+city: Vacherie
+country: United States
+description: The daughter of the plantation owner fell down the stairs and had to have her leg amputated when she was injured from her hoped skirt. When walking on the stairs witnesses have reported a pinch in their leg where the girl was hurt. The ghost of the wife of the plantation owner can be seen riding her horse through the long alley of oak trees in the front of the house looking for her husband.
+location: Oak Alley Plantation
+state: Louisiana
+state_abbrev: LA
+longitude: -90.7759496
+latitude: 30.0042498
+city_longitude: -90.7197143
+city_latitude: 30.0110809
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

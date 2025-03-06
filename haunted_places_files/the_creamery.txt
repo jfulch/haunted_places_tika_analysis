@@ -1,0 +1,19 @@
+city: Protivin
+country: United States
+description: witnesses have seen a face in the window. There has been Other reporting of strange noises and movements. A long time ago part of it burned down killing 2 people inside.
+location: the creamery
+state: Iowa
+state_abbrev: IA
+city_longitude: -92.0910011
+city_latitude: 43.2160819
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

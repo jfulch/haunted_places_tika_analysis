@@ -1,0 +1,21 @@
+city: Kearney
+country: United States
+description: The Auditorium at KHS is haunted by two ghosts. The first, more active ghost, is named Walt. He is benevolent, if you treat him right. The theatre has a 'ghost light' that remains on all the time, except during performances. If the light ever goes out at night, the next practice or performance will have something bad happen. Good examples of this would be costumes going missing just before the show, or an actress breaking her ankle backstage. The other, more well-known haunt is affectionately referred to as 'The Who.' Up in the very top of the Auditorium, backstage, near the rafters, the logo for the band of the same name mysteriously appeared one night. There is no way up to the rafters, nor is there any ladder in the school tall enough to reach there, not even the ones used for hanging the lights. Other disturbances related to The Who are the odd, rather loud moaning sounds that people dismiss as the wind, before they go outside and find it to be a calm night.
+location: Kearney Senior High School
+state: Nebraska
+state_abbrev: NE
+longitude: -99.1219042
+latitude: 40.6836369
+city_longitude: -99.0816784
+city_latitude: 40.69933030000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1964/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

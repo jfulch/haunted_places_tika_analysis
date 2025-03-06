@@ -1,0 +1,21 @@
+city: Pensacola
+country: United States
+description: There is a story about the light house on the navy base (NAS) being haunted by the former keeper. People have felt cold spots while touring the light house.
+location: Light House
+state: Florida
+state_abbrev: FL
+longitude: -87.3080801
+latitude: 30.3461291
+city_longitude: -87.2169149
+city_latitude: 30.42130899999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

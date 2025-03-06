@@ -1,0 +1,21 @@
+city: Shiloh
+country: United States
+description: On the battlefield, there is a pond known as "The Bloody Pond" where many injured and dying soldiers went to cool their thirst during the heat of the day, during the Battle of Shiloh. It is said that, on certain days, when the sun hits just right, the water looks blood red; Just as it did during that battle. There is also the ghost of a woman in a white dress, possibly the wife of one of the soldiers or officers that helped nurse the men. She appears to women and children who become lost and become saddened or frightened by the battlefield. She is a helpful spirit who tries to calm and soothe those who are in need of comfort or help, but quickly disappears when someone else comes upon her and the person she is trying to help.
+location: Shiloh Battlefield
+state: Tennessee
+state_abbrev: TN
+longitude: -88.3223333
+latitude: 35.1513467
+city_longitude: -88.36170849999999
+city_latitude: 35.1153617
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 0

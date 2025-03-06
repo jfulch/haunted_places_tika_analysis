@@ -1,0 +1,20 @@
+city: Greenville
+country: United States
+description: it is said to be old burial grounds now newly built on it is said that many houses have hauntings as well as dark black figures will follow you down the road when walking late at night when you start to run from the figure behind you one will come from the front and they will try to chase you off there grounds
+location: McMecham road
+state: Ohio
+state_abbrev: OH
+longitude: -84.68474909999999
+latitude: 40.1537436
+city_longitude: -84.63301150000001
+city_latitude: 40.1028264
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

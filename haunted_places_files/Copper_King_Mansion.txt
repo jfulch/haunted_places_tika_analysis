@@ -1,0 +1,21 @@
+city: Butte
+country: United States
+description: Doors open and close and will be found locked when no one has touched them. And one of the rooms is always around 53 degrees, even if the rest of the mansion is warm.
+location: Copper King Mansion
+state: Montana
+state_abbrev: MT
+longitude: -112.540233
+latitude: 46.014405
+city_longitude: -112.5347775
+city_latitude: 46.0038232
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

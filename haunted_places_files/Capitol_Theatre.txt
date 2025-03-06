@@ -1,0 +1,21 @@
+city: Yakima
+country: United States
+description: Well there has been many reports of people seeing and hearing things in the theatre. A lot of the time things happen at night during clean-up after a show. It has been said that there is only one that they know of and he loves the theatre. He doesn't bother or hurt anyone but loves to give people a little spook.
+location: Capitol Theatre
+state: Washington
+state_abbrev: WA
+longitude: -120.5021549
+latitude: 46.602417
+city_longitude: -120.5058987
+city_latitude: 46.6020711
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Sugar Valley
+country: United States
+description: always had spiritual activity in the gym/stage area. Although nothing bad had ever happened there, we always knew something was there. It manifested itself by knocking over chairs, and equipment. Banging and clanging. It was never seen, only heard and felt.
+location: The Sugar Valley Elementary School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.2982239
+latitude: 41.0356123
+city_longitude: -77.2982239
+city_latitude: 41.0356123
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

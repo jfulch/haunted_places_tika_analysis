@@ -1,0 +1,21 @@
+city: Closplint
+country: United States
+description: it is said that on a late night when you are all alone, there is a woman that appears and in a split second as she holds your attention you wreck...it is said that the woman died after being ran off the rode at the curb and keeps coming back to get her revenge.
+location: the child's creek bridge
+state: Kentucky
+state_abbrev: KY
+longitude: -83.0637507
+latitude: 36.8874928
+city_longitude: -83.0689781
+city_latitude: 36.9039463
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1992/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

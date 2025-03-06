@@ -1,0 +1,21 @@
+city: Bend
+country: United States
+description: In the forest of the Yardley estates their is noises heard in the forests and some times if your playing games in the forest things will growl deeper then even a bear. Also you can hear footsteps coming near and more near you.
+location: Yardley estates
+state: Oregon
+state_abbrev: OR
+longitude: -121.3108576
+latitude: 44.0461017
+city_longitude: -121.3153096
+city_latitude: 44.0581728
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1770/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

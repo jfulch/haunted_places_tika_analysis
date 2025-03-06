@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: A young lady haunts railroad tracks. Her husband was killed on the way home from the war on the train. She was so devastated she stood on the tracks in front of a train. You have to go to the tracks and Stop on the tracks turn your vehicle off and honk your horn three times. Then you look down the tracks to see her searching for her husband you won't see her only her lantern. It will be several different colors.
+location: Armstrong Rd.
+state: Mississippi
+state_abbrev: MS
+longitude: -88.349632
+latitude: 33.4856658
+city_longitude: -88.4272627
+city_latitude: 33.4956744
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

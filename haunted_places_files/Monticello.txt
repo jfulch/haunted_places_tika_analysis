@@ -1,0 +1,21 @@
+city: Charlottesville
+country: United States
+description: home Thomas Jefferson - Monticello employees have often heard him whistling on the grounds, as he was know to do during his living days. Apparitions of a 10 year old boy wearing a uniform and a tri-cornered hat peering out a 2nd floor window. During the house tour the tour guide said that no one was allowed upstairs because of the fire codes. They knew nothing of the boy.
+location: Monticello
+state: Virginia
+state_abbrev: VA
+longitude: -78.4531994
+latitude: 38.0086043
+city_longitude: -78.47667810000002
+city_latitude: 38.0293059
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1743/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

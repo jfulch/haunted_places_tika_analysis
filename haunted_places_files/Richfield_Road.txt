@@ -1,0 +1,21 @@
+city: Greensboro
+country: United States
+description: It is said that a lady died on this road a long time ago, and if you go down this road, there is a place where you stop your car and put it in neutral. The lady then comes out and pushes your car down the road a little ways, and if you are to put baby powder or flower on the back of your car, "sometimes" you can see her hand prints on the back of the car.
+location: Richfield Road
+state: North Carolina
+state_abbrev: NC
+longitude: -79.86039889999999
+latitude: 36.1292883
+city_longitude: -79.7919754
+city_latitude: 36.0726354
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1918/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

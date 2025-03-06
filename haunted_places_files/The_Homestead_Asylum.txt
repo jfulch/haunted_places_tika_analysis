@@ -1,0 +1,21 @@
+city: Barkersville
+country: United States
+description: It was a hospital for patients with TB. The place is rumored to still be inhabited by the spirits of the dead.
+location: The Homestead Asylum
+state: New York
+state_abbrev: NY
+longitude: -74.02096949999999
+latitude: 43.10336789999999
+city_longitude: -74.0395723
+city_latitude: 43.0884072
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1619/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

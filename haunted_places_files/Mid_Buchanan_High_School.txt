@@ -1,0 +1,20 @@
+city: Faucett
+country: United States
+description: Locker Doors open and close on their own. In the high school art room many hear the sounds of a young girl crying. Many young high school kids from this school died in car wrecks, swimming accidents, electrical shock, and other mysterious accidents.
+location: Mid-Buchanan High School
+state: Missouri
+state_abbrev: MO
+longitude: -94.813378
+latitude: 39.633016
+city_longitude: -94.7988868
+city_latitude: 39.5997974
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

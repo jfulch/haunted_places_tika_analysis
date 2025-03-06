@@ -1,0 +1,21 @@
+city: Emmsworth
+country: United States
+description: Used for mentally challenged patients in the 1800's and was taken over in a rebellion by the patients. Since, apparitions can be seen wandering the grounds, lights flicker, unexplained noises, doors slamming, cold spots add to the already eerie feeling.- December 2003 Update: There is a house where a security guard lives near the site. He will give you permission to walk around up there but only in daylight hours. During the night you it will be considered trespassing. - April 2007 Update - This was tore down to make room for a new Wal-Mart.
+location: Dixmont Mental Institution
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.5979325
+latitude: 40.9528086
+city_longitude: -80.09450059999999
+city_latitude: 40.5100684
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

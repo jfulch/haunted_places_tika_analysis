@@ -1,0 +1,21 @@
+city: Stevenson Ranch
+country: United States
+description: Was once a little town located in the mountains. In the late 1800s a local dam broke and killed a lot of people from all over. A lot of people were found in the tall, old oak tress dead. You can see people dressed in very old western clothing, people in the oak tress, and you can hear people talking.
+location: Mettryville
+state: California
+state_abbrev: CA
+longitude: -118.6110163
+latitude: 34.3791724
+city_longitude: -118.5907538
+city_latitude: 34.3931105
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

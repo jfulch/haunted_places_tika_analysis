@@ -1,0 +1,21 @@
+city: Wagoner
+country: United States
+description: A kind elderly ghost named Henry haunts this store. He reportedly owned the store (it was a drug store then), and killed himself there after learning he had a terminal illness. The next owners (my parents) saw his form several times. His shadow would appear over you if you stood in the bathroom with your back towards the door. He wandered the aisles, disappearing when he stepped into the lights. He seemed to enjoy hiding the tools and measuring tapes, and he would constantly tug at the kid’s ponytails Canada
+location: Lee’s True Value Hardware store
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.2452001
+latitude: 35.7874585
+city_longitude: -95.3694116
+city_latitude: 35.9595442
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/02/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

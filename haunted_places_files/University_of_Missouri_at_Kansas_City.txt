@@ -1,0 +1,20 @@
+city: Kansas City
+country: United States
+description: Epperson Hall - This house, now the architecture school at the University of Missouri at Kansas City, has been haunted by a young woman for many years. The house was formerly owned by a local businessman and his daughter-in-law killed herself in the attic when she was banned from dating a man who worked on the docks. Police and students experience cold spots, apparitions, and lights coming off and on, among other things. The house has been on Unsolved Mysteries and is on the National Register of Haunted Houses.
+location: University of Missouri at Kansas City
+state: Missouri
+state_abbrev: MO
+longitude: -94.5760259
+latitude: 39.0335539
+city_longitude: -94.5785667
+city_latitude: 39.0997265
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/04/12
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

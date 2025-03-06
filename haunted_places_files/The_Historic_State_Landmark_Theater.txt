@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: Was once a College of the Performing Arts, and it has been reputedly haunted by the benevolent spirit of its founder, Gilmore Brown. Long after his death, and when the college was still operating; the elevator in the classroom tower building would often stop without command on the floor where Mr. Brown's office was located. Many actors and technicians have felt a spirit watching the proceedings and one evening.
+location: The Historic State Landmark Theater
+state: California
+state_abbrev: CA
+longitude: -118.1609434
+latitude: 34.1516331
+city_longitude: -118.1445155
+city_latitude: 34.1477849
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

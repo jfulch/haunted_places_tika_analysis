@@ -1,0 +1,21 @@
+city: Shirley
+country: United States
+description: A room in the local park police station is believed to be a haunted by an unknown ghost. Strange occurrences and weird noises have emitted from this room and for this reason it is unused and kept closed.
+location: South Haven Park
+state: New York
+state_abbrev: NY
+longitude: -72.88620159999999
+latitude: 40.8090335
+city_longitude: -72.8676033
+city_latitude: 40.8014876
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

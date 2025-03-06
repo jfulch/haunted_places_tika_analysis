@@ -1,0 +1,21 @@
+city: Georgetown
+country: United States
+description: La Salette was actually a college back years ago...The Dean Of The College committed suicide...there after retired priests moved into the dorms, and when they passed away they were buried on the property, eventually they were (supposedly) moved... sometimes when you walk onto the property, you can here footsteps walk beside you. Witnesses have seen the sighting of a ghost man in all black walking towards me...In the gym you can also here footsteps...all in all, it’s a very wicked place. Georgetown has very old cemeteries back in the country, some dating back to the later half of the 1700`s.
+location: La Salette Retreat Seminary
+state: Illinois
+state_abbrev: IL
+longitude: -87.6438838
+latitude: 39.9404639
+city_longitude: -87.6358546
+city_latitude: 39.97531439999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1846/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Wakpala
+country: United States
+description: It is to be said that you can hear basketball and people running up and down the old court. Also you can hear little kids playing in the classrooms. And sometimes in the gym. Also the boiler room you get a strange feeling like someone is behind you watching you until you leave the room.
+location: Old School
+state: South Dakota
+state_abbrev: SD
+longitude: -100.5224535
+latitude: 45.6250448
+city_longitude: -100.5363712
+city_latitude: 45.6571949
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

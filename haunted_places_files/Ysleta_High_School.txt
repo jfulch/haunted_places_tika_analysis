@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: There seems to be a lot of ghosts in that school. A cheerleader in one of the restrooms committed suicide after her boyfriend broke up with her and every night she seems to appear in there. According to one of the teachers, she saw a little girl in front of her and all of the sudden disappeared. Students went there on Thursday July the 18, and four of the girls heard the horse of the horse rider around the stadium. Then they heard a girl screaming in the old gym. In the Auditorium there seems to appear a little boy that died when he fell of the stage. And there's a janitor that appears there too.
+location: Ysleta High School
+state: Texas
+state_abbrev: TX
+longitude: -106.3415078
+latitude: 31.699902
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

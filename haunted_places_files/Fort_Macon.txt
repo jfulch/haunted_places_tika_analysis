@@ -1,0 +1,21 @@
+city: Atlantic Beach
+country: United States
+description: There is said to believe that civil war ghosts haunt the top of the fort and watch for the union soldiers to attack. And there have been accounts on which during World War 2 the main gate was closed on it own while the guards were keeping watch on the place.
+location: Fort Macon
+state: North Carolina
+state_abbrev: NC
+longitude: -76.67866939999999
+latitude: 34.69714039999999
+city_longitude: -76.7402108
+city_latitude: 34.6990505
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

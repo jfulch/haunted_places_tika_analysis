@@ -1,0 +1,21 @@
+city: Jamestown
+country: United States
+description: This Cemetery is very old.1700-1800s. There have been reports of a headless horseman chasing young girls. Animal bones lying around. Calls for help. Weird noises like someone knocking on a coffin. Babies crying. Children laughing. And a kick ball rolling around. Many of the people that died here were children of large families. The cemetery is very small only containing about 15 gravestones. There has also been spotted of what appears to be a fire further off in the woods.
+location: Hollen Beck Cemetery
+state: New York
+state_abbrev: NY
+longitude: -79.23880559999999
+latitude: 42.1148381
+city_longitude: -79.23532589999999
+city_latitude: 42.0970023
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

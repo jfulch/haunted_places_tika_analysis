@@ -1,0 +1,20 @@
+city: Ashland
+country: United States
+description: by the pond there is an old brown bridge that a girl somewhere around 1990 hung herself, due to her boyfriend cheating on her, or liking another girl, they say she may have been helped, and can be seen at night running by the pond.
+location: Brookside Park
+state: Ohio
+state_abbrev: OH
+longitude: -82.3295894
+latitude: 40.871944
+city_longitude: -82.3182178
+city_latitude: 40.8686675
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1754/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

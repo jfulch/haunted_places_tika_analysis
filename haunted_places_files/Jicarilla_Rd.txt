@@ -1,0 +1,21 @@
+city: Apple Valley
+country: United States
+description: Witnesses have seen a shape of a man run across the street super fast and it starts chasing you then it disappears at a certain point.
+location: Jicarilla Rd.
+state: California
+state_abbrev: CA
+longitude: -117.2025268
+latitude: 34.5070847
+city_longitude: -117.1858759
+city_latitude: 34.5008311
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

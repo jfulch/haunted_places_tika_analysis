@@ -1,0 +1,21 @@
+city: Gig Harbor
+country: United States
+description: An observer will notice an energy about the grange. Along with late evening lights being turned off & on as if to draw attention to itself. The drop off recycle bins surrounding the grange often is disheveled overnight and creep-out other would be recyclers. One of the former grange office holders is believed to be unhappy with the unsightly recycle bins.
+location: Gig Harbor Grange
+state: Washington
+state_abbrev: WA
+longitude: -122.6108804
+latitude: 47.3028929
+city_longitude: -122.5801293
+city_latitude: 47.32926399999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/07/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

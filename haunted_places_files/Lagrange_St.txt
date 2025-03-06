@@ -1,0 +1,21 @@
+city: West Roxbury
+country: United States
+description: November 2005 removal: This has been removed as it is a private residence.
+location: Lagrange St.
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1657354
+latitude: 42.2879209
+city_longitude: -71.1626756
+city_latitude: 42.2797554
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

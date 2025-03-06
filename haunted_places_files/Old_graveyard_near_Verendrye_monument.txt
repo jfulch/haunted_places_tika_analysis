@@ -1,0 +1,20 @@
+city: Fort Pierre
+country: United States
+description: Reports of voices and whispering is said to have taken place here. a lot of strange activity. eerie light and reflections.
+location: Old graveyard near Verendrye monument
+state: South Dakota
+state_abbrev: SD
+longitude: -100.3783236
+latitude: 44.3553444
+city_longitude: -100.3737447
+city_latitude: 44.3535933
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Key West
+country: United States
+description: Haunted by several. First, by the ghost of a man who almost single handedly drove the pirates out of Key West. Very angry spirit. When there is no wind, there is said to be seen whirlwinds through a tree next to his grave. Also, he has attacked several visitors to the cemetery. The Ghost Tour does not bring tours into the cemetery any more because of him. The second haunting is a group of children who died in a fire across a small alleyway from the cemetery. The fire was started by the pastor of the church to kill his wife, who was having an affair with the deacon. He started the fire while a Sunday school class was taking place, killing all in there. If you go into the cemetery and sit quietly in the corner where they are buried, you can faintly hear the sounds of children playing. Smoking in the cemetery upsets the children.
+location: Cemetery behind St. Paul's Church
+state: Florida
+state_abbrev: FL
+longitude: -81.803223
+latitude: 24.55668
+city_longitude: -81.7799871
+city_latitude: 24.5550593
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

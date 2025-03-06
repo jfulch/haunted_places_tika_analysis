@@ -1,0 +1,21 @@
+city: Beaverton
+country: United States
+description: This old discount theatre has had strange poltergist activity for years. In 1994 during renovation work crews were "persued" by a ominous creature that liked to play evil pranks and stalk the workers. Several workers quit due to the strange happenings around them and refused to come back to the location. And to this day strange occurances still happen to workers and visitors at this old theatre.
+location: Valley Theatre
+state: Oregon
+state_abbrev: OR
+longitude: -122.773093
+latitude: 45.484128
+city_longitude: -122.8037102
+city_latitude: 45.48706199999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1994/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

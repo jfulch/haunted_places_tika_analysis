@@ -1,0 +1,18 @@
+city: Susquehanna
+country: United States
+description: Witnesses report a green orb rising from the water and coming towards them. The area had a general feeling of uneasiness as well. It is completely secluded and takes about an hour to reach from town.
+location: Backroads' lake
+state: Missouri
+state_abbrev: MO
+city_longitude: -94.3863752
+city_latitude: 39.1173514
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

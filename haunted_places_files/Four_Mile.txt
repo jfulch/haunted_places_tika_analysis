@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: There was a 16teen year old girl raped and murdered near the Four Mile bridge, they call her little Egypt, if you go to the bridge on a rainy night right before dark call her name three times crack the two front windows she will come into the car as a puff of wind, and ride with you to see if you are the people that killed her, if not she will get out. They say if you don't crack the windows she cant get out and she will wreck the car.
+location: Four Mile
+state: Kentucky
+state_abbrev: KY
+longitude: -84.235761
+latitude: 37.767026
+city_longitude: -84.2946539
+city_latitude: 37.7478572
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Newport
+country: United States
+description: The lighthouse is haunted by a ghost named Muriel Trevenard. She was visiting the lighthouse with some friends from the valley. They looked around. Then left. Muriel then realized she left her handkerchief in the kitchen. She told her friend Harold she'd be right back and come out through the kitchen. He let her go. Then he heard her scream he ran to the kitchen door, but it was locked. he went to the front of the house and ran to the kitchen. Muriel wasn't anywhere in sight. -  March 2005 Update/Correction: When you visit the lighthouse, it is stated that the story of the haunting is a work of fiction. For more information please visit Yaquina Bay Lighthouse, Newport, Oregon
+location: Yaquina Bay Lighthouse
+state: Oregon
+state_abbrev: OR
+longitude: -124.079418
+latitude: 44.6767823
+city_longitude: -124.0534505
+city_latitude: 44.6367836
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

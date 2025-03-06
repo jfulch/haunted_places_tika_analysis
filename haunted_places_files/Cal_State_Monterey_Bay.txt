@@ -1,0 +1,21 @@
+city: Seaside
+country: United States
+description: Built on the old army base of Fort Ord, students have herd disembodied breathing or voices. The old army prison and Officers Mansion are said to be haunted as well.
+location: Cal. State Monterey Bay
+state: California
+state_abbrev: CA
+longitude: -121.7981631
+latitude: 36.6529218
+city_longitude: -121.822098
+city_latitude: 36.6149217
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

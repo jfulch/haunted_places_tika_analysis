@@ -1,0 +1,21 @@
+city: Cicero
+country: United States
+description: Inside the Warren Park administration building on the top floor people have heard (after hours) what sounds like moaning and footsteps and an actual sighting of a misty apparition, plus doors opening and once a glass window being totally shattered.
+location: Warren Park
+state: Illinois
+state_abbrev: IL
+longitude: -87.77497129999999
+latitude: 41.8644933
+city_longitude: -87.7539448
+city_latitude: 41.8455877
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

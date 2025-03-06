@@ -1,0 +1,21 @@
+city: Clayton
+country: United States
+description: The Keller house is a house built in the early 1920's and was one of California oldest cattle ranches up to the 1970 s the house was built on a old Indian Grave yard. to this day you can still find bones if you are to dig around in the basement of the old house. It is said that the ghost of the Indians still haunt the old house and tend to move things around. the house is now Property of the city of Clayton in down town Clayton behind the library
+location: Keller Mansion
+state: California
+state_abbrev: CA
+longitude: -122.0379141
+latitude: 37.9727048
+city_longitude: -121.9357925
+city_latitude: 37.9410341
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 0

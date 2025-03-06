@@ -1,0 +1,21 @@
+city: Pico Rivera
+country: United States
+description: The Little Theater (aka the Drama Room) is supposedly haunted by a former teacher named Mr. Letty. His wake was held (with a portrait rather than his actual body in casket) in the school, but his spirit never seemed to have left the room. Costumes have been known to have mysteriously come off their racks and scattered on the floor. Doors are unlocked and opened on their own. Lights begin to dim and turn on & off by themselves. Mysterious noises are heard late at night. One student saw the apparition's face peek through a curtain in the Little Theater's office during drama class. And one teacher even claimed that when he once tried to sit in one of the theater seats, it was very, very hot.
+location: El Rancho High School (Drama room)
+state: California
+state_abbrev: CA
+longitude: -118.0873498
+latitude: 33.9840476
+city_longitude: -118.096735
+city_latitude: 33.9830688
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

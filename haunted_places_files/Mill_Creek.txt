@@ -1,0 +1,21 @@
+city: Yucaipa
+country: United States
+description: is a haunting story that is told at mill creek about a boy named Anthony Garcia he was walking his dogs one day and his dog turned on him an dragged him in the water pulling him by the neck but right before dying he screamed out the name to his gay lover David. it is said that the ghost screams out the name of the one he loved.
+location: Mill Creek
+state: California
+state_abbrev: CA
+longitude: -117.0444497
+latitude: 34.081778
+city_longitude: -117.0430865
+city_latitude: 34.033625
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1973/06/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

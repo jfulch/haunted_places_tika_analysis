@@ -1,0 +1,21 @@
+city: Norton
+country: United States
+description: In the cemetery late at night, like midnight or later, no matter what the temperature, it gets cold as soon as you walk through the gates. And you hear noises in the bushes around you and the leaves are moving and there is no wind. It sounds like people are talking and whispering to one another, but you really can't understand what they are saying. Every once in a while, you see a shadowy figure ahead of you, and if you get closer it disappears. The whole time you are walking you can hear footsteps behind you. Some times you hear a train approaching, and you would probably say "well that's normal since it is right by an active rail road track", well let me tell you this: my mom is a conductor on the trains that go through there and she says they rarely ever go through there at that hour. Plus you can stand and listen to that sound for almost 10 to 15 minutes and the train never comes. Around dawn every thing seems to go back to being normal, no noises, no footsteps from unseen followers, nothing.
+location: Ramsey Cemetery
+state: Virginia
+state_abbrev: VA
+longitude: -82.5897552
+latitude: 36.9445625
+city_longitude: -82.6290459
+city_latitude: 36.933433
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

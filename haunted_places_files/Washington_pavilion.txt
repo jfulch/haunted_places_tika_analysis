@@ -1,0 +1,20 @@
+city: Sioux Falls
+country: United States
+description: the old Washington high school building. a construction worker fell to his death in an elevator shaft while remodeling the building into the pavilion. footsteps are heard and a feeling of being watched.
+location: Washington pavilion
+state: South Dakota
+state_abbrev: SD
+longitude: -96.7290025
+latitude: 43.543991
+city_longitude: -96.7311034
+city_latitude: 43.5445959
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1812/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

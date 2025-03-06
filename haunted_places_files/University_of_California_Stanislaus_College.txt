@@ -1,0 +1,21 @@
+city: Stockton
+country: United States
+description: January 2007 Correction: Formerly submitted as San Joaquin College - it was an old mental hospital on California Street. The Magnolia street entrance is for educational purposes for the severely learning impaired in down town Stockton that has been turned into a college located on a parcel of land between pacific avenue and Pershing Avenue. The students have told of hearing voices, when there is no one around, hearing footsteps and no one is coming, and other strange situations, such as chairs moving on their own and rooms that get very cold Extremely fast.
+location: University of California Stanislaus College
+state: California
+state_abbrev: CA
+longitude: -121.2845862
+latitude: 37.9640038
+city_longitude: -121.2907796
+city_latitude: 37.9577016
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

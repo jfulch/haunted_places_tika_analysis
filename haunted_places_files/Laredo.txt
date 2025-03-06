@@ -1,0 +1,21 @@
+city: Webb
+country: United States
+description: Zapata highway - In the early nineteen ninety's a family was driving towards Rio Bravo, Texas and 5 miles before getting there, they had an accident and they all died. The area is marked by three crosses. Apparitions of the family have been reported.
+location: Laredo
+state: Texas
+state_abbrev: TX
+longitude: -99.4803241
+latitude: 27.5305671
+city_longitude: -99.4228149
+city_latitude: 27.7925109
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

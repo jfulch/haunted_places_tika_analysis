@@ -1,0 +1,19 @@
+city: Valley Stream
+country: United States
+description: In the area of Valley Stream which is adjacent to Hook Creek Boulevard in Queens one can often feel the sensation that he or she is being watched by someone when there actually is nobody there. Along the Long Island Rail Road tracks there is a long trail upon which I often got strange feelings of being observed. The area was occupied by Rockaway Indians long ago. The railroad has been there since the 1860's and many people had been killed by trains before the tracks were elevated in the 1940's.
+location: Extreme Western Area
+state: New York
+state_abbrev: NY
+city_longitude: -73.70846449999999
+city_latitude: 40.6642699
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

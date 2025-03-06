@@ -1,0 +1,21 @@
+city: Rockford
+country: United States
+description: if you follow the trail to the back of the lake, There is a young boy who runs down the hill saying "I'm gonna push you in the lake". He then vanishes. Rumors are that a boy drowned here many years ago. He was staying at Camp Rogers (a camp for kids). The hill the boy runs down is just next to Camp Rogers property. The trail is easily visible for 5 or 6 hundred feet. I have no idea if anyone else has ever had this experience.
+location: Pickerel Lake
+state: Michigan
+state_abbrev: MI
+longitude: -85.4652751
+latitude: 43.0747964
+city_longitude: -85.5600316
+city_latitude: 43.1200272
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

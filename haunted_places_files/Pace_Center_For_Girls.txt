@@ -1,0 +1,21 @@
+city: Fort Pierce
+country: United States
+description: In 1977,before the small building that is now Pace Center For Girls was an abortion clinic. Women use to go there for there abortions but didn’t know that all abortions were wrongly done. The women use to die a few nights later. Students at Pace Center For girls reportedly heard women crying in pain, especially in the bathroom and the small English classroom. No one has ever seen a ghost but has heard cries. The weird thing is, is that half the students who enter the small school always tends to get sick. Who knows maybe the ghosts are trying to make these young girls feel their pain. Also people in Fort Pierce say that they have seen lights switching on and off and verticals moving.
+location: Pace Center For Girls
+state: Florida
+state_abbrev: FL
+longitude: -80.3623234
+latitude: 27.4249914
+city_longitude: -80.3256056
+city_latitude: 27.4467056
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

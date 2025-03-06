@@ -1,0 +1,21 @@
+city: North Fort Myers
+country: United States
+description: There are 4 buildings at this Motel 6 property. - reports mainly from staff at the motel, that noises, and the feeling of being watched. Also, footsteps in the puddles of water, strange screeching noises, screams, and moans of agony, a very strange odor of a female's perfume, and temperature changes.
+location: Motel 6
+state: Florida
+state_abbrev: FL
+longitude: -81.885784
+latitude: 26.6598617
+city_longitude: -81.8800861
+city_latitude: 26.6672935
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Corbin
+country: United States
+description: Located near Early Addition St. There is a certain place in the road where people passing by will experience a strong sense of fear and the feeling that they are being watched. These feelings disappear quickly after they leave this one certain spot in the road. There have been no known reports of anything terrible having happened in the past to account for this haunting. -  February 2004 update / correction: The zone of fear is mainly experienced by pedestrians. It is a road with a lot of hills and curves and while the speed limit is posted as 15 mph, many people drive as fast as they can through this area just for fun. The submitter believes there have been a few accidents in the area but they don't have the facts with them. Could be more of an urban myth than anything else. A variation they’ve heard is that the area of fear lies off the road along the railroad tracks.
+location: Florence Road
+state: Kentucky
+state_abbrev: KY
+longitude: -84.0977963
+latitude: 36.9608502
+city_longitude: -84.0968761
+city_latitude: 36.9486986
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

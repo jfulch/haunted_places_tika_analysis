@@ -1,0 +1,21 @@
+city: Henry
+country: United States
+description: This is in a small neighborhood town. It's on a side road. There is a little drive off of the side road (it is a dirt road) that goes back into fields, but on each side there is lots of tress, but now they keep it chained up. A lot of years ago, a man was hung down there and they say his spirit still haunts this place. When you drive down the road you have to go all the way until you come to a dead end. You will see a lantern swinging in the mist like as if someone has it walking towards you. Sometimes your car will not start. The owner of the property was not responsible if anything happened to anyone. Still to this day the Springville Ghost exists.
+location: Springville
+state: Tennessee
+state_abbrev: TN
+longitude: -88.1530946
+latitude: 36.2492237
+city_longitude: -88.4197705
+city_latitude: 36.2039488
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

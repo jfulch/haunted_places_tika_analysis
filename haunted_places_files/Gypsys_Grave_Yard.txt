@@ -1,0 +1,21 @@
+city: Lowell
+country: United States
+description: You enter the graveyard though the front entrance. If you walk to the back fence there will be voices of gypsy's! If you walk on top of certain graves they will appear to be sinking in. If you jump the back fence into the woods and take the small path for about 75 feet in you will hear faint screaming and whispering with small blurs of white surrounding you! some say when you leave there will be blood on the stairs railing!
+location: Gypsy's Grave Yard
+state: Indiana
+state_abbrev: IN
+longitude: -87.2996113
+latitude: 41.3355722
+city_longitude: -87.4205903
+city_latitude: 41.2914243
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Mount Hope
+country: United States
+description: If you park your car in the hole, put it in neutral and turn it off, the ghost of Henry will push you to the top, in hopes that the same thing will not happen to you. Many people have done this, and it ALWAYS works.
+location: Henry Hill (Gravity Hill)
+state: Alabama
+state_abbrev: AL
+longitude: -87.5054521
+latitude: 34.4293661
+city_longitude: -87.48169089999999
+city_latitude: 34.4584286
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/02/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

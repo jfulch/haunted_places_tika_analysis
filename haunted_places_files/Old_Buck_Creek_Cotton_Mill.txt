@@ -1,0 +1,21 @@
+city: Alabaster
+country: United States
+description: This is an old cotton mill opened in 1896. The mill is in bad shape but you can still get in. There are blood spots in some rooms, cold spots and some very scary noises.
+location: Old Buck Creek Cotton Mill
+state: Alabama
+state_abbrev: AL
+longitude: -86.8258926
+latitude: 33.2313558
+city_longitude: -86.8163773
+city_latitude: 33.2442813
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1896/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

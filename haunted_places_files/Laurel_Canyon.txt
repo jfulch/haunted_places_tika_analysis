@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: There have been numerous reports over the years regarding an intersection on Laurel Canyon. on several occasions at the intersection of Laurel Canyon and Lookout Mountain Dr. people have witnessed an old carriage pulled by white horses that seems to dart out onto the canyon road from Lookout Mountain as though the horses are at a full speed gallop only to disappear causing car accidents.
+location: Laurel Canyon
+state: California
+state_abbrev: CA
+longitude: -118.3673123
+latitude: 34.1065723
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1953/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

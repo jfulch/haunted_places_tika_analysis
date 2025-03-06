@@ -1,0 +1,21 @@
+city: Sycamore
+country: United States
+description: Reports of cries and moans coming from the downstairs.
+location: Sycamore Theater
+state: Illinois
+state_abbrev: IL
+longitude: -88.6892117
+latitude: 41.9889356
+city_longitude: -88.6867538
+city_latitude: 41.9889173
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

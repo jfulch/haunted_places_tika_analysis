@@ -1,0 +1,21 @@
+city: Mulberry
+country: United States
+description: This is a very haunted road that few people know about. Take state road 38 all the way to Mulberry and look for a road called 900 west. If you are coming from Lafayette, go right on it. You will come to a stop sign. Go thru the sign. That is Hamilton road. There are 3 one-lane bridges on this road, when you get to the third bridge, stop and flash your lights 4 times. As you then cross the bridge, you will see a short man in your rearview mirror chasing you. If you drive up the road about 50 feet you will come to an old church graveyard. Go it the graveyard and park as close to the back as you can get. Walk along the fence and you will see what looks like flames coming from the woods. This is where the church once stood. It is said that when it caught fire in the 1800s that everyone was killed. Also there are old haunted tracks right after the graveyard. Go about midnight and stop in the middle of the tracks. Put baby powder on your rear bumper. You will hear a train whistle and see the lights come at you. Then they will disappear. Get out and look at the back of your car and you will see baby fingerprints. A little boy named Danny was killed here in the early 1900s right after the tracks were built. WARNING: THIS ROAD IS VERY DANGEROUS TO DRIVE ON IN THE WINTER. IF IT IS RAINING OR SNOWING DO NOT ATTEMP TO DRIVE ON THIS ROAD!
+location: Hamilton road
+state: Indiana
+state_abbrev: IN
+longitude: -86.6179784
+latitude: 40.33872849999999
+city_longitude: -86.6652821
+city_latitude: 40.34448039999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

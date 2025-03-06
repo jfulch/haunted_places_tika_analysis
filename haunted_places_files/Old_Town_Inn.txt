@@ -1,0 +1,21 @@
+city: Manassas
+country: United States
+description: There is a ghost named miss Lucy who hunts rooms 51 to 54 . She sometime holds people in the air and is seen in the city tavern.
+location: Old Town Inn
+state: Virginia
+state_abbrev: VA
+longitude: -77.4714255
+latitude: 38.7513257
+city_longitude: -77.47526669999999
+city_latitude: 38.7509488
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

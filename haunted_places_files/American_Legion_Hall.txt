@@ -1,0 +1,21 @@
+city: Clarksville
+country: United States
+description: It is said that if you sleep under the American Legion Hall (camp), you will see and hear ghosts of the old stronghold.
+location: American Legion Hall
+state: Arkansas
+state_abbrev: AR
+longitude: -94.1300453
+latitude: 36.1866961
+city_longitude: -93.4665731
+city_latitude: 35.4714724
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

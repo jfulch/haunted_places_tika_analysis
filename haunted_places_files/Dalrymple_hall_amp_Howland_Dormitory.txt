@@ -1,0 +1,21 @@
+city: Marlboro College
+country: United States
+description: Students have reported seeing a female figure wandering the campus at night, and many have felt uneasy when alone in Howland or Dalrymple at night. Cold spots are often encountered around the campus, but this is usually attributed the fact that the school is located in Vermont.
+location: Dalrymple hall &amp; Howland Dormitory
+state: Vermont
+state_abbrev: VT
+longitude: -72.6612317
+latitude: 44.13900539999999
+city_longitude: -72.7347545
+city_latitude: 42.8390545
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

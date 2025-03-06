@@ -1,0 +1,19 @@
+city: Exeter
+country: United States
+description: A young girl, Mercy Brown, died on Jan. 18, 1892. Her father later dug up her body thinking that she had become a vampire. With local help they removed her body and the medical doctor drained her organs of the remaining blood. This violation of her grave has caused Mercy to appear in the graveyard at night. Many witnesses report seeing strange blue lights moving in the graveyard.
+location: Chestnut Hill Cemetery
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.55811489999999
+latitude: 41.5815651
+city_longitude: -71.5351476
+city_latitude: 41.5750676
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1892/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

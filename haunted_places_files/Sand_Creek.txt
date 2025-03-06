@@ -1,0 +1,20 @@
+city: Kiowa County
+country: United States
+description: The site of the Sand Creek Massacre is long believed and experienced as a haunted site. On November 29, 1864 over 200 Native Americans (mostly women and children) were brutally massacred by US Col. John Chivington. His forces hunted the people as they tried to escape along the Sand Creek, in many cases, as they tried to take shelter in small sand caves. They were used as target practice, mutilated, and even had body parts amputated before death as trophies. Annually, on the anniversary night of the massacre, campers have reported seeing manifestations of numerous Native women, children, and the occasional warrior, wandering down the Sand Creek bed and banks where they were killed, most appearing only briefly, and then dissolving into the creek's soil.
+location: Sand Creek
+state: Colorado
+state_abbrev: CO
+longitude: -102.5038001
+latitude: 38.5447972
+city_longitude: -102.7135121
+city_latitude: 38.3769671
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1864/11/29
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

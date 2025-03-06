@@ -1,0 +1,21 @@
+city: Little River
+country: United States
+description: It is reported that the site where the Indian Red Eagle and his mother are buried is haunted. Late at night if you go out there, you can see the Indian dancing around his grave and the oak tree that sprouts from his gravesite.
+location: Red Eagle Gravesite
+state: Alabama
+state_abbrev: AL
+longitude: -87.7675697
+latitude: 31.2785544
+city_longitude: -85.62537999999999
+city_latitude: 34.3883958
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

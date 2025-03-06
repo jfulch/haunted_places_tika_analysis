@@ -1,0 +1,21 @@
+city: BUckingham
+country: United States
+description: Located 2 blocks from Holicong Road - An old man is seen walking up and down the road and a glowing light comes out of the woods hovers over the road then disappears back into the woods.
+location: Hansell Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.08868149999999
+latitude: 40.3457905
+city_longitude: -75.0494329
+city_latitude: 40.3149535
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

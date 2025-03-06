@@ -1,0 +1,19 @@
+city: Lyndonville
+country: United States
+description: many of the towns children hear strange noises coming from Cody's bedroom. And after they hear the sounds they look in the fridge and there is no food.
+location: Cody Scharlau's House
+state: New York
+state_abbrev: NY
+city_longitude: -78.3889138
+city_latitude: 43.3267241
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1883/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

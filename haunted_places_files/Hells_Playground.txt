@@ -1,0 +1,21 @@
+city: Brodhead
+country: United States
+description: At night, when the wind is still, you can hear children playing and the swings will be swinging. Sometimes a growl will be heard from out of nowhere. The story is, is that 2 children and an adult were murdered there. Be careful when going around the slide. That is where one of the kids were slaughtered
+location: Hell's Playground
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.3616911
+latitude: 42.5583222
+city_longitude: -89.3762278
+city_latitude: 42.6183424
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

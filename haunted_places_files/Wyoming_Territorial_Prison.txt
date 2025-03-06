@@ -1,0 +1,20 @@
+city: Laramie
+country: United States
+description: This Prison, built in the late 1800's, is inhabited by the resident ghost Julius Greenwelch.  He only makes himself know with a group less then four people and when people are TRYING to sleep.  Only a few have seen him in complete form without any devices.
+location: Wyoming Territorial Prison
+state: Wyoming
+state_abbrev: WY
+longitude: -105.6099886
+latitude: 41.3111566
+city_longitude: -105.5911007
+city_latitude: 41.3113669
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1891/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

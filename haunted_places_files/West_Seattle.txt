@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: Suicide Bridge -  There's a bridge located in Seattle. Supposedly, a person had committed suicide by jumping off a bridge with his dog. You can see the chalk marks still when you go there and around 2-4 am people have seen the man with is dog by the beach near there staring at people.
+location: West Seattle
+state: Washington
+state_abbrev: WA
+longitude: -122.3867537
+latitude: 47.5666668
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

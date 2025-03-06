@@ -1,0 +1,21 @@
+city: South bend
+country: United States
+description: Sounds of a horse taking off through the cemetery when walked through at night!
+location: Council Oak Cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -86.27795619999999
+latitude: 41.711007
+city_longitude: -86.25198979999999
+city_latitude: 41.6763545
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

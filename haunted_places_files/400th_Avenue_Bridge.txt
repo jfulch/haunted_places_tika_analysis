@@ -1,0 +1,19 @@
+city: Middletown
+country: United States
+description: This site is where hangings took place. The tree, bridge, and fields are haunted. Whisperings, talking, chains, and screams can all be heard. Apparitions have been seen on numerous occasions. If you touch the tree, you sometimes get visions.
+location: 400th Avenue Bridge
+state: Illinois
+state_abbrev: IL
+city_longitude: -89.59093779999999
+city_latitude: 40.1003246
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

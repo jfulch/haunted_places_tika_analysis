@@ -1,0 +1,18 @@
+city: Jackson
+country: United States
+description: Sightings and sounds of the young students who died in a fire.
+location: Highland Orphaning
+state: Kentucky
+state_abbrev: KY
+city_longitude: -83.38351349999999
+city_latitude: 37.5531457
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

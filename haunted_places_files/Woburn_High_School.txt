@@ -1,0 +1,21 @@
+city: Woburn
+country: United States
+description: Reports of cries for help in the bathroom in the old building of a kid who died in the that room. People reported that they see his ghost and hear him moaning. - November 2003 update/correction: It was a girl that committed suicide in the downstairs bathroom in 7 building. It's rumored that there are still bloodstains on the walls that maintenance couldn't get out. So it’s permanently locked. Supposedly people still hear her in there.
+location: Woburn High School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.14410889999999
+latitude: 42.4838387
+city_longitude: -71.1522765
+city_latitude: 42.4792618
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

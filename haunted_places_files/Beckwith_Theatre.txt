@@ -1,0 +1,21 @@
+city: Dowagiac
+country: United States
+description: Several ghosts inhabit the building which was formerly the First United Methodist Church. Contact has been less and less frequent, however, actors and theatre workers have reported hearing piano music coming from the otherwise deserted house and disembodied voices in the form of whispers and quiet laughter. The only visual contact is of a young girl, thought to have been left behind when the orphan train stopped in town and the children were brought to the property to rest around the turn of the century. Other evidence, such as disappearing scissors and keys, and strange and unclaimed writing on scripts and notebooks left overnight at the theatre, exists. Another story is that play director walked all over the theatre searching for her keys one night. She looked on the stage, then went to the basement to search. She was alone. She came back up to the stage, and her keys were in the center of the stage with the spot light shining on them.
+location: Beckwith Theatre
+state: Michigan
+state_abbrev: MI
+longitude: -86.1107004
+latitude: 41.9835636
+city_longitude: -86.10862279999999
+city_latitude: 41.9842123
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

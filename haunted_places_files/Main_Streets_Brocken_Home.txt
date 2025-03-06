@@ -1,0 +1,21 @@
+city: Garden City
+country: United States
+description: In the small town of Garden City across from Stevens park. There are some very old apartments. Which were closed for disclosed reasons. Some believe a boy had a jealous uncle. Who was jealous of his brother because he stole his girlfriend and told their boy he was going to kill his older brother and his ex-girlfriend. And the boy tried to tell the police but they wouldn’t listen and later he went up to the apartments and found his parents dead. And since no one would listen he broke out some of the stairs so he would be safe from his uncle and u can still see him looking out the window for his uncle. No one knows what happened to the boy.
+location: Main Street's Brocken Home
+state: Kansas
+state_abbrev: KS
+longitude: -100.8724538
+latitude: 37.9703264
+city_longitude: -100.8726618
+city_latitude: 37.9716898
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

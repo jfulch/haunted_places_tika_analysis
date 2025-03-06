@@ -1,0 +1,21 @@
+city: Modesto
+country: United States
+description: The spirit of a young man paces the balcony of the Modesto High Auditorium. There are also reports of knocking noises heard in the main hallway---where the floor slopes by the sewing room---that are coming from the tunnels that used to run under the school.
+location: Modesto High School
+state: California
+state_abbrev: CA
+longitude: -121.0072994
+latitude: 37.6310721
+city_longitude: -120.9968782
+city_latitude: 37.63909719999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

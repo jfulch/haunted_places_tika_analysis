@@ -1,0 +1,21 @@
+city: Camden
+country: United States
+description: formerly Old High School - "lights going on and off and screams and moans." In the old part of this very old school mainly on the top floor. in one room (Ma Lyons' old room) lights will go on and off some teachers have reported hearing screams for help and crying. students, coaches, teachers and janitors have reported someone walking behind them and cold spots throughout this old school. In the cellar or ground floor, people have heard walking and noises coming form the old lunch room and girls locker room, when checked no body was there.
+location: Camden Middle School
+state: New York
+state_abbrev: NY
+longitude: -75.7449918
+latitude: 43.3379091
+city_longitude: -75.78365889999999
+city_latitude: 43.33873639999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1975/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

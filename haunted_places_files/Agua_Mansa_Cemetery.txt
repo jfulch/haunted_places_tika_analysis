@@ -1,0 +1,20 @@
+city: San Bernardino
+country: United States
+description: The whole stretch of road leading to this cemetery is said to be haunted by a beautiful lady that drowned her six children many years ago. According to Hispanic legend, she is known as La Llorona, or the Weeping Woman, and is doomed to roam the streets in search of the children she killed. Is she trying to reunite the family she destroyed so long ago? In addition to this otherworldly poltergeist, there have also been many unexplained fatal car crashes, as well as hauntings committed by two people that were murdered execution style on that road.
+location: Agua Mansa Cemetery
+state: California
+state_abbrev: CA
+longitude: -117.364575
+latitude: 34.041504
+city_longitude: -117.2897652
+city_latitude: 34.1083449
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

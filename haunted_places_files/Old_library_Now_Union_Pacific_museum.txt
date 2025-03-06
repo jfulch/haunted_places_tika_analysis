@@ -1,0 +1,21 @@
+city: Council Bluffs
+country: United States
+description: This is the old Council Bluffs library, which has now been restored to a wonderful looking and brand new Union Pacific railroad museum. Before the renovation occurred, many people were hesitant to venture into the basement of this Carneige structure due to books literally flying off the shelves. Many experienced items mysteriously disappearing, only to have them return later. Also, some have reported dark-shadowy figures being seen in the basement. Not too many folks want to go into this basement alone.
+location: Old library-Now Union Pacific museum
+state: Iowa
+state_abbrev: IA
+longitude: -95.851447
+latitude: 41.258151
+city_longitude: -95.8608333
+city_latitude: 41.2619444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

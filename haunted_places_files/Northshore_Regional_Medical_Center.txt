@@ -1,0 +1,21 @@
+city: Slidell
+country: United States
+description: This hospital has two known spirits lurking around its premises. One is affectionately known as Reggie. The story goes that while construction of the hospital was going on nearly 20 years ago, an elevator maintenance person fell to his death. Reggie's antics included opening and closing elevator doors and taking people to the fifth floor, which normally requires the use of a key. One time Reggie manifested himself to a maintenance man and a visitor even saw him inside the elevator. The second ghost appears as a black shadow and has been seen in the surgery room. Its origin is unknown.
+location: Northshore Regional Medical Center
+state: Louisiana
+state_abbrev: LA
+longitude: -89.78117449999999
+latitude: 30.2751945
+city_longitude: -89.78117449999999
+city_latitude: 30.2751945
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1875/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

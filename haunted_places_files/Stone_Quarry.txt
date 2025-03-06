@@ -1,0 +1,20 @@
+city: New Philadelphia
+country: United States
+description: At night in three ghostly lights can be seen two of them red, and one white. In the late 1700's a Mingo Indian chief had a white wife, and another Indian whom he loved. The Indian pushed the chief and his white wife over the cliff, but fell in with them. They were refused a Christian burial, and now, you can see the three lights struggle on the top and fall, disappearing near the Tuscarawas River.
+location: Stone Quarry
+state: Ohio
+state_abbrev: OH
+longitude: -81.48194099999999
+latitude: 40.493663
+city_longitude: -81.4456706
+city_latitude: 40.4897871
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1782/03/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

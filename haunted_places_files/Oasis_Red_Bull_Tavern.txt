@@ -1,0 +1,21 @@
+city: Kewadin
+country: United States
+description: The bar was built in 1932 where it is said that a man hung himself in the basement. At night you can hear foot steps, objects moving and sudden feelings of discomfort, such as on a 80 degree night, you get a brief ice cold draft across your neck. lights go on and off as do the t.v.'s but no one has ever been injured to to these events
+location: Oasis Red Bull Tavern
+state: Michigan
+state_abbrev: MI
+longitude: -85.36624239999999
+latitude: 44.9298878
+city_longitude: -85.3731257
+city_latitude: 44.9286137
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1932/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

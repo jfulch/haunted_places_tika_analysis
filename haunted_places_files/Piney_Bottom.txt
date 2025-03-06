@@ -1,0 +1,19 @@
+city: Harts
+country: United States
+description: Piney Bottom is the location for numerous sightings of a headless man dressed in black walking the area. One account happened many years ago. At the first creek crossing there used to be a thing that jumped on the back of horses as people rode threw. It would ride with the unlucky traveler until the horse reached the other creek crossing. It would then jump off the horse.
+location: Piney Bottom
+state: West Virginia
+state_abbrev: WV
+city_longitude: -82.1293017
+city_latitude: 38.0312078
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Livermore
+country: United States
+description: One night in 1789 a groundskeeper for the tuberculosis hospital went crazy and shot all the children. They are screams can be heard constantly.
+location: The Sanitarium
+state: California
+state_abbrev: CA
+city_longitude: -121.7680088
+city_latitude: 37.6818745
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1789/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

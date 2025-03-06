@@ -1,0 +1,21 @@
+city: Altoona
+country: United States
+description: Fort Roberdeau - Legend says a guard was guarding the fort when an Indian attacked and killed him they also found the body of a young boy and the boys dog. the fort is farther down the road and off to the right. This is a reconstructed fort of the original. Road to fort there are 2 fields on each side of the raod on the right side of the road there are telephone poles sit at the 3rd pole at dark and look straight ahead there a guard of the fort was killed and he still patrols to this day. The guard is a black shadow. Also you can hear a young child’s laughter and dog barking. The dog is a white ball of fog that appears out of no where.
+location: Sinking valley
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.27316540000001
+latitude: 40.5972867
+city_longitude: -78.3947359
+city_latitude: 40.5186809
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

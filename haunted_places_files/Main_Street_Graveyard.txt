@@ -1,0 +1,20 @@
+city: Watertown
+country: United States
+description: On the corner of French and Main street in Watertown there's a graveyard that has been reported haunted. At night you can see small orbs of light, low to the ground floating around. If you record with a tape recorder, and play it back you hear little girls crying and telling you to leave. And you hear doctors talking. And it has even been reported to have an old solider with a dirty torn war uniform on that follows you as you walk by.
+location: Main Street Graveyard
+state: Connecticut
+state_abbrev: CT
+longitude: -73.12334299999999
+latitude: 41.6078299
+city_longitude: -73.11833969999999
+city_latitude: 41.6062042
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1793/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

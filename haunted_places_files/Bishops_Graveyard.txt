@@ -1,0 +1,21 @@
+city: Guntersville
+country: United States
+description: A witness claims to have gotten photographic anomalies, like mists and orbs.
+location: Bishop's Graveyard
+state: Alabama
+state_abbrev: AL
+longitude: -86.3001125
+latitude: 34.3538845
+city_longitude: -86.29470409999999
+city_latitude: 34.3581473
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

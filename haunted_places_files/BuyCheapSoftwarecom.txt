@@ -1,0 +1,20 @@
+city: Marina Del Rey
+country: United States
+description: The ghost of a man is seen walking around the 3rd floor, stairs & roof. Rumor has it that the man was murdered several years ago by a jealous lover.
+location: BuyCheapSoftware.com
+state: California
+state_abbrev: CA
+longitude: -118.4464977
+latitude: 33.9907869
+city_longitude: -118.4517449
+city_latitude: 33.9802893
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

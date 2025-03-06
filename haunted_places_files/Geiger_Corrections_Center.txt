@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: a scream was caught on tape of an empty floor, no one heard it when it happened.
+location: Geiger Corrections Center
+state: Washington
+state_abbrev: WA
+longitude: -117.5159206
+latitude: 47.6212999
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

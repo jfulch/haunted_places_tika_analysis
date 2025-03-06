@@ -1,0 +1,21 @@
+city: Belwood
+country: United States
+description: For years people have been hearing organ music coming from inside the church when no one is inside.
+location: Kadesh Church
+state: North Carolina
+state_abbrev: NC
+longitude: -81.4992565
+latitude: 35.4662432
+city_longitude: -81.52342399999999
+city_latitude: 35.4770759
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

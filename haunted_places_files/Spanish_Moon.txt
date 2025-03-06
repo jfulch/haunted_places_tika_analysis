@@ -1,0 +1,21 @@
+city: Baton Rouge
+country: United States
+description: This downtown area nightclub is inhabited by at least one known ghost. During the 1880's, the building served as a firehouse. It has seen many occupants since then. It was even used as a "wino flophouse" about thirty years ago. This era is where the spirit is believed to have originated from. Manifestations include apparitions of a young man; beer taps turning themselves on, strange noises, and flying glassware.
+location: Spanish Moon
+state: Louisiana
+state_abbrev: LA
+longitude: -91.1858824
+latitude: 30.4375651
+city_longitude: -91.1403196
+city_latitude: 30.4582829
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

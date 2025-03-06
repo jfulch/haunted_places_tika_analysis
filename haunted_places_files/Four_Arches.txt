@@ -1,0 +1,19 @@
+city: Reelsville
+country: United States
+description: Four Arches is a train trestle with a tunnel running through it over the four arches. The last arch supposedly contains the body of a murdered woman buried in the cement. People have reported seeing a figure standing at the last arch resembling a woman. There is also a ghost train that comes through here on certain nights.
+location: Four Arches
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.9669567
+city_latitude: 39.5575439
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1973/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

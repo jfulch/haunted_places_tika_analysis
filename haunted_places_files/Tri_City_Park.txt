@@ -1,0 +1,21 @@
+city: Placentia
+country: United States
+description: It has been heard by the late night joggers that footsteps have been seen in the pond water and an old lady's voice screaming for her lost children.
+location: Tri-City Park
+state: California
+state_abbrev: CA
+longitude: -117.8651883
+latitude: 33.903739
+city_longitude: -117.8627548
+city_latitude: 33.8710729
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1740/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

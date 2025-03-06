@@ -1,0 +1,21 @@
+city: Union County
+country: United States
+description: well they say that before today that there was a man sentenced to death and they killed him and he has been haunting the place forever the doors will open by thereselves.
+location: Union County court house
+state: Tennessee
+state_abbrev: TN
+longitude: -83.79912360000002
+latitude: 36.2496269
+city_longitude: -83.804868
+city_latitude: 36.3194272
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

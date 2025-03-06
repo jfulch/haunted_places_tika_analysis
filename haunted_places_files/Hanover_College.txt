@@ -1,0 +1,21 @@
+city: Hanover
+country: United States
+description: Donner Residence Hall - The east wing of Donner Residence Hall. Moved objects attributed to a former student who committed suicide in one of the rooms.
+location: Hanover College
+state: Indiana
+state_abbrev: IN
+longitude: -85.4623681
+latitude: 38.7192502
+city_longitude: -85.4735707
+city_latitude: 38.7142263
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

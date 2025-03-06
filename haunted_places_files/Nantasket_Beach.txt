@@ -1,0 +1,21 @@
+city: Hull
+country: United States
+description: Across from carousel, on the beach front; It was a very sunny clear day when all of a sudden a violent storm blew in with massive lightening and blowing sand and as everyone ran for cover, over the ocean in the fog and thick cloud cover, I saw a large, very distinct vessel moving across the horizon. The storm only lasted about 5-8 minutes and was gone and back to clear conditions, but the ship was no where to be seen. It was moving too slowly to have passed out of sight in that short span of time. It just seemed to vanish.
+location: Nantasket Beach
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.87449
+latitude: 42.2917663
+city_longitude: -70.9078346
+city_latitude: 42.3020647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1906/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

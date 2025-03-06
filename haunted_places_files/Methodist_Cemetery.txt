@@ -1,0 +1,21 @@
+city: Taylor
+country: United States
+description: Located off of Eureka road there have been images of people dancing at night and you can also hear singing. There is also a young woman wearing a long dress that you can sometimes see in the mall parking lot across the street. She has been seen crossing back and forth.
+location: Methodist Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -83.2547422
+latitude: 42.197511
+city_longitude: -83.2696509
+city_latitude: 42.240872
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

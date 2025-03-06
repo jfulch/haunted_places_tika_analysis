@@ -1,0 +1,21 @@
+city: Owensboro
+country: United States
+description: At night on the catwalk you can see a woman in white, dripping water as she continues to walk over the edge to the river below.
+location: River Park Center
+state: Kentucky
+state_abbrev: KY
+longitude: -87.109477
+latitude: 37.7757
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

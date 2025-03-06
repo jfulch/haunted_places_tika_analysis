@@ -1,0 +1,20 @@
+city: Zanesville
+country: United States
+description: During rehearsals, music and people talking can be heard coming from backstage. When someone goes to look, nobody can be found.
+location: Zanesville Community Theater
+state: Ohio
+state_abbrev: OH
+longitude: -82.0133723
+latitude: 39.9507291
+city_longitude: -82.0131924
+city_latitude: 39.9403453
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

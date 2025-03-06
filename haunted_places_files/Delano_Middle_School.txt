@@ -1,0 +1,20 @@
+city: Delano
+country: United States
+description: A long time ago a teacher got really mad at a boy and killed him after school in the boys bathroom and sometimes when boys go in the bathroom they can here someone saying i didnt do it but no one will be there and they never saw the teacher since.
+location: Delano Middle School
+state: Minnesota
+state_abbrev: MN
+longitude: -93.7768057
+latitude: 45.048412
+city_longitude: -93.7891331
+city_latitude: 45.0419073
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

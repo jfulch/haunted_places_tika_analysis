@@ -1,0 +1,21 @@
+city: Binghamton
+country: United States
+description: It is haunted by the ghost of Alonzo Roberson who built the Roberson Mansion which is part of the museum complex. It is said that he haunts the elevator and halls of his home.
+location: The Roberson Museum and Science Center
+state: New York
+state_abbrev: NY
+longitude: -75.918655
+latitude: 42.094004
+city_longitude: -75.91797380000001
+city_latitude: 42.09868669999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: The ghost of a teenage girl supposedly haunts the halls. Her story is as follows: back when Prep was an all-boys school, there was a football player who told his girlfriend to meet him after a game. He told her to wait in a small underground tunnel area that leads to the furnace. She snuck into the school and followed his directions, hunkering down in the tunnel to wait. When the boy arrived and opened the trapdoor the scent of burnt flesh wafted up. The heater had kicked on, burning the girl against the wall. Students have reported hearing a girl whispering, and doors in the downstairs hallway, where the girl supposedly died, have been known to open on their own when left unlocked. One female student even wrote a short story about a girl dying in the tunnel before she had ever heard the tale of the haunting. After hearing the tale, she claimed "This can't possibly be a coincidence!".
+location: Gonzaga Prep High School
+state: Washington
+state_abbrev: WA
+longitude: -117.3913251
+latitude: 47.685725
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

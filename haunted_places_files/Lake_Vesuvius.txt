@@ -1,0 +1,20 @@
+city: Ironton
+country: United States
+description: Many people have said that 3 ghosts haunt this place. A man who wears a cowboy hat and is seen walking along the road, a woman that looks like she has been beaten to death that has been seen down by the boat docks, and a strange white figure that floats in the trees.
+location: Lake Vesuvius
+state: Ohio
+state_abbrev: OH
+longitude: -82.6318723
+latitude: 38.6128512
+city_longitude: -82.6829406
+city_latitude: 38.5367471
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

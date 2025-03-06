@@ -1,0 +1,21 @@
+city: Hurst
+country: United States
+description: Rumored to have had a projectionist pass away due to a heart attack in the building. Other spirits floating around include a young girl and a not so nice guy named Neil. Strange sounds, doors closing and actual interaction with the young girl have all been witnessed.
+location: Bellaire Theatre
+state: Texas
+state_abbrev: TX
+longitude: -97.161779
+latitude: 32.822055
+city_longitude: -97.1705678
+city_latitude: 32.8234621
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

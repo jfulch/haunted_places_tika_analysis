@@ -1,0 +1,21 @@
+city: Waverly Hall
+country: United States
+description: On one occasion we stepped out of our vehicle and heard the most inhuman screech. there was lights and sounded like something was walking then running toward you. The Waverly Hall cemetery and surrounding homes are sitting in the middle of a paranormal hotspot. Many events have been recorded here, apparitions, cold spots, ghost have even been recorded on EVP and tape here. This place is a must for any ghost hunter to visit.
+location: Waverly Hall cemetery
+state: Georgia
+state_abbrev: GA
+longitude: -84.7144127
+latitude: 32.6894422
+city_longitude: -84.7382609
+city_latitude: 32.683469
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

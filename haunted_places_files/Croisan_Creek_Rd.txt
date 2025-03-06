@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: Many years ago, little girl was hit and killed by a speeding care. Speeders going around that corner (near Kubler) report seeing a ball rolling into the road and a little girl chasing after it. It usually occurs on Friday nights. - October 2007 Update:  Drivers that are exceeding the speed limit have seen the boy standing on the side of the road wagging his finger at them, but when they look for the boy in the rearview mirror he is not there.  So slow down on Croisen Creek Rd in South Salem.
+location: Croisan Creek Rd
+state: Oregon
+state_abbrev: OR
+longitude: -123.0764414
+latitude: 44.8940318
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Gold Hill
+country: United States
+description: Several rooms and guest houses are said to be haunted. The owner of the hotel says she has never experienced anything but guests and employees have smelled unexplained smoke and alcohol, and alarm clocks buzz every hour even when unplugged.
+location: Gold Hill Hotel
+state: Nevada
+state_abbrev: NV
+longitude: -119.657549
+latitude: 39.292336
+city_longitude: -119.6574011
+city_latitude: 39.29046779999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

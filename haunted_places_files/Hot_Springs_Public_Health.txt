@@ -1,0 +1,20 @@
+city: Thermopolis
+country: United States
+description: Once the original Carnegie Library this building now houses Public Health and the Extension Office. If you're in the building alone you can hear doors open and close and footsteps can be heard upstairs. Occasionally a door will close or a file drawer will open on its own while someone is in the room and one will hear the sound of a pencil drop, but no pencil is in sight.
+location: Hot Springs Public Health
+state: Wyoming
+state_abbrev: WY
+longitude: -108.2072015
+latitude: 43.6472579
+city_longitude: -108.2120432
+city_latitude: 43.6460672
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

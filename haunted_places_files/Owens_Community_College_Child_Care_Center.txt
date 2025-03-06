@@ -1,0 +1,21 @@
+city: Findlay
+country: United States
+description: College students and teachers reported seeing a child's face appearing upstairs windows after the center is closed, lights turning on themselves when the teachers lock up the place, cold spots on second floor, door closing by themselves in storage room, child's giggles can be heard, food mysteriously appeared after everyone claimed they never "made it", sometimes it'll disappeared. This place was said to be haunted by 2 young girls who died upstairs due to carbon monoxide poisoning or fire. These activities seems to increase in Spring time, between March-May.
+location: Owens Community College Child Care Center
+state: North Carolina
+state_abbrev: NC
+longitude: -83.621101
+latitude: 41.0775371
+city_longitude: -79.0765736
+city_latitude: 35.7986698
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Papillion
+country: United States
+description: reports of oven doors opening by themselves with no one around . reports of ghosts attacking employees.
+location: Pattycakes bakery
+state: Nebraska
+state_abbrev: NE
+longitude: -96.0424272
+latitude: 41.1389883
+city_longitude: -96.0422378
+city_latitude: 41.1544432
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

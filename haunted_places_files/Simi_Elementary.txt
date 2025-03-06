@@ -1,0 +1,21 @@
+city: Simi Valley
+country: United States
+description: Some years ago the janitor of the school hung himself in the janitors closet. To this day you can see lights flickering in the closet when you are near it. You can also sometimes see the janitor running around in the field at the school or just standing there somewhere. It has been seen by some people in the middle of the soccer goal on the far side of the field.
+location: Simi Elementary
+state: California
+state_abbrev: CA
+longitude: -118.8089244
+latitude: 34.2314099
+city_longitude: -118.781482
+city_latitude: 34.2694474
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

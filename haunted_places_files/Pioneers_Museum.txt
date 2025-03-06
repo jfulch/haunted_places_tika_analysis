@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: It is supposedly haunted by a manager who was shot dead by an employee over a pay dispute in 1959 (not sure about the year). The security guards who have to patrol the museum at night try to avoid the guy's former apartment because they feel very uneasy there.
+location: Pioneer's Museum
+state: Colorado
+state_abbrev: CO
+longitude: -104.822827
+latitude: 38.830359
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1959/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

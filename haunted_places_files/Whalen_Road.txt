@@ -1,0 +1,21 @@
+city: Pharr
+country: United States
+description: There's a dirt road that leads to a corn field and around the corn field there used to be a ranch that had two barns and a small house. There's proven evidence that the family had died in the burning of Pharr in 1963. Almost exactly 40 years ago. They say to this day you can hear the family talking and running threw the trees screaming help. They also say that they throw rocks and sticks at the people that walk and drive by. And the addition of the father searching for his cattle dressed in black with an ax.
+location: Whalen Road
+state: Texas
+state_abbrev: TX
+longitude: -98.2158883
+latitude: 26.1471207
+city_longitude: -98.1836216
+city_latitude: 26.1947962
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1963/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

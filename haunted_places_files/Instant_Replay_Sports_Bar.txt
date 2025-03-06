@@ -1,0 +1,19 @@
+city: Carpentersville
+country: United States
+description: formerly Big Boy's restaurant - in Carpentersville on rte 25 and Lake Marion Roads now closed! resold threes x over but the same building is occupied. Five ghosts linger there.July 2005 update: One of the ghosts here is a cook that was killed in the late 80's by a jealous husband.
+location: Instant Replay Sports Bar
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.2578582
+city_latitude: 42.1211364
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1936/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

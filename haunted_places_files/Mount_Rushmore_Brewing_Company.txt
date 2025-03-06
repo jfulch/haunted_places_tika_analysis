@@ -1,0 +1,20 @@
+city: Hill City
+country: United States
+description: This building was the first funeral home in Hill City, and the crematory can still be seen in the basement. Employees at this now restaurant highly dislike going up to the third floor to sweep late at night, as many strange noises can be heard. One waitress told the story of cleaning upstairs by herself one night. She heard the pool balls on the pool table being broke, and when she turned around, she could still see the balls moving, but no one was upstairs with her.
+location: Mount Rushmore Brewing Company
+state: South Dakota
+state_abbrev: SD
+longitude: -103.5224893
+latitude: 43.9485362
+city_longitude: -103.575193
+city_latitude: 43.9324855
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

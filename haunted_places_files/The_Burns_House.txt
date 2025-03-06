@@ -1,0 +1,19 @@
+city: Milford
+country: United States
+description: image of little girl seen in window upstairs, house abandoned for many years. Picture taken by several different students from Milford high school. High quality cameras...indisputable image of little girl looking east from the second floor window.
+location: The Burns House
+state: New Hampshire
+state_abbrev: NH
+city_longitude: -71.6489836
+city_latitude: 42.8353619
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

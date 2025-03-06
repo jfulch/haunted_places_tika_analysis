@@ -1,0 +1,21 @@
+city: Bowling Green
+country: United States
+description: Back in '96 a man was found dead in his pickup truck in the rear parking lot. The cause of death was never determined, and the vehicle was stolen. No one ever figured out who he was, or what he died of. These days when people park in the spot where his truck was, and leave their vehicle overnight, you can walk up to it and see a man in the passenger seat who looks to be dead or sleeping. Its always the same guy. When any of the guards on duty call a police officer over to remove the guy, they find the car empty. Every single time. The parking spot has an oil stain that looks like a face and has never washed off or changed over the years. The police have nicknamed him "the sleeper". It’s so common; when they call PD dispatch they just say, "We have a sleeper".
+location: Greenwood Mall
+state: Kentucky
+state_abbrev: KY
+longitude: -86.42739420000001
+latitude: 36.9483141
+city_longitude: -86.4808043
+city_latitude: 36.9685219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

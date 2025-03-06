@@ -1,0 +1,20 @@
+city: Richfield
+country: United States
+description: Use to be farmland, and the farmer hung himself on the tree at the bottom of the hill. Rumors of the ghost still lurking around.
+location: Adam's Hill
+state: Minnesota
+state_abbrev: MN
+longitude: -93.3181176
+latitude: 44.87201470000001
+city_longitude: -93.2830021
+city_latitude: 44.8832982
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1976/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

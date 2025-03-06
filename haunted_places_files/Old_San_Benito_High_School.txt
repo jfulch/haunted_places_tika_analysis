@@ -1,0 +1,21 @@
+city: San Benito
+country: United States
+description: It is said that in the old high school you can hear screams, crying and a little girl that walks the halls of the abandon school which use to be a hospital during WW11 for the injured.
+location: Old San Benito High School
+state: Texas
+state_abbrev: TX
+longitude: -97.6522078
+latitude: 26.1416839
+city_longitude: -97.6311006
+city_latitude: 26.132576
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

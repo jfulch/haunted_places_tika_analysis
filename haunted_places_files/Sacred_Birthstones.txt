@@ -1,0 +1,21 @@
+city: Wahiawa
+country: United States
+description: Outside this plantation town are ancient birthing stones where royalty would come to give birth. Any attempt to move these stones will prove fruitless. The stones make their way back to the area by themselves.
+location: Sacred Birthstones
+state: Hawaii
+state_abbrev: HI
+longitude: -158.0363861
+latitude: 21.5047648
+city_longitude: -158.0209227
+city_latitude: 21.5010495
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

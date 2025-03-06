@@ -1,0 +1,19 @@
+city: Byron
+country: United States
+description: There was a man named Nick Bradon that lived and built the house, he was plowing the field when he fell of the tractor and got ran over with the blades of the plow. There are reports of lights that go on and off, rocking chairs that rock on their own, foot steps, and there have been reports if people sleeping in the upstairs rooms have seen figure of people watching over them.
+location: McGuire's House
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.9444027
+city_latitude: 42.8228091
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

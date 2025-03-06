@@ -1,0 +1,20 @@
+city: Jackson
+country: United States
+description: This building was used as the state capitol from 1839-1903, and is now a museum open to the public. At one time during the 1800's, a legislator died from a heart attack in his office, and slumped from his desk, hitting the floor. To this day, sometimes around 5:15 in the afternoon, a thud is heard coming from that office. Security officers have also reported hearing doors slamming and hammering in the night.
+location: Old Capitol
+state: Mississippi
+state_abbrev: MS
+longitude: -90.1798705
+latitude: 32.2991558
+city_longitude: -90.1848103
+city_latitude: 32.2987573
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1839/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

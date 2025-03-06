@@ -1,0 +1,21 @@
+city: Omaha
+country: United States
+description: The building can be empty except for you and the floor will creek and footsteps can be heard. Doors will close for no reason. Strange noises are always heard.
+location: Alpha School
+state: Nebraska
+state_abbrev: NE
+longitude: -95.9238826
+latitude: 41.2430888
+city_longitude: -95.9979883
+city_latitude: 41.2523634
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

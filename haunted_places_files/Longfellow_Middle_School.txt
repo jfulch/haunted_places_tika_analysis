@@ -1,0 +1,21 @@
+city: Falls Church
+country: United States
+description: Back in the 1960's, the principal of Longfellow suffered a massive heart attack and died in his office at the school. After hours, custodians and other faculty report seeing him walk around the halls, apparently looking for troublemakers - as he would do normally as principal. They also have reported doors shutting, lights turning off, voices, and other noises, all of which have no explanations. This school, reportedly, is one of the most haunted in all of northern Virginia. In 1995, a teacher even reported hearing a moaning and screaming down the hallways, with no one else around.
+location: Longfellow Middle School
+state: Virginia
+state_abbrev: VA
+longitude: -77.17461469999999
+latitude: 38.9096183
+city_longitude: -77.1710914
+city_latitude: 38.88233400000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1995/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

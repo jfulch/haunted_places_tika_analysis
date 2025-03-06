@@ -1,0 +1,21 @@
+city: Roscommon
+country: United States
+description: Problems w/ cars (ex. electrical systems....not starting) seeing apparitions......many weird things
+location: Pere Cheney Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -84.6351845
+latitude: 44.5731364
+city_longitude: -84.5919682
+city_latitude: 44.4983504
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

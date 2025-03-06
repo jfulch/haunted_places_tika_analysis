@@ -1,0 +1,21 @@
+city: Simi Valley
+country: United States
+description: at night, there is a figure that comes around every once and a while. This figure is white, and appears to be furry. This figure also seems to run on all fours, like a gorilla. There have been several eyewitnesses who have seen this running figure. This figure runs fast, and is almost like a sudden flash of light. There have also been sightings of floating apparitions that have flown from tree to tree at the blink of the eye. Many other people have said to see a white man sitting on rocks staring at you, then stands up after "he" sees you there. There have also been sightings of glowing spots in the grass. And when you walk into them, you seem to vanish from sight. Here are some links that you may be interested in  http://www.sebar.com/haunted
+location: Sycamore Park
+state: California
+state_abbrev: CA
+longitude: -118.7456568
+latitude: 34.2546424
+city_longitude: -118.781482
+city_latitude: 34.2694474
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

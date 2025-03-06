@@ -1,0 +1,21 @@
+city: Mackinac Island
+country: United States
+description: is supposed to have a ghost. If you have any info please email Haunted Places
+location: Stone Point Cottage
+state: Michigan
+state_abbrev: MI
+longitude: -84.6042377
+latitude: 45.85236889999999
+city_longitude: -84.6189339
+city_latitude: 45.8491796
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

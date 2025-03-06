@@ -1,0 +1,21 @@
+city: Cragfont
+country: United States
+description: Now toured during the day, at night witnesses have seen candles burning inside, heard loud screams, breathing and the feeling of being followed.
+location: Castalian Springs
+state: Tennessee
+state_abbrev: TN
+longitude: -86.34214879999999
+latitude: 36.4046396
+city_longitude: -86.34214879999999
+city_latitude: 36.4046396
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

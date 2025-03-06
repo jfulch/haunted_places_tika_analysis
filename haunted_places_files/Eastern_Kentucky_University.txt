@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: Sullivan hall - now a girl's dormitory is said to be haunted by the spirit of a nursing student who committed suicide there in the 1970's. Also, Alumni House is said to be haunted. The most haunted house in Richmond by far is that of White Hall mansion.
+location: Eastern Kentucky University
+state: Kentucky
+state_abbrev: KY
+longitude: -84.298672
+latitude: 37.7353214
+city_longitude: -84.2946539
+city_latitude: 37.7478572
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2009/09/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

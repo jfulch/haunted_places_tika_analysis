@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: after bell rings you see a kid in 60 or 70s clothes walking the hallways but if you get close he disappears.
+location: Carter Middle School
+state: Michigan
+state_abbrev: MI
+longitude: -83.004324
+latitude: 42.528051
+city_longitude: -83.01465259999999
+city_latitude: 42.5144566
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

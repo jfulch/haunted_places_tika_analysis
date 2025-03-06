@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: The Wilson Plaza historical development started in 1927. In 1951 Mr. Wilson built a 17-story office tower with a four-story penthouse. The penthouse was Wilson's pride and joy. The 20th floor was finished out as a game room with a private bar constructed on a grand scale of mahogany and trimmed in tufted leather and brass. The view from the penthouse was described as rivaling that of the Top of the Mark Restaurant in San Francisco. It was the scene of many "invitation only" parties attended by Corpus' elite, where Wilson negotiated many of his major business deals. Most of the talk centered on "Sam's" parties and card games. The 21st floor contained guest rooms for "out-of-town" clients. After Mr. Wilson's death in 1957, Mrs. Wilson hosted society, civic, bridge and debutante functions in the penthouse. Today the Tower is said to still be inhabited by Mrs. Wilson, overseeing what goes on in the building. Many Tenants have witnessed shadows and sounds while alone in their offices, especially in the early mornings or late nights. Elevators also have unusual happenings. Stopping on different floors that are not lighted up, with an eerie feeling of someone else catching a ride with you.
+location: Wilson Tower
+state: Texas
+state_abbrev: TX
+longitude: -97.3970778
+latitude: 27.7955517
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1927/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

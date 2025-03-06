@@ -1,0 +1,21 @@
+city: Baja
+country: United States
+description: About in the seventies, it is told by former nurses and employees that in the fourth floor of the Hospital del Sagrado Corazón (Sacred Heart Hospital)a young girl possessed by the devil was interned for several weeks, until she dies there. It is also said that an exorcism took place in her room, which was about the middle of the corridor to the east. The hospital was owned by a local company that sold the building, which is located in Reforma Avenue in downtown Mexicali, and it is now a hotel. The floor where it's supposed to have taken place the possessed case is often colder tan the actual weather and the spot near the door of the room is darker than others places. But the local church and the companies involved denied the case.
+location: Hospital del Sagrado Corazón
+state: California
+state_abbrev: CA
+longitude: -117.0458512
+latitude: 32.5271023
+city_longitude: -115.2837585
+city_latitude: 30.8406338
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

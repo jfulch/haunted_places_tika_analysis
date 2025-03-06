@@ -1,0 +1,21 @@
+city: Swiftwater
+country: United States
+description: Room 7664 at the now closed hotel was rumored to be haunted by the ghost of a woman who was killed by her husband in one of the honeymoon rooms. Also, it is said that the previous owner, Emil Wagner (who committed suicide about 4 years ago) could be heard in the dining room of the hotel early in the morning. Also before the closing of the hotel last October, there were abnormal occurrences in the hotel. - January 2007 Update: It was completely leveled in 2005, only the golf course remains. They are currently building another hotel with the hope of turning it into a casino once the licenses are issued.
+location: Mount Airy Lodge
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.32170400000001
+latitude: 41.1133504
+city_longitude: -75.3266416
+city_latitude: 41.0881409
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

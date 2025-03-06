@@ -1,0 +1,21 @@
+city: Hayward
+country: United States
+description: Ghosts are seen near Robinson Hall around 10pm. A male & female who are not shy. The female is said to wear a "little bo peep" costume.
+location: Cal State University
+state: California
+state_abbrev: CA
+longitude: -122.0566765
+latitude: 37.6563446
+city_longitude: -122.0807964
+city_latitude: 37.6688205
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

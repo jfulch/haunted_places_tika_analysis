@@ -1,0 +1,21 @@
+city: Pine Knot
+country: United States
+description: Down towards the lower part of Cal Hill just as you round the corner before the church a black object will chase you, sometimes as far as the church, sometimes even farther. There used to be an old house there and if you went in you could see a soldier's jacket hanging on the back of a chair and blood in one of the jacket's pockets.
+location: Cal Hill Rd
+state: Kentucky
+state_abbrev: KY
+longitude: -84.4077741
+latitude: 36.6492206
+city_longitude: -84.4385489
+city_latitude: 36.6509124
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

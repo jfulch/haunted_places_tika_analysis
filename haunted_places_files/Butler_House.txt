@@ -1,0 +1,19 @@
+city: Cyril
+country: United States
+description: in the late 50s a man named Jim Butler killed his son in the upstairs bathroom with a axe then went out to his shed and killed himself. There have been many orb photos, and sometimes you can hear crying and yelling coming from upstairs.
+location: Butler House
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -98.2006044
+city_latitude: 34.8964555
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1969/11/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

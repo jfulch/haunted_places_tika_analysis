@@ -1,0 +1,21 @@
+city: Placerville
+country: United States
+description: formerly posted as Empire Theater - May 2004 Update -The theater has since closed down.  There have been reports of ghosts walking up and down the isles, and in the bathroom, & cold spots.
+location: Empire Antiques
+state: California
+state_abbrev: CA
+longitude: -120.8009393
+latitude: 38.7289806
+city_longitude: -120.798546
+city_latitude: 38.7296252
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

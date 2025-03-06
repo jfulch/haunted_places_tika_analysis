@@ -1,0 +1,21 @@
+city: Globe
+country: United States
+description: At the division, fishers can sometimes see a shadow on the wall that looks like the Mona Lisa. It is a rocky area, and there are lots of possibilities for suicides or murders. There was a sighting of something walking. There were no trees or people around at the time. It stopped in front of the wall when a light was shined in that area. The rivers of Arizona have long been a good sight for seeing ghosts, especially in the morning.
+location: Salt River
+state: Arizona
+state_abbrev: AZ
+longitude: -110.7864984
+latitude: 33.3942223
+city_longitude: -110.7864984
+city_latitude: 33.3942223
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

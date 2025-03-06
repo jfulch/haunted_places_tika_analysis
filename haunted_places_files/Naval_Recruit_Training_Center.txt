@@ -1,0 +1,21 @@
+city: Orlando
+country: United States
+description: The second floor of the Division Ten barracks gives you a vrey bad feeling while making your rounds during watch. The whole floor sounds like it's breathing. - October 2004 Update; was torn down in 2002
+location: Naval Recruit Training Center
+state: Florida
+state_abbrev: FL
+longitude: -81.3389327
+latitude: 28.5772767
+city_longitude: -81.3792365
+city_latitude: 28.5383355
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2002/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

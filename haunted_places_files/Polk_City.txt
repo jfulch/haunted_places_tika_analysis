@@ -1,0 +1,21 @@
+city: Polk
+country: United States
+description: Fantasy of Flight Aircraft Museum - Owner collects WW1 and WW2 military aircraft. Most of the aircraft were found after being shot down. Voices, footsteps, cold spots can be experienced. A Pilot has been reported as being seen hanging in a cockpit of a crashed plane that is exhibited exactly as found. On 9/11/01 employee reported seeing 2 men dressed in ww2 uniforms walking on tarmac and entering one of the hangars.
+location: Polk City
+state: Florida
+state_abbrev: FL
+longitude: -81.8239676
+latitude: 28.1825147
+city_longitude: -81.6911559
+city_latitude: 27.8617347
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

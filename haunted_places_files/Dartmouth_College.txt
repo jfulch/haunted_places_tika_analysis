@@ -1,0 +1,21 @@
+city: Hanover
+country: United States
+description: Alpha Theta - Likely due to the untimely deaths of fraternity brothers and their unidentified female "companions" due to a boiler explosion and fire in the house many decades ago, specters have been seen and the presence of spirits detected in various parts of the house. Hot spots are primarily in and around the remaining original structure - the house basement.
+location: Dartmouth College
+state: New Hampshire
+state_abbrev: NH
+longitude: -72.2886935
+latitude: 43.7044406
+city_longitude: -72.2895526
+city_latitude: 43.7022451
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1870/01/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

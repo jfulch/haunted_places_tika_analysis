@@ -1,0 +1,21 @@
+city: Highland Park
+country: United States
+description: Many years ago, a small boy was crossing the street directly across from the high school and was hit by a truck. He died instantly. Just a few years ago, there was a janitor walking around the school on Halloween night and noticed a small boy standing across the street. The janitor went outside and saw a giant freight truck coming toward the boy. The little boy started in to the street and the janitor ran after him telling him to stop. Just as the janitor jumped at the little boy to get him out of the way, he disappeared.
+location: Highland Park High School
+state: Illinois
+state_abbrev: IL
+longitude: -87.8013556
+latitude: 42.1926682
+city_longitude: -87.8003437
+city_latitude: 42.1816918
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

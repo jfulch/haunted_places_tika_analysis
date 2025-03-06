@@ -1,0 +1,21 @@
+city: Winchester
+country: United States
+description: In the library up stairs a friendly ghost haunts the library. The most trouble it ever gives anybody is mysteriously shutting down computers.
+location: Conkwright Middle
+state: Kentucky
+state_abbrev: KY
+longitude: -84.16755359999999
+latitude: 38.005748
+city_longitude: -84.17965029999999
+city_latitude: 37.990079
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1973/06/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

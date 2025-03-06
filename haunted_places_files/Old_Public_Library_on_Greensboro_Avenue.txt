@@ -1,0 +1,21 @@
+city: Tuscaloosa
+country: United States
+description: A presence is felt in the round room on the left side of building, as if something is watching over you and protecting you. Upstairs, leading to the top turret, a black evil presence is felt, trying to make you fall down the stairs. There’s the sensation of something against your back, and the feeling that whatever is up there wants to do you harm. Another presence is felt in the main room at the window. There’s the sensation of someone looking out and waiting. In the lower basement level there were tunnels where soldiers hid during the Civil War, and presences can be felt there as well.
+location: Old Public Library on Greensboro Avenue
+state: Alabama
+state_abbrev: AL
+longitude: -87.56466569999999
+latitude: 33.202039
+city_longitude: -87.56917349999999
+city_latitude: 33.2098407
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

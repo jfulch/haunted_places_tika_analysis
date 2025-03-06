@@ -1,0 +1,21 @@
+city: Carson City
+country: United States
+description: Abe Curry still returns looking for his wife.
+location: Curry House
+state: Nevada
+state_abbrev: NV
+longitude: -119.7689218
+latitude: 39.16612870000001
+city_longitude: -119.7674034
+city_latitude: 39.1637984
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1936/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

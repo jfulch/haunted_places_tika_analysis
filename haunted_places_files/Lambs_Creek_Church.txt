@@ -1,0 +1,21 @@
+city: King George County
+country: United States
+description: off of U.S. route 3 on Lambs creek church road (R.R. 4) there is Lamb's Creek church where two civil war soldiers can be seen resting on a rainy night. This usually happens on rainy nights. Also the church's windows glow from the inside around the 27th of October. There is also a ghost of a young girl who died of pneumonia, a strange blue light and an apparition of the girl running and playing.
+location: Lambs Creek Church
+state: Virginia
+state_abbrev: VA
+longitude: -77.2688688
+latitude: 38.26429479999999
+city_longitude: -77.1485163
+city_latitude: 38.2372863
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1934/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Mountain View
+country: United States
+description: There are several building on the old Naval Base that are reported to be haunted. One is the old infirmary, which was built in the 1930's. When the base was still operated by the Navy, Security Police Officers would check the building at night and reported seeing a little girl dressed in old style clothing inside staring at them.
+location: Moffett Field
+state: California
+state_abbrev: CA
+longitude: -122.0540996
+latitude: 37.4112691
+city_longitude: -122.0838511
+city_latitude: 37.3860517
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Caldwell
+country: United States
+description: A long time ago a woman hung herself and if you drive out there at night, and turn off you car lights before crossing over the bridge you will see her shadow up on the side of the bridge. Also many people have jumped off the bridge and you can hear their splashes, but you wont see anything. There is also a light on the island out there that comes on at 7:00 pm every night, but there is not a house or even power lines going out there.
+location: River Road Bridge
+state: Idaho
+state_abbrev: ID
+longitude: -116.6871708
+latitude: 43.69714870000001
+city_longitude: -116.6873596
+city_latitude: 43.66293839999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

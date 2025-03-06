@@ -1,0 +1,21 @@
+city: Camp Hill
+country: United States
+description: is a technical school. The president was killed several years back and at nights the lights flicker along with doors becoming unlocked. Ironically no one has ever stole anything.
+location: The Computer Learning Network
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.9219488
+latitude: 40.248876
+city_longitude: -76.9199742
+city_latitude: 40.23981180000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

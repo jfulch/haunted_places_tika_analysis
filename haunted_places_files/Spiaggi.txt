@@ -1,0 +1,18 @@
+city: Cape May
+country: United States
+description: (formerly known as Maureen's & New International Cuisine) - this Italian restaurant harbors the ghost of a baby girl, who the owners have named Gloria. It is believed that either murder was involved or the baby girl died while in her crib. Most of the haunting activity occurs in the cupola and upper floors of this restaurant. Customers & employees have felt her presence and have heard the rustling of furniture in the upper floors. An old black-and-white photography taken about 1900, located near the entrance in the downstairs lounge, shows the ghostly image of the baby girl Gloria. What is shocking about this picture is that the baby appears to be trapped in an old column! The picture was enlarged and examined by expers and the owners and have determined that there's no way a baby could stand in that position.
+location: Spiaggi
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1957/09/01
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

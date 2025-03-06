@@ -1,0 +1,21 @@
+city: Coronado
+country: United States
+description: Various hauntings occur in this hotel and has been depicted on famous hauntings programming
+location: Hotel Del Coronado
+state: California
+state_abbrev: CA
+longitude: -117.178448
+latitude: 32.680923
+city_longitude: -117.1830891
+city_latitude: 32.6858853
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

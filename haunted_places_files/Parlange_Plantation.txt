@@ -1,0 +1,21 @@
+city: Baton Rouge
+country: United States
+description: a girl in a wedding dress can be scene running through the oak trees on the property.
+location: Parlange Plantation
+state: Louisiana
+state_abbrev: LA
+longitude: -91.4876635
+latitude: 30.6303777
+city_longitude: -91.1403196
+city_latitude: 30.4582829
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

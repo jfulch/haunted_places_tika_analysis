@@ -1,0 +1,21 @@
+city: Beloit
+country: United States
+description: In the backroom of the stage where all of the costumes are kept and sometimes students gather to discuss or do homework during free time there is said to be a man who used to live on that spot where McNeel was built who haunts it. One of the worst experiences was when the Theatre teacher Ms. Franze was sleeping on the couch and when she awoke there was blood everywhere and students soon pointed out that she had an electricity plug stuck into the back of her head. The ghost also writes in the mirror hanging on the wall and slams the door. There's a chalkboard in the room on which 666 will be scratched and no one will be able to erase it and then a few days later disappear and then reappear. It's very quiet back there and there's always a dark feeling like you're not supposed to be in there. Ceiling tiles also fall down but only if someone had been standing there just seconds before. This has happened on many occasions.
+location: McNeel Middle School
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.07208899999999
+latitude: 42.5190863
+city_longitude: -89.03177649999999
+city_latitude: 42.5083482
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

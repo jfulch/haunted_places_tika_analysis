@@ -1,0 +1,19 @@
+city: Versailles
+country: United States
+description: A full body apparition of a little girl was seen in the kids section where it used to be. A man was grabbed by the arm and felt a cold spot. He felt something breathing down his neck. There have been reported sightings of the old woman who used to own the place. She died waiting for her son to get back from the war. She came to find out he was killed in Action. She died a couple days later. She has been seen outside on the old well. Also she has been walking around in the yard. She is seen from around 7pm. to 10pm. She is wearing a white nightgown with white slippers. There have also been reported cold spots where the old woman's chair used to be. Sometimes if you are lucky enough you can hear the woman singing.
+location: The old Library
+state: Illinois
+state_abbrev: IL
+city_longitude: -90.6559611
+city_latitude: 39.8850477
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Stillmore
+country: United States
+description: Old Kenfield Rd - While walking through the black half of the cemetery (being a relatively old cemetery in the south (some new graves, though), it is segregated)which is on the left-hand side of the road (going downhill), on a very warm August afternoon, my kids and walked through what was a very cold, moist spot. It was way out in the middle of the cemetery, no trees or other shade around, no tombstones close by. It only lasted a brief moment, and surprised us so much that we didn't realize what had occurred for a minute. We then walked the whole area again, finding nothing.
+location: Stillmore Cemetery
+state: Georgia
+state_abbrev: GA
+longitude: -82.2208046
+latitude: 32.4328726
+city_longitude: -82.21512330000002
+city_latitude: 32.442115
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1955/12/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 35m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

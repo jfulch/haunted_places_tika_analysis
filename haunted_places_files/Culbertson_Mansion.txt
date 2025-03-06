@@ -1,0 +1,21 @@
+city: New Albany
+country: United States
+description: This tourist attraction contains the ghost of a woman on the 3rd floor. She is heard walking about and some have seen her. She is believed to be the first wife of the former owner and may have remained behind due to the mistreatment of her surviving children by the husband's new wife. Note: this mansion is open to the public and guided tours are available.
+location: Culbertson Mansion
+state: Indiana
+state_abbrev: IN
+longitude: -85.8127674
+latitude: 38.2864778
+city_longitude: -85.8241312
+city_latitude: 38.2856247
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

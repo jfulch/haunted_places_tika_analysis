@@ -1,0 +1,21 @@
+city: Wichita
+country: United States
+description: for almost 150 years ghost hunters and curious people have traveled to an old crumbling bridge near Wichita known to be haunted by restless spirit of an agonized mother desperately seeking her murdered baby. the restless spirits of many of dead continue to hover around the bridge. many people have died there it is a place of great sadness
+location: Jesters Creek/Theorosas Bridge
+state: Kansas
+state_abbrev: KS
+longitude: -97.374042
+latitude: 37.88310600000001
+city_longitude: -97.330053
+city_latitude: 37.68717609999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

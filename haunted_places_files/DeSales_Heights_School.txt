@@ -1,0 +1,21 @@
+city: Parkersburg
+country: United States
+description: Has since be torn down - Next to the Stonewall Jackson site. It is an abandoned catholic school. Many legends and ghost sites there. Has flashing lights and people walking the halls. Legend has it a young boy stole a gold cross from the priest then the boy died soon after. The cross is supposed to still be there. Also many nuns died there and are buried beneath the school in stoned-up walls. Anyone who goes there, DO NOT GO ALONE at night. It is the scariest site you will ever visit.
+location: DeSales Heights School
+state: West Virginia
+state_abbrev: WV
+longitude: -81.5529022
+latitude: 39.2759083
+city_longitude: -81.56151349999999
+city_latitude: 39.2667418
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

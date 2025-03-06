@@ -1,0 +1,21 @@
+city: Bandera
+country: United States
+description: Bandera Pass - According to a book in the Kerrville Library Bandera Pass is one of the most haunted places in Kerr County. Bandera Pass is some Hills that separate Kerr County and Bandera County. Bandera Pass has it's own ghost lights that nobody can explain like those of Marfa and Anson. The lights are believed to be that of spirits that are protecting a lost Treasure that settlers hid from Indians back in the 1800's. Bandera Pass also has a Headless Horseman who rides from Bandera Texas to Center Point Texas. He is a Mail carrier who got his head cut off by Apache Indians his fate is to ride for eternity looking for his head. Bandera Pass also has a ghost wagon of settlers that were murdered by Apache Indians. These settlers now ride on certain nights and cut thru local ranchers pastures. People have reported seeing all of these three in the surrounding area. All of this is in the Kerrville area.
+location: Kerr County
+state: Texas
+state_abbrev: TX
+longitude: -98.9347206
+latitude: 29.7231426
+city_longitude: -99.0736462
+city_latitude: 29.7266131
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

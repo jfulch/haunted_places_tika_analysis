@@ -1,0 +1,21 @@
+city: Frankenmuth
+country: United States
+description: Story has it, that in the late 1800's when the mall was still a school, a teacher was killed there. A murder was running loose and this unlucky teacher was right in harms way. She has been seen wandering the hallways trying to protect her students from the killer. - March 2005 Correction: St. Lorenz Lutheran grade school--was not built on that site until 1928. And there were all men teachers until the late 1940's.
+location: School House Mall
+state: Michigan
+state_abbrev: MI
+longitude: -83.7395964
+latitude: 43.3238676
+city_longitude: -83.7380194
+city_latitude: 43.331691
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Omaha
+country: United States
+description: footsteps and pounding on the front door are the main events here.
+location: O'Hanlon house
+state: Nebraska
+state_abbrev: NE
+longitude: -96.002749
+latitude: 41.27339800000001
+city_longitude: -95.9979883
+city_latitude: 41.2523634
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1993/11/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Duluth
+country: United States
+description: Back in the 1970's a girl was raped in the girl's bathroom on the first floor. She didn't know what to do, afraid they would attack her again, so she killed herself in her home 3 days before graduation. Ever since students have heard moans in the girl's bathroom when they are alone and red fingerprints on the mirrors. Janitors have also claimed to find papers and belongings that had the victims name on them.
+location: Duluth Central High School
+state: Minnesota
+state_abbrev: MN
+longitude: -92.159175
+latitude: 46.748551
+city_longitude: -92.1004852
+city_latitude: 46.78667189999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

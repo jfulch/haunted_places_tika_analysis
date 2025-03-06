@@ -1,0 +1,20 @@
+city: Laramie
+country: United States
+description: green hand stalking people, reports of tall men in top hats walking in and out of lockers, and hearing noises in the basement.
+location: University of Wyoming lab school
+state: Wyoming
+state_abbrev: WY
+longitude: -105.5798719
+latitude: 41.3147013
+city_longitude: -105.5911007
+city_latitude: 41.3113669
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

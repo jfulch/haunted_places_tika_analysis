@@ -1,0 +1,19 @@
+city: Fort Supply
+country: United States
+description: Ghosts roam the prison yard, you can hear screams coming from the old commissary building. Not to mention 60 yards west from the prison is western state mental institute. Lights flashing and abnormal sightings. And there is a light that will not shut off even when the wires are cut.
+location: Western State/WKCC
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -99.5723366
+city_latitude: 36.5736459
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

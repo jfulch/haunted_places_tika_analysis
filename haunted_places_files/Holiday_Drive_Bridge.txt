@@ -1,0 +1,21 @@
+city: Zionsville
+country: United States
+description: Stories of a lynching here by the KKK. Road is very narrow and quite isolated. Very dark at night. Gravel road. Many curves through the woods. Reported screams heard here late at night. Located off of North Michigan Rd. past N. Michigan and Willow Rd. On left hand side. Look for small green street sign. - March 2008 Update: The bridge still exists, but they have "bridge out" signs all over it. it may not be safe to investigate.
+location: Holiday Drive Bridge
+state: Indiana
+state_abbrev: IN
+longitude: -86.28286469999999
+latitude: 39.9680194
+city_longitude: -86.261937
+city_latitude: 39.9508733
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Eagle
+country: United States
+description: The previous owner was building a resort but was short a sum of money right before it was finished, the man vowed that no one would be able to run the place. He died and haunts the whole golf course.
+location: Rainbow Springs golf course
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.415458
+latitude: 42.850164
+city_longitude: -88.474265
+city_latitude: 42.8794563
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

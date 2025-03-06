@@ -1,0 +1,21 @@
+city: Highland
+country: United States
+description: Washington Cemetery - there is a old cemetery near a farm the cemetery is hard to find because it is very old it is from the 1800's there are many people who have seen a family walk around in front of the road they will do a stop signal and they will go through your car it usually happens around 12-3 am.
+location: North Chodikee Lake Road
+state: New York
+state_abbrev: NY
+longitude: -73.989414
+latitude: 41.7612855
+city_longitude: -73.9601382
+city_latitude: 41.7209267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1812/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

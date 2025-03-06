@@ -1,0 +1,21 @@
+city: Pleasanton
+country: United States
+description: This building was constructed in the 1800's. A woman dressed in blue is reported walking around on the second floor of the building and the owner and his family claimed to have seen her too. She has written “Boo!Boo!” on the inside of the restroom mirror, every time it is replaced. A girl went into the basement to get boxes and was violently shoved from behind her when she turned around there was no one there. After hours when counting money, things have been moved, sodas move to opposite sides of the table. The license plates the line the ceiling move random ones not all of them just one or two. Strange things happen when the lights go out.
+location: Gay 90's Pizza
+state: California
+state_abbrev: CA
+longitude: -121.876703
+latitude: 37.658414
+city_longitude: -121.8746789
+city_latitude: 37.6624312
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

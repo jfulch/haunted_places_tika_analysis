@@ -1,0 +1,21 @@
+city: Globe
+country: United States
+description: This used to be Noftsger Hill Elementary. When it was a school, a lantern light could be seen at night, children could hear voices, and objects such as books were moved. After the school was closed, the property was bought and reopened as a bed and breakfast.
+location: Noftsger Hill Bed and Breakfast
+state: Arizona
+state_abbrev: AZ
+longitude: -110.787725
+latitude: 33.404756
+city_longitude: -110.7864984
+city_latitude: 33.3942223
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

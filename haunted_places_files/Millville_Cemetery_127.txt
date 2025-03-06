@@ -1,0 +1,20 @@
+city: Millville
+country: United States
+description: Those that live around Millville have seen many apparitions in the cemetery. One of an elderly gentleman walking around the cemetery. Another of a young girl, she is just standing there by a tree looking off into the field. Witnesses have also have seen a ball of light and ran into several cold spots in the cemetery.
+location: Millville Cemetery 127
+state: Ohio
+state_abbrev: OH
+longitude: -84.6354861
+latitude: 39.3973086
+city_longitude: -84.6543933
+city_latitude: 39.3892219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.783333333333331
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

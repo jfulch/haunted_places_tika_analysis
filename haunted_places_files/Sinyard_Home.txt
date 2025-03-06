@@ -1,0 +1,19 @@
+city: Hawkinsville
+country: United States
+description: After remodeling of this home a female ghost and her toddler son have been seen. You can hear the baby crying and the mother singing to the baby. One will hear walking up and down the steps and a strong smell of perfume will pass by here and there. Things fall out of cabinets. Shower curtains have been jerked open. Clothes have been picked up and folded (not such a bad thing). The owner was also pulled to the top of the steps by a force before the ladder he was on collapsed. Driving by you may see the woman standing in the window. It was found out that a maid and her son was killed in the upstairs maids quarters back after the civil war.
+location: Sinyard Home
+state: Georgia
+state_abbrev: GA
+city_longitude: -83.4721177
+city_latitude: 32.2837731
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

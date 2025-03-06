@@ -1,0 +1,20 @@
+city: Coventry
+country: United States
+description: Hale Homestead - Locals have long reported ghostly activity in and around the house. Dudley Seymour, an attorney who purchased the home in 1914 and devoted himself to the popularization of Nathan Hale, claimed to have seen the ghost of Deacon Hale, the hero's father, peering out of a window. The ghost of a servant sometimes sweeps the upper hall. Nathan's ghost, on the other hand, may account for the sound of someone pacing the floors.
+location: South Street
+state: Connecticut
+state_abbrev: CT
+longitude: -72.3453017
+latitude: 41.7650388
+city_longitude: -72.3393021
+city_latitude: 41.78468
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

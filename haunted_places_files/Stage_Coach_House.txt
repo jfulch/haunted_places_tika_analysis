@@ -1,0 +1,19 @@
+city: Manchester
+country: United States
+description: The old stagecoach house and stables near Coffins Grove Park are said to be haunted by members of the Baker family who ran the stagecoach house and are buried in the family cemetery nearby.
+location: Stage Coach House
+state: Iowa
+state_abbrev: IA
+city_longitude: -91.4579698
+city_latitude: 42.4857853
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

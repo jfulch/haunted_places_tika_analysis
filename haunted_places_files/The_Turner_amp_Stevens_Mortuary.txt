@@ -1,0 +1,21 @@
+city: Alhambra
+country: United States
+description: The employees have already concluded a somewhat accurate story to what is going on there. An old woman, a little boy and a man haunt it. The story goes that the old woman is mean, and is after the little boy. But she can't get to him, because the man is protecting the boy from her. The haunts consists of doors slamming, books flying across the room barely missing people, and sounds of foot steps. As people pass a hallway that has mirrors on both sides of the wall, they have seen the old woman or man in the reflection. Then, they suddenly disappear.
+location: The Turner &amp; Stevens Mortuary
+state: California
+state_abbrev: CA
+longitude: -83.63484299999999
+latitude: 31.6976531
+city_longitude: -118.1270146
+city_latitude: 34.095287
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

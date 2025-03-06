@@ -1,0 +1,21 @@
+city: Williams Township
+country: United States
+description: Glowing lights, eerie sounds, and apparitions.
+location: Hexankopf Rock
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.2412878
+latitude: 40.6178776
+city_longitude: -75.2128996
+city_latitude: 40.6352516
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

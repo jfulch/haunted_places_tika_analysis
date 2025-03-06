@@ -1,0 +1,17 @@
+city: Millfield
+country: United States
+description: Earlier in this century, the Millfield mine in Southeast Ohio was the scene of a series of explosions. The cemetery opened the week before in Chauncey was filled in one day's time from this. On the disaster's anniversary, if you know where to stand, you can feel the ground shiver underfoot, followed by the muffled sound of hoof beats. Legend has it that the mine ponies are fleeing, terrified, from the boiling hell coming up behind them. Listen closely and you will hear them scream as the explosion and fire catches up with them, then ... silence ...
+location: Old Millfield Mine
+state: Ohio
+state_abbrev: OH
+city_longitude: -82.0966442
+city_latitude: 39.4327866
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1803/03/01
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

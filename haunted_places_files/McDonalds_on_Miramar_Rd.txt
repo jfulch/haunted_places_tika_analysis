@@ -1,0 +1,21 @@
+city: San Diego
+country: United States
+description: Strange things would happen during the dead of night while McDonald workers would be closing and preparing for the next day. Tubs of Mustard, straws, etc. would be thrown across and scattered the next morning. In one of the bathroom stalls, there would be a picture of the devil create from the wood grains of the stall door. The door has been replaced due to too many visitors wanting to see the "face".
+location: McDonalds on Miramar Rd.
+state: California
+state_abbrev: CA
+longitude: -117.159597
+latitude: 32.8804286
+city_longitude: -117.1610838
+city_latitude: 32.715738
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

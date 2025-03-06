@@ -1,0 +1,21 @@
+city: Elizabethton
+country: United States
+description: A long time ago a young man and woman were under the steel bridge on a date. The two were robbed! The girl was stabbed and died immediately. The boy was stabbed and ran from robber. He stopped a car on the bridge and jumpe dinto the back seat. Now every year on Halloween night at midnight you can drive onto the bridge and stop in the middle and someone will get into your back seat! You can see the impression of there weight on the seat. You can even try it with your doors locked and he will stilll get in!!
+location: The Steel Bridge
+state: Tennessee
+state_abbrev: TN
+longitude: -82.154065
+latitude: 36.3543648
+city_longitude: -82.21068760000001
+city_latitude: 36.3487196
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

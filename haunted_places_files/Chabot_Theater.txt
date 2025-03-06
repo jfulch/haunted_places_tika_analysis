@@ -1,0 +1,21 @@
+city: Castro Valley
+country: United States
+description: Employees have heard a mans laughing and have seen shadows moving up and down the isle late at night
+location: Chabot Theater
+state: California
+state_abbrev: CA
+longitude: -122.0831134
+latitude: 37.6949419
+city_longitude: -122.0863522
+city_latitude: 37.6940973
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

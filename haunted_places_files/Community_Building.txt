@@ -1,0 +1,21 @@
+city: Montgomery
+country: United States
+description: The Community building is where the town used to hold all there meetings including trials. there are two cages located in front of the building were they used to hold prisoners. It is said if you walk inside the doors of the cages at night you can hear moaning and other sounds of pain.
+location: Community Building
+state: Texas
+state_abbrev: TX
+longitude: -95.7014484
+latitude: 30.4057215
+city_longitude: -95.6963355
+city_latitude: 30.3882613
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: The school's print shop believed to be haunted by the ghost of its first print shop teacher who worked there for over 40 years. Students have felt someone looking over their shoulder as they worked developing film in the darkroom. Witnesses have seen a man out of the corner of their eye, standing outside the darkroom near the film drying area.
+location: Manual Arts High School
+state: California
+state_abbrev: CA
+longitude: -118.2921733
+latitude: 34.0082618
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

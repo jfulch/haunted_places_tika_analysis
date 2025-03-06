@@ -1,0 +1,20 @@
+city: Cambridge
+country: United States
+description: the 9,000 sq ft Colonel Taylor & his lady haunt Victorian Mansion built in 1878. Guests have seen them. They are quite friendly and seem to be watching over us like angels. He walks the stairs and she seams to float down them. They shake our bed on occasion and you will get a cold chill when they are present!
+location: The Colonel Taylor Bed &amp; Breakfast Inn
+state: Ohio
+state_abbrev: OH
+longitude: -81.592353
+latitude: 40.0336466
+city_longitude: -81.5884561
+city_latitude: 40.031183
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1878/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

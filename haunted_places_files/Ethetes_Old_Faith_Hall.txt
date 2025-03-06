@@ -1,0 +1,18 @@
+city: Ethete
+country: United States
+description: The ghost of a little girl wanders around this structure. There have also been reports of pow-wow songs and ghostly figures people dancing about.
+location: Ethete's Old Faith Hall
+state: Wyoming
+state_abbrev: WY
+city_longitude: -108.7726205
+city_latitude: 43.0249581
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

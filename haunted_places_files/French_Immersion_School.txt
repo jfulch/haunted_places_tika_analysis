@@ -1,0 +1,21 @@
+city: Eugene
+country: United States
+description: Reports of a weird presence, lights turn on and off at random times, a man seen walking through the handicap gym, when no ones there, doors opening, everything always looks abandoned as if nothings been touched for years.
+location: French Immersion School
+state: Oregon
+state_abbrev: OR
+longitude: -123.0753301
+latitude: 44.0134357
+city_longitude: -123.0867536
+city_latitude: 44.0520691
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

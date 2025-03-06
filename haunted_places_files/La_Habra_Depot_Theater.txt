@@ -1,0 +1,21 @@
+city: La Habra
+country: United States
+description: Loud footsteps in theater. - Amtrak train (used as a dressing room): Loud banging noises, vision of young girl peeking around wall, vision of couple in Victorian couple walking (seen in mirror).
+location: La Habra Depot Theater
+state: California
+state_abbrev: CA
+longitude: -117.9465241
+latitude: 33.9293256
+city_longitude: -117.946137
+city_latitude: 33.9318591
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1802/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

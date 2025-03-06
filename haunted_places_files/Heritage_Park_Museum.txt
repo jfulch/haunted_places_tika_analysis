@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: There are four houses that are haunted. In one (Sidbury House) a Child supposedly haunts the children's room by playing with the dolls and moving stuff and knocking things down. In another (The Galvan House) a ghost is said to tap unexpected people on the shoulder a on the second floor and someone once heard footsteps leading up to the attic. In another house(A restaurant named The Christian House Bistro there have been reports that at night a lady with a long old fashioned dress and a big hat and shoes is seen walking into the front door and disappearing. People have only seen the backside of her. Then in another house ( The MacCambell House) a ghost named Mary, who died of pneumonia, is said to not let tour guides in the house or to cause noises or if you go on the patio on the second floor she has locked tour guides out on the porch by slamming the door shut then locking it so all you have to hope for if you get locked out is that you can wave somebody down and they'll come help you.
+location: Heritage Park Museum
+state: Texas
+state_abbrev: TX
+longitude: -97.3952284
+latitude: 27.8063547
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

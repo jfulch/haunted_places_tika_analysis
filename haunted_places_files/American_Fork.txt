@@ -1,0 +1,21 @@
+city: Pleasant Grove
+country: United States
+description: American Fork Canyon - If you talk to anyone in Utah you'll know that AF canyon is very creep at night. It is said that the devil owns those woods. People have seen everything up there, from spirts to people in black cloaks. Come and build a fire and talk about the devil.
+location: American Fork
+state: Utah
+state_abbrev: UT
+longitude: -111.7368122
+latitude: 40.3556296
+city_longitude: -111.73854
+city_latitude: 40.3641184
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

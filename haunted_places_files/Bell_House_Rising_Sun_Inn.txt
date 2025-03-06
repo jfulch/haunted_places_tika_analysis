@@ -1,0 +1,21 @@
+city: Franconia
+country: United States
+description: The building was built in the 1700's and is on historic Allentown Rd, which was the only major rd from Bethlehem steel to Philadelphia. The liberty bell was housed in the inn. There was a caretaker killed at the inn. All I know is that her name was Mary and today she regularly haunts the restaurant, the town's people call her "Scary Mary"
+location: Bell House (Rising Sun Inn)
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.376622
+latitude: 40.32755299999999
+city_longitude: -75.35287790000001
+city_latitude: 40.3145367
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

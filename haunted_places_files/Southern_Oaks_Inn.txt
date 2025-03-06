@@ -1,0 +1,21 @@
+city: Lavonia
+country: United States
+description: Footsteps can be heard upstairs in the main house. Several people have also witnessed ghostly apparitions of a male and female, thought to be former owners of the house. Employees have witnessed loaves of bread flying toward them in the kitchen. The present owners have repeatedly had to reposition furniture to its proper position.
+location: Southern Oaks Inn
+state: Georgia
+state_abbrev: GA
+longitude: -83.1084091
+latitude: 34.4387514
+city_longitude: -83.10681799999999
+city_latitude: 34.4359361
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

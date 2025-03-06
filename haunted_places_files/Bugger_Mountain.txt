@@ -1,0 +1,19 @@
+city: Corbin
+country: United States
+description: On a Saturday night back in the 50's a truck driver was going down bugger mountain which is the old road from Corbin to Barberville. He lost control of his rig and went over the side of the mountain. On Saturday nights if you are traveling at high speeds or drinking a set of headlights will come at you and then go off the side of the mountain. When you get to the top of the mountain there will be a light with a bodily figure inside and then disappear.
+location: Bugger Mountain
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.0968761
+city_latitude: 36.9486986
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

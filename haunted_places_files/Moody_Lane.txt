@@ -1,0 +1,19 @@
+city: Francesville
+country: United States
+description: A man named Moody roams the countryside and if you go to Moody Lane and wait where the trees branches are suppose to hang over the road you will see a strange light come toward you. Also there is a graveyard near Moody Lane where a man and a woman were killed on opposite sides of the road. And at midnight you supposedly can see the woman crossing the road to see her man.
+location: Moody Lane
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.8794613
+city_latitude: 40.9853172
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1924/01/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

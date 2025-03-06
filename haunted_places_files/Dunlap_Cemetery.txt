@@ -1,0 +1,21 @@
+city: Dunlap
+country: United States
+description: Cold spots felt around some unmarked graves. Footsteps heard behind witnesses while walking through middle of cemetery towards entrance. Three tall shadowy figures of people seen standing by some big oak trees within the cemetery. Witnesses have recorded a strange voice chanting something over and over and another voice that sound like an elderly man telling them "'Leave us alone' all of these activities happened all in one night, the voices were only heard on a tape recorder.” Reported the witnesses.
+location: Dunlap Cemetery
+state: California
+state_abbrev: CA
+longitude: -119.133548
+latitude: 36.7125282
+city_longitude: -119.1209469
+city_latitude: 36.738281
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

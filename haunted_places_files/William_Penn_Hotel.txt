@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: The unused 22nd and 23rd floor are haunted. Was a female dormitory for a while early in the century. There was a murder in there. Night watchman report, gusts of cold wind, (windows not open), feeling the presents of people watching and unusual sounds of laughter and feet shuffling.
+location: William Penn Hotel
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.99684429999999
+latitude: 40.4407149
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

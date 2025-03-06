@@ -1,0 +1,21 @@
+city: Coweta
+country: United States
+description: A young girl who went there killed herself in 1999 with a bible in her hand, to get back at her father for making her break up with him. She is said to haunt the halls looking for her boyfriend who died in a car accident shortly there after. Some say you can see him playing basketball in the High School gym.
+location: Coweta High School
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.6353158
+latitude: 35.9500418
+city_longitude: -95.650814
+city_latitude: 35.9517674
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Norfolk
+country: United States
+description: Local mental institution, there have been visions of people walking the halls, then turning down a dead end hallway and disappearing. Also many howls, screams, pounding throughout the night.
+location: Regional Center
+state: Nebraska
+state_abbrev: NE
+longitude: -97.3877127
+latitude: 42.0571646
+city_longitude: -97.4137553
+city_latitude: 42.03272339999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

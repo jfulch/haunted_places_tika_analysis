@@ -1,0 +1,21 @@
+city: Woodward
+country: United States
+description: Richmond High School - Richmond is an old high school that was said to have burned in the mid 1900s. if you go in the old gym you will hear either a pep ralley or basketball practice. be careful if you go up the stairs the upper floors are rotting but you will see lights looking down at you from holes in the ceilling.it is always freezing even in the middle of summer if you stick around too long balls of light will try to chase you away
+location: South East of Woodward on highway270
+state: Oklahoma
+state_abbrev: OK
+longitude: -99.3828572
+latitude: 36.414424
+city_longitude: -99.3903862
+city_latitude: 36.4336481
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1907/08/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

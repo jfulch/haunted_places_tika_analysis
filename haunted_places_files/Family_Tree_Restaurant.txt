@@ -1,0 +1,21 @@
+city: Santaquin
+country: United States
+description: Before the building was redone and turned into a restaurant a little boy drown in a canal that ran through the back. People see and hear things on a monthly basis. Whether it be the doorbells sticking straight in the air and ringing or a lady in blue walking into the backrooms. If you are lucky you might even hear or see a pot slam into a wall.
+location: Family Tree Restaurant
+state: Utah
+state_abbrev: UT
+longitude: -111.7869713
+latitude: 39.975419
+city_longitude: -111.7852106
+city_latitude: 39.9755101
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

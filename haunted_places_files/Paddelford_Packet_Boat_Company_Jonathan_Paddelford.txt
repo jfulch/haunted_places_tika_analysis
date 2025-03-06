@@ -1,0 +1,20 @@
+city: St. Paul
+country: United States
+description: An engine room worker decided to cool off and take a dip in the Mississippi. He climbed the stairs to the top deck and even continued on up to the roof of the pilothouse where he planned to dive into the river. Instead, he slipped and fell off the pilothouse, hit a guardrail, and fell into the river. Hitting the guardrail on the way down paralyzed him and he drown in the river, unable to swim for the surface. Footsteps are heard going up the staircase and up to the roof of the pilothouse. Then a splash in heard. But no one is there.
+location: Paddelford Packet Boat Company-Jonathan Paddelford
+state: Minnesota
+state_abbrev: MN
+longitude: -93.0984113
+latitude: 44.9372958
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1817/12/10
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

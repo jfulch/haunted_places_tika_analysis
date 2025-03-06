@@ -1,0 +1,21 @@
+city: Eureka Springs
+country: United States
+description: The Crescent Hotel used to be a mental hospital. At the balcony, a female patient jumped to her death, because one of the doctors was molesting her. Bodies were burned in the furnace of the hospital. People today reserve rooms to actually see if it is spooky. One lady reserved her a room, and the staff told her that she had to sign a contract saying that the hotel staff are not responsible for any accidents or mishaps during their stay. She supposedly died that night in her room, because she had a terrifying nightmare. She supposedly died of a stroke, because she was terrified so badly.
+location: The Crescent Hotel
+state: Arkansas
+state_abbrev: AR
+longitude: -93.73732
+latitude: 36.40832899999999
+city_longitude: -93.7379711
+city_latitude: 36.4011825
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1886/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

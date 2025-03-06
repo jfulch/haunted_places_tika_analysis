@@ -1,0 +1,21 @@
+city: Charleston
+country: United States
+description: On the bank of the Kanawaha River, at the train depot, just at the bottom of the exclusive South Hills mountain drive, the Charleston Train Depot rivals any 19th century European Town Center. At the depot, flanked by the river on one side and a winding suburban mountain road also exists a carriage trail which led, in days gone by, to the Governors Mansion. The depot has a restaurant and a scenic view. The old carriage trail is barely noticeable from the train platform, but driving up the hill on the right side of the forked road motorists can see a clear wide carriage road leading to what is now Sunrise Museum. Vagrants and homeless people are said to spend some nights near the bottom of the trail waiting for a train to hop, and high school students sometimes wander the trail at the top of the trail behind the museum. No one ventures past the desecrated statue of a Our Lady. A dark spot exists in summer and winter at the second curve from the top of the trail (or the third from the bottom). West Virginia was fiercely abolitionist during the Civil War and the state seceded from Virginia because the mountain men and their Indian Wives did not believe in slavery. The Underground Railroad ran through the exclusive South
+location: Charleston Train Depot and Carriage Trail
+state: West Virginia
+state_abbrev: WV
+longitude: -81.638494
+latitude: 38.346368
+city_longitude: -81.6326234
+city_latitude: 38.3498195
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/06/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: Legend has it, that in the early 70's a well known maintenance employee raped and killed two young high school girls in the apartments main garbage. It is said that when passing by, late at night, you could hear a distant torturous cry of a girl. Residents of the area are still spooked by the chills you get when passing through this area.
+location: El Rancho Verde Apts.
+state: California
+state_abbrev: CA
+longitude: -121.858156
+latitude: 37.360168
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

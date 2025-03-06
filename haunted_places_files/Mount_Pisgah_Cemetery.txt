@@ -1,0 +1,20 @@
+city: Mantachie
+country: United States
+description: strange lights and figures seen and sound for someone being beat.
+location: Mount Pisgah Cemetery
+state: Mississippi
+state_abbrev: MS
+longitude: -88.4707028
+latitude: 34.3253074
+city_longitude: -88.4911595
+city_latitude: 34.3242707
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

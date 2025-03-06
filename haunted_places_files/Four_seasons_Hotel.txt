@@ -1,0 +1,21 @@
+city: Lancaster County
+country: United States
+description: Its closed down now, and watched heavily by police. Voices have come from within the boarded up windows of this three story hotel. I've personally seen bricks fly out of glass windows, and then come back the next day with friends and the window isn't broken anymore. I've never been inside of this place yet, but have heard other stories about it other than what I've seen with my own eyes.
+location: Four seasons Hotel
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.4360171
+latitude: 40.2774244
+city_longitude: -76.17837390000001
+city_latitude: 40.0466571
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

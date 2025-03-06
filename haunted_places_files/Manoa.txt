@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: Seven Bridges - It is said that you walk across seven bridges. It is a long and hard hike. On the way back you can only count 6 bridges.
+location: Manoa
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8033266
+latitude: 21.3159023
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1736/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

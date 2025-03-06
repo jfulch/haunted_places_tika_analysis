@@ -1,0 +1,21 @@
+city: Whittier
+country: United States
+description: People have claim to see ghost in be 10 room.
+location: California High School
+state: California
+state_abbrev: CA
+longitude: -118.022497
+latitude: 33.9436934
+city_longitude: -118.032844
+city_latitude: 33.9791793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fontana
+country: United States
+description: In the quad by the lunch tables there sits a little girl crying bouncing a ball. She'll ask you to play with her and if you say no she will cry blood and start to follow you. This happens at sun set when there are no employees.
+location: Sequoia Middle School
+state: California
+state_abbrev: CA
+longitude: -117.4761582
+latitude: 34.0816807
+city_longitude: -117.435048
+city_latitude: 34.0922335
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Bloomington
+country: United States
+description: stories of young boy looking out the attic window. Boy said to be hatchet to death.
+location: Old Federal Prison on Market
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.99368729999999
+city_latitude: 40.4842027
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: West Hollywood
+country: United States
+description: A janitor hung himself in the auditorium because he thought nobody liked him. Since then his ghost has been seen roaming the stage and the halls. Also, all the curtains move by themselves. Some students and teachers hear scratches on the door during class. That would also happen in the ladies restroom and the door would shake by itself.
+location: Melrose Elementary School
+state: California
+state_abbrev: CA
+longitude: -118.3453856
+latitude: 34.0842104
+city_longitude: -118.3617443
+city_latitude: 34.0900091
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

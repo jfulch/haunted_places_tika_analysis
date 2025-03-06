@@ -1,0 +1,21 @@
+city: Menasha
+country: United States
+description: Story goes it was about 100 years ago when a groom was thrown from the carriage on the way to his wedding and died when he was caught in a tree, strangling on his bow tie. They say on certain nights, you can still see him hanging there.
+location: Valley Road
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.428968
+latitude: 44.237113
+city_longitude: -88.44649729999999
+city_latitude: 44.2022084
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

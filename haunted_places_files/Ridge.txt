@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: Reports of hearing small children's voices laughing and playing, cold spots, and a ghostly white dog.
+location: Ridge
+state: Indiana
+state_abbrev: IN
+longitude: -85.33256899999999
+latitude: 38.773897
+city_longitude: -85.37995769999999
+city_latitude: 38.7358933
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

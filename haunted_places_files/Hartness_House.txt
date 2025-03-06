@@ -1,0 +1,21 @@
+city: Springfield
+country: United States
+description: In 1903 construction of the Hartness mansion began, by 1904 it was complete. There are a series of rooms under the front lawn that James Hartness had built to escape the noise every day life. In the main house the electricity randomly goes out for no obvious technical reason, it usually lasts an hour or two. Objects go missing to be placed some where else, in the basement (especially the housekeeping quarters) you can feel a presence watching you, nothing negative or malevolent, simply there to observe.
+location: Hartness House
+state: Vermont
+state_abbrev: VT
+longitude: -72.4775442
+latitude: 43.3015656
+city_longitude: -72.4823117
+city_latitude: 43.2984078
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1903/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

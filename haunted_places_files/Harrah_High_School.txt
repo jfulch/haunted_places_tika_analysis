@@ -1,0 +1,21 @@
+city: Harrah
+country: United States
+description: Football field locker room. Harrah football team was practicing and one of the players were walking off the field and got struck by lightning and killed him instantly. Now when you go by you can sometimes hear weights and lockers slamming. You can also hear whispering in the locker room. It is the old locker rooms under the stadium.
+location: Harrah High School
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.1707008
+latitude: 35.4867369
+city_longitude: -97.1636408
+city_latitude: 35.4895085
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1888/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

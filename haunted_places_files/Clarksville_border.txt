@@ -1,0 +1,19 @@
+city: Jeffersonville
+country: United States
+description: Colgate Palmolive factory - This building was originally Indiana State Prison South. Unusual sights and sounds typical of hauntings are noted here. When the building was a prison many prisoners were mistreated here; illness raged at times, and some female inmates were forced into prostitution.
+location: Clarksville border
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.7371847
+city_latitude: 38.2775702
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1806/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

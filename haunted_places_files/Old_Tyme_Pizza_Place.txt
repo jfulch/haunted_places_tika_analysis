@@ -1,0 +1,21 @@
+city: Millvale
+country: United States
+description: formerly The Evergreen Hotel - This is a really old hotel, which went from hotel to a bar, to a strip joint. When it was a bar it was a great place to go, but the stories of cupboard doors slamming, dishes being thrown out of the cupboards, cold spots upstairs, lights going on and off, have been going on for years. Visitors have been locked in the bathroom and others have been locked in the basement. - June 2008 Update:the Hotel Evergreens burned down last week. It is thought to be arson as there were no utilities hooked up. The hotel is totally destroyed.
+location: Old Tyme Pizza Place
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.973503
+latitude: 40.486731
+city_longitude: -79.9783862
+city_latitude: 40.480069
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

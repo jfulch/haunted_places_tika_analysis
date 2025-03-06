@@ -1,0 +1,20 @@
+city: Indian Lake
+country: United States
+description: An old hotel that was burned down and now the ghost of the attendants that stayed there haunt it.
+location: O'Conners Hotel
+state: Ohio
+state_abbrev: OH
+longitude: -83.8950042
+latitude: 40.4990656
+city_longitude: -83.8950042
+city_latitude: 40.4990656
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

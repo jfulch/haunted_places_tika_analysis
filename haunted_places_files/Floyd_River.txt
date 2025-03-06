@@ -1,0 +1,21 @@
+city: Alton
+country: United States
+description: It is said that three teenagers hung themselves in an old broken down house just off the Floyd River. You can still see three ropes hanging from the rafters of the house. There is a path elading to the house with a No Trespassing sign on it and when you cross it the haunting starts. Legend has it, the haunting never stops.
+location: Floyd River
+state: Iowa
+state_abbrev: IA
+longitude: -96.3385874
+latitude: 42.5569054
+city_longitude: -96.0105735
+city_latitude: 42.9874869
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1804/08/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

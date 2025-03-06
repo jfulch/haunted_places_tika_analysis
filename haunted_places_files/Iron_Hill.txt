@@ -1,0 +1,21 @@
+city: Charles City
+country: United States
+description: In these woods behind the old white farm there have been sightings of a little girl dressed in white, also various girls have been heard. Around Halloween you can hear faintly a chanting that is something like this, "ring around the rosy..." and "wanna come burn with me". Around 1920 there was a train car full of orphans that burned down on the railroad tracks that run through there. a burned rag doll has been found. They say it is there graveyard yet no family ties have been found.
+location: Iron Hill
+state: Iowa
+state_abbrev: IA
+longitude: -96.3544707
+latitude: 42.4460793
+city_longitude: -92.6724112
+city_latitude: 43.0663612
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

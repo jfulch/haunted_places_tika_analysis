@@ -1,0 +1,20 @@
+city: Loveland
+country: United States
+description: aka Chateau LaRoche  never completed - (which is 30 min from downtown Cincinnati) -  Loveland Castle was built by Sir Harry Delos Andrews. It is haunted by many different ghosts. They actually have a picture of a young page on a king’s lap. They obtained it by using a camera that detects heat. The reason they took the picture was that they imported a throne from Europe and noticed it would start rocking back and forth. There have been other strange events that have occurred; the castle has a dungeon that people claim has cold spots. The man who built the castle was named Harry he died due to natural causes. It is said that he too Haunts the Castle. Also reported, reports of hearing strange things, electrical malfunctions (battery operated) and get the feeling of not being alone. More info on Loveland Castle
+location: The Loveland Castle
+state: Ohio
+state_abbrev: OH
+longitude: -84.2659997
+latitude: 39.2835201
+city_longitude: -84.26382600000001
+city_latitude: 39.2689476
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1927/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

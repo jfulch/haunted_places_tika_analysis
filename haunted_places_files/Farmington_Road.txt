@@ -1,0 +1,21 @@
+city: Peoria
+country: United States
+description: Parkside Tavern -  One of the Shelton Brothers (local gangsters during the 1930's l940's and 50's) was shot and killed in the parking lot of the Parkside Tavern on Farmington Road. it was possibly Bernie and the submitter is not sure of the date but it was headline news in the Peoria Journal Star. They think it happened around 1953 or 54. The Shelton gang and the Burger gang (from down around Springfield Il) were rivals for control of the profits from the downstate crime (South of Chicago). It was a gangland style killing and the hit was supposedly ordered by The Burger gang. At any rate the tavern was a known stop for Bernie at pretty much the same time each day. Many people now claim that the tavern is haunted by Bernie Shelton and there was quite a story in the Peoria Journal Star a couple of years ago where a reporter interviewed the owner and several patrons who swore that the have witnessed experiences of Bernie’s presence in the tavern. -  Febuary 2005 corection: Bernie Shelton was shot with a high powered rifle from the hillside above the tavern on July 26, 1948. He owned the tavern at the time. His murder was never solved, although it was suspected that the Birgers were behind it. The current owner does claim that the establishment is haunted.
+location: Farmington Road
+state: Illinois
+state_abbrev: IL
+longitude: -89.6539584
+latitude: 40.7011422
+city_longitude: -89.5889864
+city_latitude: 40.6936488
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1948/07/26
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

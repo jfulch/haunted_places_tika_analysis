@@ -1,0 +1,21 @@
+city: Waterford
+country: United States
+description: Numerous occasions of hearing footsteps, items being moved while no one is there, floor mats turned upside down.  People have heard their names called when no one is there and the sound of a baby crying.  You sometimes catch a wave of cold air as if the ghost is walking past you.
+location: Eagle Hotel
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9830894
+latitude: 41.9403058
+city_longitude: -79.9844968
+city_latitude: 41.942833
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Sheridan
+country: United States
+description: In the late 1800's, there were numerous people hanged on the Courthouse lawn. There are reports of apparitions in the Courthouse windows, as well as disembodied footsteps echoing throughout the halls.
+location: Courthouse Square
+state: Arkansas
+state_abbrev: AR
+longitude: -92.4008024
+latitude: 34.3063041
+city_longitude: -92.4012654
+city_latitude: 34.3070406
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

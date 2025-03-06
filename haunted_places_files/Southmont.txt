@@ -1,0 +1,21 @@
+city: Davidson
+country: United States
+description: Gravity hill - Stop your car at the bottom of the hill and it is said to be that a woman will push you to the top. legend has it her car rolled over her when it broke down one night. if you put flower on the back you can see her hand prints!
+location: Southmont
+state: North Carolina
+state_abbrev: NC
+longitude: -80.26699719999999
+latitude: 35.6679164
+city_longitude: -80.8486846
+city_latitude: 35.4993031
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Groton
+country: United States
+description: Foot Steps are still heard at the stairs in the school. My father, for one, has heard these steps. Lights go on all the time after people have left for the night. The security system has been downgraded since the on incident when the alarm would not shut off. Nothing was found wrong with the original alarm.
+location: Prescott School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.5701271
+latitude: 42.6070629
+city_longitude: -71.5745152
+city_latitude: 42.6112018
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1934/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

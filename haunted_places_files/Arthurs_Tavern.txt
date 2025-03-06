@@ -1,0 +1,20 @@
+city: Hoboken
+country: United States
+description: There is supposedly three ghosts who haunt this huge restaurant. There are reports from employees of footsteps, lights going on and off or flickering, doors opening by themselves, a clipboard flying off a desk, whispers, and someone's hair being pulled.
+location: Arthur's Tavern
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.02997599999999
+latitude: 40.7398551
+city_longitude: -74.0323626
+city_latitude: 40.7439905
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

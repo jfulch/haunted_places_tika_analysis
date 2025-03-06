@@ -1,0 +1,21 @@
+city: Mt. Hope
+country: United States
+description: Many voices can be heard and cold winds can be felt. figures can be seen in the meadows.
+location: Mt. Hope Road
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.5362504
+latitude: 40.9187215
+city_longitude: -74.54265769999999
+city_latitude: 40.9262098
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

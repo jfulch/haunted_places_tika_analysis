@@ -1,0 +1,19 @@
+city: Beloit
+country: United States
+description: Every night at midnight if you stand on the hill before the trestle. It is reported that you will see a black man swinging in the trees.
+location: The Trestles on Riverside
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -89.03177649999999
+city_latitude: 42.5083482
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

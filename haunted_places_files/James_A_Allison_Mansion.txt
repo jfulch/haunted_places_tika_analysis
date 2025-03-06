@@ -1,0 +1,21 @@
+city: Indianapolis
+country: United States
+description: Apart of Marian College campus, the Allison Mansion is an old glorious mansion. Built between 1909-1911, it was James & Sarah Allison’s summer house. After Marian College acquired it from the Allison estates it was put to good use as a college building. The attic was the sisters dorm, the students lived in the old garage and classes took place in the rest of the building or the greenhouses. From the time the mansion was used as a school to the present (as a conference building) strange occurrences have taken place. Keys missing, objects moved, the library room completely rearranged - furniture not just books. Strangest thing - the basement has an indoor pool in it. The pool is where a baby crying has been heard. A Legend is that the Allison's had a child and the baby drowned in the pool. (The baby was not the Allison's but could have been a servants.)
+location: James A Allison Mansion
+state: Indiana
+state_abbrev: IN
+longitude: -86.2015698
+latitude: 39.816889
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1948/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.383333333333333
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

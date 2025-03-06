@@ -1,0 +1,20 @@
+city: Glassboro
+country: United States
+description: Wilson Music Building - When the concert hall was build during the early 70s, a workman fell headfirst from the still unfinished catwalks. Every once in a while, theater works catch a glimpse of him during shows.
+location: Rowan University
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.1189478
+latitude: 39.7098595
+city_longitude: -75.1118422
+city_latitude: 39.70289229999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1954/03/16
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

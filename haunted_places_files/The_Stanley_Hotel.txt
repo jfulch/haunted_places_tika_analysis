@@ -1,0 +1,20 @@
+city: Estes Park
+country: United States
+description: This huge, eerie hotel built in the early 1900's was a resort for famous celebrities and such. This hotel inspired Stephen King to write "The Shining." Past employees have mentioned hearing footsteps and seeing various apparitions. A ghost has been spotted in room 407 in the window and most other guests complain about hauntings in Room 217 and 401
+location: The Stanley Hotel
+state: Colorado
+state_abbrev: CO
+longitude: -105.5191728
+latitude: 40.383371
+city_longitude: -105.5216651
+city_latitude: 40.3772059
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

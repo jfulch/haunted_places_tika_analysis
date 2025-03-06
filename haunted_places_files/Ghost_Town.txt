@@ -1,0 +1,21 @@
+city: Wallace
+country: United States
+description: In the old mine there was a big rock fall in 1890. 78 miners died in the incident. Miners often say the rock fall was caused by a man with a load of dynamite seeking revenge with a person in the mine. After the event was over the mine was shut down for about a year. After that they figured it wouldn't happen again. Miners claim to have seen figures in windows looking out at them. They describe the figure as a middle-aged man with a trucker hat. His skin is a dark gray. In some cases miners have heard a screeching sound and then seeing flashes of gray and black and a high-pitched scream. Also, miners claim to have been hit hard across the head with a hard rock. BUT it is a good idea to go to the mine. ?
+location: Ghost Town
+state: Idaho
+state_abbrev: ID
+longitude: -115.925534
+latitude: 47.471669
+city_longitude: -115.9279386
+city_latitude: 47.4740945
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1890/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lawrenceburg
+country: United States
+description: The restaurant was originally two houses that later become a button factory. There was an old lady that lived in the house and died in a room that is now called the "Malt Room". There are several reports about the "Lady Ghost". There was one report where the ghost tugged at the waitress's apron and she thought that it was another server but no one was standing behind her, another incident was the manager was sitting in the bar after the restaurant closed and smelled a strong scent of perfume coming from the back of the restaurant and nobody was in there but her.
+location: Whiskey's Restaurant
+state: Indiana
+state_abbrev: IN
+longitude: -84.85692480000002
+latitude: 39.0961713
+city_longitude: -84.8499504
+city_latitude: 39.090891
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

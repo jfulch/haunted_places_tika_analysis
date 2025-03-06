@@ -1,0 +1,21 @@
+city: Carlsbad
+country: United States
+description: An old Dam Works with the overseer house and garage/ storage building. Strange noises and lights at night. Some strange photos taken.
+location: German Town
+state: New Mexico
+state_abbrev: NM
+longitude: -104.2291902
+latitude: 32.4189816
+city_longitude: -104.2288375
+city_latitude: 32.4206736
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

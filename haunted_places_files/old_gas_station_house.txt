@@ -1,0 +1,21 @@
+city: Lake Village
+country: United States
+description: pounding on the walls walking in he kitchen and up the stairs talking images of people walking loud buzzing noise only herd in the living room and bright flashes of light
+location: old gas station house
+state: Indiana
+state_abbrev: IN
+longitude: -87.45531319999999
+latitude: 41.1444599
+city_longitude: -87.44864369999999
+city_latitude: 41.1375346
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

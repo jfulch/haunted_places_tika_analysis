@@ -1,0 +1,21 @@
+city: Chowchilla
+country: United States
+description: bowling alley - A few years back the Bowling Alley of Chowchilla caught on fire. It started in the kitchen, and spread through out the building. Unfortunately the cook never made it out in time. He was burned to death, and soon after it was turned into the Chowchilla library. there has been many reports of this man and you can see a flash of flames and the man run by. The check out center is over where the kitchen used to be and you can sometimes feel the heat of the fire, and see the man standing there with his spatula and apron on.
+location: Chowchilla library
+state: California
+state_abbrev: CA
+longitude: -120.2622418
+latitude: 37.1229841
+city_longitude: -120.2601754
+city_latitude: 37.1229997
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1976/07/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

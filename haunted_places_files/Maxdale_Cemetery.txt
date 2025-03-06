@@ -1,0 +1,20 @@
+city: Maxdale
+country: United States
+description: It is believed that this very old cemetery is haunted by an old man with a limp, some say he was the caretaker of the cemetery. There is also a small old iron bridge you have to cross to get to the cemetery which is also believed to be haunted if you go at night to visit the cemetery and you stop on the bridge turn off your headlights and count to ten then turn them back on there will be a man hanging from a noose. Who is believed to have hung himself when he could not save the life of his girlfriend who had drowned in the river under the bridge. Another story is that a man committed suicide by driving his truck off a small bridge on the road to the right side of the cemetery. Witnesses report a phantom old truck appearing behind them. Chasing them for a moment, along with a sad presence felt through out the entire cemetery.
+location: Maxdale Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -97.8301538
+latitude: 30.9867166
+city_longitude: -97.8355748
+city_latitude: 30.9899004
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Costa Mesa
+country: United States
+description: there is a woman in the back of the school who screeches at night no one is there.
+location: Back Bay High School
+state: California
+state_abbrev: CA
+longitude: -117.8903492
+latitude: 33.6544363
+city_longitude: -117.9188221
+city_latitude: 33.6412156
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/11/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

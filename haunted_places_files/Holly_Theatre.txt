@@ -1,0 +1,21 @@
+city: Dahlonega
+country: United States
+description: This theatre has been standing for almost a century. Now newly renovated after 50 years or abandonment, weird sightings have occurred. The occurrences are after hours or before mostly. When there's not much mortal activity inside the building, you can see figures white and glowing float passed the etched glass windows. Sometimes when you see the shapes you can also feel a cold presence fall upon you. During movies, there are many strange happenings such as lights flickering and weird misty shapes appearing on the screen. Though there's no history of death in the theatre before the renovation, there are claims of a house standing in that site in the mid 1800's.
+location: Holly Theatre
+state: Georgia
+state_abbrev: GA
+longitude: -83.9858825
+latitude: 34.531546
+city_longitude: -83.9843953
+city_latitude: 34.5261465
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

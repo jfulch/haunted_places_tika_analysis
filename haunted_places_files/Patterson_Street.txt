@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: While driving down the narrow road slowly, black objects start to chase the car. Handprints start to appear on windows and cold spots are felt in the car. Sometimes the black object runs right next to the passenger side of the car.
+location: Patterson Street
+state: Texas
+state_abbrev: TX
+longitude: -95.4062049
+latitude: 29.7729614
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

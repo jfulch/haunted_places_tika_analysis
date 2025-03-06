@@ -1,0 +1,21 @@
+city: Memphis
+country: United States
+description: UC bldg - There are reports of a presence in the building which rides the elevator. The elevator is set to automatically return to 2nd or 3rd floor if out of use for a time period. It has opened on the 4th floor or 1st for people to get in when final inspection of building is done at closing. It is believed to be ghost of construction worker who fell from 3rd floor during the building of the student center. - October 2007 Update: This building has been demolished.
+location: University of Memphis
+state: Tennessee
+state_abbrev: TN
+longitude: -89.937141
+latitude: 35.118741
+city_longitude: -90.0489801
+city_latitude: 35.1495343
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

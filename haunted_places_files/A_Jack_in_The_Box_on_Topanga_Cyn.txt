@@ -1,0 +1,21 @@
+city: Canoga Park
+country: United States
+description: Numerous sightings of a man standing at the drive through window, wearing all red, the milkshake machines turning on for no reason, and furniture in the dinning area moving by themselves at night and the frozen food on the floor.
+location: A Jack in The Box on Topanga Cyn,
+state: California
+state_abbrev: CA
+longitude: -118.6056787
+latitude: 34.202538
+city_longitude: -118.6058609
+city_latitude: 34.208254
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

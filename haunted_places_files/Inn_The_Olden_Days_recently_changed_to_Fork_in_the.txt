@@ -1,0 +1,21 @@
+city: Mukwonago
+country: United States
+description: It is a restaurant that used to be a tavern. Employees have heard foot steps, and the sound of pool balls hitting and rolling across the floor. Also, in the storerooms, there have been clouds of fog seen and voices heard.
+location: Inn The Olden Days (recently changed to "Fork in the Road")
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.3333183
+latitude: 42.8643069
+city_longitude: -88.33342739999999
+city_latitude: 42.8666803
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Salina
+country: United States
+description: When you first walk into the back room, where you go into the cooler, you feel like something is watching you  right away.  This ghost will throw things, move things, sometimes you catch it at the corner of your eye, and turn and no one will be there. Also reports of hearing voices, knocking things off walls.
+location: Scenic Quick Stop
+state: Utah
+state_abbrev: UT
+longitude: -111.8539322
+latitude: 38.935201
+city_longitude: -111.859925
+city_latitude: 38.9577407
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

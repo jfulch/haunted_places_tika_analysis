@@ -1,0 +1,20 @@
+city: Hutchinson
+country: United States
+description: The ghost that is reputed to haunt the Hutchinson Public library is that of former librarian, Ida Day Holzapfel.
+location: Hutchinson Public Library
+state: Kansas
+state_abbrev: KS
+longitude: -97.9324631
+latitude: 38.06320789999999
+city_longitude: -97.9297743
+city_latitude: 38.0608445
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

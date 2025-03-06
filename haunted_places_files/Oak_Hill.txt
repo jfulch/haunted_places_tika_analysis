@@ -1,0 +1,21 @@
+city: Estherville
+country: United States
+description: its a cemetery and there is this hill that is haunted. The story is that a car full of football players were going to their game and their car stalled on this very hill. So they all got out and started to push the car up this hill then a car came around this bend and didn?t see the football players and hit them. All of the players died. People say that if you put your car in neutral between these 2 markers you will go uphill because the football players push you up the hill because they don?t want you to get hit by another car. Another story is that two children who lived in the nearby mansion were playing in the road when they were run over and killed. When your car moves, it is the children pushing it off of them. Anyway, the going up hill sensation is caused by an optical illusion. For this to work, you must be headed downhill. In the place where you stop, the road levels off and appears to go up in comparison to the rest of the road. If you go down the hill and around the curve and look back, you will realize that the entire road does indeed go down hill.
+location: Oak Hill
+state: Iowa
+state_abbrev: IA
+longitude: -94.8573973
+latitude: 43.3972786
+city_longitude: -94.8391532
+city_latitude: 43.4013478
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

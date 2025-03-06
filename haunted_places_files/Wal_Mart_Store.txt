@@ -1,0 +1,20 @@
+city: Oxford
+country: United States
+description: reports from Wal-Mart employees that their keys disappear to reappear again later in the same spot. Electric doors stick and won't shut. Computer's have weird drawings on the screen in the morning like a child has been drawing. - January 2007 Update: The store is now all closed up, due to a brand new Wal-Mart super center being built down the road.
+location: Wal-Mart Store
+state: Ohio
+state_abbrev: OH
+longitude: -84.7675318
+latitude: 39.5289631
+city_longitude: -84.74523099999999
+city_latitude: 39.5069974
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

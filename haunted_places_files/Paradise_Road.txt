@@ -1,0 +1,21 @@
+city: Jefferson
+country: United States
+description: Witnesses report feeling an eerie presence. They have heard inhuman screams, seen short, robed shapes in the woods, and have even seen a raccoon, decapitated, with blood glistening in the headlights, but no blood on the road and no head anywhere in sight. Location is on Paradise Road, a right turn shortly after you pass Saint Colletta's. Advice is to STAY OUT OF THE WOODS ON THE LEFT-HAND SIDE.
+location: Paradise Road
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.7195675
+latitude: 42.9984772
+city_longitude: -88.8073273
+city_latitude: 43.0055594
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Evarts
+country: United States
+description: The band room is told to be haunted. Many students have heard strange noises and seen ghostly figures in the band room. It is also said to be haunted by a janitor that died in the basement. He was found covered with coal and nobody ever found out what exactly happened.
+location: Evarts High School
+state: Kentucky
+state_abbrev: KY
+longitude: -83.1918441
+latitude: 36.8636661
+city_longitude: -83.1957118
+city_latitude: 36.8629065
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

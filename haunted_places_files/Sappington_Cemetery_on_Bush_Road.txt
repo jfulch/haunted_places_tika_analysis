@@ -1,0 +1,21 @@
+city: Barnesville
+country: United States
+description: Full-body apparitions have been seen here, footsteps heard in the gravel inside the cemetery, cold-spots that measured at below-zero temperatures, one person even reported feeling a hand touch her shoulder.
+location: Sappington Cemetery on Bush Road
+state: Georgia
+state_abbrev: GA
+longitude: -84.1054937
+latitude: 33.0249361
+city_longitude: -84.15574950000001
+city_latitude: 33.0545709
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

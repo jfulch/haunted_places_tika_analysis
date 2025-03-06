@@ -1,0 +1,21 @@
+city: Falmouth
+country: United States
+description: There is a hill with a cemetery on top, by Love Ford Bridge. The river runs under the bridge with the cemetery overlooks it. Some have died due to high waters and parties at the bridge. Reports of seeing a light on top of the hill that can never be reached, & cold spots.
+location: Haunted Hill
+state: Illinois
+state_abbrev: IL
+longitude: -89.24574609999999
+latitude: 39.79753710000001
+city_longitude: -88.1455939
+city_latitude: 39.0547641
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

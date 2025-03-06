@@ -1,0 +1,21 @@
+city: Bremerton
+country: United States
+description: Chester Apts originally was a hospital. After it was turned into apartments, spirits of patients and orderlies can be seen walking the halls and in the rooms.
+location: Chester Apartments
+state: Washington
+state_abbrev: WA
+longitude: -122.6352118
+latitude: 47.5682445
+city_longitude: -122.6269768
+city_latitude: 47.5650067
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

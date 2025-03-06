@@ -1,0 +1,21 @@
+city: Morehead
+country: United States
+description: Waterfield Hall - On the Third floor in room 358 you can hear screams, TV goes and off and the door to the room and stairs open by themselves.
+location: Morehead State University
+state: Kentucky
+state_abbrev: KY
+longitude: -83.4311778
+latitude: 38.1888804
+city_longitude: -83.4326841
+city_latitude: 38.1839705
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1963/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

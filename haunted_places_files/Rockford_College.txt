@@ -1,0 +1,21 @@
+city: Rockford
+country: United States
+description: Talcott Hall -  room of a student who hung himself in the early nineties.
+location: Rockford College
+state: Illinois
+state_abbrev: IL
+longitude: -89.01874480000001
+latitude: 42.26889329999999
+city_longitude: -89.0939952
+city_latitude: 42.2711311
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1902/12/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

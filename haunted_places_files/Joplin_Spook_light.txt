@@ -1,0 +1,18 @@
+city: Hornet
+country: United States
+description: This place has been haunted since Civil War times. A few different stories circulate. This stretch of dirt road in the country outside of town Has even been featured on Unsolved Mysteries. A mysterious light wanders the road. - September 2004 additional info: Spook Light is also known as Devil's Promenade. There are several stories about it, one was a miner with a lantern searching for his family. Some used to say it was swamp gas, but many have a strange feeling when witnessing it.
+location: Joplin Spook light
+state: Missouri
+state_abbrev: MO
+city_longitude: -94.5571678
+city_latitude: 36.9620087
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

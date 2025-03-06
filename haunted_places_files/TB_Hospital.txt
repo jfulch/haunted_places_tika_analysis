@@ -1,0 +1,20 @@
+city: Spartanburg
+country: United States
+description: Recently Torn Down -  Originally a sanitarium for people stricken with the disease. Hundreds, maybe thousands of people died within its walls. Strange occurrences have been reported.
+location: TB Hospital
+state: South Carolina
+state_abbrev: SC
+longitude: -81.94023190000001
+latitude: 34.9671629
+city_longitude: -81.9320482
+city_latitude: 34.9495672
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1956/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Westminster
+country: United States
+description: at 12 midnight you can see a lady with two little girls looking over to Sheridan St. they say it's because a man killed them and then buried them under the tower.
+location: city hall
+state: Colorado
+state_abbrev: CO
+longitude: -105.048936
+latitude: 39.8626099
+city_longitude: -105.0372046
+city_latitude: 39.8366528
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

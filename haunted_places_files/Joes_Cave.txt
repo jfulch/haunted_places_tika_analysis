@@ -1,0 +1,18 @@
+city: Richland
+country: United States
+description: In the early 1900's a black man named Joe was accused of raping a young white girl. He protested his innocence saying, "God would prove I didn't do it". Legend has it that he survived the electric chair but a group of vigilantes took him to the cave where he was tarred and feathered and then hung with barbed wired in one of the larger back rooms of the cave. Joe had been a fiddle player and each night after supper would sit on his front porch and play the fiddle. Now if you go to the cave just around dark you can hear his fiddle music echoing though out it. -  May 2005 clarification/ correction: This is a historical incident, so there are records that provide the date (1839), the name and age of the girl (Amanda Fulbright, age 10), the name of the man who killed Joe (Thomas Rafferty shot him). Joe's dead body was taken from the Fulbright property in Laclede County, MO, to the cave in Camden County, MO (about 10 miles), a medical doctor dissected the body, boiled the flesh off the bones, and rearticulated the skeleton. The doctor’s motive was knowledge of anatomy. Also, the cave does not have any "larger back rooms." The first room goes about 75 feet, then tapers down to a hole only large enough for a modest stream of water. No human could enter the hole. And, of course, there was no electric chair in 1839, and barbed wire wasn't invented until about 1876.
+location: "Joe's Cave"
+state: Missouri
+state_abbrev: MO
+city_longitude: -92.4043396
+city_latitude: 37.8569838
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1839/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

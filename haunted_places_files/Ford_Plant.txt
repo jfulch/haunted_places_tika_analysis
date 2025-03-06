@@ -1,0 +1,21 @@
+city: Flat Rock
+country: United States
+description: A security guard reports in the basement of the old warehouse there’s a lot of strange activity, He has taken pictures of orbs and "streaks of light". There’s one area in particular where you tend to get a feeling of someone standing near you its doesn’t help that all the lights are out in that area. Story's go that a security guard was stabbed down there in the 1980's by a homeless person and died down there. There was an older guy on his shift that claimed to have been one of the Iron workers that built the place in 1953. He said that when the hole was being dug for the foundation of the building that they found human remains, he also said that the county corner had to come out there 2 to 3 times a week because they were digging up so many old bones story goes is that the area was once used as a native Indian burial ground.
+location: Ford Plant
+state: Michigan
+state_abbrev: MI
+longitude: -83.25031890000001
+latitude: 42.098206
+city_longitude: -83.2918744
+city_latitude: 42.0964314
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1953/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

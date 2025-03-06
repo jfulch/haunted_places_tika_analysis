@@ -1,0 +1,19 @@
+city: Fort Yates
+country: United States
+description: 15 miles south of Fort YatesThis story goes back more then forty years. Black Tongue Hill gets it's name from Old Lady Black Tongue who used to live on that hill. She could have been walking to or from there, but whatever she was doing on that road she was hit by a car. Now people from way back and even today say that they see her walking even running by your car looking in your window wearing a long black dress and shall at night.
+location: Black tongue hill
+state: North Dakota
+state_abbrev: ND
+city_longitude: -100.6301271
+city_latitude: 46.0869408
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1754/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

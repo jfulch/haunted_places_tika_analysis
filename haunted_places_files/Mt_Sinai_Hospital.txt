@@ -1,0 +1,20 @@
+city: Cleveland
+country: United States
+description: The old school that is attached to the hospital is haunted. Footsteps can be heard, lights go on and off. Figures are seen out of the corner of your eye.
+location: Mt Sinai Hospital
+state: Ohio
+state_abbrev: OH
+longitude: -81.60844519999999
+latitude: 41.5059511
+city_longitude: -81.6943605
+city_latitude: 41.49932
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

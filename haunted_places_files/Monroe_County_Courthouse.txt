@@ -1,0 +1,21 @@
+city: Clarendon
+country: United States
+description: Early in 1893, an opera/comedy group led by John Orr and his young wife Ernze Mabel Orr came to Clarendon to perform at the local Opera House. After performing there, the Orrs decided to make Clarendon their home. John Orr and his wife lived in a house with several black caretakers in the back. John Orr abused his wife and one of the hands helped Mabel concoct a "hoodoo" to kill him. It didn't work, and the abuse continued. Mabel and four of the others conspired to shoot John, and it came about that John was shot and killed. It soon came out about Mabel and the involvement of the four others, and a lynch mob came to arrest Mabel and take her to jail. The four blacks (three men and one woman) were hung in the courthouse yard. Mabel took an overdose of morphine provided by the Sheriff as an alternative to the public lynching. To this day, you can hear her cry in the basement of the Courthouse, and can see lights along the levee that lead to the river where the four lynched bodies were carried across to be buried on the other side.
+location: Monroe County Courthouse
+state: Arkansas
+state_abbrev: AR
+longitude: -91.3141151
+latitude: 34.6926147
+city_longitude: -91.313737
+city_latitude: 34.6931517
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1893/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Boston Waterfront
+country: United States
+description: This building once served as a type of dormitory in when it was built in the 1839. It was for Pilots or Captains of ships that were on overnight stay in Boston Harbor. There have been reports on doors slamming, a women in white who haunts the kitchen on the first floor, the sounds of several men laughing an talking, clinking glasses, as if they were playing cards and drinking late at night.
+location: The Pilot House
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.050534
+latitude: 42.3640166
+city_longitude: -71.0508911
+city_latitude: 42.3573021
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

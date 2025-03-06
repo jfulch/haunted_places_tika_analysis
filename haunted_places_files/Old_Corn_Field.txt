@@ -1,0 +1,18 @@
+city: Gordon
+country: United States
+description: Its out in the back part of Gordon. If you go to the stop sign on the dirt road right past the railroad tracks late at night and sit in your car with the lights turned off, you'll see several red-orange lights that look like running lights of a 18-wheeler. We’ve seen it personally, and tried to follow, but nothing was there...there was also no dust thrown up from what would have been a car. It's been rumored that several people have been murdered there.
+location: Old Corn Field
+state: Kansas
+state_abbrev: KS
+city_longitude: -96.9905918
+city_latitude: 37.5886301
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

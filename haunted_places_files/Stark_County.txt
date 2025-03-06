@@ -1,0 +1,20 @@
+city: Canton
+country: United States
+description: Hercules Engine Plant - In the old buildings of the Hercules Engine Plant visitors and workers have been grabbed or pushed in the stairwell that leads to what used to be an army training facility in World War I and II. Part of the plant was built in 1845 and the basement of these buildings has energy orbs and a strange haze that travels through the rooms.
+location: Stark County
+state: Ohio
+state_abbrev: OH
+longitude: -81.378447
+latitude: 40.79894729999999
+city_longitude: -81.378447
+city_latitude: 40.79894729999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1845/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 0

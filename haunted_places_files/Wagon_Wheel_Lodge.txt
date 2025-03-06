@@ -1,0 +1,21 @@
+city: Rockton
+country: United States
+description: this old resort which is said to be haunted by a bell hop who mysteriously disappeared one night and of a man who was a guest in lodge who hanged himself in his room. The wagon wheel has since burned down 3 different times, the last was 4 years ago and has not been opened since. if you drive by you can see what appears to be a "face" in the window and you can see lights on through the windows but, the lodge has no electricity. - February 2005 Update: Has been torn down.
+location: Wagon Wheel Lodge
+state: Illinois
+state_abbrev: IL
+longitude: -89.07066309999999
+latitude: 42.45792369999999
+city_longitude: -89.07233169999999
+city_latitude: 42.4525157
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/02/29
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

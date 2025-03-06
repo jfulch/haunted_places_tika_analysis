@@ -1,0 +1,20 @@
+city: Castle Rock
+country: United States
+description: In the first cottage along the #1 fairway, the bottom floor has had unexplainable happenings. During times that staff has been in cleaning the cottage, showers have turned on, soaking the maids, a smell of rotten eggs normally follows. Towels, glasses, sheets, have all been moved while they are in there. Lights burn out frequently. No guests have reported anything, but the staff is well aware of the happenings.
+location: Castle Pines Golf Course
+state: Colorado
+state_abbrev: CO
+longitude: -104.898653
+latitude: 39.440704
+city_longitude: -104.8560902
+city_latitude: 39.3722121
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

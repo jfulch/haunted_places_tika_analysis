@@ -1,0 +1,21 @@
+city: Huntington Park
+country: United States
+description: it use to be the home of an elderly couple who also died in here many years ago. Many people have seen an old person at the mirror in where their living room use to be. A lot of people have herd footsteps, weird moans and sounds, things fall and lights turn on and off when no one is in the room.
+location: St. Mathias Mission House
+state: California
+state_abbrev: CA
+longitude: -118.212676
+latitude: 33.9732709
+city_longitude: -118.2250725
+city_latitude: 33.9816812
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

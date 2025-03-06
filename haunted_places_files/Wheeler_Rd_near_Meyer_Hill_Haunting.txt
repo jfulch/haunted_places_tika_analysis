@@ -1,0 +1,19 @@
+city: Midland
+country: United States
+description: At night while driving East on Wheeler Rd near Meyer Hill, it's been reported that you can see car lights coming toward you, then they will instantly vanish. There are no roads or driveways to turn into on this stretch and no cars were ever found in the ditch after the lights disappeared. This happened three times in one night to a group of 4 people in one car and two in another.
+location: Wheeler Rd near Meyer Hill Haunting
+state: Michigan
+state_abbrev: MI
+city_longitude: -84.2472116
+city_latitude: 43.6155825
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

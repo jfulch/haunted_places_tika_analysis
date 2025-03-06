@@ -1,0 +1,21 @@
+city: Cullowhee
+country: United States
+description: The Moore Building -  The Moore Building has many rumors around it regarding the haunting. The actual story is this: A young woman enrolled in the teaching program was murdered in the mid-sixties by a local resident when she refused his romantic advances. The man was caught, however, due to his mental capacity and well-respected family connections, he served only a few years at Broughton Hospital in Morganton. The 3rd floor began experiencing a haunting shortly after the girls' death. It is true that students began refusing to live on the 3rd floor due to the sounds of crying, screaming and pacing. Moore was converted to classrooms in the 1980's, yet strange things continued to happen. The man convicted of the girl's murder died in 1997, and the paranormal activity seems to have stopped, although students on the 3rd floor often report getting "the creeps" or feeling like they are being watched.
+location: Western Carolina University
+state: North Carolina
+state_abbrev: NC
+longitude: -83.18437809999999
+latitude: 35.3089224
+city_longitude: -83.1765333
+city_latitude: 35.3137111
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1997/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

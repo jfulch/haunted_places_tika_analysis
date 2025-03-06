@@ -1,0 +1,21 @@
+city: Euless
+country: United States
+description: Back behind the new nursing home, and the drive through pharmacy, right off of Industrial Blvd.(Hwy 157), there exists an old nursing home in which all of the patients and doctors just up and left for unknown reasons. The halls are littered with the wheel chairs and medical supplies of the former residents. It is said that the moans of the elderly patients can be heard up and down the halls. And if you find the dining hall, a table stands in the center of the room stained with blood and the stench of something rotting lingers in the air. - September 2004 Update: the Nursing Home is being rebuilt. if you want to investigate, get the proper permission. NO Trespassing.
+location: The Old Nursing Home
+state: Texas
+state_abbrev: TX
+longitude: -97.124059
+latitude: 32.825161
+city_longitude: -97.0819541
+city_latitude: 32.8370727
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

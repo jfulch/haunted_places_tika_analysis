@@ -1,0 +1,21 @@
+city: Beloit
+country: United States
+description: In this building late at night when everyone has left the building, you will hear screams and people yelling at each other. But during the day and when people are present in the building, there will be no noises.
+location: Beloit Turner School
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.03177649999999
+latitude: 42.5083482
+city_longitude: -89.03177649999999
+city_latitude: 42.5083482
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

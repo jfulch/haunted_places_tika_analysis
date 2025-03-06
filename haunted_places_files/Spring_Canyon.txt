@@ -1,0 +1,21 @@
+city: Helper
+country: United States
+description: The White Lady - Spring Canyon Above Helper Utah is the site of several Ghost Towns including Latuda and Standardville which were coal mining communities. Many old homesteads built out of rock still stand as well as stores, the old jail and such. One of the homes is where the white lady has been seen. She is dressed all in white and is searching for her child. Her husband was killed in one of the mines and was left alone with no one to help her and her baby. (The miners did not have survivors benefits) Her child died with a sickness soon after her husband was killed and she committed suicide. She frightens many people out for walks, & hunting.
+location: Spring Canyon
+state: Utah
+state_abbrev: UT
+longitude: -110.9170354
+latitude: 39.6977328
+city_longitude: -110.8546053
+city_latitude: 39.6841304
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

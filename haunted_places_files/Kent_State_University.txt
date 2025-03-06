@@ -1,0 +1,20 @@
+city: Warren
+country: United States
+description: Trumbull County Campus - Theater -  A witness reports seeing an apparition of a woman in blue sitting outside the theater lobby. Feeling not alone and hearing footsteps.
+location: Kent State University
+state: Ohio
+state_abbrev: OH
+longitude: -80.8391628
+latitude: 41.2798893
+city_longitude: -80.81841659999999
+city_latitude: 41.2375569
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

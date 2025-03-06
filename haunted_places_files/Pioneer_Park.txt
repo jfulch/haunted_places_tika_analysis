@@ -1,0 +1,21 @@
+city: Dayton
+country: United States
+description: People talk of a Blue light hovering in the trees at pioneer park, and of a ghostly woman standing beside the road late at night
+location: Pioneer Park
+state: Washington
+state_abbrev: WA
+longitude: -117.8071275
+latitude: 46.2879717
+city_longitude: -117.9724368
+city_latitude: 46.3237525
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

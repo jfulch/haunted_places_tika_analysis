@@ -1,0 +1,20 @@
+city: Scioto
+country: United States
+description: Shawnee State University - Vern Riffe Center for the Arts - The Art building sits along 3rd street where many more old homes once stood, and the hauntings are said to originate from there.  The halls between the main lobby and the main hallways for the classrooms (a.k.a. The Connector Hall) seems to be where the most occurrences are. Shadows, footsteps, sounds, shadows all are seen or heard. Some, have, apparently, even seem the spirit of a young girl roam the hallways, as well as the sounds of child like or girl like laughing coming from the connector hallway, and performance hall when no one is that area late at night.
+location: Portsmouth
+state: Ohio
+state_abbrev: OH
+longitude: -82.9976742
+latitude: 38.7317431
+city_longitude: -82.99316069999999
+city_latitude: 38.861065
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1986/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

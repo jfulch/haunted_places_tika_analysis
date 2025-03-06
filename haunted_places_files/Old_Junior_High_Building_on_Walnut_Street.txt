@@ -1,0 +1,21 @@
+city: Hillsboro
+country: United States
+description: When this school was a college in the early 1900's, students often got into fist fights with each other in the cafeteria. One day, a fight got out of hand when a student through a tray at another student's head and cracked it open. The student died before the paramedics arrived. People have reported seeing him roaming the halls of the now deserted building.
+location: Old Junior High Building on Walnut Street
+state: Texas
+state_abbrev: TX
+longitude: -97.1275252
+latitude: 32.008191
+city_longitude: -97.1300061
+city_latitude: 32.0109886
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

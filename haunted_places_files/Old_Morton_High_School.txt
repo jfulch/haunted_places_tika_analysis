@@ -1,0 +1,20 @@
+city: Morton
+country: United States
+description: Sometime you can hear a basketball bouncing in the old gym or sometimes you can hear a panio playing in the music room.
+location: Old Morton High School
+state: Wyoming
+state_abbrev: WY
+longitude: -89.453645
+latitude: 40.612291
+city_longitude: -108.7745643
+city_latitude: 43.2005135
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1998/05/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

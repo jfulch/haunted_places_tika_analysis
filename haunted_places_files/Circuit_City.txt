@@ -1,0 +1,21 @@
+city: Lincoln
+country: United States
+description: It is said to have been built over an Indian burial ground.  At night sometimes when workers go to straighten things and make the store look nice and ready for the next day, they go back and see that there are things knocked on to the floor.  Voices have also been heard.
+location: Circuit City
+state: Nebraska
+state_abbrev: NE
+longitude: -96.6858801
+latitude: 40.8525926
+city_longitude: -96.6851982
+city_latitude: 40.8257625
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

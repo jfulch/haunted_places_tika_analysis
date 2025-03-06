@@ -1,0 +1,20 @@
+city: Eldon
+country: United States
+description: Supposedly when the old locker rooms under the gymnasiam collapsed or burnt down, a girl was caught and died. To this day she has been seen at night near the restrooms and in the hallways of the school. Her name is Maude not sure how to spell it. The other story is where the Ag shop is now there used to be a house that either burnt or a little girl died in there and this is where maude originates from. Don't know which one is true.
+location: Eldon High school
+state: Missouri
+state_abbrev: MO
+longitude: -92.5835865
+latitude: 38.3494491
+city_longitude: -92.5815759
+city_latitude: 38.34836360000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: THIRD FLOOR - A man standing in the window with his hands against the window. Shadows moving rapidly from window to window (like they are going through the walls). A man jumping from the roof's smoke stack. And a figure in the bathroom of the third floor with black bumps on the visible portions of his body(black bumps are a visual sign of tuberculosis)
+location: Pittsburgh Job Corps Center/Leech Farm Tuberculosis Hospital and Sanitarium
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.90143859999999
+latitude: 40.4781325
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Natural Disaster
+witness_count: 0

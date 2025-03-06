@@ -1,0 +1,20 @@
+city: Cincinnati
+country: United States
+description: There are many reports of hauntings on this road. One is of a car that was doing a gang initiation where you can here a car with stereo blasting, speeding up and down the hills. After a few times of them going down the hill you can hear the screams and the crash of the car. There are also reports of a woman who was killed while trying on her wedding dress, the reports state that she is seen walking around on Buffalo Ridge and East Miami River Road on the anniversary of her death searching for her head that was never found.
+location: Buffalo Ridge
+state: Ohio
+state_abbrev: OH
+longitude: -84.71158369999999
+latitude: 39.1948389
+city_longitude: -84.5120196
+city_latitude: 39.1031182
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

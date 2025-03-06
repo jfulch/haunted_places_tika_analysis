@@ -1,0 +1,20 @@
+city: Mantorville
+country: United States
+description: A lady was in the dressing room in the basement when a lady who was wearing the same dress came into the room and started talking to her and telling her about the time when she played the same role in the play years earlier, but when she turned around there was no one there. She ran upstairs to tell her friend who played the villain about what happened when they both saw a shadowy figure up in the rafters that looked like the costume he was wearing. They left everything and left the place very quickly.
+location: Opera House
+state: Minnesota
+state_abbrev: MN
+longitude: -92.7561847
+latitude: 44.0665793
+city_longitude: -92.7557456
+city_latitude: 44.0691307
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1889/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

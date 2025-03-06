@@ -1,0 +1,18 @@
+city: Garner
+country: United States
+description: It is thought to be haunted by the ghost of a man. Things that happen are banging sounds and sometimes the occasional whisper in your ear along with the feeling of breath on the right side of our face.
+location: Dunhaven House
+state: South Carolina
+state_abbrev: SC
+city_longitude: -78.61417089999999
+city_latitude: 35.7112642
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

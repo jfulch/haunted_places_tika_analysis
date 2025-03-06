@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: ghost of Queen Liluokalani haunts this building. & One of the offices in this building is haunted by the ghost of a little boy.
+location: State Capitol Building
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8573977
+latitude: 21.3071951
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1838/09/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

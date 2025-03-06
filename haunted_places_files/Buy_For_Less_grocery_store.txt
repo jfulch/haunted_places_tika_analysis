@@ -1,0 +1,21 @@
+city: Oklahoma City
+country: United States
+description: The store at 36th and MacArthur is haunted in the bakery. Several years ago a baker was shot and killed there by a jealous boyfriend of a female coworker. The boyfriend mistook the baker for someone else who had been flirting with his girlfriend. At night cold breezes blow through the bakery, moving the swinging doors of the stockroom, though there is no opening or doorway to the outside. Items stored securely on the shelves tumble to the floor. The hair stands up on the back of people's necks as they walk through at night. A stock crew foreman who worked there was a practicing Satanist. Often whenever he was there, a ghost named "Mr. Bojangles" could be seen in the back stockroom. They called him that because he wore top hat, tux, tails, and a cane like a '20s minstrel performer.
+location: Buy For Less grocery store
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.5805487
+latitude: 35.5337546
+city_longitude: -97.5164276
+city_latitude: 35.4675602
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

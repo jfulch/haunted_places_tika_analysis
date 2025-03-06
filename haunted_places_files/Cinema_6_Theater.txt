@@ -1,0 +1,20 @@
+city: Breckenridge
+country: United States
+description: There have been two fires at the theater itself. The first one started in the projection room. I don't know where the second one started. There used to be a hotel in the exact spot where the theater is. In 1977-1979(I'm not sure what year) the hotel was burnt down with almost everyone dead including the man who started the fire. Some people in Breckinridge think that his spirit started the fires in the theater. Some people have claimed that they saw a transparent man wandering the halls during the movie, including some employees.
+location: Cinema 6 Theater
+state: Minnesota
+state_abbrev: MN
+longitude: -96.590177
+latitude: 46.263414
+city_longitude: -96.5869443
+city_latitude: 46.26277779999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

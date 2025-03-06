@@ -1,0 +1,21 @@
+city: Franklin
+country: United States
+description: here is a Historic mansion in Franklin Tn called Carnton. It was used as a confederate hospital during the Civil War(battle of Franklin). Gun shots, rhythmic drum beats, voices, and running footsteps can be heard there any night. There have been recordings of sounds and pictures taken there by local investigators.
+location: Carnton Mansion
+state: Tennessee
+state_abbrev: TN
+longitude: -86.85828900000001
+latitude: 35.903931
+city_longitude: -86.8688899
+city_latitude: 35.9250637
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 0

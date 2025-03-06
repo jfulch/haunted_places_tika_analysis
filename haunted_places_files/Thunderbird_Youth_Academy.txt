@@ -1,0 +1,21 @@
+city: Pryor
+country: United States
+description: many years before it was a military school it was a orphanage the say a tornado hit the orphanage and killed a lot of the children who lived there the stories are that if you are awake at night you can here the talking and laughing of children and there is eye witness proof that a child haunts the attic of what is now the third platoon building
+location: Thunderbird Youth Academy
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.3073644
+latitude: 36.2977123
+city_longitude: -95.3169136
+city_latitude: 36.3084275
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1971/09/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

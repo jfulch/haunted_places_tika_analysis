@@ -1,0 +1,21 @@
+city: Lemoore
+country: United States
+description: Auditorium/English Building - Reports by many students include shadows that move by themselves, two girls laughing in the fifth row sixth and seventh seat, and the presence of a man on the balcony wearing a bolo hat.
+location: Lemoore High School
+state: California
+state_abbrev: CA
+longitude: -119.7799695
+latitude: 36.2975958
+city_longitude: -119.7829107
+city_latitude: 36.3007835
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

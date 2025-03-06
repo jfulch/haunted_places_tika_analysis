@@ -1,0 +1,21 @@
+city: Green Bay
+country: United States
+description: when upstairs in the attic, you con hear footsteps and the lights turn on and off.
+location: Brewbakers Pub
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.0153756
+latitude: 44.5156752
+city_longitude: -88.019826
+city_latitude: 44.51915899999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1971/06/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Wilkesboro
+country: United States
+description: The Old Wilkes Jail Museum is seeped with interesting history. Tom Dula (better known as Tom Dooley in the south) was kept here when accused of murdering Laura Foster. The building is located just a few feet from the Robert Cleveland Log Home. The old jail is said to be haunted by many spirits. The sounds of fighting can be heard in the men's quarters, a portrait is said to "wink" at young school age girls, and other odd things are said to happen. Paranormal investigation teams have investigated the jail and have found evidence of hauntings.
+location: Old Wilkes Jail Museum
+state: North Carolina
+state_abbrev: NC
+longitude: -81.14876919999999
+latitude: 36.1406192
+city_longitude: -81.1606401
+city_latitude: 36.1459649
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1858/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

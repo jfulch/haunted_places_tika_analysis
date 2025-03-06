@@ -1,0 +1,21 @@
+city: Staunton
+country: United States
+description: Opened in 1825 and was named Western Lunatic Asylum. Dr. Joseph Dejarnette took over in 1905 and believed in eugenics. Many of the patients at the Asylum were unhappy and tortured. The asylum was closed down in 1996 but many things still go on at Western state. The grounds are off limit but people who sneak in claim to hear footsteps, moans, whispers, screams, and doors opening and closing.
+location: Dejarnette Center
+state: Virginia
+state_abbrev: VA
+longitude: -79.035065
+latitude: 38.132025
+city_longitude: -79.0716958
+city_latitude: 38.149576
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1825/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

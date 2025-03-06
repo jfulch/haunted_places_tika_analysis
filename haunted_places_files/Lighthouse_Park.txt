@@ -1,0 +1,20 @@
+city: New Haven
+country: United States
+description: At Lighthouse Park around midnight you can hear the carousel running and little kids giggling.
+location: Lighthouse Park
+state: Connecticut
+state_abbrev: CT
+longitude: -72.9035323
+latitude: 41.2488564
+city_longitude: -72.9278835
+city_latitude: 41.308274
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1792/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Carlisle
+country: United States
+description: There are woods right across the street that has trails made by bike riders. There is a tree called The Demon Tree IT IS A DEAD TREE BUT STILL SEEMS TO GET TALLER AND STRONGER. Witnesses report to have heard voices, and being chased out of there by something.
+location: Carlisle park apts.
+state: Ohio
+state_abbrev: OH
+longitude: -84.330686
+latitude: 39.570014
+city_longitude: -84.3202194
+city_latitude: 39.5820026
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

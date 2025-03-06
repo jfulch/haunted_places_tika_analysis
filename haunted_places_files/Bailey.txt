@@ -1,0 +1,20 @@
+city: Park County
+country: United States
+description: Platte Canyon High School - In the storage room above the gym, a faculty member that hanged himself was found by students. It was later determined that he had raped a 14 year old freshman girl just before committing suicide. Ever since then, students and faculty members have reported hearing strange footsteps, lights flickering, and weird moaning sounds. They all seem to occur in the storage room.
+location: Bailey
+state: Colorado
+state_abbrev: CO
+longitude: -105.4786412
+latitude: 39.4060536
+city_longitude: -105.5943388
+city_latitude: 39.0897928
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2006/09/27
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

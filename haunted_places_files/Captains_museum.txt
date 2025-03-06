@@ -1,0 +1,21 @@
+city: Brownville
+country: United States
+description: Many people in this area have seen a ghost playing the piano in the old . Others have just heard the piano playing late at night.
+location: Captain's museum
+state: Nebraska
+state_abbrev: NE
+longitude: -95.6506945
+latitude: 40.3948797
+city_longitude: -95.6580455
+city_latitude: 40.3977793
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

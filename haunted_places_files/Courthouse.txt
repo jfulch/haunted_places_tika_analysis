@@ -1,0 +1,20 @@
+city: Winnsboro
+country: United States
+description: Back in the 1800's, there was a woman by the name of Mary Ingelman.  The townspeople believed she was a witch. She was the first woman in the State of South Carolina tried by a court and sentenced to death for witchcraft.  They tried to hang her in the magnolia tree beside the courthouse.  A man from the town felt sorry for her, and cut her loose before she died.  She lived and was the townspeople attempted to kill her several more times, but was never successful.  She lived a hard life, and when she died she came back to haunt the area of the courthouse.  She can be seen on the steps of the courthouse late at night and the areas surrounding the courthouse, near the magnolia tree.
+location: Courthouse
+state: South Carolina
+state_abbrev: SC
+longitude: -81.0862882
+latitude: 34.3798897
+city_longitude: -81.0864776
+city_latitude: 34.3807012
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

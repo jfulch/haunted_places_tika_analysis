@@ -1,0 +1,21 @@
+city: Belding
+country: United States
+description: In the Children's section, downs stairs, sometimes you hear a small girl laughing when you are there alone. Books fall off the selves and you feel like there is someone in the room who wants you to go away even thought there is no one there.
+location: Belding Library
+state: Michigan
+state_abbrev: MI
+longitude: -85.2268185
+latitude: 43.09784639999999
+city_longitude: -85.228906
+city_latitude: 43.0978094
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1911/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

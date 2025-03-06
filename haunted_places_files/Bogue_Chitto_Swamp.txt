@@ -1,0 +1,18 @@
+city: Dekalb
+country: United States
+description: Home to a specter that roams the near bridge of the swamp late at night. Footsteps are heard here and vehicles tend to stop half way across the bridge. Tall man wearing black suit and black hat is seen walking down roads near swamp trying to stop you for a ride.
+location: Bogue Chitto Swamp,
+state: Mississippi
+state_abbrev: MS
+city_longitude: -88.6508784
+city_latitude: 32.7676329
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

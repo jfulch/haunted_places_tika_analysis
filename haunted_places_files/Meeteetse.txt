@@ -1,0 +1,20 @@
+city: Park County
+country: United States
+description: Cowboy Bar - Footsteps, when no one in there. Glasses falling, full from the bar, and not spilling a drop. Seeing and hearing someone order a steak. Bottles flying of the shelves. Bullet holes in walls, a wake held, with the dead man laying on the bar, Several murders in and around the bar.
+location: Meeteetse
+state: Wyoming
+state_abbrev: WY
+longitude: -108.8715193
+latitude: 44.1571766
+city_longitude: -109.4579855
+city_latitude: 44.6782103
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Thunder Bay Island
+country: United States
+description: this uninhabited island on Lake Huron is haunted by a lighthouse keeper named Morgan. It is not known how or why his spirit dwells the lighthouse and island, but those who pass by the island claim to see and feel his presence walking the shoreline.
+location: Thunder Bay Island Lighthouse
+state: Michigan
+state_abbrev: MI
+longitude: -84.51829699999999
+latitude: 44.9097303
+city_longitude: -84.51829699999999
+city_latitude: 44.9097303
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

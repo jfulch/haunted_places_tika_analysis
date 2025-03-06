@@ -1,0 +1,21 @@
+city: Laguna Woods
+country: United States
+description: Leisure World - Theater - Footsteps are heard in the booth by staff in the offices below, especially when there is no one in the building. Technicians have reported someone looking over their shoulders during shows. Opinion has it that this is 'Bud', a former printer who moved to Leisure World in the mid 60's and worked in the theater as its first tech.
+location: formerly Laguna Hills
+state: California
+state_abbrev: CA
+longitude: -117.719212
+latitude: 33.624022
+city_longitude: -117.7251162
+city_latitude: 33.6101702
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1899/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

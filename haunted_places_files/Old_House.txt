@@ -1,0 +1,19 @@
+city: Milton
+country: United States
+description: this house used to be on the SE side of town and was then back in the late 1850s or so was a mortuary it was later moved to a central part of the town and occupied by residents these residents claim that the upstairs of this house is haunted by an old man and a little girl you can hear people talking and sobbing.
+location: old house
+state: Iowa
+state_abbrev: IA
+city_longitude: -92.1621241
+city_latitude: 40.6733602
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1690/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

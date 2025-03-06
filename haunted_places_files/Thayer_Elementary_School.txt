@@ -1,0 +1,20 @@
+city: Fort Leonard Wood
+country: United States
+description: Once in the early 1980's a teacher left to take a note to the office leaving a girl as a room monitor. During this time the students still sitting in their seats giggled as a chalkboard eraser scooted back and forth by itself along the little rail running along the bottom edge of the blackboard. The girl who was the room monitor had no idea what everyone thought was so funny.
+location: Thayer Elementary School
+state: Missouri
+state_abbrev: MO
+longitude: -92.1000441
+latitude: 37.7488715
+city_longitude: -92.1348413
+city_latitude: 37.7944939
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

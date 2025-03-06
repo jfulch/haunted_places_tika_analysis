@@ -1,0 +1,20 @@
+city: Jefferson City
+country: United States
+description: A stretch of old highway on the outskirts of Jefferson City, Missouri, is notorious for being haunted. The road is lined by cornfields, and there is a light that follows you for approximately four-five miles. The ghost of a mischievous old man named Ofie is known to haunt the road. Several people have reported hitting a person on that road, to get out of their vehicles and search for someone to find nothing. If you turn around on the road, you'll be followed (this has happened to several people, too) by an unknown creature.
+location: Old 94
+state: Missouri
+state_abbrev: MO
+longitude: -90.3387251
+latitude: 38.5892737
+city_longitude: -92.1735164
+city_latitude: 38.57670170000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1743/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

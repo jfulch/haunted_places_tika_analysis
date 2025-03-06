@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: Civil War soldiers walk the halls at night.
+location: National Aviary
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.01034709999999
+latitude: 40.4535712
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 0

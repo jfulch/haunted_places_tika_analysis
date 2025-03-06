@@ -1,0 +1,21 @@
+city: Brooklyn
+country: United States
+description: Located in sunset park Brooklyn, It's an old monastery where priests and nuns still live. On certain nights there's a window on the left side where you can see the shadow of a nun and the window beneath her you can see the shadow of her son. Supposedly many years ago a priest that lived there raped the nun she than became pregnant and killed herself and her son. There are rumors of a women crying and images of a nun sitting in a rocking chair by a window.
+location: Shadows
+state: New York
+state_abbrev: NY
+longitude: -73.9615439
+latitude: 40.6063415
+city_longitude: -73.9441579
+city_latitude: 40.6781784
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Del Rey
+country: United States
+description: Reports of cold spots, moaning heard, the third tomb in light up at night, EMF detector was used and it went off like crazy
+location: Del Rey Cemetery
+state: California
+state_abbrev: CA
+longitude: -119.5116125
+latitude: 36.72714
+city_longitude: -119.593744
+city_latitude: 36.6591171
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

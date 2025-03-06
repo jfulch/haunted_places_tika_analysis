@@ -1,0 +1,20 @@
+city: Brooklyn Park
+country: United States
+description: A avid bowler passed away and his soul still comes back to bowl. Late at night you can hear the sound of bowling balls going down the lane and pins knocking over. This happens late after closing and all of the lanes are turned off. -  July 2005 Update - it should be noted the bowling alley is now closed and boarded up, and will be torn down in a matter of months. If you try to investigate this place without permission, you will be arrested.
+location: AMF bowling lanes
+state: Minnesota
+state_abbrev: MN
+longitude: -93.352447
+latitude: 45.091447
+city_longitude: -93.3563405
+city_latitude: 45.0941315
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

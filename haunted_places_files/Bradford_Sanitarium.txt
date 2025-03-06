@@ -1,0 +1,20 @@
+city: Bradford
+country: United States
+description: The Bradford Sanitarium was Built in the late 1920's and was burned down in 1935 Late at night around where it was built people have said to have seen Orbs floating in the air.
+location: Bradford Sanitarium
+state: Ohio
+state_abbrev: OH
+longitude: -84.43133499999999
+latitude: 40.131286
+city_longitude: -84.4307831
+city_latitude: 40.1322719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1935/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

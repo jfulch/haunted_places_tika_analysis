@@ -1,0 +1,20 @@
+city: Kent
+country: United States
+description: Stuart Hall - This Vacant dorm located on Kent State's campus, not far from the student center has several rumors of hauntings. There are broken windows and bars against the doors urging you not to even try and trespass. Vines have grown all along the walls as well. Noises are heard and every now and then you can see a light from the window, even though "no one" has been in there for several years. - October 2007 Update: Stuart Hall is no longer abandoned.
+location: Kent University
+state: Ohio
+state_abbrev: OH
+longitude: -81.34146489999999
+latitude: 41.1490629
+city_longitude: -81.3578859
+city_latitude: 41.1536674
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1929/12/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

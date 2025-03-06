@@ -1,0 +1,21 @@
+city: New Braintree
+country: United States
+description: Ghostly woman known as Elsie seen walking up and down the road in her wedding dress. Seen only on the anniversary of her death, April 21. Legend says she died in car accident on wedding night while looking for her future husband.
+location: Rt. 67
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.1124555
+latitude: 42.33196909999999
+city_longitude: -72.12591139999999
+city_latitude: 42.3167581
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

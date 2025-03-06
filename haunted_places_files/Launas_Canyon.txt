@@ -1,0 +1,21 @@
+city: Kingman
+country: United States
+description: About two or three miles southeast of downtown Kingman, there is a place known as Launa's Canyon. This is how the story starts goes: During the 1800s, a soon to be family of four(husband, wife(Launa), and husband’s two daughters), traveled out to (Old Town) Kingman to search for gold. In time, the family soon built a large house near a deep, narrow canyon. The man's daughters despised the young, soon-to-be mother and wife, for the way she had treated them. Launa wanted their father all to herself. So on the night before her wedding, in order for her to get their father, Launa murdered the two young girls. She hid the murdered children in the house. When she regained her sanity later that night, she came back screaming and moaning through the canyon, begging for forgiveness for the sickening killings. To this day, it is said that you can still hear Launa's moaning throughout the c anyons during the hours of 12:00AM – 3AM.
+location: Launa's Canyon
+state: Arizona
+state_abbrev: AZ
+longitude: -114.0318949
+latitude: 35.1808322
+city_longitude: -114.0530065
+city_latitude: 35.189443
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1921/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

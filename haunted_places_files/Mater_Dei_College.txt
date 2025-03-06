@@ -1,0 +1,21 @@
+city: Ogdensburg
+country: United States
+description: It is said that the spirit of a young boy roams the halls giggling and laughing on the way. He was killed after a tragic fall. People have reported seeing a nun roam the halls along with strange noises and lights going on and off in locked upped rooms. Urban legend of a nun hanging herself is untrue. No one is sure where the little boy fits in. - ”There is, however, something definitely not right in the upper floor in the new dormitory wing. There has been cold spots in one room, strange appearances and a feeling of "evil" in one or two rooms. A couple of the sisters have experienced this as well as the lay students and the dormitory wing was blessed by a priest exorcist. According to the girls, problems all began with students playing around with an ouija board. Problems seem to persist to this day even those the college is closed and has been sold to a new owner.” - Quote from a Sister of St. Joseph whose congregation founded Mater Dei, built it and had lived there off and on since it was built in 1960.
+location: Mater Dei College
+state: New York
+state_abbrev: NY
+longitude: -75.567509
+latitude: 44.63648300000001
+city_longitude: -75.48633640000001
+city_latitude: 44.6942291
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lynn
+country: United States
+description: the auditorium is haunted by the old drama teacher. it has been said that eerie breezes sweep through when there is no door or window open and she is there for every rehearsal and show.
+location: English High School
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9439079
+latitude: 42.476875
+city_longitude: -70.9494938
+city_latitude: 42.46676300000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1985/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

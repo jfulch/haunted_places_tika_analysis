@@ -1,0 +1,21 @@
+city: Barnes Corners
+country: United States
+description: On Rt. 177 a woman has been seen walking along the road, only to disappear in the rearview mirror. Other times she has been seen headless along the side of the road. The story goes that her and her baby were in a car accident, where she was killed. Somebody stopped to help and the baby was saved. She walks up and down the road searching for her missing baby.
+location: Tug Hill
+state: New York
+state_abbrev: NY
+longitude: -75.81251979999999
+latitude: 43.8149338
+city_longitude: -75.81769489999999
+city_latitude: 43.8170121
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1902/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Accident
+witness_count: 1

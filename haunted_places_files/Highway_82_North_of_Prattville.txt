@@ -1,0 +1,19 @@
+city: Culavista
+country: United States
+description: This part of the interstate was built on an Indian burial ground which has caused more car wrecks than any other part of the interstate.
+location: Highway 82: North of Prattville
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.36664669999999
+city_latitude: 33.595659
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

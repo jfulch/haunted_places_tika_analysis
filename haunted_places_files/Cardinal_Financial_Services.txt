@@ -1,0 +1,21 @@
+city: Harlan
+country: United States
+description: There has been numerous encounters of a female ghost named Cheyenne. There are keys rattling and doors slamming. It has been reported that you can feel Cheyenne walk up behind you and breathe down your neck. When you turn around, she's gone.
+location: Cardinal Financial Services
+state: Kentucky
+state_abbrev: KY
+longitude: -83.2982825
+latitude: 36.8086043
+city_longitude: -83.321848
+city_latitude: 36.8431441
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 30m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

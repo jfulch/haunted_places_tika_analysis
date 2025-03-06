@@ -1,0 +1,18 @@
+city: St. Paul
+country: United States
+description: The building that now houses The Noose Bar (which is over one hundred years old) was the location of a suicide by hanging (hence the name of the bar) on the East side of St. Paul on East 7th Street (formerly Michael's Bar). There have been many occurrences at this location, such as doors being held open, neon signs starting to swing and fall off walls with no one near the sign, but witnessed by people sitting at the bar. Go check it out for yourself.
+location: The Noose Bar
+state: Minnesota
+state_abbrev: MN
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

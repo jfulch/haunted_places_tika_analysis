@@ -1,0 +1,21 @@
+city: Van Meter
+country: United States
+description: The auditorium is reportedly haunted by a man that fell to his death there while working on one of the catwalks. Students, workers and performers have seen him.
+location: Auditorium
+state: Kentucky
+state_abbrev: KY
+longitude: -86.4523332
+latitude: 36.9879582
+city_longitude: -84.58605279999999
+city_latitude: 38.0547989
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

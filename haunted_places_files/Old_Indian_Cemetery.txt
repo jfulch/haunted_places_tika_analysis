@@ -1,0 +1,21 @@
+city: Coweta
+country: United States
+description: Down old highway 51B. There is an old haunted Indian cemetery. there is a woman who appears and screams for her children she watched die from starvation.
+location: Old Indian Cemetery
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.6443113
+latitude: 35.930856
+city_longitude: -95.650814
+city_latitude: 35.9517674
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

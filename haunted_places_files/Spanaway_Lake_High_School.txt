@@ -1,0 +1,21 @@
+city: Spanaway
+country: United States
+description: sometimes at night the lights will turn on and off. at night at about midnight, you can see a janitor that has once been killed by another student. the legend goes on. it is told from generation to generation, the story is, one day in the spring, it was a quiet morning, a troubled boy had brought a gun to school and supposedly the janitor made him upset because the janitor told him to clean some tables at a lunch detention. The boy told the janitor No and pulled out a gun. put the gun to the janitor's head and shot him. all the children were astonished/shocked. they ran for safety. then the boy who had shot the janitor ran with the gun somewhere in the school. nobody has ever seen the boy since. the legend has it, that the boy lives in the school, and when he gets hungry he goes to the kitchen and finds food to eat.
+location: Spanaway Lake High School
+state: Washington
+state_abbrev: WA
+longitude: -122.4130018
+latitude: 47.1055362
+city_longitude: -122.4345661
+city_latitude: 47.103988
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

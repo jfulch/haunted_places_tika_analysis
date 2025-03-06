@@ -1,0 +1,20 @@
+city: Paintsville
+country: United States
+description: Mr. Mayo who was the richest man in town built a church mostly for his wife. Some said that they have seen Mrs. Mayo praying or just sitting in the chapel late at night. Others say that you can here whispering or humming coming from the chapel late at night.
+location: Mayo Church
+state: Kentucky
+state_abbrev: KY
+longitude: -82.8071928
+latitude: 37.8160845
+city_longitude: -82.8071054
+city_latitude: 37.8145384
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

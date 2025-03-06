@@ -1,0 +1,21 @@
+city: Waxahachie
+country: United States
+description: A little boy is said to be haunting the streets late at night in his bike. The story goes as is. One day late at night, he was riding his bike, when a car of drunk teenagers shot him for no reason. It is said that he still rides his bike late at night, and if you approach him he takes out his revenge on you.
+location: Waters St.
+state: Texas
+state_abbrev: TX
+longitude: -96.8534543
+latitude: 32.3905796
+city_longitude: -96.8483311
+city_latitude: 32.3865312
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

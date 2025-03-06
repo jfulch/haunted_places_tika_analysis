@@ -1,0 +1,21 @@
+city: Wagoner
+country: United States
+description: recent death of 52 year old in haunted house. Orbs all throughout house. Chandeliers shaking, doors closings mysteriously. Mirrors all through the house with shadows behind you. And a well where you can see a shadow swinging.
+location: Well House
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.3680596
+latitude: 35.9590283
+city_longitude: -95.3694116
+city_latitude: 35.9595442
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

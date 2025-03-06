@@ -1,0 +1,20 @@
+city: Agency
+country: United States
+description: Haunted by many ghosts. One in particular is a child named Mary. She is blamed for unlatching the gate and leaving it open.
+location: Agency Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -94.654874
+latitude: 39.603341
+city_longitude: -94.7399611
+city_latitude: 39.644718
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

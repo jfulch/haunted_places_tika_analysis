@@ -1,0 +1,21 @@
+city: Hot Springs
+country: United States
+description: At night, screams can be heard coming from the basement, a woman can be seen glowing in the basement, a broken clock’s hand winds around by itself and light fixtures fall.
+location: The Old Malco
+state: Arkansas
+state_abbrev: AR
+longitude: -93.0539962
+latitude: 34.5086947
+city_longitude: -93.0551795
+city_latitude: 34.5037004
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

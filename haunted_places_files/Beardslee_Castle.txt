@@ -1,0 +1,21 @@
+city: Little Falls
+country: United States
+description: Believed to be haunted by the original owners - the Beardsley family. Reports of seeing them there, been made many times there. For more information go to: http://www.beardsleecastle.com/ghostpage.htm
+location: Beardslee Castle
+state: New York
+state_abbrev: NY
+longitude: -74.74488699999999
+latitude: 43.00725
+city_longitude: -74.8595957
+city_latitude: 43.0434039
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

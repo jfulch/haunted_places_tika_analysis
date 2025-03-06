@@ -1,0 +1,21 @@
+city: Blue Mountain
+country: United States
+description: Located on the Kittatinny Ridge at the border between Lehigh and Carbon county, Bake Oven Knob is a rocky outcrop on the mountain. According to many sources there are odd occurrences in the forest. Noises and whispers are a common thing, and are rumored to be the spirit of a hiker who fell off the rocks. At some points people have even reported the forest getting extremely dark even just a few feet in while it is still light out.
+location: Bake Oven Knob
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.7383728
+latitude: 40.7445259
+city_longitude: -75.5124842
+city_latitude: 40.82264259999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

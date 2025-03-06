@@ -1,0 +1,21 @@
+city: Lake County
+country: United States
+description: Macarthur woods - Has been removed. This is a private residence, The police will be called for trespassing.
+location: Cedarlake
+state: Indiana
+state_abbrev: IN
+longitude: -87.4411473
+latitude: 41.3647578
+city_longitude: -87.30161319999999
+city_latitude: 41.4897279
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/06/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Novi
+country: United States
+description: This warehouse has been haunted by many ghosts. There is a graveyard close by which could be the reason for many of the ghosts inside this company building. People said that the ghosts look like they were from the 1800's because they were wearing really old dresses. Other strange things happen like objects move.
+location: Frank W. Kerr Company
+state: Michigan
+state_abbrev: MI
+longitude: -83.47172540000001
+latitude: 42.4503482
+city_longitude: -83.4754913
+city_latitude: 42.48059
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: former site of MacAteer H.S. - singing can be heard in the 3rd floor bathroom when no one is around. Also on the 3rd floor, knocking on the lockers and from inside locked classrooms can be heard.
+location: School of the Arts High School
+state: California
+state_abbrev: CA
+longitude: -122.4486465
+latitude: 37.7454156
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

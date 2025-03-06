@@ -1,0 +1,21 @@
+city: Lawton
+country: United States
+description: This forest was built a long time ago for the dust bowl. The forest is extremely deep and is haunted at night by shadows and taking young teens away at night to get them lost in the forest. Many kids have been lost in the forest and have never been seen again. Shadows walk the forest and supposedly small nematodes (Indian like figures) grab and scratch you to the bone. Once you enter the forest it is extremely cold and quiet, you always will feel someone watching you.
+location: Parrelle Forest/ Wichita Mountains
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.579313
+latitude: 34.7503814
+city_longitude: -98.3959291
+city_latitude: 34.6035669
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

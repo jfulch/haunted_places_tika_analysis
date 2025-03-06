@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: Rumors that the Bath Rooms by Danny Gans' theatre are haunted. The automatic sensor faucets go on by themselves when in there late and alone. 1 cleaning lady won't go in there and holds her rosary beads as she passes the area after witnessing the sinks while cleaning it. There are rumors a wall fell down on workers when the casino was being built.
+location: the Mirage
+state: Nevada
+state_abbrev: NV
+longitude: -115.1740735
+latitude: 36.1211957
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

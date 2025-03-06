@@ -1,0 +1,21 @@
+city: Lily Dale
+country: United States
+description: Witnesses have seen and felt many presences, both male and female.
+location: Inspiration Stump
+state: New York
+state_abbrev: NY
+longitude: -79.3259044
+latitude: 42.35072090000001
+city_longitude: -79.3242113
+city_latitude: 42.3517246
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

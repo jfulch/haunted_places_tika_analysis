@@ -1,0 +1,18 @@
+city: Napoleon
+country: United States
+description: Built in the mid 1800's by Gen Robert Scott, the house has many incidents of paranormal. Gen Scott can be seen walking down the steps in his suit and top hat, levitation of people sleeping on the 3rd floor bedrooms, sounds of people walking through the hallways, cold spots, and infants waking in the middle of the night, then giggling at a misty figure above their crib. Supposedly haunted by the General and at least one female servant of his.
+location: The Scott House
+state: Ohio
+state_abbrev: OH
+city_longitude: -84.1252243
+city_latitude: 41.3922726
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

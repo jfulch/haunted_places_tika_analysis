@@ -1,0 +1,21 @@
+city: Morgantown
+country: United States
+description: This restaurant/hotel is only used as a restaurant. Dates back to the early 1800's. Sightings of a person looking out the 2nd floor window onto Main St. even though no one is ever on the 2nd floor.
+location: Old Village Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.88946659999999
+latitude: 40.1551479
+city_longitude: -75.88994079999999
+city_latitude: 40.1552847
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

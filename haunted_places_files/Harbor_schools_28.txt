@@ -1,0 +1,20 @@
+city: Newbury
+country: United States
+description: In 1994 a boy hung himself in the attic it is said that he and many others still roam the halls in bedroom 2 upstairs you can see a pilgrim woman knitting in the corner late at night and down in the basement where the pool table is kept you can hear and sometimes see the boy who hung himself(jamie)playing pool or lifting weights. at night in the omni room you can see the lights flicker and the doors slam. a stairway not used is and where the boy hung himself is cold and you can hear footsteps all day and night long on it.
+location: Harbor schools 28
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8522743
+latitude: 42.7978695
+city_longitude: -70.8714528
+city_latitude: 42.7649497
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1994/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Michigan city
+country: United States
+description: out in the pines its like porter county and LaPorte county combined. Old Chicago is out there by devils bridge.
+location: old Chicago road
+state: Indiana
+state_abbrev: IN
+longitude: -86.95609669999999
+latitude: 41.6674442
+city_longitude: -86.8950297
+city_latitude: 41.70753939999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1893/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Albany
+country: United States
+description: University of Wyoming - Knight Hall - Third floor- feeling of always being watched after dark.
+location: Laramie
+state: Wyoming
+state_abbrev: WY
+longitude: -105.5911007
+latitude: 41.3113669
+city_longitude: -106.1319565
+city_latitude: 41.1841402
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1867/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

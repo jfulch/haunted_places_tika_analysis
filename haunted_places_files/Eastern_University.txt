@@ -1,0 +1,21 @@
+city: St. David’s
+country: United States
+description: Walton Hall - A girl hung herself is Walton Hall's 4th floor in the 1970's. Its still completely closed up to this day. There are Occasionally lights and notice from up there.
+location: Eastern University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.37071949999999
+latitude: 40.0516866
+city_longitude: -75.37852339999999
+city_latitude: 40.0409428
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

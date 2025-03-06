@@ -1,0 +1,20 @@
+city: Golden
+country: United States
+description: This is a type of shopping center/ amusement park that is haunted by many ghosts. One in particular is a young man who supposedly fell in love with a young girl from one of the Indian tribes that was passing through the area at the time. Some one supposedly forbid their love and as the young man chased after the girl in his horse drawn wagon he was mysteriously killed. To this day there have been stories of young girls hearing galloping, and a male voice crying out for them to wait for him.
+location: Heritage Square
+state: Colorado
+state_abbrev: CO
+longitude: -105.2120084
+latitude: 39.7138666
+city_longitude: -105.2210997
+city_latitude: 39.755543
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

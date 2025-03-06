@@ -1,0 +1,21 @@
+city: Alhambra
+country: United States
+description: Students have reported seeing a "white nun" roaming the library. Many girls have claimed to have heard the piano in one of the school buildings being played, while no one was in the building. After a student drowned in the school, pool stories surfaced of the victim tugging at the swimmers legs.
+location: Ramona Convent Secondary School
+state: California
+state_abbrev: CA
+longitude: -118.1399395
+latitude: 34.0730896
+city_longitude: -118.1270146
+city_latitude: 34.095287
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

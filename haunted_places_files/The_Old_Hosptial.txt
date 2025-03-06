@@ -1,0 +1,20 @@
+city: Riverton
+country: United States
+description: You can still hear nurses saying "Doctor we are ready for the surgery" and you can here walking and breathing and talking
+location: The Old Hosptial
+state: Wyoming
+state_abbrev: WY
+longitude: -108.4178533
+latitude: 43.0344835
+city_longitude: -108.3801036
+city_latitude: 43.0249592
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

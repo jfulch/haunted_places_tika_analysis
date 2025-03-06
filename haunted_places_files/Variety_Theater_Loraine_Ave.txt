@@ -1,0 +1,20 @@
+city: Cleveland
+country: United States
+description: A figure in white has been seen on the first floor by the old water fountain. A man has been seen with red eyes in upper balcony. Noises have been heard on stage like workers. The stage noise is rumored to be a man that fell off lighting scaffold and died on stage.
+location: Variety Theater, Loraine Ave
+state: Ohio
+state_abbrev: OH
+longitude: -81.7701895
+latitude: 41.4612882
+city_longitude: -81.6943605
+city_latitude: 41.49932
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

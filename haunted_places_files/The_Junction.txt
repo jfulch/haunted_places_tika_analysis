@@ -1,0 +1,21 @@
+city: Hamilton
+country: United States
+description: The Junction is an insane asylum in the Allegan Woods. This place is said to be haunted by the ghosts of former patients of the asylum.
+location: The Junction
+state: Michigan
+state_abbrev: MI
+longitude: -87.7825203
+latitude: 42.7355726
+city_longitude: -85.9987285
+city_latitude: 42.671257
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1909/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

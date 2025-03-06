@@ -1,0 +1,21 @@
+city: Princeton
+country: United States
+description: Reports of an apparition of a woman falling from the Water Tower.
+location: Princeton &amp; McKinney Water Tower off the Airport Road
+state: Texas
+state_abbrev: TX
+longitude: -74.6514481
+latitude: 40.3439888
+city_longitude: -96.4980424
+city_latitude: 33.1801161
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

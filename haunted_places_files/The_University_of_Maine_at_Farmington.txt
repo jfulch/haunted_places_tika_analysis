@@ -1,0 +1,21 @@
+city: Farmington
+country: United States
+description: Mallet Hall Dorm – Third Floor - It seems the third floor is the most haunted. Very negative prescences are felt.
+location: The University of Maine at Farmington
+state: Maine
+state_abbrev: ME
+longitude: -70.1481254
+latitude: 44.6679585
+city_longitude: -70.1512169
+city_latitude: 44.67049979999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1961/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

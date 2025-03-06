@@ -1,0 +1,21 @@
+city: Oklahoma City
+country: United States
+description: The sprit of a nun has been seen walking around the 4th floor.- January 2007 Correction: There was a rumor that years ago this nun hung herself It is not true. She died of old age.
+location: Mount Saint Mary High School
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.526624
+latitude: 35.4373595
+city_longitude: -97.5164276
+city_latitude: 35.4675602
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

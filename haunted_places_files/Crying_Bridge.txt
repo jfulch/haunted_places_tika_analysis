@@ -1,0 +1,18 @@
+city: Shelby
+country: United States
+description: At night if you stand quietly on the bridge you will hear a baby cry. A family of Omish were said to be killed here. The bridge has since been remodeled but still the baby cries on.
+location: Crying Bridge
+state: Ohio
+state_abbrev: OH
+city_longitude: -82.6618424
+city_latitude: 40.88144519999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1868/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

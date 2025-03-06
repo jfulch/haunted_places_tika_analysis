@@ -1,0 +1,21 @@
+city: Tacoma
+country: United States
+description: Both guests and employees have seen apparitions and noticed lights flickering. The Stephen King mini series, 'Rose Red', was filmed here, adding to the ghostly presence.
+location: Thornewood Castle
+state: Washington
+state_abbrev: WA
+longitude: -122.551233
+latitude: 47.130346
+city_longitude: -122.4442906
+city_latitude: 47.2528768
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2013/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

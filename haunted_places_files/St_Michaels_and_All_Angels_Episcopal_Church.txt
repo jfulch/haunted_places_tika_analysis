@@ -1,0 +1,20 @@
+city: Mission
+country: United States
+description: There have been sightings of a ghost haunting the choir room in the basement.
+location: St. Michaels and All Angels Episcopal Church
+state: Kansas
+state_abbrev: KS
+longitude: -94.649981
+latitude: 39.008156
+city_longitude: -94.6557914
+city_latitude: 39.0277832
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Presque Isle
+country: United States
+description: The true story involves an elderly couple who were caretakers of the lighthouse, and how the husband tried for years to get the light in the lighthouse working. Before he could get it to work, the husband died leaving his wife a widow. She almost moved out until the light started working. She then knew her husband was still there. And as the story goes, every night about ten o'clock the light works and then slowly dims. The husband finally makes the light work every night.
+location: Old Presque Isle Light House
+state: Michigan
+state_abbrev: MI
+longitude: -83.4782328
+latitude: 45.3420245
+city_longitude: -83.46583319999999
+city_latitude: 45.2819607
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

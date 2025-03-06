@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: Auditorium - Ask any Deer Valley drama student where Dwex is, and they'll probably answer, "Up on the catwalk". Dwex is Deer Valley's resident ghost. Although he has only been seen in the auditorium, his presence is known school-wide. Stories of how Dwex died range from a love story gone wrong, to a construction worker who fell off the scaffolding while the school was being built. People who have been in the auditorium have experienced cold spots, equipment malfunctions, heard voices and crying near the auditorium bathrooms, and some people have even seen him. He peers down from the catwalk or from the equipment rooms. Witnesses have seen him on the catwalk. They have even been pushed by him during an after-hours, pitch-black auditorium visit.
+location: Deer Valley High School
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1696443
+latitude: 33.6529974
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/05/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

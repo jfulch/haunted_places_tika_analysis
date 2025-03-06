@@ -1,0 +1,19 @@
+city: Skagway
+country: United States
+description: Rooms 23 & 14 are haunted by apparitions.
+location: Golden North Hotel
+state: Alaska
+state_abbrev: AK
+city_longitude: -135.313889
+city_latitude: 59.45833329999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.216666666666669
+day_duration: 10h 52m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

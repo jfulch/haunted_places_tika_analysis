@@ -1,0 +1,21 @@
+city: Morganfield
+country: United States
+description: there have been reports from students that men with old greenarmy suits have been stading over them. Others say that they was strangled by gost while they were trying to sleep. You also feel like somone is watching you, doors close and open on thier own. Sometimes you can feel something touching your shoulder and nthing is there. Some people say that Genneral Breckinridge himself walks the hallways of the dormatorys
+location: Earl C. Clements Job Corps Center
+state: Kentucky
+state_abbrev: KY
+longitude: -87.8775907
+latitude: 37.6897316
+city_longitude: -87.9166915
+city_latitude: 37.6833776
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

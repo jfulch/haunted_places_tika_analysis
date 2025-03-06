@@ -1,0 +1,21 @@
+city: Hookerton
+country: United States
+description: It is said that if you go to that old train railroad in you will see some woods and if you go in very deep and flick your car lights three times a young man will come out with a lantern and paralyze you. But for this to happen you have to turn of your car and get out. The story is that a man was waiting for his wife and a train came and ran over him.
+location: Train RailRoad
+state: North Carolina
+state_abbrev: NC
+longitude: -77.5881818
+latitude: 35.4246008
+city_longitude: -77.5883039
+city_latitude: 35.4251622
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

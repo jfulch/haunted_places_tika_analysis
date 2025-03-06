@@ -1,0 +1,19 @@
+city: Konawa/Pottawattomie
+country: United States
+description: There has been rumors of monks and priest that have been dead for years walking about the mission. And there have been sightings of animals making strange noises and appearing and disappearing. Just down the road from Sacred Heart Cemetery.
+location: Sacred Heart Mission
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -96.7527956
+city_latitude: 34.9595263
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

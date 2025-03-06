@@ -1,0 +1,21 @@
+city: Northville
+country: United States
+description: there was a man who died in the projection booth from a fatal heart-attack. He now haunts the theater and if you look down the vents on stage, you can see a picture of "Oscer."
+location: Marquois Theater
+state: Michigan
+state_abbrev: MI
+longitude: -83.4821918
+latitude: 42.4313825
+city_longitude: -83.4832692
+city_latitude: 42.4311464
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1929/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

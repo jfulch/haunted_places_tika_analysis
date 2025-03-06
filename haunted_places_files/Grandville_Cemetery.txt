@@ -1,0 +1,21 @@
+city: Grandville
+country: United States
+description: A 300 year old cemetary built upon by a christian cemetary, dated back to the mid 1800's. Reports of serious hauntings, and even people having extreme physical pain. In one case a young girl was rushed to the hospital only hours after visiting this cemetary.
+location: Grandville Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -85.75164199999999
+latitude: 42.904303
+city_longitude: -85.7630885
+city_latitude: 42.9097484
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

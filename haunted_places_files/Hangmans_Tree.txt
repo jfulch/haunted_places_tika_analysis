@@ -1,0 +1,20 @@
+city: Leesville
+country: United States
+description: Tree that was used to hang slaves. They say that if you drive around the tree three times with no headlights on and then cut your lights on then you can see the ghost of a young man hanging from the tree
+location: Hangmans Tree
+state: South Carolina
+state_abbrev: SC
+longitude: -81.5294241
+latitude: 33.9175627
+city_longitude: -81.5132276
+city_latitude: 33.9163501
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

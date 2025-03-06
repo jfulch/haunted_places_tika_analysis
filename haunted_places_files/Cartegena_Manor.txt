@@ -1,0 +1,19 @@
+city: Drayden
+country: United States
+description: the Manor was also located there on the banks of a branch of the St. Mary's River. It is said that the manor simply slid into the mud one night.
+location: Cartegena Manor
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.48161999999999
+city_latitude: 38.1787376
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1944/06/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

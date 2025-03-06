@@ -1,0 +1,20 @@
+city: Greeley
+country: United States
+description: The hotel was built where the old Chief Theatre used to exist. Her boyfriend killed a young woman in the theatre. She was thrown off the balcony. Sometimes she will play tricks on people (poltergeist activities) and sometimes she will show herself outright. Almost everyone who has worked at the Ramkota has seen the ghost of "Rosy."
+location: The Ramkota Hotel
+state: Colorado
+state_abbrev: CO
+longitude: -104.6900425
+latitude: 40.4250271
+city_longitude: -104.7091322
+city_latitude: 40.4233142
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

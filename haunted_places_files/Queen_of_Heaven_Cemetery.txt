@@ -1,0 +1,21 @@
+city: Hillside
+country: United States
+description: Our Lady of Angels School in Chicago. It caught on fire 12/1/1958 and claimed 87 children and 3 Nuns in one day. By the way they did rebuild a new school over the burned out school - but no activity has been reported there. However the cemetery they are buried in, Queen of Heaven Cemetery has had some interesting reports. About 6 years ago a man started having visions at Queen of Heaven every day except Tuesdays. Said the Blessed Mother was talking to him. (His quote) Also a tree there started to take shape of either Jesus or Mary's face. Grew a huge crowd. The man died a year or so ago and so did the tree. People claim to see bright lights during the day at Queen of Heaven and have visions. - March 2005 Update: PLEASE, anyone visiting Queen of Heaven Cemetery, to do so quietly & with the highest amount of respect. If you are interested in the alleged hauntings, please do not advertise it, especially if there are other cemetery visitors present. Consider that their family or friends may have been among the victims. Please respect their feelings and personal space, and avoid prying questions/comments about hauntings or the fire.
+location: Queen of Heaven Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -87.90912139999999
+latitude: 41.8577835
+city_longitude: -87.90283980000001
+city_latitude: 41.8778084
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/08/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

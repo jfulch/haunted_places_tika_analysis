@@ -1,0 +1,21 @@
+city: Jefferson City
+country: United States
+description: Light is seen in the attic.
+location: Glenmore Mansion off of old AJ Highway
+state: Tennessee
+state_abbrev: TN
+longitude: -83.483222
+latitude: 36.127909
+city_longitude: -83.492396
+city_latitude: 36.122311
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

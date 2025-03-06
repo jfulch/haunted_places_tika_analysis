@@ -1,0 +1,21 @@
+city: Greenville
+country: United States
+description: Back in the 70's The Greenville Inn was owned and operated by Mr. and Mrs. Frank Ducharme. After Mr. Ducharme passed away and Mrs. Ducharme became ill, the Inn was sold. There are reports that Mr. Ducharme haunts the place. There was a write up in the Monadnock Ledger in Jaffrey, N.H. about this.
+location: The Greenville Inn
+state: New Hampshire
+state_abbrev: NH
+longitude: -84.6165424
+latitude: 40.0977179
+city_longitude: -71.81229139999999
+city_latitude: 42.7673195
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1984/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 1

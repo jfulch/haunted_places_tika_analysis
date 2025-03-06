@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: In 1979 two traders had a disagreement over a trade. They decided to settle the matter outside by the horse statue/fountain. One of the men was so badly injured that he died before the paramedics could save him. To this day, janitors say they can hear what sounds like two men arguing after everyone has left.
+location: Options Exchange Building
+state: Illinois
+state_abbrev: IL
+longitude: -87.6321957
+latitude: 41.8764396
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1979/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

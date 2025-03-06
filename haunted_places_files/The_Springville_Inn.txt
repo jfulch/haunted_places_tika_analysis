@@ -1,0 +1,21 @@
+city: Springville
+country: United States
+description: Is said to be haunted by the ghosts of a little girl, the history of her unknown. A young logger man who was reported as being quite a ladies man was shot for flirting with the wife of another man. He was shot in the street in front of the inn and carried into the inn where he died from the bullet wound. There is also the ghost an old man that haunts the inn but his history is also not known. People have reported feeling being watched as they walk to the bathroom in the restaurant bar area. One employee reported receiving a phone call from the manager's office when the manager was not in the restaurant. One visitor to the restaurant/bar reported what she describes as a child with extremely cold hands grabbing hold of her hand as she walked to the ladies room. Another customer felt a cold touch on her shoulder and her back as she waited for drinks up at the bar. So far none of the ghosts have been photographed.
+location: The Springville Inn
+state: California
+state_abbrev: CA
+longitude: -118.8179119
+latitude: 36.1310057
+city_longitude: -118.8181495
+city_latitude: 36.1302265
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

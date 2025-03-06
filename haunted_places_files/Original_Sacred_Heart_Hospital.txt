@@ -1,0 +1,21 @@
+city: Pensacola
+country: United States
+description: There is a hallway that is about where the nuns would cross to go to the chapel of the hospital. It is been reported that there is the kind old spirit of one of the sisters that frequents the hallway and corridor. She will often tap people on the shoulder from behind, much as she did in life.
+location: Original Sacred Heart Hospital
+state: Florida
+state_abbrev: FL
+longitude: -87.21195569999999
+latitude: 30.4764215
+city_longitude: -87.2169149
+city_latitude: 30.42130899999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

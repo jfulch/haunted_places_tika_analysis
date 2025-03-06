@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: at the end of Shelton park late at night you can hear noises of kids first screaming like a having fun laughing type but then at the end it turns into kids screaming for there lives.
+location: Shelton Road Park
+state: Alabama
+state_abbrev: AL
+longitude: -86.7244207
+latitude: 34.7024697
+city_longitude: -86.74833180000002
+city_latitude: 34.6992579
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

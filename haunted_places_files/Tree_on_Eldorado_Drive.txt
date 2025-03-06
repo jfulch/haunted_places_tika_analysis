@@ -1,0 +1,21 @@
+city: Springville
+country: United States
+description: This is a new neighborhood still currently under development. The first house that was built experienced,  “constant "noise" in my house, my picture and clock both flew off the wall for no apparent reason, cupboards would open and close, and glasses would move across the countertop by themselves.”  Another homeowner can't go down in her basement alone without getting all spooked out, and her dogs won't go near it.  There is a very old tree that was going to be removed, but when it became apparent that it was going to stay most of the phenomena quieted down.
+location: Tree on Eldorado Drive
+state: Utah
+state_abbrev: UT
+longitude: -111.5895782
+latitude: 40.1663872
+city_longitude: -111.6107526
+city_latitude: 40.1652335
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

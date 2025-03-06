@@ -1,0 +1,21 @@
+city: Tollesboro
+country: United States
+description: This cemetery is located on Rt. 989, 7 miles south of Tollesboro. A feeling of gloom can be felt as you walk through the cemetery. Shadow people have been seen by many who visit. It has also been reported that some type of elemental animal spirit has been both seen and heard.
+location: The Burtonville Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -83.5753427
+latitude: 38.49589599999999
+city_longitude: -83.5760258
+city_latitude: 38.5595201
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

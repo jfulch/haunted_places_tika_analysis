@@ -1,0 +1,20 @@
+city: Dayton
+country: United States
+description: The Theta Phi Alpha House - Is supposedly hunted by a young man. Many of the girls who have lived in the home report heavy items that are moves around and lights turning on or off on their own. Often the girls say they can feel a presence and that often when they go to bed at night it is cold and when they wake up they have less energy then they did the night before.
+location: University of Dayton
+state: Ohio
+state_abbrev: OH
+longitude: -84.17996749999999
+latitude: 39.7393
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1912/08/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Perry
+country: United States
+description: city underwater, many ghostly people have been seen here, cemetery where ghosts have been seen, has the grave a Mike Myers a serial killer in the 1800's. Weird noises and things have been spotted.
+location: Livermore
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -77.2405153
+city_latitude: 40.371376
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

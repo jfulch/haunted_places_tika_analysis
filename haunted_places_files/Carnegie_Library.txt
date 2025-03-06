@@ -1,0 +1,21 @@
+city: Union
+country: United States
+description: one of the storage rooms in basement has not been refinished, you can hear strange noises, and the feeling of another presence. Also, upstairs in the main library, there is always an eerie feeling right behind you. the giant portrait staring down at you with conviction at the front desk doesn't help either.
+location: Carnegie Library
+state: Oregon
+state_abbrev: OR
+longitude: -117.8657323
+latitude: 45.2099008
+city_longitude: -117.8652126
+city_latitude: 45.2084696
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 20m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

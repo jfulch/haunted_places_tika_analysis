@@ -1,0 +1,21 @@
+city: Jamestown
+country: United States
+description: Many people claim to see a little blonde girl walking through hallways and she will appear in the laundry room and sit in the corner and stare at you. There are also many reports of strange occurrences in dorm rooms.
+location: Anne Carleson School for Children
+state: North Dakota
+state_abbrev: ND
+longitude: -98.7185226
+latitude: 46.9105837
+city_longitude: -98.7084357
+city_latitude: 46.9105438
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bowling Green
+country: United States
+description: the ghost of Colonel John Waller Hoomes haunts his home.
+location: Old Mansion Inn
+state: Virginia
+state_abbrev: VA
+longitude: -77.3476567
+latitude: 38.05089840000001
+city_longitude: -77.3466468
+city_latitude: 38.0495789
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

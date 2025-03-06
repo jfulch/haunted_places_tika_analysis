@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: There have been sightings of two ghosts who walk near the piano after closing. The bar is also haunted by some unknown presence by the large mirror in the wall.
+location: El Compadre Restaurant
+state: California
+state_abbrev: CA
+longitude: -118.3522447
+latitude: 34.0978073
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

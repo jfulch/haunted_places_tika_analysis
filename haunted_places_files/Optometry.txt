@@ -1,0 +1,21 @@
+city: Panorama City
+country: United States
+description: when alone in the office you hear people talking in the lobby after closing hours. Some employees have said when alone they feel someone behind them and when they turn around, there is no one there, also in exam rooms you hear a little boy laughing and caresses your hair.
+location: Optometry
+state: California
+state_abbrev: CA
+longitude: -118.4477569
+latitude: 34.2249999
+city_longitude: -118.442425
+city_latitude: 34.227617
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,18 @@
+city: Hastings
+country: United States
+description: Treat me sweet has been haunted for some years now. Treat Me Sweet use to be a restaurant some time ago It is haunted by a man. This man used to be the owner of this restaurant. He committed suicide in the back of the kitchen.
+location: Treat Me Sweet
+state: Minnesota
+state_abbrev: MN
+city_longitude: -92.8513706
+city_latitude: 44.7443293
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

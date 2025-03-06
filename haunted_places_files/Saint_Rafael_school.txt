@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: South Campus - this school has many haunted places included the girls bathroom where a young girl dressed in a olden day school uniform haunts it also one girl reported once that when she was alone in the building after volleyball pratice she heard people's voices coming from the gym when she went to investigate no one was there. also phantom drafts and reported noises from the upper gym when no one occupied it at the current time. this school is located on 31st and Lincoln on Milwaukee’s south side
+location: Saint Rafael school
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.95457069999999
+latitude: 43.0068745
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1956/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

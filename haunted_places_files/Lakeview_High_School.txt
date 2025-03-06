@@ -1,0 +1,21 @@
+city: Garland
+country: United States
+description: Ever since it was opened in the 1970's, it was always consider the "bad" school. Over the years it was given the name of "Suicide High". It was given this name because sometime in the late 70's a boy shot himself in the bathroom. Later on in the 80's a girl broke the mirror and slit her throat, a two girls found her. To this day there's still no mirrors in the girls bathrooms. Later, only one girls and boy killed themselves in the school. Many students that attended Lakeview in the mid 90's committed suicide. In the bathrooms, sometimes you can hear footsteps when nobody else is in there. There's no windows in the school, that's what some students feel that make rooms so cold. There are cold spots in some places, and you can hear voices too. - December 2006 Correction: A former student reports when she went there from 1983 to 1987 there where indeed mirrors. There was only 1 suicide she knows off and it was a close friend. The only truth to the story, she states, is "that we did not have windows in our classrooms."
+location: Lakeview High School
+state: Texas
+state_abbrev: TX
+longitude: -96.5761307
+latitude: 32.8575318
+city_longitude: -96.6388833
+city_latitude: 32.912624
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1983/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

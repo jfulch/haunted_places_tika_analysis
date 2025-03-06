@@ -1,0 +1,19 @@
+city: Sharpsville
+country: United States
+description: There is an old factory in town and when u go by there at night you can see something in window but the factory has been closed down for years. If you go up to the building you can hear banging of metal or something like that and you hear people talking like they were working.
+location: The old Factory
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.0886009
+city_latitude: 40.3794822
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

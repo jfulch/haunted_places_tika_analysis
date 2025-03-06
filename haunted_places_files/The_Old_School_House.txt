@@ -1,0 +1,21 @@
+city: Borculo
+country: United States
+description: What used to be an old, one-room schoolhouse, is now said to inhibit guests from the paranormal realm. It is said a former teacher, by the name of Ms. Van moss, would abuse the children so badly that one day after a playground mishap, Vanmoss struck a child so hard in the head that the child died immediately. Today, the schoolhouse is a well know restaurant, but the customers report seeing a small child sitting solemnly alone at a booth in the corner. There have also been reports of silver wear being randomly thrown across the room.
+location: The Old School House
+state: Michigan
+state_abbrev: MI
+longitude: -86.013767
+latitude: 42.885003
+city_longitude: -86.0211532
+city_latitude: 42.8850235
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1771/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

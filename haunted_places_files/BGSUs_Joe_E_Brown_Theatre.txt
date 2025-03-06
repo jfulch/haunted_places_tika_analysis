@@ -1,0 +1,18 @@
+city: Bowling Green
+country: United States
+description: rumored to be haunted by a ghost known as "Alice". The Hat Room in the theatre is also known to have a strange presence and has sent many a student running out for no explainable reason.
+location: BGSU's Joe E. Brown Theatre
+state: Ohio
+state_abbrev: OH
+city_longitude: -83.6513229
+city_latitude: 41.3747744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

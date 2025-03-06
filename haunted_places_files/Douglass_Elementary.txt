@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: some say that Douglass elementary was built on a Indian burial ground and that a janitor died in the auditorium, there the doors would slam shut by themselves and the piano would start playing. Witnesses could hear people walking and talking when they would spend the night there but every time they checked there was no one there.
+location: Douglass Elementary
+state: Texas
+state_abbrev: TX
+longitude: -98.474095
+latitude: 29.412995
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

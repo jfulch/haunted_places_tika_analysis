@@ -1,0 +1,21 @@
+city: Columbus
+country: United States
+description: Rumors of a teacher once died of a heart attack around 50 years ago after school. Janitors often hear doors slamming and machinery turning on late at night as their shifts are ending.
+location: Columbus High School
+state: Nebraska
+state_abbrev: NE
+longitude: -97.3703065
+latitude: 41.4574322
+city_longitude: -97.3593904
+city_latitude: 41.43029730000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

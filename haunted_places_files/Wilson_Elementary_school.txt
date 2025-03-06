@@ -1,0 +1,21 @@
+city: Lawton
+country: United States
+description: Wilson Elementary school has a ghost that opens doors, turns off radios, and sometimes, out of the corner of your eye, you can see shadows move about.
+location: Wilson Elementary school
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.4139248
+latitude: 34.6104185
+city_longitude: -98.3959291
+city_latitude: 34.6035669
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

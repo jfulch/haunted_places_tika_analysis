@@ -1,0 +1,21 @@
+city: Uvalde
+country: United States
+description: (Every night on the six grade side you can see an old lady wondering outside in a 40's white dress and janitors their say when they work late they see her and if you call out to her she just turns around and disappears.
+location: Flores Elementary
+state: Texas
+state_abbrev: TX
+longitude: -99.7926186
+latitude: 29.2217795
+city_longitude: -99.7861679
+city_latitude: 29.20968359999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

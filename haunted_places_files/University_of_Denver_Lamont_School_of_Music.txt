@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Dunklee Hall - was located at the intersection of Montview and Quebec (it is moving to the main campus where the also haunted Mary Reed building is located). Legend has it that a student killed herself on the second floor of the dormitory, Dunklee Hall. That floor was used as practice rooms for the music students. There was one particular room (out the elevator, to the right, last door on the right), Is usually standing open. Upon leaving it quietly closes behind you.
+location: University of Denver Lamont School of Music
+state: Colorado
+state_abbrev: CO
+longitude: -104.9599679
+latitude: 39.6742226
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

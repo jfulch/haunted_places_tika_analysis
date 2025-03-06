@@ -1,0 +1,19 @@
+city: Cavendish
+country: United States
+description: The house was a farmhouse in Cavendish, VT built by Deacon Jonathon Wheelock in 1789, when he founded the first Episcopalian church there. he was victim of a violent accident that took his life. Every so often encounters of classic poltergeist activity (things not where they were left, including being moved from room to room when no-one else was in the house, things falling off shelves, etc.), which eventually culminated in sightings. On rare occasions, witnesses would wake up and see a bluish form, vaguely human-shaped, either looking at them or out the window of the rooms (depending on who was encountering the ghost at the time.
+location: Deacon Jonathon Wheelock's farmhouse
+state: Vermont
+state_abbrev: VT
+city_longitude: -72.5914616
+city_latitude: 43.4145061
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1789/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

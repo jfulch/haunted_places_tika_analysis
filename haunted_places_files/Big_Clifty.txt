@@ -1,0 +1,21 @@
+city: Grayson
+country: United States
+description: A Woman having just left her husband, was on her way to her mother's house when her car hydroplaned off a small bridge. If you pass the bridge around the same time of the accident you can hear the baby cry from the trapped car. Ten years later the same bridge takes two more lives on a rainy night. Two 18 year old boys a week shy of their high school graduation drowned after hydroplaning off the bridge. Both accidents happened at the same exact time.
+location: Big Clifty
+state: Kentucky
+state_abbrev: KY
+longitude: -86.1535813
+latitude: 37.5456132
+city_longitude: -82.9485023
+city_latitude: 38.3325812
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

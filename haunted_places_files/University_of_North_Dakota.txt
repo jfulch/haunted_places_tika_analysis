@@ -1,0 +1,21 @@
+city: Grand Forks
+country: United States
+description: Stacher Hall (Technology Department) - Several students have witnessed an apparition of an arm laying on the floor out of a doorway in the second floor graphics darkroom. Each student described the arm as a man's arm, appearing sporadically throughout the year and visible both during day and night time. A professor conducted soundings of the building and discovered abnormalities on the second floor, tracing them back to the darkroom film developing closets. Most students, without any knowledge of the ghost's existence, report a feeling of being watched and a brooding presence. Other students have experienced a floral perfume scent wafting through the second floor computer lab during down times for the school, and experienced a sense of being watched by a young woman. This second ghost moves throughout the computer lab area, causes small breezes in a air controlled room.
+location: University of North Dakota
+state: North Dakota
+state_abbrev: ND
+longitude: -97.0768014
+latitude: 47.922891
+city_longitude: -97.0328547
+city_latitude: 47.9252568
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 17m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

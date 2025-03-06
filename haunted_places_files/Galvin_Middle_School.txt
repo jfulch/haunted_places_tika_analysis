@@ -1,0 +1,21 @@
+city: Wakefield
+country: United States
+description: A young boy locked himself in the basement of the middle school. He sat in the middle of the room, in a wooden school chair. While sitting, the boy cut his own throat, and died in that basement. People say if you go into the basement at night, you will see the chair placed in the center of the room, and hear the boy whispering " get out."
+location: Galvin Middle School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0708824
+latitude: 42.499618
+city_longitude: -71.0723391
+city_latitude: 42.5039395
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Plattsburgh
+country: United States
+description: Some people have encountered strange noises, saw, and felt something going around the park. Not too many people have come forward and some people don't believe.
+location: Maple Pond Trailer Park
+state: New York
+state_abbrev: NY
+longitude: -73.437636
+latitude: 44.738645
+city_longitude: -73.4529124
+city_latitude: 44.6994873
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

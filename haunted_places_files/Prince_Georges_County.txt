@@ -1,0 +1,21 @@
+city: Greenbelt
+country: United States
+description: NASA/GSFC - Visitors center - a feeling that the statue of Goddard is always watching you, seeing shadows!
+location: Prince Georges county
+state: Maryland
+state_abbrev: MD
+longitude: -76.87552819999999
+latitude: 39.0045544
+city_longitude: -76.87552819999999
+city_latitude: 39.0045544
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

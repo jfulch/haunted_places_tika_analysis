@@ -1,0 +1,19 @@
+city: Malcolm
+country: United States
+description: After dark, apparitions can be seen of Fern Westfall, the founder of the school, knocking books off of the shelves. Reports also state that a portrait of her in the elementary cafeteria contains roaming eyes that follow curious, staring students.
+location: Fern Westfall Library
+state: Nebraska
+state_abbrev: NE
+city_longitude: -96.8627994
+city_latitude: 40.9066713
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Plantersville
+country: United States
+description: it is said that when this place was being built a man fell off and cursed while he was falling and on a rainy and foggy night if you are walking by or your car quits you can someone falling and cursing
+location: Plantersville church
+state: South Carolina
+state_abbrev: SC
+longitude: -79.1797674
+latitude: 33.5060017
+city_longitude: -79.2153247
+city_latitude: 33.5554463
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

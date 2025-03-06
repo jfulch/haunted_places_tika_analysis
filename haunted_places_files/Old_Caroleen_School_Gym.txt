@@ -1,0 +1,19 @@
+city: Caroleen
+country: United States
+description: This is an old run down gym that was abandoned after the county tore the school down. It is said that late at night if you park your car in front of the gym door which has been torn off you can see the spirit of two young girls that where raped and killed in the 1950's wondering about inside, you must turn off your car lights to see this.
+location: Old Caroleen School Gym
+state: North Carolina
+state_abbrev: NC
+city_longitude: -81.7962122
+city_latitude: 35.2809558
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

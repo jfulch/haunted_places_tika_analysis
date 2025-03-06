@@ -1,0 +1,19 @@
+city: Schuyler
+country: United States
+description: There has been descriptions of black dogs roaming around one with one eye and one leg missing but when you turn away and look back they are gone. There has also been reports of things being in place one day and all thrown around the next day.
+location: Sky Drive-In Theater
+state: Nebraska
+state_abbrev: NE
+city_longitude: -97.0597019
+city_latitude: 41.4483432
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

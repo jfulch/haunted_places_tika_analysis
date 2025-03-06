@@ -1,0 +1,21 @@
+city: Amesbury
+country: United States
+description: you can see and hear sounds of children and elders who have drowned or been drowned to death on the sand and woods of this area.
+location: Lake Gardner
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.93740799999999
+latitude: 42.85982
+city_longitude: -70.93003759999999
+city_latitude: 42.85839250000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1731/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

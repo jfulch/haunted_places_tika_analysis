@@ -1,0 +1,21 @@
+city: Lansing
+country: United States
+description: IN ST. ANN SCHOOL THE HALLS ARE HAUNTED OF A LITTLE BOY DRESSED IN THE SCHOOLS UNIFORMS HE ROAMS THE HALLS ALL NIGHT AND DAY. CHILDREN AND TEACHERS HAVE EXPERICEND THE PRESENCE OF THE LITTLE BOY. CHILDREN WHO STAY AFTER SCHOOL USALLY SEE HIM WALK FROM ONE ROOM TO ANOTHER. OTHER CHILDREN HAVE HEARD ABOUT HIM AND HAVE NOTICED A PRESENCE LIKE A DOOR OPENING WHEN NO ONE IS THERE,WEIRD LAUGHTER,OR TOILETS FLUSHING CONSTENTLY AND LIGHTS GOING OUT WHEN NO IS TO PUT THEM OUT. OTHER PEOPLE JUST SEE HIM ROAMING THE HALLS SO KEEP A LOOK OUT AT ST. ANN SCHOOL.
+location: St. Ann School
+state: Illinois
+state_abbrev: IL
+longitude: -87.54352569999999
+latitude: 41.56528429999999
+city_longitude: -87.53893099999999
+city_latitude: 41.5647575
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

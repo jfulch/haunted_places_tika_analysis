@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: The Alta Club, a private club, once held hotel style rooms on the top floor in which member's could live in. In the early 50's, one member, who had been living there for years, fell asleep on his couch with a burning cigar in his hand. It proceeded to start a fire; evidence of the soot can still be seen today above the outside windows on the top floor, which consumed most of the top floor as well as taking the man's life. Several people have seen a man matching his description, per a previous photo, walking on the top floor. He usually is seen walking down the hall to where his room had been or disappears upon a second look. Also, in the basement, several workers have reported smelling a lilac perfume and some even feel a gentle touch on their shoulder.
+location: Alta Club
+state: Utah
+state_abbrev: UT
+longitude: -111.8877396
+latitude: 40.7690775
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

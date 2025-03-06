@@ -1,0 +1,21 @@
+city: East Wenatchee
+country: United States
+description: At dusk shadows of people dressed in white appear on North hill. Also on top, * generals row* a man dressed in army apparel has been seen wandering around soldiers graves. On the west side a dark figure has been seen wandering outside the orchards.
+location: East Wenatchee Cemetery
+state: Washington
+state_abbrev: WA
+longitude: -120.266425
+latitude: 47.421802
+city_longitude: -120.2931263
+city_latitude: 47.41568239999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/09/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

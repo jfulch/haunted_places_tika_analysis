@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: Old mansion, turned administration building. Story has it the Byers family went out to a dinner party, left the baby home with the nanny. The nanny went to check up on the baby and she found the baby dead in her crib. The nanny was so distraught, she hung herself. The parents came home later that night and found the nanny hanging over the staircase and the ghost of their dead baby looking at her. The second floor is closed off, however there is a window you can look up into and some say that you can still see the nanny hanging there with the baby looking at her.
+location: Byers Hall, CCAC North Campus
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.01612329999999
+latitude: 40.4497346
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

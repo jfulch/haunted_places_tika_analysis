@@ -1,0 +1,21 @@
+city: Snohomish
+country: United States
+description: A nine year old girl is said to have fallen to her death down a flight of stairs inside the building. She is said the walk up and down the stairs.
+location: The Cabbage Patch Restaurant
+state: Washington
+state_abbrev: WA
+longitude: -122.0940784
+latitude: 47.9118846
+city_longitude: -122.0981847
+city_latitude: 47.91287560000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

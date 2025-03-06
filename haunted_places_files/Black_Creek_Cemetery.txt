@@ -1,0 +1,21 @@
+city: Black Creek
+country: United States
+description: Had an old church next to the cemetery that was built in the 1800's. It is said that a young girl and her little brother were walking home one night in the early 1900's. They decided to cut across the cemetery. A bear chased them into the churches' bell tower were they were killed. It was said that you could go to the church at the stroke of twelve midnight and here the little children screaming. You can also here the bear with them as the church bell would ring. Now there is a new church built and the old bell tower has been relocated.
+location: Black Creek Cemetery
+state: Florida
+state_abbrev: FL
+longitude: -86.07240159999999
+latitude: 30.4537873
+city_longitude: -81.7731992
+city_latitude: 30.064359
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1947/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

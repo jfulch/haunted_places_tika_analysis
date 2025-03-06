@@ -1,0 +1,20 @@
+city: Greenville
+country: United States
+description: this is a ghost of a young man named Larry Stevens (commonly known as The Hitchhiker) who's plane crashed on Route 107 during the 1950's. People have seen a man on dark and rainy nights walking along Route 107 and disappearing.
+location: Route 107
+state: South Carolina
+state_abbrev: SC
+longitude: -82.3572087
+latitude: 34.7942154
+city_longitude: -82.3940104
+city_latitude: 34.85261759999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

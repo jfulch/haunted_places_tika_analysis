@@ -1,0 +1,20 @@
+city: Winchester
+country: United States
+description: tears flow from a statue. Arrows on the back of graves that has nothing to do with the children they point to, the children are buried in a circle with one grave of a baby in the center. Voices calling your name as you near the statue that cries.
+location: Winchester cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -83.6471455
+latitude: 38.9384727
+city_longitude: -83.6507541
+city_latitude: 38.9417359
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

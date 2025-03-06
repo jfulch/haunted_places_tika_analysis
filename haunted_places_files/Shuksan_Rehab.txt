@@ -1,0 +1,21 @@
+city: Bellingham
+country: United States
+description: Rooms with moving objects, call lights going on and off by themselves, you can hear someone walking with walker in middle of night. Two RNs saw ghosts in hallway walk through door. Building was built on old school from 1800's lot in 1950's.
+location: Shuksan Rehab
+state: Washington
+state_abbrev: WA
+longitude: -122.464574
+latitude: 48.750299
+city_longitude: -122.4786854
+city_latitude: 48.7519112
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

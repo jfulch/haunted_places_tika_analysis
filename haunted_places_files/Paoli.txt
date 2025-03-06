@@ -1,0 +1,21 @@
+city: Orange County
+country: United States
+description: Bon's Chapel - This is the home of the headstone with a chain link that grows each year. The stone has been replaced numerous times, but the chain just keeps appearing. The story goes that the chain represents the love of a man that was in the army and his girlfriend that waited for him. They were going to get married before he left, but his parents kept them from seeing each other and from getting married when they heard about the news. He went off to the war and she waited for him even though that they couldn't be together. The guy was killed in the war and they brought his body back here for a proper burial. the young girl attended the funeral, but she stood across the road and watched it from a distance. They say that today you can see the chain glow at night, and sometimes during the day you can see the young lady dressed in black standing on the other side of the road watching the funeral.
+location: Paoli
+state: Indiana
+state_abbrev: IN
+longitude: -86.468321
+latitude: 38.55616630000001
+city_longitude: -86.49965460000001
+city_latitude: 38.5169004
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

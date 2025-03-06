@@ -1,0 +1,20 @@
+city: Pascagoula
+country: United States
+description: The suspected haunt is a slave who was beaten near to death by his mistress. He escaped into the nearby woods and died, and has returned to the house to haunt it.
+location: The Longfellow Place
+state: Mississippi
+state_abbrev: MS
+longitude: -88.52540909999999
+latitude: 30.3428431
+city_longitude: -88.5561272
+city_latitude: 30.3657552
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

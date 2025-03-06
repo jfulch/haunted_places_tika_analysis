@@ -1,0 +1,21 @@
+city: Landisville
+country: United States
+description: Cold Spots, Voices of both men and women, and sounds that come from the loft and the back of the engine bays. Footsteps can be heard.
+location: Landisville Fire Company
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9409171
+latitude: 39.5267595
+city_longitude: -74.938343
+city_latitude: 39.5251132
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

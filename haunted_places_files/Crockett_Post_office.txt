@@ -1,0 +1,21 @@
+city: Crockett
+country: United States
+description: There was a woman checking her mail late one night, and was killed by a murder on the loose. She is said to be standing at the mail box at which she had owned with her back toward the entrance and when she turns around you can see the knife marks where the guy slit her throat. And on the anniversary of that night it is said that when you go near the building you can hear the woman calling for help and screaming.
+location: Crockett Post office
+state: Virginia
+state_abbrev: VA
+longitude: -81.19192629999999
+latitude: 36.8865035
+city_longitude: -81.1920399
+city_latitude: 36.8862308
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

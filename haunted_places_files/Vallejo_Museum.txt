@@ -1,0 +1,21 @@
+city: Vallejo
+country: United States
+description: The former location of the Vallejo Canteen.(A popular spot in the early 1900s for Society Members to gather) In 1922 Rose Borgia was to perform for Manuel the King of Portugual, she was his wife and somehow was left behind when she visited her nephew here in the United States. The person who served as her translator sold her to the Marche-Maher Family and they locked her up in the attic of Branciforte. She never was able to see her husband and after 2 years of practicing to Perform for him a Irish Song called "Smiling Through" She suffocated in the attic. Her ghost is often seen the in Vallejo Museum(formerly Vallejo Canteen)practicing singing with a friend (location upstairs)and later vanishes after the window opens then shuts. Some smell a scent of Gardenia, in which she use to wear in her hair.
+location: Vallejo Museum
+state: California
+state_abbrev: CA
+longitude: -122.2562749
+latitude: 38.1027983
+city_longitude: -122.2566367
+city_latitude: 38.1040864
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1922/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

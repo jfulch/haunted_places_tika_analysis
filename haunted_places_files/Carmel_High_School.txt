@@ -1,0 +1,21 @@
+city: Mundelein
+country: United States
+description: About 40 years ago in the rooms of this school the old monks and priests use to perform exorcisms here. Most of the time they were fake and nothing happened. But once a young boy was having an exorcism and nothing happened he was still doing all sorts of impossible things. One day after the priests performed this exorcism each priest died a horrible death. A train hit one in a car crash, another in a house fire and the third. After all of the priests died the boy next died. It is said today that every Friday night you will see the boy walking around out side the school. And every full moon it is said that the priests try to cast out the spirits of the young boy once again.
+location: Carmel High School
+state: Illinois
+state_abbrev: IL
+longitude: -87.9873514
+latitude: 42.2714155
+city_longitude: -88.00396529999999
+city_latitude: 42.263079
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

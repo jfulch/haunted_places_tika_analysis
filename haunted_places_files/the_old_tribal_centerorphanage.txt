@@ -1,0 +1,19 @@
+city: Assininns
+country: United States
+description: Before the building was turned into a Tribal Center, it used to be a Catholic Orphanage. People have sighted apparitions of little kids, nuns and priests, and have also had encounters with objects dropping or moving, and other various sounds through out the building. This entire piece of land still has a church that's active, and other inactive buildings that date back to the early 1800's.
+location: the old tribal center/orphanage
+state: Michigan
+state_abbrev: MI
+city_longitude: -88.4773517
+city_latitude: 46.81020950000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Choctaw
+country: United States
+description: most people say that if u go there and sit in the courtyard and listen you will hear little girls playing by you
+location: Choctaw Jr high
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.271302
+latitude: 35.50035039999999
+city_longitude: -97.2689212
+city_latitude: 35.4975625
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1981/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

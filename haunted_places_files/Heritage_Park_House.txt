@@ -1,0 +1,20 @@
+city: Embarrass
+country: United States
+description: In the house the family that lived there a dad had killed his son by telling him that if Jesus could walk on water so could he, the boy then drowned under the bridge near the house. The father continued to beat his children until he later died. To this day people have reported sightings of the boy who was drowned by the bridge, and the house remains abandoned.
+location: Heritage Park House
+state: Minnesota
+state_abbrev: MN
+longitude: -92.2779817
+latitude: 47.6613319
+city_longitude: -92.1979466
+city_latitude: 47.6590897
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

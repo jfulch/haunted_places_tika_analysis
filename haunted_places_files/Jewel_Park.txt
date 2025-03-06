@@ -1,0 +1,21 @@
+city: Bellevue
+country: United States
+description: Numerous accounts of sounds, extra footprints in the dirt, when you are alone, thick mist on a clear night, being chased by something or someone that isn't there. Animal sounds, when no animals have been on the property in 6 months to year. Figures of people, when no one else is there, objects show up in some places and gone by the time you turn around. One witness reports being ran over by something, but no one is near, whispering, rodeo sounds from the old rodeo stands.
+location: Jewel Park
+state: Nebraska
+state_abbrev: NE
+longitude: -95.8954873
+latitude: 41.1539252
+city_longitude: -95.9145568
+city_latitude: 41.1543623
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Brewster
+country: United States
+description: Sul Ross State University - The story is of a young woman who killed herself in the Fletcher resident hall. To this day a girl can be seen walking around late at night in a skimpy nightgown. Also, things end up missing even if the doors had been locked all day. People report seeing strange apparitions at the foot of the bed. Whenever there is a mention of the "Fletcher Ghost", a door slams, there is a loud bang, someone screams, or some other jolting noise. This is first and second hand experience when my best friend lived in that dorm.
+location: Alpine
+state: Texas
+state_abbrev: TX
+longitude: -103.6610115
+latitude: 30.3584919
+city_longitude: -103.3587288
+city_latitude: 29.6629938
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

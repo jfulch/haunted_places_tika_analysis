@@ -1,0 +1,21 @@
+city: Villa Park
+country: United States
+description: A new 711 is built on an old cemetery, the workers there report hearing chains rattle and people talking real late at night when no one is there.
+location: 7-11 Convince Store
+state: Illinois
+state_abbrev: IL
+longitude: -87.9695503
+latitude: 41.8882862
+city_longitude: -87.98895429999999
+city_latitude: 41.8897519
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

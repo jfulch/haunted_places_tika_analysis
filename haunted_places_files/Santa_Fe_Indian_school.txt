@@ -1,0 +1,21 @@
+city: Santa Fe
+country: United States
+description: The dorms are known to be haunted.. at night you can see people being hung in the shadows, and hear screaming
+location: Santa Fe Indian school
+state: New Mexico
+state_abbrev: NM
+longitude: -105.9676944
+latitude: 35.6710215
+city_longitude: -105.937799
+city_latitude: 35.6869752
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

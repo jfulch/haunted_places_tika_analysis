@@ -1,0 +1,21 @@
+city: Lafayette
+country: United States
+description: Guests complain about a little girl calling for her mommy and jumps on the beds. Apparitions, Pictures fall of the walls vending machines dispense soda on their own, cold spots & doors slam.
+location: Lafayette Park Hotel
+state: California
+state_abbrev: CA
+longitude: -122.1011153
+latitude: 37.8963507
+city_longitude: -122.1180201
+city_latitude: 37.8857582
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1948/02/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

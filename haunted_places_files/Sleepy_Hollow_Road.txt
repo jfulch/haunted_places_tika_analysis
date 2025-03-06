@@ -1,0 +1,19 @@
+city: Ridgeville
+country: United States
+description: This road is a gravel road and it has trees surrounding it. You can't see the sky because the trees are like a dome over the road. If you turn your lights off you can't see anything. If you drive down the road you will come to another like drive way or a little road like that. Down the road about a half-mile is a school bus if you go back there you will be chased back to your car by the team that was stranded back there.
+location: Sleepy Hollow Road
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.028857
+city_latitude: 40.2892107
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

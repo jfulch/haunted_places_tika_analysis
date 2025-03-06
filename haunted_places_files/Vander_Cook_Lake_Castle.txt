@@ -1,0 +1,21 @@
+city: Jackson
+country: United States
+description: A white mist is seen as you approach the castle.
+location: Vander Cook Lake Castle
+state: Michigan
+state_abbrev: MI
+longitude: -84.39181049999999
+latitude: 42.2002519
+city_longitude: -84.40134619999999
+city_latitude: 42.245869
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

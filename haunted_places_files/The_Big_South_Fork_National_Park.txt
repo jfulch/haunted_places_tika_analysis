@@ -1,0 +1,21 @@
+city: Rugby
+country: United States
+description: The newspaper, USA today did a story in 1997 on one of the houses that is haunted by the ghost of a land agent who died there waiting for his son to arrive. Rugby is a village that is the remnants of a failed Victorian attempt at a utopian settlement there in the Cumberland Mountains.
+location: The Big South Fork National Park
+state: Tennessee
+state_abbrev: TN
+longitude: -84.6513846
+latitude: 36.4709004
+city_longitude: -84.70077599999999
+city_latitude: 36.3603531
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

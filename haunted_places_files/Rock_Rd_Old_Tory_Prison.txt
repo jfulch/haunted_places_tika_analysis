@@ -1,0 +1,20 @@
+city: Burlington
+country: United States
+description: Where the prison is located, people have seen British soldiers some in chains. Some people have heard moans coming from the little prison. Its not a very big place just a little stone and cement building right near the road. Locals do not like snoopy outsiders and may call the cops.
+location: Rock Rd/ Old Tory Prison
+state: Connecticut
+state_abbrev: CT
+longitude: -72.7451286
+latitude: 41.9619733
+city_longitude: -72.9648388
+city_latitude: 41.7691235
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

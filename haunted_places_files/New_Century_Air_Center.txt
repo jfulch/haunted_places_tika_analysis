@@ -1,0 +1,21 @@
+city: Olathe
+country: United States
+description: This location is the former Olathe Naval Air Station, a combat pilot training center from WWII through the Vietnam era. The base was turned over to the local Johnson County Government in the Early 1970s and converted into a commercial airport, industrial complex and business center. Sometime in the late 1950s or early 1960s, A botched night landing in bad weather resulted in a pilot loosing his life when he missed the runway and ended up a ball of JP4 fire in the side of an aircraft hangar. This hangar complex on to which, the airport control tower is connected, is the current home to an Army Reserve Chinook helicopter unit. Paranormal events occur throughout the building. Security guards report voices, whistles, footsteps on the floor and on overhead catwalks. Locks refuse to stay locked and doors open and close without wind or human intervention. Even the occasional apparition makes an appearance. The New Century Air Center was featured last year on an A&E special, "Haunted America."
+location: New Century Air Center
+state: Kansas
+state_abbrev: KS
+longitude: -94.8914828
+latitude: 38.831083
+city_longitude: -94.8191285
+city_latitude: 38.8813958
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

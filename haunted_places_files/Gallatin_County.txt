@@ -1,0 +1,21 @@
+city: Warsaw
+country: United States
+description: 2 miles west of Warsaw before the Markland Dam on US42 - Back in the 60’s a family was killed in a fire on Friday nights around midnight occurrences have been reported, such as fire truck sirens, seeing old fire trucks, flashing lights, voices, and screaming.
+location: Gallatin County
+state: Kentucky
+state_abbrev: KY
+longitude: -84.90161510000001
+latitude: 38.7833963
+city_longitude: -84.90161510000001
+city_latitude: 38.7833963
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1953/03/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

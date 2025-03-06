@@ -1,0 +1,21 @@
+city: San Gabriel
+country: United States
+description: A young student hung himself at the basketball courts. And 2 students died at the wash at the time of EL Nino Storm trying to skip school that day.
+location: San Gabriel High School
+state: California
+state_abbrev: CA
+longitude: -118.1097294
+latitude: 34.0924324
+city_longitude: -118.1058333
+city_latitude: 34.09611110000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

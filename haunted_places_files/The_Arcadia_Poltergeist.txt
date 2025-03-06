@@ -1,0 +1,19 @@
+city: Arcadia
+country: United States
+description: In May 1976 on a memorial night Rocks of all sizes started lifting off the ground and hitting places, people, and breaking windows to cars and houses. No-one was able to explain it. It was happening off and on for three months. It happened in Arcadia, California and was investigated by Duke University and was written up in the LA Times, (apparently a six week series) there is not much info on this event. There was no explanation given to the people who were attacked by this strange occurrence. It was merely Covered up and forgotten.
+location: The Arcadia Poltergeist
+state: California
+state_abbrev: CA
+city_longitude: -118.0353449
+city_latitude: 34.1397292
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

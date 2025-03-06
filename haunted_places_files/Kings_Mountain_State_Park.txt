@@ -1,0 +1,21 @@
+city: Kings Mountain
+country: United States
+description: Numerous reports of "ghostly" men upon horseback riding through the historic battleground section of the park. Personal investigation has found knocking on the doors of the public restroom; two human-shaped apparitions in Camp York portion of the state park.
+location: Kings Mountain State Park
+state: North Carolina
+state_abbrev: NC
+longitude: -81.3681792
+latitude: 35.1347206
+city_longitude: -81.34119419999999
+city_latitude: 35.2451342
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

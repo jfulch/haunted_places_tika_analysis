@@ -1,0 +1,21 @@
+city: Roy
+country: United States
+description: their is a story of a kid that died there in the shop class in 1980 and they say he died on a table saw and now if you are in the shop class some times you can hear the new table saw (put in the same area as the old one) start by itself and if you are their by your self you can hear it start up and you can hear it get jammed and also hear faint screams for help and in the cafeteria you can hear a newborn baby girl crying she is believed to be there since she fell off the stage and died
+location: Roy Junior High School
+state: Utah
+state_abbrev: UT
+longitude: -112.0315495
+latitude: 41.1649593
+city_longitude: -112.0263313
+city_latitude: 41.1616108
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1980/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

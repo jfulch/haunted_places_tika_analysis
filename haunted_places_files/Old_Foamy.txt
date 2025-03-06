@@ -1,0 +1,21 @@
+city: Cleburne
+country: United States
+description: When you go to this little water stream you go at night turn off your headlights and honk three times. Then a goat man will appear in front of you. Others say strange things happen to your car.
+location: Old Foamy
+state: Texas
+state_abbrev: TX
+longitude: -97.3985305
+latitude: 32.3038068
+city_longitude: -97.3866837
+city_latitude: 32.3476438
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

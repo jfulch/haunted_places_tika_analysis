@@ -1,0 +1,18 @@
+city: Camden
+country: United States
+description: American Folk Figure. According to tradition, she followed her lover in the British Army during the Revolutionary War. She searched through the wilderness to Camden, South Carolina, but died before finding him. She was then buried here under cover of darkness by King Haigler and his men. (King Haigler was an American Catawba Indian who befriended Europeans in South Carolina). According to local legend her ghost can be seen as she continues to walk to streets and roads in and near Camden, South Carolina, still looking for her lover.
+location: Agnes of Glascow b. 1760 d. 1780
+state: South Carolina
+state_abbrev: SC
+city_longitude: -80.6070237
+city_latitude: 34.24653929999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1670/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Greensburg
+country: United States
+description: Brownlee Residence Hall-  It's been reported that a mysterious purple light that seems to come out of nowhere appears in the corner of a dorm room on the first floor. Also, it's been reported that the shadow of girl who had hung herself many years ago in her room can be seen on the wall across from the room that it supposedly happened.
+location: Seton Hill University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.5566817
+latitude: 40.3113949
+city_longitude: -79.5389289
+city_latitude: 40.3014581
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2023/09/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

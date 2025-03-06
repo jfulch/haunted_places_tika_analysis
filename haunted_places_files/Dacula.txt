@@ -1,0 +1,21 @@
+city: Gwinnett
+country: United States
+description: The Old Mill - Off of Alcovy Road in Decula, Georgia, cars that pass by the abandoned mill see a light in the top story of the abandoned building turn on when you drive by with the reflection of a man in the window. The Mill is right off of a creek that has a bridge going over it, and if you stop on the bridge, you can see the appearance of a green glow coming from the woods behind the mill.
+location: Dacula
+state: Georgia
+state_abbrev: GA
+longitude: -83.8979573
+latitude: 33.9887165
+city_longitude: -84.01674229999999
+city_latitude: 33.9190653
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

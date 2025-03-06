@@ -1,0 +1,21 @@
+city: Jonesboro
+country: United States
+description: The story is that one night a few teenagers were out at the lake drinking, when one of them went out into the water at a non swimming area, and drowned. They say that if you go out there and look across the lake, you can see a young man trying to stay above the water, and can hear him screaming for help. Also, people have reported that a young man will approach them, and start talking to them They turned away for one second, turned back, and he was gone.
+location: Craighead Lake
+state: Arkansas
+state_abbrev: AR
+longitude: -90.7051856
+latitude: 35.778885
+city_longitude: -90.704279
+city_latitude: 35.84229670000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

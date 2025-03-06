@@ -1,0 +1,21 @@
+city: Manteno
+country: United States
+description: Manteno is an abandoned insane asylum that was opened in 1929 and closed in 1985. most of the buildings are still there. There was electro shock therapy, cold water treatment, and even lobotomies. Under ground tunnels connect all the buildings together, and go other places. For more info go to - www.mantenostatehospital
+location: Manteno Insane Asylum
+state: Illinois
+state_abbrev: IL
+longitude: -87.804457
+latitude: 41.232138
+city_longitude: -87.8314324
+city_latitude: 41.2505881
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1929/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

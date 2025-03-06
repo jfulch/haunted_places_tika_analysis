@@ -1,0 +1,21 @@
+city: Oklahoma City
+country: United States
+description: The County Line barbeque restaurant is in a building once occupied by a Prohibition-era dance hall, gambling place and bordello. It was also a popular hangout for outlaw Pretty Boy Floyd who was originally from the Sallisaw area. Various employees have heard strange voices while working late at night, particularly up in the old bordello section, which is now used as attic storage space.
+location: County Line Barbeque Restaurant
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.7689803
+latitude: 38.9111945
+city_longitude: -97.5164276
+city_latitude: 35.4675602
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1973/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

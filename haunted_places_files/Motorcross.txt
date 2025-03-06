@@ -1,0 +1,20 @@
+city: Lovell
+country: United States
+description: There was a young man in the 1970's that was killed in a motorcycle accident. He ramped his motorcycle and flew out of control and landed on his head, killing him on impact. Now there have been reports of the sounds of a motorcycle engine replaying the incident. There is also red dirt where the kid landed and bashed his head open.
+location: Motorcross
+state: Wyoming
+state_abbrev: WY
+longitude: -105.4217362
+latitude: 44.2827394
+city_longitude: -108.3895614
+city_latitude: 44.8374532
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

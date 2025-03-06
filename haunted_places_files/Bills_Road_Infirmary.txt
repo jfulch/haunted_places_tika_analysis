@@ -1,0 +1,19 @@
+city: Providence
+country: United States
+description: Once an infirmary for TB patients now vacant. Many noises such as foot steps, coughing, talking. Sometimes banging noises. Cold feelings and a feeling of pressure or a feeling of it being harder to breath when in some locations of the building.
+location: Bills Road Infirmary
+state: New York
+state_abbrev: NY
+city_longitude: -74.05351259999999
+city_latitude: 43.1060531
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Tusla
+country: United States
+description: if you are alone or with one other person on the second floor you can hear footsteps in the costume room. in the basement there are weird scratching marks on the walls and you can hear faint laughter.
+location: Spotlight Theatre
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.998644
+latitude: 36.1418691
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Salsbury
+country: United States
+description: The house was owned by this man and his family. The family ended up dieing. The house is now used as a old folks home. People who live their clam they have heard glass breaking but when they look nothing is broken. They have seen a young girl who wears a red dress and walks about and is friendly with the residents.
+location: Shard Villa
+state: Vermont
+state_abbrev: VT
+longitude: -73.154236
+latitude: 43.939583
+city_longitude: -73.09983629999999
+city_latitude: 43.8964511
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

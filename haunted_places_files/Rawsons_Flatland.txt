@@ -1,0 +1,19 @@
+city: Cedar Rapids
+country: United States
+description: This a supposed to be haunted by a two to three year old girl, named Josephine, wearing a white t-shirt and has short hair about to her cheeks. If you see her you will remember quite a bit about her, then by the time you turn to take a second look she will be gone.
+location: Rawsons Flatland
+state: Iowa
+state_abbrev: IA
+city_longitude: -91.6656232
+city_latitude: 41.9778795
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Ann Arbor
+country: United States
+description: Mercywood was a mental hospital before closing down. security guards heard the elevators moving when the building was empty. Sounds would come from the boiler room. In the basement were personal belongings of the inmates. There was also a bowling alley and bumper pool tables in the basement. There were insane rambling written on the walls in some of the rooms. Behind the hospital there was a convent where the nuns lived that worked in the hospital and even to go in there was a very uneasy feeling. It is like you can feel the insanity that surrounded the place. Also an evil feeling. They have since torn down the old hospital but something has been built there recently. It is on Jackson Ave. in Ann Arbor a little way down from the cemetery next to I-94 on the right side if you are going west.
+location: Mercywood Hospital
+state: Michigan
+state_abbrev: MI
+longitude: -83.6541587
+latitude: 42.2648802
+city_longitude: -83.7430378
+city_latitude: 42.2808256
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

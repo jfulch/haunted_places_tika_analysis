@@ -1,0 +1,20 @@
+city: Greenville
+country: United States
+description: This place for plays and musicals is haunted by an old man who once fell to his death changing one of the high light bulbs hanging from the ceiling.
+location: Memorial Hall
+state: Ohio
+state_abbrev: OH
+longitude: -84.63305410000001
+latitude: 40.0988058
+city_longitude: -84.63301150000001
+city_latitude: 40.1028264
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

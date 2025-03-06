@@ -1,0 +1,19 @@
+city: Townley
+country: United States
+description: This jail house is haunted by the ghosts of people once incarcerated there. Legend has it that their screams can be heard as they were being burned to death, and you can hear the laugher of the guards that stood by watching.
+location: Old Townley Jail House
+state: Alabama
+state_abbrev: AL
+city_longitude: -87.431675
+city_latitude: 33.8289975
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

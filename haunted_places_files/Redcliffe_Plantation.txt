@@ -1,0 +1,20 @@
+city: Beech Island
+country: United States
+description: It is believed to have a lot going on here.  This all falls back on the Hammonds family.  Mr. James Hammond was a senator back in the 1800's.  If you go to Redcliffe plantation, you will notice all trees are planted in a triangular pattern.  Also, in front of the Hammond mansion, you will see a field with only three trees standing.  It is believed if anyone goes near them, something weird will happen.  Also, there are stories of James Hammond haunting certain people& a shadowy figure that stares and sometimes touches people.
+location: Redcliffe Plantation
+state: South Carolina
+state_abbrev: SC
+longitude: -81.86290699999999
+latitude: 33.41758
+city_longitude: -81.8909472
+city_latitude: 33.4273614
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/05/15
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

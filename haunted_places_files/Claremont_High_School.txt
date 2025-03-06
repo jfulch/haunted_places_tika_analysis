@@ -1,0 +1,21 @@
+city: Claremont
+country: United States
+description: In the old gym of CHS, many have heard legends of the spirit of a former student. Some stories involve numerous reports of "troubled/desperate whispering", one entire P.E. class claims to have heard prolonged screaming from under the bleachers, but finding no source, and some students have been physically pinned by the ghost. There is a name burned into the floor of the gym, students believe it is the name of the ghosts.
+location: Claremont High School
+state: California
+state_abbrev: CA
+longitude: -117.7219428
+latitude: 34.1126312
+city_longitude: -117.7197785
+city_latitude: 34.0966764
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

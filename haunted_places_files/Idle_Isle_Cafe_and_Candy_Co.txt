@@ -1,0 +1,21 @@
+city: Brigham City
+country: United States
+description: Voices and strange occurrences from the dining room have been reported after closing time. Objects fall off shelves, chairs are moved or knocked over. Several people have seen what they believe is the ghost of an old Native American man which haunts the Idle Isle and several other businesses on Main Street in Brigham City. One day a worker at the Idle Isle Cafe was cleaning behind the soda fountain. As she stood up, a Native American man was standing at the fountain. He startled the girl since she hadn't heard the front door to the cafe open. He asked for some dinner rolls. She wrote down his order, then looked up to ask if he wanted anything else, but he was gone. She asked everyone in the restaurant if they had seen the man leave or come in, but nobody had. In the basement of the Cafe is the Idle Isle Candy Company. It is here that the candy factory is located. A worker was mixing ingredients one day when she felt a hand push her shoulder, causing her to step back. She turned but saw nobody. There is also a woman who is occasionally seen roaming the factory and Cafe dressed in 1940's style clothing. Her description matches that of the current owner's grandmother, who died in the 1960's.
+location: Idle Isle Cafe and Candy Co.
+state: Utah
+state_abbrev: UT
+longitude: -112.0160862
+latitude: 41.5098937
+city_longitude: -112.0155015
+city_latitude: 41.5102129
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1940/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lawrenceville
+country: United States
+description: An old 1800s plantation house that was turned into a fancy restaurant. A woman died there in the early 1900s and haunts the restaurant. Workers have seen and felt her presence often. Dishes and silverware have moved and been thrown across the tables. She mainly haunts the upstairs and several reports have been reported in the bathrooms. The bathroom Doors open and close by themselves. Cold spots have been felt and loud footsteps lurk behind you when there isn't anyone there.
+location: Little Gardens Restaurant
+state: Georgia
+state_abbrev: GA
+longitude: -84.1064213
+latitude: 33.91028
+city_longitude: -83.9879625
+city_latitude: 33.9562149
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Jackson
+country: United States
+description: Haunted by a young girl who met her death after falling down a flight of stairs during a fire alarm. - October 2004 correction/additional information: It was a young girl who suffered from seizures. She had one on the stairs one night during a PTA meeting. It was in the 20s or 30s.There have been lockers opened during the night, books scattered up and down the halls.The face of a little girl in the window at night; janitors have chased the apparition down the hall, thinking it was a real child, doors open and close in the old high school building, etc.Her name was "Maxine".She is not a malicious ghost.
+location: Jackson Independent School
+state: Kentucky
+state_abbrev: KY
+longitude: -83.379565
+latitude: 37.5531185
+city_longitude: -83.38351349999999
+city_latitude: 37.5531457
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

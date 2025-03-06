@@ -1,0 +1,21 @@
+city: Beaumont
+country: United States
+description: There are various types of encounters. Some are cold spots, noises, and eerie feelings, also sometimes you can feel a hand touch you. The cemetery is not visited heavily and sometimes when alone you can see a groundskeeper walking around. However when you try to approach him, he walks into one of the sheds and disappears. When you approach the shed, the door is open and you can knock or call out and you get no response. On one occasion 2 witnesses to this stepped inside to find nobody there. Also, if going at night be sure to go in groups, the residents see to be more forward then. The cemetery is located at the south end of Pennsylvania street, past the railroad tracks. - As we always state, please have respect for the cemeteries, and the families that visit them, check with local authorities for permission before investigating.
+location: Sunnyslope Cemetery
+state: California
+state_abbrev: CA
+longitude: -116.965058
+latitude: 33.9192683
+city_longitude: -116.977248
+city_latitude: 33.9294606
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

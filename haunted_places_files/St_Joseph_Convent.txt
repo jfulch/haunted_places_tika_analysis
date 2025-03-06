@@ -1,0 +1,21 @@
+city: Stanton
+country: United States
+description: Supposedly haunted by weeping nuns.
+location: St. Joseph Convent
+state: Texas
+state_abbrev: TX
+longitude: -101.7895271
+latitude: 32.1327199
+city_longitude: -101.7884642
+city_latitude: 32.1292891
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

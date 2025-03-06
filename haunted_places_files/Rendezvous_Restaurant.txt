@@ -1,0 +1,18 @@
+city: Pueblo
+country: United States
+description: Witnesses have reported seeing a small child running about on the balcony and then jumping off suddenly. It is believed that it is the spirit of a little boy fell from the balcony to his death. Also felt the spirit of a woman.
+location: Rendezvous Restaurant
+state: Colorado
+state_abbrev: CO
+city_longitude: -104.6091409
+city_latitude: 38.2544472
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

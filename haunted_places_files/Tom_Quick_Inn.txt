@@ -1,0 +1,21 @@
+city: Milford
+country: United States
+description: Over a century old, the Victorian Tom Quick Inn, one of the historical hotels in Milford, has undoubtedly acquired at least a few spirits over the years. Employees have reported hearing things, amongst others. Beds that have been made neatly were found to look like someone laid in them One of the rooms especially is known to be haunted. Guests have complained that their bed moved, and the employees have heard their names called out, only to discover no one.
+location: Tom Quick Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.80057710000001
+latitude: 41.3239861
+city_longitude: -74.8023882
+city_latitude: 41.322316
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

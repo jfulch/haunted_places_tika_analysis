@@ -1,0 +1,20 @@
+city: Cody
+country: United States
+description: There have been sightings of a soldier dressed in an 1800's style uniform in the main dining hall near the cherry wood bar. Also seen, Irma (Buffalo Bill Cody's daughter)- “The Lady in White” roams the halls of the second floor where the suites and rooms are, as well as an aggressive presence in the kitchen.
+location: Irma Hotel
+state: Wyoming
+state_abbrev: WY
+longitude: -109.0643557
+latitude: 44.5258181
+city_longitude: -109.0565308
+city_latitude: 44.52634219999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

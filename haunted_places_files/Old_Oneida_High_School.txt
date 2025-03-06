@@ -1,0 +1,21 @@
+city: Oneida
+country: United States
+description: The old high school in Oneida is boarded up but inside you can still here the voices of teachers and students coming from the classrooms.
+location: Old Oneida High School
+state: New York
+state_abbrev: NY
+longitude: -75.6545506
+latitude: 43.0808952
+city_longitude: -75.65129309999999
+city_latitude: 43.0925684
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

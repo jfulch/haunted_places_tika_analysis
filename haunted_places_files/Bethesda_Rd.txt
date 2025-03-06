@@ -1,0 +1,21 @@
+city: Burleson
+country: United States
+description: Apparently, a school bus full of children was driving down one day and got stuck on a road with railroad tracks , and was hit by an oncoming train , most of the children died. on most nights you can go there and drive your car on to the tracks, stop it, put in neutral ,and the children will come and push you off the tracks. To keep you out of harms way.
+location: Bethesda Rd.
+state: Texas
+state_abbrev: TX
+longitude: -97.2812461
+latitude: 32.4853743
+city_longitude: -97.3208492
+city_latitude: 32.5420821
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/12/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

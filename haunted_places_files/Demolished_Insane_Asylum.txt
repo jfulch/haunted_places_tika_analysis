@@ -1,0 +1,19 @@
+city: Lancaster
+country: United States
+description: (I & 90th) - Concrete slabs of cells still remain. Voices can be heard late at night, along with screaming, and banging noises on metal. People have even complained of being chased.
+location: Demolished Insane Asylum
+state: California
+state_abbrev: CA
+city_longitude: -118.1541632
+city_latitude: 34.6867846
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Nantucket
+country: United States
+description: near the steamship, theirs feeling that something pushes you to the water.
+location: Main St
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.1023967
+latitude: 41.28160810000001
+city_longitude: -70.099451
+city_latitude: 41.2834704
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Clint High School - In the Old Gym above the Theatre, it has been said that the body of a girl, raped by a janitor, can be seen hanging. Also in the Band Room where all instruments are stored, one can hear someone playing an instrument at night, and just being in there gives an eerie feeling that makes you run out.
+location: Clint
+state: Texas
+state_abbrev: TX
+longitude: -106.2241449
+latitude: 31.592337
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

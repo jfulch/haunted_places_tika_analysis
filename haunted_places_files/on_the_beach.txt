@@ -1,0 +1,20 @@
+city: Pawley's Island
+country: United States
+description: it's said that a long time ago, a little boy was searching for crabs to feed his family. he went out into the shallows. when he stuck his hand in one of the holes, it got stuck. as the tide rose, the boy drowned. to this day, one can hear the bot begging for help.
+location: on the beach
+state: South Carolina
+state_abbrev: SC
+longitude: -79.096458
+latitude: 33.468859
+city_longitude: -79.12143130000001
+city_latitude: 33.4332236
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

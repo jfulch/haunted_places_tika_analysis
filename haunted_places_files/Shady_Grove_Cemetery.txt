@@ -1,0 +1,21 @@
+city: Sale City
+country: United States
+description: Located in the middle of a tight "S" curve on a small dirt road outside of Sale City Georgia. It is an old Historic cemetery that locals say is haunted and that there is unusual activity that goes on there. Locals say to park your car on the side of the road near the cemetery and look at the small prayer chapel that is located in the middle of the cemetery, while being quiet, you can hear moans and high pitch noises coming from the chapel and at times there seems to be a low glooming light that emerges from the foundation of the chapel, locals say that upon approaching the cemetery at night there seems to be an unexplainable chill that goes down your spine every time you try to pass through the arch at the entrance of the cemetery. (Be careful when visiting, because the authorities have been known to patrol the dirt road frequently.) -  It would be a good idea to let the proper authorities know what you are doing and ALWAYS get permission.
+location: Shady Grove Cemetery
+state: Georgia
+state_abbrev: GA
+longitude: -84.0574603
+latitude: 31.2878085
+city_longitude: -84.0212897
+city_latitude: 31.2643494
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

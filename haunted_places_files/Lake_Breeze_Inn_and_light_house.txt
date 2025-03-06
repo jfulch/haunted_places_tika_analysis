@@ -1,0 +1,21 @@
+city: Eagle Harbor
+country: United States
+description: people claim they have seen a woman walking the porch looking out to the lake as if she is looking for her long lost husband who was lost in the lake in a freighter crash, the light house has had everything to lights flickering on and off to hearing voices, and apparitions.
+location: Lake Breeze Inn and light house
+state: Michigan
+state_abbrev: MI
+longitude: -88.15851730000001
+latitude: 47.4589082
+city_longitude: -88.1623228
+city_latitude: 47.4582339
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1598/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

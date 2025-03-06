@@ -1,0 +1,21 @@
+city: Reading
+country: United States
+description: People have heard chains rattle & have seen the locks on the lockers spin by themselves. The power often goes out for unknown reasons. Electric companies have come and have no idea why the power is/was out. Also the family of Mr. Luden was killed too. The wife and daughter in the basement (also known as the dungeon to the students) and Mrs. Luden was killed on the 2nd or third floor. The son hanged himself on the wooden stairs. Also the chains people hear are from another son, who was chained in the attic. One final thing is that some nights you can hear Mr. Luden's piano playing. The piano isn't in the room anymore but the sound still occurs there.
+location: Central Catholic High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.90953789999999
+latitude: 40.3339125
+city_longitude: -75.9268747
+city_latitude: 40.3356483
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

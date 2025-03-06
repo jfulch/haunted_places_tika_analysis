@@ -1,0 +1,18 @@
+city: Webb City
+country: United States
+description: Update: Currently Being remodeled as a retirement home for the elderly. - This Hospital was built in the early 1900's. However, it has been abandoned since the late 1960's. People have reported seeing strange lights and hearing the sound of gurneys being pushed down the hall. Ethereal voices have been heard as well, along with eerie footsteps. On Halloween one year, the hospital was used as a spook house. A man was checking the building to make sure everyone was gone after the event. As the man and his dog made their way to the top floor, the dog suddenly freaked out and would not go any farther. Many other experiences have also been reported.
+location: Jane Chin Hospital
+state: Missouri
+state_abbrev: MO
+city_longitude: -94.4630035
+city_latitude: 37.1464475
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Kearns
+country: United States
+description: In the middle school where many students attuned all there class have spoke of a family at the top of the stairs standing there looking at you and walking away really slow the shadows of what the middle school students speak of is a mother a father 2 girls and one boy. UT
+location: Kearns JR High
+state: Utah
+state_abbrev: UT
+longitude: -111.9880298
+latitude: 40.6559844
+city_longitude: -111.9963275
+city_latitude: 40.6599468
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

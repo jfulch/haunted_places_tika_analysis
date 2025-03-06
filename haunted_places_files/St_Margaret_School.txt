@@ -1,0 +1,20 @@
+city: Lowell
+country: United States
+description: Reports of a ghost in the girls bathroom.
+location: St. Margaret School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.3329255
+latitude: 42.6278252
+city_longitude: -71.31617179999999
+city_latitude: 42.6334247
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

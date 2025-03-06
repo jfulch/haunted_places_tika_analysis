@@ -1,0 +1,21 @@
+city: Redlands
+country: United States
+description: Hillside Cemetery is a very old cemetery with interments dating back to the mid-late 1800's. Many people have reported strange happenings such as car horns honking by themselves, balls being thrown back over the walls after somebody has thrown them in.
+location: Hillside Cemetery
+state: California
+state_abbrev: CA
+longitude: -117.1800897
+latitude: 34.0265867
+city_longitude: -117.1825381
+city_latitude: 34.0555693
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1861/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

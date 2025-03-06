@@ -1,0 +1,21 @@
+city: Ancora
+country: United States
+description: Veterans haven is right next to bayside prison ward and Ancora mental institution. It was once a town the psychiatric hospital made for patients to all live together, many of the patients murdered each other, and the most of them are old veterans from the war. Eventually, so many killings took place they just shut the whole town down. It has a lot of paranormal activity and the streetlights are still left on through out the little deserted ghost town.
+location: Veterans haven
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.8574586
+latitude: 39.6858762
+city_longitude: -74.8412742
+city_latitude: 39.6945609
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1680/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

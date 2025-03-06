@@ -1,0 +1,21 @@
+city: Virginia City
+country: United States
+description: The ghost of a young women dressed in lavender, who is also said to smell of lavender, stands at the top balcony during performances to watch. She is said to be friendly and to particularly enjoy children's performances, clapping and dancing along with the music. However, there is a not-so-sweet ghost of an old man who sits smoking in the side balcony seating scowling at performances
+location: Piper's Opera House
+state: Nevada
+state_abbrev: NV
+longitude: -119.6501592
+latitude: 39.3110159
+city_longitude: -119.6499793
+city_latitude: 39.3095135
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

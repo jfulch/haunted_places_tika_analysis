@@ -1,0 +1,21 @@
+city: Orange
+country: United States
+description: Strange noises coming from upstairs while no one is up there. Music has been heard in the "main room". Described as violins. On a few occasions witness have described a man and a woman descending the staircase.
+location: Zachary Taylor House
+state: Virginia
+state_abbrev: VA
+longitude: -85.64715059999999
+latitude: 38.2792275
+city_longitude: -78.1108342
+city_latitude: 38.2454106
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

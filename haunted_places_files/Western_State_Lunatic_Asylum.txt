@@ -1,0 +1,21 @@
+city: Tacoma
+country: United States
+description: Reports of cold spats, sounds of people and the cold sense of a presence. The blood on the wall reading JOE... a hand print, and the long dried blood that almost seemed to be dripping.-Update: For a brief summary and directions visit Western State Sanitarium
+location: Western State Lunatic Asylum
+state: Washington
+state_abbrev: WA
+longitude: -122.5650751
+latitude: 47.17866000000001
+city_longitude: -122.4442906
+city_latitude: 47.2528768
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

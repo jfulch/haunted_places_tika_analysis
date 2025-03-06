@@ -1,0 +1,19 @@
+city: Paso Robles
+country: United States
+description: There's an old Indian cemetery out near the airport. At night, every night, lights can be seen and voices heard in the natives' tongue.
+location: Indian Burial Ground
+state: California
+state_abbrev: CA
+city_longitude: -120.6545022
+city_latitude: 35.6368759
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

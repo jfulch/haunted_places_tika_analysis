@@ -1,0 +1,21 @@
+city: Little Rock
+country: United States
+description: There are things that happen without explanation. Like after closing time, when all the chairs are put up after people leave, a person can come back into the building and the chairs are back down. There are strange sounds coming from different areas of the building. Also, cold spots are felt throughout the club and pizza restaurant.
+location: Vino's
+state: Arkansas
+state_abbrev: AR
+longitude: -92.2820741
+latitude: 34.7434978
+city_longitude: -92.2895948
+city_latitude: 34.7464809
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

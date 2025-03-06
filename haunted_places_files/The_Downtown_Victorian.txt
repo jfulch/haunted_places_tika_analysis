@@ -1,0 +1,19 @@
+city: Brandenburg
+country: United States
+description: Some times you can hear voices & noises falling down the stairs from the attic to the first second floor. Also the ones that did live in that house had pictures of the ghosts.
+location: The Downtown Victorian
+state: Kentucky
+state_abbrev: KY
+city_longitude: -86.1694143
+city_latitude: 37.9989592
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Hibbing
+country: United States
+description: An apparition of an older male sitting in seat J47 has been photographed many times. It is thought to be the ghost of a stage manger, but this is untrue. There has always been an odd occurrence in the auditorium, but the rumor wasn't believed until the apparition was captured in the photograph after a play practice in 2000. -  October 2004 update: currently being investigated by Northern Minnisosta Paranormal Investigators. The origins of the ghost are still unknown.
+location: Hibbing High School Auditorium
+state: Minnesota
+state_abbrev: MN
+longitude: -92.9324851
+latitude: 47.425261
+city_longitude: -92.9376887
+city_latitude: 47.42715459999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

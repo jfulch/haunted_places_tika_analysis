@@ -1,0 +1,21 @@
+city: Norfolk
+country: United States
+description: They say that the Junior High is haunted by a man who hung himself. He was a janitor at the school. Many people say that they can see half of him in the boiler room, where he hung himself. People also say he is trying to find his way out.
+location: Norfolk Junior High
+state: Nebraska
+state_abbrev: NE
+longitude: -97.4146779
+latitude: 42.0272258
+city_longitude: -97.4137553
+city_latitude: 42.03272339999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

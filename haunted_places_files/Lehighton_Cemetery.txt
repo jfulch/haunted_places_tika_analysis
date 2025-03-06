@@ -1,0 +1,21 @@
+city: Lehighton
+country: United States
+description: it is said that the victims of the Gnaden Huetten Massacre can be seen day or night wandering around the tomb where they are buried and memorialized. There is an old marker with a flat slab from 1755 that marks the occasion
+location: Lehighton Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.71316
+latitude: 40.8292907
+city_longitude: -75.7138008
+city_latitude: 40.8337029
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1755/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

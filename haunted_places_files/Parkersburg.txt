@@ -1,0 +1,21 @@
+city: Wood
+country: United States
+description: Riverview Cemetery - A spiritually active graveyard whose first burial was in 1801, there are a number of haunts that go on, including spirits around the Weeping Woman statue that pulls hair, unbuttons clothes, unzips pants and sometimes trip, however this ghost will help grant wishes if your desires positive and sincere. Ghost orbs and other anomalies are photographed in Riverview routinely. Sometimes a woman is heard talking, she will often call your name. The ghost of a sea captain is seen crouching over his grave, wearing a formal black coat.
+location: Parkersburg
+state: West Virginia
+state_abbrev: WV
+longitude: -81.56151349999999
+latitude: 39.2667418
+city_longitude: -81.47183869999999
+city_latitude: 39.2154345
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1801/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

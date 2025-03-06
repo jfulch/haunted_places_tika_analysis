@@ -1,0 +1,21 @@
+city: Sheboygan
+country: United States
+description: evp recordings of a small girl in the basement saying "grandma"
+location: Superior Manor a.k.a. the old St. Nicholas Hospital
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.7476416
+latitude: 43.7624369
+city_longitude: -87.71453
+city_latitude: 43.7508284
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Coachella Valley
+country: United States
+description: The backstage of the auditorium is known for its strange noises of pages being flipped and books being knocked down which are stared behind the stage so reported from drama students.
+location: Coachella Valley High School
+state: California
+state_abbrev: CA
+longitude: -116.200257
+latitude: 33.6432128
+city_longitude: -116.3591772
+city_latitude: 33.7666873
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

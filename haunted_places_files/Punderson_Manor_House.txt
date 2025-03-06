@@ -1,0 +1,20 @@
+city: Newbury
+country: United States
+description: Children heard running in hallways, spirits of children seen, one room got so violent that management had to close off room with a fake wall covering the door, man seen hanging by a rope in the lounge area, and much more.
+location: Punderson Manor House
+state: Ohio
+state_abbrev: OH
+longitude: -81.2075302
+latitude: 41.4510562
+city_longitude: -81.27390729999999
+city_latitude: 41.44933899999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1911/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

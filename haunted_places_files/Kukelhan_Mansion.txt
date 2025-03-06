@@ -1,0 +1,21 @@
+city: Decatur
+country: United States
+description: Just north of Decatur, east of US 27, not far from North Pointe Sub-Division, stands an old mansion that was owned by a very wealthy banker. It is said, that the banker went crazy because he always thought someone was after his money and slaughtered his whole family and hung himself. Many people have tried, including people with psychic ability, has been unsuccessful in being on the property.
+location: Kukelhan Mansion
+state: Indiana
+state_abbrev: IN
+longitude: -84.93790969999999
+latitude: 40.8303907
+city_longitude: -84.9291329
+city_latitude: 40.830603
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Annandale
+country: United States
+description: Believed to be haunted by a student that committed Suicide. Reports of seeing the dead boy in a mirror in the bathroom.
+location: Annandale High School – Boy’s Restroom
+state: Virginia
+state_abbrev: VA
+longitude: -77.2076386
+latitude: 38.8222822
+city_longitude: -77.1963703
+city_latitude: 38.8303905
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

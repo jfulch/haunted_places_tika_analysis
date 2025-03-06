@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: This home, located near the Black Forest area, has been on "Sightings" and has had several paranormal investigators visit. There are over 20 spirits that haunt the house and the grounds. Apparently it is a spiritual portal lying on the crossing of two major lay lines, according to a Hopi Shaman.
+location: Lee Family Home
+state: Colorado
+state_abbrev: CO
+longitude: -104.7858053
+latitude: 38.9215886
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

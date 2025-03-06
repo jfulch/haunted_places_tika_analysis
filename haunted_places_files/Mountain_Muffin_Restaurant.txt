@@ -1,0 +1,20 @@
+city: Hartsel
+country: United States
+description: The building that this cafe was located dates back about 100 years.  There was a hanging in the back room of this building.  There was an Ice Cream Parlor in the early 1900's.  A new cafe was then put into this building.  There was talk of a person who hanged himself after killing another man over a romance gone bad. Reports of lights going off and on and Coffee Makers just turning on by themselves, Cash register's just opening on their own.  To this date the building is still there, but there has not been a sighting for almost l8 years.
+location: Mountain Muffin Restaurant
+state: Colorado
+state_abbrev: CO
+longitude: -105.7961176
+latitude: 39.0214259
+city_longitude: -105.7958419
+city_latitude: 39.0216594
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

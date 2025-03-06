@@ -1,0 +1,19 @@
+city: Portland
+country: United States
+description: A fourteen year old girl was crushed behind the bleachers of the old high school gym. Her ghost is said to roam the hallways.
+location: Old School Manor
+state: Michigan
+state_abbrev: MI
+city_longitude: -84.9100792
+city_latitude: 42.8672048
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Accident
+witness_count: 0

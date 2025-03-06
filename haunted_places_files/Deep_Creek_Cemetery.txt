@@ -1,0 +1,21 @@
+city: Rome
+country: United States
+description: About a half a mile down the dirt road there is a place called whispering bridge where some kids fell off on this 30 foot drop and you can hear the cries of the children!
+location: Deep Creek Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -97.5201554
+latitude: 33.1163048
+city_longitude: -97.4719662
+city_latitude: 33.0534563
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

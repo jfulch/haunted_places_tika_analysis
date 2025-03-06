@@ -1,0 +1,21 @@
+city: Boston
+country: United States
+description: It is reported by employees that there are several ghosts that inhabit this old hotel in the heart of down town Boston. doors open and close by themselves, lights mysteriously turned on & off. several employees have left scared because they have reportedly seen these lost souls. the apparitions seem to be of older times with the attire and hair styles of the old aristocrat era there is also supposed to be voices throughout the night in the lobby, restaurant, and hall ways.
+location: Parker House (hotel)
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.06020459999999
+latitude: 42.3575872
+city_longitude: -71.0588801
+city_latitude: 42.3600825
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1630/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

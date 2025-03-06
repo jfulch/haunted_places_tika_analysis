@@ -1,0 +1,20 @@
+city: St. Joseph
+country: United States
+description: In Benton's auditorium figures have been seen and strange noises have been heard during rehearsals. Sometimes all of the lights in the house will go on and off at times for no reason, and unlocked doors will lock.
+location: Benton High School
+state: Minnesota
+state_abbrev: MN
+longitude: -94.8546245
+latitude: 39.7146613
+city_longitude: -94.317966
+city_latitude: 45.5647724
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

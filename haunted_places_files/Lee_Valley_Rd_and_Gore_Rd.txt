@@ -1,0 +1,21 @@
+city: Lee Center
+country: United States
+description: at night time there is an eerie feeling as if your being watched, and if you're walking down Gore rd. late at night you get the feeling as if your being followed or actually chased, you can also can hear noises in the dense woods
+location: Lee Valley Rd and Gore Rd.
+state: New York
+state_abbrev: NY
+longitude: -75.53014399999999
+latitude: 43.285781
+city_longitude: -75.5179555
+city_latitude: 43.3034028
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

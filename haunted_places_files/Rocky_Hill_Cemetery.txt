@@ -1,0 +1,21 @@
+city: Woodsboro
+country: United States
+description: There is a tombstone in Rocky Hill Cemetery that bleeds. The woman it belongs to told her husband if he remarries and his new wife is cruel to her children her tombstone will bleed. They have changed the tombstone several times and the blood keeps coming back. They have an inscription in front of her tombstone that reads: This stone is at the grave of a mother who died leaving several small children. The husband remarried as husbands do, and tis' said that he and the stepmother were very cruel and unkind to the children, but Death could not this mother's anguish kill, when the knarled oaks groan, and the pine trees moan, in this grave yard at Rocky Hill, the tale oft told on many a lonely stretch, is that this stone breaks out in bloody sweats, in this grave yard at Rocky Hill. The cemetery is located in Woodsboro on Coppermine Road. the tombstone is located in the left hand corner 3 rows back in the middle of the row. There is a small stone on the left hand side and two on the right hand side bearing the names of George and Mary Fox.
+location: Rocky Hill Cemetery
+state: Maryland
+state_abbrev: MD
+longitude: -77.28774469999999
+latitude: 39.5308379
+city_longitude: -77.314706
+city_latitude: 39.5331563
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

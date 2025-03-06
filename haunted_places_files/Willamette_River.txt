@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: For the past two years a phantom rowboat has been sighted along this river. It has no one on the boat but when the coastguard goes to retrieve the boat it disappears right in front of there eyes.
+location: Willamette River
+state: Oregon
+state_abbrev: OR
+longitude: -122.6764815
+latitude: 45.5230622
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

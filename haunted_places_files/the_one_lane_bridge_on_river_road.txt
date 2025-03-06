@@ -1,0 +1,18 @@
+city: Munroe Falls
+country: United States
+description: it is supposedly haunted by a man that likes to jump out in front of cars on certain nights and when you stop to talk to him he vanishes in to the trees.
+location: the one lane bridge on river road
+state: Ohio
+state_abbrev: OH
+city_longitude: -81.43983419999999
+city_latitude: 41.1445006
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

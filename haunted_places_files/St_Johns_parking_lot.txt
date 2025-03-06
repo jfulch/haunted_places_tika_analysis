@@ -1,0 +1,19 @@
+city: Streamwood
+country: United States
+description: lights, shadows, moans....of boy killed in car accident
+location: St. John's parking lot
+state: Vermont
+state_abbrev: VT
+longitude: -121.8878706
+latitude: 37.338517
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.75
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

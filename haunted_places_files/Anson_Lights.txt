@@ -1,0 +1,19 @@
+city: Anson
+country: United States
+description: The story was covered by the television series Unsolved Mysteries about a year ago. Many residents from Anson and the near town of Abilene have gone to witness these phenomenal lights. The cemetery is located going towards the country. The lights are viewed by driving down the dirt farm road equivalent of about a half mile or more. As you drive closer to the cemetery towards the lights they disappear. As for the actual story for this occurrence, is unsolved. Local myth says that this light is the ghost of a mother carrying a lantern looking for her missing child. The child had left the house on cold winter day and was lost and froze to death. The mother's spirit still searches for her child.
+location: Anson Lights
+state: Texas
+state_abbrev: TX
+city_longitude: -99.896207
+city_latitude: 32.7565042
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

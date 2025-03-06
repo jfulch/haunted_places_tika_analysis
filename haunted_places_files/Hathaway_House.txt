@@ -1,0 +1,21 @@
+city: New Baltimore
+country: United States
+description: This house use to be an insane asylum. Many people are said to have killed themselves while there. At night you can see such called ghost in the windows. When inside you hear voices. Also if you have lights they may flicker in the presents of a so-called ghost. One girl is said of killing herself in the very top floor(bell tower). - November Update: due to tresspassing and vandals, it is heavily patrolled by police. - October 2005 Update: Due to vandals and dry rot in last weeks paper The Voice the Hathaway house will be torn down. The owner is trying to save the 50,000 bricks that make up the house to build two new houses.
+location: Hathaway House
+state: Michigan
+state_abbrev: MI
+longitude: -82.734149
+latitude: 42.683873
+city_longitude: -82.7368616
+city_latitude: 42.6811436
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

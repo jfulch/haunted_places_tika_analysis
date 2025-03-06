@@ -1,0 +1,20 @@
+city: Watertown
+country: United States
+description: Mattituck Trail - Cave formerly inhabited by the Leatherman (thought to be Jules Borglay) who got his name from always being dressed in 60 pounds of leather. This mysterious vagabond would endlessly walk a 365-mile loop between the Connecticut and Hudson rivers. He did this 360 times between 1858 and 1889, stopping to rest in caves along the way. Local people donated extra food to him whenever he was in their town. His body was found in the Saw Mill Woods cave in Sing Sing, NY in 1889. He supposedly haunts the caves that he used to occupy. This particular cave is the most popular. It is located on the Mattituck Trail, approx. 2 miles southeast of Black Rock State Park on Rt. 6 in Watertown.
+location: Leatherman's Cave
+state: Connecticut
+state_abbrev: CT
+longitude: -73.08796099999999
+latitude: 41.6395124
+city_longitude: -73.11833969999999
+city_latitude: 41.6062042
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1889/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

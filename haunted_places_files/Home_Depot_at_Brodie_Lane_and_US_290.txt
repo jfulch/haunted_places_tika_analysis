@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: This store is said to be haunted by a Ghost referred to by employees as "Fred". There is a supposed turn of the century grave yard nearby. People have reported seeing human figures in the outdoor garden section of the store. A visitor to the site thinks this may be her father. She states, "My father was a "craftsman" carpenter as some people call it and he built a lot of things around Austin and loved nothing better than to make things in his shop which was our garage. People would see the garage door open and stop to talk to him and he would help anyone who needed anything made. He was 74 when he died in his shop doing what he loved. He left me and my Mom in debt and a rundown house so we could only afford a cremation. I am a big believer that people should be buried where their happy doing what they loved. So me and my friend took my dad to home depot on brodie, mainly the garden section because their were people around. I let my father's ashes go their because he had a love for making things and helping people. His name is Herbert, nick name herb. I am a little freaked out about this because I wanted to do right by him by placing him where he loved to shop and run up his home depot credit card! He is bald and short and Blue eyes, has always walked very fast so if someone sees him tell them not to be afraid just ask him for help and he will find it."
+location: Home Depot at Brodie Lane and US 290
+state: Texas
+state_abbrev: TX
+longitude: -97.8246769
+latitude: 30.228824
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

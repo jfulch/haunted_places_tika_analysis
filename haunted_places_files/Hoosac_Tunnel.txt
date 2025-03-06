@@ -1,0 +1,21 @@
+city: N. Adams
+country: United States
+description: throughout the construction of the Hoosac Tunnel, nearly 200 workers died. it is said that the tunnel is haunted by many of these souls. there was even an alleged murder that took place, and the ghosts of the victims are said to also haunt the tunnel.
+location: Hoosac Tunnel
+state: Massachusetts
+state_abbrev: MA
+longitude: -73.0905616
+latitude: 42.6753744
+city_longitude: -73.1087148
+city_latitude: 42.70091499999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1851/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

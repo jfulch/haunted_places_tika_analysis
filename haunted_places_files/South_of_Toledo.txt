@@ -1,0 +1,20 @@
+city: Waterville
+country: United States
+description: The Columbian House Restaurant - It is haunted by the ghost of murdered woman. She was reportedly murdered in one of the second story rooms, which served as bedchambers. The house was a carriage inn in the last century. There is also a ghost who moves furniture in the upstairs attic and pinches people.
+location: (South of Toledo)
+state: Ohio
+state_abbrev: OH
+longitude: -83.719674
+latitude: 41.498658
+city_longitude: -83.7182701
+city_latitude: 41.5008859
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

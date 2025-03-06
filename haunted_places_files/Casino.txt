@@ -1,0 +1,20 @@
+city: Blackhawk
+country: United States
+description: There is a certain casino in Blackhawk that is haunted (not that hauntings are unusual in that area) by at least one ghost. Cold spats are common, as well as occasional power outages. The story among employees goes that once the security guards were watching the cameras upstairs, as usual, when they spotted a small girl holding a balloon. They radioed other security guards, alerting them that a minor was in the building (which is illegal), and the guards searched for her. One was even seen on the video to be right next to the girl, but he couldn't see her. She could be seen on the camera, but not "in person". Eventually the girl disappeared.
+location: Casino
+state: Colorado
+state_abbrev: CO
+longitude: -105.4891877
+latitude: 39.8000053
+city_longitude: -105.4938853
+city_latitude: 39.7969322
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

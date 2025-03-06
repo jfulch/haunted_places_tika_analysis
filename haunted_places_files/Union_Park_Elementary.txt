@@ -1,0 +1,21 @@
+city: Orlando
+country: United States
+description: the girls bathroom is haunted. Witnesses report the sinks and all the doors started to shake and hearing a loud- but faint yell, and seeing a little girl with a white dress. Believed to be Mary, the daughter of the janitor that works there.
+location: Union Park Elementary
+state: Florida
+state_abbrev: FL
+longitude: -81.2456938
+latitude: 28.5671525
+city_longitude: -81.3792365
+city_latitude: 28.5383355
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

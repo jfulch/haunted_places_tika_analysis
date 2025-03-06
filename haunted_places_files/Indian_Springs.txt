@@ -1,0 +1,21 @@
+city: Crescent
+country: United States
+description: Its the burial grounds of indians,houses are now built on it,but at night if you sit outside you can hear indians beating their drums.
+location: Indian Springs
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.3909647
+latitude: 35.6141627
+city_longitude: -97.5947685
+city_latitude: 35.9525431
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

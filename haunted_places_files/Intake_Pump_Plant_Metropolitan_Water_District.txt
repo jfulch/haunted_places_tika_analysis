@@ -1,0 +1,21 @@
+city: Parker Dam
+country: United States
+description: Workers there today report hearing whistling and keys jingling when there is no one else around.
+location: Intake Pump Plant, Metropolitan Water District
+state: California
+state_abbrev: CA
+longitude: -114.1577694
+latitude: 34.3162124
+city_longitude: -114.1430071
+city_latitude: 34.287246
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: It is said that the spirit of murdered Tejano singer Selena still wanders restlessly about the door way of the room where she was shot as well as the hospital she ran to and eventually died in. Though she is never seen, people have reported hearing faint singing as well as the smell of roses followed by an overwhelming sense of sorrow. - February 2007: This submission is possibly a hoax due to the discrepancies in the actual case. This haunted place is not proven.
+location: Days Inn hotel
+state: Texas
+state_abbrev: TX
+longitude: -97.4005631
+latitude: 27.7211634
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 38m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

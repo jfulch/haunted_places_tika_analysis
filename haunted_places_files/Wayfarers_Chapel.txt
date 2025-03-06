@@ -1,0 +1,21 @@
+city: Palos Verdes
+country: United States
+description: Formerly listed as Glass Chapel - The site where Marilyn Monroe & Joe DiMaggio where married. The only strange thing about this place is problems with cell phones. Cell Phones signals are hard to receive in this area.
+location: Wayfarer's Chapel
+state: California
+state_abbrev: CA
+longitude: -118.3774217
+latitude: 33.7436775
+city_longitude: -118.3870173
+city_latitude: 33.7444613
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

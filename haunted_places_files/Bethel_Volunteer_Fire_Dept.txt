@@ -1,0 +1,20 @@
+city: Bethel
+country: United States
+description: "fire house ghost" - Sounds of someone or something falling, with nothing out of place.
+location: Bethel Volunteer Fire Dept.
+state: Connecticut
+state_abbrev: CT
+longitude: -73.4114089
+latitude: 41.3696016
+city_longitude: -73.41396209999999
+city_latitude: 41.3712283
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

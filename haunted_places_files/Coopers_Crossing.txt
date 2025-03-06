@@ -1,0 +1,21 @@
+city: China Spring
+country: United States
+description: Copper's Crossing gives you a feeling of being watched. The closer that you get to the river, the stronger the feeling gets. As well as feelings of being brushed up against.
+location: Cooper's Crossing
+state: Texas
+state_abbrev: TX
+longitude: -97.3446436
+latitude: 31.64497639999999
+city_longitude: -97.3079638
+city_latitude: 31.6522133
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1994/08/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

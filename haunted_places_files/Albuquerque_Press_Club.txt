@@ -1,0 +1,21 @@
+city: Albuquerque
+country: United States
+description: the ghost of "Mrs. M" appears at the bar.
+location: Albuquerque Press Club
+state: New Mexico
+state_abbrev: NM
+longitude: -106.639201
+latitude: 35.08162799999999
+city_longitude: -106.6055534
+city_latitude: 35.0853336
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1973/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

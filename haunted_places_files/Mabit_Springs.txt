@@ -1,0 +1,21 @@
+city: Signal Mountain
+country: United States
+description: In the woods if you go camping, late at night you can see a lone campfire. If you walk towards it, you will hear a voice calling out your name. Walk closer and you’ll see a grayish, dead-looking hand reaching out from a shadowy tent. Step closer still and the hand will go in the tent. And the body attached to it will come out. It is obviously the dead body of a young boy with no legs. He will tell you his sad story and then beg and plead you to join him in the woods forever then he will creep forward on his hands and reach for your face. You can feel your body being eaten. This is when you run.
+location: Mabit Springs
+state: Tennessee
+state_abbrev: TN
+longitude: -85.3007927
+latitude: 35.1703488
+city_longitude: -85.34384879999999
+city_latitude: 35.1225727
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

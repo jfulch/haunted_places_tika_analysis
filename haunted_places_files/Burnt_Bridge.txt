@@ -1,0 +1,20 @@
+city: Hattiesburg
+country: United States
+description: The legend has it that on the old bridge there would be a young girl in a prom dress ride across the bridge on the hood of your car around midnight. Seems she and her boyfriend were killed on prom night on that bridge. There is a new bridge now and the girl no longer rides.
+location: Burnt Bridge
+state: Mississippi
+state_abbrev: MS
+longitude: -89.4382607
+latitude: 31.2616859
+city_longitude: -89.29033919999999
+city_latitude: 31.3271189
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

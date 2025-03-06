@@ -1,0 +1,21 @@
+city: West Union
+country: United States
+description: The old cemetery used be located there, and when the highways came through, it was built over. Employees have had things misplaced, heard their name being called when no one is there, and have very cold spots in the building year round. There was one incident with an Ouija board, where a ghost claimed to be embodied in a moth flying around. When one of the players taunted it to fly at her, it flew over several persons to land on her face.
+location: Hardee's
+state: Iowa
+state_abbrev: IA
+longitude: -91.8147866
+latitude: 42.9631245
+city_longitude: -91.8082167
+city_latitude: 42.9627564
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

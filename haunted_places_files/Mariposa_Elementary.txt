@@ -1,0 +1,21 @@
+city: Redlands
+country: United States
+description: September 2004 Update - reported as an Urban Myth - In the late 50's or early 60's, a little boy named Billy was hit by a school bus. He was immediately taken to the nurse's office where he died. As he was dying, he expressed his desire to get back to school. Legend says that if you knock on the nurse's door, he will knock back or you will hear him walking in the room. Sometimes he will want you to play with him on the playground, but if you refuse, he will pick on you. We hopped the fence and searched for the office. When we found it, we knocked, only to hear a very loud shuffling sound emanate from the room. Whether it was a ghost or custodian, we didn't care. We booked it back to the car and took a quick picture in front of the school sign that read, " Welcome to Mariposa Elementary, Where All Our Children Grow." - The police will be called if the neighbors see trespassers.-
+location: Mariposa Elementary
+state: California
+state_abbrev: CA
+longitude: -117.1334609
+latitude: 34.023025
+city_longitude: -117.1825381
+city_latitude: 34.0555693
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

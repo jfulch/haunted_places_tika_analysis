@@ -1,0 +1,18 @@
+city: Anoka
+country: United States
+description: The front door mysteriously locked its self at all hours of the day.
+location: Cal's Cornor the old River Front Restaurant
+state: Minnesota
+state_abbrev: MN
+city_longitude: -93.3871758
+city_latitude: 45.1977428
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

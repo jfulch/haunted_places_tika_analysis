@@ -1,0 +1,21 @@
+city: Roy
+country: United States
+description: There are nine ghosts and one is a little girl who can be heard talking to people on tape recorders. Then there is a boy from Roy High who walks back and forth from each school. The schools are right next to each other. One of the boys got sucked into a moving train with his bike. A couple of them were in car accidents. Teachers after school can hear children playing in the gym and feel breathing on their necks. Orbs and floating wisps are seen in the auditorium, and cold spots and strange activity happen.
+location: Sand Ridge Junior High
+state: Utah
+state_abbrev: UT
+longitude: -112.0323193
+latitude: 41.1802125
+city_longitude: -112.0263313
+city_latitude: 41.1616108
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

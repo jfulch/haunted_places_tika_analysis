@@ -1,0 +1,21 @@
+city: Groton
+country: United States
+description: Voices are heard from the foundation of the school.
+location: Florence Roche School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.5785106
+latitude: 42.6154437
+city_longitude: -71.5745152
+city_latitude: 42.6112018
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

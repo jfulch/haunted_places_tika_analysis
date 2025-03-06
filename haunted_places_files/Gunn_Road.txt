@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: Young boy hit late at night years ago. It was a hit and run and his spirit still haunts the spot. Legend says that if you pull over the spot, which is marked on the road with a leave sign, turn off your car wait for 5 seconds and try to start your car. The car isn't supposed to start. You must get out and push your car off the spot and then it will start.
+location: Gunn Road
+state: Ohio
+state_abbrev: OH
+longitude: -83.72773339999999
+latitude: 41.5977575
+city_longitude: -83.8088171
+city_latitude: 39.9242266
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

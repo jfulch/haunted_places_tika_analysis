@@ -1,0 +1,21 @@
+city: East Brady
+country: United States
+description: Past sightings of fog / smoke near large pine trees. Strange noises heard in night. Blue haze said too follow visitors in the night.
+location: Brady's Bend Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.6331223
+latitude: 40.9905108
+city_longitude: -79.6131025
+city_latitude: 40.98589700000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2002/02/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

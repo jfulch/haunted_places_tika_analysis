@@ -1,0 +1,21 @@
+city: Interlochen
+country: United States
+description: This small "black box" style theatre was built in the 1920's for the Interlochen Arts Camp and is still used today by theatre majors in the Arts Camp and Academy. It was built in the 1920's with funds donated by the Grunow family, supposedly as a memorial to their young daughter, who drowned in the lake right behind where the theatre stands. Sometimes, usually late at night during rehearsals when there are only a few people are around, strange noises and giggling are heard. Lights become unplugged, things move or disappear. Alice is loved by Interlochen theater students because of her mild mischief.
+location: Grunow Theatre (Interlochen Arts Academy)
+state: Michigan
+state_abbrev: MI
+longitude: -85.769263
+latitude: 44.63123299999999
+city_longitude: -85.7676077
+city_latitude: 44.64537379999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

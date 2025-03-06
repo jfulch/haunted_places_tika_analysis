@@ -1,0 +1,21 @@
+city: Mattapoisett /Rochester
+country: United States
+description: The Ellis Bolles Cemetery People can be seen hanging by their necks from the trees surrounding the old graveyard.
+location: Wolf Island Road
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8463424
+latitude: 41.7034294
+city_longitude: -70.8405081
+city_latitude: 41.7148674
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1824/05/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

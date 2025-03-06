@@ -1,0 +1,21 @@
+city: Monahans
+country: United States
+description: in 1981 a woman was beaten, raped, and brutally murdered in the park, at night if you stand under the the water tower you can hear her screams, there have also been many sighting of strange lights near the tower
+location: Rudy park
+state: Texas
+state_abbrev: TX
+longitude: -102.8762924
+latitude: 31.5889549
+city_longitude: -102.8926536
+city_latitude: 31.5942991
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1981/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

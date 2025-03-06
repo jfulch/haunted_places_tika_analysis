@@ -1,0 +1,21 @@
+city: Salyersville
+country: United States
+description: A old Graveyard, where one peculiar grave glows! You can See this when you drive by, or either when you get out and go look at it. Old folklore say, that people had there doubts, so a person went and put a coffee sack over, and it still glowed through.
+location: Mash Fork Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -83.0714808
+latitude: 37.7397219
+city_longitude: -83.0687816
+city_latitude: 37.7525922
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

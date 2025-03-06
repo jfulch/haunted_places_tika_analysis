@@ -1,0 +1,21 @@
+city: Butte
+country: United States
+description: The old fire station, if you go into the basement there have been over 200 reports of ghost sightings since the archives were started, its not just a once in awhile experience every time you go into the basement And into the far room you can and probably will see a group of old firefighters playing a game of poker on the wall along with a few other roaming spirits, experiences range from fire alarms going off with no power running to them, from rolling cases slamming together all throughout the night, to books being hurled across the room. this haunting is definitely not to be taken lightly and it needs more professional investigation. Also one of the most peculiar events ever being heard of happening more than once is an respectable elder woman walked into the reading room and the police report says " It felt like they walked into a warm pillow" But when she got into the room It was in fact not the reading room but a ball room filled with Fire fighters in there formal wear. and when the police arrived the cop said the same thing " it was like walking into a war pillow" and sure enough there was a ballroom
+location: Archives
+state: Montana
+state_abbrev: MT
+longitude: -112.5367252
+latitude: 46.0154112
+city_longitude: -112.5347775
+city_latitude: 46.0038232
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 200

@@ -1,0 +1,21 @@
+city: Kerrville
+country: United States
+description: Apparitions of cowboys walking around the courtyard after 3am in the morning near the swimming pool and vanish.
+location: Y.O. Ranch Hotel
+state: Texas
+state_abbrev: TX
+longitude: -99.1169015
+latitude: 30.06596519999999
+city_longitude: -99.1403189
+city_latitude: 30.0474332
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

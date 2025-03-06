@@ -1,0 +1,20 @@
+city: Winchester
+country: United States
+description: People in the 3rd grade bathrooms can see the image of a scarred lady in the mirror when the lights are off, people say she is the Ghost of Mary P. Hindsdale, a founder of the school.
+location: Hindsdale Elementary
+state: Connecticut
+state_abbrev: CT
+longitude: -73.0754512
+latitude: 41.9271453
+city_longitude: -73.111356
+city_latitude: 41.9357632
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

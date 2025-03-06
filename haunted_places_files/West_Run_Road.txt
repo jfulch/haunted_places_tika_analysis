@@ -1,0 +1,21 @@
+city: Monongalia County
+country: United States
+description: Cemetery and woods are believed to be haunted. If you travel the road late at night you will notice that the hundred crosses sitting on the hill are illuminated and eerie. In fact, local witches have their Sabbaths up on this hill on their holy days.
+location: West Run Road
+state: West Virginia
+state_abbrev: WV
+longitude: -79.93737449999999
+latitude: 39.6624309
+city_longitude: -79.96403389999999
+city_latitude: 39.6695849
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

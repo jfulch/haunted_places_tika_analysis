@@ -1,0 +1,21 @@
+city: Roseburg
+country: United States
+description: You can hear people running up and down the stairs and doors opening and closing. You can hear people talking. Papers get thrown all over the floor. The lights go on after being turned off. Two people were seen running out of the bank chasing after some people walking down the street, even though the doors were shut and locked. A dog can be heard barking inside the bank. In the bathroom of the top floor a woman was seen wearing a 1920's style outfit and she's been seen and heard flushing the toilets. Loud noises can be heard like there's a room full of people talking and then is gets really silent. A man was seen walking inside the bank and then just disappeared. The bottom of the elevator always glows bright red and doesn’t work right. Almost every night after all the lights have been turned off and the doors have been locked a light on the top floor goes on and a man is seen staring out the window.
+location: Downtown Umpqua Bank on Main Street
+state: Oregon
+state_abbrev: OR
+longitude: -123.34249
+latitude: 43.209671
+city_longitude: -123.3417381
+city_latitude: 43.216505
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

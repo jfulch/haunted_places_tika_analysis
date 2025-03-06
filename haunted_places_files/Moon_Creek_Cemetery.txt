@@ -1,0 +1,21 @@
+city: Streator
+country: United States
+description: This cemetery is located just South of the city and has been known to have a "hatchet lady". Many years ago, her daughter died. The tragedy caused her to go insane and each night of a full moon a spirit is seen running around the cemetery, tossing hatchets. An Alternate story is that she was a widow who lost her son in a war. She was rumored to hang around Moon Creek until her death. Also, colored mists were seen back in the 1980s. People's vehicles have also been known to die as soon as they drive through the gate. Mysterious fires have also started when visitors have been present.
+location: Moon Creek Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.841916
+latitude: 41.0865829
+city_longitude: -88.835352
+city_latitude: 41.12086679999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

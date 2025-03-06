@@ -1,0 +1,21 @@
+city: Albuquerque
+country: United States
+description: "Albuquerque - The Aroyro - "el Yorone" the crier is the ghost of a mother whose child was drowned in the drainage ditch. It s said at night she wanders the ditch crying and searching for her lost child" - December 2003 addition - There are a few discrepancies. First off its called The Arroyo and the woman's name is "La Llorona." its an old legend told to children by their parents. Go to - www.lallorona.com for a better understanding.
+location: The Aroyro
+state: New Mexico
+state_abbrev: NM
+longitude: -106.4706505
+latitude: 35.0598914
+city_longitude: -106.6055534
+city_latitude: 35.0853336
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1706/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

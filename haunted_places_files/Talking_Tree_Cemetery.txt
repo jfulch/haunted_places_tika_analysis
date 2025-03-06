@@ -1,0 +1,21 @@
+city: Highland
+country: United States
+description: There is a rock chair that is located within the highland cemetery somewhere. Takes time to find it at night. You sit in it at night and the souls of the people who are buried there will whisper things. It is said that a breeze will pick up for no reason and people say the trees will start talking to them. it is believed that that spirits are breathing through the tree's to be heard clearer.
+location: Talking Tree Cemetery
+state: Utah
+state_abbrev: UT
+longitude: -111.8072994
+latitude: 40.4307955
+city_longitude: -111.7979285
+city_latitude: 40.4248665
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

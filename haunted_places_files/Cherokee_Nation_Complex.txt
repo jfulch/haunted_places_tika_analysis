@@ -1,0 +1,21 @@
+city: Tahlequah
+country: United States
+description: Late night workers and some day employees have seen a little girl with long black hair wandering the halls of this Native American governmental building.
+location: Cherokee Nation Complex
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.9909687
+latitude: 35.8521613
+city_longitude: -94.969956
+city_latitude: 35.91537
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

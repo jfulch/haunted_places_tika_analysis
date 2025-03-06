@@ -1,0 +1,21 @@
+city: Pearl City
+country: United States
+description: This place has numerous hauntings. It is an old hospital and asylum. A janitor working on the first floor saw the figure of a man watching him from the end of the hallway. As he continued cleaning and looked again, he noticed the figure disappeared. When he turned around he saw the same figure behind him watching him from the other end of the hall. In one of the buildings before that there is the spirit of a woman who was killed when she was run over in the 1940's or 50's. She is said to not like females and there was a report of a girl being slapped on the hand. When she told her father he did not believe until he seen the imprint of a hand on the child's hand. There are also reports of lights turning on and off, running faucets, footsteps in various buildings items being moved, and many vehicular accidents where vehicles move and crash into buildings and some vehicles being driven with no driver.
+location: Waimano Hospital
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9692192
+latitude: 21.3930193
+city_longitude: -157.9733333
+city_latitude: 21.3972222
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

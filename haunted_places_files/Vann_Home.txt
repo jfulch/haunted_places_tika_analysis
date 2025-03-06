@@ -1,0 +1,21 @@
+city: Summit
+country: United States
+description: This home we know is haunted it has been under numerous investigations. The land was the beginning of the battle of Honey Springs. Disembodied voices apparitions and objects move. Lets even say it has its own spook light. This homes owners have been attacked several times.
+location: Vann Home
+state: Oklahoma
+state_abbrev: OK
+longitude: -84.821983
+latitude: 34.763114
+city_longitude: -95.4227504
+city_latitude: 35.6659324
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

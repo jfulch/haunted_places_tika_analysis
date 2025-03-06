@@ -1,0 +1,20 @@
+city: Tipton
+country: United States
+description: In the recreation yard inside the prison walls there exists three large oak trees, it is a well known fact that when the moon is full the outline of an inmate perched atop the trees can be seen.
+location: Tipton Correctional Center
+state: Missouri
+state_abbrev: MO
+longitude: -92.7801203
+latitude: 38.6668734
+city_longitude: -92.7799153
+city_latitude: 38.655578
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/03/18
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

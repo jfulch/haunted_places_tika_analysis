@@ -1,0 +1,21 @@
+city: Sparta
+country: United States
+description: It's old, one of Sparta's first buildings. In the early 1900's it was an all girl’s school. It has now been the office for a few different real estate agencies. There was are report from an agent working for Burgdorf, that when walking down the stairs, she felt like someone grabbed her leg, causing her to fall down the stairs. Even the basement is creepy. You can see that it was the kitchen since the original fireplace is still there. When no ones else is in the building weird sounds can be heard, as if someone else is upstairs walking around.
+location: Remax Leaders
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.6373472
+latitude: 41.0307514
+city_longitude: -74.6363588
+city_latitude: 41.0334562
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 1

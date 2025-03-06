@@ -1,0 +1,21 @@
+city: Norfolk
+country: United States
+description: About 2 years ago a couple was murdered in the parking lot between Gresham Main and East. The killer(s) were never found and the couple's souls were never put to rest. It is said the woman can be fould walking around bleeding from gun shots, trying to find help for her dead husband. This usually happens towards the end of the month, and many nights in November, the month they were killed.
+location: Gresham Dorms
+state: Virginia
+state_abbrev: VA
+longitude: -76.29944019999999
+latitude: 36.8874607
+city_longitude: -76.28587259999999
+city_latitude: 36.8507689
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

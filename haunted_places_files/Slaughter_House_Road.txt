@@ -1,0 +1,19 @@
+city: Macy
+country: United States
+description: This road is about 2 miles south west of Macy and is on the east side of old U.S. 31. Years ago there was an old Slaughter house on this road. This is a gravel road and has very narrow shoulders. The remains of this building can be found during the day, but when night falls they are nowhere to be found. sometimes you can see ghosts of old cows in the field. There have also been reports of local farm animals been slaughtered right in their pastures.
+location: Slaughter House Road
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.12721839999999
+city_latitude: 40.95920900000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

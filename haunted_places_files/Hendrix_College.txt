@@ -1,0 +1,21 @@
+city: Conway
+country: United States
+description: Galloway Hall - Rumor has it that a ghost of a young woman nicknamed the "Galloway Virgin" resides in the attic. Oftentimes, one can feel a presence in the halls late at night. Noises, such as someone walking in the attic, can be heard. Cold rushes are frequent and one can even sense an immense feeling of sadness when walking up the stairs toward the locked attic.
+location: Hendrix College
+state: Arkansas
+state_abbrev: AR
+longitude: -92.4420118
+latitude: 35.1000469
+city_longitude: -92.4421011
+city_latitude: 35.0886963
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1913/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

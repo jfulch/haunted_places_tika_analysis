@@ -1,0 +1,21 @@
+city: Hickory Valley
+country: United States
+description: It is said that on the Ames Plantation, strange noises and visions are not uncommon. Sometimes late in the evening, you can hear what is said to be slaves singing and working. It is also the location of quiet a few suicides. A woman and a little girl dressed in old-fashioned clothes are the most common spirits there. They are said to be the owner of the plantation's wife and daughter.
+location: Ames Plantation
+state: Tennessee
+state_abbrev: TN
+longitude: -89.2157278
+latitude: 35.1150543
+city_longitude: -89.1278432
+city_latitude: 35.1536974
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: This building does not have a basement. The upstairs seating area is the area that is supposed to be haunted.
+location: Spaghetti Warehouse (downtown)
+state: Texas
+state_abbrev: TX
+longitude: -96.8075636
+latitude: 32.7826585
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

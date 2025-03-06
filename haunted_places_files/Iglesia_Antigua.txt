@@ -1,0 +1,21 @@
+city: Santa Maria
+country: United States
+description: in this church you can here noises at night. there is a tunnel under the church. it was a cemetery.
+location: Iglesia Antigua
+state: Texas
+state_abbrev: TX
+longitude: -97.8494421
+latitude: 26.0786883
+city_longitude: -97.8494421
+city_latitude: 26.0786883
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1983/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

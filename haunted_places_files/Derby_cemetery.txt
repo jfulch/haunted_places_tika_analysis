@@ -1,0 +1,21 @@
+city: Derby
+country: United States
+description: you can often read the tombstones, and you'll all of a sudden feel that someone is their, it is un explainable. it is also said apparitions can be seen every once in a while
+location: Derby cemetery
+state: Kansas
+state_abbrev: KS
+longitude: -97.2628773
+latitude: 37.5413175
+city_longitude: -97.2689331
+city_latitude: 37.5455735
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

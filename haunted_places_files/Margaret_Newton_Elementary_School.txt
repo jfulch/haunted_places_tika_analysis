@@ -1,0 +1,21 @@
+city: Tiptonville
+country: United States
+description: Some have seen in the storage room. Some in janitor’s room. She is not mean, but she will hurt you she has thrown brooms and chairs at some of the kids.
+location: Margaret Newton Elementary School
+state: Tennessee
+state_abbrev: TN
+longitude: -89.47488229999999
+latitude: 36.3776881
+city_longitude: -89.47201930000001
+city_latitude: 36.3783984
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

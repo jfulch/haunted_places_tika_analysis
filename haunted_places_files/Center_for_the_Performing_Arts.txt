@@ -1,0 +1,21 @@
+city: Edinboro
+country: United States
+description: The PAC is supposedly haunted by a ghost those in the theatre department have named Dorothy, after a theatre professor rumored to have died in her home not far from campus.  Reported events include foot steps on the back stairs and on the track running around the stage area as well as fluctuations in the sound system volume (which seemed to cease after someone hung a rosary on the volume knob).  During a few sold out performances, actors on stage reported seeing a vague face that seemed to move from chair to chair as if looking for an empty seat.  These sightings appeared to stop after casts started setting a chair with a program on it along the track facing the stage.
+location: Center for the Performing Arts
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.127636
+latitude: 41.8701128
+city_longitude: -80.1317236
+city_latitude: 41.87422249999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

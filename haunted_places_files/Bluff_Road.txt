@@ -1,0 +1,21 @@
+city: Montebello
+country: United States
+description: Near the intersection of Washington and Bluff Road, at the site of the Battle of the Rio San Gabriel that took place in 1847. Spanish soldiers have been seen walking around and sometimes follow passers-by.
+location: Bluff Road
+state: California
+state_abbrev: CA
+longitude: -118.1116882
+latitude: 33.9918443
+city_longitude: -118.1137535
+city_latitude: 34.0165053
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1847/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

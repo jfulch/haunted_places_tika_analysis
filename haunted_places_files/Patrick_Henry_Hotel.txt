@@ -1,0 +1,21 @@
+city: Roanoke
+country: United States
+description: There are many ghosts here. There are 3 men in the ballroom who stand and watch. An elderly woman died here in one of the room and you can still feel her presence. There is also a man sitting at one of the tables on the second floor, kicking the tablecloth with his foot and smoking a pipe
+location: Patrick Henry Hotel
+state: Virginia
+state_abbrev: VA
+longitude: -79.9408098
+latitude: 37.268654
+city_longitude: -79.9414266
+city_latitude: 37.2709704
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Port Arthur
+country: United States
+description: A lady got her head cut off by a train one night trying to cross it when it had stopped. every now and then you can see a lady walking down the tracks and when you go look for her she disappears.
+location: West 7th railroad crossing
+state: Texas
+state_abbrev: TX
+city_longitude: -93.939947
+city_latitude: 29.8849504
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

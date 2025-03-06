@@ -1,0 +1,21 @@
+city: Independence
+country: United States
+description: A man was hung sometime in the late 1800's to the early 1900's there, but when they did his neck didn?t snap, so he died slowly. Now he is supposed to haunt the building at night, walking around the building. a man who spent the night in one of the cells, said he saw it, but that it was a man hanging from a rope that went up into the ceiling. He isn't a very credible person though.
+location: Buchanan County Court House
+state: Iowa
+state_abbrev: IA
+longitude: -91.8886627
+latitude: 42.4703551
+city_longitude: -91.8893386
+city_latitude: 42.4685978
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

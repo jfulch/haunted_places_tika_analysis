@@ -1,0 +1,21 @@
+city: Wilsonville
+country: United States
+description: If you drive by at night and look in the first window on the third floor you will see a man standing there peering out, even thought the building is no longer inhabited. You can smell rotten bandages as you drive by so strong that you will have to close the windows.
+location: Dammach State Mental Institution
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.73642009999999
+latitude: 41.4816045
+city_longitude: -75.17944
+city_latitude: 41.45194
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1782/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

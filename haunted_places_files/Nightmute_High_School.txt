@@ -1,0 +1,21 @@
+city: Nightmute
+country: United States
+description: There is said that there is a little girl roaming and haunting the whole school. Staff members and students have seen and heard her. She would sometimes hum, appear in both the boys and girls bathrooms, turns lights off and on, and bounce a basketball. No one really knows how she died but it is said that there is a grave under the classroom 106, and she is mostly in that classroom.
+location: Nightmute High School
+state: Alaska
+state_abbrev: AK
+longitude: -164.7224104
+latitude: 60.4769318
+city_longitude: -164.7238888
+city_latitude: 60.4794444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 10h 52m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

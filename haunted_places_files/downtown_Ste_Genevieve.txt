@@ -1,0 +1,20 @@
+city: Ste. Genevieve
+country: United States
+description: a lot of the places in the downtown area are claimed to be haunted by people who lived in all of the old houses. (Ste. Gen was the 1st settlement west of the Mississippi, so it is really old) the Valle house across from Valle School and the Catholic Church is claimed to be haunted by the 1st owners of the house and their dogs. There have been reported cold spots and sometimes in storms or late at night you can hear the dogs running up and down the halls of the house.
+location: downtown Ste. Genevieve
+state: Missouri
+state_abbrev: MO
+longitude: -90.0475582
+latitude: 37.9786618
+city_longitude: -90.0475582
+city_latitude: 37.9786618
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1817/12/10
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

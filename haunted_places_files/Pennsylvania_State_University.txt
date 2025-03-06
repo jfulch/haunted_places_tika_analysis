@@ -1,0 +1,21 @@
+city: State College
+country: United States
+description: The basement of one of the dorms - holds the stuffed remains of Penn State's first mascot, Old Coaly the mule. His ghost is Said to be heard braying down there some nights.
+location: Pennsylvania State University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.8599084
+latitude: 40.7982133
+city_longitude: -77.8600012
+city_latitude: 40.7933949
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

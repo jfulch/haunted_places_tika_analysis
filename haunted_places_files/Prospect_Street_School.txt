@@ -1,0 +1,21 @@
+city: Hermosa Beach
+country: United States
+description: Now used as storage for the city, witness have reported hearing little children's voices but the school has longed been closed
+location: Prospect Street School
+state: California
+state_abbrev: CA
+longitude: -118.3905471
+latitude: 33.869047
+city_longitude: -118.3995194
+city_latitude: 33.8622366
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

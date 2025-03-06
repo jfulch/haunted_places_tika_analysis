@@ -1,0 +1,21 @@
+city: Pigeon Forge
+country: United States
+description: It's said to be haunted by an old lady who was killed working late...They say that you can see her shadow watching you from wherever you stand, on the same day as her death.
+location: Family Inn by Dixie Stampede
+state: Tennessee
+state_abbrev: TN
+longitude: -83.546905
+latitude: 35.779649
+city_longitude: -83.55433289999999
+city_latitude: 35.7884241
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2017/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

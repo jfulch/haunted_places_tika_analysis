@@ -1,0 +1,21 @@
+city: Big Spring
+country: United States
+description: A ghost named Harold reportedly haunts the auditorium. It is said that he fell from the catwalk while hanging up the lights. There is even a strange footprint on the ceiling. When people paint over the footprint, it reappears. Witnesses have also claimed to see him walking around backstage with a flashlight.
+location: Big Spring High School
+state: Texas
+state_abbrev: TX
+longitude: -101.4657043
+latitude: 32.2463041
+city_longitude: -101.4787355
+city_latitude: 32.2503979
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

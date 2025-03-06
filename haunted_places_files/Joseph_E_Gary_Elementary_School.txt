@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: there is an statue of an owl nearly on the roof. Sometimes the owl changes location from being near a window to being completely on the roof.
+location: Joseph E. Gary Elementary School
+state: Illinois
+state_abbrev: IL
+longitude: -87.7187629
+latitude: 41.83787969999999
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

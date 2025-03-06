@@ -1,0 +1,21 @@
+city: Albuquerque
+country: United States
+description: The Corner Room - >From one of the staff, the corner room, of this big hotel is haunted by a young broken hearted lady, where her once true love killed her because he wanted her out of her life. She is said to only be on the bottom floor, where she is said to haunt the lobby and the corner room where she was killed. When the service ladies go to clean the corner room, they find that the room is all messed up, bed sheets all aver the place, the TV knocked down, and the curtains all torn and up. This activity went on so long that management just closed off the room and don't rent it out anymore. But often, staff still visits the corner room. And it's all messed up.
+location: Ramada Hotel
+state: New Mexico
+state_abbrev: NM
+longitude: -106.5304919
+latitude: 35.0840507
+city_longitude: -106.6055534
+city_latitude: 35.0853336
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1769/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

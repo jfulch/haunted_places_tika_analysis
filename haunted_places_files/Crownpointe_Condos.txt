@@ -1,0 +1,21 @@
+city: Riverview
+country: United States
+description: As you enter, sometimes you can see a girl with long black hair and an old peasant dress. She fades away as you enter. Your hair stands on end when you enter and inside the condos you hear noises, things are lost, and it's always VERY cold.
+location: Crownpointe Condos
+state: Michigan
+state_abbrev: MI
+longitude: -83.19810129999999
+latitude: 42.1843391
+city_longitude: -83.1793697
+city_latitude: 42.1742073
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

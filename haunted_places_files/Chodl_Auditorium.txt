@@ -1,0 +1,21 @@
+city: Cicero
+country: United States
+description: A teacher\director is said to haunt the theater. According to legend he died of a heart attack the opening night of West Side Story and never got to see the production. Students have claimed to see and feel a presence in the theatre especially later at night after long rehearsals . West Side Story hasn't been put on out of respect but once since his death.
+location: Chodl Auditorium
+state: Illinois
+state_abbrev: IL
+longitude: -87.77144919999999
+latitude: 41.8464075
+city_longitude: -87.7539448
+city_latitude: 41.8455877
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

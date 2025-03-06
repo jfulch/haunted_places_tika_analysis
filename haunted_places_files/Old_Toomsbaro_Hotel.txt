@@ -1,0 +1,20 @@
+city: Toomsboro
+country: United States
+description: Weird lights and noises can be heard and seen late at night. When the hotel was undergoing restoration, it was said that things would be moved around or just... disappeared.
+location: Old Toomsbaro Hotel
+state: Georgia
+state_abbrev: GA
+longitude: -82.542868
+latitude: 35.620178
+city_longitude: -83.07931599999999
+city_latitude: 32.8268192
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

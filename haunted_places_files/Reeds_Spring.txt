@@ -1,0 +1,20 @@
+city: Stone
+country: United States
+description: Middle School Gym - Late at night a basketball can be heard as if the person who used to play for the school team was still there. Many years ago he was killed when a group of buddies skipped school to run around. His funeral was held in the gym with his coffin located underneath the goal that the ghost plays his basketball.
+location: Reeds Spring
+state: Missouri
+state_abbrev: MO
+longitude: -93.3779641
+latitude: 36.7497827
+city_longitude: -93.4599326
+city_latitude: 36.7748882
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/06/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

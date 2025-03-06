@@ -1,0 +1,21 @@
+city: East Otis
+country: United States
+description: A soldier in his late teens/early 20's from the Revolutionary or Civil war likes to play practical jokes on people.  He likes to turn lights on after they have been shut off.  Sometimes a person may feel as if their shirt is caught on something which is preventing them from moving but they are not caught on anything, it is just "Jake" holding you back.  People that have seen him have stated they he appears and then just disappears moments later.  He will not appear to you, though, if you go looking for him.
+location: Knox Trail Inn
+state: Massachusetts
+state_abbrev: MA
+longitude: -73.035376
+latitude: 42.173468
+city_longitude: -73.0345483
+city_latitude: 42.1734237
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

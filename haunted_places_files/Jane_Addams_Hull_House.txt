@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: Now a museum, said to have been the home of a devil baby. Sightings are still reported, as well as sightings of ghosts and Monks. Update - A fellow ghost hunter recently visited the Hull House stating, "if your there to experience anything to do with ghost forget it, you can't take camera's, video's or anything in there. You can't go upstairs, the tour consist of four small rooms. Ghost hunters don’t waste your time. We talk to one of staff who works there and she said it's not true about the devil baby, they just let the legend go on."
+location: Jane Addams Hull House
+state: Illinois
+state_abbrev: IL
+longitude: -87.647437
+latitude: 41.871626
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

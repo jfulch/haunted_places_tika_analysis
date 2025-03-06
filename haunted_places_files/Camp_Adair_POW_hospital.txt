@@ -1,0 +1,19 @@
+city: Adair Village
+country: United States
+description: Near the village - Now abandoned and dilapidated, the POW hospital buildings of 1940s Camp Adair housed injured/ill German and Italian POWs during the Second World War. A number of POWs perished before the end of hostilities. Phenomena include EVP recordings of squeaking bedsprings (none are housed in the hospital), footsteps, and an intense sense of being menacingly observed by unseen eyes from within the buildings.
+location: Camp Adair POW hospital
+state: Oregon
+state_abbrev: OR
+city_longitude: -123.2178759
+city_latitude: 44.6706762
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

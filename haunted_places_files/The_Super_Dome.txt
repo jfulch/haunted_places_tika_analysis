@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: During Hurricane Katrina, numerous people were killed in the Superdome. There were two suicides, people were raped and murdered, and others died from natural causes. Apparitions roam around during games and at night or through the day.
+location: The Super Dome
+state: Louisiana
+state_abbrev: LA
+longitude: -90.0812442
+latitude: 29.951061
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

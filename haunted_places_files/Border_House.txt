@@ -1,0 +1,21 @@
+city: Maple Falls
+country: United States
+description: Burned down in 1985 - You take the only road N out of Maple Falls. Follow it about 6-7 miles, go past a lake. Keep on going until it begins to turn abruptly west. Border House is on the N side of the road; its back fence was/is the Canadian Border. It is the northernmost point on that road. The house faced south. A small creek ran through the front yard near the road. There were balls of light, voices, sounds of an elderly couple knocking at the door (the nearest house is 3 miles away). Faucets and lights would turn on and off at will. You could even feel and experience the hauntings during the daytime. Reports of visitors having an overwhelming urge to commit suicide. Rumor has it that the house was a way station for smuggled Chinese coolies back in about 1900. They were illegal in the USA but not in Canada, so they were smuggled in. There was a US border raid and many of the Chinese workers were herded into that upstairs room, summarily shot, and buried or dumped elsewhere.
+location: Border House
+state: Washington
+state_abbrev: WA
+longitude: -122.0793149
+latitude: 48.92402879999999
+city_longitude: -122.077093
+city_latitude: 48.9242888
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1985/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

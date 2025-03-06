@@ -1,0 +1,21 @@
+city: Covington
+country: United States
+description: It is heard that there are screams, and some people have seen little girls walking around. It is believed that in the 1800s little girls died of the bubonic plague. Most of the graves are coming out of the ground.
+location: Fall Brook Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.974572
+latitude: 41.68740400000001
+city_longitude: -77.1255055
+city_latitude: 41.7271918
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Evergreen
+country: United States
+description: Surrounding Forest - Believed to be haunted by the Indians that lived their Hundreds of years ago.
+location: Brook Forest Inn
+state: Colorado
+state_abbrev: CO
+longitude: -105.3819629
+latitude: 39.5794866
+city_longitude: -105.3172146
+city_latitude: 39.6333213
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

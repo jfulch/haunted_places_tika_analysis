@@ -1,0 +1,21 @@
+city: Woodville
+country: United States
+description: A man ghost and the sounds of Indian drums that you can here echoing in the distance foot steps that can be heard but never a person to make them. At the end of the road sights of shadowy figures can be seen.
+location: Foster Hill
+state: Texas
+state_abbrev: TX
+longitude: -94.2626723
+latitude: 30.8335542
+city_longitude: -94.4154758
+city_latitude: 30.7752011
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

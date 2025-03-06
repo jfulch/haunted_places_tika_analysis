@@ -1,0 +1,20 @@
+city: Greenville
+country: United States
+description: Update: also known as Devil's Castle - Has since burned down - Reports of footsteps that break into a run, then screams, on the first floor. On the third floor feelings of being pushed accompanied by loud clattering in the hall and items moving, and apparitions. Singing has been heard- Formerly listed as Taylors - TB Asylum then a work release prison, & Travelers Rest - TB hospital/Insane Asylum.
+location: Old Tuberculosis Hospital
+state: South Carolina
+state_abbrev: SC
+longitude: -82.3733273
+latitude: 34.8975971
+city_longitude: -82.3940104
+city_latitude: 34.85261759999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

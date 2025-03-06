@@ -1,0 +1,21 @@
+city: Albany
+country: United States
+description: Its a long dirt road, originally w/ 7 churches but you only see 4. People have sited a little girl in a white dress walking down the road and many different ghosts. There has also said to be in the 4th church that if you try to take the bible away then it will not let you out. There have been many sites of pure evil spirits. - December 2003 update - this area is patrolled by the police and you will be arrested for trespassing.
+location: 7 churches (Hardup dr.)
+state: Georgia
+state_abbrev: GA
+longitude: -84.2101854
+latitude: 31.4393433
+city_longitude: -84.15574099999999
+city_latitude: 31.5785074
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

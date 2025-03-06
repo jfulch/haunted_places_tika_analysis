@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: the ghost of a Union soldier in blue haunts this theatre. During the Civil War, the theatre belonged to the Wade family, a friendly and well-known family who open their home to poverty-stricken families in search of a home. One day a severely-wounded Confederate soldier was taken into the home in the attempt to heal him from his wounds and save his life. Unfgrtunately, the soldier later died. The next day, Union soldier entered the Wade home in search of Confederates taken refuge in Williamsburg. When the Confederate soldier was revealed to the soldiers, it turned the Confederate soldier was brother to one of the Union soldiers who had entered the Wade Home. Grief-stricken, the Union soldier sobbed uncontrollably. The soldier later died on the battle fields in Richmond. His ghost is said to be wandering the halls of the theatre, desperately searching for his fallen brother in order to make amends with him.
+location: The Williamsburg Theatre
+state: Virginia
+state_abbrev: VA
+longitude: -76.7248879
+latitude: 37.2884667
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1913/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

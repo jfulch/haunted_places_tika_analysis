@@ -1,0 +1,21 @@
+city: Enola
+country: United States
+description: Summerdale Fire Station - Its said that a long time member who died years back still haunts the station. You can sometimes feel a strange feeling of being watched when you walk into the station. Also was said that at nighttime , the live-in members would hear strange noises and the bunkroom door would fly open with no one near it
+location: Summerdale
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.935181
+latitude: 40.303078
+city_longitude: -76.9338636
+city_latitude: 40.2900885
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1835/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

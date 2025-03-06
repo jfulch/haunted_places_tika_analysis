@@ -1,0 +1,18 @@
+city: Springfield
+country: United States
+description: A former employee of the plant who was killed in a workplace accident is known to turn lights on and off, and is a nuisance to the businesses that occupy the building now by tossing paper and rubbish around.
+location: Old "houn dawg" rendering plant
+state: Missouri
+state_abbrev: MO
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2009/12/25
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

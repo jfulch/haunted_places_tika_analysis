@@ -1,0 +1,21 @@
+city: Morgantown
+country: United States
+description: In the early 1970's, two college students were hitchhiking for a ride back to their dorms on Evansdale Campus. Apparently, they were picked up in the downtown area and not found again for months. Their decapitated bodies were later discovered near the lake, but the heads were no where to be found. The murderer and the case still remain a mystery today. It is believed however, that the two girls roam the woods near the lake, searching for their heads. Many car accidents have been reported on Route 857 North because of blurry apparitions of two girls running back and forth through the woods, distracting late night traffic.
+location: Cheat Lake
+state: West Virginia
+state_abbrev: WV
+longitude: -79.85339069999999
+latitude: 39.6720244
+city_longitude: -79.95589679999999
+city_latitude: 39.629526
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2023/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Scranton
+country: United States
+description: A long while back the Tuberculosis patients were sent there to live and be treated. During a massive fire hundreds of patients died and are believed to haunt the place.
+location: West Mountain Sanitarium
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.71502799999999
+latitude: 41.4359736
+city_longitude: -75.66241219999999
+city_latitude: 41.408969
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

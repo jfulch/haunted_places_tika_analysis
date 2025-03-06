@@ -1,0 +1,21 @@
+city: Eddyville
+country: United States
+description: a 9 year old girl named Lisa is said to haunt this bathroom. she was stabbed and her ghost now haunts the restroom. you can hear her knocking on the door, screaming, shadows on the walls, water coming on, and misplaced items. it is also said that she has torn down the doors to the stalls.
+location: Lyon county elem. gymnasium girls bathroom
+state: Kentucky
+state_abbrev: KY
+longitude: -88.080756
+latitude: 37.0938064
+city_longitude: -88.080301
+city_latitude: 37.09449710000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/07/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

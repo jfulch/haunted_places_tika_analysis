@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: Doors slamming and running footsteps heard in the women’s restroom. And an apparition of a woman in a pure white 50's style dress with pure white skin and pure white clothes as was her hair.
+location: Home Town Buffet at 636 Lancaster Dr
+state: Oregon
+state_abbrev: OR
+longitude: -122.9818531
+latitude: 44.9383427
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Omaha
+country: United States
+description: At Omaha South High School, there is a ghost. The ghost's name is Gus. About 20-25 years ago there was a tornado drill. So everyone had to go to the "Catacombs" as we call them. This was a part of the building that was built when the performing arts part of the building was built. It was the 50's so it was built, to be a nuclear fallout shelter. Well during this tornado drill everyone went down to the catacombs. Gus, a janitor for the Performing Arts part of the building, thought that they would be there for a while. So he went to the "Rat Room" to get some provisions for everyone. He closed the door behind him, went to get a barrel of food, when it fell on him, and crushed his head. He was not found until he had been dead for a while. Now Gus still roams the Performing Arts section of the building, even after it was remolded about 10 years ago. The strange thing is that if you are in a play there and you don't believe in Gus he will mess you up. As in you mess up your lines, cues, entrances, etc. He also likes to be in the Green Room, which is right next to the Catacombs; he leaves lights on and open doors.
+location: Omaha South High School
+state: Nebraska
+state_abbrev: NE
+longitude: -95.9463689
+latitude: 41.2136804
+city_longitude: -95.9979883
+city_latitude: 41.2523634
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

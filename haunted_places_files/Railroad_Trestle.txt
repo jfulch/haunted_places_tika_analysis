@@ -1,0 +1,21 @@
+city: Lehighton
+country: United States
+description: Local residents say an apparition of a young woman can be found walking along the trestle in white, and then disappears halfway across it as if heading to Packerton.
+location: Railroad Trestle
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.15008499999999
+latitude: 39.7823509
+city_longitude: -75.7138008
+city_latitude: 40.8337029
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

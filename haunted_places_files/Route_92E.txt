@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: there is rumored to be a black panther that roams the forests at night and then disappear. Locals call it the Mulberry Black Thing.
+location: Route 92E
+state: Kentucky
+state_abbrev: KY
+longitude: -84.1546919
+latitude: 36.7330785
+city_longitude: -84.15965609999999
+city_latitude: 36.7434169
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

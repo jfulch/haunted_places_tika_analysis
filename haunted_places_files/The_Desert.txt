@@ -1,0 +1,21 @@
+city: Anthem
+country: United States
+description: In 1986, a couple in the desert were camping when they saw the ghosts of Indians riding horses, and shooting arrows at them. Every year there has been a man seen holding a lantern, trying to hitchhike to Phoenix. It has been reported that this man was killed when a car ran him over. The ghosts of several coyotes and deer can be seen in New River. They were killed by hunters and they will try to attack tourists who try to touch them.
+location: The Desert
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1482843
+latitude: 33.8675098
+city_longitude: -112.1251372
+city_latitude: 33.8543346
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1986/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

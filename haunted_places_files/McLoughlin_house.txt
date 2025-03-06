@@ -1,0 +1,21 @@
+city: Oregon city
+country: United States
+description: the McLoughlin house is a historical house turned into a museum it is haunted by Dr. John Mcloughlin and his wife.
+location: McLoughlin house
+state: Oregon
+state_abbrev: OR
+longitude: -122.6057273
+latitude: 45.35720370000001
+city_longitude: -122.6067584
+city_latitude: 45.3573429
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1953/06/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Yakima
+country: United States
+description: Most of the occurrences happen on the elevator and around the morgue, the elevator opens and closes, goes up and down with no one in it. Cold Drafts inside the elevator. Near the morgue it always seems like someone is watching you, but that’s only by the morgue, you also catch some thing in the corner of your eye someone walking or running or sitting down, but when you turn to see them fully they disappear.
+location: Yakima Memorial Hospital
+state: Washington
+state_abbrev: WA
+longitude: -120.5476355
+latitude: 46.5937545
+city_longitude: -120.5058987
+city_latitude: 46.6020711
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

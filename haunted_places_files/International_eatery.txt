@@ -1,0 +1,21 @@
+city: Bartonsville
+country: United States
+description: In the early 90's the site of a female apparition was sighted walking into the kitchen. The desk was also said to contain a spirit which opened and closed drawers. The building is now Dale's coffee bar
+location: International eatery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.2681725
+latitude: 40.5082218
+city_longitude: -75.2776634
+city_latitude: 41.0038964
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

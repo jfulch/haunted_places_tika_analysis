@@ -1,0 +1,21 @@
+city: Concord
+country: United States
+description: Glasses have been seen moving across the tables. Voices heard in the dining room and kitchen. People that live above the restaurant hear things late at night.
+location: Siam Orchid Thai Restaurant
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.5354987
+latitude: 43.20465
+city_longitude: -71.5375718
+city_latitude: 43.2081366
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

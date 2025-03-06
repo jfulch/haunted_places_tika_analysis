@@ -1,0 +1,21 @@
+city: Santa Clarita
+country: United States
+description: When sitting at the bar, people are constantly looking over their shoulders back at the front door, seeing things out of the peripheral vision.
+location: The Egg Plantation
+state: California
+state_abbrev: CA
+longitude: -118.5306342
+latitude: 34.3803161
+city_longitude: -118.542586
+city_latitude: 34.3916641
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

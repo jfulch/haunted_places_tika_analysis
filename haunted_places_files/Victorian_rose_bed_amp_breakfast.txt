@@ -1,0 +1,21 @@
+city: Ventura
+country: United States
+description: Used to be a church on Main St. in Ventura. Emperor's bedroom is the most haunted room. It used to be a choir loft. Many years ago, a lady in the choir fell from the loft and unfortunately didn't survive. Occasionally, guests in the room have heard her singing. Other non-paying guests include a minister that sometimes tuck guests into bed in the timeless treasures room. In the Fleur-De-Lis room, guests have sometimes enjoyed foot massages, only to realize that their partner is asleep. In the large central lobby area, footsteps have been heard, even though no one else was in the room at the time.
+location: Victorian rose bed &amp; breakfast
+state: California
+state_abbrev: CA
+longitude: -88.29523549999999
+latitude: 42.1666332
+city_longitude: -119.2290316
+city_latitude: 34.274646
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

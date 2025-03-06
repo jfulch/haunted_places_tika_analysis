@@ -1,0 +1,21 @@
+city: Horsham
+country: United States
+description: County Line Road - In the 1700's a young woman was decapitated by a British solider in the revolutionary war. Ever since the tragedy you can see her walking around her house at midnight searching for her lost head. - December 2005 Correction/Additional Information: is the former home of a colonial Pennsylvania governor. Also known as Graeme Park.
+location: Keith House
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.1516676
+latitude: 40.2176957
+city_longitude: -75.1285061
+city_latitude: 40.1784422
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bronx
+country: United States
+description: In the fields at the edge of this small beach town, stands an old abandoned farmhouse overlooking the water. People say that a large mansion once accompanied the farmhouse. The residents of the mansion were very wealthy and many people were jealous of them. One man went to the extreme and caught their house on fire. The entire house was destroyed, but the family was able to escape to the farmhouse in time. The police came to investigate, but feared the people of Silver Beach would move if they heard about the arson. The police simply said that there was a tragic fire and the family had died. They even went as far as to say the field could be used for children to play. The suspect was never found, and the family continued to live secretly in the farmhouse. In 1950, ten years after the fire, the suspect who set the fire returned. He murdered the entire family the night before Halloween by stabbing them to death. The next evening, a group of teenagers came to the field to hang out. The young daughter, who had been able to escape the murderer, was going crazy looking for her family. The teens watched in horror as she ran to the water and dived in. She drowned instantly, since she was unable to swim. They reported the incident to the police. They searched everywhere but the girl was never found. The only description the teenagers could give of the girl was that she had strawberry colored hair. Every Halloween since the incident, the girl's ghost can be seen frantically searching for her family and the murderer.
+location: Strawberry Fields of Silver Beach Gardens
+state: New York
+state_abbrev: NY
+longitude: -73.8088319
+latitude: 40.8134786
+city_longitude: -73.8648268
+city_latitude: 40.8447819
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

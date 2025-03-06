@@ -1,0 +1,21 @@
+city: Goreville
+country: United States
+description: Various sightings and sounds have been reported through the years. Civil War infantry have been seen walking around, ghost cowboys, and other apparitions have been seen. Also, it is reported that if you drive through there after ten PM, you will see no wildlife in that area until 6 AM.
+location: Happy Hollow
+state: Illinois
+state_abbrev: IL
+longitude: -88.9976566
+latitude: 37.5340913
+city_longitude: -88.9722932
+city_latitude: 37.5544953
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

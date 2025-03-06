@@ -1,0 +1,21 @@
+city: Overland Park
+country: United States
+description: Old Stanley Hotel - Old gentlemen that resided in the hotel who suffered from schizophrenia frequently saw a woman in a white dress floating over his armoire and when he would reach out to her she would disappear. Since years have passed several unexplained incidents have occurred i.e.; The 3rd floor of the old hotel caught fire on July 4th, 1983 and during the fire some say they saw the devil in the flames. Several occasions footsteps have been heard coming from the 3rd floor and one incident a person was seen on the 3rd floor, but no one was ever found. Window shades roll up and down by themselves. The original owner of the hotel was killed in front of the house, run over by a horse and buggy. His wife, Maude, never recovered and always felt George was still with her in the hotel. The hotel is now 126 years old and still today the unexplained still occurs.
+location: Stanley
+state: Kansas
+state_abbrev: KS
+longitude: -94.6657907
+latitude: 38.8544521
+city_longitude: -94.6707917
+city_latitude: 38.9822282
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1909/07/04
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

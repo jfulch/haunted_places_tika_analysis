@@ -1,0 +1,20 @@
+city: Philadelphia
+country: United States
+description: Former Philadelphia High School superintendent Mr. J.E. Hurdle is said to haunt the school. After numerous problems resulting from integration (as well as other personal matters), Mr. Hurdle shot himself in the late sixties. His spirit is said to roam the hall near his old office, and students at the school late at night have noticed lights going on and off by themselves in the room that used to house his office and doors slamming shut.
+location: Philadelphia High School
+state: Mississippi
+state_abbrev: MS
+longitude: -89.1119264
+latitude: 32.7739283
+city_longitude: -89.1167275
+city_latitude: 32.7715227
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

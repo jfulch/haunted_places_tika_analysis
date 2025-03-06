@@ -1,0 +1,21 @@
+city: Elgin
+country: United States
+description: Custodians, teachers, and students have all heard the sound of running and basketballs late at night in the gymnasium. One year, to a basketball game, two high school lovers were killed in a car wreck, never making the game. At night in the old school, you can hear the sounds of basketballs and running echo throughout the school.
+location: Elgin High School
+state: Oregon
+state_abbrev: OR
+longitude: -117.9241649
+latitude: 45.5628204
+city_longitude: -117.917434
+city_latitude: 45.5648612
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1957/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

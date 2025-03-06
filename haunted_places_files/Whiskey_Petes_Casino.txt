@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: Whiskey Pete's ghost is watching players play in his casino.
+location: Whiskey Pete's Casino
+state: Nevada
+state_abbrev: NV
+longitude: -115.3924581
+latitude: 35.6117302
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/12/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

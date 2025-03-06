@@ -1,0 +1,20 @@
+city: Garfield Heights
+country: United States
+description: On this bridge is the ghost of a man who fishes off the bridge. People have reported him whispering in their ears while fishing.
+location: Garfield Park Bridge
+state: Ohio
+state_abbrev: OH
+longitude: -81.60878060000002
+latitude: 41.4317017
+city_longitude: -81.6059581
+city_latitude: 41.4169974
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

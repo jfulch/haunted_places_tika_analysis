@@ -1,0 +1,21 @@
+city: West Chester
+country: United States
+description: Pennhurst State Hospital and School -  It is said that on nights of the full moon you can hear the voices of those that where inmates of Pennhurst howl madly at the moon.
+location: Spring City
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.5476876
+latitude: 40.1767688
+city_longitude: -75.6054882
+city_latitude: 39.9606643
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1946/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

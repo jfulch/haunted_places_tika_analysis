@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: there is a ghost of a young man that rides the elevator up and down and rubs and pats women. He is said to have lived there when it was a house and was confined to a wheelchair so the elevator was put in so he could get from floor to floor.
+location: Jefferson County Library
+state: Indiana
+state_abbrev: IN
+longitude: -85.38422899999999
+latitude: 38.737326
+city_longitude: -85.37995769999999
+city_latitude: 38.7358933
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1995/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

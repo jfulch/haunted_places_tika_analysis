@@ -1,0 +1,19 @@
+city: Sweetwater
+country: United States
+description: Several ghosts have been reported in this now bed and breakfast that has served as a field hospital in the civil war and an insane asylum in the early 1900s. Workers have spotted a civil war general in reflections throughout the house. The distinct sound of nurse's high heeled shoes walking down 13 concrete steps is heard often, although the stairs have been carpeted for many years. Items are commonly found misplaced in the back of random cabinets, and many visitors report feeling different presences.
+location: Mulberry Manor
+state: Texas
+state_abbrev: TX
+city_longitude: -100.4059384
+city_latitude: 32.4709519
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

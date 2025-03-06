@@ -1,0 +1,19 @@
+city: Dawson
+country: United States
+description: The site of the two worst mine collapses in history which happened ten years apart and killed over 300 men. There is an obvious forlorn feeling as you walk around and the immigrant diversity is grand. It feels as if all the spirits are waiting for something and are watching you, expecting some sort of change.
+location: Dawson Cemetery
+state: New Mexico
+state_abbrev: NM
+city_longitude: -104.7747179
+city_latitude: 36.6641997
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

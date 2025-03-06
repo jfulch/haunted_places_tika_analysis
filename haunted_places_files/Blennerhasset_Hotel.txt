@@ -1,0 +1,21 @@
+city: Parkersburg
+country: United States
+description: The legs of a young man is said to run around the hotel and also there are tales of a young woman playing the piano and the strong smell of cigar smoke in a certain room.
+location: Blennerhasset Hotel
+state: West Virginia
+state_abbrev: WV
+longitude: -81.561615
+latitude: 39.264936
+city_longitude: -81.56151349999999
+city_latitude: 39.2667418
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

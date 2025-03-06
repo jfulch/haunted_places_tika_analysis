@@ -1,0 +1,20 @@
+city: Winona
+country: United States
+description: Heffron Hall - Bishop Heffron was killed by Father Lesches back in 1915. Heffron Hall was built in honor of Bishop Heffron. To this day, it is said to be haunted by Father Lesches. He has been seen several times on the 3rd and4th Floors.
+location: St. Mary's College
+state: Minnesota
+state_abbrev: MN
+longitude: -91.6959211
+latitude: 44.0447762
+city_longitude: -91.6663523
+city_latitude: 44.0553908
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1915/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

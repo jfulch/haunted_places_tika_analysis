@@ -1,0 +1,21 @@
+city: Topeka
+country: United States
+description: The studio has been in the basement of a home since 1942. Dorothy passed away in 1988 and all of this started then. There have been what sounds like 150 people tap dancing at 3 am. The lights go off and on by themselves. An old broken down piano plays Sweet Georgia Brown and Tea For Two by it's self late at night. Music boxes turn on by themselves. Footsteps in the attic. Lots of whispering and the stereo will turn on by its self.
+location: Dorothy Thomas School of Dance
+state: Kansas
+state_abbrev: KS
+longitude: -95.70975
+latitude: 39.0292975
+city_longitude: -95.6890185
+city_latitude: 39.0558235
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1942/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

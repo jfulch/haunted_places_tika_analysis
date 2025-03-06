@@ -1,0 +1,20 @@
+city: Belleview
+country: United States
+description: In the 80's a child that was in Kindergarten fell off the swing set and was killed.  It is said that on a day when the wind is calm, the swing will swing by itself.  Also, the playful child runs the halls, as you can hear him at night.
+location: Belleview School
+state: Missouri
+state_abbrev: MO
+longitude: -90.7487825
+latitude: 37.7100974
+city_longitude: -90.7403619
+city_latitude: 37.687023
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

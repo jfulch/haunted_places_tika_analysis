@@ -1,0 +1,21 @@
+city: Williams
+country: United States
+description: It is said that before the bridge was covered a man was riding his horse across it and the horse jumped off. Supposedly if you go there at midnight whenever you can hear the horse neighing and the man screaming as they jumped off the bridge.
+location: Williams Covered Bridge
+state: Indiana
+state_abbrev: IN
+longitude: -86.6652749
+latitude: 38.7967169
+city_longitude: -86.64726329999999
+city_latitude: 38.8044945
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

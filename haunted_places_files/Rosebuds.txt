@@ -1,0 +1,21 @@
+city: Medford
+country: United States
+description: Supposedly a pregnant woman’s body was buried there and is still to be found. At twelve o'clock on the dot we heard a baby crying and felt a breeze. The weird thing is that it is said only women can see her and she convinces them to "get rid of the men"
+location: Rosebuds
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1208017
+latitude: 42.3944452
+city_longitude: -71.1061639
+city_latitude: 42.4184296
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

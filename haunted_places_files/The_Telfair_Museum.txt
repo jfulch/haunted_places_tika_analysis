@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: is haunted by its former owner. She is said to roam the housekeeping people from doing what they shouldn't do. If you smoke a cigarette in the house or sit on the wrong chair, you can hear here footsteps coming at you on the marble floors.
+location: The Telfair Museum
+state: Georgia
+state_abbrev: GA
+longitude: -81.095079
+latitude: 32.077997
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1939/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 35m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

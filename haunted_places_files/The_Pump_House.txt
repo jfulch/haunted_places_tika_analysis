@@ -1,0 +1,19 @@
+city: Benjamin
+country: United States
+description: There is an old pump house in Benjamin.  It used to be used to regulate the arrogation flow to the farmers.  It is said that there where two workers, working alone their one night, and one of the men got caught in one of them machines, got pulled in and died, the other man trying to pull him out got his arm caught and died from loss of blood.  Needless to say they don’t use it anymore, and all electricity to the place has been shut off.  But when driving by after dark, most every night, through the cracks in the boarded up windows you can see light shining through, generated from an unknown source.  Upon approaching the house you can hear people talking, and music playing in the background. but no one is inside.  Authorities have been called by numerous residents claming to hear "trespassers" in the old pump house, but upon inspection, they find no one, and no evidence of entry.
+location: The Pump House
+state: Utah
+state_abbrev: UT
+city_longitude: -111.731318
+city_latitude: 40.0982875
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

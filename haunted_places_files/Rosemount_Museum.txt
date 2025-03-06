@@ -1,0 +1,20 @@
+city: Pueblo
+country: United States
+description: The museum was home to the prominent Pueblo family, the Thatcher’s, during the 1800's. There are noises and movements all over the property as well as a real Egyptian Mummy in one of the top stories. Under their house there are extensive tunnels not open to the public.
+location: Rosemount Museum
+state: Colorado
+state_abbrev: CO
+longitude: -104.6121005
+latitude: 38.2805245
+city_longitude: -104.6091409
+city_latitude: 38.2544472
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

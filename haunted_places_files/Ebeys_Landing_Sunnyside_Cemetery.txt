@@ -1,0 +1,21 @@
+city: Coupeville
+country: United States
+description: Accounts have said that his ghost, both with a head and headless, have been seen in the cemetery and in an old cabin his family occupied after his death.
+location: Ebey's Landing, Sunnyside Cemetery
+state: Washington
+state_abbrev: WA
+longitude: -122.7056515
+latitude: 48.2065558
+city_longitude: -122.6862804
+city_latitude: 48.2198208
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

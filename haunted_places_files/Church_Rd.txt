@@ -1,0 +1,21 @@
+city: Portage
+country: United States
+description: The cemetery described on church road is a favorite place to visit of me and my friends. it is a quite a long drive to get to and easy to miss. the road is a dead end road, the cemetery at almost the very end. Explorers were told by locals that it used to be a dead baby (children's) cemetery but that something happened in which all the gravestones were removed to "start over." most of the stones remaining are not of children and some date back to early 1800's. one particularly disturbing experience was finding a name that was my mother's maiden name on a stone.
+location: Church Rd
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.5687178
+latitude: 43.5573114
+city_longitude: -89.46262019999999
+city_latitude: 43.5391486
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

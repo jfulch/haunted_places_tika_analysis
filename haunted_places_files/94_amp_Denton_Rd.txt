@@ -1,0 +1,21 @@
+city: Belleville
+country: United States
+description: Go down Denton Rd. at midnight and stop when you see the old road at the bottom of the hill on Denton Rd. (Unknown name of road but it's by the old cemetery) stop turn off all lights and get out of your car wait about 1-10 min. and you will see a glow float down the old road at the bottom of the hill.
+location: 94 &amp; Denton Rd.
+state: Michigan
+state_abbrev: MI
+longitude: -94.819713
+latitude: 45.66820509999999
+city_longitude: -83.4852133
+city_latitude: 42.2047619
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2006/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

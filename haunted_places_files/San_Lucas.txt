@@ -1,0 +1,21 @@
+city: Monterey County
+country: United States
+description: Salinas River - Every Halloween night there is a new report of the crying woman. She is mistaken as La Llarona. Each year the kids go on dares to walk the river past the bend. One year, the kid never came back. One year the first girl ever to do it was actually helped by the ghost. She was walking too close to the edge when the ghost pushed her away. If she would have fallen it was a 50-foot drop in about 2 feet of water.
+location: San Lucas
+state: California
+state_abbrev: CA
+longitude: -121.0204672
+latitude: 36.1288547
+city_longitude: -121.3541631
+city_latitude: 36.3136201
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

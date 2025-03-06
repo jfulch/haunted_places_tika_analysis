@@ -1,0 +1,21 @@
+city: Honaker
+country: United States
+description: Old principal walking down the stairs gym basement. People have smelt smoke, and report seeing him.
+location: Hoanker High School
+state: Virginia
+state_abbrev: VA
+longitude: -81.978459
+latitude: 37.0170552
+city_longitude: -81.9742921
+city_latitude: 37.016222
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

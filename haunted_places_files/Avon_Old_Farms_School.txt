@@ -1,0 +1,20 @@
+city: Avon
+country: United States
+description: A little girl, friendly, appears early in the morning (around 3am)in one of the homes attached to the dorm. She often is looking for her mother, or playing in the 2nd floor of the house. She usually appears in the summer time.
+location: Avon Old Farms School
+state: Connecticut
+state_abbrev: CT
+longitude: -72.8390666
+latitude: 41.7778749
+city_longitude: -72.8305154
+city_latitude: 41.8096201
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1650/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

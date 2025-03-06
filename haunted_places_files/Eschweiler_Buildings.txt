@@ -1,0 +1,21 @@
+city: Wauwatosa
+country: United States
+description: These former TB sanitariums are located in the Milwaukee County Grounds and are now used as labs for a small bioengineering firm. The largest of the buildings is abandoned and is the site of many frightening sightings. Several people walking through the park at dusk of later have reported feeling watched, the hairs on the backs of their necks standing up. Looking into the large picture window on the second floor, many have seen a woman in white staring down at them. The sound of coughing can also frequently be heard--undoubtedly the spirits of TB victims still coughing up blood and mucus.
+location: Eschweiler Buildings
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.0358344
+latitude: 43.05003900000001
+city_longitude: -88.0075875
+city_latitude: 43.0494572
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 23m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

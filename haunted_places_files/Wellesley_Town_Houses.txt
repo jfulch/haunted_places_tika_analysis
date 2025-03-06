@@ -1,0 +1,21 @@
+city: Romulus
+country: United States
+description: Ancient Indian Burial Grounds that have been built over. Many abnormal happenings and visions. People experience lots of weird deaths. Many families who live in these houses claim to have seen the devil himself and many other evil spirits. Including people in mirrors and Indians in the woods.
+location: Wellesley Town Houses
+state: Michigan
+state_abbrev: MI
+longitude: -83.3892901
+latitude: 42.2438559
+city_longitude: -83.39659940000001
+city_latitude: 42.2222614
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

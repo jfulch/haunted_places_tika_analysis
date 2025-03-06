@@ -1,0 +1,19 @@
+city: Bartonia
+country: United States
+description: Go to on Greenville Pike. At the stop sign turn right at the first gravel road turn left, go past the bridge turn around and go back over the bridge. When you get over the bridge wait a few seconds and the turn around. Don’t drive to fast or to slow but you can see a man on a horse without a head. The farther you get from the bridge the close it gets to you. It soon disappears.
+location: Headless Man
+state: Indiana
+state_abbrev: IN
+city_longitude: -84.8510732
+city_latitude: 40.1153245
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

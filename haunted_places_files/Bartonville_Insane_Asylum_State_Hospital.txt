@@ -1,0 +1,21 @@
+city: Bartonville
+country: United States
+description: The Bartonville Insane Asylum has been closed for many years. Patients in the Asylum where given cruel treatments such as water submersion, shock therapy, and many other forms that would be considered inhuman today. Many people who have ventured into the run down Asylum have heard strange noises and have even seen apparitions. It is a 3 story stone building on Fiefer Road. Many of the other buildings used for recreation at the Asylum have been renovated, but the main housing facility still stands and looks the same as it did years ago. More info here: http://theshadowlands.net/famous/bartonville.htm. There is a graveyard across the street from the Asylum at the end of the road on the left down a long dirt lane. Many of the headstones have only numbers on them because they did not know the names of the patients. Other headstones have names and dates. If you at the dates you will find that someone died at the Asylum every single day. -  Warning: Police will arrest anyone trying to get inside the Asylum, or the cemetery.
+location: Bartonville Insane Asylum / State Hospital
+state: Illinois
+state_abbrev: IL
+longitude: -89.6609203
+latitude: 40.6352305
+city_longitude: -89.6520455
+city_latitude: 40.6503158
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

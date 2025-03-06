@@ -1,0 +1,21 @@
+city: Florence
+country: United States
+description: Weslyan - Haunted by a civil war general's son. He drowned when he jumped head first into Cypress Creek from the old one lane bridge on Waterloo Road, a couple of minutes from campus. His wet footsteps can be seen at night.
+location: University of North Alabama Area
+state: Alabama
+state_abbrev: AL
+longitude: -87.6811676
+latitude: 34.8074555
+city_longitude: -87.677251
+city_latitude: 34.79981
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1736/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

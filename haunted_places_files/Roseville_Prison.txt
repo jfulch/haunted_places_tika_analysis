@@ -1,0 +1,20 @@
+city: Roseville
+country: United States
+description: The old abandoned Prison in Roseville, just south of Zanesville and East of Columbus is rumored to be haunted. On some nights it is said that the ghost of a woman dressed in white can be seen falling from the roof of the building in a re-enactment of her suicide. Also, ghostly shadowy images are said to be seen peering out of the guard tower.
+location: Roseville Prison
+state: Ohio
+state_abbrev: OH
+longitude: -121.2955367
+latitude: 38.7595635
+city_longitude: -82.07125219999999
+city_latitude: 39.8072903
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Elyria
+country: United States
+description: It is said that the tunnels under the school have ghosts. There is also activity in the Washington building. The really big hot spot is the auditorium.
+location: Elyria high school
+state: Ohio
+state_abbrev: OH
+longitude: -82.10779749999999
+latitude: 41.3621728
+city_longitude: -82.10764859999999
+city_latitude: 41.3683798
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

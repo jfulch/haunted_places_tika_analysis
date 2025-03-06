@@ -1,0 +1,21 @@
+city: Westport
+country: United States
+description: Located on the far edge of the Westport town reservoir. This old stone building supplied ice to the local area until it burned down due to suspected arson. Rumor has it that there were child laborers inside during the fire but this has not been confirmed, Visitors to the site claim to have been chased off the site by unknown presences. There have also been sightings of large dogs on the property after sunset, but not a trace has been found of them during the daylight hours.
+location: Ice House
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8918623
+latitude: 41.6445549
+city_longitude: -71.0735476
+city_latitude: 41.5700183
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

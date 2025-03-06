@@ -1,0 +1,21 @@
+city: Hinton
+country: United States
+description: A cold presence was witnessed to pass over in a mist and seem to sit in a pew near them.
+location: Irish Mountain Catholic Church
+state: West Virginia
+state_abbrev: WV
+longitude: -80.89087610000001
+latitude: 37.6736788
+city_longitude: -80.8892539
+city_latitude: 37.674008
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

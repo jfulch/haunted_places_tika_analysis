@@ -1,0 +1,21 @@
+city: Charlotte
+country: United States
+description: the cemetery is located down a dirt road that is between two cornfields.? the road comes to an end at the top of a hill of trees.? The cemetery is located to the left in the trees. it is said that if you walk into the cemetery you will hear babies crying and will see a little girl pointing at the gates indicating you to LEAVE!
+location: Hickory Hill Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -90.4324596
+latitude: 41.96732069999999
+city_longitude: -90.4651329
+city_latitude: 41.96030380000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1899/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

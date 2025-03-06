@@ -1,0 +1,21 @@
+city: Cherry Valley
+country: United States
+description: There is a bridge down this road with a train track running under it. At one time, a school bus full of children ran off the bridge, causing everyone to die. If you put your car in neutral in the middle of the bridge, you will be guided to safety on the other side. There is also a traffic light that keeps moving, never staying in the same place.
+location: Bloods Point Road
+state: Illinois
+state_abbrev: IL
+longitude: -88.9162399
+latitude: 42.1743457
+city_longitude: -88.94899120000001
+city_latitude: 42.2347434
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

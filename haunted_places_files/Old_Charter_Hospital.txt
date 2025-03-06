@@ -1,0 +1,19 @@
+city: Peoria
+country: United States
+description: The old adolescent’s ward used to have adults. A lawyer checked himself into the hospital, and then hung himself at night with his shoestrings. Sometimes he appears in his old room, or in the hall. Also, very sad negative energy could be felt in that room, and it would get very cold. The hospital is now closed.
+location: Old Charter Hospital
+state: Arizona
+state_abbrev: AZ
+city_longitude: -112.2373779
+city_latitude: 33.5805955
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 0

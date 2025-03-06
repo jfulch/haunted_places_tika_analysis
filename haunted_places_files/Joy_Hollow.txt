@@ -1,0 +1,21 @@
+city: Sioux City
+country: United States
+description: Mary the virgin has been seen with blood running down her face in one of the older cabins girl scouts that died in that cabin haunted it reports of floating objects girls coming out of the shower with hand prints on them
+location: Joy Hollow
+state: Iowa
+state_abbrev: IA
+longitude: -96.5438306
+latitude: 42.70115819999999
+city_longitude: -96.4003069
+city_latitude: 42.4999942
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

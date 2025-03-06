@@ -1,0 +1,21 @@
+city: Sale Creek
+country: United States
+description: For over a hundred years, a glowing white figure has haunted the small road stretching from the Mill Dam on Daughtery Ferry Road, right off of Highway 27, and continues through Shipley Hollow Road. This white figure has been said to have uninvited joined many hay and horseback rides.
+location: Shipley Hollow in Sale Creek
+state: Tennessee
+state_abbrev: TN
+longitude: -85.0798751
+latitude: 35.4057389
+city_longitude: -85.1089368
+city_latitude: 35.382329
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

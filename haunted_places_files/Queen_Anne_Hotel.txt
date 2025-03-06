@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: Located at the corner of Sutter And Octavia, the Queen Anne Hotel is an elegant Victorian style hotel, which dates back to the 1890's. With free access to all of the floors and some of the rooms, it's a great place to perform an investigation. If you want you can spend a night or so in Miss Mary Lakes Room. Before the hotel even was a hotel, it was a school for girls since few girls had access to schools back then. Miss Mary Lake was the teacher. She was dedicated to her work. But when the school was closed down she was heart broken and as she eventually died. Her spirit remained. Room 410 top floor is where you can find her room.
+location: Queen Anne Hotel
+state: California
+state_abbrev: CA
+longitude: -122.4266139
+latitude: 37.7872289
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

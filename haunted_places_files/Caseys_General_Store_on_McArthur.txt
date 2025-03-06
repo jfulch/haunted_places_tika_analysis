@@ -1,0 +1,20 @@
+city: Salem
+country: United States
+description: The Casey's on McArthur was built on the site of an old home. The elderly people who had owned the home had died there. Ever since Casey's has been built, the employees have reported the walk-in doors opening and shutting, things in the back room falling off of shelves. Things taken off of shelves and being stacked neatly on the floor in the middle of the night after the store is closed. The smell of perfume is smelled often when it is just the opening crew early in the morning. Footsteps, sighs, and cold places are also very frequent.
+location: Casey's General Store on McArthur
+state: Missouri
+state_abbrev: MO
+longitude: -91.535805
+latitude: 37.6414585
+city_longitude: -91.5359808
+city_latitude: 37.6455993
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1587/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

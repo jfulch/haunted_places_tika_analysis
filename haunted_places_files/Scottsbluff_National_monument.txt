@@ -1,0 +1,21 @@
+city: Scottsbuff
+country: United States
+description: There is a female spirit clad in white that walks along the base of the opposite bluff, around the end of July and beginning of august around midnight or one in the morning. Sometimes you'll see her, sometimes you won't. A lot of people have besides me...but you got to look closely, and be patient.
+location: Scottsbluff National monument
+state: Nebraska
+state_abbrev: NE
+longitude: -103.7080622
+latitude: 41.8358432
+city_longitude: -103.6671662
+city_latitude: 41.8666341
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

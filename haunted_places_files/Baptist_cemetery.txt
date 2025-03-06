@@ -1,0 +1,21 @@
+city: Bedias
+country: United States
+description: This town has burned down twice, and very few of the original buildings left...But if you go to this particular location, you can see and hear children crying, most likely due to the many people killed in both fires... and on some nights you can even see these children wandering the graveyard perhaps looking for their parents.
+location: Baptist cemetery
+state: Texas
+state_abbrev: TX
+longitude: -95.9479416
+latitude: 30.7758199
+city_longitude: -95.949397
+city_latitude: 30.7757486
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

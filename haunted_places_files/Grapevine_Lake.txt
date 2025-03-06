@@ -1,0 +1,21 @@
+city: Grapevine
+country: United States
+description: A small girl drowned in the lake.  Commonly at night you can see a small girl walking around the lake and her voice can be heard around it.  On the road commonly called "Shady Trail" by locals, you can see her walking along it and turning around to look then disappearing.  There have been accidents reported of people hitting the trees on this trail trying to miss hitting the small girl.  Her appearance always is a girl that looks like she has been swimming with her hair all wet and crying looking for her parents.
+location: Grapevine Lake
+state: Texas
+state_abbrev: TX
+longitude: -97.0874964
+latitude: 32.9847426
+city_longitude: -97.0780654
+city_latitude: 32.9342919
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

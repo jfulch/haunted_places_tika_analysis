@@ -1,0 +1,21 @@
+city: Logandale
+country: United States
+description: Info says that when the Indians died they would bury their loved ones under their homes. Houses being built near the School have found corpses when laying their foundation. While at the School on a quiet night with few people a dark shadowy figure often is said to appear. It has a tendency to follow people around (even through fences) and suddenly disappears.
+location: Moapa Valley High School
+state: Nevada
+state_abbrev: NV
+longitude: -114.4588377
+latitude: 36.5840728
+city_longitude: -114.4841487
+city_latitude: 36.5966406
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 0

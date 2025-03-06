@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: In the graveyard near these streets, there have been reports of people seeing the spirits of those who have died, running around the graveyard aimlessly. Also, it is said that there are spirits of teenagers running around. Some years ago, a few teenagers were playing hide and seek in the graveyard. Some of the teens heard a scream and thought nothing of it. The next day, one of the teenagers was missing, and later found near the grave of his great uncle. Word has it that you can still see the teenagers playing hide and seek, and the one that got killed will come up to you and bother you until you leave.
+location: 55th Ave and Northern
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1775086
+latitude: 33.5530893
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

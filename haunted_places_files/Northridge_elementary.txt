@@ -1,0 +1,20 @@
+city: Highlands Ranch
+country: United States
+description: you can see the monkey bar handles moving when there is no wind and you can hear people sliding on the slides when no one is there the cafeteria lights flicker on and off (sometimes) and you can hear children laughing on the "lower/ yellow playground"
+location: Northridge elementary
+state: Colorado
+state_abbrev: CO
+longitude: -104.9828334
+latitude: 39.5516104
+city_longitude: -104.9739333
+city_latitude: 39.5480789
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

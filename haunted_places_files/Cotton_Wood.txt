@@ -1,0 +1,21 @@
+city: Riverdale
+country: United States
+description: Weber River - Reports of screams and cries of agony of a man, and a cold evil presence near by.
+location: Cotton Wood
+state: Utah
+state_abbrev: UT
+longitude: -111.9674979
+latitude: 41.1509262
+city_longitude: -112.0038311
+city_latitude: 41.1768888
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1931/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

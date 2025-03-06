@@ -1,0 +1,21 @@
+city: Chester
+country: United States
+description: Civil war bunkers are still occupied by spirits, some of which seem to be very sad and confused.
+location: Parker's Battery
+state: Virginia
+state_abbrev: VA
+longitude: -77.3949403
+latitude: 37.3499756
+city_longitude: -77.4416505
+city_latitude: 37.3568157
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

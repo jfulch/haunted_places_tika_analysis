@@ -1,0 +1,20 @@
+city: Lamar
+country: United States
+description: This is an old school that was also used as a Church. Many years ago, it is believed that the teacher and several children were infected with a deadly virus. The place is said to be haunted by the children and teacher that died in the building while under quarantine.
+location: School Church
+state: South Carolina
+state_abbrev: SC
+longitude: -80.061313
+latitude: 34.168551
+city_longitude: -80.062568
+city_latitude: 34.1687661
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

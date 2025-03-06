@@ -1,0 +1,20 @@
+city: Vermilion
+country: United States
+description: An orphanage burned down in the early part of the century and as the story goes, all the children died. If you drive down this road "if the conditions are right" you can hear the children crying. Many have claimed to hear the children crying. People have also claimed that there have been banging on their cars and after fleeing quickly causing them to flee in a panic from the area. Once home, if their cars were not clean at the time of the visit, they would find small hand prints on the dust of their cars.
+location: Gore Orphanage road
+state: Ohio
+state_abbrev: OH
+longitude: -82.3287345
+latitude: 41.368795
+city_longitude: -82.36460679999999
+city_latitude: 41.4219889
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

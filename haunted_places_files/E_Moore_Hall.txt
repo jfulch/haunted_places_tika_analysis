@@ -1,0 +1,21 @@
+city: Morgantown
+country: United States
+description: Elizabeth Moore for which the building has been dedicated too has been spotted "floating" over the pool in the basement.  Also a picture of her has been known to appear in various places of the building without anyone moving it.
+location: E. Moore Hall
+state: West Virginia
+state_abbrev: WV
+longitude: -79.9552667
+latitude: 39.6349826
+city_longitude: -79.95589679999999
+city_latitude: 39.629526
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1832/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 30m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

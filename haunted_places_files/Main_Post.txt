@@ -1,0 +1,21 @@
+city: Fort Riley
+country: United States
+description: Witnesses report seeing the apparition of an old nurse/caretaker.
+location: Main Post
+state: Kansas
+state_abbrev: KS
+longitude: -96.7806537
+latitude: 39.0720627
+city_longitude: -96.8099772
+city_latitude: 39.110058
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Akron
+country: United States
+description: Well-known story still told by some of the theatre's tour guides is the story of Fred the janitor. Fred was a life-long employee of the Civic, back in the days when it was called the "Loews Theatre". He died on the premises, but his ghost still tends to duties, namely keeping vandals at bay in the bathrooms. The Civic has been the site of many high school proms, and several sightings have been reported of a figure that "attacks" would-be vandals. Another ghost reported many times is that of a young woman that weeps by the canal that still runs under the theatre and through parts of the city underground. This same canal was the lifeline of the city in the early 1800's, so many think she is a "shade" that remains from the early canal days.
+location: The Akron Civic Theatre
+state: Ohio
+state_abbrev: OH
+longitude: -81.5195171
+latitude: 41.080534
+city_longitude: -81.51900529999999
+city_latitude: 41.0814447
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

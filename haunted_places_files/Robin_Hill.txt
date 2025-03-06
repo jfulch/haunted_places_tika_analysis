@@ -1,0 +1,21 @@
+city: Mount Vernon
+country: United States
+description: On the top of a hill stands an old white house which has been abandoned for many years. The house was once a stop on the underground railroad. The house is now being remodeled, according to rumor, into a bed and breakfast. It sits on the corner of Mill and 9th. Local lore says that the house is very haunted, but no one really knows by who/what or why.
+location: Robin Hill
+state: Indiana
+state_abbrev: IN
+longitude: -87.8821151
+latitude: 37.9454041
+city_longitude: -87.8950267
+city_latitude: 37.9322662
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1989/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

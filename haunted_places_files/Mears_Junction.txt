@@ -1,0 +1,20 @@
+city: Poncha Springs
+country: United States
+description: Along the old "Chile Line" abandoned Denver and Rio Grande Railroad, above Mears Junction (about 2 miles up to the south), used to be a water tank where trains would stop to replenish water for their boilers so they could make it over Poncha Pass. The story goes that one time in the fall of 1894, when the train stopped, a small child named Annabell got off the train to walk in the woods awhile with her brother. When the train started up she was no where to be found. Her parents and brother got off the train to look for the girl. They stayed for days, and even with the help of the County Sheriff and local ranchers on horseback, she was never found. On several occasions during the autumn while the train was still running, engineers and conductors have thought that they saw a small child playing in the woods. In later years on many occasions, boy scouts and scout leaders camping in the area during the fall have heard a small voice singing in the dense aspen groves directly to the east of the old abandoned railroad bed.
+location: Mears Junction
+state: Colorado
+state_abbrev: CO
+longitude: -106.078811
+latitude: 38.5187744
+city_longitude: -106.0772384
+city_latitude: 38.5127752
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2005/07/12
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

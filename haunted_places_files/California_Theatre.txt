@@ -1,0 +1,21 @@
+city: San Bernardino
+country: United States
+description: Will Rogers made his last performance at the California Theatre, he died in a plane crash a few days later. It is said that he haunts a practice room in the theatre. It is continually cold in this room and sometimes you can see him in the room's small window.
+location: California Theatre
+state: California
+state_abbrev: CA
+longitude: -117.2954707
+latitude: 34.1065707
+city_longitude: -117.2897652
+city_latitude: 34.1083449
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1879/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

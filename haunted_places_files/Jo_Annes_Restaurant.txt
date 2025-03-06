@@ -1,0 +1,21 @@
+city: Bellingham
+country: United States
+description: Customers and employees have seen the ghost of young man dressed in old civil war era clothing. The restaurant used to be an old stable house or something like that. There are also cold spots, but the ghost seems very friendly. - March 2007 Update: Has been torn down
+location: Jo-Anne's Restaurant
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.4914166
+latitude: 42.1474595
+city_longitude: -71.47458809999999
+city_latitude: 42.0867608
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

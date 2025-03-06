@@ -1,0 +1,19 @@
+city: Willow Springs
+country: United States
+description: Al Capone’s former bar for gambling and prostitution rings. Currently stands as a pizzeria/bar where it is said by many to be haunted by the spirits of prostitutes and Capones former gang members. Patrons are said to have encountered chills, seen apparitions, being touched by supernatural forces, amongst other things. Pictures have been taken and videos/voice recordings have been recorded. Not only a good place to encounter spirits but it is a great place for food and fun times.
+location: Cavallones
+state: Illinois
+state_abbrev: IL
+city_longitude: -87.86033429999999
+city_latitude: 41.74086519999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

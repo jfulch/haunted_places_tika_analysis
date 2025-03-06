@@ -1,0 +1,21 @@
+city: Elkins
+country: United States
+description: Halliehurst Hall - Sounds Daughter of the late Stephen Benton Elkins is seen in her bedroom on the second floor which hosts the Admissions Office.  During nights when students visit, Hallie would sneak up on these students, and run up and down the stairs.  Reports have been told by counselors as well as security.
+location: Davis &amp; Elkins College
+state: West Virginia
+state_abbrev: WV
+longitude: -121.7405167
+latitude: 38.5449065
+city_longitude: -79.8467349
+city_latitude: 38.92593970000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1998/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

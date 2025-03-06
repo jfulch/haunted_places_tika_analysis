@@ -1,0 +1,21 @@
+city: Grand Rapids
+country: United States
+description: In North House Lecture Hall there is reports of strange noises such as water spilling on the floor, footsteps and things turning on by themselves. A girl who was dropped of early one morning decided to sit and wait in the hall until school had opened reports someone or something pulling her hair. In the first row, second seat on the right. Why these encounters are happening no one knows.
+location: Ottawa Hills High School
+state: Michigan
+state_abbrev: MI
+longitude: -85.6273537
+latitude: 42.9257517
+city_longitude: -85.6680863
+city_latitude: 42.9633599
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1966/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

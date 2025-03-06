@@ -1,0 +1,21 @@
+city: La Selva Beach
+country: United States
+description: What is now a teenage recovery house is the site of the Leonard House were a family lived during the gold rush in the mid 1800s, but moved to Aptos after a while. There was also a Jesuit Mission in the area, both have since been torn down and the Tyler House stands in it's place. The beach near by is also haunted by a boy who drowned there in the 1960s. The Tyler House residents have experienced noises and objects moving as well as reports of windows opening and closing on their own, a very haunted house.
+location: Tyler House
+state: California
+state_abbrev: CA
+longitude: -121.800665
+latitude: 36.9572192
+city_longitude: -121.8646774
+city_latitude: 36.9366186
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1771/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

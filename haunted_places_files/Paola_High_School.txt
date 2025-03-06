@@ -1,0 +1,21 @@
+city: Paola
+country: United States
+description: the former head of maintenance haunts the school where he died.
+location: Paola High School
+state: Kansas
+state_abbrev: KS
+longitude: -94.8569876
+latitude: 38.5753853
+city_longitude: -94.8791294
+city_latitude: 38.5722353
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1995/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

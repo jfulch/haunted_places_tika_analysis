@@ -1,0 +1,21 @@
+city: Conneaut Lake
+country: United States
+description: A hotel in an amusement park. It caught on fire and a young bride named Elizabeth was killed. they say that she is still seen in the hotel.
+location: Hotel Conneaut
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.314221
+latitude: 41.632934
+city_longitude: -80.30534159999999
+city_latitude: 41.6033874
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

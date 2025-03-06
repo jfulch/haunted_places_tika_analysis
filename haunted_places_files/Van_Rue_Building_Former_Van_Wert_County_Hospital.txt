@@ -1,0 +1,20 @@
+city: Van Wert
+country: United States
+description: Hauntings that have occurred here are voices, lights turning on by themselves, doors slamming shut after being open, and objects moving. This is the former hospital for Van Wert County. Several people have found various records of deaths in the building. A psychic has visited the hospital and reported feeling several entities on the different floors. Among these are an old man in the furnace room, and a little girl roaming the building, not realizing she has passed. Voices, of what seems to be nursery rhymes, have been heard following with a "cold spot" in parts of the building. Several visitors to this building, including children, have had an uneasy feeling as if something is near, watching them.
+location: Van Rue Building (Former Van Wert County Hospital)
+state: Ohio
+state_abbrev: OH
+longitude: -84.5792
+latitude: 40.8508
+city_longitude: -84.58412229999999
+city_latitude: 40.8694927
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

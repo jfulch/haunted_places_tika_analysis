@@ -1,0 +1,21 @@
+city: South Portland
+country: United States
+description: Hillside Dorm - This building has a long history. It was a funeral home, a brothel, a nursing home, and now it is a college dorm. There is an unknown man that walks around in the attic, as well as a "critter" up there that maintenance has tried multiple times to trap but the traps go off with nothing in them. However, there are strange footprints all around the trap. There is an old lady and a little boy in one of the rooms that will play tricks on the students by messing around with their blankets and windows at night. Also, there is a young lady in a long white nightgown that walks up and down the front stairs in the evenings. She has been sighted by large groups of people at a time, as well as individuals.
+location: Southern Maine Technical College
+state: Maine
+state_abbrev: ME
+longitude: -70.2282513
+latitude: 43.6470488
+city_longitude: -70.2408811
+city_latitude: 43.6414716
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

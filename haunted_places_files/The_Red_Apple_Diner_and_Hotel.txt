@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: in room 17 there is said to be a ghost of a man named Charles "Chick" McGee. McGee was found stabbed to death one night in the late 80's. A waitress the main suspect, but was never found. She was said to have killed him because he left her no tip. McGee is said to "hide" the TV remote, and to move the holy bible from drawer, and to shrink the shampoos.
+location: The Red Apple Diner and Hotel
+state: Michigan
+state_abbrev: MI
+longitude: -83.36221599999999
+latitude: 42.282963
+city_longitude: -83.3863214
+city_latitude: 42.2814269
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

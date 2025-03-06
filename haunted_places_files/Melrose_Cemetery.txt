@@ -1,0 +1,21 @@
+city: Brockton
+country: United States
+description: This cemetery has long been rumored to be haunted. You can often hear footsteps running around at night. People have also reported hearing laughing in the far back left corner of the cemetery.
+location: Melrose Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0668891
+latitude: 42.09316829999999
+city_longitude: -71.0183787
+city_latitude: 42.0834335
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

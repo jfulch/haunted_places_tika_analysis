@@ -1,0 +1,21 @@
+city: Rome
+country: United States
+description: A store that is for sale. In the corner of one of the rooms there is a stool that when light is flashed on it you can see a ghostly apparition. And in the mirror if you watch it for at least 2 minutes you can see a figure appear and then run away. During the day there are stairs that lead to the upstairs but at night, all you can see is the stairs and then they are ended by a white wall.
+location: Delta Plaza
+state: New York
+state_abbrev: NY
+longitude: -75.466994
+latitude: 43.286121
+city_longitude: -75.4557303
+city_latitude: 43.2128473
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Genoa
+country: United States
+description: At night the current owner of the restaurant turns off the lights, but on some nights after she leaves and locks up, the lights turn back on. People have heard footsteps from the basement stairs, and dishes have mysteriously disappeared. The man who they assume is the spirit of the ghost used to be the owner of the restaurant, and he used to drink 8 cups of coffee a day. That is the number of cups that have been missing. He also used to watch CNN all the time, and no one was allowed to change the station on the television. When the workers walk out of the room with a certain channel on the TV, they come back only to see CNN on the screen. No one that works there watches that. If the ghost is the spirit of the old owner, his name is Kenny.
+location: Big River Restaurant
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.2257613
+latitude: 43.57505279999999
+city_longitude: -91.2242996
+city_latitude: 43.5766383
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

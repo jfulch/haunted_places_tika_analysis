@@ -1,0 +1,21 @@
+city: Brodhead
+country: United States
+description: This steak house is one of the oldest buildings in Brodhead and along with currently being a restaurant, it also used to be a hotel. Many people in the town have had haunting experiences that they attribute to ghosts, such as unexplained noises and moving objects. In Brodhead, the rumors are well known and generally believed.
+location: Flynn's Steak House
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.37642400000001
+latitude: 42.620016
+city_longitude: -89.3762278
+city_latitude: 42.6183424
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

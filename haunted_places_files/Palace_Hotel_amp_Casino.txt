@@ -1,0 +1,20 @@
+city: Cripple Creek
+country: United States
+description: People report feeling a gentle nudge as they walk down the stairs.
+location: Palace Hotel &amp; Casino
+state: Colorado
+state_abbrev: CO
+longitude: -122.4017237
+latitude: 37.7881439
+city_longitude: -105.1783149
+city_latitude: 38.7466555
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

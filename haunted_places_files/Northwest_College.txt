@@ -1,0 +1,19 @@
+city: Powell
+country: United States
+description: Auditorium - Shadows have been seen. At night you can see the shadows acting out a play. There is also been sightings that the fold up seats have been down and the janitor has said he tries to put them back up and they are heavy and don't go back up.
+location: Northwest College
+state: Wyoming
+state_abbrev: WY
+longitude: -108.7623575
+latitude: 44.7614863
+city_longitude: -108.7573525
+city_latitude: 44.7538408
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

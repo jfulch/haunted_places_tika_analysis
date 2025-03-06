@@ -1,0 +1,21 @@
+city: Silvana
+country: United States
+description: In the very small town of Silvana, high up on a hill stands an old white church that is surrounded by tombstones. Many local teens drive to Silvana late at night to see what all the hype is about and many never go back. Strange sounds are heard in daylight and you never feel like your alone.
+location: Silvana graveyard
+state: Washington
+state_abbrev: WA
+longitude: -122.2556596
+latitude: 48.20263509999999
+city_longitude: -122.2537589
+city_latitude: 48.2023214
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/11/04
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

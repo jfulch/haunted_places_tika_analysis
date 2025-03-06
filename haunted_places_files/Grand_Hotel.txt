@@ -1,0 +1,21 @@
+city: Mackinac Island
+country: United States
+description: Uncountable skeletons were also unearthed when the foundation was laid for the Grand Hotel which now is supposed to hold many spine tingling feelings. The little horse coral behind the fort is supposedly right where the first post cemetery was. Not all of the bodies were removed when the US moved the cemetery to its present location.
+location: Grand Hotel
+state: Michigan
+state_abbrev: MI
+longitude: -84.626205
+latitude: 45.851135
+city_longitude: -84.6189339
+city_latitude: 45.8491796
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: There is a statue by the name of Mother Templeton. It is said that during full moons she changes her positions. Some have seen her holding one hand over her heart and her left hand down by her side, some have seen her holding a bible in the palms of her hands, and some have seen her holding flowers in her hands.
+location: Jacksonville City Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -95.2926095
+latitude: 31.9701358
+city_longitude: -95.2705042
+city_latitude: 31.963778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

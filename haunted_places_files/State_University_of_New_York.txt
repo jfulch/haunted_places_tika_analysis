@@ -1,0 +1,21 @@
+city: Plattsburgh
+country: United States
+description: Plattsburgh - MacDonough Hall - -  What is known to many people as "MacDonough Hall" was once the old morgue for the old Plattsburgh Hospital across the campus. Many students and faculty have seen apparitions and heard strange noises.
+location: State University of New York
+state: New York
+state_abbrev: NY
+longitude: -73.466962
+latitude: 44.69254300000001
+city_longitude: -73.4529124
+city_latitude: 44.6994873
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1894/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

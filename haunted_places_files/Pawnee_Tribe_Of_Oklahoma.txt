@@ -1,0 +1,21 @@
+city: Pawnee
+country: United States
+description: There are many buildings here that used to be a old Indian school. There are ghosts that haunt each building. People see ghosts in the windows at night and hear children playing. Children were beat because they spoke their native tongue and were sometimes killed. People believe that these ghosts haunt this place because they are looking for vengeance.
+location: Pawnee Tribe Of Oklahoma
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.7909288
+latitude: 36.3347939
+city_longitude: -96.8039232
+city_latitude: 36.3378321
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

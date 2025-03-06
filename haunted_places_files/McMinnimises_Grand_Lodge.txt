@@ -1,0 +1,21 @@
+city: Forest Grove
+country: United States
+description: said to first be a Masonic lodge and then later a mental institute that was shut down for a doctor mistreating patients, McMinnimises Grand Lodge is still supposedly haunted by "the Lavender Lady" who just walks around at night, and the doctor who plays tricks on people such as moving items. Apparitions are said to be seen mostly at night but in the basement they are common at any time of the day.
+location: McMinnimises Grand Lodge
+state: Oregon
+state_abbrev: OR
+longitude: -123.0861616
+latitude: 45.5216268
+city_longitude: -123.1106631
+city_latitude: 45.5198364
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Jay County
+country: United States
+description: There is a road out in the country and it is pretty popular for kids to go to at night. If you drive down the road one way after you go over a big bump you turn around at the nearest place to turn. Then you go back over it and once you hit the bump you see what looks like a trail of blood leading all the way down the road. They have tried to pave over it but it always comes back. The story goes that a man got mad at his wife and killed her and put her in the back of his truck. When he hit the bump her body fell off and got stuck to the back of the truck and he drug it down the road.... that is supposedly what the blood is from.
+location: Blood Road
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.02334599999999
+city_latitude: 40.4465288
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.333333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

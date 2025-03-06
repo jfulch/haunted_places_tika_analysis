@@ -1,0 +1,21 @@
+city: Cedar Rapids
+country: United States
+description: There have been reports that a ghost named "Helen" haunts the place. She died of influenza in the epidemic of 1918 and her parents donated a grandfather clock, which used to be in her dorm. Students say sometimes at night the her spirit leaves the clock, plays the piano in the parlor and stands by kids beds and pulls covers off of them.
+location: Coe college
+state: Iowa
+state_abbrev: IA
+longitude: -91.6591287
+latitude: 41.9884283
+city_longitude: -91.6656232
+city_latitude: 41.9778795
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Duxbury
+country: United States
+description: (formerly listed on this site as Moonlight Inn in Pembroke)- is haunted by a specter named Lysander. Cold spots are felt and tables have been known to tip over. Waiters give you the story of the ghost on place mats.
+location: Sun Tavern
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.7423732
+latitude: 42.05753139999999
+city_longitude: -70.6722767
+city_latitude: 42.0417525
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

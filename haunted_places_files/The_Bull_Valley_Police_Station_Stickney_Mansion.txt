@@ -1,0 +1,21 @@
+city: Woodstock
+country: United States
+description: This home was built in the mid 1800's by a couple who were into spiritualism and frequently held séances in their isolated palace in Bull Valley (Bull Valley is said to be one of the closest places to hell). Because of a belief they held, they had the house built with no 90 degree corners, so "spirits wouldn't get stuck in them" or have "a place to hide" (it is also believed that the devil himself hides in corners). The legend says that the builder left one upstairs corner in the house with a 90 degree angle, and later the entire family was found butchered in that corner. Most of the haunting stories came from a resident who bought the then dilapidated home in the 1970's, who claimed it was "tainted" by "Devil worshippers" and that he had heard unexplained noises. It is now a police station, the address is 1904 Cherry Valley Rd.
+location: The Bull Valley Police Station (Stickney Mansion)
+state: Illinois
+state_abbrev: IL
+longitude: -88.3523187
+latitude: 42.3007764
+city_longitude: -88.44870209999999
+city_latitude: 42.3147436
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

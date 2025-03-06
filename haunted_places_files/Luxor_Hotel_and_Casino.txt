@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: is said to have a ghost of two construction workers that died while building the Pyramid.
+location: Luxor Hotel and Casino
+state: Nevada
+state_abbrev: NV
+longitude: -115.1760672
+latitude: 36.09551
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

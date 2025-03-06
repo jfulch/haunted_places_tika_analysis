@@ -1,0 +1,21 @@
+city: Arcadia
+country: United States
+description: On a full moon, you can here the sounds of gun shots.
+location: Site where Bonnie and Clyde were killed
+state: Louisiana
+state_abbrev: LA
+longitude: -93.0532771
+latitude: 32.54475910000001
+city_longitude: -92.920158
+city_latitude: 32.5490406
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2002/03/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

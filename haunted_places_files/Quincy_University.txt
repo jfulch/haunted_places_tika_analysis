@@ -1,0 +1,21 @@
+city: Quincy
+country: United States
+description: Padua Hall - The fourth floor of Padua Hall is haunted by a former student that committed suicide by jumping out of the window. The floor was eventually closed down, but reopened earlier this year. People have reported hearing the boy screaming.
+location: Quincy University
+state: Illinois
+state_abbrev: IL
+longitude: -91.3855142
+latitude: 39.9405616
+city_longitude: -91.4098726
+city_latitude: 39.9356016
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1876/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

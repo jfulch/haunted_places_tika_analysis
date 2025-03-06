@@ -1,0 +1,21 @@
+city: Clearwater
+country: United States
+description: In 2000 Eisenhower Elementary School was to undergo massive renovations to its interior. Once the plans were announced night custodians would hear strange banging’s and often see a small boy in a baseball uniform run by. The occurrences became worse and many custodians would not work the night shift. A tape recorder was left on all one night. The sounds of a recently deceased teacher talking to a recently deceased student were heard. This is the boy in the baseball uniform who had died after being hit by a car in front of the school while on his way home. The image of the first principal of the school was observed numerous times and her distinctive perfume could be smelled. Once the renovations started the strange occurrences ceased once and for all.
+location: Eisenhower Elementary School
+state: Florida
+state_abbrev: FL
+longitude: -82.72061509999999
+latitude: 27.9690613
+city_longitude: -82.8001026
+city_latitude: 27.9658533
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

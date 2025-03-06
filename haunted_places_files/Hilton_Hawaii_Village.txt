@@ -1,0 +1,21 @@
+city: Honalulu
+country: United States
+description: Believed to be haunted by the volcano goddess. Visitors, house cleaners, and other staff members say that they see a woman in a red dress walk in the hallways, on the beach, and everywhere in between! Some people say that the volcano goddess shows up in other forms such as a young woman, and old woman, a hitch-hiker, and a stranger that comes to your door, among other things and never travels alone. When on the beach, she'll be accompanied by dancers.
+location: Hilton Hawaii Village
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8376061
+latitude: 21.2830129
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

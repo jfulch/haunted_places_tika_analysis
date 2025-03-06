@@ -1,0 +1,21 @@
+city: Dalton
+country: United States
+description: The heads of the facility will deny it, but if you talk to some of the employees, you will find out it is true It is Hamilton Medical Center. Her name is Matilda. She used to work in the laundry room. She is always sighted, or at least heard from, when there is going to be a death. She may make a noise; one even reported seeing a fire ball go down the hall and into a patient's room. The patient died later that night. She has also been seen in human form.
+location: Hamilton Medical Center
+state: Georgia
+state_abbrev: GA
+longitude: -84.984882
+latitude: 34.789783
+city_longitude: -84.9702228
+city_latitude: 34.7698021
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

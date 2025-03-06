@@ -1,0 +1,20 @@
+city: Aberdeen
+country: United States
+description: There is an uneasy feeling when you walk or drive past the church late in the evenings. Apparitions of 3 children can be seen; 2 girls and a boy standing outside the church. They seem to vanish when you look at them. Large black birds have been seen flying out of the church windows and vanish. Screams can be heard coming from inside the church at night.
+location: Aberdeen Baptist Church
+state: Ohio
+state_abbrev: OH
+longitude: -83.7608795
+latitude: 38.655274
+city_longitude: -83.7610323
+city_latitude: 38.6556296
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

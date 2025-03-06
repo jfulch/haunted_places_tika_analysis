@@ -1,0 +1,20 @@
+city: Diehlstadt
+country: United States
+description: About half a mile into the woods there is a creek that an old set of train tracks used to go across, and one night a homeless man was walking down the tracks sometime around midnight and he had sat down to catch his breathe and fell asleep. The man woke up to the vibration of the tracks but didn't get up in time and the train ran over his neck and decapitated him. Now if you go out there around midnight on a certain day you can see him stumbling around looking for his head.
+location: Tressel
+state: Missouri
+state_abbrev: MO
+longitude: -90.2508896
+latitude: 37.86781209999999
+city_longitude: -89.4309109
+city_latitude: 36.9583841
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

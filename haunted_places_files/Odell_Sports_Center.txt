@@ -1,0 +1,20 @@
+city: Excelsior Springs
+country: United States
+description: Witnesses report seeing a Male figure in the shower and then a locker slammed shut and a strange laugh.
+location: Odell Sports Center
+state: Missouri
+state_abbrev: MO
+longitude: -94.2038703
+latitude: 39.3357982
+city_longitude: -94.2260559
+city_latitude: 39.3391712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

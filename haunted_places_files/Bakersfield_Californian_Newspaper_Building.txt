@@ -1,0 +1,21 @@
+city: Bakersfield
+country: United States
+description: This old building is haunted by a few ghosts. A German Shepard Dog who can be seen, waiting patiently for his master to come and pick him up. An old security guard who can sometimes be seen in the lunchroom. Finally, the former editor of the Californian can be seen walking through the hallways of the building.
+location: Bakersfield Californian Newspaper Building
+state: California
+state_abbrev: CA
+longitude: -119.020514
+latitude: 35.374623
+city_longitude: -119.0187125
+city_latitude: 35.3732921
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

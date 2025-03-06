@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: Alpha Delta Pi Sorority  - According to some girls in that house, a girl in another sorority got sick and died in the house years ago. Since then the ADPi sorority moved into the house and the hauntings began. The girls claim to see a girl walking down hallways, looking out windows, and looking back at them in reflections in the mirrors. Visitors to the house claim to have seen chandeliers mysteriously moving and have heard strange sounds.
+location: Ohio State University
+state: Ohio
+state_abbrev: OH
+longitude: -83.03091429999999
+latitude: 40.0141905
+city_longitude: -82.99879419999999
+city_latitude: 39.9611755
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1851/05/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Charlottesville
+country: United States
+description: The "Old Building" of the school was supposed to be a civil war hospital. It is located about 2 miles from Monticello. There have been numerous reports of a confederate soldier that walks in the upstairs hall.
+location: Tandem Friends School
+state: Virginia
+state_abbrev: VA
+longitude: -78.49142119999999
+latitude: 37.9966321
+city_longitude: -78.47667810000002
+city_latitude: 38.0293059
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Annapolis
+country: United States
+description: This is not to tell you about a haunting. This is to tell you that what you have listed for this location is not correct. I went to Bates in the late 1960's and it was then Bates Middle School and it was not just blacks there. I lived in Annapolis from the time I was born until 1991 when I was 38 years old and have never heard of anyone thrown from the widows of this school. I am not saying that there is not something at this school. I do have the gift, but what is reported on your site is not quite right.
+location: Bates High School
+state: Maryland
+state_abbrev: MD
+longitude: -76.5057326
+latitude: 38.9722578
+city_longitude: -76.4921829
+city_latitude: 38.9784453
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

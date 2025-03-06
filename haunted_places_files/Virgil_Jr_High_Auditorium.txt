@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Reports of doors opening and closing on their own, low moaning sounds emitted from empty rooms, and ropes hanging from a pipe in a bathroom stall (where a student allegedly hung himself). There has also been sightings of a glowing clown like apparition.
+location: Virgil Jr. High Auditorium
+state: California
+state_abbrev: CA
+longitude: -118.2912733
+latitude: 34.074097
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

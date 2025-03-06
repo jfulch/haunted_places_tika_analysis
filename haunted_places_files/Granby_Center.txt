@@ -1,0 +1,21 @@
+city: Fulton
+country: United States
+description: Locals report seeing 4 battered teenage girls staring at them, the same 4 girls who were driving drunk late a night coming from a party in the early 80's. Their car and bodies were never found. Upon looking a second time though they would be gone.
+location: Granby Center
+state: New York
+state_abbrev: NY
+longitude: -76.4171585
+latitude: 43.3228462
+city_longitude: -76.4171585
+city_latitude: 43.3228462
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

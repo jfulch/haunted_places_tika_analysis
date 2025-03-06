@@ -1,0 +1,20 @@
+city: Cottage Grove
+country: United States
+description: Many spirits in this cemetery, one seen in the window of the storage shed, and also smells of perfume in certain areas.
+location: Cottage Grove Historical Cemetery
+state: Minnesota
+state_abbrev: MN
+longitude: -92.8854603
+latitude: 44.8466476
+city_longitude: -92.9438218
+city_latitude: 44.8277446
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Newfield
+country: United States
+description: haunted by Hannah Straw who is buried under the kitchen floor.
+location: Old Straw House
+state: Maine
+state_abbrev: ME
+city_longitude: -70.8470062
+city_latitude: 43.6481341
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

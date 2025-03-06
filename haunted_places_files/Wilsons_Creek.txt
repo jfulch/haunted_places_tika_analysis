@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: People have seen ghosts and heard strange noises like guns and cannons. Apparitions of Confederate soldiers are seen more often.
+location: Wilson's Creek
+state: Missouri
+state_abbrev: MO
+longitude: -93.4190375
+latitude: 37.1157835
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

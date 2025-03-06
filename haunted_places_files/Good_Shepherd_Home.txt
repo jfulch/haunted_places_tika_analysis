@@ -1,0 +1,21 @@
+city: Allentown
+country: United States
+description: elevators open and close, and spirits come by dressed in clothes of the person religion who has just recently died, it is also said the Ghost of Mother Raker haunts the hallways, because the place use to be an orphanage.
+location: Good Shepherd Home
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.4658719
+latitude: 40.5927677
+city_longitude: -75.4901833
+city_latitude: 40.6084305
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

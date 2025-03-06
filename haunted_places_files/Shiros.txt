@@ -1,0 +1,21 @@
+city: Novi
+country: United States
+description: formerly Home Sweet Home - A couple from the early 1800's is said to haunt their once home. There is a 12-ft oak banister right in the doorway where the man is said to appear. Also strange noises in the bathroom and dining areas. Although it is used as a restaurant, nobody ventures into the attic where lights and other sightings have been witnessed. When standing/parked directly facing the front of the house, in the attic window on the right side of the house witnesses have seen the face of a man. He looked like he was wearing a blue war outfit (with big silver buttons.) He has reddish brown hair and a thin beard. (We took a flashlight with us on the night we saw him.)The building is located at 9-and Novi road, yet it can't seem to stay open for business. - November 2003 Update: The ghost believed to be haunting the place is actually in a painting that was placed over the window to patch a break in the pane. And the picture is believed to be the “ghost” seen.
+location: Shiro's
+state: Michigan
+state_abbrev: MI
+longitude: -83.4715322
+latitude: 42.4530123
+city_longitude: -83.4754913
+city_latitude: 42.48059
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1823/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

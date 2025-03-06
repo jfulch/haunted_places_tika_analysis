@@ -1,0 +1,20 @@
+city: Granville
+country: United States
+description: The innkeepers from the 1800's haunt the place.
+location: Buxton Inn
+state: Ohio
+state_abbrev: OH
+longitude: -82.51625299999999
+latitude: 40.067396
+city_longitude: -82.51960369999999
+city_latitude: 40.06811920000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Pine Island
+country: United States
+description: There is a lot of strange occurrences, such as, the dumpster lid slamming up and down, as well as sightings, voices, and loss of breath.
+location: Capt n' Cons
+state: Florida
+state_abbrev: FL
+longitude: -82.163793
+latitude: 26.705896
+city_longitude: -82.1115119
+city_latitude: 26.5957572
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Cumbland Falls Saywer
+country: United States
+description: a while back a couple was getting married but their parents would not let them so they both jump off the bridge and you can see the woman’s ghost at night crying.
+location: Cumbaland bridge
+state: Kentucky
+state_abbrev: KY
+longitude: -84.3452147
+latitude: 36.8389703
+city_longitude: -84.33861999999999
+city_latitude: 36.83866
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

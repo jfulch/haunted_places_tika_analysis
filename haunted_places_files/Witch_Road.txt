@@ -1,0 +1,19 @@
+city: Rosendale
+country: United States
+description: The road is very dark and very cold in certain spots, there is old run down house on the right side of the road where the witch used to live some 50 or 60 years ago, there have been sightings of lights flashing from the end of the road, white lights appearing on trees, and what looks like a little girl peaking her head around the side of tree's. On the way down the road there is a tree on the right side that looks exactly like a witch.
+location: Witch Road
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -88.674832
+city_latitude: 43.8077629
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 1

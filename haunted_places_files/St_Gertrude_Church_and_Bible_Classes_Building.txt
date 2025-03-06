@@ -1,0 +1,21 @@
+city: St. Clair Shores
+country: United States
+description: St. Gertrude Church was built over a cemetery many years ago. Many in the church's night bible classes in the Bible Classes Building have said that if you go into the bathrooms alone you feel an uneasy and it gets cold. And some have even reported of feeling a presence of another person when no one is there or in the hallways. And many have reported feelings like this in the church's bathroom's also.
+location: St. Gertrude Church and Bible Classes Building
+state: Michigan
+state_abbrev: MI
+longitude: -82.90301029999999
+latitude: 42.4528767
+city_longitude: -82.89636039999999
+city_latitude: 42.4974085
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1949/01/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

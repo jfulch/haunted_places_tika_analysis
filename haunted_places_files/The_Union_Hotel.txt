@@ -1,0 +1,21 @@
+city: Benicia
+country: United States
+description: During the 1800's, a young woman hanged herself in one of the rooms of this hotel. To this day, people report seeing her apparition in the window that faces the street. Other guests claim to see lights going on and off and someone talking or crying when no one is around.
+location: The Union Hotel
+state: California
+state_abbrev: CA
+longitude: -122.1604795
+latitude: 38.0475755
+city_longitude: -122.1585777
+city_latitude: 38.049365
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

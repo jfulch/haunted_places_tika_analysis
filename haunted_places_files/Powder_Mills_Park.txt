@@ -1,0 +1,21 @@
+city: Victor
+country: United States
+description: haunted by many different spirits, including that of a bearded man in period dress.
+location: Powder Mills Park
+state: New York
+state_abbrev: NY
+longitude: -77.4786757
+latitude: 43.0443351
+city_longitude: -77.4088794
+city_latitude: 42.9825633
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

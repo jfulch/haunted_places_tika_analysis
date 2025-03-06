@@ -1,0 +1,21 @@
+city: Prattville
+country: United States
+description: In addition to the lights seen by cars, there have been apparitions of Civil War soldiers seen by a few people who lived near the swamp. The people also heard noises and there are an unusual amount of snakes and lizards around the house.
+location: Bear Creek Swamp
+state: Alabama
+state_abbrev: AL
+longitude: -86.5746996
+latitude: 32.4312473
+city_longitude: -86.4596966
+city_latitude: 32.4640245
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

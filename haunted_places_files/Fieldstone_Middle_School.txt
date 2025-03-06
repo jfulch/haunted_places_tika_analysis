@@ -1,0 +1,21 @@
+city: Montvale
+country: United States
+description: In the hallway at the principal's office just outside of the Exploratorium at around 11:30, you will see some ghostly white mist traveling down the hall, it has a sense of peace around it though.
+location: Fieldstone Middle School
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.0492992
+latitude: 41.0540854
+city_longitude: -74.0229173
+city_latitude: 41.0467635
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

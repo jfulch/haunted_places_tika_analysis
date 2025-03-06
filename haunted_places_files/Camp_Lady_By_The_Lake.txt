@@ -1,0 +1,19 @@
+city: Luna Pier
+country: United States
+description: A woman about 20 years ago ran a camp for orphans, and she went for a walk down the beach one day and when she came back the camps were burning and all the kids died, and she committed suicide, When You go there around 1 - 2 am, you can here screams and see the kids playing and you can see the women's ghost on the lake. A strange black apparition seems to follow or chase people.
+location: Camp Lady By The Lake
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.442433
+city_latitude: 41.8069907
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1971/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

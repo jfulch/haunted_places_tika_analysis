@@ -1,0 +1,20 @@
+city: New Madrid
+country: United States
+description: Several strange stories of hauntings going on at this house by those who are on staff there as well as residents living around the house.
+location: The Hunter Dawson Home
+state: Missouri
+state_abbrev: MO
+longitude: -89.52335049999999
+latitude: 36.5964075
+city_longitude: -89.52785469999999
+city_latitude: 36.5864488
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

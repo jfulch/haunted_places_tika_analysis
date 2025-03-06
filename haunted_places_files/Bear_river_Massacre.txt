@@ -1,0 +1,21 @@
+city: Preston
+country: United States
+description: There was a huge Indian massacre at bear river in the winter. The US Calvary killed men, women, and children as they starved to death. Now in the winter you can see footprints and hear babies crying.
+location: Bear river Massacre
+state: Idaho
+state_abbrev: ID
+longitude: -112.190707
+latitude: 41.6485057
+city_longitude: -111.8766173
+city_latitude: 42.0963133
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

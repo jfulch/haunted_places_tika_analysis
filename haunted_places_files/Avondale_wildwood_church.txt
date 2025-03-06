@@ -1,0 +1,21 @@
+city: Westland
+country: United States
+description: a priest was murdered there in 1960 a ghost is seen wondering the grounds near the woods in back of the church at night time only on full moons
+location: Avondale wildwood church
+state: Michigan
+state_abbrev: MI
+longitude: -83.37852
+latitude: 42.3026313
+city_longitude: -83.400211
+city_latitude: 42.32420399999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

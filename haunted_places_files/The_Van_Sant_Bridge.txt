@@ -1,0 +1,21 @@
+city: New Hope
+country: United States
+description: The covered bridge is haunted by the ghost of a woman who killed her child inside the bridge. Also, the figure of a man can be seen hanging from the inside beams. But most many see orbs or mist.
+location: The Van Sant Bridge
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.95642699999999
+latitude: 40.3205834
+city_longitude: -74.9512785
+city_latitude: 40.36427279999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

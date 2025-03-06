@@ -1,0 +1,21 @@
+city: Old Oaklandon
+country: United States
+description: At unpredicted times of the day and night, strange and mysterious things occur at this station. Shadows have been seen and bay doors have been known to open on their own.
+location: Fire Station
+state: Indiana
+state_abbrev: IN
+longitude: -85.9579559
+latitude: 39.8934743
+city_longitude: -85.961709
+city_latitude: 39.8905192
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: London
+country: United States
+description: No. 8 Tunnel in the old tunnel - It has been said that a man named old Caleb or Caleb red eyes that walks the old tunnel at midnight. The reason his name was Caleb red eyes is because he was always drunk and his eyes were bloodshot. It's been said that if you turn your vehicle off and lights you can here him singing and the sound of him will get closer and closer and if you wait long enough you will see a figure that looks just like a person.
+location: Eastbernstadt
+state: Kentucky
+state_abbrev: KY
+longitude: -84.1282957
+latitude: 37.1742235
+city_longitude: -84.08326459999999
+city_latitude: 37.1289771
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1997/04/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

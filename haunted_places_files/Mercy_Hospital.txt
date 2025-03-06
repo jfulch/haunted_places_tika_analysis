@@ -1,0 +1,20 @@
+city: Clark County
+country: United States
+description: an apparition of a transparent small boy in a jacket and a pair of blue jeans leaning on the hall way wall looking at patients.
+location: Mercy Hospital
+state: Ohio
+state_abbrev: OH
+longitude: -83.8161804
+latitude: 39.9286352
+city_longitude: -83.67739279999999
+city_latitude: 39.8912092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1636/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: They have said to have seen a priest at the top floor of the school, it has been said that memorial usd to be a all boys school and that the priest lived there and some how died there.
+location: Memorial Middle School
+state: Texas
+state_abbrev: TX
+longitude: -99.4943892
+latitude: 27.513698
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

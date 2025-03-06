@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: Episcopal High School - People have claimed to hear her walk across the hallways and slam doors shut, sometimes even locking them. Some of the school faculty does not stay after 10:00 so they will not run into her either.
+location: Bellaire
+state: Texas
+state_abbrev: TX
+longitude: -95.4588299
+latitude: 29.7057858
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1839/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

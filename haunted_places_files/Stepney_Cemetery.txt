@@ -1,0 +1,20 @@
+city: Stepney
+country: United States
+description: ghost photos have been taken there for quite some time.
+location: Stepney Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -73.2630829
+latitude: 41.3222055
+city_longitude: -73.2542823
+city_latitude: 41.3039849
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

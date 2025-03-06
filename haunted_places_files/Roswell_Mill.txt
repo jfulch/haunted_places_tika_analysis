@@ -1,0 +1,21 @@
+city: Roswell
+country: United States
+description: The old Roswell Mill is very uneasy as far as hauntings go. During the day, even if it is sunny outside and in the middle of summer, when one drives up to the mill, the temperature drops and it gets dark the closer you come to the main building. At night one can hear screams and cries from the women workers who were sexually assaulted and killed by soldiers. A gray haze covers the area at night.
+location: Roswell Mill
+state: Georgia
+state_abbrev: GA
+longitude: -84.36111179999999
+latitude: 34.014399
+city_longitude: -84.3615555
+city_latitude: 34.0232431
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

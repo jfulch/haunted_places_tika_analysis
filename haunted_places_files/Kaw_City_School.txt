@@ -1,0 +1,21 @@
+city: Kaw City
+country: United States
+description: Lights flickering, strange voices.
+location: Kaw City School
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.8581323
+latitude: 36.764551
+city_longitude: -96.8672668
+city_latitude: 36.7668466
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

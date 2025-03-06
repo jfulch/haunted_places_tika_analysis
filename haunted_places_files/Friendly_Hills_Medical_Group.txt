@@ -1,0 +1,21 @@
+city: La Habra
+country: United States
+description: building is now abandoned from bankruptcy. Reports by security people of cold spats, toilets flushing by themselves. Voices in hallways. Heart monitor heard in cardiac room. Some EVP phenomena recorded. Feeling of not being welcomed. - UPDATE: The building is now torn down.
+location: Friendly Hills Medical Group
+state: California
+state_abbrev: CA
+longitude: -117.959809
+latitude: 33.92777
+city_longitude: -117.946137
+city_latitude: 33.9318591
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Stevensville
+country: United States
+description: About 15 years ago the couple that lived in the Tosi house got into a fight and the husband killed his wife and stuffed her in the chimney. He then moved out. they didn't find her until about 3 months later when they finally figured out where the stench was coming from. There have been reports of people seeing her. - August, 2005 Update: The house was being remodeled and there was a scaffold on the premises at the time that reached to the roof. The couple mentioned did not live in the Tosi house and were not related to Tosi. This couple had met when they were both in a mental institution. Evidently the husband killed his wife and hauled her body up to the roof using the scaffold. He then deposited here body into the chimney. When colder weather came, the furnace was turned on and the house filled with smoke. An inspection of the problem turned up the body in the chimney.
+location: Tosi House
+state: Michigan
+state_abbrev: MI
+longitude: -86.522302
+latitude: 42.039343
+city_longitude: -86.5194654
+city_latitude: 42.014487
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/07/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

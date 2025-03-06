@@ -1,0 +1,21 @@
+city: Morris
+country: United States
+description: IS located above coal mines, and students have spent the night their to investigate. They heard voices in the hallway and they believe that it is a librarian or someone of that sort. IN the boiler room voices are heard and the door classes behind you. No students are allowed after dark.
+location: Morris Community High School
+state: Illinois
+state_abbrev: IL
+longitude: -88.4336864
+latitude: 41.3653072
+city_longitude: -88.4211785
+city_latitude: 41.357254
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,19 @@
+city: West Greenwich
+country: United States
+description: In the 1830's farmhouse residents often hear heavy footsteps, windows that open and close, and water faucets which turn themselves on and off. The house, retaining most of its original construction materials and situated across the street from the Matteson family cemetery, is creaky, drafty and very dark in the winter evenings. While the goings-on in question may be attributed to bad water pressure, settling beams, etc., there is a charming atmosphere, which almost demands the presence of a nineteenth-century farmer's ghost.
+location: Matteson Farm
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.7034862
+latitude: 41.64528139999999
+city_longitude: -71.66381319999999
+city_latitude: 41.62854979999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1907/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Marshall
+country: United States
+description: Muckshaw Rd. - It is said that on nights when there is a full moon you can see the image of an old beat up truck with teenagers hanging off the side of it. It is also said it will chase you. The story is a long time ago these teenagers used to hang off the side for fun until a tragic accident happened. Now, they come back to haunt you on full moons.
+location: Plymouth
+state: Indiana
+state_abbrev: IN
+longitude: -86.3097278
+latitude: 41.3436554
+city_longitude: -87.18779010000002
+city_latitude: 39.8480969
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

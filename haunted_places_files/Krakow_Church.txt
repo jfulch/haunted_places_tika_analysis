@@ -1,0 +1,21 @@
+city: Krakow (near Genoa)
+country: United States
+description: There was an old convent there that was torn down years ago. If you go out there on a full moon and drive past the church going south some say you can still see the convent there. Also seen a figure hanging and swaying.
+location: Krakow Church
+state: Nebraska
+state_abbrev: NE
+longitude: -97.7533104
+latitude: 41.3938949
+city_longitude: -97.7533104
+city_latitude: 41.3938949
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

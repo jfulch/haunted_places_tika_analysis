@@ -1,0 +1,21 @@
+city: Spencer
+country: United States
+description: a long long time ago there was a boy ice fishing on the pond, It was getting late so the boy was starting to pack up when the ice broke he fell in the water which is 40ft deep and drowned. now if you go down there at 8:47 pm on the 23rd of December you can hear thumping on the ice and the screams of a young dying child.
+location: Moose Pond
+state: Iowa
+state_abbrev: IA
+longitude: -95.1408756
+latitude: 43.134899
+city_longitude: -95.144318
+city_latitude: 43.1450748
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

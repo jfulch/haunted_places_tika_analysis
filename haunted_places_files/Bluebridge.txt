@@ -1,0 +1,20 @@
+city: Huron County
+country: United States
+description: Near the village of Monroeville Lamereaux road crosses the Huron river on a blue-painted bridge that is nestled in a tiny valley. Not far from the bridge, Seymour Creek empties into the river. The creek is named for an Ohio militia scout who was killed on one of the bluffs above the creek by Indians during the War of 1812. Another scout who was with Seymour was captured and ransomed at Detroit at the war's end. People have reported seeing strange lights, shadowy forms, and crawling mists around the creek. A few people have reported actually seeing the apparitions of Indians moving in the valley.
+location: Bluebridge
+state: Ohio
+state_abbrev: OH
+longitude: -82.6752815
+latitude: 41.27943519999999
+city_longitude: -82.6483442
+city_latitude: 41.1266687
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Pleasanton
+country: United States
+description: Most of the haunting happen in the bar area of this restaurant. The vintage light fixtures will go dim and then swing back and forth for a short period of time, then stop as abruptly as it started. A strong cold spot on the north edge of the dance floor. Most spooky however is when in the ladies room in a stall, a knocking will happen on the door when no one has entered. Also, in the mirror a gentleman with a decorated festive hat will be looking at you. When you turn to see if he is behind you he is gone. Employees have similar stories. The hotel has closed up tunnels under it that at one time connected to the local police department. The hotel was at one time a very active brothel.
+location: Pleasanton Hotel
+state: California
+state_abbrev: CA
+longitude: -121.8748136
+latitude: 37.663977
+city_longitude: -121.8746789
+city_latitude: 37.6624312
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

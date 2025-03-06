@@ -1,0 +1,21 @@
+city: Coloma
+country: United States
+description: A mischievous spirit inhabits this hotel which was established in 1850. Co owner Gail Masi says her employees named the ghost Christopher and blames him for moving pots and pans, hiding knives and forks, and turning off the teakettles and other harmless pranks. A malevolent spirit named Mark haunted room 4 according to psychic Jeanne Smith. He shot his girlfriend in that room.
+location: Sierra Nevada House
+state: California
+state_abbrev: CA
+longitude: -120.8993991
+latitude: 38.8082798
+city_longitude: -120.8902916
+city_latitude: 38.7999214
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1850/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

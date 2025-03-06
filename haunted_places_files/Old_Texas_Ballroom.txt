@@ -1,0 +1,21 @@
+city: Eagle Pass
+country: United States
+description: In the late 1950's it was said that an old man went crazy and shot himself. If you take pictures you will find out for yourself!
+location: Old Texas Ballroom
+state: Texas
+state_abbrev: TX
+longitude: -100.4675995
+latitude: 28.6817727
+city_longitude: -100.4995214
+city_latitude: 28.7091433
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

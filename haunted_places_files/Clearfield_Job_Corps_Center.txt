@@ -1,0 +1,21 @@
+city: Clearfield
+country: United States
+description: The TB dorm  - is haunted by an old military nurse.
+location: Clearfield Job Corps Center
+state: Utah
+state_abbrev: UT
+longitude: -112.0259739
+latitude: 41.0897952
+city_longitude: -112.0260538
+city_latitude: 41.1107771
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

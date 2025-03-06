@@ -1,0 +1,20 @@
+city: Independence
+country: United States
+description: Former insane asylum. Ghosts in the wooden room of faces. Upper part of mansion that is closed off to public is haunted by Mrs. Vaille who killed herself by overdosing on morphine after her husband Mr. Vaille went crazy and died. - January 2004 correction: Mrs. Vaille did not kill herself after her husband went crazy and died. She took fatal dose of morphine, as stated, but not because he went crazy. she did it because Mr. Vaille was in trouble for mail fraud, and was possibly facing a jail sentence, which is why she killed herself. He never went to jail, since he didn't do it, but she didn't know that. He lived five years after his wife's death and never remarried.
+location: Vaille Mansion
+state: Missouri
+state_abbrev: MO
+longitude: -94.4171299
+latitude: 39.1075843
+city_longitude: -94.4155068
+city_latitude: 39.0911161
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/01/12
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

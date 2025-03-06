@@ -1,0 +1,21 @@
+city: Kotzebue
+country: United States
+description: During the spring season there is a giant puddle under the museum from all the melted snow. A young boy named Alex was playing with a basketball near the museum. His ball went under the building. When he tried to get the ball, he slipped under the building and couldn't get out. He drowned in the water. People say if you bring a basketball into the auditorium, leave it on the floor and say, "Alex, come get your ball!" you will hear the ball start bouncing.
+location: NANA Museum
+state: Alaska
+state_abbrev: AK
+longitude: -162.6051611
+latitude: 66.89258860000001
+city_longitude: -162.5966666
+city_latitude: 66.89833329999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1987/07/29
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 10h 52m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

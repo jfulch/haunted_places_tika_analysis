@@ -1,0 +1,21 @@
+city: Malone
+country: United States
+description: Was built on a cemetery. The cemetery was also built on Indian Sacred ground. There have been sightings of Indians on the playground, and a man who actually uses the boy's bathroom. My Aunt lives behind the school and found out that not only is the school on Indian Sacred ground, but also their house is on the actual burial ground. My three cousins woke up at exactly the same time one night and saw an Indian girl standing on the deck. Also, they have heard moans from the basement. A few years after these occurrences, they put in a pool. They found human bones and Indian artifacts. Since that point, nothing has occurred at the house.
+location: Flanders Elementary
+state: New York
+state_abbrev: NY
+longitude: -74.279719
+latitude: 44.8415177
+city_longitude: -74.29489830000001
+city_latitude: 44.8486596
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

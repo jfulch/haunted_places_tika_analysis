@@ -1,0 +1,19 @@
+city: New Castle County
+country: United States
+description: Womens' Correctional Institute - 2 little children ride their bikes at night up and down the halls. You can hear a little girl crying through the vents in the shower room, especially when there are no more than 1 or 2 persons present. She states her name is Jamie, she is 7-years-old, and she is looking for her mother. You can hear a man fussing and a woman screaming for help. After all, the prison is built on top of the old "POTTERS FIELD".
+location: New Castle
+state: Delaware
+state_abbrev: DE
+longitude: -75.5668166
+latitude: 39.6620397
+city_longitude: -75.667356
+city_latitude: 39.5392979
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

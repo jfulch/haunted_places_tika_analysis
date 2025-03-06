@@ -1,0 +1,21 @@
+city: Girard
+country: United States
+description: About forty years ago a little girl fell off the cliff next to the bridge and her ghost are now seen there. The man named Gudgen, which the place was named after, supposedly beat his mule to death because it refused to cross the bridge, you can hear the hooves and bays on certain nights. Other odd apparitions and presences have also been felt there, such as if look to the right of the bridge up on the top of the cliff, An apparition appears in a dress and really pale. She then falls off the cliff and vanishes into air.
+location: Gudgeonville Bridge
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.2647781
+latitude: 41.963403
+city_longitude: -80.31811929999999
+city_latitude: 42.0003337
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

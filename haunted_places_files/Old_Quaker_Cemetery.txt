@@ -1,0 +1,19 @@
+city: Nashville
+country: United States
+description: At night you can see lights up on the hill. Reports of men wandering in the cemetery as well as a manly apparition pointing a gun at people. You get a very sinking feeling as you enter the cemetery and a sick to the stomach feeling.
+location: Old Quaker Cemetery
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.0930536
+city_latitude: 42.6028137
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

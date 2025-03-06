@@ -1,0 +1,20 @@
+city: St. Paul
+country: United States
+description: Every fall the local media does stories on the sightings and hauntings. Reports that they seen people in 1920's dress walking into the walls. Sounds and voices at night and once when St. Paul Canines were called to investigate the dogs refused to enter the building past the lobby.
+location: St. Paul City Hall
+state: Minnesota
+state_abbrev: MN
+longitude: -93.0940032
+latitude: 44.9441208
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1920/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

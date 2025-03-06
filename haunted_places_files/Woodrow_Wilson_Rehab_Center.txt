@@ -1,0 +1,21 @@
+city: Fishersville
+country: United States
+description: Reports of dorm rooms opening by themselves as one was entering, feelings of being watched, radios changed stations, footsteps, and feeling a presence.
+location: Woodrow Wilson Rehab Center
+state: Virginia
+state_abbrev: VA
+longitude: -78.9911707
+latitude: 38.11898070000001
+city_longitude: -78.9691923
+city_latitude: 38.0990233
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

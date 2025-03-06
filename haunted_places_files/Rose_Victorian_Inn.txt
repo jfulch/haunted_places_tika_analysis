@@ -1,0 +1,21 @@
+city: Arroyo Grande
+country: United States
+description: The nursery -  It is said that a young girl "Alice" haunts the old children's nursery in the Inn. Some say she died of pneumonia, others say that she died of allergies to bee stings, because when they tore down a wall in one of the bedrooms there was a bee hive covering the whole wall. One eyewitness and Neighbor to the Inn for the last 20 years said she saw birds vortexing into the chimney. They say Alice is friendly and loved cats, they often find cats rest in the windowsill of the Nursery.
+location: Rose Victorian Inn
+state: California
+state_abbrev: CA
+longitude: -120.5810206
+latitude: 35.105797
+city_longitude: -120.5907252
+city_latitude: 35.1185868
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

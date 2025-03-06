@@ -1,0 +1,19 @@
+city: Mexia
+country: United States
+description: (urban legend since at least the 60's) - Legend is you can go down it at midnight and turnoff your car and lights and you will see a ball of fire and as you watch this ball of fire it seems to come right at you and flashes real bright.
+location: Battery Road
+state: Texas
+state_abbrev: TX
+city_longitude: -96.482203
+city_latitude: 31.6798895
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Harper's Ferry
+country: United States
+description: Apparitions of soldiers marching through rooms.
+location: Hilltop Hotel
+state: West Virginia
+state_abbrev: WV
+longitude: -77.736243
+latitude: 39.3262807
+city_longitude: -77.7388818
+city_latitude: 39.3253786
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 0

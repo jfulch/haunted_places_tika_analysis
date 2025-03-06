@@ -1,0 +1,20 @@
+city: Derby
+country: United States
+description: The Library was built in 1902 with funds given by Col. and Mrs. Wood who had it built in memory of their son Harcourt Wood. Harcourt died when he was 11 years old after a bout with meningitis, after which the entire school was quarantined. A woman and her son approached the library one snowy evening after hours to drop books in the book drop. Her son saw a light in the window and peered in. His mother said he came sliding down the steep steps on the bank of the library so fast and was so scared because he saw the figure of a young boy in the foyer of the library. Employees have also spoken of mysterious happenings in the library, such as lights turning on and off, doors closing on their own and other incidents.
+location: Derby Public Library also known as Harcourt Wood Memorial Library
+state: Connecticut
+state_abbrev: CT
+longitude: -73.0887994
+latitude: 41.32670299999999
+city_longitude: -73.0889973
+city_latitude: 41.3206523
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1902/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

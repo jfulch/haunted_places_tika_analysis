@@ -1,0 +1,21 @@
+city: Fullerton
+country: United States
+description: The tunnels that run underneath Fullerton are accessible from Plummer Auditorium as well as other spots in Fullerton. Many people will tell you of the "Tunnel Ghosts". These people are from many different eras. One gentleman from WWII is said to follow visitors towards the exits, when they reach the final exit lights, he vanishes.
+location: Plummer Auditorium
+state: California
+state_abbrev: CA
+longitude: -117.920281
+latitude: 33.874498
+city_longitude: -117.9242123
+city_latitude: 33.8703645
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

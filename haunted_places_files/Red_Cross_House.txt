@@ -1,0 +1,21 @@
+city: Anaheim
+country: United States
+description: It is said that it is haunted by the original caretaker. When you get to the room where the children lived you feel a strange presence. In the first room at the entrance if you look at the picture while your going up the stairs you see the eyeballs on the picture of the caretaker you see them watching you. Also when you go up to the second story people mostly females get pushed at a male if they seem to be a perfect couple.
+location: Red Cross House
+state: California
+state_abbrev: CA
+longitude: -117.928038
+latitude: 33.8362677
+city_longitude: -117.9143012
+city_latitude: 33.8365932
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

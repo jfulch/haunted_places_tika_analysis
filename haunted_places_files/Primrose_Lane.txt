@@ -1,0 +1,21 @@
+city: Paragould
+country: United States
+description: If you drive down to the end of the road where the pavement turns into dirt, drive down the path a little bit and turn off your lights. If you sit there for a little while, you will see a figure of a man and his dog. The man is carrying a rifle. It is said that a man was hunting out there long ago and shot himself. If you walk through the woods, some people have said that the man’s dog will come up to you, and then vanish in front of your eyes.
+location: Primrose Lane
+state: Arkansas
+state_abbrev: AR
+longitude: -90.5252377
+latitude: 36.0730451
+city_longitude: -90.4973286
+city_latitude: 36.0584021
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

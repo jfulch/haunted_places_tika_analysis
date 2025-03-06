@@ -1,0 +1,19 @@
+city: Adamsville
+country: United States
+description: The community of Indian Meadows and its sister community Shady Grove, are both built over an ancient Cherokee Indian burial ground. The two have had several hauntings reported over the last two decades. At night, dark figures have been seen scurrying about in the woods on the outskirts of the neighborhoods. Some brave souls who dare walk the streets at night say they can feel or even hear someone following them, but turn around to find that no one is there. People have reported hearing scratching noises outside their houses late at night. One man heard scratching sounds on his front porch late at night, and each time he turned on the porch light to investigate, nothing was there. But the next morning he found claw marks down the banister of the porch. Some see the shadows of people (possibly the spirits of the restless Indians) rushing past their windows at night, but investig ate to find no one outside. In several homes, people have reported hearing footsteps late at night in hallways or on stairs, doors slamming shut by themselves, voices calling out their names, electrical equipment going on and off by itself, and even the sound of someone or something running through the house. In one house, the face of a crying man appeared on several of the doors in the house all at once. Try walking the streets of Indian Meadows or Shady Grove at night and you just might have your own creepy experience.
+location: Indian Meadows
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.9561059
+city_latitude: 33.6009389
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

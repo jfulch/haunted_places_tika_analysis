@@ -1,0 +1,21 @@
+city: Pontiac
+country: United States
+description: Previously the Eagle Theatre -  feeling someone there, and seeing apparitions.
+location: Have a Nice Day Café
+state: Michigan
+state_abbrev: MI
+longitude: -83.279726
+latitude: 42.6192354
+city_longitude: -83.29104679999999
+city_latitude: 42.6389216
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

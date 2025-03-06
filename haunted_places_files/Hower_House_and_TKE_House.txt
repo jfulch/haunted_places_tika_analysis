@@ -1,0 +1,20 @@
+city: Akron
+country: United States
+description: The Hower House, currently owned by the University of Akron, has a well-known female ghost purported to be one of the Howers. She apparently is angry due to husband's infidelity and likes to scare male workers and guests. There are also reports that one of the fraternity houses nearby is also haunted, and this ghost has been seen by students. The ghost is that of a young girl servant who died in the home when it was still used as a residence and is buried in a hard to find grave located behind the house. She has been seen both in the house itself and on the grounds outside.
+location: Hower House and TKE House
+state: Ohio
+state_abbrev: OH
+longitude: -81.5077464
+latitude: 41.07963
+city_longitude: -81.51900529999999
+city_latitude: 41.0814447
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1931/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

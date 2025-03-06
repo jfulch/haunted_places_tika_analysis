@@ -1,0 +1,19 @@
+city: Eaton Center
+country: United States
+description: Beach-Woods-"Uncle Milt's Place" - a grave stone. Lots of orbs and white mists. A demon dog at one part of the woods will give chase. It was a Boy's Camp. Now it's an abandoned ghost town. With lots of cellar holes. At one part of the woods you can get really lost like a maze where nothing looks familiar. Once there was grave stones in there but people took them like a long time ago. You can hear growling. And be careful of quick sand
+location: Sunset
+state: New Hampshire
+state_abbrev: NH
+city_longitude: -71.0822175
+city_latitude: 43.90995239999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1906/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

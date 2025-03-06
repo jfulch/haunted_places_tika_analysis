@@ -1,0 +1,21 @@
+city: Rib Lake
+country: United States
+description: In the campgrounds next to cemetery. Strange sounds and faint moans heard on quiet September night coming from cemetery. Young boy killed in car accident buried there.
+location: Rib Lake Campgrounds
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.1362264
+latitude: 45.3833829
+city_longitude: -90.2084785
+city_latitude: 45.3174662
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

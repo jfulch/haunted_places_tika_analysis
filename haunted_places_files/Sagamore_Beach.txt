@@ -1,0 +1,21 @@
+city: Bourne
+country: United States
+description: You can see a young lady glowing blue walking at the waters edge.
+location: Sagamore Beach
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.52957549999999
+latitude: 41.7979439
+city_longitude: -70.5989325
+city_latitude: 41.74127730000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

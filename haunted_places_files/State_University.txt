@@ -1,0 +1,20 @@
+city: Bowling Green
+country: United States
+description: There are two ghosts on campus. 1. Alice, a ghost who is suppose to haunt the Joe E. Brown theater on campus. 2. Amanda, a ghost who is suppose to haunt the Chi Omega Sorority house on campus.
+location: State University
+state: Ohio
+state_abbrev: OH
+longitude: -83.6300826
+latitude: 41.3797788
+city_longitude: -83.6513229
+city_latitude: 41.3747744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Yakima
+country: United States
+description: About 20 years ago a lady named Sister Sabiena who taught at St. Paul’s died and people say that she jumped out the window or died in the elevator but no one really knows. When you go to the 4th floor you always hear a little scream of see a little shadow of her very short body even when you’re not on the 4th floor you hear noises from above and even in the girls bathroom you hear flushing and water turning on and then you look and no one or nothing is there.
+location: St. Paul's School
+state: Washington
+state_abbrev: WA
+longitude: -120.5255876
+latitude: 46.5959927
+city_longitude: -120.5058987
+city_latitude: 46.6020711
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

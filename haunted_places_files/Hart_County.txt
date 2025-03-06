@@ -1,0 +1,21 @@
+city: Rowletts
+country: United States
+description: The old coats Plantation - This place was built in 1810 there is a family grave yard behind the home also a slave grave yard. Reports of being tapped on the shoulder when alone in the cellar, ghostly mist, apparitions, hearing music, & orbs in pictures.
+location: Hart County
+state: Kentucky
+state_abbrev: KY
+longitude: -85.8941384
+latitude: 37.2408856
+city_longitude: -85.8941384
+city_latitude: 37.2408856
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1810/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

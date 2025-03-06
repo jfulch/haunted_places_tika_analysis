@@ -1,0 +1,20 @@
+city: Anoka
+country: United States
+description: Anoka State hospital has tunnels leading underground that link the buildings together. Mental patients were known to try to escape through the tunnels, were caught and murdered, or committed suicide by hanging themselves from the pipes along the ceiling of the tunnels. Spirits have been heard laughing and whispering, and have been known to appear in the tunnels, which are now closed except to security and maintenance.
+location: Anoka State Hospital
+state: Minnesota
+state_abbrev: MN
+longitude: -93.3797635
+latitude: 45.2149925
+city_longitude: -93.3871758
+city_latitude: 45.1977428
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

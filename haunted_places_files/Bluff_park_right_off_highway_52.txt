@@ -1,0 +1,20 @@
+city: St. Paul
+country: United States
+description: There has been screaming of a man that killed himself down there if you spend a night down there you can hear him yell that he is going to kill himself.
+location: Bluff park right off highway 52
+state: Minnesota
+state_abbrev: MN
+longitude: -93.071864
+latitude: 44.92775959999999
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

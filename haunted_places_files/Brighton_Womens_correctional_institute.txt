@@ -1,0 +1,21 @@
+city: Brighton
+country: United States
+description: before the death sentence was revoked in Michigan hundreds of inmates died in the prison. Rumors of ghost hitchhikers are known to be on the road leading to the prison. These are the souls of inmates executed while attempting escape.
+location: Brighton Women's correctional institute
+state: Michigan
+state_abbrev: MI
+longitude: -83.6954277
+latitude: 42.5191232
+city_longitude: -83.7802214
+city_latitude: 42.5294773
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1762/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

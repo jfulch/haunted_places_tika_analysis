@@ -1,0 +1,21 @@
+city: Beaver
+country: United States
+description: Mudlick Hollow - It is said that in the 1800s tragedy struck when a young newlywed couple was riding their horse drawn buggy through the hollow on their way home after the wedding. A small animal is said to have darted out of the woods, spooking the horses and causing the buggy to roll off the road and into the creek. The bride died from a broken neck and the groom was pinned under a horse (who had become lame) and slowly died next to his new bride. It is said by many locals that on very dark nights a fog creeps up onto the road (which is more of a dirt lane) and you can hear a horse drawn buggy fast approaching behind you, but before it comes upon you there is a crash, a scream, then all is silent and the fog vanishes.
+location: Brighton Township
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.30478459999999
+latitude: 40.6953437
+city_longitude: -80.30478459999999
+city_latitude: 40.6953437
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

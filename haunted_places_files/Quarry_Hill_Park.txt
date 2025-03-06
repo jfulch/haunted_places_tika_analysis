@@ -1,0 +1,20 @@
+city: Rochester
+country: United States
+description: Many strange things have happened here. There is a wooden bridge near the quarry itself called "dead man's bridge", where it is rumored a man hung himself in the 60's. There is also a small cemetery in the park. There is a large memorial to a group of people who died from an epidemic around 100 years ago, and there are rumored to be four unmarked graves. There are also several caves in the park, with strange goings-on reported. Unfortunately, some (not all) of these caves have been closed up.
+location: Quarry Hill Park
+state: Minnesota
+state_abbrev: MN
+longitude: -92.4297814
+latitude: 44.0296706
+city_longitude: -92.4801989
+city_latitude: 44.0121221
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

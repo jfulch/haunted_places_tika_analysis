@@ -1,0 +1,19 @@
+city: Barrington
+country: United States
+description: there is a haunted farm house with a silo. The legend is a man went crazy because he thought his wife was cheating on him, so he murdered her and his kids. He killed himself as well. There is also a five-point star located about 20 yards away from where he buried his family. The star has a dead tree at each point of the star. Apparently you can still hear noises and see something moving around in the house late at night. Even if it is 80 degrees outside you can feel a bitter uninviting chill. It is located in Barrington Illinois on shoe factory road.
+location: The haunted Silo
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.1361888
+city_latitude: 42.1539141
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

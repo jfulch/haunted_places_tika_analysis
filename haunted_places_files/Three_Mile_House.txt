@@ -1,0 +1,21 @@
+city: Edwardsville
+country: United States
+description: An inn and tavern established in 1858, became quite a popular destination along the St. Louis - Springfield stage coach route. Various reports of hauntings including those of slaves, children, various adults. Have been reported.. You can read more about it at: http://www.prairieghosts.com/threemile.html
+location: Three Mile House
+state: Illinois
+state_abbrev: IL
+longitude: -90.6056207
+latitude: 42.5189093
+city_longitude: -89.95315699999999
+city_latitude: 38.8114364
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1858/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

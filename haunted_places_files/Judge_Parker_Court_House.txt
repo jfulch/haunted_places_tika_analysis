@@ -1,0 +1,21 @@
+city: Fort Smith
+country: United States
+description: Judge Isaac Parker, who hanged around 80 people here, haunts the courthouse (that is now a museum). The people he hanged also haunt the courthouse. You can sometimes see the ropes at the gallows sway back and fourth with no wind. Also, you can hear the banging of Parkers gavel in the courthouse.
+location: Judge Parker Court House
+state: Arkansas
+state_abbrev: AR
+longitude: -94.4297647
+latitude: 35.3883026
+city_longitude: -94.3985475
+city_latitude: 35.3859242
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1838/10/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

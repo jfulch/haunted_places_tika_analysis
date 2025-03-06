@@ -1,0 +1,19 @@
+city: Stanly County
+country: United States
+description: there is a story that a family was buried there and on the full moon you can stop and see blood coming from the tomb stone.
+location: bleeding tombstone
+state: North Carolina
+state_abbrev: NC
+city_longitude: -80.23213129999999
+city_latitude: 35.30145540000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

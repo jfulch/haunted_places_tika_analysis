@@ -1,0 +1,21 @@
+city: Mansfield
+country: United States
+description: North HallA young woman named Sarah supposedly haunts North Hall. She is believed to have died after falling from the six-story atrium. Piano music can be heard from the sixth floor, and the imprint of her body has been seen where she landed on the ground.
+location: Mansfield University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.07042799999999
+latitude: 41.8047541
+city_longitude: -77.077468
+city_latitude: 41.80729609999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/09/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: In the main building, at night, a presence can be felt following you. Also, there is an elevator shaft no longer in use where one can feel cold spots and a presence watching them. Presence can be felt in the basement and also on the roof. The building was once a bank and there is an old vault in the basement and a blocked off tunnel that runs between buildings under the entire square. Hangings were once done in the square. Also, at night in the Department of Family Services building, a presence can be felt throughout the building, particularly in the basement where strange noises can be heard.
+location: State Offices Buildings
+state: Missouri
+state_abbrev: MO
+longitude: -93.2925602
+latitude: 37.2093805
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

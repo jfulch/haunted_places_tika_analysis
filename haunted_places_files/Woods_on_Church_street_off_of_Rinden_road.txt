@@ -1,0 +1,19 @@
+city: Cottage Grove
+country: United States
+description: Many sightings of a ghostly cat figure is said to be roaming those woods. My boyfriend's cat was killed in the woods mysteriously. There isn't any evidence of the death. it’s unexplained. Some think the creature called "Ames" killed the cat. Also you can hear a man calling for his dog at night and if you look out a window you can see a dog running from his owner. The dog will look at you and rumor has it if you chase the dog, the dog will disappear and reappear behind you and take you down by the neck. No one has been brave enough to do so
+location: Woods on Church street off of Rinden road
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -89.19955929999999
+city_latitude: 43.0761082
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

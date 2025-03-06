@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Reports of an apparition of a monk walking on the road
+location: Monk monastery on hill
+state: Colorado
+state_abbrev: CO
+longitude: -104.9931381
+latitude: 39.7415398
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

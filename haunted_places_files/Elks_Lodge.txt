@@ -1,0 +1,19 @@
+city: Newport
+country: United States
+description: There is a portrait of a woman and her child at the top of a staircase in the building. If you look at the portrait sometimes you cant see the child as well. This supposedly means that she is walking around in the second floor of the lodge. There has also been sightings of the child and footsteps moving around upstairs. There has also been strange occurrences such as lights flicking on and off.
+location: Elks Lodge
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.3093396
+latitude: 41.4849861
+city_longitude: -71.3128285
+city_latitude: 41.4901024
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

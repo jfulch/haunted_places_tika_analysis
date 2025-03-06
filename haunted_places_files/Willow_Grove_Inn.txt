@@ -1,0 +1,21 @@
+city: Orange
+country: United States
+description: Strange noises in vacant rooms. Footsteps have been heard on many occasions that belong to an unknown and invisible being. On occasion two confederate soldiers have been seen sitting under the big tree out front talking.
+location: Willow Grove Inn
+state: Virginia
+state_abbrev: VA
+longitude: -78.131999
+latitude: 38.273298
+city_longitude: -78.1108342
+city_latitude: 38.2454106
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

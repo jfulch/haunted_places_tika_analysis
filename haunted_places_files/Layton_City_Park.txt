@@ -1,0 +1,21 @@
+city: Layton
+country: United States
+description: there have been reports of loud screaming late at night and if you just happen to be in the park late at night people have said sometimes you will hear there screams and then all of the sudden get a wind like someone was just running past you
+location: Layton City Park
+state: Utah
+state_abbrev: UT
+longitude: -111.9619371
+latitude: 41.0671116
+city_longitude: -111.9710529
+city_latitude: 41.0602216
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

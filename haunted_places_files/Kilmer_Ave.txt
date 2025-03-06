@@ -1,0 +1,21 @@
+city: Taunton
+country: United States
+description: A three family house next to a church in second and third floor strange things have happened like lights going on and off, TV changing channels by it's self, computer mouse moving by it's self, radio turning on and off, hearing footsteps on stairs and knocking on the doors and no one there so the problem is nobody knows why these things are happening no ghosts have been seen at this point.
+location: Kilmer Ave.
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1113085
+latitude: 41.8994475
+city_longitude: -71.0897674
+city_latitude: 41.900101
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

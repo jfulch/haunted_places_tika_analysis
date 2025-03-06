@@ -1,0 +1,21 @@
+city: Killeen
+country: United States
+description: currently Hastings - It was felt by many managers that there was a ghost roaming the managers office and the store aisles. This ghost would knock off magazines from the check stands onto the floor. Also, it was seen that the ghost would make pyramids by food cans on the aisles. There was also a door leading to the catwalk of the store in the managers office, late at night many times you would feel a cold chill and wind blow papers off the desk.
+location: Randalls Food Store
+state: Texas
+state_abbrev: TX
+longitude: -97.6542152
+latitude: 30.4948856
+city_longitude: -97.7277959
+city_latitude: 31.1171194
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

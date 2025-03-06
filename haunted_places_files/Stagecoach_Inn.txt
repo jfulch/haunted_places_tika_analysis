@@ -1,0 +1,21 @@
+city: Groton
+country: United States
+description: a witness saw things flying off the walls like some poltergeist activity.
+location: Stagecoach Inn
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.5686482
+latitude: 42.606676
+city_longitude: -71.5745152
+city_latitude: 42.6112018
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Monroe
+country: United States
+description: There have been many sightings of different ghosts at different times. The most common sighting is of a lady in white with a white glow around her, who walks the cemetery around midnight. Many people have seen her. She appears to be looking for the grave of a loved one, but when she is approached, she slowly vanishes.
+location: Union Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -73.2969908
+latitude: 41.2723314
+city_longitude: -73.2073358
+city_latitude: 41.3325962
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

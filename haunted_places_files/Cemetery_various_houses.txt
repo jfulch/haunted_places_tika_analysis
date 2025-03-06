@@ -1,0 +1,21 @@
+city: Lincoln
+country: United States
+description: very strange happenings. Red lights have been seen, and screams have been heard. One particular house, now taped off and watched by security, has been said to once been occupied by a family where the two youngest girls killed themselves. The house had been torn down and when they started to rebuild it, the ghost of the girls have been seen crying and flickering lights to show they were mad about the new house.
+location: Cemetery; various houses
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.30221399999999
+latitude: 42.427543
+city_longitude: -71.3039469
+city_latitude: 42.4259283
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1996/07/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

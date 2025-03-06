@@ -1,0 +1,20 @@
+city: Raleigh
+country: United States
+description: Spring Hill House - This house was originally privately owned. It was also once part of the Dorothea Dix Hospital complex, but is now owned by NC State University. At night, people inside the empty house have heard a baby crying. The University Police have received activations on the motion detectors inside the house in the pattern of someone walking around the house and out the back door. The original owner is buried in the backyard.
+location: North Carolina State University
+state: North Carolina
+state_abbrev: NC
+longitude: -78.6820946
+latitude: 35.7846633
+city_longitude: -78.6381787
+city_latitude: 35.7795897
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

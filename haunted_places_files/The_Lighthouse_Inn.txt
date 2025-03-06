@@ -1,0 +1,20 @@
+city: New London
+country: United States
+description: Various haunted rooms, and two ghostly Victorian women who roam the hallways at night.
+location: The Lighthouse Inn
+state: Connecticut
+state_abbrev: CT
+longitude: -72.0937095
+latitude: 41.3169413
+city_longitude: -72.0995209
+city_latitude: 41.3556539
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

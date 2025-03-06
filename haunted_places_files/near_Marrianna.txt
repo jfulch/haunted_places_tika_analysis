@@ -1,0 +1,21 @@
+city: Washington
+country: United States
+description: old cemetary /church on hill - It said the girl was buried in the field somewhere.It said you can see the woman in a white dress.One weekend me and about 15 friends drove out to the cemetary/field.It had an eerie feeling but we didnt see anything.
+location: near Marrianna
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.1000562
+latitude: 40.0247953
+city_longitude: -80.2461714
+city_latitude: 40.17396
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

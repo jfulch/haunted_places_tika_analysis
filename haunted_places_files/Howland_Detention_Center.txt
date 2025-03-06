@@ -1,0 +1,21 @@
+city: Taunton
+country: United States
+description: It is said that before it was a boys juvenile detention center it was a mental health institution for women! Once a women tried to escape though the air vents but got stuck and was found dead. Now you can hear clanging on the vents and a faint call of the women’s name!
+location: Howland Detention Center
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0455312
+latitude: 41.8699893
+city_longitude: -71.0897674
+city_latitude: 41.900101
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

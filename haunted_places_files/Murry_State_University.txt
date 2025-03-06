@@ -1,0 +1,20 @@
+city: Murray
+country: United States
+description: SigEp House - An old lady by the name of "Ma" Crawford rented rooms out to the brothers of Sigma Phi Epsilon at Murray State University when their house burned down in the 1970s. When she died, the brothers inherited the house and still live in it today. She is still heard walking up and down the stairs, the light in what used to be her bedroom still turns off and on from time to time with no one touching it, and you hear people talking downstairs in the living room when no one is down there. Also, the most recent experience happened when one of the brothers was sleeping and his door opened from the shut position(door knob turned and the door opened completely) and no one was there. She is believed to just be checking on the brothers and making sure they are alright.
+location: Murry State University
+state: Kentucky
+state_abbrev: KY
+longitude: -88.3214979
+latitude: 36.6163842
+city_longitude: -88.31476099999999
+city_latitude: 36.6103334
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

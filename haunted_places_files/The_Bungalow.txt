@@ -1,0 +1,19 @@
+city: Pelkie
+country: United States
+description: The bungalow is an old house of Thomas ford. There have been sightings of him and children in this house. They are usually seen when there are people present.
+location: The Bungalow
+state: Michigan
+state_abbrev: MI
+city_longitude: -88.63599590000001
+city_latitude: 46.8144711
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

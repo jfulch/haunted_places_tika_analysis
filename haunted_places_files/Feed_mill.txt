@@ -1,0 +1,20 @@
+city: Peculiar
+country: United States
+description: On hot summer nights you can occasionally hear the train whistle blowing they tore the tracks out and there has not been a train through there for at least five years if not more.
+location: Feed mill
+state: Missouri
+state_abbrev: MO
+longitude: -94.4615234
+latitude: 38.7175606
+city_longitude: -94.4585625
+city_latitude: 38.71917639999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1957/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

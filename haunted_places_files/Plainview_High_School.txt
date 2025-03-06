@@ -1,0 +1,21 @@
+city: Plainview
+country: United States
+description: Athletic Department - one day after school the football players went straight to practice, after football practice they have to lift weights, one of the football player was benching pressing by himself with no spotter and they say that the weight was to much and when trying to pick it up he couldn't any more and that weight fell right on his throat, he tried to call for help but that weight wouldn't let him talk or breath, about 20 minutes later the coaches found him dead. It is said that when no one is there and you can hear the weights moving and you can hear the man screaming and sometimes see the guy walking with his head down
+location: Plainview High School
+state: Texas
+state_abbrev: TX
+longitude: -101.725973
+latitude: 34.196803
+city_longitude: -101.7068417
+city_latitude: 34.1847936
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Pecos
+country: United States
+description: it is said that late at night next to the railroad tracks in front of the Santa Rosa church you can hear a women sobbing down the street with a gentle sound of her high heels walking towards you.
+location: Barrio Santa Rosa
+state: Texas
+state_abbrev: TX
+longitude: -103.4892033
+latitude: 31.4262099
+city_longitude: -103.4932293
+city_latitude: 31.4229124
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Ironton
+country: United States
+description: Ironton is the home of Woodland Cemetery, where several hauntings take place. A statue of a woman has a handprint on its face, as the woman died of being slapped and falling down the stairs. The statue is sandblasted, but the handprint once again resurfaces days later. Another story is that of Dr. Lowry, who haunts the cemetery and the town library, where his house formerly was. Several older houses in the town are haunted, including the John Campbell building. More stories surface each day in this fascinating town on the southern tip of Ohio.
+location: - Woodland Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -82.650072
+latitude: 38.5075517
+city_longitude: -82.6829406
+city_latitude: 38.5367471
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

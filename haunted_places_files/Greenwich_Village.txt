@@ -1,0 +1,21 @@
+city: New York City
+country: United States
+description: One If By Land, Two If By Sea Restaurant - Once a carriage house owned and operated by Aaron Burr, the place is apparently running with ghosts. Not the least of which is supposedly Burr's own beloved daughter Theodosia Burr Alston, who vanished off the coast of North Carolina while on her way to visit her father in New York. Apparitions of Theodosia and various other spirits have actually been seen and several women sitting at the bar have had their earrings popped off by an enamored Theodosia.
+location: Greenwich Village
+state: New York
+state_abbrev: NY
+longitude: -74.0027418
+latitude: 40.7335719
+city_longitude: -74.0059728
+city_latitude: 40.7127753
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1783/06/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 1

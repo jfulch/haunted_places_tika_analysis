@@ -1,0 +1,20 @@
+city: Lima
+country: United States
+description: Strange voices have been heard. - June 2008 Correction - Formerly listed as Lima Correctional Institution. For information and pictures check out - http://www.forgottenoh.com/LimaTB/limatb.html
+location: Lima Tuberculosis Hospital
+state: Ohio
+state_abbrev: OH
+longitude: -84.142826
+latitude: 40.72231319999999
+city_longitude: -84.1052256
+city_latitude: 40.742551
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

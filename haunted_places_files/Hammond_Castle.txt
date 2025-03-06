@@ -1,0 +1,21 @@
+city: Magnolia
+country: United States
+description: It is believed that the Ghost of Mr. Hammond, his wife and a Mr. Hammonds lover, are seen from time to time by workers of the museum and it's guests.
+location: Hammond Castle
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.6925
+latitude: 42.58529900000001
+city_longitude: -70.7106005
+city_latitude: 42.5737067
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

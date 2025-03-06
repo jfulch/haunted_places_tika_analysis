@@ -1,0 +1,20 @@
+city: Westerville
+country: United States
+description: It is known for figures to pop up and vanish. And their is a house across the street from the cemetery that is haunted by the spirit of their loved grandmother, but it is a friendly ghost.
+location: Otterbein Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -82.9341199
+latitude: 40.121624
+city_longitude: -82.92906959999999
+city_latitude: 40.1261743
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2015/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

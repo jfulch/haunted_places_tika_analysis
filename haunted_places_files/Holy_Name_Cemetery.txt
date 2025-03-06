@@ -1,0 +1,20 @@
+city: Plymouth
+country: United States
+description: Holy Name Cemetery is located on the corner of Holy Name Drive and a couty road. It's across the street from a brick church. Reports of misty headlights pull in and vanish before your eyes. Witnesses have heard voices, footsteps, when it was horribly windy while calm outside the cemetery, and have seen a white apparition.
+location: Holy Name Cemetery
+state: Minnesota
+state_abbrev: MN
+longitude: -93.5254225
+latitude: 45.0150006
+city_longitude: -93.4555093
+city_latitude: 45.0105194
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1866/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

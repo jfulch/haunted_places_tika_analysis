@@ -1,0 +1,21 @@
+city: Bowie
+country: United States
+description: Fletchertown Road has long been the subject of the story of the "Goat Man". Said to have escaped from the nearby Dept. of Agriculture Research Center and been an experiment gone horribly wrong involving breeding of humans and animals. The Goat Man is said to have murdered and eaten it's victims in the 1950's and 60's. The Goat Man continues to be a favorite ghost story among campfires in this area. In the 1990's Fletchertown Road was widened and many new housing developments sprung up in the area. The original road was one lane and heavily wooded. There were reports in the 1970's of a half man/half animal being spotted on the sides of the road, with red eyes and tattered clothing stained with blood.
+location: Fletchertown Road
+state: Maryland
+state_abbrev: MD
+longitude: -76.7867766
+latitude: 38.9905114
+city_longitude: -76.77913649999999
+city_latitude: 39.0067768
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

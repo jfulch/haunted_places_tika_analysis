@@ -1,0 +1,21 @@
+city: Evansville
+country: United States
+description: At night when the store is closed the owner walks through the mall from store to store. The owner was killed there by an unknown force while checking the stores to make sure they were all locked up and he was found the next day. If you look in there late at night you can see him slowly walking from store to store but if you look away he disappears.
+location: Eastland Mall
+state: Indiana
+state_abbrev: IN
+longitude: -87.4954927
+latitude: 37.9845278
+city_longitude: -87.5710898
+city_latitude: 37.9715592
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

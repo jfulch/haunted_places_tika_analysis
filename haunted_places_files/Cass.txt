@@ -1,0 +1,21 @@
+city: Sullivan County
+country: United States
+description: Antioch Cemetery - Reparts of seeing a man dressed in a dark colored suit with flowers in his hands looking down at the grave on foggy nights around 1:30a.m. Witnesses also see shadows of people flashing past and over their vehicle accompanied by scratching & tapings heard.
+location: Cass
+state: Indiana
+state_abbrev: IN
+longitude: -87.28172719999999
+latitude: 39.1019796
+city_longitude: -87.42075179999999
+city_latitude: 39.08431220000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1818/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Batesville
+country: United States
+description: Used to be an old orphanage that burnt down in the early 1900's. It is said that late at night, up in the chapel, you can hear what sounds like a rocking chair going back and forth. Then, down in the auditorium on a certain night, the walls look like they are burning down. Around the chapel, there are four posts and there's only a shadow of three. Children’s voices, laughing and screaming has also been heard.
+location: Lyon College
+state: Arkansas
+state_abbrev: AR
+longitude: -91.6262059
+latitude: 35.7782924
+city_longitude: -91.6409721
+city_latitude: 35.769799
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

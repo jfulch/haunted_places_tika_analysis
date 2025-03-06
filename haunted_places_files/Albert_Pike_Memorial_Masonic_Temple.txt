@@ -1,0 +1,21 @@
+city: North Little Rock
+country: United States
+description: Haunted by the ghost of Albert Pike, a Confederate general and influential Freemason of the 19th Century.
+location: Albert Pike Memorial Masonic Temple
+state: Arkansas
+state_abbrev: AR
+longitude: -92.270534
+latitude: 34.741533
+city_longitude: -92.2670941
+city_latitude: 34.769536
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

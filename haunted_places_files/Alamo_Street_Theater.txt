@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: There is a ghost by the name Margarite that haunts the establishment. The theater is in an old church building and she is usually seen in the choir loft in Victorian garb.
+location: Alamo Street Theater
+state: Texas
+state_abbrev: TX
+longitude: -98.4878006
+latitude: 29.4199483
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

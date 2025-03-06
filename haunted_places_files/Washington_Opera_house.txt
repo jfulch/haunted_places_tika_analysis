@@ -1,0 +1,21 @@
+city: Maysville
+country: United States
+description: A young girl named Marwas performing on stage until she fell through a trap door and broke her neck. People that have preformed at the Opera house Have seen a blue light where she fell to her death. There is also a reddish stain on the basements carpet.
+location: Washington Opera house
+state: Kentucky
+state_abbrev: KY
+longitude: -83.7671778
+latitude: 38.648843
+city_longitude: -83.744365
+city_latitude: 38.6411854
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

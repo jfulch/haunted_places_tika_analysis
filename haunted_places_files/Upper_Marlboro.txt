@@ -1,0 +1,21 @@
+city: Baltimore
+country: United States
+description: Six Flags America -  Believed to be haunted by the Hall Family (original owners of the land.) Behind The Wild One, Hall Manor house sits partially hidden. This area is off-limits. A grave that marks the only daughter of Eleanor Hall She died on her birthday. On that day in June, rides malfunction and other problems occur more than usual.
+location: Upper Marlboro
+state: Maryland
+state_abbrev: MD
+longitude: -76.6057168
+latitude: 39.379422
+city_longitude: -76.6121893
+city_latitude: 39.2903848
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 0

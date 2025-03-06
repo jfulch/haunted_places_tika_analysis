@@ -1,0 +1,21 @@
+city: Charlotte
+country: United States
+description: when you are in the bottom of the theatre you will feel a coldness breeze and people say that is Rick Eaton the theatre was named after him. he died in 1923 and the theatre was built in 1902. Rick was a nice guy and his poor wife killed herself on the bottom below the upstairs and she shot herself and the bottom was where Rick died. he was up on the little balcony in the bottom and he was painting and he fell off.
+location: Eaton Theatre
+state: Michigan
+state_abbrev: MI
+longitude: -84.8354913
+latitude: 42.56126099999999
+city_longitude: -84.83582109999999
+city_latitude: 42.5636478
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1923/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

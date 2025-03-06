@@ -1,0 +1,21 @@
+city: Buffalo
+country: United States
+description: The U.S.S. Sullivan's is said to be haunted by one of five brothers who died in World War II, named George. He is said to be roaming the ship looking for his younger brothers. There is a room that has pictures of all five, and people have taken pictures of this. The picture of George does not come out, it is a white blur. This ship is a memorial to the brothers.
+location: Naval Serviceman's Park
+state: New York
+state_abbrev: NY
+longitude: -78.8796377
+latitude: 42.8773848
+city_longitude: -78.8783689
+city_latitude: 42.88644679999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

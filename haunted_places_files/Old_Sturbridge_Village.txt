@@ -1,0 +1,21 @@
+city: Sturbridge
+country: United States
+description: Strange lights reported, as well as the rocking chair at the Parsonage has often started rocking by itself. The feeling among many who worked there was that the spirits were friendly to those who respected the people of the past.
+location: Old Sturbridge Village
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.0987031
+latitude: 42.1089111
+city_longitude: -72.0787059
+city_latitude: 42.1084122
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

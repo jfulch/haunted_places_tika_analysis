@@ -1,0 +1,21 @@
+city: Springfield
+country: United States
+description: old church, one of the oldest in the state. there are some spots that you feel like your being watched, and cold spots.
+location: St. rose church
+state: Kentucky
+state_abbrev: KY
+longitude: -85.2625051
+latitude: 37.6934062
+city_longitude: -85.2221819
+city_latitude: 37.6853413
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1924/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

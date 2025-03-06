@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: A number of ghosts have been reported to be seen there by patrons, actors and owners. Ghosts turn off lights and follow the people that lock up the opera house. They have been seen in 1920s-30s clothing.
+location: Lancaster Opera House
+state: New York
+state_abbrev: NY
+longitude: -78.669851
+latitude: 42.901122
+city_longitude: -78.6341996
+city_latitude: 42.8982361
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

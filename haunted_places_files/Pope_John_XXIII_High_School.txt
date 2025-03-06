@@ -1,0 +1,21 @@
+city: Everett
+country: United States
+description: The back elevator at Pope John is certainly very creepy. The fifth floor, which is a small convent, is off limits to students and I have only been up there once in my three years here. While no nun's have been murdered up there several have died. If you get on the back elevator by your self, it will some times take you up to the fifth floor and the doors will open, staying like that for a short time. However, if you pray while this is happening, it will stop and take you to your destination. The elevator also tends to open by itself on every floor when no one is in it or has pressed the buttton. This is a well known story in this school and most people avoid that elevator at all costs.
+location: Pope John XXIII High School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0448881
+latitude: 42.4203445
+city_longitude: -71.0536625
+city_latitude: 42.40843
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

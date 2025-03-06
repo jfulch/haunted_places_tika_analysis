@@ -1,0 +1,21 @@
+city: Oliver Springs
+country: United States
+description: Apparitions seen. At one time in Oliver Springs history two families owned most of the land. The mansion of one of the families was there right where Harvey's is located. Well a murder was committed there. They blamed it on the little black servant boy but too many things were wrong with this. First thing the gun was actually the other families and was returned to them. Second, the boy was too short to cause the gun shot to the back of the head of the lady. The boy's apparent suicide was very suspicious too. Unfortunately the police at the time let people walk around and the whole incident was botched. Recently the police reopened the cased cause of public interest and cleared the black boy. A book was written on the case.
+location: Harvey Furniture
+state: Tennessee
+state_abbrev: TN
+longitude: -84.3387668
+latitude: 36.0437878
+city_longitude: -84.34437179999999
+city_latitude: 36.0445222
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Doylestown
+country: United States
+description: the ghost of a housekeeper still making her rounds has been seen
+location: Fonthill Mansion
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.1230125
+latitude: 40.3211015
+city_longitude: -75.1298939
+city_latitude: 40.3101063
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

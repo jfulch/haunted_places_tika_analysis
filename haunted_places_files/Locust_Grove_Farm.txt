@@ -1,0 +1,19 @@
+city: Middletown
+country: United States
+description: A young boy was said to have died in the house in the early 1900s. The house is 152 years old. Lights, TVs turn themselves on and off. One night the toy train in the sunroom began to go around the track all by itself, and voices have been heard. Feelings of not being alone when you walk in the house is common! At night the house is never quite, squeaks and thumps are heard.
+location: Locust Grove Farm
+state: Delaware
+state_abbrev: DE
+longitude: -75.74579
+latitude: 39.521152
+city_longitude: -75.7163207
+city_latitude: 39.449556
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

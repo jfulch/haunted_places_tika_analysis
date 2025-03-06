@@ -1,0 +1,21 @@
+city: Haymarket
+country: United States
+description: A lil. White church off Logmill road has said to be haunted. There have been white *blobs* floating are there at night.
+location: Logmill
+state: Virginia
+state_abbrev: VA
+longitude: -77.6213087
+latitude: 38.8996374
+city_longitude: -77.6363806
+city_latitude: 38.8120591
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/06/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

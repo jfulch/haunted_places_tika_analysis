@@ -1,0 +1,21 @@
+city: Kennesaw State University
+country: United States
+description: Long ago, this used to be the farm of the Frey family. The campus green is built right on top of the old family's pet cemetery. In the late 1800s, the farmer put his rabid blue tick hound out of his misery by blowing his brains out with a shotgun. He then proceeded to drag his body in circles around the outskirts of the campus green. They say that on the anniversary of the dog's death, you can see him chasing cats around campus with his head still split from the shotgun.
+location: Campus Green
+state: Georgia
+state_abbrev: GA
+longitude: -84.5815717
+latitude: 34.0380784
+city_longitude: -84.5815717
+city_latitude: 34.0380784
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

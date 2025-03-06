@@ -1,0 +1,20 @@
+city: Parsippany
+country: United States
+description: Recently, the ghost of a headless man has been seen roaming about Intervale Road near the place where it meets Route 46.
+location: Intervale Road
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.4268283
+latitude: 40.886268
+city_longitude: -74.41738769999999
+city_latitude: 40.8652865
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1825/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

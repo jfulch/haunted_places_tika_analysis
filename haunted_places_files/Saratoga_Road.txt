@@ -1,0 +1,21 @@
+city: Beaumont
+country: United States
+description: Hundreds of people have witnessed a ghostly light that appears and hovers, then zooms past and even has sat on the hoods of cars. This story is so amazing because so many people have witnessed it and it can be viewed with almost a 100% probability of appearance.
+location: Saratoga Road
+state: Texas
+state_abbrev: TX
+longitude: -94.1770043
+latitude: 30.0794282
+city_longitude: -94.1265562
+city_latitude: 30.080174
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1731/02/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

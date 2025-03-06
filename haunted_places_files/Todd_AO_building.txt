@@ -1,0 +1,19 @@
+city: Hollywood
+country: United States
+description: Apparently a worker back in the 70's committed suicide in the building. Lights turn on and off. Things move on desks sometimes even disappearing when no one is watching and chairs roll around on their own. Security guards for the facility confirm that some nights a figure can be seen roaming the halls and a quiet mumbling voice is often heard through out the facility. Todd A/O is a final dub stage for the film industry and has been around since the 60's
+location: Todd A/O building
+state: California
+state_abbrev: CA
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/12/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

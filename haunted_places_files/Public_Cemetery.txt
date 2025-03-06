@@ -1,0 +1,20 @@
+city: Sheridan
+country: United States
+description: noises and generally bad feelings such as children and then "it" if you are lucky will visit you.
+location: Public Cemetery
+state: Wyoming
+state_abbrev: WY
+longitude: -106.9651652
+latitude: 44.78668880000001
+city_longitude: -106.9561791
+city_latitude: 44.7971939
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.116666666666667
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Harrodsburg
+country: United States
+description: The Old Church Parsonage, originally built in 1880's has had several reported non-violent sightings. Numerous people have re-visited the house to re-tell their story of sightings dating back over 50 years. The previous owner reported that funerals were held in the parsonage. Sightings, sounds and strange "movements" occur almost weekly.
+location: Old Church Parsonage
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.8432852
+city_latitude: 37.762298
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1880/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

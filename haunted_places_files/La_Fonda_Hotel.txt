@@ -1,0 +1,21 @@
+city: Santa Fe
+country: United States
+description: The present dining room in this lovely old hotel is situated exactly over an old well, in which a man leapt to his death over 100 years ago. He had lost his company's money gambling. Guests in the dining room sometimes report seeing a man walk to the center of the room and then jump as if into an invisible hole and simply disappear.
+location: La Fonda Hotel
+state: New Mexico
+state_abbrev: NM
+longitude: -105.9372329
+latitude: 35.6866
+city_longitude: -105.937799
+city_latitude: 35.6869752
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

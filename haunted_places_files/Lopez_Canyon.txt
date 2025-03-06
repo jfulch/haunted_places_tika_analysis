@@ -1,0 +1,21 @@
+city: Sylmar
+country: United States
+description: Glen Haven Memorial Park - There is an alleged gravity hill and there is a statue next to the mortuary building that walks around at night.
+location: Lopez Canyon
+state: California
+state_abbrev: CA
+longitude: -118.3955008
+latitude: 34.3034975
+city_longitude: -118.4571974
+city_latitude: 34.3058279
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1928/12/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Oxnard
+country: United States
+description: Lamps would be on after the residents had turned them off in the morning, reports of a glass slowly edged its way into the sink and shattered as if someone pushed it. Often times while there alone the scent of lavender would waft passed our noses for 2 seconds. It is a rumor that the place is built a top a cemetery that was moved down the street; only the bodies are rumored to still be in the ground.
+location: Los Arbolitos Apartments
+state: California
+state_abbrev: CA
+longitude: -119.179603
+latitude: 34.226913
+city_longitude: -119.1770516
+city_latitude: 34.1975048
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

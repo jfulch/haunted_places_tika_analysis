@@ -1,0 +1,21 @@
+city: Loogootee
+country: United States
+description: The say when you look at the right side of the school you can see a big red spot towards the top of it. They say it represents the blood of the janitor that killed himself there. They found the body hanging from the doorway to the boy's bathroom. They say if you go in there at night you can see him wondering the halls, sometimes mopping the floors, you can hear his keys jingling as he walks down the halls. They also say that he used to have his dog with him some nights that he works. People have said that they see a dog run down the hall on the second floor. Since they've put cameras up more paranormal activity has been recorded.
+location: Loogootee Elementary East
+state: Indiana
+state_abbrev: IN
+longitude: -86.9189835
+latitude: 38.6760782
+city_longitude: -86.9141695
+city_latitude: 38.6769945
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

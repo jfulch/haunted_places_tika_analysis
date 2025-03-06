@@ -1,0 +1,19 @@
+city: Decatur
+country: United States
+description: A long, narrow, dark road off of Hwy 31 will bring you to an eight foot long bridge with no rails that is said to be haunted by the spirit of a crying baby. If you park on the bridge and put your car in neutral, your car will either rock back and forth or be pushed forward. Small handprints have been left on the cars afterwards.
+location: Crybaby Hollow
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.9833417
+city_latitude: 34.6059253
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

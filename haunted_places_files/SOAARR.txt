@@ -1,0 +1,19 @@
+city: Lone wolf
+country: United States
+description: SOAARR is an abandoned rehabilitation camp for teens that had alcohol or drug problems. Cold spots felt and something was seen running past a window.
+location: SOAARR
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -99.2495245
+city_latitude: 34.98950130000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Athol
+country: United States
+description: The Rotundra - This bowling alley that is still open used to be a movie theatre. It used to be called The York Theatre. A long time ago someone planted a bomb in the theatre, which blew up and killed a lot of people. At night when closing the bowling alley you can hear the children that were killed laughing. You can also hear footsteps upstairs where the old theatres where.
+location: Lucky Lanes Bowling
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -72.2267383
+city_latitude: 42.59593290000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

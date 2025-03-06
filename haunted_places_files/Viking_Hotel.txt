@@ -1,0 +1,19 @@
+city: Newport
+country: United States
+description: Sounds of a party coming from an abandon area above guest rooms on the back side of the hotel.
+location: Viking Hotel
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.309705
+latitude: 41.487533
+city_longitude: -71.3128285
+city_latitude: 41.4901024
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

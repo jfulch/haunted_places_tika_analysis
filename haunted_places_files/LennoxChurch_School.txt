@@ -1,0 +1,19 @@
+city: Littlefield
+country: United States
+description: In a small church house or what people would also call a school house. There is to be seen lights turning on and off and black shadows have been seen in there. It has been said if you drive there around midnight you can see both shadows and lights on.
+location: Lennox/Church School
+state: Texas
+state_abbrev: TX
+city_longitude: -102.3249022
+city_latitude: 33.9173148
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

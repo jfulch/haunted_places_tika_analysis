@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: This used to be a hospital and nursing school.. and at times you could see bloody hands and people in the mirrors. In the blocked off attic section you can look in the window from the outside and SEE a face. There are a few stories behind it. 1. The boys were cutting school and got stuck in the attic. 2. A mental patient went crazy and through himself out the window. 3. Mental patients went up into the attic and slit each others wrist. They ARE all possible reasons BUT there is something there AND THEY are all the reason for the man or woman in the window.
+location: James Martin School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.09706179999999
+latitude: 39.9854222
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

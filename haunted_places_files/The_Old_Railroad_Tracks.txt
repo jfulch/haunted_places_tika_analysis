@@ -1,0 +1,19 @@
+city: Cambridge
+country: United States
+description: Back in the hey day, Cambridge was quite the happening place, unlike the small little town it is now. The main way of transportation was the railroad that ran along the edge of town. When President Abraham Lincoln was killed, the government had to ship his body across a few states for it to be buried properly. One of the places that the funeral train passed through was Cambridge, Indiana. You can look it up on the Internet and find out that it actually did. On the anniversary of the funeral train passing through, at around 4 in the morning, you are supposed to see a train come through where the tracks used to be covered by skeleton soldiers still protecting Lincoln's body on that train. The tracks aren't there anymore, but a few remnants of them are still around.
+location: The Old Railroad Tracks
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.17163149999999
+city_latitude: 39.8125465
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

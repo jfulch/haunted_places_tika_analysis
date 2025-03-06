@@ -1,0 +1,21 @@
+city: Malibu
+country: United States
+description: In the women's restroom, the water faucets have been known to turn on by themselves.
+location: Moonshadows Restaurant
+state: California
+state_abbrev: CA
+longitude: -118.618639
+latitude: 34.0374873
+city_longitude: -118.7797571
+city_latitude: 34.0259216
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

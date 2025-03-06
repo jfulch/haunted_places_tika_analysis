@@ -1,0 +1,21 @@
+city: Hartford
+country: United States
+description: At the bottom of the hill, there sits a small wooden bridge over a creek that flows into the woods on the other side. Off to the side is an old wrecked car with scratch marks covering the driver's side door. Legend has it that a hateful man on that very same road, killed a massive German Shepard. The dog (now white and ghostly) supposedly haunts the road, looking for the man who took his life. They say on moonless nights, you can pull up to the bridge, shut your car down, and turn off all the lights. You'll hear and sometimes see this frightful apparition.
+location: Pondtown Creek
+state: Alabama
+state_abbrev: AL
+longitude: -85.7171048
+latitude: 31.069827
+city_longitude: -85.6968778
+city_latitude: 31.1023998
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

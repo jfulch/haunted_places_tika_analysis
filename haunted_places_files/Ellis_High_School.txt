@@ -1,0 +1,21 @@
+city: Ellis
+country: United States
+description: Lockers slamming, The toilet in the girls bathroom flushes by itself all of the time, accompanied by chills.
+location: Ellis High School
+state: Kansas
+state_abbrev: KS
+longitude: -99.5594342
+latitude: 38.9288608
+city_longitude: -99.56066690000002
+city_latitude: 38.9380662
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

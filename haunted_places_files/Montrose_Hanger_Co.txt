@@ -1,0 +1,21 @@
+city: Wilson
+country: United States
+description: This cluster of buildings were built in the late 1800's. On the second floor at any time of the day you can watch the greyish black figures moving around and following you. You can also hear people talking and working on the third floor. When you go up there to see who it is there is no one around. You can also hear foot steps in other parts of the the building. On the the first floor if you are alone occasionally something will touch you on your shoulder. Also on the first floor the ghost of a man can be seen near the elevators. In the late afternoon you can see black shadows climb the stairs in the office and you will hear footsteps and doors slam open and shut. This is a very creepy place. On the stairs to the third floor something will brush past you. Most sightings occur while you are not alone but in a group situation.
+location: Montrose Hanger Co.
+state: North Carolina
+state_abbrev: NC
+longitude: -77.935531
+latitude: 35.759949
+city_longitude: -77.9155395
+city_latitude: 35.7212689
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

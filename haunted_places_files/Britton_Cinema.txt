@@ -1,0 +1,21 @@
+city: Tampa
+country: United States
+description: Doors in the ladies room are reported to shut and lock and toilets flush when no one is in the restroom is in there (except for the frightened customer). Also, multiple ghosts have been reported by managers past in the upstairs theaters that used to be one large balcony. Voices have been heard in the hall near auditorium #5 late at night when no one was in the building. An usher once heard someone call his name in auditorium #3 late at night when no one was around. And, last, an assistant manager once told me she had been followed up the hall by a shadow figure on the wall that was not hers.
+location: Britton Cinema
+state: Florida
+state_abbrev: FL
+longitude: -82.504796
+latitude: 27.90584
+city_longitude: -82.4571776
+city_latitude: 27.950575
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

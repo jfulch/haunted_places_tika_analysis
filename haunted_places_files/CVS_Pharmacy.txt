@@ -1,0 +1,20 @@
+city: Wauchula
+country: United States
+description: Before the Pharmacy was built, there was a green house at the corner of bay street and US HWY 17 that people say was haunted. The house was unoccupied for years. Sometimes people who went in say they saw something with a green face chase them out. We have received no reports since the Pharmacy was built.
+location: CVS pharmacy
+state: Florida
+state_abbrev: FL
+longitude: -81.81041540000001
+latitude: 27.5447565
+city_longitude: -81.8114715
+city_latitude: 27.5472589
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 42m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

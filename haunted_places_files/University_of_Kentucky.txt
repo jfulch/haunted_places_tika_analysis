@@ -1,0 +1,21 @@
+city: Lexington
+country: United States
+description: Guignol Theatre - Witnesses report feeling as if being watched....strange banging noises at night. Some claim to have a seen a ghostly man wandering the catwalk or the lighting booth.
+location: University of Kentucky
+state: Kentucky
+state_abbrev: KY
+longitude: -84.5039697
+latitude: 38.0306511
+city_longitude: -84.5037164
+city_latitude: 38.0405837
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1962/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

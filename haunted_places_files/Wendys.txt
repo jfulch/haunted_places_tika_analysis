@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: A few days after it opened, one of the workers was closing up and he went to empty the trash and found the body of a dead girl about the age of 16 in a ballerina costume. Late at night you can hear her calling the name "Tommy" and the sound of soft music.
+location: Wendy’s
+state: Colorado
+state_abbrev: CO
+longitude: -104.8713639
+latitude: 38.8530005
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1978/08/03
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 0

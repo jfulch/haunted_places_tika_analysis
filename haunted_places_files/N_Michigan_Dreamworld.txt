@@ -1,0 +1,19 @@
+city: South Bend
+country: United States
+description: It is said that a lady walking her dog down the train tracks that used to run by this location was hit and killed by a train. it has been told to this day even though the tracks are not there you can see premonitions of her and her dog. on some nights it is told you can even hear her calling her dog looking for it.
+location: N. Michigan / Dreamworld
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.25198979999999
+city_latitude: 41.6763545
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1992/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

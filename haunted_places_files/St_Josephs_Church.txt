@@ -1,0 +1,21 @@
+city: Jersey City
+country: United States
+description: This church is located right by the Courthouse. You must stand in front of the Mc. Donald's to see it. At night, you can see two lights(eyes) in the tower. These are known as the "Cat's Eyes of St. Joseph." There are no lights located in the tower itself and the street lights do not extend up that high. There is no explanation for it as yet.
+location: St. Joseph's Church
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.078932
+latitude: 40.724476
+city_longitude: -74.0776417
+city_latitude: 40.72815749999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

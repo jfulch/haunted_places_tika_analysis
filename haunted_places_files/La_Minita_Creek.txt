@@ -1,0 +1,21 @@
+city: Roma
+country: United States
+description: In the early 1950's, during a severe thunderstorm a vehicle traveling across "La Minita Creek" on old Hwy83-seven miles north of Roma, struck the concrete guardrail. The vehicle, with its three occupants, flipped over the railing and plunged into the swollen creek. The driver of the vehicle, fighting the raging water, managed to extract his unconscious wife from the vehicle. Upon his return to the vehicle, he was unable to rescue their eight-year-old daughter. The little girls body was never recovered. Since then, some locals in the area have reported sightings of a little girl wandering the fields and woods adjacent to the creek. Numerous sightings of this "Lost Little Girl" have been reported in the area where the creek meets the Rio Grande River. Illegal aliens crossing the river have reported seeing a little girl running along the bank of the river. Dove hunters and campers have also reported seeing a little girl running through the woods, accompanied by sounds of a crying child.
+location: La Minita Creek
+state: Texas
+state_abbrev: TX
+longitude: -99.0748321
+latitude: 26.5060807
+city_longitude: -99.0156554
+city_latitude: 26.4088523
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1844/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

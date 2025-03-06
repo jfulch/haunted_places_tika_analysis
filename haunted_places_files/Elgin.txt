@@ -1,0 +1,21 @@
+city: Lauderdale
+country: United States
+description: Jazz Man - The story goes that a jazz musician was walking across the Second Creek Bridge when a car struck him. He walks up and down the bridge, still wearing his white Zoot suit, looking for a ride to Florence. If you stop to pick him up, he says something about his trumpet and disappears.
+location: Elgin
+state: Alabama
+state_abbrev: AL
+longitude: -87.391133
+latitude: 34.8486973
+city_longitude: -87.658113
+city_latitude: 34.8840876
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 37m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Ellensburg
+country: United States
+description: Barto Hall is haunted on the top floor in the room now known as C-37, a young man haunts the room and people that have lived there in the past have heard strange noises and seen apparitions of him standing in the door way to the bedroom.
+location: Barto Hall
+state: Washington
+state_abbrev: WA
+longitude: -120.536095
+latitude: 47.0042009
+city_longitude: -120.5478474
+city_latitude: 46.9965144
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1919/10/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

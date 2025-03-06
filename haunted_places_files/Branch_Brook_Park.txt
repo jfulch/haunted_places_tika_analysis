@@ -1,0 +1,20 @@
+city: Newark
+country: United States
+description: The story goes that a couple who just got marry we're passing through the park on there way to there Honeymoon, When all of sudden the groom lost control of his vehicle and crash into a old tree, The impact was so devastating that bride was ejected from the car and fell next to the old tree and they say that the ground open up an took her and when the police arrived all they found was the groom dead and a piece of white cloth sticking out of the ground. The story is she haunting the park at night in her bloody wedding dress.
+location: Branch Brook Park
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.181168
+latitude: 40.7594562
+city_longitude: -74.1723667
+city_latitude: 40.735657
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

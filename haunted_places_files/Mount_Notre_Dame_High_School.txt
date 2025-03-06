@@ -1,0 +1,20 @@
+city: Cincinnati
+country: United States
+description: A girl attending the school who killed herself in the early 40's has been known to haunt the 3rd floor of the school. She opens up all the lockers on the 3rd floor. Also every light has been seen on in the building at night after the school has been locked up.
+location: Mount Notre Dame High School
+state: Ohio
+state_abbrev: OH
+longitude: -84.4298767
+latitude: 39.22075
+city_longitude: -84.5120196
+city_latitude: 39.1031182
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

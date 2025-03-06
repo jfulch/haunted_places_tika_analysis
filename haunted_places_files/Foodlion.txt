@@ -1,0 +1,21 @@
+city: Summersville
+country: United States
+description: A young girl known as Sally to the many that have seen her haunts the Foodlion in Summersville .She is a young girl around the age of 8, that knocks stuff off the shelves and then returns them to there original spot. However, when Sally gets upset she is said to pick up wooden crates and smash them to the ground. After, months of research the management was told by the former owners that Sally was buried underneath the store’s location.
+location: Foodlion
+state: West Virginia
+state_abbrev: WV
+longitude: -80.83027299999999
+latitude: 38.306949
+city_longitude: -80.8525981
+city_latitude: 38.2812203
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1891/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

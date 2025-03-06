@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: Texas Roadhouse - The Texas Roadhouse in Taylor Michigan has been receiving stories from guests and workers that there is a woman in the women's bathroom breast feeding her sick baby with the stall door open. Everyone sees the ghost after they have used the bathroom and did not see anyone. They then leave and never see the lady ar her baby come out or any sign of them. It is said to be the ghost of the lady in white who is sometimes seen a Southland Malls parking lot or across the street in the cemetery at night.
+location: Taylor
+state: Michigan
+state_abbrev: MI
+longitude: -83.3515369
+latitude: 42.27596
+city_longitude: -83.3863214
+city_latitude: 42.2814269
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

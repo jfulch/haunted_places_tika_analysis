@@ -1,0 +1,21 @@
+city: Willis
+country: United States
+description: has a various ghostly activity.
+location: The Pickle Barrel restaurant
+state: Michigan
+state_abbrev: MI
+longitude: -83.557165
+latitude: 42.158141
+city_longitude: -83.5586429
+city_latitude: 42.1583697
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

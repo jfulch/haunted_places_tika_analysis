@@ -1,0 +1,19 @@
+city: Pine Ridge
+country: United States
+description: The Horton House is an abandoned house located on the outskirts of Fort Payne in a small town known as Pine Ridge. The house is the site of a vicious murder, where a father went insane and mutilated his wife and his three children, and committed suicide shortly after. Witnesses say that the entire family haunts the house. There have been stories of séances that went horribly wrong in this house. There have also been numerous accounts of people being choked when they walk into this house. Knocking can be heard on the walls and the floors, and the sounds of a bird will come through the bay window that turns into the sound of loud screams of a young girl.
+location: Horton House
+state: Alabama
+state_abbrev: AL
+city_longitude: -85.78441339999999
+city_latitude: 34.4395327
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

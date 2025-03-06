@@ -1,0 +1,21 @@
+city: Orange City
+country: United States
+description: third floor room is haunted by the ghost of a daughter of the people who originally built the house back in 1918, long before it became a funeral home. The story goes that she contracted some kind of infectious disease common around those times and was cared for in third floor bedroom to keep here away from the rest of the family. She eventually succumbed to the disease. A ghost of a young girl has been spotted looking out the third floor window. And the few people who have lived in the second floor apartment have talked about hearing the floor creaking on the third floor, as if someone is walking around.
+location: Lankford Funeral Home
+state: Florida
+state_abbrev: FL
+longitude: -81.3004077
+latitude: 29.027853
+city_longitude: -81.2986741
+city_latitude: 28.9488761
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1918/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

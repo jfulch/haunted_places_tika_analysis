@@ -1,0 +1,21 @@
+city: Montgomery
+country: United States
+description: The shower in room #3 In the Burdette House turns on and off by its self. Unknown what causes it or who it might be.
+location: Black Lantern Inn – Room # 3
+state: Vermont
+state_abbrev: VT
+longitude: -79.9466975
+latitude: 37.2596725
+city_longitude: -72.63817999999999
+city_latitude: 44.9025466
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

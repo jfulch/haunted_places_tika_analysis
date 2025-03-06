@@ -1,0 +1,21 @@
+city: Lake Elsinore
+country: United States
+description: burned down - Reports of an eerie feeling of not being welcome there. The place is in shambles on the inside and is always unusually cold in the hallway to the right of the foyer. Strange things are said to happen here frequently. **Update - has recently burned down. very negative place it was when it was standing and the land and ruins that are now left have not changed that cold place one bit... on one interesting note... the country club burned down in a huge fire and didn't so much as singe the properties surrounding it.
+location: The Abandoned Country Club
+state: California
+state_abbrev: CA
+longitude: -117.2606995
+latitude: 33.6739688
+city_longitude: -117.3272615
+city_latitude: 33.6680772
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

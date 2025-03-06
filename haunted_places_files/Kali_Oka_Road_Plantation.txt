@@ -1,0 +1,19 @@
+city: Saraland
+country: United States
+description: Story has it that an old lady lived in the old home with her seven foot tall black bodyguard and housekeeper. There are reports of seeing the guard standing by the front porch, as if he was still guarding her.
+location: Kali Oka Road Plantation
+state: Alabama
+state_abbrev: AL
+city_longitude: -88.07055559999999
+city_latitude: 30.820742
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

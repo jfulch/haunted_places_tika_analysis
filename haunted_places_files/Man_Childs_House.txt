@@ -1,0 +1,19 @@
+city: South Milwaukee
+country: United States
+description: A child was said to be trying to get something from the attic and when he pried the door open a large shelf fell and crushed him.  Every time the Man Child goes upstairs there is said to be a crying of a small child.
+location: Man Childs House
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -87.8606367
+city_latitude: 42.9105722
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

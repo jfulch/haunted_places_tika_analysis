@@ -1,0 +1,21 @@
+city: Tucson
+country: United States
+description: Magma Copper Mine - Several mine workers have reported seeing lights and workers that aren’t assigned to their level. One worker reported having another mine worker come into his line and help him work for over 30 minutes, only to find out later that there wasn't another worker on that level all day. A mineworker died in a cave-in when this mine was first being built, and it is said that the body could not be recovered, due to the size of the cave-in.
+location: San Manuel
+state: Arizona
+state_abbrev: AZ
+longitude: -111.0266871
+latitude: 32.3730644
+city_longitude: -110.926479
+city_latitude: 32.2217429
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

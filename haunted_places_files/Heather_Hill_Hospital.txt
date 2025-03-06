@@ -1,0 +1,20 @@
+city: Chardon
+country: United States
+description: A young boy is seen constantly by nurses, and nursing assistants on area C of the hospital (Usually at night). He is always by himself running into rooms. Workers have followed it into a room and looked all over to find nothing. I have been in rooms working with patients and heard knocking on the walls. Only to find no one awake in the rooms beside or below. Other workers talk of hearing strange knockings too. Some older patients will begin talking this boy while workers are in the room seeing nothing. But when asked for a description the patients describe the little boy dressed in old knickers. Workers at the hospital call him the knicker boy.
+location: Heather Hill Hospital
+state: Ohio
+state_abbrev: OH
+longitude: -81.222709
+latitude: 41.5359302
+city_longitude: -81.2133262
+city_latitude: 41.5786639
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

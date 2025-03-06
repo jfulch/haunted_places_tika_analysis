@@ -1,0 +1,19 @@
+city: Blairsville
+country: United States
+description: This man who worked there got tired of life so the man hung himself with the boot laces. Drive by there late at night and you can see him looking out at you. Go to the back of the building and look through the window there will be a light on and you can see the mans body hanging there.
+location: Old Boot Factory
+state: Georgia
+state_abbrev: GA
+city_longitude: -83.95824119999999
+city_latitude: 34.8761989
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

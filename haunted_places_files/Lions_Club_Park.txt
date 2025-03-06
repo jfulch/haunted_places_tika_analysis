@@ -1,0 +1,19 @@
+city: Stanton
+country: United States
+description: Toward the back of the park, park your car and stand there for a few minutes and you will hear spirits walking around. You will also hear a ghost horse running but you don't see it. You will hear weird noises as you walk through the graveyard.
+location: Lions Club Park
+state: Kentucky
+state_abbrev: KY
+city_longitude: -83.85825249999999
+city_latitude: 37.8456373
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1932/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

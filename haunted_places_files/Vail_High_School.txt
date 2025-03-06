@@ -1,0 +1,21 @@
+city: Tucson
+country: United States
+description: There have been rumors of spirit visions in the male restrooms of the school. Sinks turn off and on, while toilets tend to flush constantly when no one else is in the room. Teachers have reported an adult male in the restroom that disappears without a word in a split second.
+location: Vail High School
+state: Arizona
+state_abbrev: AZ
+longitude: -110.8274017
+latitude: 32.0967099
+city_longitude: -110.926479
+city_latitude: 32.2217429
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

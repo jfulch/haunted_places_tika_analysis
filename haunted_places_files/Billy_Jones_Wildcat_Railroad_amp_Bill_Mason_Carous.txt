@@ -1,0 +1,21 @@
+city: Los Gatos
+country: United States
+description: Noises have often been heard from inside the carousel building especially after hours. Employees have reported sounds of doors being shut, gates opening and closing, and lights being turned on and off. When employees have investigated such noises, no one was around. Most activity here is pretty docile and friendly however.
+location: Billy Jones Wildcat Railroad &amp; Bill Mason Carousel
+state: California
+state_abbrev: CA
+longitude: -121.9745418
+latitude: 37.2366887
+city_longitude: -121.9623751
+city_latitude: 37.2358078
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

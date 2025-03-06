@@ -1,0 +1,21 @@
+city: Liberty
+country: United States
+description: A woman in a flowing white bridal gown has been seen wandering and peeking from behind the trees many times over the years. She never makes a sound but some have come close to her and it's said that she wears a veil to cover her face. No one knows who she may be, however, there is a grave yard and a church at the bottom of the hill...most certainly her final resting place. She is simply called, "The Bride".
+location: Wilson Ridge Hill
+state: Kentucky
+state_abbrev: KY
+longitude: -84.982547
+latitude: 37.3645955
+city_longitude: -84.9393979
+city_latitude: 37.3184064
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lowell
+country: United States
+description: There is a mansion a little bit further down the road that 3 people were apparently murdered and thrown off the bridge. Take I-65 to the Lowell exit and take a right on Clay Street. Reports of cars rocking and thick fog appears from nowhere.
+location: Indiana Bridge
+state: Indiana
+state_abbrev: IN
+longitude: -87.41332299999999
+latitude: 41.2962256
+city_longitude: -87.4205903
+city_latitude: 41.2914243
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

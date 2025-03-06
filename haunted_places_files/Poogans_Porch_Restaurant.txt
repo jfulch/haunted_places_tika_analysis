@@ -1,0 +1,20 @@
+city: Charleston
+country: United States
+description: Guests of the hotel across the street at the hotel have called the police numerous times claiming to see an old woman in the 2nd floor window at night when the place is closed waving at them. Restaurant staff is familiar with her too. There is another ghost that haunts this restaurant, one that is much friendlier than the other ghost, Zoe. There is a little West Highland White Terrier, named Poogin, who haunts the front of the porch. People will feel something brush up against their leg, or hear little footsteps. He has been seen a couple of times, and causes no trouble or harm.
+location: Poogans Porch Restaurant
+state: South Carolina
+state_abbrev: SC
+longitude: -79.9319309
+latitude: 32.7781321
+city_longitude: -79.93105120000001
+city_latitude: 32.7764749
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

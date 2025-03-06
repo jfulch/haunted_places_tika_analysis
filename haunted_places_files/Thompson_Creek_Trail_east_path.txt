@@ -1,0 +1,21 @@
+city: Claremont
+country: United States
+description: while walking this path in the late evening hours, strange noises that sound like scratching and footsteps coming from bushes on the sides of the trail have been heard. Also there have been reports of cloud formations forming skull-like shapes. Also, when no one is around you, sometimes shadowy figures can be seen walking behind you, sometimes hiding behind bushes. The crackling sounds from the power lines overhead don't help the experience too much, adding a deeper eeriness to this location.
+location: Thompson Creek Trail (east path)
+state: California
+state_abbrev: CA
+longitude: -117.7179162
+latitude: 34.1289087
+city_longitude: -117.7197785
+city_latitude: 34.0966764
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

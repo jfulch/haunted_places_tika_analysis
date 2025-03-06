@@ -1,0 +1,20 @@
+city: Hinckley
+country: United States
+description: a young woman in a old fashion dress has been seen on the stairs.
+location: Hinckley Library
+state: Ohio
+state_abbrev: OH
+longitude: -81.739319
+latitude: 41.16168
+city_longitude: -81.71305219999999
+city_latitude: 41.2429494
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1895/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

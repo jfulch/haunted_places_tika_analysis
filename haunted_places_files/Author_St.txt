@@ -1,0 +1,19 @@
+city: Pawtucket
+country: United States
+description: On the floor of an apartment there are hauntings. The apartment building was built over the cemetery, and at night you can see and hear a man playing the piano.
+location: Author St.
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.37060249999999
+latitude: 41.881175
+city_longitude: -71.38255579999999
+city_latitude: 41.878711
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1999/09/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

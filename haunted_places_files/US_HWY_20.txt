@@ -1,0 +1,19 @@
+city: Brushy Prarie
+country: United States
+description: If you are driving on US Hwy 20 around 12:00am till 5:00am you might as you near the Brushy Prarie Cemetery You may get a glimpse of the Lady in White. She wonders down the highway towards the cemetery in a beautiful white wedding dress. Many people have tried to pick her up, but when they pull up to her she just disappears. She is most active around holidays.
+location: US HWY 20
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.2474744
+city_latitude: 41.6417168
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

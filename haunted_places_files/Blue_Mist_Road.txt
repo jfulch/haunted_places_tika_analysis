@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: On this road at night a bluish mist forms over the road. There is also a cemetery on this street. Two headstones touch every full moon. And when the full moon is over, they don't touch anymore.
+location: Blue Mist Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0007986
+latitude: 40.6075379
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

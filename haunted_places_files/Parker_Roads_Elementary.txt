@@ -1,0 +1,20 @@
+city: Florissant
+country: United States
+description: A lot of people might not know this, but this elementary school is an eerie place. About sixty years ago, before the school was ever built and before the neighborhood around was constructed, there was a cemetery in the area where the school is now. The state ordered the owners of Leaf Brown Cemetery to dig up the graves so that the bodies could be relocated to another cemetery. Well, the diggers stupidly forgot to remove one of the bodies. The reason they didn't notice it there before, was because the body was buried so deep. Now, the ghost of the dead body haunts the elementary school. Some children have spotted the ghost in some of the bathrooms. It is said that the ghost is a woman in a black dress with long blond wavy hair, and no eyes. She sometimes approaches the children quickly and tries to catch them. Luckily they've managed to get away. They say teachers and other faculty can't see the ghost. Only children can see her.
+location: Parker Roads Elementary
+state: Missouri
+state_abbrev: MO
+longitude: -90.30309
+latitude: 38.7949604
+city_longitude: -90.322614
+city_latitude: 38.789217
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

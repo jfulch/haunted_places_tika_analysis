@@ -1,0 +1,19 @@
+city: Prescott
+country: United States
+description: Late at night, presences can be felt in surrounding areas. They can be felt more prominently while standing on the steps once used for seating. While standing at the podium, you can sometimes see people in cloaks, above on the rocks. There are three crosses sticking out of the top of a rock here also, and a very negative presence can be felt when near this rock.
+location: Outdoor Church Off Highway 89
+state: Arkansas
+state_abbrev: AR
+city_longitude: -93.3810057
+city_latitude: 33.8026107
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

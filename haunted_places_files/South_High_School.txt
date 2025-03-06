@@ -1,0 +1,21 @@
+city: Waukesha
+country: United States
+description: A tall column of darkness has been seen to follow individuals around in the theatre.  Strange occurrences reported also, especially at night or when the lights have been turned out.
+location: South High School
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.222779
+latitude: 42.9928369
+city_longitude: -88.2314813
+city_latitude: 43.0116784
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Anniston
+country: United States
+description: The store was robbed and two of the employees and 2 patrons who where brothers were killed. The killer was caught, but the store closed down and has remained standing ever since. Many years before the Blockbuster incident, the land on which the building sets was occupied by a gas station. In the late 1960's, a woman was brutally beaten, raped and murdered there. On the far right hand side is where her body was found. The murderer, on the other hand, never was. If you walk to the right side of the building, which is where the killer supposedly exited the building, you can feel the energy of the spirits. It is in the form of cold wind. – June 2008 Update: The building was partially torn down and remodeled. it is currently a doctor's office. The families of the men who were killed have left four crosses in the front of the building as a memorial. The killer was linked to multiple homicides in the surrounding areas as well as over in Georgia. The killer died a few years ago while serving his life with no parole sentence.
+location: Blockbuster
+state: Alabama
+state_abbrev: AL
+longitude: -85.7854746
+latitude: 33.6436714
+city_longitude: -85.8316318
+city_latitude: 33.6598257
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

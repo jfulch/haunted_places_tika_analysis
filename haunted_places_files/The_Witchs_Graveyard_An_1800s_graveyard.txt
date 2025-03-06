@@ -1,0 +1,21 @@
+city: Marietta
+country: United States
+description: Where a supposed witch is buried. Some phenomenon like knocking coming from underground and sounds like banshees crying, drums playing from nowhere. Fog around the cemetery and no fog anywhere else, a 15-degree temperature drops from being outside and then stepping inside the gates.
+location: The Witch's Graveyard An 1800's graveyard
+state: Georgia
+state_abbrev: GA
+longitude: -84.543335
+latitude: 33.95199300000001
+city_longitude: -84.5499327
+city_latitude: 33.95260200000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.516666666666667
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

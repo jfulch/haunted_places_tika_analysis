@@ -1,0 +1,19 @@
+city: Ballston Lake
+country: United States
+description: Documentation of apparitions, Sounds of children laughing, gunshots heard in the late hours of the night on several occasions, in the 1500's it is rumored that the murders of over 60 people took place in what would become hunters woods during a take over of the nearby town Atla.
+location: Hunters Woods
+state: New York
+state_abbrev: NY
+city_longitude: -73.86808719999999
+city_latitude: 42.9117377
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Fairbanks
+country: United States
+description: Room 277 - There is a ghost of what is probably a large man. The ghost was active mostly at night. He has been known to push lightly on the bed and poke people on the shoulder. One person had heard something on the floor, like a person running his finger along the carpet. There were other small noises that could not be explained. There was no one staying in the next room that could have made any sounds either.
+location: Westmark Hotel
+state: Arkansas
+state_abbrev: AR
+longitude: -147.7140989
+latitude: 64.83992599999999
+city_longitude: -92.272098
+city_latitude: 35.4445233
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

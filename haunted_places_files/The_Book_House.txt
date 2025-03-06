@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: The old house is now used as a book house and a little girl known as Valerie lives there there's a newspaper article and her favorite room is the poetry room though she stay in the basement a lot! It is said that she fell into the well years ago.
+location: The Book House
+state: Missouri
+state_abbrev: MO
+longitude: -90.3189126
+latitude: 38.6127318
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Pekin
+country: United States
+description: The third floor is the most haunted place in the girls bathroom the lights turn on and off and on the second floor in the old gym there is a bloody handprint on the back of a basketball hoop on some days it moves.
+location: Washington School
+state: Indiana
+state_abbrev: IN
+longitude: -86.001415
+latitude: 38.51255
+city_longitude: -86.016919
+city_latitude: 38.50506
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

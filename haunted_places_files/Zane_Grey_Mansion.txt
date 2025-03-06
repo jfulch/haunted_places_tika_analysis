@@ -1,0 +1,19 @@
+city: Altadena
+country: United States
+description: Owners noticed that the house had very cold spots near the fireplaces, library, kitchen and pantry. The kitchen clock would cease working when certain people entered the kitchen. From time to time you can hear someone walking across the butler's pantry floor, to the formal dining room.
+location: Zane Grey Mansion
+state: California
+state_abbrev: CA
+city_longitude: -118.1313188
+city_latitude: 34.190162
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

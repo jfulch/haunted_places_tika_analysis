@@ -1,0 +1,21 @@
+city: Metamora
+country: United States
+description: it is said that many drunken men were killed in a small fire that took place in the front section of the bar, along with one bar maid.  Evidently to this day when guests come and eat or stay at the inn they hear the screams and moans of the men and lady that tried to escape during the fire.
+location: White Horse Inn
+state: Michigan
+state_abbrev: MI
+longitude: -83.288821
+latitude: 42.941807
+city_longitude: -83.2891092
+city_latitude: 42.9414173
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Greenbottom
+country: United States
+description: Home of Confederate General Albert G. Jenkins, State run and open to the public. Hauntings common throughout the house, including sightings of figures and swirling gray mist, feelings of not being alone or of being watched, loud footsteps, depressions as if a body was lying on unused furniture and possibly related encounters near grounds. Multiple witnesses, numbering in the dozens.
+location: General Jenkins House
+state: West Virginia
+state_abbrev: WV
+longitude: -82.2610457
+latitude: 38.5882316
+city_longitude: -82.2837598
+city_latitude: 38.552306
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

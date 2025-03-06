@@ -1,0 +1,20 @@
+city: Noel
+country: United States
+description: strange things happen at dark the ovens make weird noises, the walk-in freezer door opens when no one is around, lights flicker on when its close up time, if you drive by at night and look in you can see a white blure that looks like a person standing.
+location: All Star Pizza
+state: Missouri
+state_abbrev: MO
+longitude: -94.485351
+latitude: 36.545243
+city_longitude: -94.485217
+city_latitude: 36.5456293
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1991/04/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

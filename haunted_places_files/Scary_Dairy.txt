@@ -1,0 +1,19 @@
+city: Camarillo
+country: United States
+description: Scary Dairy is located near California State University of Channel Islands, which was formally Camarillo State Hospital, a mental institution. Scary Dairy is tagged by gangsters, and it is rumored to have had murders taken place in the area. We are unsure if the Scary Dairy was a slaughterhouse or a dairy, but there are a lot of rooms in the building. Most of the walls are fallen down, and there seems to be lot of dumping in the area. Scary Dairy gives of a very bad vibe, and you can almost feel the ghostly activity. Scary Dairy is a cool place to check in the day, but when night falls it is probably the scariest place to be, considering the amount of rooms and gang activity
+location: Scary Dairy
+state: California
+state_abbrev: CA
+city_longitude: -119.0376023
+city_latitude: 34.2163937
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

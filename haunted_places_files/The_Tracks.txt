@@ -1,0 +1,19 @@
+city: Flourtown
+country: United States
+description: A train used to run through Flourtown until the 60's or 70's. After the train stopped running the tracks remained until 1987 when they were removed and all that remains is a long dirt path that runs behind Penn Oak Rd. Residents in the area sometimes hear the sound of a train as if it were still running and have seen a man walking along the tracks and then disappear. They have also seen a small boy around the Basketball net on Penn Oak, As well as underneath the 309 bridge. The boy is about five yrs. old with thick black hair and 50's era clothes.
+location: The Tracks
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -75.20411639999999
+city_latitude: 40.1030433
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

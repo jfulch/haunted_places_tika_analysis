@@ -1,0 +1,21 @@
+city: Hebron
+country: United States
+description: Many people who have once lived here have reported a weird occurrence. You will sometimes hear beads fall down your steps and your dogs may sometimes stair up the stairs and have an uncontrolable bark. This site is believed to be built on an Indian burial ground. You may sometimes see scratch marks on the trees, because this was how Indians cut there fingernails.
+location: Country Place
+state: Kentucky
+state_abbrev: KY
+longitude: -84.7066475
+latitude: 39.0685159
+city_longitude: -84.70318879999999
+city_latitude: 39.0661472
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

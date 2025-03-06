@@ -1,0 +1,21 @@
+city: Arden
+country: United States
+description: On Helens Mt supposedly there was a fire and this lady was burned and they buried her there and if you go out at night and call Helen 3 times supposedly a fire ball will come flying out and do something to you.
+location: Helens Mt
+state: North Carolina
+state_abbrev: NC
+longitude: -82.4118666
+latitude: 35.3808267
+city_longitude: -82.5166982
+city_latitude: 35.4661613
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1980/05/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

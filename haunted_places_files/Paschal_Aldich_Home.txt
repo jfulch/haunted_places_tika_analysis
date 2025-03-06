@@ -1,0 +1,18 @@
+city: Hudson
+country: United States
+description: Dr. Paschal Aldich's ghost haunts his former home.
+location: Paschal Aldich Home
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -92.7568703
+city_latitude: 44.9746896
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

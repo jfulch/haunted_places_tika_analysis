@@ -1,0 +1,21 @@
+city: Cactus
+country: United States
+description: some kids were playing basketball and it was when the ball rolled on to the street. One of the kids ran after the ball without noticing that a car was coming. The car hit him. it is said that the little boy is heard every single day crying and mourning that he never will grow out of this misery.
+location: Cactus city park
+state: Texas
+state_abbrev: TX
+longitude: -106.2288638
+latitude: 31.7906744
+city_longitude: -102.0023992
+city_latitude: 36.05225739999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: This used to be a supermarket in the 80's and a woman was shot in the face with a shotgun while shopping. Children have seen a headless woman walking inside the building
+location: North Side Childcare, North Ave
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0050617
+latitude: 40.4559875
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Milpitas
+country: United States
+description: The cemetery is now closed, but even in the daytime, electronics will shut off, start on own, loud moans can be heard, flashes of lights and car problems. Very cold in spots.
+location: Ed Levin Park Cemetery
+state: California
+state_abbrev: CA
+longitude: -121.8478095
+latitude: 37.4471677
+city_longitude: -121.8995741
+city_latitude: 37.4323341
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Alton
+country: United States
+description: Built in 1900and once attended by Robert Wadlow (The Alton Giant), and home to at least three spirits who are very active. This is a must see if in, or near Alton!! Touching, voices, noises, to full bodied apparitions. psychics claim the spirit of a young student killed by a faculty member, a janitor, and the killer himself.
+location: Milton School
+state: Illinois
+state_abbrev: IL
+longitude: -90.1356308
+latitude: 38.8973516
+city_longitude: -90.1842764
+city_latitude: 38.8906038
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

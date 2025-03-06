@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: There is a section that is closed off because it is said that a girl was killed after a basketball game when the ball went rolling down the stairs. It is said that you can see her shadow and hear her.
+location: United Middle School
+state: Texas
+state_abbrev: TX
+longitude: -99.47925
+latitude: 27.5731363
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

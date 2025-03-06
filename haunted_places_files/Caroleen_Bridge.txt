@@ -1,0 +1,21 @@
+city: Caroleen
+country: United States
+description: When you drive by the bridge on rainy nights you can see two elderly sisters trying to walk home. These two sisters where killed in an auto accident when they where nearing the bridge and ran over the side. When you stop to pick them up they will get into your car and disappear once you cross the bridge as if they where never even there.
+location: Caroleen Bridge
+state: North Carolina
+state_abbrev: NC
+longitude: -81.79793049999999
+latitude: 35.2807592
+city_longitude: -81.7962122
+city_latitude: 35.2809558
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

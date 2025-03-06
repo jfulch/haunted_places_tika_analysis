@@ -1,0 +1,21 @@
+city: New Haven
+country: United States
+description: There is a small, cramped tunnel that runs under the highway between New Haven High School and New Haven Middle School.  Legend says that back in the early 70s, a homeless man was beaten to death by a group of sixth graders returning from a basketball game. For several days he was passed on by students who, not realizing he was dead, kicked and prodded the body with sticks.  Some accounts even say that "Fat Mikey", one of the most notoriously bad seventh graders, urinated on the man's prone form. Finally, after a weeks time, someone reported the body to authorities.  However, when the police arrived, they found nothing but a few scraps of clothe and bone fragments.  Some speculate that he had been devoured completely by "The Feral Dogs of Lincoln Highway".  Others believe that he now lives beneath the earth and rises from the dead on the nights when basketball games are played, waiting to prey on unsuspecting children. There are many eerie feelings associated with this tunnel, and a few students claim to have heard voices or even feel a rough hand gripping their shoulder.  Whatever the case, you can always smell urine there.
+location: The Tunnel between New Haven High School and New Haven Middle School
+state: Indiana
+state_abbrev: IN
+longitude: -85.0173366
+latitude: 41.0677193
+city_longitude: -85.0144124
+city_latitude: 41.0706042
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

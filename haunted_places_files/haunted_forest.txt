@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: Strange noises, and people following you can be heard there is a haunted house on the hills to and a mental hospital
+location: haunted forest
+state: California
+state_abbrev: CA
+longitude: -118.1274515
+latitude: 34.2058442
+city_longitude: -118.1445155
+city_latitude: 34.1477849
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

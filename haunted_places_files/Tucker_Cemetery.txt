@@ -1,0 +1,21 @@
+city: Meridian
+country: United States
+description: An old Cemetery outside of town has been shut down but if you go out there at night it is said that empty graves will have nothing in it but when you walk by it on the way way back it will be covered up. While walking around something will grab your led but nothing is there. It is also said that tombstones will fall over with no wind then will rise back up.
+location: Tucker Cemetery
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.9158801
+latitude: 34.4137153
+city_longitude: -97.2469799
+city_latitude: 35.8419977
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

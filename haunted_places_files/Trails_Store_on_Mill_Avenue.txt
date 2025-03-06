@@ -1,0 +1,21 @@
+city: Tempe
+country: United States
+description: The building used to be a Mountain Bell phone company building. Early in the 1900's, a young woman who worked for the company, committed suicide on the second floor of the building near the bathroom. The lower level is occupied by a part of the Trail’s retail store chain, but the second floor stood empty for years. There were footsteps reported coming from upstairs, when the second floor was gutted and empty. There have been reports of the young woman wandering the stairwell, and standing in front of the locked door to the first floor, which has since been boarded over and covered up. The photo booth that used to be in the Trails store had to be removed, due to the machine taking pictures when no one was in the booth. The developed pictures often showed nothing, but a bright white ball of light, whether someone was in the booth or not. The doors to the offices and bath rooms on the first floor are often heard opening and closing, when no one is near them. Many employees and customers over the years have reported a strange feeling when in the store. Some have gone as far as to refuse to be left alone in the store after dark.
+location: Trails Store on Mill Avenue
+state: Arizona
+state_abbrev: AZ
+longitude: -111.9363069
+latitude: 33.4282413
+city_longitude: -111.9400054
+city_latitude: 33.4255104
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

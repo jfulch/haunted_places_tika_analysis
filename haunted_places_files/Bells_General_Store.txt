@@ -1,0 +1,19 @@
+city: Coloma
+country: United States
+description: Built in 1849, the brick building was the center of activity for the large community of gold miners that settled around Sutter's Mill. Modern visitors have reported hearing the ringing of a nonexistent bell as the ghosts of former customers walk through the doorway.
+location: Bell's General Store
+state: California
+state_abbrev: CA
+city_longitude: -120.8902916
+city_latitude: 38.7999214
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1849/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

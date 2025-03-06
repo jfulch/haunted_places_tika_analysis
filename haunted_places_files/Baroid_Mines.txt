@@ -1,0 +1,19 @@
+city: Magnet Cove
+country: United States
+description: Events include someone whispering your name, feeling someone push you and things being rearranged.
+location: Baroid Mines
+state: Arkansas
+state_abbrev: AR
+city_longitude: -92.8701803
+city_latitude: 34.444489
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

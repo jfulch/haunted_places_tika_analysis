@@ -1,0 +1,18 @@
+city: Sterling
+country: United States
+description: The old hospital is now shut down and owned by Centennial Mental Health. A little boy, Sterling, died there and haunts the place. Electricity was cut off but inside you can still turn on the lights and all the clocks have the same time on them that doesn't change even when they are plugged in. Telephone dial tones can be herd when you pick up the phone to but no calls can be made. The little boy supposedly tugs on your shirt to get your attention.
+location: Old Logan County Hospital
+state: Colorado
+state_abbrev: CO
+city_longitude: -103.207709
+city_latitude: 40.6255415
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Caldwell
+country: United States
+description: Residents of this house have reported several strange things happening. During all hours of the day and night you can hear strange sounds, shadows moving, and cold chills. The outside door to the kitchen has been jammed shut for many years, but the doorknob will rattle. If you say, “Come in” the door will open, then close by itself, but you can't open it afterwards. You will also find objects moved from their original locations, to the floor or elsewhere in the house. The push button light switches will turn on and off by themselves. It is said that a man built the house for his wife and she wouldn't live there. So he lived and died there. Apparently, he is the cause of the haunting.
+location: Off Of Highway 1
+state: Arizona
+state_abbrev: AZ
+city_longitude: -111.9682715
+city_latitude: 33.4524818
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

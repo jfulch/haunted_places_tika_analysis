@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Houses the student union for the Auraria Campus combining Community College of Denver, Metropolitan State College and University of Colorado at Denver. Built in 1866 as the original Tivoli Brewery. Large brewing equipment still remains. Converted to student union in 1994. Ever since, voices are often heard through vents on the third floor as though an elegant party is going on, whispers in the bathrooms.
+location: Tivoli Student Union
+state: Colorado
+state_abbrev: CO
+longitude: -105.005976
+latitude: 39.7450774
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1866/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

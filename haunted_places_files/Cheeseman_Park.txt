@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Cheeseman park was the cemetery for Denver and there are graves left in the park. There are more than just graves. During that time period the care of graves was terrible. If someone did not have a grave they may have been thrown in another with someone else or just left lying until a mass burial grave was dug. Also if someone were buried in a grave that belonged to someone else they would just take the person in there out and leave them. If you go around the time the grass should turn green you can see the graves. This is because the grass over the graves turns green first. Also you can see sunken spots from the graves.
+location: Cheeseman Park
+state: Colorado
+state_abbrev: CO
+longitude: -104.9651706
+latitude: 39.7335137
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

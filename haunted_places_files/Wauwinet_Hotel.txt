@@ -1,0 +1,21 @@
+city: Nantucket
+country: United States
+description: Rumored to be built on top of an Indian burial ground, there are lights that will turn on by themselves, the sound of running water in the lobby where there are no pipes or toilets, and footsteps. There is the ghost of a woman that can only be seen out of the corner of the eye and exudes a scent of gardenias or roses. Jamaican chamber maids will refuse to clean the rooms where she has recently been seen in the past.
+location: Wauwinet Hotel
+state: Massachusetts
+state_abbrev: MA
+longitude: -69.996993
+latitude: 41.329337
+city_longitude: -70.099451
+city_latitude: 41.2834704
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

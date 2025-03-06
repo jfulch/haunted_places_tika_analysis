@@ -1,0 +1,21 @@
+city: Sonoma
+country: United States
+description: This old theatre houses the spirit of a young girl aged anywhere from 10 to 20 she wears a yellow dress from the eras of the thirties. The workers at the theatre call her Trixie, She tends to be seen in the women's washroom in the mirror standing behind a person when they are alone there, but when they turn around she is gone.. The dressing room's lights tend to turn on and off of their own accord to the sounds of a girl's laughter.
+location: Sebastianni Theatre
+state: California
+state_abbrev: CA
+longitude: -122.4565438
+latitude: 38.2922853
+city_longitude: -122.4580356
+city_latitude: 38.291859
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

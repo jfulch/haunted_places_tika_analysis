@@ -1,0 +1,20 @@
+city: Poplar Bluff
+country: United States
+description: It is said a ghost haunts the fourth floor of the old Overby's Furniture store (now a music store) at the corner of Vine and Broadway. According to accounts after the tornado of 1927 the Butler County Courthouse was destroyed and a temporary courtroom was established on the fourth floor of the building. It is rumored a woman in the jail cells in back of the same floor hanged herself and still walks that floor.
+location: Overby's Furniture Store
+state: Missouri
+state_abbrev: MO
+longitude: -90.4252074
+latitude: 36.7837512
+city_longitude: -90.392888
+city_latitude: 36.7569994
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1924/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

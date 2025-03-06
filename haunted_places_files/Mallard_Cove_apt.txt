@@ -1,0 +1,21 @@
+city: Everett
+country: United States
+description: In 1999, Bill Stien, a taxi driver employed by Everett Yellow Cab Co., had a heart attack in the parking lot at Mallard Cove Apartments ( Airport Road and Admiralty Way). Now he haunts the (g) building. He sometimes sneaks into people's apartments, picks up the phone and writes down a real address: In the morning residents find his mysterious notes by the phone, and find the door open. People who have seen Bill describe his ghost as a man in his late 40's and wearing a Mariner b-ball cap, sweats, and a beer in his right hand.
+location: Mallard Cove apt.
+state: Washington
+state_abbrev: WA
+longitude: -122.2537461
+latitude: 47.88647599999999
+city_longitude: -122.2020795
+city_latitude: 47.9789848
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

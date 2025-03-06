@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: Most of the times when students are walking alone they feel the presence of some one following them, but only on the third floor. Many students have said they have seen a young girl running down the halls.
+location: Austin high school
+state: Texas
+state_abbrev: TX
+longitude: -95.331051
+latitude: 29.731909
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

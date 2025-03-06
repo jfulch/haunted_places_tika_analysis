@@ -1,0 +1,20 @@
+city: Berlin
+country: United States
+description: off of the Berlin turnpike there is an abandoned mental asylum surrounded by some woods.....if you go into it you can hear screaming and door slamming.
+location: Cedarcrest Mental Asylum
+state: Connecticut
+state_abbrev: CT
+longitude: -72.7093466
+latitude: 41.7067957
+city_longitude: -72.7456519
+city_latitude: 41.621488
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1701/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

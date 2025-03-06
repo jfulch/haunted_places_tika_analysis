@@ -1,0 +1,21 @@
+city: Cabazon
+country: United States
+description: there's a road where you can park your car at the bottom and it rolls uphill steadily.
+location: Morongo Indian Reservation
+state: California
+state_abbrev: CA
+longitude: -116.7872399
+latitude: 33.9175154
+city_longitude: -116.7872399
+city_latitude: 33.9175154
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1995/10/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

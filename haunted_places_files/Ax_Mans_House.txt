@@ -1,0 +1,19 @@
+city: Crete
+country: United States
+description: In the 1970's a man murders his wife and children along with two police officers, with an ax. After killing them he hung them from hooks in the meat shed in the back of the property. He was then chased through the woods near his home by the police until he was finally shot and killed near the road. Upon entering the grounds a strange feeling of being watched is felt, and if you go around to the back of the house you can still see the blood splattered in the meat shed. In the house you will find a staircase that leads into the ceiling. If you go into one of the upstairs bedrooms you will find women’s shoes all over the floor and if you look out the window you will see what looks like a woman hanging from a rope in the tree. You can also still see the path that the ax man ran down to try to avoid the police. He is said to still haunt the bridge near where he died.
+location: Ax-Man's House
+state: Illinois
+state_abbrev: IL
+city_longitude: -87.6314312
+city_latitude: 41.4444791
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

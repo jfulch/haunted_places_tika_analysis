@@ -1,0 +1,20 @@
+city: Lorain
+country: United States
+description: A railroad spike was removed from a hole and ever since strangely odd things have been occurring. A figure of a ghostly woman has been seen around midnight near the spot of the hole. Screams and yells have been heard since the removal of the spike and extremely severe storms have since swept the area.
+location: G Street Park
+state: Ohio
+state_abbrev: OH
+longitude: -82.13702289999999
+latitude: 41.4766786
+city_longitude: -82.1823746
+city_latitude: 41.452819
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Shreveport
+country: United States
+description: This school (built in 1925) had a swimming pool at one time, but the pool was closed because a teenage girl supposedly drowned in it. A dance studio was built above it. In the "catacombs"(subbasement) of the school, a JROTC instructor reportedly killed himself with a rifle and his ghost still haunts the school to this day. Cold Spots reported.
+location: C.E. Byrd High School
+state: Louisiana
+state_abbrev: LA
+longitude: -93.7453951
+latitude: 32.480301
+city_longitude: -93.7501789
+city_latitude: 32.5251516
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

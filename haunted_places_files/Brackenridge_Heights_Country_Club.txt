@@ -1,0 +1,21 @@
+city: Natrona Hts.
+country: United States
+description: Footsteps are often heard in the attic when no one is up there, doors will open and close by them selves, lights mysteriously come on when they were only turned off moments before. A dishwasher also reported he had heard a man clearing his throat in the basement when he had been the only one there.
+location: Brackenridge-Heights Country Club
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.73078699999999
+latitude: 40.627177
+city_longitude: -79.72984459999999
+city_latitude: 40.623038
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

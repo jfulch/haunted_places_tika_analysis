@@ -1,0 +1,21 @@
+city: Rosemont
+country: United States
+description: The hotel is an atrium style hotel with 11 floors, and several people have killed themselves jumping off the balcony. There have also been drug overdose deaths in two of the rooms and in the parking lot. Guests have reported that they have seen figures moving through their room at night, hearing strange noises that cannot be the neighbors because all the rooms are soundproof since the hotel is across from the O’Hare airport. One guest said that after she took a shower she came out of the bathroom to find her clothes thrown all over the room, and no one could have gotten into the room because she put the latch on the door. you can also see a man dressed in a suit looking over the top floor balcony on the east side of the hotel, the same spot where a man jumped off, in the fall of 2001. A worker at this hotel that has worked the overnight shift, 11pm to 7am, heard noises such and typing and talking, when no one is there. This place definitely has problems.
+location: Sheraton Gateway Suites Hotel
+state: Illinois
+state_abbrev: IL
+longitude: -87.8834066
+latitude: 41.9972693
+city_longitude: -87.8721602
+city_latitude: 41.98675069999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

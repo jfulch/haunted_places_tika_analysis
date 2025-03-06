@@ -1,0 +1,21 @@
+city: Kewana
+country: United States
+description: It is said that there is a cemetery in between Fulton and Kewana. There have been many reports of stabbings shootings and strange things happening in this area. It is said that a few years ago a mans grave was vandalized by teenagers the man who was buried there is said to now guard the cemetery. He and his wife were buried together they died in a fatal car accident 40 years ago.
+location: Kewana &amp; Fulton Cemetery
+state: Indiana
+state_abbrev: IN
+longitude: 80.63824129999999
+latitude: 26.5998876
+city_longitude: -86.413337
+city_latitude: 41.0186526
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

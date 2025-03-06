@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: A little girl seems to be haunting the projection booth. Sometimes, late at night, you can hear the little girl giggling and asking to come play with her. - June 2008 Update: Has been torn down.
+location: Orleans 8 Movie Theater
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.037697
+latitude: 40.08809000000001
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

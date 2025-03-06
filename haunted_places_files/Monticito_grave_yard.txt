@@ -1,0 +1,21 @@
+city: Loma Linda
+country: United States
+description: Witnesses report a ghost dressed in white at 2:00 am and don't look at the gate but you will hear something behind you like a voice. But if you turn back at the gate it disappears and at Halloween you see a fog at night.
+location: Monticito grave yard
+state: California
+state_abbrev: CA
+longitude: -117.2774587
+latitude: 34.0514382
+city_longitude: -117.2611527
+city_latitude: 34.0483474
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: is a site of multiple hauntings. The main mausoleum is haunted, as are a lot of the graves in the main cemetery.
+location: Greenlawn Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -83.02593399999999
+latitude: 39.9401044
+city_longitude: -82.99879419999999
+city_latitude: 39.9611755
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Ossining
+country: United States
+description: In The woods along the aqueduct trail there is a very old tree struck by lighting around 20 years ago. If you go there late a night men in White robes roam the area. There is no explanation why they are there.
+location: The Old Aqueduct
+state: New York
+state_abbrev: NY
+longitude: -73.86832059999999
+latitude: 41.1762251
+city_longitude: -73.8615246
+city_latitude: 41.1628731
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1603/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

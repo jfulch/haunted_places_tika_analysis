@@ -1,0 +1,21 @@
+city: New Town
+country: United States
+description: Some people say that when you walk by the railroad tracks at night, that you could see bright red lights that will follow you until you get on mainstreet then they will disappear.
+location: The Rail Road Tracks
+state: North Dakota
+state_abbrev: ND
+longitude: 77.181596
+latitude: 28.638721
+city_longitude: -102.4901804
+city_latitude: 47.9808483
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

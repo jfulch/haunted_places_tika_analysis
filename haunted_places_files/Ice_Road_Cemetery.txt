@@ -1,0 +1,21 @@
+city: Freeland
+country: United States
+description: Cold spots & lights have been reported.
+location: Ice Road Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -84.109633
+latitude: 43.504852
+city_longitude: -84.1227598
+city_latitude: 43.5250265
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

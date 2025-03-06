@@ -1,0 +1,21 @@
+city: Garland
+country: United States
+description: Some have reported seeing people in the windows, and if one enters the house, boards fall and almost hit any intruders. There is an old car at the house that says “I will kill you” on it. If you knock on the door you hear a return knock.
+location: Old Garland Movie Theater
+state: Nebraska
+state_abbrev: NE
+longitude: -117.4255469
+latitude: 47.6939459
+city_longitude: -96.9855818
+city_latitude: 40.9447298
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Guthrie
+country: United States
+description: The abandoned Hospital is haunted. An apparition has been seen in third-floor windows. A general, very strong feeling of fear, doom and terror is present at the hospital, and becomes incredibly strong when photographs are taken.
+location: Logan County Memorial Hospital
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.4491157
+latitude: 35.881068
+city_longitude: -97.4253185
+city_latitude: 35.878937
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

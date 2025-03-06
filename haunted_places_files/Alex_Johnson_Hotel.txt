@@ -1,0 +1,20 @@
+city: Rapid City
+country: United States
+description: Built in the 1920's, the Hotel is said to be haunted by many ghosts including the original owner. Employees tell of noises, items moving, and a woman seen on the eighth floor. Guests have told of strange happenings especially on the eighth floor, pianos playing themselves, crying in a room that a woman supposedly jumped out of the window on her wedding night.
+location: Alex Johnson Hotel
+state: South Dakota
+state_abbrev: SD
+longitude: -103.2275215
+latitude: 44.0804214
+city_longitude: -103.2310149
+city_latitude: 44.0805434
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

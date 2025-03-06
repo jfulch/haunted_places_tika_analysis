@@ -1,0 +1,21 @@
+city: Glendora
+country: United States
+description: One of New Jersey's oldest historical landmarks used to be a tavern during the Revolutionary war. The attic was used a hospital for wounded soldiers. The original furnishings are in the house and there is still bloodstains in the attic. On occasion it has been recorded the sighting of people walking in the upstairs and strangest sounds of people suffering.
+location: Gabriel Davies Tavern
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.0607191
+latitude: 39.8375852
+city_longitude: -75.07350559999999
+city_latitude: 39.8395581
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

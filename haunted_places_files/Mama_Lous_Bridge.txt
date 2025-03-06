@@ -1,0 +1,19 @@
+city: Scott
+country: United States
+description: It is said that a woman and her newborn baby drove off this bridge and died. If you go there at night and say, "Mama Lou, I've got your baby!" strange things will happen. Your car won't start or you'll hear screeching noises, like the paint is being scraped off your car. You can also see a woman in white, floating in the field near the bridge.
+location: Mama Lou's Bridge
+state: Arkansas
+state_abbrev: AR
+city_longitude: -92.0962552
+city_latitude: 34.6964808
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

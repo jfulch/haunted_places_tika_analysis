@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: nestled in the hills overlooking the Colorado bridge ( suicide bridge ) a old run down mansion zigzagged with caution tape and broken and boarded up windows reveals a lurky layer of ghost / ghost of wild animals and even voices
+location: The haunted mansion
+state: California
+state_abbrev: CA
+longitude: -118.1490803
+latitude: 34.1439444
+city_longitude: -118.1445155
+city_latitude: 34.1477849
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

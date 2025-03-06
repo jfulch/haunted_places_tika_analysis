@@ -1,0 +1,19 @@
+city: Smithtown
+country: United States
+description: it has been said that a small boy playing hockey on the frozen pond fell through the ice and was never seen again. many people say they have seen a lone hockey player shooting pucks whenever the pond freezes over but when they call out to him he suddenly melts into the ice.
+location: field at the end of bow
+state: New York
+state_abbrev: NY
+city_longitude: -73.2006687
+city_latitude: 40.8559314
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1806/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

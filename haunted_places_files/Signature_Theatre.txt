@@ -1,0 +1,21 @@
+city: Pearl City
+country: United States
+description: in a theatre room when your in there alone just after the workers finished cleaning from the last viewing of the movie you can hear someone trying to open the emergency exit door on the right and you can feel this gust of wind pass through the room when all the doors are closed and in another room when your also in there alone you can see the word help on the roof.
+location: Signature Theatre
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9757787
+latitude: 21.3962412
+city_longitude: -157.9733333
+city_latitude: 21.3972222
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

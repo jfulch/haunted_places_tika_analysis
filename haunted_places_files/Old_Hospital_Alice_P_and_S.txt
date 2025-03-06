@@ -1,0 +1,21 @@
+city: Alice
+country: United States
+description: Reports of a call bell going off on the second fool when no one is in the room, even after it had been unplugged.
+location: Old Hospital Alice P and S
+state: Texas
+state_abbrev: TX
+longitude: -98.0418408
+latitude: 27.7647665
+city_longitude: -98.0697249
+city_latitude: 27.7522487
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

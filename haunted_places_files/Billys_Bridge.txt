@@ -1,0 +1,19 @@
+city: Mena/Potter
+country: United States
+description: On dark nights, when the moon is not bright, voices can be heard, and weird lights can be seen. Also, rocks skip across the water.
+location: Billy's Bridge
+state: Arkansas
+state_abbrev: AR
+city_longitude: -94.3077128
+city_latitude: 34.5526062
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

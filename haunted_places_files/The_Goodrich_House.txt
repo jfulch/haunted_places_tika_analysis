@@ -1,0 +1,19 @@
+city: Strasburg
+country: United States
+description: Reports of being choked, not being alone, hearing voices and seeing apparitions.Strasburg Experience
+location: The Goodrich House
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -76.1841226
+city_latitude: 39.9831559
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

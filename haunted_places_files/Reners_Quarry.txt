@@ -1,0 +1,19 @@
+city: Reelsville
+country: United States
+description: there was an explosion in the mine that killed 40 people now you can hear the boom and the screaming , moaning in the shaft
+location: Reners Quarry
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.9669567
+city_latitude: 39.5575439
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Los Alamos
+country: United States
+description: There is the remains of an old bridge connecting two sides of a canyon in Los Alamos. It is said that in the 1950s there was a girl named Peggy Sue that was so depressed that she went to the bridge and jumped to her death. Her ghost now lingers and pushes people off of the bridge. It is an old Los Alamos High School tradition to go to the bridge and brave the crossing of the bridge. October 2007 Update: This is considered an Urban Legend, until further proof.
+location: Peggy Sue Bridge
+state: New Mexico
+state_abbrev: NM
+longitude: -106.318279
+latitude: 35.881939
+city_longitude: -106.3031138
+city_latitude: 35.8800364
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

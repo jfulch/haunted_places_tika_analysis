@@ -1,0 +1,21 @@
+city: Red Level
+country: United States
+description: The church is no longer used because of Banshees. If you sit inside of the gates you can hear Confederate soldiers marching. There is an outhouse in the back of the church, and if you go inside by yourself, the door will shut behind you and lock. You can only get out if someone comes and lets you out. There have also been tales of possession. When you are leaving, there is a tale that says that a little boy will appear, playing with a ball. If he rolls it to you and you pick it up and give it back, you are going to die. Also, while you are driving back out the driveway, there is a little girl that is skipping down the road. Your car will not go past her. If you try to go past her, your car will stop and you have to wait for her to get ahead of you to go. Also, if you overstay your welcome, there is a 1960's model black ford truck that will come speeding down the road, and i f it catches you, then you will get into a car wreck with no survivors. There have also been sightings of hellhounds around that cemetery.
+location: Consolation Church
+state: Alabama
+state_abbrev: AL
+longitude: -86.5499667
+latitude: 31.5693282
+city_longitude: -86.61218610000002
+city_latitude: 31.4071111
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

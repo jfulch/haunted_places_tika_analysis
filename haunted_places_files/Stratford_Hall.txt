@@ -1,0 +1,21 @@
+city: Stratford
+country: United States
+description: This is the place where Robert E Lee grew up and lived with his family. If you go in his wife's old room and see the bed made and then walk out for five minutes the bed will have a place where someone sat down. The places are different each time but it is said to be his wife's ghost sitting on her bed to think. Sometimes you can see a woman in a black dress come down the stairs. If you go into the sitting room you can see a picture of the same woman.
+location: Stratford Hall
+state: Virginia
+state_abbrev: VA
+longitude: -76.839449
+latitude: 38.1519269
+city_longitude: -76.8462651
+city_latitude: 38.1472629
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

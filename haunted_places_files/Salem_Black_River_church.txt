@@ -1,0 +1,20 @@
+city: sumter
+country: United States
+description: the church and graveyard is said to be haunted by a priest from the early 1900s. his family died from a plague and he was the only member alive. he cursed god and started satanic seances and satanic mischief. there's a old shack behind the church that used to be his. late at night you sometimes can see a light on in there but there is no glass in the windows and you can also see a figure. the graveyard is right next to the church. there is two grave yards there. the front one is just normal people but the back is the priests graveyard. it is haunted by all the priests of the church. it is located right off of highway 378.
+location: Salem Black River church
+state: South Carolina
+state_abbrev: SC
+longitude: -80.1608792
+latitude: 33.9326731
+city_longitude: -80.3414693
+city_latitude: 33.9204354
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

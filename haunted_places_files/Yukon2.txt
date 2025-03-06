@@ -1,0 +1,21 @@
+city: Mcdowell County
+country: United States
+description: Used to be an old coal mines here. now ghost haunt the place every night.
+location: Yukon#2
+state: West Virginia
+state_abbrev: WV
+longitude: -135.0
+latitude: 64.2823274
+city_longitude: -81.64734399999999
+city_latitude: 37.3860467
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

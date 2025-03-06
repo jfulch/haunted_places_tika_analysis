@@ -1,0 +1,20 @@
+city: Dayton
+country: United States
+description: There is a tombstone in there that a young girl sits on. When she is sitting on her grave there is a glow to it at night. A college student spotted her while doing a report. He tried to talk to her but no response. She looks normal and clear like anybody else. She is wearing tennis shoes, a sweatshirt and jeans.
+location: Woodland Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -84.1727816
+latitude: 39.7441916
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

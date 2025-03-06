@@ -1,0 +1,21 @@
+city: Newfane
+country: United States
+description: A man named James Van Horn built this mansion in 1820. His wife died at the age of 21, some say under mysterious circumstances. A roofer almost fell to the ground after he saw a woman looking at him out of a window of the empty house. Carpenters fled when a person materialized out of a cloud in a bedroom. They wouldn't go back even to get their tools. Some motorists have tried to avoid a girl running from the mansion, then vanished.
+location: Van Horn Mansion
+state: New York
+state_abbrev: NY
+longitude: -78.714361
+latitude: 43.3118847
+city_longitude: -78.7022678
+city_latitude: 43.2692505
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1820/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

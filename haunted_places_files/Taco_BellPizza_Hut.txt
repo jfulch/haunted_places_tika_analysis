@@ -1,0 +1,21 @@
+city: La Mirada
+country: United States
+description: Roscrances Ave - Some reports say in the bathroom you hear voices in your ear and lights flicker when you are alone next to the window, Reports has seen a man next to you on the table in the back
+location: Taco Bell/Pizza Hut
+state: California
+state_abbrev: CA
+longitude: -118.0086776
+latitude: 33.8951757
+city_longitude: -118.0120086
+city_latitude: 33.9172357
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Ethete
+country: United States
+description: Lights turn on by themselves and things that have been put away are messed up. Voices and screams are heard from the back rooms on top in the fitness area, in the gym. the voices are from the many people who died and had their funeral held their and their sprits wont leave. Some have seen ghost floating around.
+location: Blue Sky Hall
+state: Wyoming
+state_abbrev: WY
+longitude: -108.7766911
+latitude: 43.0265473
+city_longitude: -108.7726205
+city_latitude: 43.0249581
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

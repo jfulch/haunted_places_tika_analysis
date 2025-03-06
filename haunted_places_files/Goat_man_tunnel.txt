@@ -1,0 +1,19 @@
+city: Files Valley
+country: United States
+description: footsteps, women screaming, odd lights, stained blood dripping from top of tunnel.
+location: Goat man tunnel
+state: Texas
+state_abbrev: TX
+city_longitude: -97.0769488
+city_latitude: 32.222648
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

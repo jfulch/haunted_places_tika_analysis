@@ -1,0 +1,21 @@
+city: Raleigh County
+country: United States
+description: Old Stoco Jr. High - Voices, footsteps, echoes, and people moving can be heard when walking through this school. Strange writings have appeared on the walls of witchcraft and unexplainable things. Unairing sense of eyes upon you wherever you go. Something paranormal is definitely happening there. Rumor has it one night during a game, someone pushed a boy who played basketball into the bleachers and he cracked his head open and died on the way to the hospital. You could still hear sounds of screeching tennis shoes on the gym floor, and you could hear him dribbling his ball down the court.
+location: Besoco
+state: West Virginia
+state_abbrev: WV
+longitude: -81.2409339
+latitude: 37.6276151
+city_longitude: -81.2518833
+city_latitude: 37.7381597
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

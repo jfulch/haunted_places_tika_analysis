@@ -1,0 +1,21 @@
+city: Owensboro
+country: United States
+description: old Whitesville school - If you go to the old Whitesville Public School you can hear doors and windows opening and shutting and the lights will flicker on and off. There are reports of people finding an old electric chair in the basement.
+location: Whitesville
+state: Kentucky
+state_abbrev: KY
+longitude: -86.8688372
+latitude: 37.6836697
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1844/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

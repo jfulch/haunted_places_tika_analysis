@@ -1,0 +1,21 @@
+city: Norwalk
+country: United States
+description: A boy in the 1980's at the age of 15 was working out by him self in the weight room when a bar fell on his on his head while bench pressing , crushing his head and bled to death he lied there on the floor till the janitor found him dead. It is know that you could here him still working out at night.
+location: Norwalk high school
+state: California
+state_abbrev: CA
+longitude: -118.0917362
+latitude: 33.9082395
+city_longitude: -118.081733
+city_latitude: 33.9022367
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/06/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

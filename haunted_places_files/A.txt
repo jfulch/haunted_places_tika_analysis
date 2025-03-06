@@ -1,0 +1,21 @@
+city: In California Page 1
+country: United States
+description: L)
+location: (A
+state: California
+state_abbrev: CA
+longitude: -122.4207543
+latitude: 37.7741344
+city_longitude: -122.4207543
+city_latitude: 37.7741344
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

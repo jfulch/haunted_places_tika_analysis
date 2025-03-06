@@ -1,0 +1,21 @@
+city: Foster City
+country: United States
+description: About a year ago a man was being chased by the police because he had just shot his co-worker and then he stopped at the levee, probably the area across from Beachpark Plaza. He shat himself and died there. Cold winds have been known to brush past people, leaving the area around you absolutely clear. Gunshots have been heard late at night and strange shapes and shadows have been seen in all parts of the levee.
+location: Foster City Levee
+state: California
+state_abbrev: CA
+longitude: -122.2827636
+latitude: 37.5509533
+city_longitude: -122.2710788
+city_latitude: 37.5585465
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

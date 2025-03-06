@@ -1,0 +1,21 @@
+city: Appling County
+country: United States
+description: The Surrency Ghost Light is said to be seen on a long deserted railroad track which sits low under a bridge on Highway 341. The old story is told many ways, but the most popular is of a husband and his wife that lived next to the tracks. One night after a heated argument, the wife ran blindly out of the house and down the tracks. She was hit and killed by an oncoming train. Witnesses today say they can see the light of the man on the tracks trying to find his long dead wife. Some have even claimed to see the silhouette of a lady with long blond hair walking down the tracks at night. - October 2004 update: The locals call her the blue lady. This is also the Wayne County - Jesup Spooklight - listed below. it can be seen in both places along the tracks.
+location: Surrency
+state: Georgia
+state_abbrev: GA
+longitude: -82.19790119999999
+latitude: 31.7238139
+city_longitude: -82.25832969999999
+city_latitude: 31.712238
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

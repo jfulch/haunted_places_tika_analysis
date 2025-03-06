@@ -1,0 +1,21 @@
+city: Lexington
+country: United States
+description: Founder's Cabin - There is a myth that the founder put a curse on it when he died.
+location: Transylvania University
+state: Kentucky
+state_abbrev: KY
+longitude: -84.4936508
+latitude: 38.053147
+city_longitude: -84.5037164
+city_latitude: 38.0405837
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

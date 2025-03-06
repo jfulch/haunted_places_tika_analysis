@@ -1,0 +1,19 @@
+city: Norfolk
+country: United States
+description: As strange as it sounds for a U.S. Navy ship to be haunted with a little girl, that appears to be what is happening. One of the few things on the GW. Multiple people have said that they have seen her in the lower levels of the Engineering spaces. One saw her in a pink and white dress. Another saw her in a blue dress and when he tried to get closer she was gone. Another sailor said that he had seen a guard dog on one of his tours, but the dog disappeared as soon as he got closer to it. There have been reports of strange noises, like the sound of someone jingling their keys as they walk down the stairs but there is no one on the stairs. One time a man walked halfway down the stairs but never made it to the bottom. Two gentlemen standing near watched him start his journey before he disappeared. Another group of men have seen a man walking through equipment before going out of sight. Once they investigated they found no one in the space. Other strange things happen as well, shoulder tapping, strange sounds, shadows, tools moving in the middle of the night. And most of all, the overwhelming sensation of being watched from every nook and cranny of the space.
+location: USS George Washington
+state: Virginia
+state_abbrev: VA
+city_longitude: -76.28587259999999
+city_latitude: 36.8507689
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

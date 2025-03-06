@@ -1,0 +1,21 @@
+city: La Porte
+country: United States
+description: Well in the girls restroom on hallway one, toilets will flush and water will run without there being anyone in there. Outside by a pillar there are cold spots and odd smells. Odd things like the electricity shutting off and banging on lockers also occurs.
+location: La Porte High School
+state: Indiana
+state_abbrev: IN
+longitude: -86.7268627
+latitude: 41.6011891
+city_longitude: -86.7227195
+city_latitude: 41.611143
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

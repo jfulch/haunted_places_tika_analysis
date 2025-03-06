@@ -1,0 +1,19 @@
+city: Harlan
+country: United States
+description: Murdered by his wife's lover, a coal miner on an old mining road in Fairview lights appears as you watch in amazement as it will come down the hill at you. If you don't run you can feel him touch.
+location: Red Dog Hollow
+state: Kentucky
+state_abbrev: KY
+city_longitude: -83.321848
+city_latitude: 36.8431441
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/07/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

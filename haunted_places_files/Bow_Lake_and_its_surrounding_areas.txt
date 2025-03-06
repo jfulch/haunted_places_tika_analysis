@@ -1,0 +1,21 @@
+city: Strafford
+country: United States
+description: Screams, eerie moaning sounds, cries for help and for peoples names, yells that sound like they are from above in the air, strange swaying bright lights coming from the woods, odd objects and noises and shadows in the woods, and sunlight at midnight to 3:15 am, are all things commonly reported by the residents.
+location: Bow Lake, and its surrounding areas
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.1834693
+latitude: 43.2477433
+city_longitude: -71.184232
+city_latitude: 43.3270251
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

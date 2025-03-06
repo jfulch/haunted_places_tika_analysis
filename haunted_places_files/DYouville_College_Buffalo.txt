@@ -1,0 +1,21 @@
+city: Buffalo
+country: United States
+description: Kessler Administration Building - 3rd and 4th floor and the attic of the  -  There are many sightings of little kids in that building.  Rumor is there used to be an orphanage in that building and the 3rd and 4th floors are where they slept.  The attic was where they went for punishment.  There have been many instances of security guards seeing weird lights, doors opening after they had already been checked and were locked, sounds of walking in the hallway, but no one is there, and doors slamming shut.  On the 4th floor, many people have seen a little girl in a white light walking.  Another guard, during a flash of lightening, looked into an office and saw little children sitting at desks.  Almost every guard talks about the coolness up there and also the "creepy" feeling and odd noises on those floors.
+location: D'Youville College Buffalo
+state: New York
+state_abbrev: NY
+longitude: -78.89082669999999
+latitude: 42.9025804
+city_longitude: -78.8783689
+city_latitude: 42.88644679999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

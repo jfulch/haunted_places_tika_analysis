@@ -1,0 +1,19 @@
+city: Granada Hills
+country: United States
+description: Apparitions of a family of 4 (mom, dad, 2 kids) standing at the side of the freeway, all looking lost and forlorn, but with no broken-down car in sight. When you pull up to help they are gone.
+location: 118 Freeway eastbound
+state: California
+state_abbrev: CA
+city_longitude: -118.5021527
+city_latitude: 34.2793576
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

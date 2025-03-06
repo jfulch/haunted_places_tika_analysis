@@ -1,0 +1,21 @@
+city: Ponca City
+country: United States
+description: this old school built in the early 30's there have been reports of books falling off shelves and in the basement a couple of kids came out screaming saying they say a shadow run by the window also in the 50's a kid had hung himself on the stage in the auditorium janitors say light switches come on on stage after they turn it off
+location: Roosevelt Elementary School
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.0736265
+latitude: 36.7100869
+city_longitude: -97.0855948
+city_latitude: 36.706981
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Belfast
+country: United States
+description: orbs showing up in pictures something banging on the side of witnesses cars and footsteps in the grass.
+location: Pine wood Cemetery
+state: Maine
+state_abbrev: ME
+longitude: -69.0176664
+latitude: 44.426927
+city_longitude: -69.0064234
+city_latitude: 44.4259092
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

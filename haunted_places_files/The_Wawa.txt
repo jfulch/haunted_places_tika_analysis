@@ -1,0 +1,21 @@
+city: Linwood
+country: United States
+description: Late at night all the workers on night shift would be going on about their business when chip bags would fly off the shelves and the sandwiches would make themselves. My friend once got hit in the eye with a pickle during these frenzies. It flew so hard in the air it gave her black eyes for weeks. It is said that it was built back in the 1800's, the owner of wawa was so depressed that there wasn't any business that he killed himself. He ran his arms threw the meat slicers and then bled to death. Every now and then a costumer will find a finger in their lunch meat.
+location: The Wawa
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.421162
+latitude: 39.825733
+city_longitude: -75.4254722
+city_latitude: 39.8265015
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Greenfield
+country: United States
+description: right outside of Greenfield is a bridge called crybaby bridge. the old story is that a mother believed to be a witch was being chased by the town's people. She was carrying her baby and was running in a hurry. as soon as she reached this bridge she hit the side to try to stop and dropped her baby in the water. she was killed by the people and he baby drowned. at night if you go there. you're car will stop on the bridge and you can hear people running and screaming "stop". then you can hear the mother screaming "help". and you also could hear the baby cry.
+location: out in the country
+state: Ohio
+state_abbrev: OH
+longitude: -83.4542839
+latitude: 39.3827757
+city_longitude: -83.38269280000002
+city_latitude: 39.3520084
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1686/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

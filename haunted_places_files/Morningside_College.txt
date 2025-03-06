@@ -1,0 +1,21 @@
+city: Sioux City
+country: United States
+description: Dimmit Hall - There is said to have been a girl that committed suicide on her hall on the girls side of the building. Her hall is called the "hidden" hall because the is no entrance to the outside so you have to go up a level or down a level to get out therefore leaving her trapped on her hall. It is said she committed suicide by hanging herself on old heating pipes in the rooms. Residents of her room have reported recently of hearing a girls voice and gagging choking sounds at night while they're studying. They've opened up their doors and yelled down the halls at their hall mates thinking it was a joke and no one was out there and the sounds continued. Other girls of the hall reported seeing a moderately dressed young woman walking slowly down the hall sniffling and crying and walking through the door into the haunted room.
+location: Morningside College
+state: Iowa
+state_abbrev: IA
+longitude: -96.3585355
+latitude: 42.4733866
+city_longitude: -96.4003069
+city_latitude: 42.4999942
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

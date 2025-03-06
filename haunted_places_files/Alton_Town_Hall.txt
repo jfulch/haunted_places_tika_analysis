@@ -1,0 +1,21 @@
+city: Alton
+country: United States
+description: People have reported that they have heard heavy footsteps walking around, Furniture moving on its own, also reported hearing doors open and hearing voices when they are there alone.
+location: Alton Town Hall
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.22021699999999
+latitude: 43.4560016
+city_longitude: -71.2189721
+city_latitude: 43.4543228
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

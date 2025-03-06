@@ -1,0 +1,21 @@
+city: Eddyville
+country: United States
+description: Many inmates, correctional office says that numerous ghosts haunt this former castle.
+location: Kentucky State Penitentiary
+state: Kentucky
+state_abbrev: KY
+longitude: -88.07782379999999
+latitude: 37.0487997
+city_longitude: -88.080301
+city_latitude: 37.09449710000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

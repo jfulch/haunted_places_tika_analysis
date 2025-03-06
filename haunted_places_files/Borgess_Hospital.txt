@@ -1,0 +1,21 @@
+city: Kalamazoo
+country: United States
+description: people have seen red lights, and ghosts of the old Sisters (nuns) who used to operate the hospital. There have been reports of children staying in the section known as 1 North feeling as if they are being watched. In the room across the hall from the nurse's station a pair of glowing red eyes has been seen. When you look out at the cemetery next door you get a sick feeling in your stomach.
+location: Borgess Hospital
+state: Michigan
+state_abbrev: MI
+longitude: -85.56124299999999
+latitude: 42.307689
+city_longitude: -85.5872286
+city_latitude: 42.2917069
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

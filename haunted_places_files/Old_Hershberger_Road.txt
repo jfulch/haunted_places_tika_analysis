@@ -1,0 +1,21 @@
+city: Hollsopple
+country: United States
+description: Back a long time ago, it is said that a schoolhouse was located in here where students would go to learn.  One boy named Henry, who was very young, fell in a boiler and was burnt to death.  He now haunts the road.  Strange noises were heard like creaks and loud bangs.  Also, a man was murdered back in the woods of Hollsopple.
+location: Old Hershberger Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.9618708
+latitude: 40.2072783
+city_longitude: -78.92780259999999
+city_latitude: 40.2084096
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

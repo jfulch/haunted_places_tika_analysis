@@ -1,0 +1,20 @@
+city: Yankton
+country: United States
+description: Whitby Hall - Room 200 - is said to have been haunted, and due to this, until the past two years, was vacant. Light never touches the door, no matter what lights are on, and even during the day, light barely makes it into the window to hit the door. There has been other sightings on the floor - a figure walking across a resident’s room near the door – they were the only one in the room, and the door was closed. All i could see was the pants, they seemed to be a gray polyester. Other rooms have seen figures in hard hats and blue suits. When they rolled over to get up and talk to them, the figure was gone, and when they checked the door, they realized it was still locked - the doors at that time would unlock if you closed them while they were locked. They have also seen a white figure in a corner - non-descript, just standing there.
+location: Mount Marty College
+state: South Dakota
+state_abbrev: SD
+longitude: -97.410359
+latitude: 42.874457
+city_longitude: -97.3972813
+city_latitude: 42.87110879999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Aurora
+country: United States
+description: The Main Building - Wells College actually has a number of ghost stories. One of the most prevalent however, is that of the ghostly nurses. Many years ago, when a brutal influenza epidemic swept the nation, many students fell ill. The college then turned the fourth floor of the main building into an infirmary. Students who live there today will occasionally wake in the middle of the night to find a ghostly nurse standing over their beds. Some witnesses even claim that the ghost will go as far as to place a cold hand upon the student's forehead.
+location: Wells College
+state: New York
+state_abbrev: NY
+longitude: -76.6944152
+latitude: 42.7451963
+city_longitude: -76.7024485
+city_latitude: 42.7539591
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1849/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

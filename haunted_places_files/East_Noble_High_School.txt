@@ -1,0 +1,21 @@
+city: Kendallville
+country: United States
+description: If you are in the boys gym you may see a man walking beside you or watching you from the bleachers.also there was a girl that died in a science room. Janitors turn the tv off and come back and it is on MTV they turn it off again come back and it is on again
+location: East Noble High School
+state: Indiana
+state_abbrev: IN
+longitude: -85.25746620000001
+latitude: 41.4347673
+city_longitude: -85.2649754
+city_latitude: 41.4414384
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

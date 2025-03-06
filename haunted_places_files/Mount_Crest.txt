@@ -1,0 +1,21 @@
+city: Pikeville
+country: United States
+description: On a hill above the Mt Crest Church of God there is an old broken down house where it is said that if you sit in the field on a rainy day that you will hear horse carriages running down the road. Also a family of four supposedly was killed when their horse and carriage ran off the bluff above the old house on their way back from church. It is said that you can hear their screams and the wailing of the horse.  Driving past the old house you get a creepy feeling that something or someone unseen is watching you.
+location: Mount Crest
+state: Tennessee
+state_abbrev: TN
+longitude: -85.2150585
+latitude: 35.6567076
+city_longitude: -85.1888498
+city_latitude: 35.6056231
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

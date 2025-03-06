@@ -1,0 +1,21 @@
+city: Augusta
+country: United States
+description: People have witnessed the ghost of a young girl in a 1800s style wedding dress. They say a young girl (named Emily) died there of a broken heart, after her fiance was killed.
+location: Partridge Inn
+state: Georgia
+state_abbrev: GA
+longitude: -82.0100137
+latitude: 33.4752202
+city_longitude: -82.0105148
+city_latitude: 33.4734978
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

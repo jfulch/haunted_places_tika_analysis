@@ -1,0 +1,20 @@
+city: St. Matthews
+country: United States
+description: It is said that a lady dressed in red haunts the health dept. Also you can hear water running, voices, and other noises when no one else is in the building.
+location: Old Calhoun County Health Dept.
+state: South Carolina
+state_abbrev: SC
+longitude: -80.8360014
+latitude: 33.7376294
+city_longitude: -80.77786809999999
+city_latitude: 33.664876
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

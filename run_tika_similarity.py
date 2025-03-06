@@ -2,7 +2,8 @@
 
 import os
 import sys
-from similarity_calculator import calculate_all_similarities
+from similarity_calculator2 import calculate_all_similarities
+#from similarity_calculator import calculate_all_similarities
 from report_generator import generate_markdown_report
 from convert_tsv_to_json import convert_tsv_to_json
 from break_json import break_json
@@ -41,9 +42,22 @@ def main():
         break_json(json_file, input_dir)
         print(f"Text files generated in {input_dir}/")
     
+    # # Step 3: Calculate all similarity metrics
+    # print("\nStep 3: Calculating similarity metrics...")
+    # jaccard_csv, cosine_csv, edit_csv = calculate_all_similarities(input_dir, results_dir)
+    
     # Step 3: Calculate all similarity metrics
     print("\nStep 3: Calculating similarity metrics...")
-    jaccard_csv, cosine_csv, edit_csv = calculate_all_similarities(input_dir, results_dir)
+    #n_jobs = 6  # Adjust based on your CPU cores
+    jaccard_csv, cosine_csv, edit_csv = calculate_all_similarities(
+        input_dir, 
+        results_dir, 
+        n_jobs=6,
+        max_edit_chars=200,
+        max_files=1000,  # Process only 500 files
+        sample_ratio=0.05,  # Sample just 1% of document pairs
+        skip_edit=False  # Skip the edit distance calculation
+)
     
     # Step 4: Generate report
     print("\nStep 4: Generating analysis report...")

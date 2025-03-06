@@ -1,0 +1,21 @@
+city: Marysville
+country: United States
+description: Around midnight, if you walk in the halls of the school you will hear a banging noise saying LET ME OUT!
+location: Allen Creek Elementary
+state: Washington
+state_abbrev: WA
+longitude: -122.1481364
+latitude: 48.0549208
+city_longitude: -122.1770818
+city_latitude: 48.0517637
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

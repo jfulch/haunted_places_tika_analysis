@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: Around the 70's or 80's students would go to the planetarium and make out with each other. A student was up there with his girlfriend and fell down the stairs and died. Its been reported that a crashing sound will happen its also reported crying sounds too around night time. The planetarium has been closed for over a decade.
+location: Warren Lincoln High School
+state: Michigan
+state_abbrev: MI
+longitude: -83.0204085
+latitude: 42.4622019
+city_longitude: -83.01465259999999
+city_latitude: 42.5144566
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Plover
+country: United States
+description: An old abandon house, downstairs lies an old piano. Upstairs is where the presence of a young girl who wants you to play the piano. There are other presences that roam there. A cold chill runs through your body, and footsteps are heard.
+location: hwy 54
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.5441024
+latitude: 44.4536983
+city_longitude: -89.5440069
+city_latitude: 44.4563579
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

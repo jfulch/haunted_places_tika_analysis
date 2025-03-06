@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: This old jail house is located on Preston Street and is currently the local police department. It used to be a killing place for slaves and is now said to be haunted. Ghosts have been seen by police working the late night shift.
+location: The Old Jail House
+state: Texas
+state_abbrev: TX
+longitude: -95.7530507
+latitude: 29.5739294
+city_longitude: -95.7607832
+city_latitude: 29.5821811
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.516666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

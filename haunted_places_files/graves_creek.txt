@@ -1,0 +1,19 @@
+city: Whitwell
+country: United States
+description: IN THE EARLY 80'S THERE WAS AN EXPLOSION IN MINES #21 WERE 13 MINERS WERE KILLED. THEY SAY ON SOME NIGHTS YOU CAN SEE THE MINERS COMING OUT OF THE GROUND WERE MINE #21 WAS LOCATED. MINE 21 HAS BEEN SEALED UP AND YOU CAN SEE THE WHEAT LIGHTS OF THE MINERS COMING OUT OF THE GROUND AND THEN THEY JUST DISAPER. WERE THEY GO NO ONE KNOWS
+location: graves creek
+state: Tennessee
+state_abbrev: TN
+city_longitude: -85.5191323
+city_latitude: 35.2014631
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

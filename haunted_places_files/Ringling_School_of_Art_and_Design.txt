@@ -1,0 +1,21 @@
+city: Sarasota
+country: United States
+description: The Old Women's Dormitory - has been haunted for decades by a ghost named Mary. It used to be a hotel in the 20s and she committed suicide in the stairwell between the second and third floors. It is now an unused fire escape. She has been observed walking the corridors (out of the corner of the eye, turning a times, a resident would enter her room and her paintbrushes would be slowly swirling in the water of the rinse cups as if someone had just spun them around and let go.
+location: Ringling School of Art and Design
+state: Florida
+state_abbrev: FL
+longitude: -82.5476801
+latitude: 27.3602556
+city_longitude: -82.53065269999999
+city_latitude: 27.3364347
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1650/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

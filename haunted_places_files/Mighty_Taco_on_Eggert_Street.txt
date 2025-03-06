@@ -1,0 +1,21 @@
+city: Tonawanda
+country: United States
+description: The cooler in the back, and surrounding areas outside the cooler by the dumpster is said to be the home of an unexplained presence. Workers will at times be in the back, back section, in the freezer, when they feel a sudden sense of danger, and a hurried need to get out. similar unnatural feelings have occurred by the dumpster, right outside the cooler. It is not certain the reasons for this, but never the less the feelings remain, unexplained.
+location: Mighty Taco on Eggert Street
+state: New York
+state_abbrev: NY
+longitude: -78.6974434
+latitude: 42.9559727
+city_longitude: -78.880315
+city_latitude: 43.0203347
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

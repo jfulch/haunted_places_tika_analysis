@@ -1,0 +1,21 @@
+city: Hershey
+country: United States
+description: Sightings of Mr. Hershey and doors opening and closing. The sound of foot steps in the old wine cellar. Strange noises and sounds.
+location: Hotel Hershey
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.6598455
+latitude: 40.2997767
+city_longitude: -76.65024679999999
+city_latitude: 40.2859239
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

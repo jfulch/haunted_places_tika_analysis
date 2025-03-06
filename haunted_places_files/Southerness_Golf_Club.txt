@@ -1,0 +1,21 @@
+city: Stockbridge
+country: United States
+description: The oldest house in Rockdale county is still standing at the main entrance to the golf club. It is said that workers have seen chair upstairs rock back and forth, and at night employees have passed by the house and noticed blue lights sway back and forth & figures in the windows, accompanied by moans and commotion.
+location: Southerness Golf Club
+state: Georgia
+state_abbrev: GA
+longitude: -83.573256
+latitude: 31.583352
+city_longitude: -84.23380929999999
+city_latitude: 33.5442781
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.466666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

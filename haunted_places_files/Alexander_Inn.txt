@@ -1,0 +1,21 @@
+city: Oak Ridge
+country: United States
+description: When you walk in you can hear people walking up stairs.  There is blood on the walls and broken glass every where.  Out side of the hotel you can see a figure looking through the curtains of the window.
+location: Alexander Inn
+state: Tennessee
+state_abbrev: TN
+longitude: -84.2419372
+latitude: 36.0288982
+city_longitude: -84.26964490000002
+city_latitude: 36.0103561
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Vicksburg
+country: United States
+description: This home is one of the oldest in Vicksburg. There have been investigations by many paranormal investigators. There are more than a dozen restless spirits in the home, making it known as "The most haunted home in Mississippi" as one investigator put it. Ghosts range from Civil War soldiers, to former owners, to Native American Indians. Thousands have seen some of these ghosts.
+location: McRaven Tour Home
+state: Mississippi
+state_abbrev: MS
+longitude: -90.872034
+latitude: 32.346023
+city_longitude: -90.877882
+city_latitude: 32.3526456
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

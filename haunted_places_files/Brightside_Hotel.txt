@@ -1,0 +1,21 @@
+city: Raquette Lake
+country: United States
+description: this hotel stopped business about 20 years ago and was big in the early 1900's. There was an old lady that stayed there and died in her room. All her stuff still sits in the same spot where she left it. Even though people have moved it, it still finds its way back.
+location: Brightside Hotel
+state: New York
+state_abbrev: NY
+longitude: -74.6567199
+latitude: 43.836083
+city_longitude: -74.6573899
+city_latitude: 43.8131196
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.783333333333331
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

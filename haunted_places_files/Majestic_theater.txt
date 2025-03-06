@@ -1,0 +1,20 @@
+city: Chillicothe
+country: United States
+description: Reports of hearing screams.
+location: Majestic theater
+state: Ohio
+state_abbrev: OH
+longitude: -82.9810456
+latitude: 39.3349771
+city_longitude: -82.9824019
+city_latitude: 39.3331197
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

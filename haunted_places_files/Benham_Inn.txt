@@ -1,0 +1,20 @@
+city: Cumberland
+country: United States
+description: Sounds of children running in the hallways, and the sounds of a child's laughter in the distance, slamming doors and lights turning off and on by themselves.
+location: Benham Inn
+state: Kentucky
+state_abbrev: KY
+longitude: -82.951123
+latitude: 36.96288
+city_longitude: -82.9884955
+city_latitude: 36.9781475
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

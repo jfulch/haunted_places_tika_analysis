@@ -1,0 +1,21 @@
+city: Lincoln
+country: United States
+description: The ghost of a music professor has been seen and heard frequently in the old music building on the Nebraska Weslyan College campus. The professor was an organ instructor, the organ can be heard late at night , and sometimes can be seen sitting at or near the organ. The ghost has also been seen and heard at the apartment where the professor lived.
+location: Nebraska Weslyan College
+state: Nebraska
+state_abbrev: NE
+longitude: -96.6534974
+latitude: 40.8395997
+city_longitude: -96.6851982
+city_latitude: 40.8257625
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Dayton
+country: United States
+description: Reports of an apparition that looks like a red headed woman with a construction hat.
+location: The tracks by Keifer Street
+state: Ohio
+state_abbrev: OH
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

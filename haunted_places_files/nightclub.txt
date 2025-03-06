@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: In the 1950's, a previous owner shot her husband and than hanged herself in the basement. Almost all employees have heard whispering or seen her ghost. None of them will go down to the basement alone.
+location: nightclub
+state: Colorado
+state_abbrev: CO
+longitude: -104.757741
+latitude: 38.878938
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

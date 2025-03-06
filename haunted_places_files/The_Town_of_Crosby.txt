@@ -1,0 +1,21 @@
+city: Crosby
+country: United States
+description: This haunted neighborhood has been written about in the novel, "The Black Hope Horror". The neighborhood was constructed over an old slave cemetery and many of the residents were terrorized by the angry spirits that dwelled below. No one had a clue as to what was causing it until a couple, while digging a swimming pool, unearthed the remains of a couple who had been buried in their backyard. It is a story that is very similar to the movie "Poltergeist", but it is frighteningly real. Most of the activity is centered at the east end of Poppets Way and the side street that connects at the east end. According to the book, people would rent a house on the street and abruptly leave within a month...and this was a very regular occurrence.
+location: The Town of Crosby
+state: Texas
+state_abbrev: TX
+longitude: -95.0629377
+latitude: 29.8823675
+city_longitude: -95.0621512
+city_latitude: 29.9118885
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

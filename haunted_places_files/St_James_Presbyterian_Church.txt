@@ -1,0 +1,21 @@
+city: Antioch
+country: United States
+description: This old church, located on Leland Avenue in San Francisco has a history of hauntings. Late at night, footsteps can be heard walking up the stairs, doors shut, etc. Also, on more than one occasion, late at night, doors that normally open easily will be impossible to open, as if a ton of bricks is on the other side of the door. Later, the doors will be found wide open.
+location: St. James Presbyterian Church
+state: California
+state_abbrev: CA
+longitude: -118.5563031
+latitude: 34.17238469999999
+city_longitude: -121.805789
+city_latitude: 38.0049214
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Gettysburg
+country: United States
+description: One of the bloodiest battle scenes during the war was the Wheatfield. On occasion you can still hear the war being fought. Sounds of fire crackling, and tin cups clinking can be heard, also the sound of a phantom horse can be heard approaching you.
+location: The Wheatfield
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.24081699999999
+latitude: 39.7976294
+city_longitude: -77.2310955
+city_latitude: 39.8309293
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Vermont
+country: United States
+description: This woods used to have a road go through it and an old bridge. People said that there was a car accident that took some lives on this bridge and they are believed to haunt the place. On some nights people have seen different colored lights that follow you above and through the trees, heard whistles and talking, and some have seen a human figure that follows whoever goes in the woods. The woods is outside of Vermont on west quarter road.
+location: Eflins Woods
+state: Illinois
+state_abbrev: IL
+city_longitude: -90.4279033
+city_latitude: 40.2942106
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

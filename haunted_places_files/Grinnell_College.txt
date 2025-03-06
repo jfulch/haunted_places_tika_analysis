@@ -1,0 +1,21 @@
+city: Grinnell
+country: United States
+description: according to an article in the Des Moines Register, there is an old wheelchair on the stage of the performing arts bldg. it belonged to the director of the theater dept, who retired by dying. It?s said to roll out on stage during rehearsals or performances for no reason. The students think it?s the friendly spirit of the theater director.
+location: Grinnell College
+state: Iowa
+state_abbrev: IA
+longitude: -92.7201302
+latitude: 41.74905709999999
+city_longitude: -92.7232456
+city_latitude: 41.74340919999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1849/07/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

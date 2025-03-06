@@ -1,0 +1,21 @@
+city: Olive
+country: United States
+description: People have heard the sounds of a basketball dribbling in the gym late at night when no one else is in the building.
+location: Olive High School
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.4802824
+latitude: 36.0277289
+city_longitude: -96.4800142
+city_latitude: 36.0284045
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

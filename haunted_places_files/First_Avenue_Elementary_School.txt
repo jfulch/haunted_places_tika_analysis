@@ -1,0 +1,21 @@
+city: San Manuel
+country: United States
+description: People have encountered a small boy holding his head. It seemed as though he was bleeding from his head, and he began crying, "Teacher! Teacher! I fell off the merry-go-round!" Then he disappears. In 1989, a young boy got caught between the dirt and the bottom of the merry-go-round, just after school was let out. As it spun around, the pressure of the metal and hard dirt floor crushed him. He died instantly, but wasn't found until several hours later, when someone saw him trapped underneath the playground equipment. It has been said that as the child was hauled away by ambulance(pronounced dead at the time), he whispered, "Teacher! Teacher! I fell off the merry-go-round!" Some years later, several parents complained about the safety of the merry-go-round and it was eventually taken off of the playground. A year after that, a security fence was put up, enclosin g the hallways.
+location: First Avenue Elementary School
+state: Arizona
+state_abbrev: AZ
+longitude: -110.6382251
+latitude: 32.5966312
+city_longitude: -110.6309289
+city_latitude: 32.5997933
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1989/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

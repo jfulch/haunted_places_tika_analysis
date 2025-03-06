@@ -1,0 +1,21 @@
+city: Astoria
+country: United States
+description: American Museum of the Moving Image - Foot steps following you at night in the office area. A deep voice herd for a man in the hallway. People heard talking from the vents when no one else was in the building. A black women, in a white dress seen sitting at the desk in the entrance lobby.
+location: Queens
+state: New York
+state_abbrev: NY
+longitude: -73.92346189999999
+latitude: 40.7643574
+city_longitude: -73.92346189999999
+city_latitude: 40.7643574
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

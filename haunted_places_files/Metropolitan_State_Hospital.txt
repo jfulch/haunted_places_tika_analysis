@@ -1,0 +1,21 @@
+city: Waltham
+country: United States
+description: REMOVED - November 24, 2006 Update: We have received the following email: The Massachusetts Department of Public Safety, Massachusetts Department of Public Safety Police Department, Massachusetts Environmental Conservation Police and Massachusetts State Police state:
+location: Metropolitan State Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.21348449999999
+latitude: 42.4053931
+city_longitude: -71.2356113
+city_latitude: 42.3764852
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2006/11/24
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

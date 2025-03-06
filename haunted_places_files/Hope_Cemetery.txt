@@ -1,0 +1,21 @@
+city: Auburn
+country: United States
+description: Around this huge cemetery there are many other smaller cemeteries. Ghosts have been sighted at the statue of Jesus being held up by an angel. Sounds of children laughing and other ghostly sounds.
+location: Hope Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.8269667
+latitude: 42.2362346
+city_longitude: -71.8356271
+city_latitude: 42.1945385
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

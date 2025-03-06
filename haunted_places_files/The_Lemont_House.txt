@@ -1,0 +1,21 @@
+city: State College
+country: United States
+description: In the small town of Lemont (in state college), there are many large Victorian houses. At the first intersection, under the street there is a tunnel used by the under ground rail road and it connects to several houses. In the Lemont house (the tunnel begins here) there is said to be the ghost of a woman, who supposedly either died or killed herself when her husband died. The house was a present for her wedding and she was so heart broken she refused to live there. Her father built her another house down the street. There are many secret passageways etc.
+location: The Lemont House
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.8187466
+latitude: 40.8089317
+city_longitude: -77.8600012
+city_latitude: 40.7933949
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

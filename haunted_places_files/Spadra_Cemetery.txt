@@ -1,0 +1,21 @@
+city: Pomona
+country: United States
+description: Update: This cemetery is now closed to the public, because of vandalism the police will be called. - This cemetery was the original Old Settler's cemetery from the Mid 1800's. It's been the site of a lot of vandalism over the years. At night a male figure can sometimes be seen walking through the small cemetery disappearing into a headstone. The cemetery will be very still and quiet, strangely quiet considering it is under a freeway. If respect is given, it will remain quiet, but as soon as anyone starts messing around, a hot wind picks up out of nowhere. It can only be felt in the cemetery. Items have been reported to disappear and reappear in other parts of the cemetery that had not been visited.
+location: Spadra Cemetery
+state: California
+state_abbrev: CA
+longitude: -117.8000587
+latitude: 34.0522329
+city_longitude: -117.7499909
+city_latitude: 34.055103
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

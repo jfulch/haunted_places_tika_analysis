@@ -1,0 +1,21 @@
+city: Lawrence
+country: United States
+description: Just south of Taminend Hall - there is a small cemetery with about 70 markers of children who died from a smallpox epidemic that plagued the city of Lawrence for a good year. When you approach the cemetery don't be afraid if you start to hear the sound of children crying. This is a common occurrence and has been the reason for several Native ceremonies to try to bring peace to these children who died here. One medicine man says that the children will only stop crying when they have been returned to their home lands.
+location: Haskell Indian Nations University
+state: Kansas
+state_abbrev: KS
+longitude: -95.2333404
+latitude: 38.9377658
+city_longitude: -95.2352501
+city_latitude: 38.9716689
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

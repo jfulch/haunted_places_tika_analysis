@@ -1,0 +1,21 @@
+city: Whitehall
+country: United States
+description: The apparition of a woman in a full-skirted dress and wearing a distinct ring on her right hand, haunts this old mansion. She appears for a few seconds and then turns into a glowing ball of light. There are also reports of people seeing the image of a skeleton. The mysterious lady has appeared in the dining area in various forms. Sometimes, just her hand will appear wearing a huge ring. She then materializes in the fountain behind the bar. The woman is believed to be Colonel Skene's wife. When she died, the colonel placed her body in a led lined coffin, which he kept in part of the house. After the old mansion became a restaurant, the owner placed the coffin behind the bar and built a fountain around it.
+location: Skene Manor
+state: New York
+state_abbrev: NY
+longitude: -73.3991636
+latitude: 43.5558653
+city_longitude: -73.3944466
+city_latitude: 43.537137
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

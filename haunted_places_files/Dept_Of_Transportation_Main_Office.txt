@@ -1,0 +1,21 @@
+city: Detroit
+country: United States
+description: A former employee killed himself on the 2nd floor .....so every night around 11:00 pm ....he roams the building ...operating the elevator and walking the stairs...... When he is really restless he rides the elevator with the living stopping on the 2nd floor on every up and down trip.....
+location: Dept Of Transportation Main Office
+state: Michigan
+state_abbrev: MI
+longitude: -83.05254099999999
+latitude: 42.3618853
+city_longitude: -83.0457538
+city_latitude: 42.331427
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

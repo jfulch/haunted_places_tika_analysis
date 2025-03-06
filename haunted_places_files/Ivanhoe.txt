@@ -1,0 +1,21 @@
+city: Rustburg
+country: United States
+description: The ghost in lavender, her remains lie in an ivy covered grave in the old burying ground, is thought to be the wife of the original owner. There is a story of a peddler murdered in one of the upper rooms in the long ago. Guests occupying the room heard alarming noises, had bedclothes removed in the night, or found them on the floor when going to bed. Two young men saw a pillow fly across the room. In this same room, there is a bloodstain on the floor. Attempts to remove the stain were unavailing. Soon after re-staining the floor, the spot would reappear. Some nights, near the house, you can hear the sound of heavy strokes of an axe chopping a tree and the labored breathing of the chopper.
+location: Ivanhoe
+state: Virginia
+state_abbrev: VA
+longitude: -79.0402822
+latitude: 37.3123584
+city_longitude: -79.10085430000001
+city_latitude: 37.2768113
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

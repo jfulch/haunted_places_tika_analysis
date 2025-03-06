@@ -1,0 +1,20 @@
+city: Elysian
+country: United States
+description: Employees say they have heard many voices talking. When they checked all over, they found no one around. In one event, a typewriter started typing by itself. Another time, a very old record player started playing by itself. And another time after hours, all 3 employees were in the staff room on the second floor, and heard the small service bell ring. They all went downstairs and no one was there. NOTHING could have fallen on the bell, or have made it ring. There’s a toilet in the basement that nobody uses, and one day 2 employees were upstairs and heard a loud crash. When investigating downstairs, they realized the toilet seat was down, when it was left up. All these events occurred over much time, and not very often. The employees wonder what happens during the 5 months the museum is closed.
+location: Le Sueur County Museum
+state: Minnesota
+state_abbrev: MN
+longitude: -93.6735419
+latitude: 44.19764
+city_longitude: -93.673838
+city_latitude: 44.1985771
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

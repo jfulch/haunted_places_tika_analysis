@@ -1,0 +1,21 @@
+city: Malmstrom
+country: United States
+description: Base Chapel - A young man with a long beard and fur traders' attire haunts the sanctuary of the chapel. He is often seen sitting in the seventh pew. He holds a bible and then drops it loudly. An old Piano plays on its own. It is rumored to be playing "All the ends of the Earth."
+location: Air Force Base
+state: Montana
+state_abbrev: MT
+longitude: -111.1790622
+latitude: 47.5042584
+city_longitude: -111.1790622
+city_latitude: 47.5042584
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

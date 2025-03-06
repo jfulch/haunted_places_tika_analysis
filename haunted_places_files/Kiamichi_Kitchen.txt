@@ -1,0 +1,21 @@
+city: Talihina
+country: United States
+description: Restaurant was once an old home. It is said to be haunted by a ghost referred to by employees as "George". Lights turn on or off by themselves. Radio comes on by itself. Noises heard late at night when no one else is there to make them.
+location: Kiamichi Kitchen
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.3235465
+latitude: 34.9212288
+city_longitude: -95.0480162
+city_latitude: 34.7514893
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1507/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

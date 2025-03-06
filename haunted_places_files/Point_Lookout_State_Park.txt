@@ -1,0 +1,21 @@
+city: Scotland
+country: United States
+description: If you go late at night and are driving out of the park, once you pass Ft. Lincoln you can feel a presence start to follow you. Sometimes the impression is so strong, you can expect to see a young man in Confederate Grays in the back seat. He stays until you pass the Confederate Cemetery, and then vanishes.
+location: Point Lookout State Park
+state: Maryland
+state_abbrev: MD
+longitude: -76.3374474
+latitude: 38.0609713
+city_longitude: -76.36189259999999
+city_latitude: 38.0890152
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

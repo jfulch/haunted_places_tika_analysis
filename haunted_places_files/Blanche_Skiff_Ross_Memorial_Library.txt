@@ -1,0 +1,20 @@
+city: Nevada
+country: United States
+description: They say that the Cottey Library sits on top of an old civil war field hospital and then in the 1880's a home was built for the Cottey Family. Either way there is loads of activity in this library with books falling and carts rolling and music coming from the back stairs. Various people have reported seeing an old man in a smoking jacket and cap in the balcony. They have also reported 2 little girls in Victorian dress playing on the stairs and a mysterious younger woman in a long white gown reading a book.
+location: Blanche Skiff Ross Memorial Library
+state: Missouri
+state_abbrev: MO
+longitude: -94.3700832
+latitude: 37.836928
+city_longitude: -94.3546719
+city_latitude: 37.83920519999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

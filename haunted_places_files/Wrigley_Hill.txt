@@ -1,0 +1,21 @@
+city: Morgan county
+country: United States
+description: Just off of 519 lays route 7 which flow across Wrigley Hill. Late at night people driving across Wrigley Hill have seen a woman hitch-hiking or the have seen her in their car.
+location: Wrigley Hill
+state: Kentucky
+state_abbrev: KY
+longitude: -83.27207589999999
+latitude: 37.9996853
+city_longitude: -83.2934086
+city_latitude: 37.9145713
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1861/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Hiawatha
+country: United States
+description: In the late 1800's, during a family well-digging get together, after the new well was dug, a pregnant woman fell into the old well, and despite efforts of many men, she was never retrieved and died. Now you can see her in a bloody white nightgown, standing in the bedroom window of the house. It is also said that the piano moves from room to room on its own.
+location: The Piano House
+state: Kansas
+state_abbrev: KS
+city_longitude: -95.5358156
+city_latitude: 39.8525033
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

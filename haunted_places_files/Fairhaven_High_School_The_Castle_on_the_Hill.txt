@@ -1,0 +1,21 @@
+city: Fairhaven
+country: United States
+description: Various "cold spots" and poltergeist activity have been reported in the "Main building" which was built in the 1800's by Fairhaven town benefactor Henry Huttleston Rogers. Fairhaven High School is located on Huttleston Ave.
+location: Fairhaven High School (The Castle on the Hill)
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.905382
+latitude: 41.6435944
+city_longitude: -70.90364869999999
+city_latitude: 41.6376043
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: The building itself used to be a hospital and the room that gets the most activity was supposedly the surgery room. The room is currently the weight room, people have said to have been in there and the radio will turn on or off by itself, the lights will turn on and off, or people will pass the room and see nobody in there but the weights will be moving.
+location: Main Police Department
+state: Texas
+state_abbrev: TX
+longitude: -106.4833232
+latitude: 31.7579715
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Meadville
+country: United States
+description: Brooks Hall - One of the rooms on the third floor in the all female dorm is supposedly haunted. First of all, Pennsylvania does not allow sorority houses on campus because of an outdated law to do with houses of ill repute. So sorority sisters were housed in the all female dormitory, Brooks Hall. The Greeks on campus had a ritual for pinning a girl that involved the pinner to walk down Main St. with his brothers behind him with torches. They would walk down Brooks Walk, a very long, red-brick lane that led right to the front of Brooks Hall. The pinner would climb the building to the front terrace where the pinnee would be waiting with her sorority sisters to be pinned. Well one such time the fraternity brother was climbing up the front of the building and fell to his death. The sister, terribly distraught, went to her room and in a fit of hysteria jumped out of the window, killing herself. Her spirit supposedly haunts her old room and furniture has been moved around, pictures fall from the walls, the window opens and the current tenants all are driven to request a housing reassignment.
+location: Allegheny College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.1449494
+latitude: 41.649349
+city_longitude: -80.15144839999999
+city_latitude: 41.6414438
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1897/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

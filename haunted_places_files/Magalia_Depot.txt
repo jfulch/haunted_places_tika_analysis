@@ -1,0 +1,20 @@
+city: Magalia
+country: United States
+description: This location used to be a train depot, but has been a restaurant since 1977. In the past owners have seen apparitions and heard voices through vents and banging on the walls. A former employee reports things fell off of shelves without explanation, their hair was pulled and their shoulder grabbed by an unseen force, they saw a floating head atop a freezer in the lower level bakery, one of the other coworkers entered the restroom and the faucet turned on by itself and the toilet flushed, while searching for the light switch on her first day working, the lights mysteriously turned on by themselves, while setting tables all the dinner forks had been turned on their sides, one night a woman working stepped inside the cooler and when she walked back out all the chairs had been pulled out from under the tables. According to past stories from previous owners there are three ghosts. A small child, a woman in a housecoat a conductor. The woman is the only one to ever have been seen and seems to be the one most often heard/sensed by anyone.
+location: Magalia Depot
+state: California
+state_abbrev: CA
+longitude: -121.5780923
+latitude: 39.8120469
+city_longitude: -121.5783059
+city_latitude: 39.8121058
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

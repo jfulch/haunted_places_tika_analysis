@@ -1,0 +1,21 @@
+city: Bellaire
+country: United States
+description: A phone that is disconnected rings on the 4th floor (which is closed off) Voices are heard and lights go off and on. Doors to empty rooms open and close. Faces appear in windows to late night staff.
+location: Belleview Biltmore Resort / Spa
+state: Florida
+state_abbrev: FL
+longitude: -82.8102609
+latitude: 27.9438177
+city_longitude: -82.8062139
+city_latitude: 27.9358543
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bronx
+country: United States
+description: Frankie's Castle - You can see an old man with a flashlight. He seems to be yelling something but you can't hear him. He might be there because it's an old water treatment plant.
+location: Woodlawn Park
+state: New York
+state_abbrev: NY
+longitude: -73.87222870000001
+latitude: 40.9000907
+city_longitude: -73.8648268
+city_latitude: 40.8447819
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1789/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

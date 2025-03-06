@@ -1,0 +1,21 @@
+city: Clinton Corners
+country: United States
+description: It is said that back in the early 1900's that a fiddler playing at a local Halloween party was on his way home when he was killed beneath the bridge. Now on Mischief Night and Halloween if you happen to be crossing the bridge around midnight stop your vehicle, roll down the windows and listen for the faint sound of a fiddle playing.
+location: Fiddlers Bridge
+state: New York
+state_abbrev: NY
+longitude: -73.838256
+latitude: 41.867976
+city_longitude: -73.76312519999999
+city_latitude: 41.8298561
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/10/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

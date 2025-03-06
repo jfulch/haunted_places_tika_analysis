@@ -1,0 +1,21 @@
+city: Newnan
+country: United States
+description: The bridge over Cedar Creek on Roscoe Road in Coweta County is actually a replacement of the original bridge in question. In the 1930's a horrible accident on the bridge took the lives of a woman and her baby. The woman has manifested herself in voice and appearance in various ways over the last several decades. Hauntings include forlorn screaming (hence the name), rapidly dropping temperatures, and a ghost car.
+location: Cedar Creek Bridge
+state: Georgia
+state_abbrev: GA
+longitude: -84.7345923
+latitude: 33.4612813
+city_longitude: -84.79965729999999
+city_latitude: 33.3806716
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.45
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Accident
+witness_count: 0

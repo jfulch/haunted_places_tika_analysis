@@ -1,0 +1,21 @@
+city: Allegan
+country: United States
+description: Various ghostly activities. News coverage about these hauntings every year around Halloween time, on the local channels.
+location: The Grill House and the Rock Bottom Bar
+state: Michigan
+state_abbrev: MI
+longitude: -85.8575642
+latitude: 42.4977621
+city_longitude: -85.8553031
+city_latitude: 42.5291989
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

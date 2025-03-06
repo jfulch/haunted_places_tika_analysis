@@ -1,0 +1,21 @@
+city: Monroe
+country: United States
+description: Old civil war mansion - was part of the Underground railroad. Matron, Lady Ludlow haunts the grounds. Have seen Flying objects, flickering lights and Cold presences. Also have personally witnessed her walking down a Back hallway. Her room on the second floor is always cold, even if the heat is on. On top of the mansion is a "Widows Walk", sometimes at night you can see her apparition or shadow walking the course of it.
+location: Idle Hour mansion
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.6405185
+latitude: 42.6127085
+city_longitude: -89.6384532
+city_latitude: 42.60111939999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

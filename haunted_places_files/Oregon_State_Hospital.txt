@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: When walking in the old sections of the tunnels that run under the various buildings, you can sense that you are not alone. On the older section of the building (Administration Building) You at times will catch a site of figures in the windows, This building is also the site of which One flew Over The Cuckoos Nest was filmed. The building is condemned, however still has tormented spirits that occupy its halls and rooms.
+location: Oregon State Hospital
+state: Oregon
+state_abbrev: OR
+longitude: -123.0030369
+latitude: 44.9386901
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

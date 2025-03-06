@@ -1,0 +1,21 @@
+city: Rolling Meadows
+country: United States
+description: There have been many events leading to paranormal activity in this complex. When the buildings were first built many years ago, a construction worker brought his two children to the job site and they were killed by a falling temporary wall. These children are often seen or heard playing by the playground.
+location: Brookwood condos- playground
+state: Illinois
+state_abbrev: IL
+longitude: -88.03293529999999
+latitude: 42.0818356
+city_longitude: -88.0131275
+city_latitude: 42.0841936
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: In the middle of the night there are sounds of the bell on the high tower of the building from beginning of classes in the 1960's but the bell is gone now but there are still the sounds of it in the middle of the night.
+location: Jefferson Jr. High school (Whitmer High School)
+state: Ohio
+state_abbrev: OH
+longitude: -83.61185359999999
+latitude: 41.7167795
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2015/01/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: San Angelo
+country: United States
+description: The Housing Office - is haunted by the spirit of a young co-ed who was murdered there in the 1970's by an ROTC cadet. He apparently was infatuated with her and went into a murderous rage when she refused his advances.
+location: Angelo State University
+state: Texas
+state_abbrev: TX
+longitude: -100.4602762
+latitude: 31.4382686
+city_longitude: -100.4370375
+city_latitude: 31.4637723
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

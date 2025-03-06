@@ -1,0 +1,20 @@
+city: Aurora
+country: United States
+description: It is said that this 7-11 was built on an old Indian Reservation. Between midnight and 3 am, strange occurrences start to happen. Things randomly flying off the shelves when no one is near them, glowing red eyes in the back in the cooler, footsteps when no one is in the store, and when you leave you can hear voices of the natives saying "Thank you, please come back and see us," and Indian music playing. The voices and the music are very faint.
+location: Smoky Hill 7-11
+state: Colorado
+state_abbrev: CO
+longitude: -104.7955638
+latitude: 39.62798009999999
+city_longitude: -104.8319195
+city_latitude: 39.7294319
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

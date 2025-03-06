@@ -1,0 +1,21 @@
+city: Hodgesville
+country: United States
+description: At the top of the hill you can see the old road to the Mount Lebanon Church. On late nights, if you sit near the top of the hill, you can see the ghost of a boy who was killed in the 1920's. His spirit seems to be pedaling his bicycle uphill, trying to get home. You can see him in his dark blue coat, and can hear the clank and rattle of his bicycle chain. Near the bottom of the hill, on stormy nights, you can see the ghost of a man and his wife on an old horse cart. They were believed to be bringing supplies home during a thunderstorm. The cart rolled however, killing them both.
+location: Hacker's Creek Hill
+state: West Virginia
+state_abbrev: WV
+longitude: -80.16978979999999
+latitude: 39.0611268
+city_longitude: -80.1942499
+city_latitude: 39.0659304
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Swords Creek
+country: United States
+description: You can see Green eyes starring in your window, see people with bloody faces, hear cabinate doors slam in various homes. At the end of one of the roads there is a rock quary and you can see men, men with bloody faces and things in their heads. You see and hear cats all the time. There are reports of evil spirits around. Some even say you can feel them.
+location: Long Branch
+state: Virginia
+state_abbrev: VA
+longitude: -82.3076928
+latitude: 36.8941183
+city_longitude: -81.91790080000001
+city_latitude: 37.0362229
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

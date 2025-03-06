@@ -1,0 +1,21 @@
+city: Baton Rouge
+country: United States
+description: Usually during late September or early October, but occasionally at other times, the ghosts of ragged and dirty Confederate soldiers can be seen walking along or crossing Highland Road beginning around Lee Drive (south of the LSU campus) and the sightings continue as far down as Gardere Lane. There are numerous reports of soldiers scurrying across the road late at night. However, in 1999 or 2000, there was an incident in early October in which several drivers called police when a filthy, bleeding young man wearing a Confederate uniform and carrying a rifle staggered across the busy intersection of Lee Drive and Highland Road around 5:00pm. Police serached the area and found no one.
+location: Highland Road near Lee Drive
+state: Louisiana
+state_abbrev: LA
+longitude: -91.150689
+latitude: 30.4048057
+city_longitude: -91.1403196
+city_latitude: 30.4582829
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

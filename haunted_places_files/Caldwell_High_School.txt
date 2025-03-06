@@ -1,0 +1,21 @@
+city: Caldwell
+country: United States
+description: Located on Highway 21 basically in a field of cows sits Caldwell High School, a fairly new building (less than 30 years old). The spotlight projection room in the auditorium and the sound booth is haunted by an unknown spirit the theatre trope referred to as "George". The soundboard and light dials will move and the lights will dim or flicker during rehearsals (but never during actual shows) despite the electrical wiring being checked repeatedly. Folks working in the spotlight room have reported chills and strange noises.
+location: Caldwell High School
+state: Texas
+state_abbrev: TX
+longitude: -96.6741275
+latitude: 30.5484321
+city_longitude: -96.6930303
+city_latitude: 30.5313152
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Batson/Moss Hill
+country: United States
+description: Busted open graves from the late 1700's early 1800's. Wrought Iron fences all mangled up around the old tombstones. If you try to mess w/ the graves weird things will happen like ants crawling all over you coming out from no where.
+location: Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -94.6049429
+latitude: 30.2149705
+city_longitude: -96.3562882
+city_latitude: 30.6870688
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

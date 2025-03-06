@@ -1,0 +1,21 @@
+city: Dearborn
+country: United States
+description: The cleaners have claimed at nighttime to have felt presences and witnessed the lockers opening and shutting. You always feel as if your not alone. It is believed to be the spirits of golf legends.
+location: Tournament Players Club
+state: Michigan
+state_abbrev: MI
+longitude: -83.2008523
+latitude: 42.3064362
+city_longitude: -83.17631449999999
+city_latitude: 42.3222599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

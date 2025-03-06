@@ -1,0 +1,21 @@
+city: Boonton
+country: United States
+description: It is said that if you go to the grave yard at exactly 12:00 you will see a grave stone glow.
+location: The Grave Yard on Green Street
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.41398
+latitude: 40.907676
+city_longitude: -74.4087405
+city_latitude: 40.904019
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1855/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

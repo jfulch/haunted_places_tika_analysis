@@ -1,0 +1,21 @@
+city: Parsippany
+country: United States
+description: high school kids used to have bonfire parties in the middle of the woods next to the elementary school. one kid accidentally dropped the lighter fluid into the fire while everyone was gathered around and the can exploded, burning at least 15 kids. it is said that late at night around 11:00 you can hear screaming and laughing from the kids, and the next morning you will find empty beer cans all over the place, and some burnt logs in the fire pit.
+location: Littleton Elementary school woods
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.4600995
+latitude: 40.859037
+city_longitude: -74.41738769999999
+city_latitude: 40.8652865
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 0

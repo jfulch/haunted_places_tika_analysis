@@ -1,0 +1,21 @@
+city: Arlington
+country: United States
+description: Sigma Chi Fraternity House - Before building Greek Row, there was an orphanage on this property. It burned and most of the children died. One girl named Mary still haunts the place and likes to play tricks on girls that come over.
+location: University of Texas at Arlington
+state: Texas
+state_abbrev: TX
+longitude: -97.1162524
+latitude: 32.7301078
+city_longitude: -97.1080656
+city_latitude: 32.735687
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1842/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

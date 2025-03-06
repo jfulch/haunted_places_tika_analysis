@@ -1,0 +1,21 @@
+city: Tuscumbia
+country: United States
+description: The Antebellum House sits on an old plantation. There have been many sightings of the spirits of the slaves. It is a tourist attraction now and the shackles still remain on the cellar walls.
+location: Bellemont Mansion
+state: Alabama
+state_abbrev: AL
+longitude: -87.6670139
+latitude: 34.661969
+city_longitude: -87.70253
+city_latitude: 34.7312005
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

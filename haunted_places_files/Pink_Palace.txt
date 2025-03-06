@@ -1,0 +1,19 @@
+city: Manchester
+country: United States
+description: there is the place in the woods off of a remote road outside of Chelsea. It is called Pink Palace. It is an old Victorian style large pink home with dogs as gates. It is very dilapidated and not very stable yet, still stands. It is rumored that Satanists hold meetings there. It has spray paint on the inside walls in Latin and the bathroom upstairs has a tub that seems to have blood all over it. You get a frigid chill as soon as you enter and some say they her voices. In the back is the supposed slaughterhouse.
+location: Pink Palace
+state: Michigan
+state_abbrev: MI
+city_longitude: -84.037723
+city_latitude: 42.1503177
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1905/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

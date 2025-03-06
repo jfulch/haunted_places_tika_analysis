@@ -1,0 +1,21 @@
+city: Alcoa
+country: United States
+description: It is said haunted by an old man who built on the house for over 45yrs. He and his wife believed that as long as they kept on working on the stone house that they would never die. His wife died first and he just said that she lost her faith. He died about 20 yrs later but you can still see candlelight and hear him building on the house even during the day.
+location: The Old Stone House
+state: Tennessee
+state_abbrev: TN
+longitude: -83.96522759999999
+latitude: 35.7802412
+city_longitude: -83.9737935
+city_latitude: 35.7895271
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1772/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

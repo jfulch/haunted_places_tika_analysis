@@ -1,0 +1,21 @@
+city: La Crosse
+country: United States
+description: 2003 - The manager was sitting in a chair behind the bar one day before opening. The bar was empty; He was watching TV for maybe an hour and a half in that one spot when he heard a knock at the door he got up to see who was there. Before he got to the door a large iron industrial fan directly above his chair fell from the ceiling crushing his chair. No one was at the door or anywhere near the bar when he checked.
+location: Dells Bar
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.251565
+latitude: 43.8146387
+city_longitude: -91.2395807
+city_latitude: 43.8013556
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

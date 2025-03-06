@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: In the basement of Hubbard High School you can see and hear a teenage girl crying and sometimes screaming for help.
+location: Hubbard High School
+state: Illinois
+state_abbrev: IL
+longitude: -87.71864699999999
+latitude: 41.7801987
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2017/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: Said to be haunted by the different patients that were mistreated in there. It was shut down for good in 1990 for poor living conditions and mistreatment of patients. People have gone into the catacombs only to run out crying. Its located by the Roller skate palace. Reports of screams bellowing from the basements. - June 2008 Update: It was sold to a contractor who demolished all buildings and is now building office complex and retirement homes.
+location: Byberry Mental Hospital
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.1021627
+latitude: 40.0264575
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

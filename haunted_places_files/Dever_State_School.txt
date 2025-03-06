@@ -1,0 +1,21 @@
+city: Plymouth
+country: United States
+description: February 2007 Correction: Formerly listed as Myles Standish State Forest - There are several reported hauntings in the state forest in Plymouth. There is a story of an old abandoned mental hospital somewhere in there. Also a certain lot in the woods is supposedly a place where murders took place back in the 1970's. - February 2007 Update: heavily patrolled and randomly alarmed in some buildings. State Police also patrol.
+location: Dever State School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1206067
+latitude: 41.9445373
+city_longitude: -70.6672621
+city_latitude: 41.9584457
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

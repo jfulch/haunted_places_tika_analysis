@@ -1,0 +1,21 @@
+city: Fremont
+country: United States
+description: Theater above the student union is haunted by what was a caretaker from way back. Strange noises and eerie feelings abound.
+location: Midland Lutheran College
+state: Nebraska
+state_abbrev: NE
+longitude: -96.4897867
+latitude: 41.43751200000001
+city_longitude: -96.4981467
+city_latitude: 41.4333909
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

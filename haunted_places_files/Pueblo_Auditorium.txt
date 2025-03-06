@@ -1,0 +1,19 @@
+city: Roswell
+country: United States
+description: in the upstairs balcony you can see a boy, that is, until you go up there, then he disappears
+location: Pueblo Auditorium
+state: New Mexico
+state_abbrev: NM
+city_longitude: -104.5230242
+city_latitude: 33.3942655
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1981/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

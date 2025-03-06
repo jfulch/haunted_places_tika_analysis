@@ -1,0 +1,21 @@
+city: Sweetwater
+country: United States
+description: Cash would disappear and reappear in the cash register, strange noises, voices & apparitions.
+location: Texas Movie Theatre
+state: Texas
+state_abbrev: TX
+longitude: -99.7742642
+latitude: 32.4096412
+city_longitude: -100.4059384
+city_latitude: 32.4709519
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Accident
+witness_count: 0

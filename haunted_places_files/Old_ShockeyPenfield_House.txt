@@ -1,0 +1,19 @@
+city: Columbus
+country: United States
+description: In the upstairs of the house, door will open when they were shut and locked, lights dim and flicker. Strange sounds--Is said to be "haunted" by the late Keith Penfield, who died there unexpectedly one morning. The basement also gives off unusual sounds, and you feel like someone's watching you while you sleep, also if you walk around the house when it's dark, you'll see mysterious shadows around the house.
+location: Old Shockey/Penfield House
+state: Nebraska
+state_abbrev: NE
+city_longitude: -97.3593904
+city_latitude: 41.43029730000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

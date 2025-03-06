@@ -1,0 +1,21 @@
+city: Freedom
+country: United States
+description: Back in the 1950's a man murdered his wife, and then supposedly disposed her body in Pinto Lake. Authorities never found her body and the house she was murdered in remained an untouched murder scene well into the late 1970's. The piano would play itself and while inside the house you could hear a door or trunk slam and a car start but when you went outside there was nothing except the two cars there since the murder, which could not possibly run as grass was even growing up through the floorboards. The house had cold spots near the closets where the woman's clothing still hung.
+location: Hawthorne Lane
+state: California
+state_abbrev: CA
+longitude: -121.7791324
+latitude: 36.9560536
+city_longitude: -121.8021647
+city_latitude: 36.938468
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

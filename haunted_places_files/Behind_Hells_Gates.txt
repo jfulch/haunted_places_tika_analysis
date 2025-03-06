@@ -1,0 +1,19 @@
+city: Owens Cross Roads
+country: United States
+description: Unexplainable things occur here. You hear chanting and noises, which you cannot find the origin of. Things can be thrown at you that you will never see, nor will the object ever hit the ground. You hear footsteps chasing you if you run, but there's no one ever there. Inside the mansion, behind the gates it is unnaturally cold. You can hear whispering and screaming from inside the mansion, but no one is there.
+location: Behind Hell's Gates
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.4588768
+city_latitude: 34.5881461
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1906/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

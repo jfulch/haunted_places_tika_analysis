@@ -1,0 +1,18 @@
+city: Lake Barkley
+country: United States
+description: A black man died during the slave drive and was buried there. He was the only black person buried in the cemetery. It is said that he haunts the church that is located in the cemetery. He may only haunt the church, but his spirit is felt through miles.
+location: Hawkins Cemetery
+state: Kentucky
+state_abbrev: KY
+city_longitude: -87.9873724
+city_latitude: 36.8672451
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

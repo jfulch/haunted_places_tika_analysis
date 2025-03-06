@@ -1,0 +1,21 @@
+city: Smith County
+country: United States
+description: There was a small private plane crashed between Billy Hollow RD and Dean Hill Rd many years ago. There were four passengers and one pilot on board the plane. One passenger was a woman and her infant baby.  Throughout the years, several different types of people have reported hearing and seeing many strange things around those hills. The most popular tale is that if you drive down Billy Hollow RD or Dean Hill RD anytime after dark, you can hear either/or a baby crying or its mother desperately trying to locate it. Other stories include sightings of five strange-looking "people" walking alongside Billy Hollow RD. But when you turn around and go back to get a better look, there is no one around, and nowhere that they could have disappeared to so suddenly, unless they simply vanished. Another story says that when you are driving one one of the two roads, your car will suddenly die and as you try to start it back it won't start. Then just as you start to panic, your car roars to life once again. Yet another unexplained incident in Tennessee's ghostly history.
+location: Billy Hollow RD
+state: Tennessee
+state_abbrev: TN
+longitude: -85.845315
+latitude: 36.3832809
+city_longitude: -85.971322
+city_latitude: 36.2388468
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1938/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

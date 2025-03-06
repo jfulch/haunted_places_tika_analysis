@@ -1,0 +1,19 @@
+city: Newport
+country: United States
+description: McAuley Hall - is haunted by a little boy who fell out of a window while watching his parents arrive by boat.
+location: Salve Regina University
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.3006438
+latitude: 41.47145270000001
+city_longitude: -71.3128285
+city_latitude: 41.4901024
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1894/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Glenville
+country: United States
+description: Pickens Hall -  noises such as furniture moving about, balls being dropped, and marbles rolling around are heard on the ceilings in all of the dorm rooms, these noises occur whether someone is living in the room above or not. Dark shadow figures are seen walking through the main lobby.
+location: Glenville State College
+state: West Virginia
+state_abbrev: WV
+longitude: -80.83322199999999
+latitude: 38.9348779
+city_longitude: -80.8376033
+city_latitude: 38.9342573
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1919/06/29
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

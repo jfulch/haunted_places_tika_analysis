@@ -1,0 +1,21 @@
+city: Barboursville
+country: United States
+description: feelings of not being alone and anomalies showing up on film.
+location: Swan Cemetery
+state: West Virginia
+state_abbrev: WV
+longitude: -82.24933229999999
+latitude: 38.3628971
+city_longitude: -82.29459229999999
+city_latitude: 38.4095298
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: Premont hall - All male dorm -  The spirit of a former RA still haunts the dorm. During spring break, he came back early and slipped and fell in the showers and died instantly. he was left there for a week. he slams doors and windows and turns on all the showers at once.
+location: St. Edward's University
+state: Texas
+state_abbrev: TX
+longitude: -97.7538582
+latitude: 30.2297224
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

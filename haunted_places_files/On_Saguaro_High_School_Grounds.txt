@@ -1,0 +1,21 @@
+city: Scottsdale
+country: United States
+description: June 2008 - Removed
+location: On Saguaro High School Grounds
+state: Arizona
+state_abbrev: AZ
+longitude: -111.905583
+latitude: 33.52667
+city_longitude: -111.9260519
+city_latitude: 33.4941704
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

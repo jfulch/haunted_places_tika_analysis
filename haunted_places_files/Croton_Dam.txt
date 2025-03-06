@@ -1,0 +1,21 @@
+city: Croton
+country: United States
+description: There was a young boy in the 1970's who was fishing at the top of Croton Dam. He slipped and fell in the turbines, and was killed. Several fishermen have claimed they have seen the boy walking at the top of the dam sobbing. Most sightings have been in the early morning before sunrise. The boy's figure is illuminated by the lights at the top of the dam, and he is said to be walking about ten feet above the wall. The fisherman of the community seem to believe he is a sign of good luck, who ever spots him seems to have a prosperous day.
+location: Croton Dam
+state: Michigan
+state_abbrev: MI
+longitude: -85.66338909999999
+latitude: 43.437111
+city_longitude: -85.62292959999999
+city_latitude: 43.4194319
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

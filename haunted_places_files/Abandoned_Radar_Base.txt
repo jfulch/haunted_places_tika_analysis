@@ -1,0 +1,19 @@
+city: Eagle Pass
+country: United States
+description: Many teens how have gone out to the abandoned base to party there have reported many strange apparitions and spirits that haunt the base grounds.
+location: Abandoned Radar Base
+state: Texas
+state_abbrev: TX
+city_longitude: -100.4995214
+city_latitude: 28.7091433
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Pojoaqus
+country: United States
+description: A girl hung herself in the girls locker room at the gym from a showerhead. She is now said to wander around the gym and if you go into the locker room at night you will see her body hanging from the shower.
+location: Pojoaque High school
+state: New Mexico
+state_abbrev: NM
+longitude: -106.0660458
+latitude: 35.8773856
+city_longitude: -106.0230784
+city_latitude: 35.8928034
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2006/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

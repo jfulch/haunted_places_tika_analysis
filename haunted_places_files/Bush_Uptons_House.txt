@@ -1,0 +1,19 @@
+city: Bellville
+country: United States
+description: May 2008 Update: Burned down to the ground several years ago. - This used to be a Civil War Hospital. There are reports of ghosts of soldiers throwing things at windows and breaking them.
+location: Bush Upton's House
+state: Alabama
+state_abbrev: AL
+city_longitude: -87.109144
+city_latitude: 31.4298882
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

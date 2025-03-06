@@ -1,0 +1,21 @@
+city: Fremont
+country: United States
+description: In the women's bathroom in building 3 there is the ghost of a woman wearing a blue '60s style dress. She appears in the mirror.
+location: Ohlone College
+state: California
+state_abbrev: CA
+longitude: -121.9150642
+latitude: 37.5300423
+city_longitude: -121.9885719
+city_latitude: 37.5482697
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

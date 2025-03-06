@@ -1,0 +1,21 @@
+city: Winterstown
+country: United States
+description: Reymeyer's Hollow - In 1928 three men beat, Nelson Reymeyer, to death, and then tried to burn his body. They thought he had hexed one of them. They wanted to get a book from him to undo the hex. But, Nelson wouldn't give it to them.
+location: York county
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.6180234
+latitude: 39.8353793
+city_longitude: -76.6180234
+city_latitude: 39.8353793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1928/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

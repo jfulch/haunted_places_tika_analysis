@@ -1,0 +1,19 @@
+city: Grayson
+country: United States
+description: Johns Run - A strange woman dressed in white is seen roaming the woods in this hollow. It is claimed that she was killed in an old farmhouse located in the hollow during the depression era. Many residents that lived in the house had many encounters with her. After the house burnt, she began haunting the nearby woods. She had been seen by numerous deer hunters, who all claim she had been dressed in white.
+location: Gollihue Hollow
+state: Kentucky
+state_abbrev: KY
+city_longitude: -82.9485023
+city_latitude: 38.3325812
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

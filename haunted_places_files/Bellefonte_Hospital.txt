@@ -1,0 +1,21 @@
+city: Bellefonte
+country: United States
+description: Bellefonte is an Old Catholic hospital and it is said that the ghost of an old nun named Fannie haunts the hospital. There have been reports of things mysteriously falling off shelves and things making loud crashing noises, but when you go to look, nothing is there. Fannie is said to be seen most often in and around the emergency room.
+location: Bellefonte Hospital
+state: Kentucky
+state_abbrev: KY
+longitude: -82.6927449
+latitude: 38.5091289
+city_longitude: -82.6901625
+city_latitude: 38.4925809
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1790/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

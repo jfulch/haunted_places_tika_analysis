@@ -1,0 +1,21 @@
+city: Clinton Township
+country: United States
+description: In the Spring, Summer, and sometimes early Fall, some of the streets will have fog only at the end of them, and there will be Shadows of teenager looking people walking down the middle of the street. Also, sometimes if you cross the middle of the streets you feel a temperature drop repeatedly.
+location: Chateau Clinton Trailer Park
+state: Michigan
+state_abbrev: MI
+longitude: -82.9707913
+latitude: 42.5764741
+city_longitude: -82.9195514
+city_latitude: 42.5868882
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

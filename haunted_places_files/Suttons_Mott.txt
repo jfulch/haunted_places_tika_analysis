@@ -1,0 +1,21 @@
+city: Victoria
+country: United States
+description: This picnic grove got its name from the cantankerous ghost who is seen there. William Sutton was a goat herder who lived in the area in the 1850s. He was murdered on Sunday while walking up the church steps in the nearby town of Goliad. Since then his ghost has haunted this serene patch of live oak trees. Horses and dogs refuse to enter the grove, and tales of drifting phantoms and ghostly bodies hanging from trees abound. Some say Sutton returns to guard his strongbox of gold he had buried here.
+location: Sutton's Mott
+state: Texas
+state_abbrev: TX
+longitude: -97.0439127
+latitude: 28.7684788
+city_longitude: -97.0035982
+city_latitude: 28.8052674
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Kingsville
+country: United States
+description: reports of thumping and lights flickering on and off at night and of people seeing figures in the windows
+location: Chela's Market
+state: Texas
+state_abbrev: TX
+longitude: -97.8435736
+latitude: 27.5163256
+city_longitude: -97.856109
+city_latitude: 27.5158689
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1985/11/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

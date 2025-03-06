@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: - built in the 1840's, is said to also have activity. Strange shadows are spotted from its windows. Further, there is documentation that this campus had been inhabited for nearly 7,000 years by Native Americans, who were attracted to it since the campus is the source of the San Antonio River.
+location: Brackenridge Villa Mansion
+state: Texas
+state_abbrev: TX
+longitude: -98.4911999
+latitude: 29.4148697
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

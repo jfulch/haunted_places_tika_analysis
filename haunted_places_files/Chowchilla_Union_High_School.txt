@@ -1,0 +1,21 @@
+city: Chowchilla
+country: United States
+description: Chowchilla Union High school has had many students in the past years who have passed away. There have been reports of the students who have passed away still roaming the halls, at the lockers, in the gym, the cafeteria, and in the classrooms. You always get the feeling that someone is watching you in the classrooms. Some students have said that a girl with long blonde hair will ask them what time it is then disappear, and some say the girl goes by "Michelle".
+location: Chowchilla Union High School
+state: California
+state_abbrev: CA
+longitude: -120.2627237
+latitude: 37.116291
+city_longitude: -120.2601754
+city_latitude: 37.1229997
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

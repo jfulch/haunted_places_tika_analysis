@@ -1,0 +1,21 @@
+city: Boulder City
+country: United States
+description: it was built over 50 years ago, it is said that if you go to it at night a white cat will follow you through out the cemetery if it likes you.
+location: Boulder City pet cemetery
+state: Nevada
+state_abbrev: NV
+longitude: -114.8470616
+latitude: 35.9457364
+city_longitude: -114.8345117
+city_latitude: 35.9782216
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

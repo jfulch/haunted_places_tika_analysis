@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: When the school first opened in the seventies, the pool was open to the public. Reportedly, a lifeguard invited his girlfriend and her little sister to do some swimming after hours. While the couple was making out in what is now the girl's coaches office, the little girl drowned in the pool. Early mornings in the pool, a little girl in a bathing suit can be seen sitting in the far corner of the pool area. Strange cold spots or things rubbing against swimmers have also been reported.
+location: Coronado High School
+state: Colorado
+state_abbrev: CO
+longitude: -104.8578665
+latitude: 38.8736725
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

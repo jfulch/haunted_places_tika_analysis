@@ -1,0 +1,19 @@
+city: Bel Air
+country: United States
+description: When you are in the basement you hear boxes flying across the room. When one of the current owner's kids woke up one night, she screamed at the sight of a man standing near her closet then trying to hold her hand. The other sighting was a little girl singing and spinning in circles. Footsteps heard and cold spots felt.
+location: W. Belcrest Rd (Riggie)
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.34829309999999
+city_latitude: 39.5359406
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

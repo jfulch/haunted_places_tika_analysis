@@ -1,0 +1,21 @@
+city: Huntersville
+country: United States
+description: a trailer on Mcoy road is said to be haunted by a man who died in the living room floor. Lights flicker on and off, doors open and close, and in the back room of the trailer you can feel a cold presence moving around.
+location: Mcoy road
+state: North Carolina
+state_abbrev: NC
+longitude: -80.88512659999999
+latitude: 35.380527
+city_longitude: -80.84285040000002
+city_latitude: 35.410694
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/11/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

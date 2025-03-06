@@ -1,0 +1,21 @@
+city: Irvine
+country: United States
+description: Oriental Man walking his dog, and practicing his golf swings walks by the pool areas almost every night at 10:30pm.
+location: Orange Tree patio homes
+state: California
+state_abbrev: CA
+longitude: -117.7764109
+latitude: 33.6602327
+city_longitude: -117.8265049
+city_latitude: 33.6845673
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

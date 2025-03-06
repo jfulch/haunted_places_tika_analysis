@@ -1,0 +1,21 @@
+city: San Marcos
+country: United States
+description: The ghosts of former inhabitants have been spotted on the grounds.
+location: Questhaven
+state: California
+state_abbrev: CA
+longitude: -117.165765
+latitude: 33.0794813
+city_longitude: -117.1661449
+city_latitude: 33.1433723
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

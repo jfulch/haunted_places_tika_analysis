@@ -1,0 +1,21 @@
+city: Mars
+country: United States
+description: At the turn of the 20th Century, when the station was still fairly new, a small cat lingered in the rooms where its owner worked. It was somewhat of a mascot for the station over the next couple of years. One day, it mysteriously disappeared. When the station was moved in August of 2000, workers found a preserved body of a dead cat in the foundation. After the station was moved, members of the Mars Historical Society began experiencing strange happenings in the old structure. Cat sounds can be heard. What is even more disturbing is that during the restoration work, members discovered paw prints of a cat in the sawdust of a newly cut board. Some members have even reported seeing a small cat wondering around in the rooms. The members have nicknamed the ghost cat, "Chessie". It was named after the now retired Chessie System. It is said that Chessie's spirit emerges out of the ground where the station used to be. It runs across the CSX tracks and enters the station where it now sits. Many believe that Chessie searches unsuccessfully for it’s lovable master who is now long gone.
+location: Mars Railroad Station
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.00843080000001
+latitude: 40.694696
+city_longitude: -80.0117254
+city_latitude: 40.6958996
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

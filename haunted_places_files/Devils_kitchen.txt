@@ -1,0 +1,19 @@
+city: Tallapoosa
+country: United States
+description: Witnesses report hearing the screams of a woman that was murdered there in the 1940's by her boyfriend and another man because they were all involved in a robbery. While crossing the bridge before keys castle a young man in a blue windbreaker can be seen on the bridge. Legend states that the young man and his friends were drinking and driving and he was put out as a prank because of the screams from the girl killed in the 40's. he fell off the bridge and drowned in the river. He can be seen waiting for his friends to return to pick him up.
+location: Devil's Kitchen
+state: Georgia
+state_abbrev: GA
+city_longitude: -85.2880077
+city_latitude: 33.7445499
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.516666666666667
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

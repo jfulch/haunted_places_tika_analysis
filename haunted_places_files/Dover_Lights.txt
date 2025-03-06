@@ -1,0 +1,21 @@
+city: Dover
+country: United States
+description: The ghosts of Spanish Conquistadors search for their lost gold in a valley in the Ozark foothills.
+location: Dover Lights
+state: Arkansas
+state_abbrev: AR
+longitude: -93.1362171
+latitude: 35.5530757
+city_longitude: -93.1143407
+city_latitude: 35.4014712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Indianola
+country: United States
+description: In the late 1800s, a woman fell down the staircase of College Hall. She was apparently walking from the third floor when she tripped, broke her neck during the fall, and died instantly. On every Friday the 13th, it is said you can see her reflection or "shadow" in the third floor window while stepping on the college seal exactly at midnight.
+location: Simpson College
+state: Iowa
+state_abbrev: IA
+longitude: -93.563626
+latitude: 41.364988
+city_longitude: -93.5574376
+city_latitude: 41.3580484
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2023/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

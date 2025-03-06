@@ -1,0 +1,21 @@
+city: Waipio
+country: United States
+description: Witnesses have heard a type of marching in the C building.
+location: Kanoelani school
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9984616
+latitude: 21.4161335
+city_longitude: -157.9955852
+city_latitude: 21.414311
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

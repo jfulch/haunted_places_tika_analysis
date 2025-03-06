@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: The International is said to be haunted by a ghost called "Tommy", a former owner or employee. Apparently, Tommy is seen or felt at the end of the bar, and heard clunking around upstairs in the old (closed) hotel.
+location: The International Hotel
+state: Nevada
+state_abbrev: NV
+longitude: -117.0724176
+latitude: 39.4937292
+city_longitude: -117.0672356
+city_latitude: 39.49257009999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/08/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

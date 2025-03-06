@@ -1,0 +1,21 @@
+city: New Braunfels
+country: United States
+description: Newspaper articles about the hotel ghost, noted for drifting in the hallways of an upper floor, entering closed doors, turning water and lights on and off, etc.
+location: The Hotel Faust
+state: Texas
+state_abbrev: TX
+longitude: -98.1230252
+latitude: 29.7014365
+city_longitude: -98.1244531
+city_latitude: 29.7030024
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

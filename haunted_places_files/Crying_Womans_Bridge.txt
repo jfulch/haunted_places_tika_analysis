@@ -1,0 +1,19 @@
+city: Dublin
+country: United States
+description: It is said that you can hear her crying and calling for her dead child. The bridge is on a road called Heacock Road; it is blocked of on both ends. There is a big livestock looking gate ate one end, at the other end, there is a huge dumpster. The road has been taken over with weeds and brush.
+location: Crying Woman's Bridge
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.2088541
+city_latitude: 39.8122686
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Westbrook
+country: United States
+description: Old Bed and Breakfast Inn on the shoreline of Connecticut. Past innkeeper experienced activity. Beds unmade by themselves, old ragtime music in the vents, piano playing a tune by itself. A wealthy man who died in a fire originally owned the house. Townspeople claim of suspicious activities. The house recently caught on fire again during renovations in the middle of the night.
+location: Talcott House
+state: Connecticut
+state_abbrev: CT
+longitude: -72.45500899999999
+latitude: 41.2786628
+city_longitude: -72.4641563
+city_latitude: 41.2959741
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

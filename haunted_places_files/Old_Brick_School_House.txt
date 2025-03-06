@@ -1,0 +1,21 @@
+city: Waterville
+country: United States
+description: There is an old school house a couple miles out of town where you can see candle light emanating from the shattered and boarded up windows. if you go in to the building with a flashlight or candle they will go out when you enter the main schoolroom. this building was built in 1864, and the nearest house owner says he can hear children playing and the squeaking of a swing set that is no longer there.
+location: Old Brick School House
+state: Washington
+state_abbrev: WA
+longitude: -120.0696874
+latitude: 47.6454052
+city_longitude: -120.0711788
+city_latitude: 47.6470761
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1864/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

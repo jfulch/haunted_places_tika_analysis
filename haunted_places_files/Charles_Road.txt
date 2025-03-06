@@ -1,0 +1,21 @@
+city: Marion
+country: United States
+description: Supposedly a long time ago a family headed down that road in their wagon on the way to Church, during winter. It was dark out and the family heard screaming in the nearby woods. They went to investigate and the fellow church members became worried when the family did not arrive at Church. A search party was organized to find the family. When the party discovered the abandon wagon they began to search the nearby woods. The found the whole family headless.
+location: Charles Road
+state: Indiana
+state_abbrev: IN
+longitude: -85.6391704
+latitude: 40.5892276
+city_longitude: -85.6591442
+city_latitude: 40.5583739
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1983/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Christian
+country: United States
+description: Break Neck Hill - On this steep dirt road near the Christian County/Stone County Line, a headless horseman can be seen riding a specter horse. Sometimes the sound of a horse's hooves can be heard. More than one rider has been killed on that hill over the years.
+location: Clever
+state: Missouri
+state_abbrev: MO
+longitude: -93.4729712
+latitude: 37.0303327
+city_longitude: -93.1779659
+city_latitude: 36.99764400000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Whiteriver
+country: United States
+description: Screams and cries can be heard in this forest. Also, there have been reports of a demon-like creature with red eyes seen in the river.
+location: Medicine Forest
+state: Arizona
+state_abbrev: AZ
+city_longitude: -109.9642664
+city_latitude: 33.8369944
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

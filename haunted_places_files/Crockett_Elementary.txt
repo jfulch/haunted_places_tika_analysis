@@ -1,0 +1,20 @@
+city: El Paso
+country: United States
+description: The building is aged back to the 1920's and supposedly served as a hospital to war veterans. It's said that on the second floor that a child not knowing the history the building had witnessed a man walking down the hall with bloody gauze on his head and amputated arm.
+location: Crockett Elementary
+state: Texas
+state_abbrev: TX
+longitude: -106.455127
+latitude: 31.79247749999999
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

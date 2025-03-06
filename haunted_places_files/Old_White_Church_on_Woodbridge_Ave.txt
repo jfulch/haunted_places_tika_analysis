@@ -1,0 +1,21 @@
+city: Edison
+country: United States
+description: It is said that the cemetery is haunted by Mary Moore, a woman executed in the 1700's accused of witchcraft. Many people have stolen her headstone and died shortly after. People have said they have seen her in the cemetery.
+location: Old White Church on Woodbridge Ave
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.396064
+latitude: 40.500421
+city_longitude: -74.4120953
+city_latitude: 40.5187154
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

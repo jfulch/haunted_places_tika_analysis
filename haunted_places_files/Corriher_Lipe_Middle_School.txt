@@ -1,0 +1,21 @@
+city: Landis
+country: United States
+description: Ghosts have been reported as being seen and heard in the 600 Building across from the Gym. Doors opening and closing with no one there, a hazy figure of a young girl wandering in the hallways, gusts of heavy, damp-cold air rushing through a section on the second floor, voices of children after hours, and the figure of the custodian killed by a boiler incident has been seen roaming the halls watching over the children.
+location: Corriher-Lipe Middle School
+state: North Carolina
+state_abbrev: NC
+longitude: -80.61489499999999
+latitude: 35.546499
+city_longitude: -80.6108998
+city_latitude: 35.5456947
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

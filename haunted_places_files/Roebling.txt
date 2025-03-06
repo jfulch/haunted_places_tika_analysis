@@ -1,0 +1,20 @@
+city: Burlington County
+country: United States
+description: Roebling High School -  at the outside basketball court, there is a ghost of a man that had played there nightly in the past. He had a heart attack & expired on the court. I have heard that his ghost can be seen actually playing basketball there.
+location: Roebling
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.7813146
+latitude: 40.1162183
+city_longitude: -74.6868815
+city_latitude: 39.8558488
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1806/06/12
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

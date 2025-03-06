@@ -1,0 +1,21 @@
+city: Pearl City
+country: United States
+description: Female ghost walking down the stairs holding a baby, while running on the track you can hear someone running behind you, a black figure can be seen on the football field (supposedly an former janitor mowing the lawn), and you can hear a basket ball game going on if you listen at the gym door.
+location: Pearl City High School
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9531278
+latitude: 21.4147148
+city_longitude: -157.9733333
+city_latitude: 21.3972222
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1588/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

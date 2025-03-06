@@ -1,0 +1,21 @@
+city: Holt
+country: United States
+description: In the 1900 a little girl who didn't have any friends killed herself by hanging herself in the girls locker room. People say that the little girl walks around the girls locker room looking for a friend to play with.
+location: Holt Jr. High
+state: Michigan
+state_abbrev: MI
+longitude: -84.52212229999999
+latitude: 42.6349398
+city_longitude: -84.5152545
+city_latitude: 42.6405912
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

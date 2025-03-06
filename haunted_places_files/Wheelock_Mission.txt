@@ -1,0 +1,21 @@
+city: Millerton(West of Idabel)
+country: United States
+description: There are many different stories of the spirits that haunt these grounds. Most involving a man that forced entry into the girls mission and brutally murdered the little girls. Walls and trees bleed, ghosts can be seen hanging from trees or sitting in chairs, underground tunnels that lead somewhere but nowhere, and also the spirits are said to protect the near by graveyard. One incident a couple of young kids intrigued by the place thought it would be a good Halloween gag and got more than they bargained for when they tried to take a vase from a grave their car would not start upon returning the vase their car started with no problem. They will not return to this day.
+location: Wheelock Mission
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.987742
+latitude: 33.992847
+city_longitude: -94.8380048
+city_latitude: 33.9099665
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

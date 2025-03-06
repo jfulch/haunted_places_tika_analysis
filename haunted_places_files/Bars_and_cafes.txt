@@ -1,0 +1,21 @@
+city: Pierce
+country: United States
+description: In this old mining town there seems to be a lot of spirits still stopping by for a visit, almost every one of the old bars and cafe have there own tales. some are at the Timber Inn, Cedar Inn has spirits and sounds of footsteps, Cedar used to be the Key Bar. The Flame bar has a couple ghosts also.? One of the most haunted seemed to be the Clearwater Hotel and bar, many customers have mentioned strange noises and seeing things.? The Clearwater is?now gone, but the ghosts still seem to hang around.
+location: Bars and cafes
+state: Idaho
+state_abbrev: ID
+longitude: -115.7991814
+latitude: 46.4897949
+city_longitude: -115.7990289
+city_latitude: 46.4910207
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1889/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

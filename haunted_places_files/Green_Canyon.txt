@@ -1,0 +1,21 @@
+city: Logan
+country: United States
+description: There is a certain area where horses will not go and birds will not chirp. You will not see animals here. Strange things have been reported. When you enter this location you get a feeling of despair, depression and hopelessness. You get a strong feeling of evil, of something evil being done there.
+location: Green Canyon
+state: Utah
+state_abbrev: UT
+longitude: -111.7561257
+latitude: 41.771188
+city_longitude: -111.8338359
+city_latitude: 41.7369803
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Litchfield
+country: United States
+description: Litchfield Middle School is said to be haunted by Bloody Mary. A long time ago their were two girls in the locker room who were brutally murdered no one knows how, now it is said that if you go to the Girl's Locker Room with the lights turned off you will see her ( bloody Mary ) a woman in black with a green outline BEWARE!!
+location: Litchfield Middle School
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.4707904
+latitude: 42.8411351
+city_longitude: -71.4797889
+city_latitude: 42.84425359999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

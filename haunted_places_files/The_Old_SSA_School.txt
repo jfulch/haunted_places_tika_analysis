@@ -1,0 +1,21 @@
+city: Covington
+country: United States
+description: The old building which is almost hidden in the woods is known for eire noises, screams, hearing people breath behind you, and ghost like activty. Story has it that over 60 nuns died in the building.It is said that there is a room in the building where if you go in it you never come out.It was printed in the paper that A group of teeagers were last seen going to the old school to scare themselves,after that they were never seen again. An old graveyard behind the buildng where nuns and preist were burried dates back to 1841.
+location: The Old SSA School
+state: Louisiana
+state_abbrev: LA
+longitude: -90.098726
+latitude: 30.474646
+city_longitude: -90.1009108
+city_latitude: 30.4754702
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

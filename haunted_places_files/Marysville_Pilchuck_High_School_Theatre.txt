@@ -1,0 +1,21 @@
+city: Marysville
+country: United States
+description: When you're in the theatre alone, you can hear things scratching from the inside of the walls. Backstage during school performances, actors have heard strange mumblings in there ears. There is a rumor that a girl was killed on stage during a performance after being pushed off a large set piece. She now haunts the theatre with no intention of ever leaving.
+location: Marysville Pilchuck High School Theatre
+state: Washington
+state_abbrev: WA
+longitude: -122.154923
+latitude: 48.096469
+city_longitude: -122.1770818
+city_latitude: 48.0517637
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

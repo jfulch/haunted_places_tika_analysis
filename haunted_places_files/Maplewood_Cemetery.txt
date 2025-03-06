@@ -1,0 +1,21 @@
+city: Mayfield
+country: United States
+description: supposedly the angel tombstone located in the center of the cemetery will drop rocks on your head at the stroke of midnight if your sitting on the bench beneath her feet...
+location: Maplewood Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -88.63499
+latitude: 36.7512594
+city_longitude: -88.6367154
+city_latitude: 36.7417235
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

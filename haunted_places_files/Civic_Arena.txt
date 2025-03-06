@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: The neighborhood that was demolished to build the arena is said to come alive at night. The whole dome suddenly filling with the sounds of people, streetcars and car horns. Mario Lemieux, star player for the Pgh Penguins has said he’s seen shadowy guys in 1920s clothes mulling about in the halls.
+location: Civic Arena
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9893378
+latitude: 40.4395932
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: Pirate Captain Flint haunts this place. And also 12 people from the Ghost Chasing Society of America stayed there for two nights, in the second floor of the restaurant. Two of them were the only ones at the end of the two days.
+location: Pirate's House Restaurant
+state: Georgia
+state_abbrev: GA
+longitude: -81.083885
+latitude: 32.078075
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.466666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

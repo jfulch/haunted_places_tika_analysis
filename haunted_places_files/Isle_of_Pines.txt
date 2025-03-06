@@ -1,0 +1,19 @@
+city: Wayne
+country: United States
+description: The isle of Pines, is an old hotel, that no longer stands, there is a house that now stands right next to where the hotel used to be, they say that you can see a lady riding a horse and that she was killed. The house is also haunted, because anybody that lived or lives there dies within 2-4 years of living there, by murder, or sickness, or anything. They say that this ground is cursed and haunted.
+location: Isle of Pines
+state: New York
+state_abbrev: NY
+city_longitude: -77.1055262
+city_latitude: 42.4709046
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

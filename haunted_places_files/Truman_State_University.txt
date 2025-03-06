@@ -1,0 +1,20 @@
+city: Kirksville
+country: United States
+description: Library - back when Truman University was Northeast Missouri State, there was supposedly a ghost in what was once Laughlin Hall. Residents remember hearing sounds when there was no one else in the building. Laughlin Hall was torn down in 1986 and it's bricks were used in the building of the new library in 1988. We have not heard if any hauntings have been reported.
+location: Truman State University
+state: Missouri
+state_abbrev: MO
+longitude: -92.5813724
+latitude: 40.1858573
+city_longitude: -92.5832496
+city_latitude: 40.19475389999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1986/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: North Salt Lake
+country: United States
+description: Carpenter Paper Company is located on Overland Street, just west of I-15 in North Salt Lake. According both present and past employees at CPC, there is a ghost named George that roams the warehouse. George is a friendly ghost who generally makes no noise, but has reportedly been seen by several employees darting between the aisles of the warehouse floor for the past 30 years or so.
+location: Carpenter Paper Company
+state: Utah
+state_abbrev: UT
+longitude: -111.9090383
+latitude: 40.8557222
+city_longitude: -111.9068824
+city_latitude: 40.8485564
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

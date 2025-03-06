@@ -1,0 +1,19 @@
+city: Jackson
+country: United States
+description: Golf course that was shut down because of alleged sightings of the many who wrecked there.
+location: Roundbottom Curve
+state: Kentucky
+state_abbrev: KY
+city_longitude: -83.38351349999999
+city_latitude: 37.5531457
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

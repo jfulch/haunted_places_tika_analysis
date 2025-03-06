@@ -1,0 +1,21 @@
+city: Santa Ana
+country: United States
+description: Lower Level - In the lower level, there is a wall of the crypts of children. Occasionally the faint sound of a child crying pierces the silence of the hallway down by this wall. UPDATE: "baby wall" no longer exists. Apparently the crypts have been moved (or disbursed), and a closed-circuit surveillance camera has been installed over the spot.
+location: Fairhaven Cemetery Mausoleum
+state: California
+state_abbrev: CA
+longitude: -117.8414735
+latitude: 33.7705936
+city_longitude: -117.867653
+city_latitude: 33.7454725
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1976/02/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

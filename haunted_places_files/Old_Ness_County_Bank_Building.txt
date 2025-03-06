@@ -1,0 +1,21 @@
+city: Ness City
+country: United States
+description: In the 1960's the second floor was rented as apartments to some older women. After the passed away nobody else every lived there. To this day many people claim to hear footsteps in the hallway and when you check to see if anyone was coming there would be no one.
+location: Old Ness County Bank Building
+state: Kansas
+state_abbrev: KS
+longitude: -99.9052691
+latitude: 38.4540034
+city_longitude: -99.9065136
+city_latitude: 38.4527935
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

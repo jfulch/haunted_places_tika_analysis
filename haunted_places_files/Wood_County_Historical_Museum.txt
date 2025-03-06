@@ -1,0 +1,20 @@
+city: Bowling Green
+country: United States
+description: Bowling Green, Ohio Wood County Historical Museum, County Home Road. The museum was one an infirmary and nursing home. Ghostly noises have been heard in and near the shed where insanepatients were locked long ago. Also, a padlock on a door was once seen to spin without being touched.
+location: Wood County Historical Museum
+state: Ohio
+state_abbrev: OH
+longitude: -83.61535099999999
+latitude: 41.350301
+city_longitude: -83.6513229
+city_latitude: 41.3747744
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

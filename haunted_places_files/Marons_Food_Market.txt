@@ -1,0 +1,21 @@
+city: Dutch town
+country: United States
+description: Store has a women spirit in it. Stuff flies off shelves at the costumers, Someone a lady, whistling and no ones in the store but the workers. Lights shut off and turn on when someone's alone. Cold spots and chills.
+location: Marons Food Market
+state: Michigan
+state_abbrev: MI
+longitude: -85.744067
+latitude: 42.882983
+city_longitude: -86.1089301
+city_latitude: 42.7875235
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

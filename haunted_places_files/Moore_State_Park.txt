@@ -1,0 +1,21 @@
+city: Paxton
+country: United States
+description: People have reported seeing ghostly figures that supposedly committed suicide in the millhouse down from the millpond. The sightings include a young man and young woman hanging together, and the original owner of the mill, who is also hanging in the millhouse.
+location: Moore State Park
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.9519285
+latitude: 42.3083771
+city_longitude: -71.9278427
+city_latitude: 42.3114889
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

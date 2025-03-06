@@ -1,0 +1,19 @@
+city: Gloster
+country: United States
+description: The plantation house was used for a civil war hospital clinic. In the house there are reports of several civil war apparitions have been seen. There are several slave houses out in the front where eerie feelings are felt. In 70 degree weather it sometimes feels very cold and there have been reports of water being found completely covering the floor while it was still days away from rain.
+location: Buena Vista plantation
+state: Louisiana
+state_abbrev: LA
+city_longitude: -93.8149045
+city_latitude: 32.1909938
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Milton
+country: United States
+description: Late at night in the auditorium and 118 hallway you can hear the seats creaking and lockers slamming even when no one is there. doors can also be heard slamming. the story is that a drama student hung herself off the balcony in the auditorium.
+location: Fontbonne Academy
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.05948029999999
+latitude: 42.2595406
+city_longitude: -71.0661653
+city_latitude: 42.2495321
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

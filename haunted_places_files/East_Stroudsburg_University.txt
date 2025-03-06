@@ -1,0 +1,21 @@
+city: East Stroudsburg
+country: United States
+description: Hemlock Hall - The second floor and a room are reportedly haunted by a girl. The girl has been to come in only when one roommate is there and the other is at a class.
+location: East Stroudsburg University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.172533
+latitude: 40.9970909
+city_longitude: -75.1812913
+city_latitude: 40.9995386
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

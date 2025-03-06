@@ -1,0 +1,20 @@
+city: Hartsville
+country: United States
+description: There is an old church located on Prospect Road. The name of the Church is Prospect Church. They say that on certain full moon nights, you can park your vehicle at the very last park on the right side of the church and you can see a man moving the curtains as if in a struggle from the last window on the second story.
+location: Prospect Church
+state: South Carolina
+state_abbrev: SC
+longitude: -80.1131566
+latitude: 34.4794831
+city_longitude: -80.07340049999999
+city_latitude: 34.3740431
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Knoxville
+country: United States
+description: Building "B" - was built in 1951,the oldest wing of the Nursing Home was originally used as a T.B. Hospital and years later turned into a Nursing Home. The building is of the Art-Deco style and has six floors and a basement. Many who have worked here, have seen ghosts. The ghosts have been of dead people who have worked there years ago, such as Nurses and Maintenance Men who still feel compassionate towards the building and residents. Hillcrest is known for it's caring staff. Living and Deceased.
+location: HillCrest-North Nursing Home
+state: Tennessee
+state_abbrev: TN
+longitude: -83.8930431
+latitude: 36.0607055
+city_longitude: -83.9207392
+city_latitude: 35.9606384
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1951/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

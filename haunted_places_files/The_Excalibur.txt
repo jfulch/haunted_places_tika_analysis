@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: Walking down the hallway on the 10th floor you feel as though someone is directly behind you, hovering over your back, and then you hear a whisper, directly in your ear as if their lips were only an inch away.
+location: The Excalibur
+state: Nevada
+state_abbrev: NV
+longitude: -115.1754724
+latitude: 36.0989822
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 0

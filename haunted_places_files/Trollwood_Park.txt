@@ -1,0 +1,21 @@
+city: Fargo
+country: United States
+description: Trollwood is currently home to the performing arts school and has had numerous ghostly reports. It was discovered to have been the home of a pauper's cemetery and you can see the three locations where people were/are still buried. These are now marked with small stone monuments. The most common occurrences are the ghost of a lady seen dancing around a willow tree while the students are performing or music is playing. She appears blue/grey and in 19th century dress. There have also been EVPs recorded and the voice of an old farmer that used to reside there is heard telling people to get off his property. Others report the feeling of being followed, seeing people walking around that aren't there when they look again. Voices calling to them and being "touched" These are just a few of the reports heard.
+location: Trollwood Park
+state: North Dakota
+state_abbrev: ND
+longitude: -96.7767513
+latitude: 46.9242672
+city_longitude: -96.7898034
+city_latitude: 46.8771863
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Newark
+country: United States
+description: There is an asylum that when you put your ear up to the door you can hear screams and knocking. There is also a stone with a baby on it and when you look at it, then turn and look back, it faces a new direction.
+location: Cedar Hill Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -82.389415
+latitude: 40.069718
+city_longitude: -82.4012642
+city_latitude: 40.0581205
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

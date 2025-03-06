@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: On the 4th floor balcony, if you are very quiet and still you can hear footsteps. And even low murmurs sometimes.
+location: Reed Middle School
+state: Missouri
+state_abbrev: MO
+longitude: -93.294307
+latitude: 37.2338984
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Ogden
+country: United States
+description: One of Utah's oldest railroad stations at the west end of 25th Street, is the site of continuing unexplained activity and apparitions. The site has been investigated and was featured on national television. The site is now a local museum and if you are lucky... you may be able to speak with the maintenance folks who will share their stories with you!
+location: Union Station
+state: Utah
+state_abbrev: UT
+longitude: -111.979673
+latitude: 41.220781
+city_longitude: -111.9738304
+city_latitude: 41.223
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

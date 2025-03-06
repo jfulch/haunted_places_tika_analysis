@@ -1,0 +1,21 @@
+city: White Swan
+country: United States
+description: Witnesses have reported a woman looking out of one of the back windows of the commanders house. she is thought to be the wife of the commander who died of fever in the 1800s. The fort may be the source of the Toppenish ghost lights seen in the area in 1973.
+location: Old Fort Simco State park
+state: Washington
+state_abbrev: WA
+longitude: -120.8366297
+latitude: 46.3425591
+city_longitude: -120.7311801
+city_latitude: 46.38290370000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1973/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Purdy
+country: United States
+description: in the late seventies a child was hit by a car on the Purdy bridge. (since his death a guardrail has been put in place.) Occasionally you can see him dart across the bridge. no predicting when he appears.
+location: Purdy Bridge
+state: Washington
+state_abbrev: WA
+longitude: -122.6360482
+latitude: 47.38089960000001
+city_longitude: -122.6254102
+city_latitude: 47.38898529999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2001/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Pitcairn
+country: United States
+description: The woods to the northwest of Pitcairn Pa surround an old roadway known as Johnsons Road. Since the road has been closed, there has been many killings on the road. Over 5 bodies have been found on the road in 20 years. The woods are deep and thick, and it is said that voices, walking, and talking can be heard at night. A shadow like figure has been reported many times as being seen near the old reservoir, and the entrance at the Pitcairn side of the overgrown road. Pitcairn police advise not to travel the road, or go into the woods.
+location: Johnson's Shadow Man
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -79.77810199999999
+city_latitude: 40.4031244
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: East Highland
+country: United States
+description: The Bethany House is an old abandoned Insane Asylum. Since it is far back in the orange groves, many teenagers used to use it as a place to party around the asylum but never inside. There have been many stories of hauntings there. One high school boy once went in to explore the asylum by himself & never came back out. A ghost of a middle-aged woman has been seen on numerous occasions. She is extremely violent & known to do harm to people that cross her path inside the insane asylum.
+location: The Bethany House
+state: California
+state_abbrev: CA
+longitude: -117.207113
+latitude: 34.1259469
+city_longitude: -117.170594
+city_latitude: 34.1097338
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

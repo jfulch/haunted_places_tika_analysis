@@ -1,0 +1,20 @@
+city: Emporia
+country: United States
+description: There is an old one lane bridge in the country south of Empor that a preacher and his mistress had drugged his wife and pushed her car over the side into the water below. Late at night, if you are in that area, you can here the screams of a woman and see an apparition walking to shore down below. There just happens to have been a movie made of the murder in this area. It is an early 80's movie called "Murder Ordained".
+location: Bird Bridge
+state: Kansas
+state_abbrev: KS
+longitude: -96.1148706
+latitude: 38.3658441
+city_longitude: -96.1816626
+city_latitude: 38.403903
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

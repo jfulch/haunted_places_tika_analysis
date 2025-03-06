@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: The second floor of the Las Vegas Gladiators offices are said to be haunted by a ghost in a former surgical suite. Apparently, a man died during a procedure and is known to stomp after the sun goes down.  There has been evidence of bizarre dark colored liquid seeping down the walls into the first floor.
+location: Las Vegas Gladiators Office
+state: Nevada
+state_abbrev: NV
+longitude: -115.1441925
+latitude: 36.1049006
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

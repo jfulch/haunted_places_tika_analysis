@@ -1,0 +1,21 @@
+city: Bordentown
+country: United States
+description: Strange anomalies on film have been recorded.
+location: Missionary
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.703791
+latitude: 40.156508
+city_longitude: -74.71182639999999
+city_latitude: 40.1462213
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

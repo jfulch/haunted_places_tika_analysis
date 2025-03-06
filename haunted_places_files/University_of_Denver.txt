@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Mary Reed Building  It was the Dupont Room, named for a long-gone alumni who left money for the Reed Library. The room was all fixed up, with high-backed leather chairs, glass bookcases, etc. People say the ghost of Mrs. Dupont liked to sit in "her" room and read, and the janitor claimed to have seen her more than once.
+location: University of Denver
+state: Colorado
+state_abbrev: CO
+longitude: -104.9618965
+latitude: 39.6766174
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1932/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

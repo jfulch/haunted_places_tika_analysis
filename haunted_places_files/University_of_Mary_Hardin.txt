@@ -1,0 +1,21 @@
+city: Belton
+country: United States
+description: Pressor Hall - The ghost of a girl who was killed by her boyfriend haunts this University. The top floor has been converted to storage due to unexplainable events like hearing a piano, elevator doors closing and opening, and the sound of footsteps. A campus police officer only locks the building from the outside because of the phenomena he witnessed here.
+location: University of Mary Hardin
+state: Texas
+state_abbrev: TX
+longitude: -97.4666818
+latitude: 31.0701756
+city_longitude: -97.464453
+city_latitude: 31.0560132
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

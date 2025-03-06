@@ -1,0 +1,21 @@
+city: Fort Wayne
+country: United States
+description: Has been torn down - The 4th floor of the hospital is haunted by a male ghost that pasted away about 55 years ago. You will see him walk down the hall looking for someone going from room to room. Dr's and nurses as well as others have seen this. Before they closed the old Lutheran Hospital they closed down the south unit on the 4th floor. Ocotber 2004 update: has since been torn down. One small (possible office)building and a large, empty park-like area remain, but angel statues that were originally in front of the hospital entrance still remain.
+location: The old Lutheran Hospital on Fairfield
+state: Indiana
+state_abbrev: IN
+longitude: -85.24919109999999
+latitude: 41.039127
+city_longitude: -85.1393513
+city_latitude: 41.079273
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

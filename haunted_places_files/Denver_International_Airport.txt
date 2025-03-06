@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Several problems were encountered while building the airport. This is reportedly due to the fact that the airport was built on top of sacred Native American ground. Some employees and visitors have reported hearing or seeing strange things.
+location: Denver International Airport
+state: Colorado
+state_abbrev: CO
+longitude: -104.6737376
+latitude: 39.8560963
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

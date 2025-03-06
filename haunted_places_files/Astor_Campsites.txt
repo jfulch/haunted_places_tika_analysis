@@ -1,0 +1,21 @@
+city: Astor
+country: United States
+description: Gobbler rd. - in Astor has known to have a glowing white male walking down the road very casual. In a blink of an eye he will disappear. Footsteps have been reported. This figure has been seen many times. it usually is spotted around 9:30 to 11:00.
+location: Astor Campsites
+state: Florida
+state_abbrev: FL
+longitude: -81.510986
+latitude: 29.122027
+city_longitude: -81.5253491
+city_latitude: 29.1624801
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1886/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 42m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

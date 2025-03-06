@@ -1,0 +1,21 @@
+city: Fulton
+country: United States
+description: Nine ghosts in all, pull your hair, scratch in your sleep. hot and cold spots. Noises & feelings and many other sights.
+location: Greens house
+state: New York
+state_abbrev: NY
+longitude: -76.3821612
+latitude: 43.2506764
+city_longitude: -76.4171585
+city_latitude: 43.3228462
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1600/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Newberry
+country: United States
+description: Kinard Hall - A ghost is said to haunt the 2nd floor of Newberry's Kinard Hall dormitory.  Residents have reported water faucets turning on by themselves, cabinets and drawers that suddenly apen by themselves, as well as windows in some room which will open by themselves.
+location: Newberry College
+state: South Carolina
+state_abbrev: SC
+longitude: -81.6219227
+latitude: 34.2861075
+city_longitude: -81.6187178
+city_latitude: 34.2745833
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/10/23
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

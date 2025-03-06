@@ -1,0 +1,20 @@
+city: Isabel
+country: United States
+description: People always said there was a strange light coming from the old white house by the rodeo grounds that is abandoned now but they said when you walk by it at night the light would chase you to the main street and lots of people saw it.
+location: The streets
+state: South Dakota
+state_abbrev: SD
+longitude: -101.4301874
+latitude: 45.3979224
+city_longitude: -101.429593
+city_latitude: 45.3941475
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

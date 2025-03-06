@@ -1,0 +1,21 @@
+city: Panorama City
+country: United States
+description: There is a cold spot in the lobby by the cashier. In the restroom you can here a little boy crying.
+location: Rose's Beauty Salon
+state: California
+state_abbrev: CA
+longitude: -118.4665967
+latitude: 34.2217719
+city_longitude: -118.442425
+city_latitude: 34.227617
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

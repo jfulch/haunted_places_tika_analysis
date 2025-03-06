@@ -1,0 +1,19 @@
+city: Waitsburg
+country: United States
+description: It is said that a ghost walks the tunnel with it's severed head with the machinery that killed him following behind.
+location: The Haunted Tunnel
+state: Washington
+state_abbrev: WA
+city_longitude: -118.1532861
+city_latitude: 46.2704176
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2017/02/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

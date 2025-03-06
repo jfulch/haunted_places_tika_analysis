@@ -1,0 +1,21 @@
+city: Villas
+country: United States
+description: There's a distinct trail in the woods behind the M.U.A. factory where what appears to be the ghost of a young boy, wonders the trail ever so often, it is said to be the ghost of Johnpat Eisenman, he was a 14 year old boy who went camping in the woods during the early as rumors have it 1970's. However, the night him and his friends went camping, some male came up to them and abducted Johnpat. It is said, to this date, he roams the woods almost every night from 1:30am to 2:00 am, and you’ll notice him roaming around with what it appears to be with no pants on, its said he has no pants because when police found his body two days later, he only had his briefs on. Some witnesses of the ghost say they noticed him pointing to a large tree with strange craving engraved in it, that tree is said to be where he was molested and later murdered, by an unknown predator. To this date no one was charged with the abduction and murder of Johnpat.
+location: Trails
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.52256210000002
+latitude: 40.7472597
+city_longitude: -74.941631
+city_latitude: 39.017252
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/04/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

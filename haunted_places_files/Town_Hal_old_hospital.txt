@@ -1,0 +1,21 @@
+city: Elizabeth
+country: United States
+description: its said to believe that at the old hospital where people have died there and now claims of hauntings of people walking the halls, actual shadows of an old lady, moving of the curtains, voices of little girls, women and boys with whisper into the night.
+location: Town Hal (old hospital)
+state: Louisiana
+state_abbrev: LA
+longitude: -92.7958432
+latitude: 30.8655878
+city_longitude: -92.7929262
+city_latitude: 30.868526
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

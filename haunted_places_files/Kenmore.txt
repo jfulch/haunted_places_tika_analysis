@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: St. Edwards State Park/ Bastyr University -  Reports of children playing on the playground and running around, chandeliers were swaying back and forth, cold spots, as well as things moving in the basement around the chalkboards and chairs
+location: Kenmore
+state: Washington
+state_abbrev: WA
+longitude: -122.32046
+latitude: 47.744732
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1976/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

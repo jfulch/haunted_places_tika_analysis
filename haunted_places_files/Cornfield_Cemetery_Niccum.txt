@@ -1,0 +1,19 @@
+city: Danville
+country: United States
+description: very old cemetery in the middle of a cornfield. reported apparitions seen and very eerie feelings. Off of long rd.
+location: Cornfield Cemetery (Niccum)
+state: Illinois
+state_abbrev: IL
+city_longitude: -87.6300207
+city_latitude: 40.124481
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Hays
+country: United States
+description: In 1867, a drummer named Ephriam Polly and his wife Elizabeth, stopped at Fort Hays. While staying there, a terrible Cholera epidemic struck the fort. It is not known what happened to Ephriam, but Elizabeth Polly stayed on at the fort tirelessly nursing sick soldiers. In the late afternoon, she would take a moment to walk to her favorite spot that was an isolated hilltop west of the fort. She would rest there and enjoy the peace and quiet. Elizabeth Polly eventually contracted Cholera and died in the fall of 1867. She was given a full military funeral and was buried at her favorite spot on the hilltop. In the 1960's, a marker was erected there that read "The Lonely Grave." It is very difficult to get to by vehicle and the last hundred yards must be covered by foot. The ghost of Elizabeth Polly has been seen many times over the years haunting the lonely hilltop that she had frequented so often in life.
+location: Old Fort Hays
+state: Kansas
+state_abbrev: KS
+longitude: -99.341484
+latitude: 38.862995
+city_longitude: -99.3267702
+city_latitude: 38.8791783
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1867/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Huntington
+country: United States
+description: Now apartments, Horace Mann School has had many reports of paranormal activity. Sounds and sightings of children and adult ghosts. Unknown origin of the spirits.
+location: Horace Mann School
+state: Indiana
+state_abbrev: IN
+longitude: -85.50601999999999
+latitude: 40.85859749999999
+city_longitude: -85.49747599999999
+city_latitude: 40.8831011
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

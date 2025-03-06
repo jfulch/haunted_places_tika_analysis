@@ -1,0 +1,21 @@
+city: Louisa
+country: United States
+description: Historical Red House - The "Mistress of Red House" is said to roams the grounds of this revolutionary war house. A woman in a tan dress, She sometimes stands peering out the windows or up near the driveway entrance. Usually appearing early in the dark morning around 4 am. The house still standing which was redone in the 19th century. It is a small house will a large yard and a forgotten unkept graveyard is nearby.
+location: Owens Creek Rd. Mineral
+state: Virginia
+state_abbrev: VA
+longitude: -77.8500081
+latitude: 37.7936845
+city_longitude: -78.00416489999999
+city_latitude: 38.0251394
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: War
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: Employees and customers have witnessed TV sets and pin machines turning on and off only to have found them un-plugged, accompanied by the apparition of a woman.
+location: Rose Bowl Lanes
+state: Kentucky
+state_abbrev: KY
+longitude: -85.667316
+latitude: 38.21093700000001
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

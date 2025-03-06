@@ -1,0 +1,21 @@
+city: Independence
+country: United States
+description: LeHunt is an old abandoned cement plant outside of Independence, now in ruins. Also onsite is an old cemetery. The ruins are said to be haunted by the ghost of a worker who died there. There is also evidence that people have gathered there to perform some sort of magic rituals.
+location: LeHunt
+state: Kansas
+state_abbrev: KS
+longitude: -95.7519248
+latitude: 37.2692337
+city_longitude: -95.7083131
+city_latitude: 37.2242358
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1775/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

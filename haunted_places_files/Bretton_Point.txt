@@ -1,0 +1,19 @@
+city: Newport
+country: United States
+description: There is an old, abandoned stable and widow's walk on a tower top in the back of the "kite-flying" field. There are noises and voices such as banging, horse trotting, and conversations. Many people have experienced a wide variety of phenomenon.
+location: Bretton Point
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.3543688
+latitude: 41.4526568
+city_longitude: -71.3128285
+city_latitude: 41.4901024
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

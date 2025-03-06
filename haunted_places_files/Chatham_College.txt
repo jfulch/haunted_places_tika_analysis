@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: In the basement of the Mellon building is a pool and bowling alley. It is known mostly to lifeguards that work at the pool. Andrew Mellon haunts the bowling alley, it is usually very cold in the room. One gets a very creepy feeling. If you don't want to experience anything don't bowl! At times the pins will resent themselves as if taunting you to keep playing.
+location: Chatham College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9242625
+latitude: 40.4482193
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1942/07/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

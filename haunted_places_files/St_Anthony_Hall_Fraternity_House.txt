@@ -1,0 +1,18 @@
+city: Oxford
+country: United States
+description: In the mid 1900's a member of St. Anthony Hall was killed in a car accident. Since his death members of the Fraternity report many strange instances: In his former room (the Sigma room) TV's have been reported turning on and off, unexplained noises coming from the walls and circling the room. On occasion, around 1 a.m., he has been seen in the Fraternity library. Strange footsteps and noises have been reported from employees keeping the house during the unoccupied summer months.
+location: St. Anthony Hall Fraternity House
+state: Mississippi
+state_abbrev: MS
+city_longitude: -89.5192484
+city_latitude: 34.3664951
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

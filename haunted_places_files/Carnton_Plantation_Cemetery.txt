@@ -1,0 +1,21 @@
+city: Franklin
+country: United States
+description: on one row on the right (where the soldiers are buried) lie the graves of twin brothers. One of them delights in tickling your ankles or trying to grab your ankle as you walk by the row where they're buried. This is not the little girl's spirit, but one of the soldiers.
+location: Carnton Plantation Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -86.85828900000001
+latitude: 35.903931
+city_longitude: -86.8688899
+city_latitude: 35.9250637
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 0

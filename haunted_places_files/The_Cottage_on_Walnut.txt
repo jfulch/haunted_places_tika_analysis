@@ -1,0 +1,21 @@
+city: Santa Clarita
+country: United States
+description: Next door to the Egg Plantation (also reportedly haunted). Both businesses converted from old homes. This is one of the oldest neighborhoods in LA County. Tags flap around as if someone walked by. Items heard shifting around. Steps sometimes heard. Loud objects clanging during morning pre-open hours. First hand accounts of ghostly apparitions in restaurant next door, including an angry cook.
+location: The Cottage on Walnut
+state: California
+state_abbrev: CA
+longitude: -118.5377283
+latitude: 34.3905609
+city_longitude: -118.542586
+city_latitude: 34.3916641
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1888/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fairport
+country: United States
+description: It is said that a women haunts the building turning on lights and closing doors.
+location: Green Lantern Inn
+state: New York
+state_abbrev: NY
+longitude: -77.441279
+latitude: 43.098854
+city_longitude: -77.44193779999999
+city_latitude: 43.0986742
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

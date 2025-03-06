@@ -1,0 +1,21 @@
+city: Hurricane Mills
+country: United States
+description: The plantation is said to be haunted by ghosts of soldiers from the Civil War.  Apparations have been reported to have been seen, unexplanable noises have been heard, pictures have shifted by themselves.  Home is currently owned by country music star Loretta Lynn and is open for tours as part of Loretta Lynn's Rance.  The home was featured on a Travel Channel special called "Loretta Lynn's Haunted Plantation."
+location: Mills Plantation
+state: Tennessee
+state_abbrev: TN
+longitude: -87.76702709999999
+latitude: 35.9761585
+city_longitude: -87.781969
+city_latitude: 35.9711736
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1932/04/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

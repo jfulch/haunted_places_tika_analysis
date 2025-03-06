@@ -1,0 +1,19 @@
+city: Moses Lake
+country: United States
+description: The White homestead is a house that was built in 1903 and according to actual witnesses, there has been a murder that took place in that house and the ghost of the young lady w/ child that was murdered is still there. They have since moved the house off of its foundation, down the block and started renovating it. The workers that have been there still hear the faint screaming of a young woman.
+location: White homestead
+state: Washington
+state_abbrev: WA
+city_longitude: -119.2780771
+city_latitude: 47.1301417
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1903/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

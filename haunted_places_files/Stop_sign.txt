@@ -1,0 +1,21 @@
+city: Sheboygan
+country: United States
+description: Indian family used to live in a house near a stop sign.  Rumors say that the husband killed his wife and children brutally. Rumors say that if you go there late at night and stop at the stop sign then high beam the stop sign you will see blood dripping down for the sign. Then you will hear the Indian guy walk towards you and sing Indian songs. As he walks towards you, his footsteps get louder and louder.
+location: Stop sign
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.7174127
+latitude: 43.7554782
+city_longitude: -87.71453
+city_latitude: 43.7508284
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: There have been many sightings of sprits in the All Star Cafe. In the Ladies Vanity Room, there have been cold spots and lights flashing out of no where. There were also a few sightings of a little girl and boy running around the cafe and suddenly disappearing.
+location: All Star Cafe
+state: California
+state_abbrev: CA
+longitude: -118.340588
+latitude: 34.102103
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

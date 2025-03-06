@@ -1,0 +1,21 @@
+city: Clifford
+country: United States
+description: It is said there are over 30 spirits haunting this place. There are voices heard in the main lobby of men, women, and children that were brutally murdered by a man who went insane in the hotel. Upstairs there is a very hostile man who doesn’t like anyone to go on that floor and will do anything to keep everyone off that floor. There have been sightings on certain nights that the hotel will be fully light up and there will be music coming from it. It is watched by the police heavily and there is NO TRESPASSING!!!!!!
+location: Clifford Hotel
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.5990446
+latitude: 41.6484675
+city_longitude: -75.5626039
+city_latitude: 41.685298
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

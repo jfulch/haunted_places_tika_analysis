@@ -1,0 +1,21 @@
+city: Cusseta
+country: United States
+description: If you drive down this road in the late night and stop your vehicle right beside the pond...You will not be able to start your car back again. They say that when slavery was an issue... a Black sharecropper and his family lived beside the pond. He was hung under the old oak tree right beside the road and the pond. His family was left to starve. Some people say that while your getting your car to start a man will start walking out of the woods then disappear as he reaches your vehicle.
+location: Gordy Mill Pond Road
+state: Georgia
+state_abbrev: GA
+longitude: -84.75239789999999
+latitude: 32.295685
+city_longitude: -84.77704849999999
+city_latitude: 32.3061354
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1832/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

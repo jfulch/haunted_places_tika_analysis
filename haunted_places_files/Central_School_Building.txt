@@ -1,0 +1,20 @@
+city: Oak Hill
+country: United States
+description: Believed to be haunted by a little girl, witnesses report hearing her laugh, seeing her as a whit misty figure, & feeling of being followed.
+location: Central School Building
+state: Ohio
+state_abbrev: OH
+longitude: -82.57084449999999
+latitude: 38.9071002
+city_longitude: -82.573495
+city_latitude: 38.8939645
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

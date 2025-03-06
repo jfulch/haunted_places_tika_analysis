@@ -1,0 +1,21 @@
+city: Middletown
+country: United States
+description: A women dressed in an all black dress with a vial over her head is known for standing in the window of the highest room. It is said that she's either the plantation owners wife or mistress. Many people have seen her standing there during the day yet nobody is in the room when they go look. She is always wearing the same clothing. This plantation is located next to Cedar Creek Battle Field. Many houses in this area are haunted.
+location: Belle Grove Plantation
+state: Virginia
+state_abbrev: VA
+longitude: -78.30398799999999
+latitude: 39.020682
+city_longitude: -78.280558
+city_latitude: 39.0276078
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

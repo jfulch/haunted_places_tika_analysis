@@ -1,0 +1,21 @@
+city: Mission
+country: United States
+description: This old mission has just recently been open to the public. In the mission's heyday, priests were rumored to be having intercourse with the nuns and burying the children's bodies on the grounds. One night some illegal emigrants, who were aware of what was going on, went in and killed two of the priests. The third priest went to get help, but died while searching. The robes and bones of the priests were on display up until a couple of years ago. Thereafter, it became an asylum for the mentally challenged. Many of the people working there reported seeing figures in robes walking around the grounds at night. The asylum shut down completely recently, but the grounds are still open to tourists during the day. You may not be able to go inside the old mission, but it is still worth going the trip.
+location: LaLomita Mission
+state: Texas
+state_abbrev: TX
+longitude: -98.3305476
+latitude: 26.1577543
+city_longitude: -98.3252932
+city_latitude: 26.2159066
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Murder
+witness_count: 1

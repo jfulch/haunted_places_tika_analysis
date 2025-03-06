@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: During the 1970's, a girl on the school dance team was killed by her jealous boyfriend. She was supposedly decapitated. Witnesses have claimed to see her spirit roaming about the school with no head. It is said that if you are by the school gym at night, you can hear the spurs on her boots chiming in the dark.
+location: Nixon High School
+state: Texas
+state_abbrev: TX
+longitude: -99.4752178
+latitude: 27.5248882
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

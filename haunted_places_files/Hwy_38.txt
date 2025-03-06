@@ -1,0 +1,21 @@
+city: Evarts
+country: United States
+description: If you stop on the side of on the second curve a head- less woman will get in and ride so far. She was claimed to have been killed in the old sawmill off in the woods. She was reported to have been raped and murdered, but there have been many other versions of this story reported over the years.
+location: Hwy 38
+state: Kentucky
+state_abbrev: KY
+longitude: -83.19580669999999
+latitude: 36.863537
+city_longitude: -83.1957118
+city_latitude: 36.8629065
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1904/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

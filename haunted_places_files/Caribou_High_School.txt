@@ -1,0 +1,21 @@
+city: Caribou
+country: United States
+description: Sudden drafts of cold air when windows are shut, slight moans of A 15 year old boy who was killed in a knifing fight in the parking lot. - June 2008 Correction - The boy was NOT stabbed in the school parking lot, but rather the parking lot of a small mom and pop store across the road from the school. (This was a popular hang out spot for kids) The boy then tried to get to the school seeking help. He didn't make it, and died near the flag stone when his lung collapsed from the chest wound he sustained. The myth that he died in the parking lot of the school was started by the following year's class. It's totally false.
+location: Caribou High School
+state: Maine
+state_abbrev: ME
+longitude: -68.0331586
+latitude: 46.8631659
+city_longitude: -67.9980365
+city_latitude: 46.8639995
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1523/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

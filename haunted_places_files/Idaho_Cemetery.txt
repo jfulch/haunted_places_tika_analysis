@@ -1,0 +1,21 @@
+city: The Malad City
+country: United States
+description: has been know for years to have an old man walking around at night, at one time an old man had worked there for many years when released from his job he killed himself at the cemetery, some folks still see him at times pulling grass, or doing other things to make the cemetery look up kept. Also it has been known that a young woman walks around the cemetery at night, she is wearing a red dress.
+location: Idaho Cemetery
+state: Idaho
+state_abbrev: ID
+longitude: -112.2328131
+latitude: 42.179113
+city_longitude: -112.2507986
+city_latitude: 42.1915872
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

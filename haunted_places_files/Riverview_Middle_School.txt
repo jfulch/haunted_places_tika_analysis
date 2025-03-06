@@ -1,0 +1,21 @@
+city: Bay Point
+country: United States
+description: A jogger reported a hanging kid after running a few laps. He told officers that a kid was hanging from the basketball hoop. He said he saw it from the top right corner on the bleachers. Officers say that the kids name was Ryan that hung himself in 1978 when the school was once a high school(Pacifica high).more reports of the hanging kid from other students who walk home late at night.
+location: Riverview Middle School
+state: California
+state_abbrev: CA
+longitude: -121.967148
+latitude: 38.0336258
+city_longitude: -121.9616274
+city_latitude: 38.0290872
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1978/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

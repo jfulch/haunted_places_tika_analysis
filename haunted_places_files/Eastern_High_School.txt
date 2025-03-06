@@ -1,0 +1,21 @@
+city: York
+country: United States
+description: A student here experienced many hauntings working after school hours for theatre. In the catwalk above the auditorium you can feel a unpleasant presence pacing back and forth, noises, and the feeling of being trapped, along with noises in the side rooms off the stage. you can hear locker doors slam behind you as you walk the halls like someone is chasing you and slamming them shut.
+location: Eastern High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.5397608
+latitude: 39.9988331
+city_longitude: -76.727745
+city_latitude: 39.9625984
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Choctaw
+country: United States
+description: Some people say if you go there at night the Books will fly off their shelves at you.
+location: library
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.2698985
+latitude: 35.4949388
+city_longitude: -97.2689212
+city_latitude: 35.4975625
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Middletown / Lima
+country: United States
+description: This county home was established in Media, Pennsylvania in 1807, where it remained until 1857. It then moved to its present location in Lima on the 210-acre Abraham Pennell Farm on Middletown Road. The farm was called "Fair Acres", and as a county facility it retained this name. During the early years in Lima, the County facility often cared for entire families as well as individuals in a self-contained environment. A part of this facility was the operation of a farm used for the production of food items for people within the facility. The farming operation was discontinued in 1967 when the facility underwent a transition from a partially residential community to a health care facility and directed its emphasis to elderly residents of Delaware County who required medical and nursing care. With this change, "farm" was dropped from the name, and in 1978 the institution became the Fair Acres Geriatric Center. The Center now consists of eighteen buildings located on a 210-acre tract in Lima, Pennsylvania. Five of these are resident buildings, containing both skilled and intermediate care nursing units with total accommodations for over 900 residents.  One building in particular, Building 4, now has many separate offices and a main hallway shared by each office.  This building was originally a big, single room that held hundreds of hospital beds in rows in the late 1800's. An elderly woman with long gray, straight hair and wearing a hospital gown has been seen walking in the hallways.  She has been seen by about 5 different people in different years. This woman will disappear through doors and walls when spoken to and does not speak.  Strange knocks and doorknobs turning have been heard when no one is there.
+location: Fair Acres Geriatric Center
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.4457954
+latitude: 39.9172922
+city_longitude: -75.4404746
+city_latitude: 39.9173332
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1807/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

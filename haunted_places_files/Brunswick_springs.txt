@@ -1,0 +1,20 @@
+city: Brunswick
+country: United States
+description: Strange burning smells, screaming heard and the feeling of being pushed.
+location: Brunswick springs
+state: Vermont
+state_abbrev: VT
+longitude: -71.6323112
+latitude: 44.73643879999999
+city_longitude: -71.67495509999999
+city_latitude: 44.7281752
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

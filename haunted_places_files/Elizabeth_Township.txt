@@ -1,0 +1,21 @@
+city: Westmoreland
+country: United States
+description: Sticktown - Sticktown is a rumored ghost town. There was an old Slag mill & a cemetery. Rumored Large amounts of paranormal activity also of people coming up missing in this area and reappearing weeks later not remembering their experiences there. The area is not easily accessible as it is gated off from the top of the hill. There is a large antenna at the top of the hill with lights on it. It is a great marker for the sight. It can also be accessed from the walking trails below. - WARNING There are rumored to be packs of wild dogs, please use caution.
+location: Elizabeth Township
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.8184684
+latitude: 40.2566482
+city_longitude: -79.4703885
+city_latitude: 40.2353963
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

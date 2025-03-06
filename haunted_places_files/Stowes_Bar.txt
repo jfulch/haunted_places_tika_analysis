@@ -1,0 +1,21 @@
+city: Ruston
+country: United States
+description: was once a confederate hospital. Old equipment still stored upstairs (which is closed). On any given night footsteps can be heard from the first floor and the old beds can be heard sliding across the upper floor.
+location: Stowe's Bar
+state: Louisiana
+state_abbrev: LA
+longitude: -92.6300543
+latitude: 32.541127
+city_longitude: -92.637927
+city_latitude: 32.5232053
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

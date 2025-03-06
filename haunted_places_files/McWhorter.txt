@@ -1,0 +1,20 @@
+city: London
+country: United States
+description: Rubin Ridge - There is a tale of a young man riding his four wheeler when he comes upon a truck parked under a tree which is up on a coal bank. Upon further inspection he finds a man hanging from the tree inches from the tale gate. They say if you ride down to bottom of the coal bank and shut off you four wheeler and turn off your lights you can hear the sound of a rope rubbing against the tree. Just as soon as you turn your lights on the sound will stop.
+location: McWhorter
+state: Kentucky
+state_abbrev: KY
+longitude: -84.0654143
+latitude: 37.1378615
+city_longitude: -84.08326459999999
+city_latitude: 37.1289771
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1928/07/23
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Delano
+country: United States
+description: a man haunts a bench on the trail were he killed himself.
+location: Lake Rebecca Park
+state: Minnesota
+state_abbrev: MN
+longitude: -93.7569144
+latitude: 45.0718651
+city_longitude: -93.7891331
+city_latitude: 45.0419073
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

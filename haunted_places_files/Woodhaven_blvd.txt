@@ -1,0 +1,21 @@
+city: Queens
+country: United States
+description: St. John's cemetery - Sounds coming from no where, objects appearing, and cold spots reported.
+location: Woodhaven blvd
+state: New York
+state_abbrev: NY
+longitude: -73.8596335
+latitude: 40.7088522
+city_longitude: -73.7948516
+city_latitude: 40.7282239
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.833333333333334
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

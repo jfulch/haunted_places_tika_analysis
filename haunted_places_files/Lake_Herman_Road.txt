@@ -1,0 +1,21 @@
+city: Vallejo
+country: United States
+description: This is one of the places where the infamous "Zodiac" murdered a young lady and her boyfriend back in the fifties or sixties, the hangout of the Zodiac was supposedly on this road as well The road is nothing but abandoned ranches and utility buildings now but a strange mist hugs to the top of the hills to the left on most nights rather than sticking to the lake to the right . . . it is on the right side of the road where the Zodiac supposedly wrote taunting letters to the police. EVPs recorded picking up a strange heavy breathing that seemed to be from a woman, and a strange feeling of not being alone.
+location: Lake Herman Road
+state: California
+state_abbrev: CA
+longitude: -122.1791739
+latitude: 38.1073664
+city_longitude: -122.2566367
+city_latitude: 38.1040864
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1968/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

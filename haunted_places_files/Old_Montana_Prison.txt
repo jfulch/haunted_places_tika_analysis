@@ -1,0 +1,21 @@
+city: Deer Lodge
+country: United States
+description: The old Montana Prison, The last prisoners were taken to the new prison in 1979-1980. And had been in use through the 1800's for many brutal outlaws of the times. The gallows room has many a strange sound and a cold presence. The hole is a small sub-chambered room with intense cold and four or five small cells, one in particular, first one to the left, is very cold and has a foul odor, with a evil threatening presence, and people have been known to be pushed back up the stairs trying to leave the room as if to keep them going much faster than they are moving.
+location: Old Montana Prison
+state: Montana
+state_abbrev: MT
+longitude: -112.7365235
+latitude: 46.3924635
+city_longitude: -112.7383721
+city_latitude: 46.3990941
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1979/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Central
+country: United States
+description: Many people claim to see the ghost of a woman. Things fly off the walls, footsteps can be heard, and more. The ghost likes to roam on the third floor, where the library is.
+location: Arctic Circle Hot Springs Resort
+state: Alaska
+state_abbrev: AK
+longitude: -146.0565166
+latitude: 65.0530222
+city_longitude: -144.8030556
+city_latitude: 65.57249999999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 10h 52m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lamoni
+country: United States
+description: It is said that the cabin beside Terre Haute Cemetery, there is a little boy who plays on a swing set beside the cabin. He then motions for you to follow him and he guides you to the cemetery to where he is buried. When you reach the grave the boy disappears.
+location: Terre Haute ? Terre Haute Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -93.87961
+latitude: 40.6837305
+city_longitude: -93.9341158
+city_latitude: 40.622777
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

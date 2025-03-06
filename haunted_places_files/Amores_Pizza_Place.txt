@@ -1,0 +1,21 @@
+city: Tracy
+country: United States
+description: Every time you eat there someone would always be taking the salt and pepper shakers.
+location: Amore's Pizza Place
+state: California
+state_abbrev: CA
+longitude: -121.4289156
+latitude: 37.7395446
+city_longitude: -121.4252227
+city_latitude: 37.7396513
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

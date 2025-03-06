@@ -1,0 +1,19 @@
+city: New castle
+country: United States
+description: about 15 years ago a house on karlyn street had a fire in the attic were three children were sleeping and the parent of these children could not save them they died. later on the house was remolded but the children's spirits remain. walking up and down the steps, closing and opening doors, changeing radio stations, and hiding keys.
+location: Overview Gardens
+state: Delaware
+state_abbrev: DE
+longitude: -75.5652016
+latitude: 39.714002
+city_longitude: -75.5668166
+city_latitude: 39.6620397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1979/11/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

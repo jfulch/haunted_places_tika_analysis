@@ -1,0 +1,21 @@
+city: West Chester
+country: United States
+description: Part of this building was built on an old graveyard. It was also a site on the Underground Railroad. Many visitors to and employees of the Historical Society museum have reported hauntings. Some people speculate that the hauntings are from runaway slaves who were murdered on the Underground Railroad. I have a photo of the building and part of the old graveyard if you need it.
+location: Chester County Historical Society
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.605661
+latitude: 39.9618811
+city_longitude: -75.6054882
+city_latitude: 39.9606643
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2001/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

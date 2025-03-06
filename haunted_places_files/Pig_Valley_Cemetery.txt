@@ -1,0 +1,19 @@
+city: White County
+country: United States
+description: People who visit the cemetery are said to hear voices, whispers, and unexplained movement and footsteps in the woods near by. People also have experienced unexplained bouts of fear and terror. The area is a known location for satanic rituals. The road (Pig Valley Road) and most of the area is now closed and will soon be flooded to build a lake.
+location: Pig Valley Cemetery
+state: Georgia
+state_abbrev: GA
+city_longitude: -83.7199136
+city_latitude: 34.6567728
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

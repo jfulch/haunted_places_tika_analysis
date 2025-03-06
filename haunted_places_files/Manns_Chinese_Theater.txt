@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: The Ghost of actor Victor Killian, roams the sidewalk here, looking for the man who murdered him. There were odd things that happened in the main theatre. Between shows when workers would be cleaning the auditorium, they would often see out of the corner of their eyes black shapes that would "fall" from the ceiling. Upon investigation there would be nothing there. Also random times women and employees wouldn't want to go down into the women's restroom. They would begin to feel odd and then change their minds about going down the stairs.
+location: Mann's Chinese Theater
+state: California
+state_abbrev: CA
+longitude: -118.3409712
+latitude: 34.1020231
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

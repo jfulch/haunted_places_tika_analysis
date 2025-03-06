@@ -1,0 +1,21 @@
+city: Henderson
+country: United States
+description: A ghost in the form of a little boy had been seen swinging on the swing set every day after midnight. When approached changes form(demon/devil)and disappears. If you walk along the sidewalk in the back of the park, you may see some shadow people. Or if you even look back there you may see some.
+location: Foxridge Park
+state: Nevada
+state_abbrev: NV
+longitude: -115.0686549
+latitude: 36.0586158
+city_longitude: -114.9817213
+city_latitude: 36.0395247
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

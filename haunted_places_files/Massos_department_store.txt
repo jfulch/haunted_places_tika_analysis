@@ -1,0 +1,21 @@
+city: Plainview
+country: United States
+description: across from the courthouse there is a store that is named Masso's it used to be a photo shop at the turn of the century. The Masso's the owners of the store used to live upstairs there and had their western store downstairs. They said that they were ran out by weird stuff happening like they would leave and come back and furniture would be moved. So they moved out and used the upstairs for storage. But they still heard weird stuff happening like furniture moving around.
+location: Masso's department store
+state: Texas
+state_abbrev: TX
+longitude: -101.7026626
+latitude: 34.1858886
+city_longitude: -101.7068417
+city_latitude: 34.1847936
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1813/10/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

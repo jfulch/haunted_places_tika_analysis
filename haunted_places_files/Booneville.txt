@@ -1,0 +1,20 @@
+city: Owsley County
+country: United States
+description: Owsley County High School - A man roams the halls and writes disturbing words and phrases on the walls and chalkboards. The student was supposedly hung by a janitor in 1973 in the shower room in the boy's locker room. Exactly one year later the janitor was found hanging in the same spot as the student and was hanging by an old rusty chain. To this day no one really knows what happens!
+location: Booneville
+state: Kentucky
+state_abbrev: KY
+longitude: -83.6749145
+latitude: 37.4761991
+city_longitude: -83.7199136
+city_latitude: 37.4294933
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1973/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

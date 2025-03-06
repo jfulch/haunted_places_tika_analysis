@@ -1,0 +1,21 @@
+city: Tempe
+country: United States
+description: A woman haunts the upstairs banquet room and an unknown man or woman has been seen in the downstairs bar area. This is a very old building in old town Tempe. It used to be a house built in the 1930's or 40's
+location: KC Moore's Bar and Grill
+state: Arizona
+state_abbrev: AZ
+longitude: -111.942669
+latitude: 33.42067
+city_longitude: -111.9400054
+city_latitude: 33.4255104
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

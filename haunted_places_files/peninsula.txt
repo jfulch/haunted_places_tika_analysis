@@ -1,0 +1,20 @@
+city: Ohio Summit
+country: United States
+description: Old Boston township - Reports of hearing a battle that starts at the road and work its way up the hill screaming yelling and shooting until thy reached the clearing about one hundred yards from the house then all would stop.
+location: peninsula
+state: Ohio
+state_abbrev: OH
+longitude: -81.55261759999999
+latitude: 41.2411668
+city_longitude: -81.5596427
+city_latitude: 41.0918991
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1630/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

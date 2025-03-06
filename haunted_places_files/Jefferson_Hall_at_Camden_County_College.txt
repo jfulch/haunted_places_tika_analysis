@@ -1,0 +1,21 @@
+city: Blackwood
+country: United States
+description: This structure used to be a monastery before becoming a learning institution. It is said that a residing monk hanged himself on the third floor of this building. Security guards of the college have reported hearing footsteps thumping down the hall of the third floor. They often avoid interior patrol.
+location: Jefferson Hall at Camden County College
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.0407477
+latitude: 39.7856381
+city_longitude: -75.0640602
+city_latitude: 39.8023363
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

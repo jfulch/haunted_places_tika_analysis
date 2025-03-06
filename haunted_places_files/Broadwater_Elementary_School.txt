@@ -1,0 +1,21 @@
+city: Billings
+country: United States
+description: The school was build in early 19 hundreds and a little girl died there. Now some people say that they heard strange noises and saw the figure of a little girl.
+location: Broadwater Elementary School
+state: Montana
+state_abbrev: MT
+longitude: -108.5267
+latitude: 45.7774423
+city_longitude: -108.5006904
+city_latitude: 45.7832856
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 18m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

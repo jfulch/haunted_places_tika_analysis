@@ -1,0 +1,21 @@
+city: Bowling Green
+country: United States
+description: Reports of hearing voices & feelings of someone walking behind you.
+location: Hardee Correctional Facility
+state: Florida
+state_abbrev: FL
+longitude: -82.0116913
+latitude: 27.5912019
+city_longitude: -81.8239717
+city_latitude: 27.6383673
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

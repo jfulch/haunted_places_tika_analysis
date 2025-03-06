@@ -1,0 +1,20 @@
+city: Cincinnati
+country: United States
+description: A ghost named Amy haunts this road. Amy was murdered by her boyfriend. If you go down to the dead end of the road you can hear screams.
+location: Lick Road
+state: Ohio
+state_abbrev: OH
+longitude: -84.6035151
+latitude: 39.3050939
+city_longitude: -84.5120196
+city_latitude: 39.1031182
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

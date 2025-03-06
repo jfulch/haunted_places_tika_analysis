@@ -1,0 +1,21 @@
+city: Wichita
+country: United States
+description: Wilner Auditorium -  several accounts of voices, doors opening and closing, and lights flickering have been noticed by students. The ghost is believed to be that of building namesake.
+location: Wichita State University
+state: Kansas
+state_abbrev: KS
+longitude: -97.2928693
+latitude: 37.7193933
+city_longitude: -97.330053
+city_latitude: 37.68717609999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

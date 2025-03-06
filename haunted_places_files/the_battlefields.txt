@@ -1,0 +1,20 @@
+city: Saratoga Springs
+country: United States
+description: are haunted.
+location: the battlefields
+state: New York
+state_abbrev: NY
+longitude: -73.6488883
+latitude: 43.0123082
+city_longitude: -73.7845651
+city_latitude: 43.0831301
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Olney
+country: United States
+description: The cemetery located on Springcreek and Avenue M. is said to be haunted be some kind of unknown source. Many claim that in the back of the cemetery there is a statue of Jesus. In the day if you drive by or go look at it. His hands are facing up. But at night if you go and see it his hands are facing down with his thumbs broken off.
+location: Springcreek and Ave. M Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -98.7632321
+latitude: 33.3536872
+city_longitude: -98.7528394
+city_latitude: 33.370663
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

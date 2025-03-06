@@ -1,0 +1,21 @@
+city: Gordon
+country: United States
+description: On top of the Gordon Mountain. A woman was murdered and left to die here many years ago. The man who killed her had a distinguishing scar on his face. When you drive up there at night, your car stalls. She walks to the car and checks all the windows for the man. She returns to her rock afterward and continues to brush her hair as she is doing when you first get there. The car will then start. - February 2004 Update: This was discussed in the local newspaper about a decade ago that this was fiction (although the burned body in the paper from the actual murder was very real). Also, the mountain itself has been developed (and lost some height) for a new exit off I-81 as the submitter discovered traveling there three years ago to their amazement. A very lengthy drive in the "middle of nowhere" added to the mysteriousness of the story. There was (is?) a lake on the mountain and the story claimed the woman would walk on the lake.
+location: Gordon Mountain
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.3194757
+latitude: 40.7408762
+city_longitude: -76.336061
+city_latitude: 40.7517544
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1944/01/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

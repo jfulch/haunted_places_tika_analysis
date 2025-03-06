@@ -1,0 +1,21 @@
+city: Morris County
+country: United States
+description: Combs Hollow Road - It is said at exactly 12 o'clock, if one drives over the bridge on Combs Hollow Road, an image will appear at the end of the bridge and put its hand up to tell you to stop. It is reported that fifteen years ago, a young woman was jogging at night along this road and was struck by a pickup truck, killing her instantly. The man driving the truck ran from the scene of the accident and later on in the night, committed suicide from the grief of killing the young lady. His spirit patrols the bridge late at night, and it is said that if you don't stop for him, he will run you off the road. The road is very windy and very dangerous, and one must be careful while traveling through.
+location: Mendham
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.6007142
+latitude: 40.7759334
+city_longitude: -74.54632819999999
+city_latitude: 40.8336038
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/02/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

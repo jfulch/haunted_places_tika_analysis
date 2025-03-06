@@ -1,0 +1,21 @@
+city: Boise
+country: United States
+description: me and my friends go out there at night and climbed under the fence so we could explore. Witnesses have felt strong feelings of uneasiness and also felt presences. And reports in a room and there was no way any light could have come in but there were flashing lights.
+location: Old State Penitentiary
+state: Idaho
+state_abbrev: ID
+longitude: -116.1619792
+latitude: 43.6027935
+city_longitude: -116.2146068
+city_latitude: 43.6187102
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

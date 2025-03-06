@@ -1,0 +1,21 @@
+city: Peoria
+country: United States
+description: The old River Station building was a train station back in its origins.   The building was built in the late 1800's and the upper floor has been vacant and unused for many years.  The lower level is used as a restaurant and also a bar.    Many strange things have happened there.   Strange lights, lights flickering and turning on/off, a jukebox where the inside of it appeared to be turned upside down, televisions turning themselves on after closing time. Talk to anyone who works there and they'll tell you their personal experiences.
+location: River Station building
+state: Illinois
+state_abbrev: IL
+longitude: -89.5896645
+latitude: 40.6882255
+city_longitude: -89.5889864
+city_latitude: 40.6936488
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

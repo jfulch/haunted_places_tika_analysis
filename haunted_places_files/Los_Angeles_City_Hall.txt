@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Security Officers report of Haunting on the 2,3,4,27 and 28th floors. The 2nd floor is the scariest; the whole floor is in marble. There are noises coming from many directions and there always feels like someone is watching you. Security Officers have reported seeing apparitions in this area. The 3rd and 4th floor always seem as though someone is with you as you walk. The 27th floor "Tom Bradley Room" has paintings of all the Former Mayors of Los Angeles. There is one painting located in the back Hallway that is really eerie. The painting was done in the late 1800 to early 1900. This painting looks like a regular photograph and the man in side the painting seems to watch you with his eyes. This painting is extremely life like. On the 28th floor, there seems to be lot of energy. CCTV cameras have picked up human figure images. It has been believed the at one tim e or another that City Hall housed a morgue. All occurrences have happened between the hours of 0130-0500 am, but be advised the building is closed to the public at these hours.
+location: Los Angeles City Hall
+state: California
+state_abbrev: CA
+longitude: -118.2426533
+latitude: 34.0537136
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

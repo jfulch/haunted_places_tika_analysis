@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: It is said that these apartments where built on an Indian burial ground. Late at night you can actually here foot steps and see dark shadowy figures in the apartments. There are also reports of things flying across the rooms and things that are moved from their original place, and put somewhere else.
+location: J.C. Machuca Apartments
+state: Texas
+state_abbrev: TX
+longitude: -106.5539065
+latitude: 31.8139415
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

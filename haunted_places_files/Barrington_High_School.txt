@@ -1,0 +1,21 @@
+city: Barrington
+country: United States
+description: There is a white apparition of a ghost throughout the building legend has it his name was Cisco and he killed himself because he was not getting fed enough food.
+location: Barrington High School
+state: Illinois
+state_abbrev: IL
+longitude: -88.147437
+latitude: 42.155948
+city_longitude: -88.1361888
+city_latitude: 42.1539141
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

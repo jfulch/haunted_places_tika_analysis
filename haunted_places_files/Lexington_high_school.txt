@@ -1,0 +1,20 @@
+city: Lexington
+country: United States
+description: September 2005 update: The Director of School/Community Relations in Lexington County School District 1 reports there has never been a death at this school. -  there was a girl in the Lexington’s high school gym locker room who had been chocked to death in the showers and when you go by yourself you van hear the gym lockers bang and the shower doors clanging.
+location: Lexington high school
+state: South Carolina
+state_abbrev: SC
+longitude: -81.3079905
+latitude: 33.97719319999999
+city_longitude: -81.2362107
+city_latitude: 33.9815369
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bowie
+country: United States
+description: doors open and close and if you come 12.00pm you can see ghost dogs and a man.
+location: Pausse Center
+state: Maryland
+state_abbrev: MD
+longitude: -76.7365947
+latitude: 38.9774337
+city_longitude: -76.77913649999999
+city_latitude: 39.0067768
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

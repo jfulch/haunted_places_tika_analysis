@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: In the library students have witnessed an old woman with no legs "floating around" and at the side entrance there is supposedly two people, a man and a young woman, hanging from the ceiling.
+location: Centennial Middle School (formerly Park Junior High)
+state: Washington
+state_abbrev: WA
+longitude: -117.301091
+latitude: 47.66616
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1934/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

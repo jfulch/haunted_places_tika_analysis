@@ -1,0 +1,19 @@
+city: Honaker
+country: United States
+description: 1.Woman with washboard and tub. The closer you get the more she fades away until she's gone.
+location: Honaker Hollow
+state: Virginia
+state_abbrev: VA
+city_longitude: -81.9742921
+city_latitude: 37.016222
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

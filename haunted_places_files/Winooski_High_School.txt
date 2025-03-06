@@ -1,0 +1,21 @@
+city: Winooski
+country: United States
+description: In the 1960's, five Winooski High School students were killed in a crash coming back from Canada after a suspected night of drinking.   The local funeral home didn't have enough room in its parlors to hold all five bodies, so the others were laid out in the school gym.  A mass wake was held later held there.  Janitors have reported strange sightings since then up to present day when cleaning late at night, especially after sporting events.  Ghostly happenings include lights flicking on and off, lockers mysteriously opening and slamming shut all down the hall, echoing voices in the gym...etc.  But perhaps most frightening, the sound of wheels rolling along the gym floor, echoing the coffins being rolled into the gym for the wake.
+location: Winooski High School
+state: Vermont
+state_abbrev: VT
+longitude: -73.18101
+latitude: 44.501157
+city_longitude: -73.1856832
+city_latitude: 44.491438
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2005/03/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

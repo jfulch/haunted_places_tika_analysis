@@ -1,0 +1,21 @@
+city: Grand Blanc
+country: United States
+description: People levitating, shadowy figures, voices, cold winds suddenly, something touching you, held in one spot, and a bouquet of flowers following you every step you take.
+location: Old State Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -83.63911929999999
+latitude: 42.944472
+city_longitude: -83.6299518
+city_latitude: 42.9275277
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Kaysville
+country: United States
+description: man killed in a giant mansion and now you hear moaning a steps through the halls lights flicker on and off things like that
+location: mansion
+state: Utah
+state_abbrev: UT
+longitude: -111.9677796
+latitude: 41.0629867
+city_longitude: -111.9385521
+city_latitude: 41.0352216
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

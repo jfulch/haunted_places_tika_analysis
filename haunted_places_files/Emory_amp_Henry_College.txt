@@ -1,0 +1,21 @@
+city: Emory
+country: United States
+description: Music Hall was at one time a debate/courtroom building. It is said that a heated discussion became too much for one of the men, therefore he left the room to get some air. As he was leaning on the windowsill, his opponent pushed him out. The man caught the hanging lamp outside, but fell to his death from a third story window. To this day, that hanging lamp will constantly swing even when the weather is not windy. Also, some nights, mysterious walking and piano playing can be heard when no one is at the piano. The third floor of "MaWa" Hall is also haunted! It is said that a young woman who lived there was stood up for the fall formal dance. She hanged herself from the middle shower stall in the community bathroom. Sometimes that showerhead will squirt water out of control from the hardware connected to the wall. And also the sound of high heels has been heard going up and down the hall late in the evening hours.
+location: Emory &amp; Henry College
+state: Virginia
+state_abbrev: VA
+longitude: -84.32399889999999
+latitude: 33.7925195
+city_longitude: -81.834939
+city_latitude: 36.77381099999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

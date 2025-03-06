@@ -1,0 +1,21 @@
+city: Big Rapids
+country: United States
+description: Voices are heard often.  Shadows of people walking. The sound of high heels down the hallway in the back.  A woman in dark clothing wearing white nylons and black heels.  Things have been reported to fall for no reason.
+location: Ponderosa
+state: Michigan
+state_abbrev: MI
+longitude: -85.3960578
+latitude: 44.2451965
+city_longitude: -85.4836557
+city_latitude: 43.6980782
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

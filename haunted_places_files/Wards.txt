@@ -1,0 +1,20 @@
+city: Colorado springs
+country: United States
+description: Wards what now is memorial hospital administration building many previous shoppers report hearing sounds coming from the walls and when they were in the women’s restroom the toilets and sinks flush and turn on lights turning off at night the previous security guard quit from those effects in the late 90's a young girl and boy were lost from there mother and father when they let there children go to the restroom and they never came out. to this day no one knows where the children went. People still say the parents never left the out side of the restroom.
+location: Wards
+state: Colorado
+state_abbrev: CO
+longitude: -104.901069
+latitude: 38.880064
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

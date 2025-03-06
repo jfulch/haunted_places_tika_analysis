@@ -1,0 +1,19 @@
+city: Waverly Hall
+country: United States
+description: Her spirit is said to still inhabit the house, and the sound of children laughing can be hear (a mystery, seeing as Mrs. Pitts had no children herself).
+location: Ms. Pitts' House
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.7382609
+city_latitude: 32.683469
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

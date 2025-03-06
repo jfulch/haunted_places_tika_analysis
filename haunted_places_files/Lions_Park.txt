@@ -1,0 +1,21 @@
+city: Elkhart Lake
+country: United States
+description: Late at night swings mysteriously swing and the merry-go-round spins and there is no wind. It is rumored that this is because a small kid fell off of the top of the big slide and dies. Now he spends his like playing at lions park.
+location: Lions Park
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.95829100000002
+latitude: 43.7394728
+city_longitude: -88.0178729
+city_latitude: 43.8333269
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Independence
+country: United States
+description: sounds, cold spots foot steps are observed here.
+location: Old Jackson County Jail
+state: Missouri
+state_abbrev: MO
+longitude: -94.4153238
+latitude: 39.0934562
+city_longitude: -94.4155068
+city_latitude: 39.0911161
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

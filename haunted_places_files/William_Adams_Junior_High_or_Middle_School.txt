@@ -1,0 +1,21 @@
+city: Alice
+country: United States
+description: A young teenaged girl is said to roam the place looking for her love which is said to have killed her.
+location: William Adams Junior High or Middle School
+state: Texas
+state_abbrev: TX
+longitude: -98.067886
+latitude: 27.7551601
+city_longitude: -98.0697249
+city_latitude: 27.7522487
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

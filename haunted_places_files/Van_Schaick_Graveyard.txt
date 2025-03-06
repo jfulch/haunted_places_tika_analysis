@@ -1,0 +1,21 @@
+city: Cohoes
+country: United States
+description: Many people claimed to have seen both male and female apparitions, as well as hearing ghostly voices through the locked gates.
+location: Van Schaick Graveyard
+state: New York
+state_abbrev: NY
+longitude: -73.68650079999999
+latitude: 42.7677438
+city_longitude: -73.70011869999999
+city_latitude: 42.7742446
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

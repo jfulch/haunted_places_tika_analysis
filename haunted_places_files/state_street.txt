@@ -1,0 +1,21 @@
+city: Marysville
+country: United States
+description: A dog by the name of bud got sick one day and so his owner got his gun and put him out of his misery. They say if you say his name late at night a little girl appears, and says "don't hurt him he is my dog go away." she stares at you and walks away.
+location: State Street
+state: Washington
+state_abbrev: WA
+longitude: -122.1727475
+latitude: 48.0865255
+city_longitude: -122.1770818
+city_latitude: 48.0517637
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

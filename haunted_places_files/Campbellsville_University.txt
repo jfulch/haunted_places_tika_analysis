@@ -1,0 +1,21 @@
+city: Campbellsville
+country: United States
+description: Fine Arts Building -  The Fine Arts building was originally a Catholic Hospital. Some say they have heard babies crying where the nursery was, footsteps heard in the hall when no one was there and art students have witnessed pottery wheels beginning to spin by independently. There are also numerous cold spots through out the building.
+location: Campbellsville University
+state: Kentucky
+state_abbrev: KY
+longitude: -85.3494324
+latitude: 37.3430956
+city_longitude: -85.3419069
+city_latitude: 37.3433974
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1884/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

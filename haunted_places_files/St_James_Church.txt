@@ -1,0 +1,21 @@
+city: Ocala
+country: United States
+description: (now vacant) - This is the Church used in the film "Jeepers Creepers" it lies just west of town off hwy 40. This site was used in the movie "Jeepers Creepers". At night the church has a strange fog that surrounds it and strange light come from inside. On the same site, a small graveyard almost touches the roadway and scrambles car radio and cell phone signals briefly. - October 2003 Update:The church has been torn down due to 2 local teens setting fire to the structure.
+location: St. James Church
+state: Florida
+state_abbrev: FL
+longitude: -82.1109244
+latitude: 29.1752546
+city_longitude: -82.14009229999999
+city_latitude: 29.1871986
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

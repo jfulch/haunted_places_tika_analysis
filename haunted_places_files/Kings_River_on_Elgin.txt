@@ -1,0 +1,21 @@
+city: Lemoore
+country: United States
+description: It is said that a woman had two of her kids drown in the river there. She attempted to try and save them but in turn lost her own life. Since then it is said that she can be seen walking in the bushes with a lantern calling for her kids and asking for someone to save her kids, and if anyone enters the water in an attempt to save them she then takes them under in return.
+location: Kings River on Elgin
+state: California
+state_abbrev: CA
+longitude: -119.805338
+latitude: 36.299159
+city_longitude: -119.7829107
+city_latitude: 36.3007835
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

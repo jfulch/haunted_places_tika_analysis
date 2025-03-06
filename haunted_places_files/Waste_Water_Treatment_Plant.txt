@@ -1,0 +1,21 @@
+city: Fremont
+country: United States
+description: from time to time there has been weird stuff going on late at night, while taking some readings I saw someone walk by the door I thought it was the other operator, later I found out he hadn't been over there. one time someone knocked or pounded on the garage door we went out to see who was out there, nobody there. another operator was trying to take the lid off the oil barrel, he went to the shop to get something to use, when he got back the lid was off. we think it was the old superintendent who had died on the job there.
+location: Waste Water Treatment Plant
+state: Nebraska
+state_abbrev: NE
+longitude: -96.414463
+latitude: 41.4197353
+city_longitude: -96.4981467
+city_latitude: 41.4333909
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1946/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

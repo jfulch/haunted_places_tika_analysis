@@ -1,0 +1,21 @@
+city: Ozone Park
+country: United States
+description: St. Anthony's Hospital - Update: Has since been torn down. - Close down in the late 1960's to early 70's this abandoned seven story building with a smokestack on the left hand side of the building, and a steel spiked fence around the perimeter of the hospital. The hospital was used for severely ill patients. At night only the first two floors were lighted up. Above the second floor is a whole different story. No Trespassing above the second floor. But you could hear noises and slamming sounds coming from the stairway that leads to the third floor and the fourth floor. I'm not to sure what it is today but it still stands today.
+location: Woodhaven
+state: New York
+state_abbrev: NY
+longitude: -73.84354619999999
+latitude: 40.674232
+city_longitude: -73.8507279
+city_latitude: 40.6794072
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bedford
+country: United States
+description: The first floor was originally a French outpost in the 1740's.By 1758,General Forbes had used it as an impromptu HQ during his expedition to take Ft. Duquesne. It was there that he supposedly had a French spy hanged. During the early 1760's it became a tavern with a second story added. This was then used as a frontier courtroom where several people were hanged. These restless spirits are responsible for a multitude of supernatural activities at the inn.
+location: John Bonnett Tavern
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.560671
+latitude: 40.042382
+city_longitude: -78.50390689999999
+city_latitude: 40.0186921
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1793/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

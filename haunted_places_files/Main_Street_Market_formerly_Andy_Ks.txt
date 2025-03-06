@@ -1,0 +1,21 @@
+city: Marlboro
+country: United States
+description: Several former employees have reported strange happenings after the store closes at night. The reflection of a large man has been seen on the glass to the freezer case, which disappears upon closer inspection. The ketchup and mustard bottles behind the counter tip themselves over. Also, objects on the shelves are reported to have hurled themselves across the room with great force.
+location: Main Street Market (formerly Andy K's)
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2563557
+latitude: 40.2971309
+city_longitude: -74.26872910000002
+city_latitude: 40.3380949
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

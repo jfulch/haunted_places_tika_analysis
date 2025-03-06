@@ -1,0 +1,21 @@
+city: Park Falls
+country: United States
+description: It is some peoples belief that a few spirits haunt the cemetery. One is Nola, the very first person buried there. Nola was a little girl that died very young and since she was the first to be buried there, the cemetery was then named after her.
+location: Nola Cemetery
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.4375785
+latitude: 45.9215571
+city_longitude: -90.4415527
+city_latitude: 45.9343981
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

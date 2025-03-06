@@ -1,0 +1,19 @@
+city: McElhattan
+country: United States
+description: When a vehicle is parked on the railroad tracks and put in neutral and shut off, the car will be pushed off the tracks. It is said that many years ago (date unknown) a school bus full of children was hit by a train and all children were killed in the accident. to this day the ghost train still travels on these tracks on the same date that the accident occurred. Several people encountered this incident and they also used baby powder or flour on the back of the vehicle and after the vehicle was pushed off the tracks they visibly saw small child size had prints on the vehicle rear in the powder.
+location: River Road RR Tracks
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -77.3613651
+city_latitude: 41.1597929
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

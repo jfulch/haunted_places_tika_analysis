@@ -1,0 +1,21 @@
+city: Pineville
+country: United States
+description: It is said that a janitor got stuck in the boiler room of the school and he got burned alive now he haunts it at nights. When someone goes by the boiler room at night you can sometimes here him screaming for help.
+location: Pineville grade school
+state: West Virginia
+state_abbrev: WV
+longitude: -81.53592499999999
+latitude: 37.5779834
+city_longitude: -81.5370499
+city_latitude: 37.5831684
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

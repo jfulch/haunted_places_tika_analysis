@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: This used to be the residence of the McKnay family. Widow McKnay was an art collector who turned her home into a museum. The West Wing of this musuem was beginning construction when old lady McKnay passed away. It is said that "Old Lady McKnay" has been seen walking the halls and passing through walls when "floating" from one building to another. She's only seen at night, mostly by security and museum personnel. She never speaks, but if you're lucky enough, she might appear to 'look' in your direction. Also a females voice "humming" an unrecognizable tune can be heard coming from the downstairs area of the West Wing library.
+location: McKnay Museum
+state: Texas
+state_abbrev: TX
+longitude: -98.4574985
+latitude: 29.4857322
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

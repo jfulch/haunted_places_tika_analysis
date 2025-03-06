@@ -1,0 +1,21 @@
+city: Rexburg
+country: United States
+description: Near the hart building, there was a little girl murdered. She still walks from the east door of the hart building to the Romney building, and then back to the hart again. She gets mad if you get in her path.
+location: Ricks College
+state: Idaho
+state_abbrev: ID
+longitude: -111.7833857
+latitude: 43.8144635
+city_longitude: -111.7924237
+city_latitude: 43.8231096
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

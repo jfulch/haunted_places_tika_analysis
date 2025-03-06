@@ -1,0 +1,19 @@
+city: North Kingstown
+country: United States
+description: haunted by the ghosts of children that have died there. It is presently a nursing establishment composed of two building facilities. The new building was erected in 1995. However the older building completed way back, unsure of the date, was originally a Rhode Island Hospital children's facility. It is said that children could be heard laughing, crying, or playing. Particularly, room 103 is said to be the room where many spirits stay. Keep in mind that it presently houses retired nuns and priests, and is under direction of the Scallabrini Fathers, so you may not be able to gain access.
+location: Scallabrini Villa
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.4233058
+latitude: 41.6400781
+city_longitude: -71.4536835
+city_latitude: 41.5568315
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1995/01/01
+date_source: description
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Dawson Springs
+country: United States
+description: Numerous incidents have been reported over the years at this small cemetery just outside Dawson Springs. Glowing eyes, ghosts of the dead, things appearing and disappearing.
+location: Lick Creek Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -87.6727533
+latitude: 37.2491822
+city_longitude: -87.6925074
+city_latitude: 37.1672684
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

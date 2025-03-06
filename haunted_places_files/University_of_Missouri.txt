@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: St. Louis - Seton Hall - During odd hours of the days, footsteps can be heard running down the hall on the third floor. Knocks on doors, and unlocking door sounds can be heard, all while no one is around. This used to be the location of a hospital and then a convent. There are tunnels that connect this building with other buildings on that side of campus, although they are blocked off. Some have also said they had problems with waking up in the air.
+location: University of Missouri
+state: Missouri
+state_abbrev: MO
+longitude: -90.30828
+latitude: 38.7092401
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1763/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Eureka Springs
+country: United States
+description: Room 218 -  The building is haunted by an Irishman named Michael. On the second floor, the ghost of a nurse is seen, pushing a person on a bed. Examples of other sightings are of a business man walking around in the lobby, a man pushing his wife down a flight of stairs, and a school girl being pushed out of a window to her death. This place also used to be a cancer hospital. The founder of the cancer hospital was "Dr." Norman Baker, who was said to have buried his cancer patients under the floor of the old hospital morgue. He also used to have two St. Bernard dogs with him, and they died in the hotel. Sometimes people have reported feeling cold wisps of air hit their legs, as if being licked by a dog. Witnesses have reported seeing Baker in the basement part of the hotel, while going on a ghost tour. Some old women are said to pull their rocking chairs into one of t he hallways in the middle of the night, and have a chat.
+location: Crescent Hotel
+state: Arkansas
+state_abbrev: AR
+longitude: -93.73732
+latitude: 36.40832899999999
+city_longitude: -93.7379711
+city_latitude: 36.4011825
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

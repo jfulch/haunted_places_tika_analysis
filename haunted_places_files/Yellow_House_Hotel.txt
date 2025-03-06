@@ -1,0 +1,21 @@
+city: Douglassville
+country: United States
+description: It's said that a woman killed herself in the middle room of the Yellow House Hotel inn and restaurant. People have spotted her in the middle window, people that stay in the room claim to have seen the woman.
+location: Yellow House Hotel
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.7547094
+latitude: 40.3229618
+city_longitude: -75.7262916
+city_latitude: 40.2581117
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1801/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Rineyville
+country: United States
+description: Cemetery on top of the hill. Strange noises are heard and many shadows resembling people watch you. Glowing eyes occasionally seen of far side of the cemetery from your position. If watching people leave the cemetery from the bottom of the hill a ghostly figure will follow them out.
+location: Owsley Rd.
+state: Kentucky
+state_abbrev: KY
+longitude: -86.01120759999999
+latitude: 37.7764974
+city_longitude: -85.9699631
+city_latitude: 37.7495098
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

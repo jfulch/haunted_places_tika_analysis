@@ -1,0 +1,21 @@
+city: Elkton
+country: United States
+description: The old county library is haunted. Down main street, diagonally across from the court house is the old library that was used until sometime in the late eighties early nineties. Rumor is it’s the builder of the house to the left when looking at the library from the front. The man had went on a business trip only to return and find his pregnant wife dead. In his remorse, after his physical body died, he stayed on to live in the study of that building as well as the library. Many of library employees related that they would clean an area after locking up and move on to the next area only to return and have to straighten up again.
+location: Old County Library
+state: Maryland
+state_abbrev: MD
+longitude: -75.8373728
+latitude: 39.6186506
+city_longitude: -75.83327179999999
+city_latitude: 39.60677889999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.45
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

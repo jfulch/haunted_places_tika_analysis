@@ -1,0 +1,20 @@
+city: Waterbury
+country: United States
+description: In February, 1985, many witnesses observed a ghostly woman enter a phantom car about five feet above the front gate and drive away and disappear. This story could be backed up by a newspaper article, which was written the next day. There were no other known ghostly happenings since this incident.
+location: Holy Land
+state: Connecticut
+state_abbrev: CT
+longitude: -73.029858
+latitude: 41.5471704
+city_longitude: -73.0514965
+city_latitude: 41.5581525
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/29
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

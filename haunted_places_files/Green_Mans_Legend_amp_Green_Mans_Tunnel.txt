@@ -1,0 +1,21 @@
+city: South Park
+country: United States
+description: There is a legend of a man who was walking one of the deserted roads in South Park and he was struck by lightening. He died and is said to still walk the deserted country roads. This tunnel can be seen from the road and is no longer in use. Years ago, an electrician was working on the tunnel lights when he became electrocuted and died. He now haunts the tunnel and surrounding area. It is said to have a green glow. - March 2008 Update/additional information: The disfigured face guy was Ray Robinson, who is the true "Green Man", not some ghost. He lived near Koppel, Pennsylvania and died in 1985. Ray had his face melted off by a ungrounded railroad bridge in 1917 (his skin turned light green in places after the accident). The ghost in South Park might glow green, but it should NOT be associated with the true "Green Man".
+location: Green Man's Legend &amp; Green Man's Tunnel
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9695575
+latitude: 40.272388
+city_longitude: -79.99759159999999
+city_latitude: 40.2926016
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Rosemead
+country: United States
+description: A student who shot himself in the parking lot is still seen at night in the front parking lot. also student have heard people crying in the restrooms of the 400 and 600 buildings.
+location: Don Bosco Tech
+state: California
+state_abbrev: CA
+longitude: -118.085765
+latitude: 34.0422232
+city_longitude: -118.072846
+city_latitude: 34.0805651
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/08/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

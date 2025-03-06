@@ -1,0 +1,21 @@
+city: Louisburg
+country: United States
+description: Merritt Dorm - which is a girls dorm the water facets in the bathrooms will turn on with no one being in the bathroom, computer chairs with wheels have been know to roll across the rooms and slam into the walls. The TV’s and radios have been known to cut on and off with out anyone in the rooms, and the lights will cut off as though they breakers tripped, but when you go to reset the breakers everything has been flipped to off. Cold spots in various rooms. Unidentified foot steps. In the administration building you can see reflections on people in the windows at night. Strange noises and doors have been known to open by themselves.
+location: Louisburg College
+state: North Carolina
+state_abbrev: NC
+longitude: -78.2977139
+latitude: 36.1051132
+city_longitude: -78.30110599999999
+city_latitude: 36.0990393
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1926/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

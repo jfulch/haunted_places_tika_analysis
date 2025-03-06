@@ -1,0 +1,21 @@
+city: Crete
+country: United States
+description: Sightings of a woman and child standing together in the middle of the road are seen from a distance, but they disappears when you get closer. Often on rainy nights.
+location: Sangamon Road
+state: Illinois
+state_abbrev: IL
+longitude: -87.64210469999999
+latitude: 41.4399962
+city_longitude: -87.6314312
+city_latitude: 41.4444791
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

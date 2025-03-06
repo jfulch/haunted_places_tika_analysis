@@ -1,0 +1,21 @@
+city: Duarte
+country: United States
+description: Employees of the Spaghetti Factory claim to hear children playing in the rest room areas in the basement, dishes also fall to the floor, said to be the children playing games. - September 2004 Update - emblem on the entrance that reads “Duarte High School 1904.” It was originally built in the early 1900's as a High School and in the 60's it was abandoned because Duarte high school was built and everyone was sent there instead.
+location: Spaghetti Factory
+state: California
+state_abbrev: CA
+longitude: -117.978228
+latitude: 34.136422
+city_longitude: -117.9772873
+city_latitude: 34.1394513
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

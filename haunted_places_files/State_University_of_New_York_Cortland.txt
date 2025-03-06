@@ -1,0 +1,21 @@
+city: Cortland
+country: United States
+description: Brockway Hall - Brockway would be in the middle of the complex with Cheney on one side and Degroat Hall on the other. A former cook in Brockway, which was, at one time, the oldest dining hall on campus. The ground floor houses a snack bar (the original College snack bar) and the first floor was the location of a larger dining hall. One morning while they were making a pot of coffee in the kitchen they turned to see a man standing at the top of the stairs which leads to the ground floor and the loading dock. When they asked if they could help him, he turned to his left without speaking and vanished into a small break room off the kitchen. Of course, upon investigation the cook could find no sign of him.
+location: State University of New York – Cortland
+state: New York
+state_abbrev: NY
+longitude: -76.187797
+latitude: 42.599001
+city_longitude: -76.1804843
+city_latitude: 42.6011813
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1888/11/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Wayne
+country: United States
+description: basically the story about these tracks is that a mother was driving a car over the tracks with a car filled with children. The car stalled just as she got onto the tracks. The mother got out of the car to see if she could get it to start again. However, being preoccupied with fixing the car she didn't realize a train was coming around the curve. She tried to get the kids out but it was to late. The train hit, killing all the children. Story goes, if you park your car over the tracks late at night the children that died in the accident will try to push your car off the tracks. And their hand prints will remain on the trunk of the car.
+location: Powis road railroad tracks
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.242369
+city_latitude: 41.9508336
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1954/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

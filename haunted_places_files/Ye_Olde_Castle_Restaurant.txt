@@ -1,0 +1,21 @@
+city: Burns
+country: United States
+description: This restaurant was previously a house in the 1800's. Restaurant employee's have seen and talked about the lady in the blue dress for at least 20 years. Any time the Restaurant is painted or repaired she appears. Mostly she is seen out of the corner of you're eye. She stares at you but when you look directly at her she disappears, although you can still feel her presence. She is kind and motherly. It is thought she is either the friend of the owners. This friend died early of cancer and was very close to the owner and taught her to run the restaurant. In the same token it could also be someone who died when it was a house.
+location: Ye Olde Castle Restaurant
+state: Oregon
+state_abbrev: OR
+longitude: -119.0562935
+latitude: 43.586223
+city_longitude: -119.0541032
+city_latitude: 43.5862606
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

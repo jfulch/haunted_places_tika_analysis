@@ -1,0 +1,20 @@
+city: Clinton
+country: United States
+description: Lights turning themselves on and off... faucets on and off. Doors shutting themselves and opening themselves. A definite feeling that you are being watched in one of the rooms and the cold touches that are commonly felt with hauntings.
+location: Community Counseling Consultants (Rehab center)
+state: Missouri
+state_abbrev: MO
+longitude: -93.7687339
+latitude: 38.3931596
+city_longitude: -93.7782689
+city_latitude: 38.3686324
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

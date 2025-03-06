@@ -1,0 +1,20 @@
+city: Mead
+country: United States
+description: When going to this place u will see that there are graves dating back to the 1800 and people have reported seeing mobs and people lynching black men and many other things
+location: Mead grave yard
+state: Colorado
+state_abbrev: CO
+longitude: -105.0028126
+latitude: 40.2166155
+city_longitude: -104.9985899
+city_latitude: 40.2333174
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

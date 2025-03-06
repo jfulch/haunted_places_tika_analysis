@@ -1,0 +1,20 @@
+city: Boulder
+country: United States
+description: Auditorium - In 1982, a senior hung himself in one of the dressing rooms. Since then, students have reported hearing singing from the dark areas offstage, stage lights flickering and flats falling completely over, even though they were completely nailed down to the floor.
+location: Fairview High School
+state: Colorado
+state_abbrev: CO
+longitude: -105.2463001
+latitude: 39.9724871
+city_longitude: -105.2705456
+city_latitude: 40.0149856
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1982/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

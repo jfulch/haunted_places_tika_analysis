@@ -1,0 +1,21 @@
+city: Sweetwater
+country: United States
+description: Footsteps are heard on stage in the auditorium while cold spots are felt on the gridiron. Also a playful ghost runs through the downstairs part of the school. Light footsteps are heard on the steps and he/she is known to lock the doors to teacher's rooms.
+location: Sweetwater High School
+state: Texas
+state_abbrev: TX
+longitude: -100.4055945
+latitude: 32.4805042
+city_longitude: -100.4059384
+city_latitude: 32.4709519
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

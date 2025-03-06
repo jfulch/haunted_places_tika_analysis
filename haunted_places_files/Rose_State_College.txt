@@ -1,0 +1,21 @@
+city: Midwest city
+country: United States
+description: Student Union - Labor Day 1999, a security guard hanged himself in the aux. services office. at midnight sounds of a rope creaking in the ceiling can be heard. Every Labor Day 12:01 am. The entire event can be heard.
+location: Rose State College
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.4136685
+latitude: 35.4440908
+city_longitude: -97.3967019
+city_latitude: 35.4495065
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,18 @@
+city: Crown City (South of town)
+country: United States
+description: Cold blasts of air, phantom boulders falling from cliffs, and phantom headlights show up in the rear view mirrors.
+location: Route 7 "the narrows"
+state: Ohio
+state_abbrev: OH
+city_longitude: -82.2829266
+city_latitude: 38.5909166
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 0

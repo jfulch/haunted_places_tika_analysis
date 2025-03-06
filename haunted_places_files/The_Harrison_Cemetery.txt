@@ -1,0 +1,21 @@
+city: Schoolcraft
+country: United States
+description: the site in question is the "glowing tombstone" , at a distance you can see one tombstone glow in the dark. The tombstone glows until you get to the edge of the cemetery, then it goes dark. You cant really pinpoint the actual tomb and there's no lights around to illuminate it either. Some say its made out of phosphorous and others say its mercury vapor reflecting off a shiny tombstone. but it doesn't explain why it goes dark when you get within 500 feet. the only close house to it is 1/4 mile away. The cemetery is named after Bazel Harrison, who led 21 of the first settlers of the Prairie Ronde Kalamazoo county. Both him and his wife Martha are buried there.
+location: The Harrison Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -85.6662836
+latitude: 42.1413569
+city_longitude: -85.63777759999999
+city_latitude: 42.11421070000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

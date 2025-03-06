@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: it has been scientifically proven that many people have been hung and sentenced to death there. The rumor is that a young boy went to the courthouse on the night of Halloween in the early 1900's. He did not believe in ghost until this incident. He went up to the 10th floor where all the death sentences went through. He walked over to a window to look at a rope that what looked like blood on it. When some force throw him over the edge of the window. Specialist found blood from the rope one the window seal where he tried to hold on. He hit the cement face first.
+location: The Old Courthouse
+state: Texas
+state_abbrev: TX
+longitude: -97.4005405
+latitude: 27.7949108
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/10/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

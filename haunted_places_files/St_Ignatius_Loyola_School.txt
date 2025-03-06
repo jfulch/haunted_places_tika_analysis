@@ -1,0 +1,21 @@
+city: Reading
+country: United States
+description: About 3 years ago around exam week, a young man stayed after school to study. When he was done studying he waited outside for his ride, but his mom never came. The phones were out and he was all-alone. The next day the police found his body in the library. It was mangled and gross. They never said how exactly he died. They say if your there the phone will ring, and no one will be there, things being written on walls, and people even have heard and seen him running away. If you feel a cold spot, remember this school doesn't have air conditioning! Some people say if you say his name in the dark you will see glowing eyes. His name was Jerry.
+location: St. Ignatius Loyola School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.004648
+latitude: 40.3373823
+city_longitude: -75.9268747
+city_latitude: 40.3356483
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

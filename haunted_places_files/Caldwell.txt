@@ -1,0 +1,21 @@
+city: Canyon County
+country: United States
+description: Old Saratoga Hotel/Restaurant - It is said that the upper floors, the restaurant and bar areas were haunted. Reports of a chilling cold feeling upon opening doors to some of the guest rooms. Many nights, employees that were left to close up after hours experience moving chairs, swinging glass racks, and footsteps. After demolition of the ruins, a new office strip mall was built and many employees complain of strange noises.
+location: Caldwell
+state: Idaho
+state_abbrev: ID
+longitude: -116.6873596
+latitude: 43.66293839999999
+city_longitude: -116.6865435
+city_latitude: 43.67795810000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

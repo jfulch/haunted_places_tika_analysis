@@ -1,0 +1,19 @@
+city: Miamisburg
+country: United States
+description: The Cemetery is very old and has grave stones going back to the late 1800s/early 1900's and is very haunted But one of many is there is a family grave site where many people have said to have witnessed a young girl sitting over a grave crying(believed to be her mother) . Many people have tried to give their assistance to the girl but she only looks at them and disappears . Another site is of a 19 year old girls grave from the late 1800s , she is said to have been a preachers daughter but betrayed him in not believing the religion he taught, so her family disowned her and she killed herself . The bible on top of her grave is said to be broken in half sometimes and sometimes appears perfectly normal.
+location: Hill Grove Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -84.274625
+latitude: 39.6392318
+city_longitude: -84.2866083
+city_latitude: 39.6428362
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Cleveland
+country: United States
+description: Friendship Nursing Home - Little boy wearing a red cap haunts. If seen three deaths of the residents will happen, two expected one nut. Boy also appears outside in the cold, and the elderly residents throw their sheets and blankets out to him because he looks cold!
+location: White County Georgia
+state: Georgia
+state_abbrev: GA
+longitude: -83.7632366
+latitude: 34.5970402
+city_longitude: -83.7632366
+city_latitude: 34.5970402
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1820/05/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

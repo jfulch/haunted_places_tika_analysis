@@ -1,0 +1,21 @@
+city: Lyons
+country: United States
+description: The figure of a small girl has been reported to roam the halls of the Sheriff's Office at night by the 911 operators. She also roams the halls of the Probation Office across the hall. Employees have named her Lizzie. Office machinery will operate on it's own and doors have slammed by themselves. The training building behind the Jail is said to have the ghost of what people believe to be a man. Persons have reported that he walks around and bangs on the door dividing the two classrooms and trys to gain access.  Strange smells and sounds have also been heard. Jail employees have reported hearing steps in the tower/control room only for nobody to appear at the top.  The hand rail will shake and keys will rattle with great force.  Officers have seen the figure of a man on the security monitor waiting for the access door to be opened but when it is popped, there isn't anyone there and the screen will be clear when you look back.  Other officers have reported seeing the ghost of Sheriff Durst, for whom the building is named, roaming the halls. He died while in the middle of his term from health issues. THIS IS A LAW ENFORCEMENT COMPLEX, DO NOT TRESPASS ON THE GROUNDS OR YOU MAY BE TAKEN INTO CUSTODY.
+location: Toombs County Detention Center
+state: Georgia
+state_abbrev: GA
+longitude: -82.3303078
+latitude: 32.2029365
+city_longitude: -82.32179099999999
+city_latitude: 32.2043546
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

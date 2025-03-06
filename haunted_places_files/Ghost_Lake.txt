@@ -1,0 +1,21 @@
+city: Allamuchy
+country: United States
+description: Ghost Lake is located on Shades of Death Road in Allamuchy Township the local legends vary - but the prevailing theme is that there was an Indian Graveyard there and settlers built a man made lake over the graveyard. At night the Indians haunt the area - even we (locals) stay away. Plus there are MANY bear families there so be careful.
+location: Ghost Lake
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.922874
+latitude: 40.912799
+city_longitude: -74.8101664
+city_latitude: 40.921765
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1929/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

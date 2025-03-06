@@ -1,0 +1,19 @@
+city: Lancaster
+country: United States
+description: There is a long rope hanging from a bluff approximately 2 miles from center hill dam. It is said that a while back a man hung himself there and the rope was so long that rescuers merely cut him down as opposed to climbing the bluff and removing the rope. Some people say that on nights when there his no moon you can drive be and see the shape of a man hanging there, but if you get out of the car it is gone.
+location: hanging rope
+state: Tennessee
+state_abbrev: TN
+city_longitude: -85.8552893
+city_latitude: 36.1278556
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

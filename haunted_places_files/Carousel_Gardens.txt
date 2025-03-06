@@ -1,0 +1,20 @@
+city: Seymour
+country: United States
+description: haunted by a woman who used to live there. It was a mansion converted into a restaurant in the mid 60's. Now the story is, that she lived there with her brother for many years, but they rarely spoke, and they say, for this reason, she haunts this place.
+location: Carousel Gardens
+state: Connecticut
+state_abbrev: CT
+longitude: -90.098917
+latitude: 29.987146
+city_longitude: -73.07475339999999
+city_latitude: 41.397146
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

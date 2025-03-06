@@ -1,0 +1,19 @@
+city: Dawson Springs
+country: United States
+description: It is a site where a mine ran under a part of early Dawson Springs. The mine was abandoned and eventually collapsed taking the houses on top of it down with it. At night if you stay you will see a strange fog come in, after that you will hear rocks start to fall.
+location: Miners Cemetery
+state: Kentucky
+state_abbrev: KY
+city_longitude: -87.6925074
+city_latitude: 37.1672684
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

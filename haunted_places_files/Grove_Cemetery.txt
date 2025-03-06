@@ -1,0 +1,20 @@
+city: Troy
+country: United States
+description: The entrance to the cemetery is surrounded by nothing but woods and the entrance is barely wide enough for a car. After you drive or walk up two smaller hills, the cemetery is on the left. The latest burial in here is from the 1800's. There is one lonely tree in the middle. At night, you can hear footsteps all around you in the woods, footsteps, which sound like walking on concrete, in the top of the tree and what appears to be the shrieking of a woman who is often heard after an Owl. On some nights you can hear moaning from the far back left corner of the cemetery. Rumor is, a woman in the 1870's was raped and murdered here while visiting her grandfather’s grave.
+location: Grove Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -84.22856259999999
+latitude: 40.0866188
+city_longitude: -84.20327669999999
+city_latitude: 40.0394982
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

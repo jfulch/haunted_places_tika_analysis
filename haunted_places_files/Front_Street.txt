@@ -1,0 +1,21 @@
+city: Natchitoches
+country: United States
+description: The old area part of the town is known as front street. Many of the town residents and shop owners of front street have reported seeing a man dressed in confederate uniform roaming the bricked street.
+location: Front Street
+state: Louisiana
+state_abbrev: LA
+longitude: -93.0860688
+latitude: 31.7612055
+city_longitude: -93.0862749
+city_latitude: 31.7607195
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

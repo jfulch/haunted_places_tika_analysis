@@ -1,0 +1,21 @@
+city: Grangeville
+country: United States
+description: there was a very old house on the site where the present day forest service building is. Witnesses heard footsteps, a voice singing, and someone speaking in a foreign language. Also reports of a shadow of something that walked right in front of them. It was darker than the room they were in. 1 witness swears that someone pulled his hair. Rumors that numerous Chinese slave laborers had been killed in the old days of the railroad being put into the area.
+location: Forest Service Building
+state: Idaho
+state_abbrev: ID
+longitude: -116.120001
+latitude: 45.9390108
+city_longitude: -116.1223654
+city_latitude: 45.926552
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

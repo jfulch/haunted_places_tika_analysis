@@ -1,0 +1,20 @@
+city: Pembroke
+country: United States
+description: Radios, light's would turn of you can feel cold spot's and a feeling of someone watching you.
+location: Medco Center of Pembroke (Nursing Home)
+state: Kentucky
+state_abbrev: KY
+longitude: -87.3547009
+latitude: 36.77908
+city_longitude: -87.3555622
+city_latitude: 36.775878
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1890/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Nevada City
+country: United States
+description: Apparent hauntings occur here. Built in the late 1800's the building was restored recently with the exception of the left wing. Lights flicker, cold spots and creepy feeling in this wing of the building. The hotel has hosted miners and tourists who come looking for hauntings.
+location: The National Hotel
+state: California
+state_abbrev: CA
+longitude: -121.0179185
+latitude: 39.2622052
+city_longitude: -121.0160594
+city_latitude: 39.2615606
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/12/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

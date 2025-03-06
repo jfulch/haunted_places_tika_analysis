@@ -1,0 +1,21 @@
+city: District of Columbia
+country: United States
+description: Adams Hotel - This hotel was built in 1927 on the site of the mansion of Presidential Advisor Henry Adams in the 1880's. The wife of the original mansion owner, Marian Hooper Adams, was found dead in front of the fireplace, either by illness, murder or suicide. Throughout the hotel her spirit has been seen or felt. At night, the scent of Mimosa is in the air on the eighth floor and the housekeeping closet on the 6th floor will NEVER stay locked after repeated lockings with the key by security. One reported incident by the hotel's security chief in 1997 showed that all the guest room doors opened at the same time on the 2nd floor. Marion Adams is buried in Rock Creek Cemetery with her grave covered by a large statue (by sculptor Augustus Saint-Gaudens) of a hooded woman. If you stand in front of this statue and look upon it, you will begin to cry. This statue has been called GRIEF. You will also notice that the chandelier of the hotel's lobby constantly sways.
+location: The Hay
+state: Washington DC
+state_abbrev: DC
+longitude: -77.03694999999999
+latitude: 38.900519
+city_longitude: -77.0368707
+city_latitude: 38.9071923
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1927/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

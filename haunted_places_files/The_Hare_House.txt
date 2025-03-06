@@ -1,0 +1,21 @@
+city: Noblesville
+country: United States
+description: Another historic building on South 8th Street in Noblesville. It was owned by one of the founding families in Noblesville. The house was used for some time as a funeral parlor. It was moved and restored in a new location within the past few years. Hauntings that have been reported include "a creepy feeling when being upstairs," "a white lady with a candle on the staircase," and "a little boy who runs around, pointing and giggling at people."
+location: The Hare House
+state: Indiana
+state_abbrev: IN
+longitude: -85.9977469
+latitude: 40.0296095
+city_longitude: -86.0085955
+city_latitude: 40.0455917
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1989/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

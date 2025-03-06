@@ -1,0 +1,21 @@
+city: La Habra Heights
+country: United States
+description: This 80 year-old golf club has many elderly members and a lot of these members passed away while at the club. Strange occurrences at the club include noises, lights that come on by themselves, and especially, there are dark shadows that move in the corridors and on the golf course.
+location: Hacienda Golf Club
+state: California
+state_abbrev: CA
+longitude: -117.9467874
+latitude: 33.9596782
+city_longitude: -117.9506186
+city_latitude: 33.9608461
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.216666666666669
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

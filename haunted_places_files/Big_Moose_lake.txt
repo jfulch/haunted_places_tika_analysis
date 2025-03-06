@@ -1,0 +1,21 @@
+city: Adirondack Mountains
+country: United States
+description: This was featured on unsolved mysteries and is the topic of books, and a movie called a place in the sun. In the early 1900s Grace Brown was drowned by her fiance, Chester Gilette. She haunts a cabin. Reports say that they have tried to pull the string on a light and they feel a cold hand, see her drowning, or see apparitions at the lake..
+location: Big Moose lake
+state: New York
+state_abbrev: NY
+longitude: -74.849251
+latitude: 43.8315505
+city_longitude: -73.8693043
+city_latitude: 44.1247154
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

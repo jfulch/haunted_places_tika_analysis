@@ -1,0 +1,20 @@
+city: Bristol
+country: United States
+description: Feelings of being followed, now a high ropes course, occasionally hearing ropes tighten as if being swung from, loud footsteps in the leafy ground, whispers, and shouts, over all spookiness.
+location: Pine Lake Area
+state: Connecticut
+state_abbrev: CT
+longitude: -72.9067896
+latitude: 41.6628518
+city_longitude: -72.9492703
+city_latitude: 41.67176480000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

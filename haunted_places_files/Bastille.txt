@@ -1,0 +1,21 @@
+city: Hanford
+country: United States
+description: Now a bar, used to be a jail. People died in there and now tend to haunt the bar and frighten the cooks in the kitchen. New stairs leading to the bathroom become old and frail on occasions.
+location: Bastille
+state: California
+state_abbrev: CA
+longitude: -119.6462334
+latitude: 36.3285652
+city_longitude: -119.6456844
+city_latitude: 36.3274502
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

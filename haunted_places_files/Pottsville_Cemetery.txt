@@ -1,0 +1,21 @@
+city: Pottsville
+country: United States
+description: Candlelight is often seen floating the day before a body is to be buried.
+location: Pottsville Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.2080768
+latitude: 40.6815797
+city_longitude: -76.195499
+city_latitude: 40.6856456
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1993/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

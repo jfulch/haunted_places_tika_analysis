@@ -1,0 +1,21 @@
+city: Woburn
+country: United States
+description: A horsefarm which closed down in the late 1990s due to chemicals and unsafe drinking water. The main building burnt down in the early 2000s, and the family house was recently demolished. The only things that remain are the big trailers, and the smaller house. There is a playground in the field that's terribly overgrown. Many report sightings of a white figure roaming on either sides of the dirt road leading to the farm. Strange noises are heard, as well as sightings of an abandoned ice cream truck in the woods.
+location: Winning Farm
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.12477799999999
+latitude: 42.506723
+city_longitude: -71.1522765
+city_latitude: 42.4792618
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

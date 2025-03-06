@@ -1,0 +1,21 @@
+city: Grayling
+country: United States
+description: Voices heard early in the mornings, if you are sitting in the river bottoms.
+location: Hartwick Pines River Bottom
+state: Michigan
+state_abbrev: MI
+longitude: -84.66777259999999
+latitude: 44.7497134
+city_longitude: -84.7147512
+city_latitude: 44.6614039
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

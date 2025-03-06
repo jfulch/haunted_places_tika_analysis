@@ -1,0 +1,21 @@
+city: Pleasant Ridge
+country: United States
+description: hauntings dating back to the 1950s, if your there at around nine o clock at night to round three in the morning you can see people inside loading things onto the shelves, ask anyone in the area they'll tell you.
+location: corner store
+state: Kentucky
+state_abbrev: KY
+longitude: -85.4116751
+latitude: 36.7591689
+city_longitude: -86.9872165
+city_latitude: 37.5983823
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

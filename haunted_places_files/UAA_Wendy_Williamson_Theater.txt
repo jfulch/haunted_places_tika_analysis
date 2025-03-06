@@ -1,0 +1,21 @@
+city: Anchorage
+country: United States
+description: The Wendy is haunted by several different ghosts, but most distinctly a lady in white, a poltergeist in the light booth, and a man who pushes females down stairs.
+location: UAA Wendy Williamson Theater
+state: Alaska
+state_abbrev: AK
+longitude: -149.8334955
+latitude: 61.18871040000001
+city_longitude: -149.9002778
+city_latitude: 61.2180556
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/11/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 10h 52m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

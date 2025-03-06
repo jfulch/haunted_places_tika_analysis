@@ -1,0 +1,21 @@
+city: Hazleton
+country: United States
+description: After a basketball game a kid fell down 4 flights of stairs in the old Holy Trinity School and now is haunting the Holy Trinity School that is there now.
+location: Green Street
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.9712456
+latitude: 40.9543585
+city_longitude: -75.97464719999999
+city_latitude: 40.9584181
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

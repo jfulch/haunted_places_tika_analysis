@@ -1,0 +1,19 @@
+city: Forest Park
+country: United States
+description: it has a shed and when you walk towards the shed at night, you'll get this really weird feeling in the pit of your stomach, and it feels like something is pulling your soul out of you. For the next few days you will feel like you are invisible or like nothing around you is real.
+location: cemetery across the street from the teen center
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.36909179999999
+city_latitude: 33.6220542
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2017/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

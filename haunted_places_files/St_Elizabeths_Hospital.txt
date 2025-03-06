@@ -1,0 +1,21 @@
+city: District of Columbia
+country: United States
+description: Records/Museum building - formerly the main structure - a former employee reports Having worked on the grounds of St. Elizabeth's in 1987, not only did they experience strange phenomena, but many of the co-workers did as well. The original structure, now sort of a records/museum building, was the location of many violent deaths. Among these deaths are:
+location: St. Elizabeth's Hospital
+state: Washington DC
+state_abbrev: DC
+longitude: -76.9916557
+latitude: 38.8441371
+city_longitude: -77.0368707
+city_latitude: 38.9071923
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

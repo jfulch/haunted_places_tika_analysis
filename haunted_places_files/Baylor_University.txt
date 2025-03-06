@@ -1,0 +1,21 @@
+city: Waco
+country: United States
+description: Baylor Residential - Formerly listed as Brooks Hall - At Baylor University, the oldest college in the state of Texas, exists a mysterious phantom on the abandoned fifth floor of the oldest dorm on campus. Violin music is heard in the dead of night and chilling sightings of a cloaked figure in top hat and cloak staring down and illuminated by an eerie candlelight have been widely reported by spooked residents. Investigations have wielded little fact but the enormous amount of eyewitness accounts and spine tingling sightings have given the legend a grand following. One night the shattering of glass was reported as the phantom peered down and paused his playing and in a fit of apparent rage struck a window. Come morning when level heads prevailed and the storm of the previous night had passed, no damage was found. Still the unpredictable toiling of the phantom have attracted audiences in the witching hour in hopes of catching a glimpse of the mysterious floating candlelight that often hovers from room to room and then vanishes only to appear in the other wing of the building. One unsettling account recollects the viewing of a noose and dangling of a shadowy corpse after the phantom finished the evening’s mournful serenade. Still more haunting is the episode on record of the lights failing the building and an ungodly tapping and cold sensation filtrating the respective doors of the fourth floor of the building. Only one resident dared investigate the unwelcome visitors calling. It is claimed that he peered into pitch darkness to find the horrific silhouette of a cloaked figure in a top hat turn and stare him down through the darkness and calmly vanish out of sight as he glided parallel down the corridor, needless to say it was not pursued. The university has failed to satisfy rumors of hauntings and has downplayed the events for close to half a century now. The Victorian styled villain who roams the corridors of the uninhabited floor and occasionally mingles with the living loves to make an entrance, the hoax is to elaborate for any collegiate prankster and the tradition has endured for too long. Perhaps the only explanation is that the phantom is ultimately unexplainable. - October 2007 Update – This old hall was recently torn down. A new Baylor residential college has been built in it's place.
+location: Baylor University
+state: Texas
+state_abbrev: TX
+longitude: -97.1143146
+latitude: 31.549841
+city_longitude: -97.1466695
+city_latitude: 31.549333
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

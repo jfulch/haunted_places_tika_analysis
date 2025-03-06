@@ -1,0 +1,21 @@
+city: Fremont
+country: United States
+description: old Senior Hall - the rest of the school was recently rebuilt, but the senior hall is part of the original plan. Students in there at night including myself have reported hearing more than one set of footsteps in the hall, even though they are the only ones in the hall.
+location: Washington High School
+state: California
+state_abbrev: CA
+longitude: -121.9948276
+latitude: 37.5528198
+city_longitude: -121.9885719
+city_latitude: 37.5482697
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2001/03/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

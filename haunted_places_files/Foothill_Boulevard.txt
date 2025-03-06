@@ -1,0 +1,21 @@
+city: Fontana
+country: United States
+description: Formerly part of Route 66 - Between the cross streets Cherry and Citrus, a young man will appear wearing a striped shirt and carrying a long stick. He then crosses the street right as cars approach. When the car hits its breaks, the man disappears. Witnesses also claim to see the ghost walking along the right side of the road. He has a black dog at his side.
+location: Foothill Boulevard
+state: California
+state_abbrev: CA
+longitude: -117.459483
+latitude: 34.1066098
+city_longitude: -117.435048
+city_latitude: 34.0922335
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Marietta
+country: United States
+description: Currently a Historic House Museum. This Victorian mansion has been the setting for numerous ghost stories. It has changed hands several times and many of its owners have died in the house (at least 3). A true ghost story accompanies every single room in the house, ranging from odd sounds, a haunted clock, temperature changes, to sightings of ghosts. In October, the museum hosts ghost tours where the stories are told.
+location: The Castle
+state: Ohio
+state_abbrev: OH
+longitude: -81.4549334
+latitude: 39.4205341
+city_longitude: -81.45484359999999
+city_latitude: 39.41535200000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

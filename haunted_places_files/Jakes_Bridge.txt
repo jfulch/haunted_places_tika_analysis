@@ -1,0 +1,21 @@
+city: Hutto
+country: United States
+description: Its off a county road near a commentary where supposedly a man killed his wife and kid then hung himself off the bridge. Well the bridge is what is haunted, if you park your car into neutral he will push your car across the bridge which is totally flat.
+location: Jakes Bridge
+state: Texas
+state_abbrev: TX
+longitude: -97.565301
+latitude: 30.4630015
+city_longitude: -97.5466702
+city_latitude: 30.54269949999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

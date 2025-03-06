@@ -1,0 +1,21 @@
+city: Muncie
+country: United States
+description: A family moved into the possible haunted home on West 6th Street in Muncie after the landlord lowered the rent. He explained to the family that previous tenants didn't want to stay longer than 2 months. After the family had lived there for a while, the children were scared of the upstairs playroom because of the old lady that lived there. The old lady that the kids were seeing was a ghost. Later unexplained happenings were pacing sounds in the playroom, kids tucked into bed, and items in the kitchen, such as mayonnaise being moved. A boy had died in the bedroom and his mother died there years afterwards. I have also heard about weird occurrences like past tenants waking up and having some sort of oil dumped on them. The new tenant of the home believes it's haunted also. There is a road in Jay County, Indiana where if you drive it from one direction, it's a normal road. If you drive from the opposite direction, there looks to be blood forever stained on the road. It has been given the name "Blood Road."
+location: Apartment on West 6th
+state: Indiana
+state_abbrev: IN
+longitude: -85.38737929999999
+latitude: 40.1905201
+city_longitude: -85.3863599
+city_latitude: 40.1933767
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1935/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

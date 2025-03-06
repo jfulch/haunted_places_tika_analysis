@@ -1,0 +1,20 @@
+city: Derby
+country: United States
+description: People have been known to see a little girl and a teenage boy wondering the halls and auditorium of this school. Cold flashes and spots are some of the effects to the persons investigating the school. Several police and fire fighters have also witnessed these encounters.
+location: Irving School
+state: Connecticut
+state_abbrev: CT
+longitude: -73.0885258
+latitude: 41.3276675
+city_longitude: -73.0889973
+city_latitude: 41.3206523
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

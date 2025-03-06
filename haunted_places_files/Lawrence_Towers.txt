@@ -1,0 +1,21 @@
+city: Edinboro
+country: United States
+description: On the 5th floor of Lawrence Towers A, it is rumored that a college student (music major) who lived in room 517 hung herself. It is said she was depressed. Rumor has it that the floor was closed down for a few years being "renovated." You can hear a soft voice singing some nights. You may also feel a strong presence when walking through the halls at night - almost as if you want to run back into your room.
+location: Lawrence Towers
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.11677379999999
+latitude: 41.87105589999999
+city_longitude: -80.1317236
+city_latitude: 41.87422249999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1872/12/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

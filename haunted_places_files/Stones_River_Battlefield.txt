@@ -1,0 +1,21 @@
+city: Murfreesboro
+country: United States
+description: Stop no.4 is an incredible cold feeling just being there; felt cold presence at the Wilder Watch Tower..
+location: Stones River Battlefield
+state: Tennessee
+state_abbrev: TN
+longitude: -86.4353295
+latitude: 35.8771781
+city_longitude: -86.39027
+city_latitude: 35.8456213
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2023/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

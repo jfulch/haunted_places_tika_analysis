@@ -1,0 +1,21 @@
+city: Harlingen
+country: United States
+description: Teachers have reported that fifty years ago a child was beaten to death by another student in the old girl's bathroom and if you stay alone in there you can hear soft cries coming from the last stall.
+location: Dishman Elementary
+state: Texas
+state_abbrev: TX
+longitude: -97.7308918
+latitude: 26.2523089
+city_longitude: -97.6961026
+city_latitude: 26.1906306
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

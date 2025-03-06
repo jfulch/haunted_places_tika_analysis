@@ -1,0 +1,21 @@
+city: Los Lunas
+country: United States
+description: Otero Mansion - about 20 miles south of Albuquerque, the ghost of Josefita Otero has appeared in numerous rooms here.
+location: Luna
+state: New Mexico
+state_abbrev: NM
+longitude: -106.7571353
+latitude: 34.7581742
+city_longitude: -106.7333599
+city_latitude: 34.806166
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/10/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

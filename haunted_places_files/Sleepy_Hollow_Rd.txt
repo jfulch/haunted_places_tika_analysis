@@ -1,0 +1,20 @@
+city: Lockhart
+country: United States
+description: It has been known that, ever night around midnight, a civil war soldier, with his arm cut off, stands on the side of the road, crying out for help.
+location: Sleepy Hollow Rd.
+state: South Carolina
+state_abbrev: SC
+longitude: -81.4795846
+latitude: 34.7695474
+city_longitude: -81.46204019999999
+city_latitude: 34.7865238
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 0

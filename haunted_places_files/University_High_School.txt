@@ -1,0 +1,21 @@
+city: Waco
+country: United States
+description: There are strange noises in the gym during basketball games when somebody goes in the boys restroom they can hear two boys talking to each other there but when you go in you won't see nobody.
+location: University High School
+state: Texas
+state_abbrev: TX
+longitude: -97.13665
+latitude: 31.504484
+city_longitude: -97.1466695
+city_latitude: 31.549333
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Virginia Beach
+country: United States
+description: Elbow Road - Elbow Road is known to be haunted by a Mrs. Woble. She once lived on this road and the story goes she was murdered and her body was never recovered. To this day, people have seen strange occurrences at night, including lights turning on and off in an imaginary house, believed to be Mrs. Woble's. there is a certain curve on elbow road that if you go there around midnight and sit on the hood of your car, and if your very quiet you can start to see small, childlike footprints start to walk toward your car. it is supposedly the ghost of a little girl who drowned in the lake one day when her and her father were fishing.
+location: Chesapeake
+state: Virginia
+state_abbrev: VA
+longitude: -76.1202127
+latitude: 36.9154251
+city_longitude: -75.97798499999999
+city_latitude: 36.8529263
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

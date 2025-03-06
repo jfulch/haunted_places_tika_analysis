@@ -1,0 +1,18 @@
+city: Boonville
+country: United States
+description: has been known to be haunted by the ghosts of French settlers trying to reach Canada. On warm summer nights many people have reported hearing the creak of the wagon wheels.
+location: Lovers Lane road (Formerly the old French road)
+state: New York
+state_abbrev: NY
+city_longitude: -75.27123929999999
+city_latitude: 43.4617021
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1793/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

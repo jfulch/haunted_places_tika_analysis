@@ -1,0 +1,19 @@
+city: Cranberry
+country: United States
+description: The original owners claimed that there were at least twelve Indian burial mounds on this site that were later plowed under for farming. Workers clearing the land unearthed bones dating back to 200 BC. Pinehurst residents have reported countless unexplained phenomena.
+location: Pinehurst Subdivision
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -80.1071379
+city_latitude: 40.6849626
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

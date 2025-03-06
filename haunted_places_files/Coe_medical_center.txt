@@ -1,0 +1,20 @@
+city: Cody
+country: United States
+description: Two nuns can be seen floating down the halls, and weird noises are reported.
+location: Coe medical center
+state: Wyoming
+state_abbrev: WY
+longitude: -109.0854836
+latitude: 44.5162615
+city_longitude: -109.0565308
+city_latitude: 44.52634219999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

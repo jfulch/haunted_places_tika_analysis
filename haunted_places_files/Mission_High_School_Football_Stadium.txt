@@ -1,0 +1,21 @@
+city: Mission
+country: United States
+description: Some believe a young girl at this school fell from the top of bleachers and died, & her ghost now haunts the bleachers at dusk. There are conflicting submissions that say no one has ever fallen off the bleachers. There may be other reasons as to way it is haunted.
+location: Mission High School Football Stadium
+state: Texas
+state_abbrev: TX
+longitude: -98.3301169
+latitude: 26.2210028
+city_longitude: -98.3252932
+city_latitude: 26.2159066
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 38m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: A young boy that goes by the name of Toby committed suicide after his girlfriend left him for someone else. Many teachers and students have reported hearing doors open and close by them selves, loud hammering, objects moved from one place to another, a shadow roaming around the auditorium (where he hung himself from) and unexplained sounds coming from the second floor. Another young man reportedly drowned in the pool and has been seen walking around the gym hall and pool.
+location: Hollywood High School
+state: California
+state_abbrev: CA
+longitude: -118.3400514
+latitude: 34.099165
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Amboy
+country: United States
+description: There is a house that sits catty-corner from the 4-H Center, it is reported that in the 1800's a man was murdered in his home and buried 500 feet from the upstairs bathroom window. If you go into the master bedroom upstairs, (known as the warm room) no matter if it is the middle of winter the room feels heated. It is also reported that if you are looking into the lower level of the house from the outside you can see a small light appear from room to room.
+location: Franklin Blacktop
+state: Illinois
+state_abbrev: IL
+longitude: -89.3889526
+latitude: 41.8159557
+city_longitude: -89.3287061
+city_latitude: 41.71419969999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

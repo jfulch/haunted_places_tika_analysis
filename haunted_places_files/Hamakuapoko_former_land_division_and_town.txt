@@ -1,0 +1,19 @@
+city: Hamakuapoko
+country: United States
+description: between Paia and Haiku - This place holds great power. Once a thriving plantation town complete with sugar tycoons' mansions now razed, the only remaining structures is the former location of Maui High School; which is now a research facility. It is said that this area has many ghosts roaming this former land division. Ranging from ancient Hawaii, to missionary and plantation days, there are many spirits that wonder through out this region. Among them are choking ghosts that target students playing 'hooky' [not in participating school session]. There are also reports of a spirit of a girl who haunts the girl’s bathroom in old Maui High. Hiding in the now boarded up restroom, you can hear sobbing and crying behind the doors.
+location: Hamakuapoko [former land division and town]
+state: Hawaii
+state_abbrev: HI
+city_longitude: -156.3480556
+city_latitude: 20.9219444
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

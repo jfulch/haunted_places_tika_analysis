@@ -1,0 +1,21 @@
+city: Genoa
+country: United States
+description: The Dake House is known to be haunted by many spirits. It is now an antique shop. It was once home to the local undertaker. Afterwards, it became a family home. The Dake house is very old, and it's most common spirit is of an old woman. Workers report seeing an old woman in a housecoat walking around after everything was locked up. Some people also report being slapped or pushed. I have been there many times.
+location: The Dake House
+state: Nevada
+state_abbrev: NV
+longitude: -119.845249
+latitude: 38.999182
+city_longitude: -119.8472149
+city_latitude: 39.0040567
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

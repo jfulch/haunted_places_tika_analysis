@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: Built over an ancient Hawaiian Heiau (place of worship and/or human sacrifice). Also in about the early 80's a school bus full of children crashed at the same area where the Heiau was located. The Manifestations in this building are that an old man in his late 50's sits watching you from a top corner seat in theater # 14. Also in the bathroom right next to the theater you can hear the voices of the children and the bus driver.
+location: The Dole Cannery Signature Theaters
+state: Hawaii
+state_abbrev: HI
+longitude: -157.870406
+latitude: 21.315783
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

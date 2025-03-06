@@ -1,0 +1,19 @@
+city: Bethany Beach
+country: United States
+description: Rooms 1, 6 11 are haunted by different ghosts.
+location: Addy-Sea Inn
+state: Delaware
+state_abbrev: DE
+longitude: -75.0554685
+latitude: 38.5441785
+city_longitude: -75.0551806
+city_latitude: 38.5395564
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Brooklyn
+country: United States
+description: This school is known to be haunted. Many students believe there is a ghost named Clarence haunting the halls and a ghost named John haunting the lower floors. John was a student at Brooklyn Middle School seventy-five years ago. After his graduation ceremony, John died in a car wreck. He was a rather shy student that was frequently picked on. People say that he watches out for students who are bullied. The origin of Clarence is unknown.
+location: Brooklyn Middle School
+state: Ohio
+state_abbrev: OH
+longitude: -81.7499083
+latitude: 41.4305769
+city_longitude: -81.7512107
+city_latitude: 41.4301349
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

@@ -1,0 +1,18 @@
+city: Owensboro
+country: United States
+description: The woods around the lake where long ago a man and his wife lived. One day he was getting water from his well and fell in it to his death. His wife got the body and buried him. The well is still there and residents have reported there being a man with a bucket and wet standing beside the well.
+location: Maiden Lake
+state: Kentucky
+state_abbrev: KY
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

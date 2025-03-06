@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: In 1990, the station was at a building called The Wilcox Mansion. It actually went there on career day back in 1986. It was a beautiful mansion that used to be a living area, but has since been turned into offices. Some of the stories are the grand piano being played when no one but the graveyard DJ is there. Also stories of the massive chandelier swinging for no reason, and this was a massive thing that you usually see in movies. DJ's have been spooked so much in the past, that they had been known to have locked themselves in the DJ booth while working the graveyard shift. KWJJ moved out of the building a few years back.
+location: KWJJ Radio Station
+state: Oregon
+state_abbrev: OR
+longitude: -122.6703092
+latitude: 45.4926031
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

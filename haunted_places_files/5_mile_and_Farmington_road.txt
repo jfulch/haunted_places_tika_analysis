@@ -1,0 +1,21 @@
+city: Livonia
+country: United States
+description: At Farmington Grave yard you can see 3 little girls and there dad walking across the street and back at 12 midnight every night.
+location: 5 mile and Farmington road
+state: Michigan
+state_abbrev: MI
+longitude: -83.373699
+latitude: 42.3970209
+city_longitude: -83.35270969999999
+city_latitude: 42.36837
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1836/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

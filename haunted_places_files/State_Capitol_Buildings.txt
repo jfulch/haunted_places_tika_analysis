@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Many security guards see a woman in a long dress. She is seen there often, and in four or five nearby buildings. People report sounds of voices, footsteps, and doors.... Cold spots too.
+location: State Capitol Buildings
+state: Colorado
+state_abbrev: CO
+longitude: -104.9848069
+latitude: 39.73932509999999
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

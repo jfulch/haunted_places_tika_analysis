@@ -1,0 +1,21 @@
+city: Riverview
+country: United States
+description: Apparitions seen.
+location: Corner of Sibley and Grange
+state: Michigan
+state_abbrev: MI
+longitude: -83.2125219
+latitude: 42.1698759
+city_longitude: -83.1793697
+city_latitude: 42.1742073
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

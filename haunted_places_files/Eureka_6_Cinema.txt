@@ -1,0 +1,20 @@
+city: Eureka
+country: United States
+description: When closing the theater at night, employees have seen a face peering at them from the projection booth window. This occurs after the theatre is locked and no one can be found in the booth. - March 2008 update – has been torn down.
+location: Eureka 6 Cinema
+state: Missouri
+state_abbrev: MO
+longitude: -90.6297461
+latitude: 38.5807537
+city_longitude: -90.6279044
+city_latitude: 38.5025537
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Athens
+country: United States
+description: is haunted as students have reported hearing strange voices and seeing dark figures moving near the spot where two trees grew side by side for 165 years. Believed to be a spot where two star-crossed lovers were buried.
+location: Wesleyan College
+state: Tennessee
+state_abbrev: TN
+longitude: -84.594427
+latitude: 35.445317
+city_longitude: -84.5929898
+city_latitude: 35.4428512
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

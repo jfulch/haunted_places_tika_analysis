@@ -1,0 +1,19 @@
+city: Birmingham
+country: United States
+description: At the apartments, they say that there was a horrible homicide in the 1970's. Every year in January on the anniversary of the murders, blood appears to ooze from the upstairs foyer, the stench of burning human flesh is pungent, and one woman even reported feeling fingers caress her neck and bosom. Many believe the apparition to be that of the murderer who was never found.
+location: Parkwood Apartments on 4th Ave South in Birmingham
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.80248999999999
+city_latitude: 33.5206608
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

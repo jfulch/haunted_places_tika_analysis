@@ -1,0 +1,21 @@
+city: Lewisburg
+country: United States
+description: This court house has stood for many years, the court house and once town jail are linked together. Many people from murderers, to rapists, were tried in this place and sentenced to life. at night time you can hear horrifying moans coming from inside and out side of the court house. On one occasion there was a report of two teenagers that got chased down the street by a man with a knife. They said it was real misty looking but you could still make out that it was a man with a knife.
+location: Lewisburg courthouse
+state: West Virginia
+state_abbrev: WV
+longitude: -80.44528910000001
+latitude: 37.8030977
+city_longitude: -80.44563029999999
+city_latitude: 37.8017879
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

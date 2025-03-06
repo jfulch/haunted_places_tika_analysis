@@ -1,0 +1,20 @@
+city: Hopewell
+country: United States
+description: Witnesses have heard a an inhuman howling in the woods next to the graveyard, a ghost lady, tall, w/ a long fancy gown and a big dress hat. There has been a glowing ball seen by numerous people that circles the steeple of the church at the graveyard and we have also heard the windows rattling by themselves.
+location: Hopewell Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -90.7026418
+latitude: 37.88769560000001
+city_longitude: -90.7029064
+city_latitude: 37.8875499
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

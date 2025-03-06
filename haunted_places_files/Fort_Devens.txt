@@ -1,0 +1,21 @@
+city: Ayer
+country: United States
+description: Lights flash in buildings that have been un used for many years. Also in the old movie house a piano is heard by the police who watch the area and it is said that the dogs stay away from the building that they are to scared.
+location: Fort Devens
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.6139348
+latitude: 42.5455027
+city_longitude: -71.58990539999999
+city_latitude: 42.5611947
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Rush
+country: United States
+description: A young woman that died just before the "rush" began is said to have died during childbirth. The child also died during the birth. According to friends, her main purpose in life was to be a mother. She was said to appear in the midwife's house in which the birth took place asking, "Where's my baby girl?" until the midwife was driven mad and taken away. The house is one of the few still standing in the ghost town. It was moved to this location from it's remote location in the forest near the settlement.
+location: Rush City On The Buffalo River
+state: Arkansas
+state_abbrev: AR
+longitude: -92.5710601
+latitude: 36.1325645
+city_longitude: -92.5710601
+city_latitude: 36.1325645
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

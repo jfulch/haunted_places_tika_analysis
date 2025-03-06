@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: Hankey Church Cemetery - Rumors are to be believed that if the gates on the front entrance of the cemetery are closed that the spirits are kept in. If there opened then this means that the spirits are wondering
+location: Plum
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.925344
+latitude: 40.4596533
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1774/03/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

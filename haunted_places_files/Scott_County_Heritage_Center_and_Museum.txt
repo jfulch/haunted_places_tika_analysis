@@ -1,0 +1,21 @@
+city: Scottsburg
+country: United States
+description: This building was originally the county poor farm. Many families who lost everything and had no where else to go came here. We are currently turning it into a county history museum. The building is haunted by former residents who liked living there so much that they refused to leave. We've heard a baby crying, footsteps on the second floor when no one is up there; strange odors; and the lights being turned on when the building is closed. This building will be open for tours starting in October. A fee will be charged.
+location: Scott County Heritage Center and Museum
+state: Indiana
+state_abbrev: IN
+longitude: -85.77068100000001
+latitude: 38.673241
+city_longitude: -85.7702451
+city_latitude: 38.685614
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Wenona
+country: United States
+description: One of the oldest cemeteries in the area, it has had a hundred ghost stories surrounding it, including that of a "headless woman" whose jealous husband cut her head off on a stump in the cemetery and of a apparition that appears in a nearby barn.
+location: Cumberland Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -89.1472299
+latitude: 41.0855459
+city_longitude: -89.05035869999999
+city_latitude: 41.0525331
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

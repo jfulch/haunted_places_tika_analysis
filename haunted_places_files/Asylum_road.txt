@@ -1,0 +1,21 @@
+city: Catonsville
+country: United States
+description: On the property there is an abandoned mansion closed to the public and at times when people pull up to it and stop in front if it there are whispers heard and mysterious tapping or banging heard from the inside. There are also people seen walking and as a person approaches the person walking disappears.
+location: Asylum road
+state: Maryland
+state_abbrev: MD
+longitude: -76.72711749999999
+latitude: 39.2639109
+city_longitude: -76.73191609999999
+city_latitude: 39.2720509
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

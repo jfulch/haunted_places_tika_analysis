@@ -1,0 +1,19 @@
+city: Marietta
+country: United States
+description: Large objects will be thrown if set on ground, orbs, lightning, mist, very cold winds, shrieking, kids laughing, chanting, yelling, screaming all around a bad place to go. People have come back and had large bruises and fang marks on legs, upper arms, wrists and necks. Crucifixes, prayer, holy water only make whatever is there mad. If you go, wear no crosses or anything Christian like. Weekends are the worst time. - WARNING - There is no trespassing on this site. Trespassers will go to jail, no exceptions. Before you do an investigation, ALWAYS make sure it is not private property, and get permission!!
+location: Devil's Turnaround
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.5499327
+city_latitude: 33.95260200000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Highland falls
+country: United States
+description: Being that West Point is the oldest military post in the United States the area has it's fair share of "history". All you have to do is ask a Military Police officer or a cadet and you should get a good idea of where to look. I'll tell you what, this isn't for the faint of heart, you spend enough time here and you will see something.
+location: West Point USMA
+state: New York
+state_abbrev: NY
+longitude: -73.96396709999999
+latitude: 41.3736744
+city_longitude: -73.96625039999999
+city_latitude: 41.3692605
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1685/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Indianapolis
+country: United States
+description: A condominium in which an elderly lady died. One of the current residents, the son of the family, reports voices, objects moving, screams, bumps, knocks, footsteps, growls, bodiless shadows, electronics not working, candles going out, hot and cold spots, strange feelings, animals sensing something not there, strange dreams, the bed shaking, doors opening and closing, an orb once caught on digital photo, strange lights, and the strong smell of lilac. These have been reported around the house, but an overwhelming amount of the experiences have taken place in the son's former room. This room, strangely enough, is not the room she died in. She still haunts him in the house from time to time. No one else has reported any disturbance, but believe they happen.
+location: Waterbury Neighborhood
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Hilda
+country: United States
+description: There have been times that a train has been heard late nights and early in the morning.The horn of the train is very clear and you can hear the engine running along with the sound of the train going down the tracks.The railroad was pulled up several years ago.
+location: Main Street
+state: South Carolina
+state_abbrev: SC
+longitude: -81.24004459999999
+latitude: 33.2756269
+city_longitude: -81.24704969999999
+city_latitude: 33.273487
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Eastgate
+country: United States
+description: at night you see two people arguing in the woods and you periodically hear gun shots. This really happen as two friends went hunting one afternoon and both failed to return. it was a murder suicide. this is Really freaky
+location: Tealtown Road
+state: Ohio
+state_abbrev: OH
+longitude: -84.243409
+latitude: 39.1059213
+city_longitude: -84.1768795
+city_latitude: 39.0770072
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

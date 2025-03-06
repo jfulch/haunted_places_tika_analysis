@@ -1,0 +1,21 @@
+city: Dracut
+country: United States
+description: There are numerous accounts of ghostly visitors made by horse back riders from The Cutter Farm who take trail rides out in the forest. A Man from the Native American Reservation stalks the trails at sunset and into the night. You can hear screams and whispers from small children. Also, Native American shouts can be heard from deep within the forest.
+location: Dracut State Forest
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.36895129999999
+latitude: 42.6612017
+city_longitude: -71.3020052
+city_latitude: 42.6703687
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

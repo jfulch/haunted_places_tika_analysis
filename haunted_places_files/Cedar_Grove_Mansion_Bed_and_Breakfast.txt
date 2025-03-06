@@ -1,0 +1,20 @@
+city: Vicksburg
+country: United States
+description: The Queen Victoria Room is haunted by a hazy, transparent woman who appears at night in front of the room's right window and floats past the fireplace, then her figure disappears into the area behind the bed. Her footsteps remain, pacing back and forth in the spot that she vanished. This continues for a few hours until about half an hour before the sun comes up.
+location: Cedar Grove Mansion Bed and Breakfast
+state: Mississippi
+state_abbrev: MS
+longitude: -90.8848814
+latitude: 32.3409703
+city_longitude: -90.877882
+city_latitude: 32.3526456
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

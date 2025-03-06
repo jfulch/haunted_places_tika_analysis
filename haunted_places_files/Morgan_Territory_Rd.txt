@@ -1,0 +1,21 @@
+city: Clayton
+country: United States
+description: Morgan Territory Rd is a old logging road that was built back in the 1800's to bring wood from Santa Cruz to the Eastern Contra Costa County, the road cut thru between Livermore and Clayton, since this is a very isolated road there has been a lot that has happen on this road. one of the Legends is of Joaquin Murrieta California Bandit El Dorado, it is believed that Joaquin has buried his loot some where in the Morgan Territory area under a oak tree. and in the 1950's a woman and her husband were on there way home from Livermore when they saw a spirit standing next to a oak tree off the side of the road, not knowing the story about the loot at the tree they just thought that they were just seeing things. Due to the darkens of the road and being tired. once they started letting the story out to there friends and family they found out the story about the loot of Joaquin Murri eta, from time to time people still report seeing the ghost on Morgan Territory Rd. but they can never find the spot again when they go back to look for the loot that is believed to be buried there.
+location: Morgan Territory Rd
+state: California
+state_abbrev: CA
+longitude: -121.8558919
+latitude: 37.8743912
+city_longitude: -121.9357925
+city_latitude: 37.9410341
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

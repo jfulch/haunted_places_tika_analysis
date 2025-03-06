@@ -1,0 +1,21 @@
+city: New Providence
+country: United States
+description: A young women will appear in the corn field and you will hear her screaming. The young women killed herself out there, and it is her ghost that is known to haunt that very place.
+location: Reece park
+state: Iowa
+state_abbrev: IA
+longitude: -93.1911469
+latitude: 42.2542197
+city_longitude: -93.1715923
+city_latitude: 42.2810955
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1975/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

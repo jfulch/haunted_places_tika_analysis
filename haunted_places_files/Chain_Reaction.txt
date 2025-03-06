@@ -1,0 +1,21 @@
+city: Anaheim
+country: United States
+description: Employees report talking and laughing late at night in the back alley and in bathrooms. Upon investigation, no one is there. A bum was found dead in the back alley. Since then, the venue was converted from a Mexican restaurant to a club. It was formerly a biker bar, where there were many reported stabbings.
+location: Chain Reaction
+state: California
+state_abbrev: CA
+longitude: -117.9394996
+latitude: 33.8318986
+city_longitude: -117.9143012
+city_latitude: 33.8365932
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

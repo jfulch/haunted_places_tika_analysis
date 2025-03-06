@@ -1,0 +1,21 @@
+city: Mentone
+country: United States
+description: Story goes that a lady named Nancy Dollar lived near the falls in a little old house that can still be found today. After her death, thieves broke into her home, killed her faithful dog and stole all of her money, which she had been saving to buy her own tombstone. Mrs. Dollar was buried without any kind of marker, and shortly thereafter the apparition of an old lady was seen walking near the falls. So many sightings were reported that a collection was taken up to pay for her tombstone. After the marker was erected, the sightings decreased, but it's said that you can still see a phantom black dog running around her cabin.
+location: Desoto Falls
+state: Alabama
+state_abbrev: AL
+longitude: -85.5913109
+latitude: 34.5509989
+city_longitude: -85.5905204
+city_latitude: 34.5795282
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

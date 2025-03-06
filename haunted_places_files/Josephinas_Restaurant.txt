@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Larimer Square- Haunted by a female regular whose daughter from the prohibition era (the restaurant used to be a speak-easy) earlier in the century. The mirror in the women's bathroom has broken one-too-many times to be a coincidence as well as other freaky things (i.e. Whiskey bottles turning over by themselves, chair scooting from one end of the dining room to the other, etc.)
+location: Josephina's Restaurant
+state: Colorado
+state_abbrev: CO
+longitude: -104.9993113
+latitude: 39.7477667
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1858/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

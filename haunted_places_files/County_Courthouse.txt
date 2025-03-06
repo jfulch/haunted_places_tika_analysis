@@ -1,0 +1,21 @@
+city: Stockton
+country: United States
+description: At night in the underground area where the holding cells are (where the inmates are kept waiting for their court appearances), at night shouting can be heard when the place is empty. The night guard also reports hearing the holding cell door on the second floor slamming closed, also when no one is there.
+location: County Courthouse
+state: California
+state_abbrev: CA
+longitude: -121.2870975
+latitude: 37.9540028
+city_longitude: -121.2907796
+city_latitude: 37.9577016
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

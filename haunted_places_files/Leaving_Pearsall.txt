@@ -1,0 +1,21 @@
+city: Pearsall
+country: United States
+description: When You are going towards Charlotte there is a tree on the left side called the lizard tree an old man died there when he was jogging and if you go and call him,he will go and run after you even if you are in a car going 30 miles.
+location: Leaving Pearsall
+state: Texas
+state_abbrev: TX
+longitude: -99.111658
+latitude: 28.89487
+city_longitude: -99.095033
+city_latitude: 28.8921939
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1971/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

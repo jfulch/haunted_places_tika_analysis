@@ -1,0 +1,19 @@
+city: Watseka
+country: United States
+description: The Vennum House in is connection with the below mentioned, Watseka Manor. For the full story please check out their website at  http://thevennumhouse.com/ There is a SciFi Channel production scheduled for release in June 2008, and Troy Taylor's book on the story will be released this October. The link for Troy Taylor's book is http://www.prairieghosts.com/watseka.html
+location: Vennum House
+state: Illinois
+state_abbrev: IL
+city_longitude: -87.7364218
+city_latitude: 40.7761465
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

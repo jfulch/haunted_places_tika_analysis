@@ -1,0 +1,21 @@
+city: Fenton
+country: United States
+description: Several reports of activity in the Bar area, glasses breaking and shutters being opened or closed. Phantom drink orders taken by wait staff. Included in the book Haunted Michigan. Noises(footsteps, voices) reported in the upper levels by employees closing the restaurant at night. Has a long history in the town, used to serve as a Hotel, but has been a restaurant for many years. Many unexplained light flickering occurs also
+location: Fenton Hotel
+state: Michigan
+state_abbrev: MI
+longitude: -83.7046994
+latitude: 42.7988392
+city_longitude: -83.7049498
+city_latitude: 42.7978061
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

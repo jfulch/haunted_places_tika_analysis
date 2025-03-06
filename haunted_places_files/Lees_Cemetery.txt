@@ -1,0 +1,20 @@
+city: Verona
+country: United States
+description: A ghost truck has been seen chasing people from the graveyard. The truck speeds at the cars getting right up on the bumper then is just gone as if it were never there. Strange sounds have been heard in the cemetery as well as a fog that is there one minute and gone the next.
+location: Lees Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -93.1948911
+latitude: 37.1261131
+city_longitude: -93.7957591
+city_latitude: 36.9639476
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

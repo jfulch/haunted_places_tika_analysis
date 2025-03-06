@@ -1,0 +1,19 @@
+city: Logan County
+country: United States
+description: A Once Profitable Mine located on a Mountainside in a small community known as Ethel. Eerie presences are known to be seen near the Mine opening. Footsteps could clearly be heard echoing from deep within the cavern. A small light waving from within it's depths slowly passing back and forth.
+location: 1915 Abandoned Mine
+state: West Virginia
+state_abbrev: WV
+city_longitude: -81.9534815
+city_latitude: 37.7883016
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

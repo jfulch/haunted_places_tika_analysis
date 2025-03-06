@@ -1,0 +1,21 @@
+city: Fort Lewis
+country: United States
+description: The cadences of platoons of soldiers running is often heard early in the morning, long before any unit of this size is conducting runs. Soldiers look outside to see whom it is, and no one is there.
+location: North Fort Lewis
+state: Washington
+state_abbrev: WA
+longitude: -122.6004521
+latitude: 47.12397439999999
+city_longitude: -122.4857321
+city_latitude: 47.1342432
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

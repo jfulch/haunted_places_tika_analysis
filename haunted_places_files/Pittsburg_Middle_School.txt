@@ -1,0 +1,21 @@
+city: Pittsburg
+country: United States
+description: There is many diffrent creepy things that goes on in the Pittsburg Middle School. Many people have heard stories about the toillets flush by them selves and the doors open and close by them selves. It is said that there used to be a piano up in the very top of the school that would play by it self.It is also said that someone died in the pool, and it is said that someone saw a little girl walking in the halls. These things just give you the creeps when you have to be at the school almost all day long. The school has blackouts for no reason and every one gets scared.
+location: Pittsburg Middle School
+state: Kansas
+state_abbrev: KS
+longitude: -94.7029275
+latitude: 37.4197003
+city_longitude: -94.70496
+city_latitude: 37.410884
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

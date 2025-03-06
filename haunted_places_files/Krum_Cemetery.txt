@@ -1,0 +1,21 @@
+city: New Ashatola
+country: United States
+description: In the woods near New Ashatola is a small, civil war era cemetery. Near it is an abandoned mansion nicknamed 'The Dead Zone'. Reports of cult activity abound. Headless people and dogs have been sighted here as well as bloodied (live) rabbits, and strange owls. The house is said to be where a man went crazy and killed his wife and daughter, and later himself.
+location: Krum Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.793133
+latitude: 40.37623
+city_longitude: -78.845861
+city_latitude: 40.276644
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1979/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

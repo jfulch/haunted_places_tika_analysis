@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: The new road was constructed over an old Indian Grave.  Spirits come out around midnight near the tollbooth.  There have been several reports of the spirits to the police.  Toll booth workers say they hear strange noises at night.
+location: Pocohantas Parkway
+state: Virginia
+state_abbrev: VA
+longitude: -77.3669487
+latitude: 37.4689282
+city_longitude: -77.4360481
+city_latitude: 37.5407246
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

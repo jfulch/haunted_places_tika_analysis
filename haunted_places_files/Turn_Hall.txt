@@ -1,0 +1,21 @@
+city: Adams
+country: United States
+description: Turn Hall is located on Turners Avenue in Adams, Massachusetts. Downstairs, there is a gym, bar, and bowling alley for members and residents of the Adams area. Upstairs, there is an appartment, that is occupied. Two friends were reported to have been looking out a bedroom window into the gym and seeing unusual things. There are a few people associated with Turn Hall that were members that have passed away that have also been reported to have been seen dowstairs in the bar room. There was a coach for gymnastics that commited suicide a few years ago that has been known to answer people's calls and still be wathing over her workplace. All these spirits aren't out to scare, though, they are all nice.
+location: Turn Hall
+state: Massachusetts
+state_abbrev: MA
+longitude: -73.109608
+latitude: 42.6305059
+city_longitude: -73.1174344
+city_latitude: 42.6242251
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1798/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

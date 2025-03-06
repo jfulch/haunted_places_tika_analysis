@@ -1,0 +1,21 @@
+city: West Yarmouth
+country: United States
+description: On the basement floor of the main office is where the old pub used to be. Not many people go down there, but people have seen the toilets all of a sudden start to overflow, and mysterious toys, usually a clown, sitting on top of the toilet. Most say that the clown "looks right at you" even though it is only a toy.
+location: The Irish Village
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.2153098
+latitude: 41.6522022
+city_longitude: -70.2411312
+city_latitude: 41.6501114
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Traverse City
+country: United States
+description: in the evening at dusk you will sometimes see a woman in a white gown and white hanky on her head walking down sawyer rd. carrying a candle and appears to be in a trance.
+location: Sawyer Road
+state: Michigan
+state_abbrev: MI
+longitude: -85.67650139999999
+latitude: 44.655635
+city_longitude: -85.62063169999999
+city_latitude: 44.7630567
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1979/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Storm Lake
+country: United States
+description: The ghosts name is Mary. Died of lead posening causing her to go crazy and jump out of the third floor window of her house that used to be located in the same location as Swope Hall Room 305. Likes to open and close doors, even when locked, and will open and close the closet doors of that room. Also will venture into other rooms and play pranks, especially with electrical equipment. - *Note: There is a false rumor around the college that she was a student and jumped out the window of 305, or that she lived in 305 and jumped off Smith Hall, but this has no historical backing and all of the people who have see talked to her have nothing from the conversations to support this.
+location: Swope Hall 305
+state: Iowa
+state_abbrev: IA
+longitude: -95.2095008
+latitude: 42.642046
+city_longitude: -95.2019399
+city_latitude: 42.6430359
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

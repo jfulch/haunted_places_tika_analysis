@@ -1,0 +1,19 @@
+city: Reno
+country: United States
+description: In the basement you can hear foot steps at various times and no one will be there. guards report they have heard the foot steps.
+location: it used to be the riverboat casino now is an antique store
+state: Nevada
+state_abbrev: NV
+city_longitude: -119.8138027
+city_latitude: 39.5296329
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1949/01/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

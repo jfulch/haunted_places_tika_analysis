@@ -1,0 +1,20 @@
+city: Poplar Bluff
+country: United States
+description: A mans voice yelling about midnight in the summertime. "What do you want, Who are you looking for?" It's so loud it sounds like a loud speaker, then lots of voices can be heard whispering at the same time, it sounds like a crowded room full of people.
+location: Woodlawn Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -90.3986773
+latitude: 36.776909
+city_longitude: -90.392888
+city_latitude: 36.7569994
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1784/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

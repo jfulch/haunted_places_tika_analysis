@@ -1,0 +1,21 @@
+city: Wickenburg
+country: United States
+description: Old Train Depot - There are reports of people hearing whispering. Witnesses claim to have caught orbs in photos. This depot was built in the 1840's.
+location: Chamber of Commerce
+state: Arizona
+state_abbrev: AZ
+longitude: -112.7329352
+latitude: 33.9694569
+city_longitude: -112.7301882
+city_latitude: 33.9697664
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1958/09/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

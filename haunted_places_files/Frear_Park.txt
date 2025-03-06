@@ -1,0 +1,21 @@
+city: Troy
+country: United States
+description: Large "things" like to jump onto cars that sit in the park. They leave claw marks on the back. There is no large wildlife in this area. Its the feeling like when a friend jumps onto the back of your car when you a about to drive away.
+location: Frear Park
+state: New York
+state_abbrev: NY
+longitude: -73.6682676
+latitude: 42.7450267
+city_longitude: -73.69178509999999
+city_latitude: 42.7284117
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

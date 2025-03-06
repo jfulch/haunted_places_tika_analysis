@@ -1,0 +1,21 @@
+city: Harbor City
+country: United States
+description: aka Duck Pond - Its been said that at this park you can sell your soul to the devil and as a matter of fact its been also said that there was a "rap singer" that sold his soul and became real famous. They say that the devil comes to you in the best of manner and has a very pleasant smell.
+location: Harbor Park
+state: California
+state_abbrev: CA
+longitude: -118.2916465
+latitude: 33.7910166
+city_longitude: -118.2965084
+city_latitude: 33.7906551
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

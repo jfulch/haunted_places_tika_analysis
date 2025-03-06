@@ -1,0 +1,21 @@
+city: Jeffersonville
+country: United States
+description: In the Auditorium, there is said to be a woman who lurks, even when more than 10 people are in the room. Things get moved, and people have gotten hurt. Also, when the building was being built, a construction worker was killed by falling off of a ladder. Sightings of him have also been recorded
+location: Jeffersonville High School
+state: Indiana
+state_abbrev: IN
+longitude: -85.7101307
+latitude: 38.3166996
+city_longitude: -85.7371847
+city_latitude: 38.2775702
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

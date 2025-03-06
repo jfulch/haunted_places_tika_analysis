@@ -1,0 +1,20 @@
+city: Emminence
+country: United States
+description: This is a historical site with lots of parking, camping and free access. It is open year round as well.
+location: Alley Spring Mill
+state: Missouri
+state_abbrev: MO
+longitude: -91.441741
+latitude: 37.1543995
+city_longitude: -91.357635
+city_latitude: 37.1506044
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

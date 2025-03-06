@@ -1,0 +1,19 @@
+city: Cuttingsville
+country: United States
+description: haunted by an unidentified woman.
+location: Bowman House
+state: Vermont
+state_abbrev: VT
+city_longitude: -72.88121559999999
+city_latitude: 43.48805
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

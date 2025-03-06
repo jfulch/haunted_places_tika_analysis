@@ -1,0 +1,21 @@
+city: Hidalgo
+country: United States
+description: Shary Mansion - Mr. Shary, who is buried across the street of what used to be his home is said to have been seen walking across the street at night, from his burial place to his home. He is also said to have been seen by some sitting on a rocking chair on his front porch. (there have been storied done on it by the local TV news stations)
+location: Mission
+state: Texas
+state_abbrev: TX
+longitude: -98.3252932
+latitude: 26.2159066
+city_longitude: -98.2630684
+city_latitude: 26.1003547
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1959/11/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

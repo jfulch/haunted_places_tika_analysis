@@ -1,0 +1,20 @@
+city: Adams
+country: United States
+description: Mt. Unger Cemetery - It is known to be that if you go there at night you can see a guy that hung himself so that he could be with his wife, that he killed.
+location: Blue Creek
+state: Ohio
+state_abbrev: OH
+longitude: -83.33018600000001
+latitude: 38.7775738
+city_longitude: -83.5070203
+city_latitude: 38.8907822
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1757/09/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

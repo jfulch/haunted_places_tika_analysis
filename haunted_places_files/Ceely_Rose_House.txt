@@ -1,0 +1,20 @@
+city: Mansfield
+country: United States
+description: In 1896 Ceely Rose murdered her whole family with rat poison for her true love who really was not. She has been seen in the house and haunts it. From 30 west take route 603 to Malabar Farm Inn.
+location: Ceely Rose House
+state: Ohio
+state_abbrev: OH
+longitude: -82.399092
+latitude: 40.6522452
+city_longitude: -82.5154471
+city_latitude: 40.75839
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1896/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: La Puente
+country: United States
+description: the father of the owner walks around at night there have been many accounts of this happening. the owner has seen it many times. so have security guards. this man died many years ago in a grease fire. where he burned to death. there's also a wall with photo's that was once throws across the restaurant.
+location: Nogales burgers
+state: California
+state_abbrev: CA
+longitude: -117.8866546
+latitude: 34.0091161
+city_longitude: -117.9495083
+city_latitude: 34.0200114
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

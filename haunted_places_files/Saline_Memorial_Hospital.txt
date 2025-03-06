@@ -1,0 +1,21 @@
+city: Benton
+country: United States
+description: The smell of foul odors can be found in the hallways of the sixth floor. Also, doors slam without notice. Water sometimes drips from the ceiling, even thought it is not raining outside. Cries for help can be heard coming from rooms that are not occupied.
+location: Saline Memorial Hospital
+state: Arkansas
+state_abbrev: AR
+longitude: -92.5854973
+latitude: 34.5738635
+city_longitude: -92.586828
+city_latitude: 34.5645371
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

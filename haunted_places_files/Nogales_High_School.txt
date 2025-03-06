@@ -1,0 +1,21 @@
+city: La Puente
+country: United States
+description: Nogales is haunted by a spirit that wanders the quad late at night. It is said to be the spirit of a young student who was killed on the near by train tracks.
+location: Nogales High School
+state: California
+state_abbrev: CA
+longitude: -117.8891517
+latitude: 34.0095564
+city_longitude: -117.9495083
+city_latitude: 34.0200114
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

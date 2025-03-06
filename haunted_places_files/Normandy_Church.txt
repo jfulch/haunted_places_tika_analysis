@@ -1,0 +1,20 @@
+city: Kettering
+country: United States
+description: This particular building was an old mansion back in about the 1920's or so, and was later turned into a church. They put some additions onto the house, like the chapel and the music room to make it into the church. But the original owner of the house/church is thought to still live there on the main floor. Janitor's that are working late at night have reported smelling her perfume as they clean the church.
+location: Normandy Church
+state: Ohio
+state_abbrev: OH
+longitude: -84.1695199
+latitude: 39.6454625
+city_longitude: -84.1688274
+city_latitude: 39.68950359999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Natural Disaster
+witness_count: 1

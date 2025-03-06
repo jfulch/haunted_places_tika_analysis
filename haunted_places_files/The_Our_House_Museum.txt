@@ -1,0 +1,20 @@
+city: Gallipolis
+country: United States
+description: An old tavern/inn. This spot was named the Our House by an 1800's owner who invited people from the many boats docking at the Ohio River city of Gallipolis with the words "come on over to our house". There are many sightings and sounds in this beautiful old inn. This author attended a re-enactment of an opera with an actress playing the famed Ginny Lind only to watch a candle-opera sway far and wide with the music. The swaying so hard it should have fallen.
+location: The Our House Museum
+state: Ohio
+state_abbrev: OH
+longitude: -82.20347679999999
+latitude: 38.8078489
+city_longitude: -82.2023691
+city_latitude: 38.809803
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Prairie Village
+country: United States
+description: In the restaurant, there have always been several reports of cold spots, especially at one specific table where there is no draft. In the kitchen, as well as the dining room, there have been reports from diners and workers of strange occurrences: voices, movement of various objects, unseen people touching them, non-specific peripheral vision sightings. Employees have seen objects fly through the air when nobody was there to throw them. 2 workers narrowly escaped injury from flying knives, one, a waiter/busser, was almost hit in the head by a large knife, and has also seen tables and chairs, etc. move by themselves. A man once died of a heart attack in the tennis court and has been seen by many people, all of which described the same man in the same area.
+location: Homestead Country Club
+state: Kansas
+state_abbrev: KS
+longitude: -94.6330604
+latitude: 39.0118185
+city_longitude: -94.6335684
+city_latitude: 38.9916726
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

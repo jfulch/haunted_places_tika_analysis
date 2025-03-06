@@ -1,0 +1,20 @@
+city: Newtown
+country: United States
+description: The only public library in Newtown on Main Street is haunted by Mary Hawley, the daughter of Booth, whom the library was named after. The building used to be her home, and her room is on the top floor, which they used to let people view, but have locked since they put an addition on. Experiences ranged from feelings to shadowy figures in the corner of one’s sight to actual encounters with what are supposedly Mary's ghost. Nothing has been said about her since the addition was put on, but then again, no one has been in her room either.
+location: Cyrenius H. Booth Library
+state: Connecticut
+state_abbrev: CT
+longitude: -73.30865469999999
+latitude: 41.4121213
+city_longitude: -73.3035651
+city_latitude: 41.4141172
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

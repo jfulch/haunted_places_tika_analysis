@@ -1,0 +1,21 @@
+city: Napa
+country: United States
+description: is said to be haunted by two ghosts that look like a couple. There is one spat in the last theater room in the building that gets cold enough to shed ice aver your coke, when you sit there you also feel like someone is watching you
+location: The Napa Cinadome
+state: California
+state_abbrev: CA
+longitude: -122.2799322
+latitude: 38.2829554
+city_longitude: -122.286865
+city_latitude: 38.2975381
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

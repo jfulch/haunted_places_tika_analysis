@@ -1,0 +1,21 @@
+city: Floyd
+country: United States
+description: Cliffside Apartments - The apartments are said to be built on an Indian barrel ground. Strange things happen there. Unoccupied apartments with lights on, sound of footsteps walking up and down the stairs. Ghostly figure of a man appearing in closets of children. TV's turning on by themselves. The dials of radio's turning by themselves. It is definitely a very haunted place.
+location: Prestonsburg
+state: Kentucky
+state_abbrev: KY
+longitude: -82.7715486
+latitude: 37.6656527
+city_longitude: -82.7778579
+city_latitude: 37.5455463
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

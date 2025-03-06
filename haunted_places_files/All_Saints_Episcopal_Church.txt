@@ -1,0 +1,20 @@
+city: Pawley's Island
+country: United States
+description: Alice of the Hermitage is said to have been seen haunting her gravesite. It is about 10 miles south of her home, just off Hwy 17.
+location: All Saints Episcopal Church
+state: South Carolina
+state_abbrev: SC
+longitude: -79.13859839999999
+latitude: 33.4673204
+city_longitude: -79.12143130000001
+city_latitude: 33.4332236
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

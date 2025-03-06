@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: Female ghost has been heard walking on third floor in a non public area, especially after hours. Footsteps sounding like high heels on linoleum have been heard.
+location: Lucas County Public Library
+state: Ohio
+state_abbrev: OH
+longitude: -83.54009599999999
+latitude: 41.654506
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1588/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

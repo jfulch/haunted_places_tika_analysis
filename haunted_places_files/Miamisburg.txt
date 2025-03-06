@@ -1,0 +1,20 @@
+city: Carlisle
+country: United States
+description: Zech road - half erect barn that burnt down in the 60's and 2 small children were burned alive in it. To this day you can still hear them laughing and playing in the area around the barn.
+location: Miamisburg
+state: Ohio
+state_abbrev: OH
+longitude: -84.2597869
+latitude: 39.610014
+city_longitude: -84.3202194
+city_latitude: 39.5820026
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1769/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

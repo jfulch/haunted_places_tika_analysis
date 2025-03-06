@@ -1,0 +1,21 @@
+city: Upper Black Eddy
+country: United States
+description: There are many things that happen here. Now a Bed and Breakfast w/Bar & Restaurant (great food!) - you should try staying the night and see if you witness anything! Before it became the bed & breakfast it is now, it was a place for actors from a former nearby haunted hay ride -property for that has since sold and is being semi-developed. The true original history of the building is not really known. Given it's age & remote location, you can only imagine what could have gone on in a bar/inn like that in it's heyday. Faucets turn themselves off and on. Shadows and apparitions have been seen. Strange knockings have been heard. And doorknobs shake for no apparent reason.
+location: The Indian Rock Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.1501347
+latitude: 40.5694524
+city_longitude: -75.1006068
+city_latitude: 40.5656117
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

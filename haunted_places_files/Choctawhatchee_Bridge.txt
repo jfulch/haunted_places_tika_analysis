@@ -1,0 +1,19 @@
+city: Newton
+country: United States
+description: At a hanging gone wrong, a hole was scratched out beneath the feet of the victim who was too tall for the rope that was used. A witness to the hanging dug the hole with a crutch, under the dangling victim. To this day, you can fill the hole and the ghost will come and dig it out.
+location: Choctawhatchee Bridge
+state: Alabama
+state_abbrev: AL
+city_longitude: -85.6052133
+city_latitude: 31.3351716
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Brunswick County
+country: United States
+description: There a ghost named Tony who was a riverboat musician in life is said to roam the halls of the inn.
+location: Brunswick Inn Southport
+state: North Carolina
+state_abbrev: NC
+longitude: -78.0153844
+latitude: 33.9186404
+city_longitude: -78.2020387
+city_latitude: 34.0275398
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

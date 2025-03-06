@@ -1,0 +1,21 @@
+city: Bonner County
+country: United States
+description: Colburn Creek - Once in a while, usually during the summer nights, you can sometimes see a shadowy figure walking along the train tracks near the creek. The figure seems to be carrying a lantern. You can never get to close to him though, because he disappears.
+location: Colburn
+state: Idaho
+state_abbrev: ID
+longitude: -116.5351946
+latitude: 48.3971492
+city_longitude: -116.5931483
+city_latitude: 48.2751783
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1926/07/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

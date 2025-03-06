@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: strange noises, cars disappear on the road. Sometimes there are footsteps in the woods voices and what sounds like chanting. It is located on at Wood Street and Corwin. If you go there you will have very strange feelings. Information on the place is very hard to get. All records in the library seem to be gone.
+location: North Wayne Cemetery (Corwin St.)
+state: Michigan
+state_abbrev: MI
+longitude: -86.06883479999999
+latitude: 42.0633837
+city_longitude: -83.3863214
+city_latitude: 42.2814269
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

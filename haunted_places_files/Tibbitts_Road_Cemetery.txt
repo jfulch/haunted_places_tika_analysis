@@ -1,0 +1,21 @@
+city: St. Clair County
+country: United States
+description: Little girl wearing a white dress (old style) seen by people living nearby. Cemetery is really un-kept, and hard to find.
+location: Tibbitts Road Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -82.95577399999999
+latitude: 42.9225563
+city_longitude: -82.6483442
+city_latitude: 43.016179
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

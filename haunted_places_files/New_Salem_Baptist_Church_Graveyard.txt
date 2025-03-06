@@ -1,0 +1,20 @@
+city: Tigerville
+country: United States
+description: General sense of foreboding there. Lights seen moving about in the graveyard, voices from the field of tall grass next to it. Temperature drops near the graveyard. Unusual sounds in the nearby woods (could be deer) as well as frantic animal activity. A puff of smoke from a pipe did not dissipate, but moved a few feet, stopped, and took on a humanoid shape before blowing away. One person felt something brush her leg, but they couldn't find what could have done that.
+location: New Salem Baptist Church Graveyard
+state: South Carolina
+state_abbrev: SC
+longitude: -82.3398387
+latitude: 35.0809489
+city_longitude: -82.36904109999999
+city_latitude: 35.06997680000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

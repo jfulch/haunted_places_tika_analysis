@@ -1,0 +1,21 @@
+city: Columbia
+country: United States
+description: The cemetery is over 100 years old and its deep in the woods. Sometimes when you walk past the cemetery you can hear children playing or you can hear someone getting murdered.
+location: The abandon cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -87.03048419999999
+latitude: 35.6042277
+city_longitude: -87.0352831
+city_latitude: 35.6150716
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

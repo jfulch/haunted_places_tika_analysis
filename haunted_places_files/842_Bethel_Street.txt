@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: This building is now occupied by the City & County of Honolulu.  Employees have seen ghost going in the rest room; heard file cabinet doors opening & closing; typewriters typing, someone flipping a newspaper; squeaky office chair and lights flickering.
+location: 842 Bethel Street
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8636361
+latitude: 21.3098611
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

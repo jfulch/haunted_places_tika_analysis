@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: Former site of mental hospital. On the full moon u can see a light shining under the moon. The light is that of a lantern of a volunteer worker who was murdered there.
+location: Ward hill
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.1365337
+latitude: 43.8633952
+city_longitude: -71.1484028
+city_latitude: 43.8992395
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

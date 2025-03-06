@@ -1,0 +1,21 @@
+city: Granite Falls
+country: United States
+description: There is a mansion that is said to have been owned by a child molester who would kill the kids after he had raped them. There have been stories of ghostly little children walking the property.
+location: Blue Spruce
+state: Washington
+state_abbrev: WA
+longitude: -121.998922
+latitude: 48.103875
+city_longitude: -121.968742
+city_latitude: 48.0839895
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bodie
+country: United States
+description: Reports of walking up and down stairs in any building there. Curse on Bodie if anyone takes anything as a souvenir.
+location: Bodie State Park
+state: California
+state_abbrev: CA
+longitude: -119.0143808
+latitude: 38.2087233
+city_longitude: -119.01251
+city_latitude: 38.21277930000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

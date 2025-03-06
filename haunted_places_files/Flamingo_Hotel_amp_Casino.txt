@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: This Las Vegas landmark is haunted by its founding father the infamous mobster Bugsy Segal. Guests lounging by the pool in the late evening hours when the pool is less crowded see the apparition of him. And a cleaning lady quit after seeing Bugsy on the fifth floor.
+location: Flamingo Hotel &amp; Casino
+state: Nevada
+state_abbrev: NV
+longitude: -115.1707917
+latitude: 36.1164409
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1905/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Boone
+country: United States
+description: Tall dark and handsome - If you drive down Elizaville Rd. early in the morning (1:00am-3:30am) you are likely to see to see a man beast standing about 7feet tall that looks like a towering shadow. It's not certain why he wanders the fields, churches, and cemeteries (Browns Wonder). All that is known is he is in search of someone or something very important to him. If you get out of your car and scream bloody murder into the night sky he will track you down and drag your body into his domain where you will be eaten bones and all. Many missing people have been linked to the mysterious small town of Elizaville. Maybe a murderer is responsible, but this figure has been reported wandering those parts since 1924!!!
+location: Elizaville
+state: Indiana
+state_abbrev: IN
+longitude: -86.37583300000001
+latitude: 40.126667
+city_longitude: -86.49965460000001
+city_latitude: 40.0106163
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1924/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

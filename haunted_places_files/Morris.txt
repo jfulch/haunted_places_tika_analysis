@@ -1,0 +1,21 @@
+city: Minooka
+country: United States
+description: Aux Sable Cemetery - It is said that if you go into the cemetery and go down the path a ways you can see a little girl sitting staring at you and it feels like you can not move but you really can. you can only see her if u get out of your car. there has been alot more things that happend there. also when you try to leave the gates close but they have put up a big bar in the gate so that you can get out. sometimes if you stop and turnt he car off your windows will fog up. No Tresspassing! YOU Will be arrested.
+location: Morris
+state: Illinois
+state_abbrev: IL
+longitude: -88.4525065
+latitude: 41.4441856
+city_longitude: -88.2617305
+city_latitude: 41.4553084
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2006/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

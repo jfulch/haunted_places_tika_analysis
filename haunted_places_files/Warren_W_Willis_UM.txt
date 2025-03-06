@@ -1,0 +1,21 @@
+city: Leesburg
+country: United States
+description: This is a United Methodist summer camp for kids from grades 4-12 that was built in the mid 1940's. There are two cabins know to be haunted on this site. Lodge 5 is said to have things be moved from one place to another. Suitcases will end up on the other side of the cabin. Campers will be pushed out of bunks. In Girls cabin 45A, strange things happen in the bathroom at night. Lights flicker. One of the toilets will flush during the night. It's not really a spooky place. Very enjoyable to be there. The ghosts like to play jokes.
+location: Warren W. Willis UM
+state: Florida
+state_abbrev: FL
+longitude: -81.867756
+latitude: 28.852069
+city_longitude: -81.87785819999999
+city_latitude: 28.810823
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

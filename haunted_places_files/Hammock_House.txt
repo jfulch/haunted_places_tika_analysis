@@ -1,0 +1,21 @@
+city: Beaufort
+country: United States
+description: balls of light and blood stains that can't be washed away are observed here.
+location: Hammock House
+state: North Carolina
+state_abbrev: NC
+longitude: -76.6650988
+latitude: 34.7171727
+city_longitude: -76.6638186
+city_latitude: 34.7182174
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

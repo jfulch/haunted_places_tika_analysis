@@ -1,0 +1,21 @@
+city: Bertram
+country: United States
+description: Trunkless Tree - If you go there at night and shut off your headlights there is a tree that looks like it is floating and has no base to it.? There used to be two trees right next to each other that looked that way but one was cut down.
+location: Campbell Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -91.5393245
+latitude: 41.9753731
+city_longitude: -91.5354538
+city_latitude: 41.9497259
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

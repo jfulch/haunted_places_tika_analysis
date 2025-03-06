@@ -1,0 +1,19 @@
+city: Clatonia
+country: United States
+description: Woman figure seen walking around and an evil growling noise can be heard. Story has it she froze to death looking for her family in a blizzard. Her and Her family used to live on the grounds and one morning she had sent her kids out to help her husband with the farm chores and the weather increasing got worse as the time had passed. Worried, she went outside to look for her family and ended up freezing to death. Her family ended up taking shelter in the barn and had survived. (*Note The trees leading up to the lake seem to grow together and never seem to have many leaves)
+location: Boyscout Lake
+state: Nebraska
+state_abbrev: NE
+city_longitude: -96.85101
+city_latitude: 40.4654994
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

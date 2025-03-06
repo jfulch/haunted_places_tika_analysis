@@ -1,0 +1,21 @@
+city: Fort Wayne
+country: United States
+description: Around 3am-4am in the morning, shoppers and workers hear bagpipes playing a scotish tune. Shortly when song ends, a man in a green plaid kilt makes his appearance by pacing the floors. When he walks by you, you will get a cold eerie feeling. This ghost is known to be friendly.
+location: Cold-Water Rd – Wal-Mart
+state: Indiana
+state_abbrev: IN
+longitude: -85.138159
+latitude: 41.127907
+city_longitude: -85.1393513
+city_latitude: 41.079273
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Idaho City
+country: United States
+description: many of the people who met violent deaths and were buried here, still walk the grounds.
+location: Boot Hill Cemetery
+state: Idaho
+state_abbrev: ID
+longitude: -115.8413485
+latitude: 43.8323633
+city_longitude: -115.8345537
+city_latitude: 43.8285046
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Albuquerque
+country: United States
+description: Supposedly the building was built on or near a Native American grave. A young woman appears to people who work in the dark supply area. A witness saw her in the IT room at the opposite end of the building. She simply walked through the closed door and stood and stared at them.
+location: Old Honeywell bldg on Bluewater
+state: New Mexico
+state_abbrev: NM
+city_longitude: -106.6055534
+city_latitude: 35.0853336
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

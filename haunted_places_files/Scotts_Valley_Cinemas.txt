@@ -1,0 +1,21 @@
+city: Scotts Valley
+country: United States
+description: Reports of ghosts in theater #2 and an uneasy feeling when alone after hours and when in the theater alone, like someone is watching you. Defiantly a ghost, but not at all violent.
+location: Scotts Valley Cinemas
+state: California
+state_abbrev: CA
+longitude: -122.0272359
+latitude: 37.0484812
+city_longitude: -122.0146841
+city_latitude: 37.0510595
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

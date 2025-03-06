@@ -1,0 +1,21 @@
+city: Prairie Du Chien
+country: United States
+description: It has been in the news paper a lot, about a man walking around the town. The residents there believe that he is a ghost.
+location: Wyalusing Academy
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.1463386
+latitude: 43.045186
+city_longitude: -91.1412404
+city_latitude: 43.0516505
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Park City
+country: United States
+description: Mines were created over a hundred years ago. They operated several decades. History of murder and accidents over the course of the mines operation. Apparitions seen and heard in several of the interlinking mines by miners and caretakers. Mines are currently not in operation.
+location: Park City Silver Mines
+state: Utah
+state_abbrev: UT
+longitude: -111.496202
+latitude: 40.6445501
+city_longitude: -111.4979729
+city_latitude: 40.6460622
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

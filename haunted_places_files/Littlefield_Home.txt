@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: The daughter of Littlefield for whom this dorm was built is said to haunt the halls of her former college home. She plays practical jokes on the current residents such as turning lights and stereos on and off.
+location: Littlefield Home
+state: Texas
+state_abbrev: TX
+longitude: -97.7407791
+latitude: 30.2881368
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 0

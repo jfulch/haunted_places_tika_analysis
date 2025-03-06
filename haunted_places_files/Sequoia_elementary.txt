@@ -1,0 +1,18 @@
+city: <>Manteca
+country: United States
+description: Tthere have been may reports of children playing in the hallways. A night janitors hear the intercom turn on and hear children talking on it but when they go to room 9 nothing is there. There has also been a report of swings swinging on there swinging by the gymnasium
+location: Sequoia elementary
+state: California
+state_abbrev: CA
+longitude: -122.0685428
+latitude: 37.9435949
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Ferrenburg
+country: United States
+description: If you go to the old railway station in Farrenburg you will see a light going down where the tracks used to be. It is said to be the ghost of a conductor who was inspecting the axles on a train and slipped and got his head cut off
+location: The Ferrenburg Light
+state: Missouri
+state_abbrev: MO
+city_longitude: -89.50063209999999
+city_latitude: 36.688113
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1882/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

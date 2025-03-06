@@ -1,0 +1,21 @@
+city: Tucson
+country: United States
+description: It is said that a little girl died in the auditorium of the school. She fell off of the balcony. If you walk into the auditorium in the dark and look up, you can see the girl for a brief moment. At night, the janitors will hear footsteps roaming the halls and people talking inside the locked classrooms. The teachers would find their things missing or moved around in the classroom. If you stay late at the school, when no one is around, you can feel cold spots. There are rumors that the school was built in 1904, over an Indian graveyard.
+location: Safford Middle School
+state: Arizona
+state_abbrev: AZ
+longitude: -110.966482
+latitude: 32.218155
+city_longitude: -110.926479
+city_latitude: 32.2217429
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1904/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

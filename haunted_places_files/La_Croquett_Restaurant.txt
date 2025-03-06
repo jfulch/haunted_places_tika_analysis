@@ -1,0 +1,21 @@
+city: Clayton
+country: United States
+description: The Restaurant has been around since the time the town was founded in 1857. The story goes is that during the day a miner from the black diamond mine area of Somersville was in Clayton and got into a argument in the old Eagle Saloon across the street. The argument turned into a shoot out and one of the bullets went thru the window and stuck a little girl on the street. The people on the street brought the little girl in to the restaurant where she died. In a pool of blood on the floor. to this day her sprit can be seen from time to time playing in the street, and the Blood stain can not be removed from the floor of the restaurant. Everything they do to remove it does not work and the stain returns to this day it is still there under the carpet.
+location: La Croquett Restaurant
+state: California
+state_abbrev: CA
+longitude: -121.9345381
+latitude: 37.9414718
+city_longitude: -121.9357925
+city_latitude: 37.9410341
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1857/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

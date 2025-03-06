@@ -1,0 +1,19 @@
+city: Northport
+country: United States
+description: in this house the daughter who was in high school drowned in the pool then as the father was taking the pool down he had a heart attack the mother, couldn't take the loss so she hung herself in the kitchen then the son left the house abandon, inside the house is still set and appears as if it is lived in. when a car is parked in the driveway the lights in the front of the house come on and if anything is taken from the house the car will not start
+location: Hayes Hill House
+state: New York
+state_abbrev: NY
+city_longitude: -73.3431727
+city_latitude: 40.9009313
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

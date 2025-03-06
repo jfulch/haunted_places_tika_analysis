@@ -1,0 +1,21 @@
+city: Garner
+country: United States
+description: there are the graves of two slaves from the Civil War era. At night when it is storming people have claimed seeing them sitting on their graves with bloody eyes.
+location: Right off Timber Drive
+state: North Carolina
+state_abbrev: NC
+longitude: -78.64119
+latitude: 35.701601
+city_longitude: -78.61417089999999
+city_latitude: 35.7112642
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: A janitor is believed to have died in this theater during a fire in the early twentieth century. His ghost has been seen in the upper balcony by lone actors on the stage. There is also a story about a baby that was accidentally dropped from the upper balcony one evening. It is said to repeat its fall for actors while they are practicing.
+location: Little Theater
+state: Missouri
+state_abbrev: MO
+longitude: -93.2909306
+latitude: 37.2073294
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1772/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

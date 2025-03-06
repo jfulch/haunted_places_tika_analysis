@@ -1,0 +1,21 @@
+city: Hammond
+country: United States
+description: Circus Train - In the 1920's or 1930's the big top circus was traveling through town. The train was involved in a crash and all the animals aboard the train burned to death. The animals' remains were buried in a nearby cemetery. It is said that if you go by you can still hear all the animals cry.
+location: Robertsdale
+state: Indiana
+state_abbrev: IN
+longitude: -87.5080988
+latitude: 41.6830911
+city_longitude: -87.5000412
+city_latitude: 41.5833688
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1907/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

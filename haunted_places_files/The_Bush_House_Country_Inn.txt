@@ -1,0 +1,21 @@
+city: Index
+country: United States
+description: In 1889 the Bush House was build. It was build for miners who where moving to Index. At the turn of the century there was a young woman named Annabel that came to Index to wed. Her future husband worked in the mines. Well there was an explosion and word got down the valley to Annabel that her husband to be had been killed in the explosion. After getting word of this she hung herself. Turned out that her future husband had not been killed and went to get Annabel and found that she was dead. Rumor is that he then killed himself. Annabel’s ghost still haunts The Bush House today. Along with some other people that have died there. She hung herself in room 9. And table 2 is Annabel’s table.
+location: The Bush House Country Inn
+state: Washington
+state_abbrev: WA
+longitude: -121.5555438
+latitude: 47.821015
+city_longitude: -121.5551087
+city_latitude: 47.8206605
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1889/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

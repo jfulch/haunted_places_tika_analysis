@@ -1,0 +1,20 @@
+city: Lebanon
+country: United States
+description: August 2004 correction: formerly posted as Ashley Park- There was a young man who committed suicide here on a Saturday night. People say that when you go out there on Saturday nights that you can see his ghostly figure haunting the park. He usually hangs around the old gazebo. That is where is ended his life.
+location: Atchley Park
+state: Missouri
+state_abbrev: MO
+longitude: -92.6716783
+latitude: 37.7075643
+city_longitude: -92.6637865
+city_latitude: 37.6805967
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

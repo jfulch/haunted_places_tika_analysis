@@ -1,0 +1,21 @@
+city: Radnor
+country: United States
+description: Formally the St. David's Inn, the Radnor Hotel has had some very disturbing hauntings. One in particular is suite 309, where a ghost appears in the ceiling above the master bed and then proceeds down the wall to the door and then vanishes into the hallway. Some guests have even seen her presence in the hallway in the wee early morning hours. And still others have heard noises coming from the room when the room is vacant.
+location: Radnor hotel
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.36626799999999
+latitude: 40.040661
+city_longitude: -75.3754599
+city_latitude: 40.043912
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

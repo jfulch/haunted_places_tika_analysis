@@ -1,0 +1,21 @@
+city: Elkhorn
+country: United States
+description: Reports of a train whistle sounding off when there is no train.
+location: Peck station rd.
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.51556049999999
+latitude: 42.7391019
+city_longitude: -88.5445447
+city_latitude: 42.6727927
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

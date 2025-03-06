@@ -1,0 +1,19 @@
+city: Staten Island
+country: United States
+description: During the 1800s, St. Augustine was a holding ground for nuns, priests, and monks in training. One of the monks in training was said to have gone crazy. The Brother went about and killed everyone who resided in St. Augustine Monastery. To this day, it was said that the restless spirit of the Brother still roams the halls. Researchers have even claimed that they have seen or felt the spirit in the basement area.
+location: St. Augustine Monastery
+state: New York
+state_abbrev: NY
+city_longitude: -74.1502007
+city_latitude: 40.5795317
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.8
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bessie
+country: United States
+description: Late at night you can hear footsteps on the stage that sounds like a four-legged animal and you can feel cold spots throughout. If you stay late enough you can see an apparition of a man dressed in a long black trench coat with a large black top hat and long brownish black beard. After investigating the old gym it was found to have been an old morgue back in the day when they had horse drawn carriages, it was a building in which had a basement and large pulling elevator large enough for the horses, later filled in and the gym was built on top of it. A picture of the old morgue proved to me that the apparition was that of the caretaker
+location: Bessie Gym
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.4225225
+latitude: 34.6330755
+city_longitude: -98.9881366
+city_latitude: 35.3858846
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

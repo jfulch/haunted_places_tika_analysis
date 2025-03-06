@@ -1,0 +1,20 @@
+city: San Diego
+country: United States
+description: Janitors claim to see children running throw the hallways at night. and When the Janitors try to go home after there shift is over the doors wont open they say it feels like someone is on the other side pushing the door. They also say there's cold spats and hear children crying
+location: Brooklyn Elementary School
+state: California
+state_abbrev: CA
+longitude: -117.1303096
+latitude: 32.7192182
+city_longitude: -117.1610838
+city_latitude: 32.715738
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

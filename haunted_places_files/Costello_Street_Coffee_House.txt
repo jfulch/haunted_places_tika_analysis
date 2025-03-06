@@ -1,0 +1,20 @@
+city: Florissant
+country: United States
+description: This building used to be a house that was built in 1886. The owner of the house, James Castello died at home. James's Wife Catherine died from severe burns after her dress caught fire.  One of their Son's Frank and his wife had a daughter and son who died in Florissant as children. The lights turn on after being turned off. The owner of the now coffee house has a picture of a little girl sitting on the bathtub upstairs. A musical moose that is put out at holiday time has started playing music on 5 different occasions when no one was near it. Employees have reported hearing footsteps up stairs when the coffee house is closed.  Many times employees can't find things because they are never in the same place twice. The upstairs of the house is always cold at night despite having the heat turned on.
+location: Costello Street Coffee House
+state: Colorado
+state_abbrev: CO
+longitude: -105.2891326
+latitude: 38.9466026
+city_longitude: -105.2893555
+city_latitude: 38.946154
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1886/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

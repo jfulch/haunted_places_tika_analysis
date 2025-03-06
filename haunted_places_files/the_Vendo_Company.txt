@@ -1,0 +1,19 @@
+city: Fresno
+country: United States
+description: this is a building that has existed for at least one hundred years. Before it was Vendo it was Pinedale military base and before that it was a lumberyard and in the beginning it was Japanese concentration camp. In the mezzanine you get the feeling of someone putting their hands on you grabbing you ankles, near the cooling tower a Japanese woman with half of her face rotted off has been seen sitting on a green bench that is by a plant entrance, the main building is where they were held and tortured. In what now is receiving is were they were processed and killed there are many body's buried in the ground that were never removed. Sounds of choking whispering calling out for help. there is a bathroom up stairs that a Vendo employee hung himself in 7 years ago is still there as a ghost till this day no one will use the restroom.
+location: the Vendo Company
+state: California
+state_abbrev: CA
+city_longitude: -119.7725868
+city_latitude: 36.7468422
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2019/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

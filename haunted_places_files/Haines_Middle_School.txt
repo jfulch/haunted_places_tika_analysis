@@ -1,0 +1,21 @@
+city: St. Charles
+country: United States
+description: Haunted by different teachers said to roam the halls in the early morning hours.
+location: Haines Middle School
+state: Illinois
+state_abbrev: IL
+longitude: -88.3242255
+latitude: 41.90954730000001
+city_longitude: -88.3086867
+city_latitude: 41.9141945
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

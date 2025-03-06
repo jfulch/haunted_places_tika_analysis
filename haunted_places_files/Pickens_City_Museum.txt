@@ -1,0 +1,20 @@
+city: Pickens
+country: United States
+description: In the old Police hall (currently the museum) in the living quarters the first sheriffs family lived there. The mother died of typhoid or some disease acquired from the family well. The mother of the family supposedly haunts the semi-circular tower that is on the right side of the building-you can see her in the second story window usually after 11 and most often during a full moon.
+location: Pickens City Museum
+state: South Carolina
+state_abbrev: SC
+longitude: -82.7055401
+latitude: 34.8810513
+city_longitude: -82.7073573
+city_latitude: 34.8834489
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

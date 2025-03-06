@@ -1,0 +1,20 @@
+city: Perry County
+country: United States
+description: Willard ELemantry School - it is said at night you can walk into the gymnasium and u are able to see glowing figures also there is blodd that seems to run from the walls!!
+location: Willard
+state: Kentucky
+state_abbrev: KY
+longitude: -83.068685
+latitude: 37.1290041
+city_longitude: -83.2077645
+city_latitude: 37.3160706
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1975/04/06
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

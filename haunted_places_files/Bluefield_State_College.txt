@@ -1,0 +1,21 @@
+city: Bluefield
+country: United States
+description: Mahood Hall-A young girl is known to haunt the old hallways and basement of the hall.
+location: Bluefield State College
+state: West Virginia
+state_abbrev: WV
+longitude: -81.2374456
+latitude: 37.2672311
+city_longitude: -81.2223195
+city_latitude: 37.2698395
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1895/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

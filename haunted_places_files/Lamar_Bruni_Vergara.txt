@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: It is said that close to the school, a girl from LBJ was shot and killed. Her body was found a few feet down a ditch, and her soul is believed to haunt the school every night in the maintenance room in A-hall after 7:00 p.m., the time she was killed.
+location: Lamar Bruni-Vergara
+state: Texas
+state_abbrev: TX
+longitude: -99.4573655
+latitude: 27.4301762
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

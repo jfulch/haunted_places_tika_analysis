@@ -1,0 +1,21 @@
+city: Milford
+country: United States
+description: Reports of an apparition of a man clearly during the day dressed in blue jeans with a plaid flannel shirt and a Stanley tape measure on his belt walk straight up the strip and disappeared into, or through, a solid piece of plywood.
+location: Lorden plaza
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.62320629999999
+latitude: 42.8247053
+city_longitude: -71.6489836
+city_latitude: 42.8353619
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

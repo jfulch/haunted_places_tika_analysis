@@ -1,0 +1,21 @@
+city: Herkimer
+country: United States
+description: across from the high school at the bottom of the old hospital hill is a apartment house that was built long ago by a high rank soldier in the civil war. he built it for his American Indian wife. on the top is a look out that he built so she could watch for him coming home from the war. Unfortunately he was killed and you can still see her at times still waiting for him to return.
+location: apartment bldg
+state: New York
+state_abbrev: NY
+longitude: -74.98854419999999
+latitude: 43.0258996
+city_longitude: -74.9859889
+city_latitude: 43.0256259
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Murder
+witness_count: 1

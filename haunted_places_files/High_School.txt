@@ -1,0 +1,20 @@
+city: Aurora
+country: United States
+description: There was a very horrible fire at the school in 1977. In this fire many lives were taken because at the time there was a bunch of kids just going around pulling the alarms. There have been sightings of 2 boys walking on the third floor yelling and there’s been reported sightings of a girls on the seconds floor crying for someone to help her.
+location: High School
+state: Minnesota
+state_abbrev: MN
+longitude: -92.2411911
+latitude: 47.5316038
+city_longitude: -92.2371208
+city_latitude: 47.5299252
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

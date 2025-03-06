@@ -1,0 +1,19 @@
+city: Cranston
+country: United States
+description: Reports of a male ghost haunting school after dying in pool.
+location: Park View Middle School
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.4161982
+latitude: 41.7727866
+city_longitude: -71.4372796
+city_latitude: 41.7798226
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

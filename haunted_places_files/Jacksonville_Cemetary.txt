@@ -1,0 +1,21 @@
+city: Baldwinsville
+country: United States
+description: Eerie things seen in the back of the cemetary, a stream in the back of the woods seems to pull you towards it. Often eerie sounds heard at night, and a black cat with glowing green eyes seems to watch anyone who walks in. As you near the back, more creepy feelings seem to come upon you. Often a teenage girl is seen wandering seemingly aimlessly throughout the nights, watching, sometimes following people. In the back woods, gunshots are often heard, and screams following.
+location: Jacksonville Cemetary
+state: New York
+state_abbrev: NY
+longitude: -76.419899
+latitude: 43.217751
+city_longitude: -76.33270949999999
+city_latitude: 43.15867859999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

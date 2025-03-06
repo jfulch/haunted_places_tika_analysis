@@ -1,0 +1,21 @@
+city: Lebanon
+country: United States
+description: The inn was originally built by Mr. Coleman for his daughter. She was said to have killed herself in the house because her father would not allow her to marry her true love because he was not of the upper call. Her ghost has been seen in the inn as well as other strange occurrences. The full story and history of Inn422 can be found here http://www.inn422.com/history.html
+location: Inn 422
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.4421356
+latitude: 40.3378419
+city_longitude: -76.4113497
+city_latitude: 40.3409251
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

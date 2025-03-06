@@ -1,0 +1,21 @@
+city: Warminster
+country: United States
+description: people see the lights flicker at night and people have felt cold spots in the girls bathroom there and people see "get away" signs on some of the chalk boards.
+location: Longstreth Elementary
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.0665227
+latitude: 40.1898168
+city_longitude: -75.099807
+city_latitude: 40.2067884
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

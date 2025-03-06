@@ -1,0 +1,21 @@
+city: Beltsville
+country: United States
+description: This is a turn of the century building used by a Catholic organization to train their priests and also as a retirement home for priests. Many strange incidents have been reported there.
+location: Ammendale Normal Institute
+state: Maryland
+state_abbrev: MD
+longitude: -76.8998203
+latitude: 39.0537631
+city_longitude: -76.9074739
+city_latitude: 39.0348317
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

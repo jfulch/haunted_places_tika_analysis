@@ -1,0 +1,21 @@
+city: Portsmouth
+country: United States
+description: the Wentworth home is haunted and has been for many years. Its late history is a nursing home, presently a multi level care facility for the aged. a private nursing home until the early 90's now it is open to state care residents. The hauntings or happenings have been seen by many a caregiver over the years. Seeing full apparitions who speak is a good one. Many people have passed over there in this place. it is a pleasant place to be, and to work in. the things that have happened over the years are varied from things removing themselves to another location, apparitions, stuck doors opening by themselves, footsteps, voices and the like. A former worker on the 11-7 shift reports they heard voices, doors closing that were never open. And in certain places in the home/ the older part, felt as though they was not alone in the room. Other people who had worked there have their stories, but generally it’s been there a long time, and a lot of people have died there. Some just hang around. There are workers who will not go into the old part at night if they don’t have to.
+location: Mark H. Wentworth home for the chronically invalid
+state: New Hampshire
+state_abbrev: NH
+longitude: -70.7530143
+latitude: 43.073392
+city_longitude: -70.7625532
+city_latitude: 43.0717552
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

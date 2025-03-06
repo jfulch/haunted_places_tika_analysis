@@ -1,0 +1,21 @@
+city: District of Columbia
+country: United States
+description: Rose Bedroom - President Andrew Jackson is said to haunt his bed in the room
+location: White House
+state: Washington DC
+state_abbrev: DC
+longitude: -77.0365298
+latitude: 38.8976763
+city_longitude: -77.0368707
+city_latitude: 38.9071923
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1902/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Edinburg
+country: United States
+description: strange sightings have taken place there. It is located just 1/4 of a mile from Hillcrest cemetery. It is said that late at night you can see figures walking on the school grounds.
+location: Austin Elementary
+state: Texas
+state_abbrev: TX
+longitude: -98.1510158
+latitude: 26.302264
+city_longitude: -98.1633432
+city_latitude: 26.3017374
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

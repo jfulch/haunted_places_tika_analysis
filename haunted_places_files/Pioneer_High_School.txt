@@ -1,0 +1,21 @@
+city: Whittier
+country: United States
+description: In the middle of the Stadium there have been reports of a man or teen running laps, when people go to confront him he disappears right in front of them.
+location: Pioneer High School
+state: California
+state_abbrev: CA
+longitude: -118.0794452
+latitude: 33.9693234
+city_longitude: -118.032844
+city_latitude: 33.9791793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

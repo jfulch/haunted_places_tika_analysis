@@ -1,0 +1,21 @@
+city: Nicholasville
+country: United States
+description: Janitors report being hit by thrown trash cans in the middle of the night. Lockers seen opening and closing on their own. Football field lights go off and on by themselves at strange hours of the night.
+location: West Jessamine High School
+state: Kentucky
+state_abbrev: KY
+longitude: -84.61579329999999
+latitude: 37.886622
+city_longitude: -84.5729961
+city_latitude: 37.8806341
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

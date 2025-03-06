@@ -1,0 +1,21 @@
+city: Muskogee
+country: United States
+description: Apparitions, unexplained sounds, cold spots, objects moving around by themselves. Bacone is a college founded by the Indians built in 1880. For years people have also told of phantom riders, an Indian war party that rides through the campus. You can hear the horses and the Indians calling out.
+location: Bacone College
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.3350876
+latitude: 35.7767117
+city_longitude: -95.3696909
+city_latitude: 35.7478769
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1880/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

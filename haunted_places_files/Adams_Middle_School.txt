@@ -1,0 +1,21 @@
+city: Prestonsburg
+country: United States
+description: A mysterious lady in black can be found roaming the hallways alone. Janitors have even heard faint cries or whispering in their ears. Doors can be found opening and closing by themselves and furniture even moves. Even the office camera tapes pick up the ghostly figure.
+location: Adams Middle School
+state: Kentucky
+state_abbrev: KY
+longitude: -82.7433856
+latitude: 37.6692948
+city_longitude: -82.7715486
+city_latitude: 37.6656527
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

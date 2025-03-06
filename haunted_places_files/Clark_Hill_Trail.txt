@@ -1,0 +1,20 @@
+city: Olive Hill
+country: United States
+description: In the early 1900's a young woman named Stella Kinney went to live with her aunt and uncle who lived out of town. According to legend her uncle got her pregnant. Well on the way back he murdered her. He took her placed her on a huge rock and cut her head off with a hand ax. For years after the rock was called by the locals "Bloody Rock" and every time it rained it would bleed. But now it has been buried into the ground because they made the road bigger.
+location: Clark Hill Trail
+state: Kentucky
+state_abbrev: KY
+longitude: -83.18784570000001
+latitude: 38.2954346
+city_longitude: -83.17406539999999
+city_latitude: 38.3000809
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/27
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

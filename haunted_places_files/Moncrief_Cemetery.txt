@@ -1,0 +1,21 @@
+city: Gardendale
+country: United States
+description: Weird screams coming from the coffins along the north side. Ghostly apparitions have been seen walking in the mortuary at 12:00AM sharp. Also, cars die when turned off.
+location: Moncrief Cemetery
+state: Alabama
+state_abbrev: AL
+longitude: -86.8141887
+latitude: 33.6727984
+city_longitude: -86.8127702
+city_latitude: 33.6601033
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

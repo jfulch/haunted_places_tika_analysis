@@ -1,0 +1,20 @@
+city: Salinas
+country: United States
+description: Old stage road has been known for many hauntings. It runs right outside of Salinas and goes through the back roads of King city. One of the most infamous stories that have been passed down was back in the late 1800's or early 1900's there was a woman that was walking along side the road and there was a man who asked her for a ride and she accepted it. After a couple of minutes passed by, he pulled over and savagely attacked and raped her. After this horrendous act he took the body out into the fields and decapitated her. Then he went out threw the head into the fields and left the body. After that there was sightings of a woman walking down the road holding her own head or you see a woman walking and if someone picks her up she'll sit there for a moment and then vanishes right where the crime occurred.
+location: old stage road
+state: California
+state_abbrev: CA
+longitude: -121.5639572
+latitude: 36.686397
+city_longitude: -121.6555013
+city_latitude: 36.6777372
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

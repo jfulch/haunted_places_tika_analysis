@@ -1,0 +1,21 @@
+city: South Pasadena
+country: United States
+description: The Rialto Theater is VERY old, possibly 70 years old. Many people have died there. In the bathroom a girl slit her wrists and climbed up to the balcony and bled to death in the seats. It is also said that a man went crazy in the projector booth. The doors to the stalls in the girl's bathroom shake. An apparition of an older man has been seen sitting in the seats. The older man has also been seen walking up and down the balcony stairs.
+location: The Rialto Theater
+state: California
+state_abbrev: CA
+longitude: -118.1505842
+latitude: 34.1139989
+city_longitude: -118.1503488
+city_latitude: 34.1161196
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1986/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

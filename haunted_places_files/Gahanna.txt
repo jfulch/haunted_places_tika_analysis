@@ -1,0 +1,20 @@
+city: Gahanna
+country: United States
+description: Jefferson High School - Following basketball games where the local team loses (a not unusual occurrence) when the lights are turn out a basketball can be heard dribbling and occasionally the backboard on the West end of the gym vibrates as if a score had been made
+location: Gahanna
+state: Ohio
+state_abbrev: OH
+longitude: -82.8793446
+latitude: 40.0192307
+city_longitude: -82.8793446
+city_latitude: 40.0192307
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1964/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

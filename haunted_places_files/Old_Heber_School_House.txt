@@ -1,0 +1,21 @@
+city: Heber
+country: United States
+description: Noises such as stomping and eraser banging are heard especially at night. Before the windows were completely broken off, there was one front window that was broken in the shape of a women.
+location: Old Heber School House
+state: California
+state_abbrev: CA
+longitude: -115.5284066
+latitude: 32.726299
+city_longitude: -115.529718
+city_latitude: 32.7308911
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

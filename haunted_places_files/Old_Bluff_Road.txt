@@ -1,0 +1,20 @@
+city: Columbia
+country: United States
+description: A number of phantoms/Ghost. A carriage that races a car, A bridge where your car will stall out, and many more.
+location: Old Bluff Road
+state: South Carolina
+state_abbrev: SC
+longitude: -80.8317536
+latitude: 33.8427958
+city_longitude: -81.0348144
+city_latitude: 34.0007104
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

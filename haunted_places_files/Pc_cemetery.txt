@@ -1,0 +1,20 @@
+city: Platte city
+country: United States
+description: The grave yard has been said that if you go during the bewitching hour, you can see dead people, actual dead people in the ground.. NOt moving, just laying there. Under ground about 6 or so ft.
+location: Pc cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -94.5979844
+latitude: 39.2452332
+city_longitude: -94.7824609
+city_latitude: 39.3702773
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

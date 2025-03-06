@@ -1,0 +1,21 @@
+city: Havelock
+country: United States
+description: cherry point - On February 1 around 2 am an overnight rn was at the snack/drink machines in the hospital when she saw a person dressed in all black run by the doorway, within seconds she was at the door to see there was no one in the hall, nor had she heard anyone running down the hall she was the only one there.
+location: Halliburton naval hospital
+state: North Carolina
+state_abbrev: NC
+longitude: -77.358437
+latitude: 34.72295
+city_longitude: -76.9013301
+city_latitude: 34.8790492
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/02/29
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

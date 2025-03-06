@@ -1,0 +1,21 @@
+city: Minocqua
+country: United States
+description: On numerous occasions vaporous forms are seen in the back hallway by the bathrooms where the man died. After closing things are also moved around not as people left them. Occasionally cold spots are noticed.
+location: Tula's Café
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.71879179999999
+latitude: 45.8877118
+city_longitude: -89.8847965
+city_latitude: 45.789963
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

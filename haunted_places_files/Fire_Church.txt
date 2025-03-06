@@ -1,0 +1,21 @@
+city: Memphis
+country: United States
+description: when you walk up to the church night or day there is nothing there but as you drive past the church you see flames in the back window. This place could be haunted by and evil spirit this will only happen at night during the day you can not see the flames
+location: Fire Church
+state: Tennessee
+state_abbrev: TN
+longitude: -89.9908614
+latitude: 35.1189238
+city_longitude: -90.0489801
+city_latitude: 35.1495343
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: South Phoenix
+country: United States
+description: The mountain range is reported to have paranormal activity throughout. Some examples are seeing strange lights, shadows, etc. There are Indian burial grounds scattered throughout, as well as a hidden gold mine somewhere.
+location: Superstition Mountains
+state: Arizona
+state_abbrev: AZ
+longitude: -111.1936733
+latitude: 33.475515
+city_longitude: -112.0734812
+city_latitude: 33.4067115
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

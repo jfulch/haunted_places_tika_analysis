@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: In the 90's a family at a local shopping center "Wards" got more then they expected when a little boy was with his parents and needed to use the restroom and the mother and father took him. When the father let the son go in he screamed like no other had screamed before, and when the parents rushed in to the restroom there child were gone. The rumor has it there had been a man in the man's bathroom to this day no one know what happened to the children but when ever anyone goes in one of the bathrooms there are strange noises and toilets flushing by them self.
+location: Wards - El Paso
+state: Colorado
+state_abbrev: CO
+longitude: -104.6699484
+latitude: 39.02335619999999
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: War
+witness_count: 0

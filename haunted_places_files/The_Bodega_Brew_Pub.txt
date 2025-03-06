@@ -1,0 +1,21 @@
+city: La Crosse
+country: United States
+description: Apparition of the original owner is reported.
+location: The Bodega Brew Pub
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.2519079
+latitude: 43.8117108
+city_longitude: -91.2395807
+city_latitude: 43.8013556
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1531/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

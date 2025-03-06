@@ -1,0 +1,21 @@
+city: Medfield
+country: United States
+description: behind the school are fields, There are often spells of 'red water’ and the soft cries of children are often reported.
+location: Wheelock school
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.2902976
+latitude: 42.1748268
+city_longitude: -71.30645969999999
+city_latitude: 42.18758260000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

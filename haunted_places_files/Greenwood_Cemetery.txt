@@ -1,0 +1,21 @@
+city: Chattanooga
+country: United States
+description: Long ago at a lake across from the cemetery, a wealthy family lived in a large house. The wife was stricken with an illness and had to be put in a wheelchair. Her husband fell in love with another woman and pushed his wife into the lake killing her. Some nights she can be seen as a green mist hovering above the ground and there will be wheelchair tracks on the ground.
+location: Greenwood Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -85.2411
+latitude: 35.0589818
+city_longitude: -85.3096801
+city_latitude: 35.0456297
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

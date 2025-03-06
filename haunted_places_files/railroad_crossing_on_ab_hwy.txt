@@ -1,0 +1,18 @@
+city: Elwood
+country: United States
+description: in the warm months a woman is seen getting up from the tracks and walking then staggering off of them but nobody can be found in the area . Believed to be a bartender who was hit by a train one night a few years ago. Also a rottwiler dog can be seen chasing a rabbit just past the tracks heading north. believed to be the bradshaw family dog killed by a car 8/14/06
+location: railroad crossing on ab hwy.
+state: Missouri
+state_abbrev: MO
+city_longitude: -93.431304
+city_latitude: 37.2281049
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

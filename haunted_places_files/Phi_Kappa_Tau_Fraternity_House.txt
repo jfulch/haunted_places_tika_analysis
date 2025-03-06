@@ -1,0 +1,21 @@
+city: Fullerton
+country: United States
+description: The spirit of a little girl who was murdered in the ravine next to the house has been said to wander the house at night, sometimes turning on water taps, turning on and off lights, opening and shutting cabinets. Sometimes her laughter is heard in summer afternoons.
+location: Phi Kappa Tau Fraternity House
+state: California
+state_abbrev: CA
+longitude: -117.753798
+latitude: 34.061101
+city_longitude: -117.9242123
+city_latitude: 33.8703645
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

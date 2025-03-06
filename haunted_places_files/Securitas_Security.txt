@@ -1,0 +1,21 @@
+city: Campbell
+country: United States
+description: Feeling of not being alone in the building after hours. Out of the corner of your eyes at night, you see something run down the hall and around the corner. Sometimes in the hallway where you see the figure, you get major chills and your hair stands on end. Also you can hear doors slamming in different areas of the first floor after it been closed.
+location: Securitas Security
+state: California
+state_abbrev: CA
+longitude: -121.9235316
+latitude: 37.3831508
+city_longitude: -121.9499568
+city_latitude: 37.2871651
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2013/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

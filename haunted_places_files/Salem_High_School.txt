@@ -1,0 +1,20 @@
+city: Salem
+country: United States
+description: It is said that the auditorium is haunted. You can hear footsteps. You can hear doors slamming shut when no one is there.
+location: Salem High School
+state: South Dakota
+state_abbrev: SD
+longitude: -97.3858207
+latitude: 43.7275814
+city_longitude: -97.388953
+city_latitude: 43.7241455
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1927/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

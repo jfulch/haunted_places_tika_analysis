@@ -1,0 +1,21 @@
+city: Wabash
+country: United States
+description: Near the Salamonie Reservoir, black shadows have been seen running through the forest. Strange lights also have been known to appear, along with a foul odor. Witnesses have even claimed to see wolf-like creatures wondering about the forest. Hikers say that time seems to stand still while hiking and the trails appear to shift, causing some unlucky people to be lost.
+location: Wabash County State Forest
+state: Indiana
+state_abbrev: IN
+longitude: -85.69048440000002
+latitude: 40.8093627
+city_longitude: -85.8205411
+city_latitude: 40.797821
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

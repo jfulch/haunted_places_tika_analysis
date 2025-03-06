@@ -1,0 +1,21 @@
+city: Kaysville
+country: United States
+description: An old memorial built by a man who's family was murdered.  In the middle of a wooded area, there are reports of people in black cloaks and "dogmen" chasing people away.
+location: Kays Cross
+state: Utah
+state_abbrev: UT
+longitude: -111.9293412
+latitude: 41.0507766
+city_longitude: -111.9385521
+city_latitude: 41.0352216
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1783/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Petoskey
+country: United States
+description: haunted by a woman who killed her self in 1902, she is seen in the garden facing the lake.
+location: Perry hotel
+state: Michigan
+state_abbrev: MI
+longitude: -84.95415469999999
+latitude: 45.3761898
+city_longitude: -84.9553296
+city_latitude: 45.3733428
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1902/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

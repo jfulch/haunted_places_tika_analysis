@@ -1,0 +1,21 @@
+city: Presidio
+country: United States
+description: Once there was a beautiful woman that was killed in that park at 12:00pm. and people claim to have seen her every Tuesday night at exactly 12:00pm. and people can also hear her voice crying and asking for help.
+location: Park
+state: Texas
+state_abbrev: TX
+longitude: -104.3579993
+latitude: 29.5602226
+city_longitude: -104.3721465
+city_latitude: 29.5607383
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

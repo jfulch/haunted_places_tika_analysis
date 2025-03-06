@@ -1,0 +1,19 @@
+city: Salem
+country: United States
+description: shadow/orb that manifests between 23rd and 24th Streets off State that will go between a body piercing shop and Sybillis Omelets.
+location: 23rd and 24th St off State
+state: Oregon
+state_abbrev: OR
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

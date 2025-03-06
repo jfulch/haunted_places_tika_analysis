@@ -1,0 +1,21 @@
+city: Rochester
+country: United States
+description: Theta Chi Fraternity House - The house is a old mansion in the historical district of Pontiac. It had a fire that occurred in the attic when the original owners had it(somewhere in the late 1800's early 1900's). Some people died in the fire. The attic was converted into living space for the fraternity. Brothers living in the attic have reported waking up in the middle of the night to see figures standing in there (locked) room, staring with red eyes. The figures would basically just stare with a angered look in there eyes and vanish. Brothers would also hear footsteps around the attic area(hall & stairs)when no one is present. Some have woke up with one of the ghosts face just a foot away from their own face.
+location: Oakland University
+state: Michigan
+state_abbrev: MI
+longitude: -83.20664149999999
+latitude: 42.66884830000001
+city_longitude: -83.1338214
+city_latitude: 42.680588
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,19 @@
+city: San Jacinto
+country: United States
+description: Its been abandoned for many years now and has been boarded up but there have been reports of lights flickering on and off and a "presence" of some sort.
+location: Vosburg Cafe/Hotel
+state: California
+state_abbrev: CA
+city_longitude: -116.958635
+city_latitude: 33.7839084
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

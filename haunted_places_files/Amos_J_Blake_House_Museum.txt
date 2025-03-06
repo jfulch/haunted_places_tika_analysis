@@ -1,0 +1,21 @@
+city: Fitzwilliam
+country: United States
+description: Multiple reports from museum employees and visitors include feelings of being watched, nausea, strange sounds, doors opening/closing, voices, objects being moved, and mist. A paranormal team investigating the location got photos of mist and recorded voices. The museum does offer tours.
+location: Amos J. Blake House Museum
+state: New Hampshire
+state_abbrev: NH
+longitude: -72.1455828
+latitude: 42.7800841
+city_longitude: -72.14174899999999
+city_latitude: 42.7806396
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1868/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

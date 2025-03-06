@@ -1,0 +1,21 @@
+city: Hebron
+country: United States
+description: in one of the high school girls bathrooms a girl had hung herself. Now some teachers claim to hear voices coming from that bathroom when they stay late after school hours.
+location: Hebron High School
+state: Indiana
+state_abbrev: IN
+longitude: -87.19649509999999
+latitude: 41.31392650000001
+city_longitude: -87.2003091
+city_latitude: 41.3186482
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

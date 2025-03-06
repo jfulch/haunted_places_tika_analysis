@@ -1,0 +1,21 @@
+city: Powhattan
+country: United States
+description: March 2008 Has been removed.
+location: Kickapoo Nation School
+state: Kansas
+state_abbrev: KS
+longitude: -95.6349943
+latitude: 39.7620494
+city_longitude: -95.6349943
+city_latitude: 39.7620494
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

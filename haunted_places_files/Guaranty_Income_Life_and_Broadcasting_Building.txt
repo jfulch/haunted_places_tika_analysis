@@ -1,0 +1,21 @@
+city: Baton Rouge
+country: United States
+description: This structure originally housed the old location for the Baton Rouge General Hospital. The bottom floor of the building used to serve as the hospital morgue, but now it houses a cafeteria and several offices. The old morgue freezer was turned into a file storage facility during the renovations for the new office complex. At night, the entire floor seems to drop several degrees colder than the rest of the building. Several of the security guards refuse to go down there and many complaints of strange noises have been reported coming from the bottom floor. The elevator is even said to go up and down all by itself at night when no one is there.
+location: Guaranty Income Life and Broadcasting Building
+state: Louisiana
+state_abbrev: LA
+longitude: -91.1809704
+latitude: 30.4438653
+city_longitude: -91.1403196
+city_latitude: 30.4582829
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

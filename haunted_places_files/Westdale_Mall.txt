@@ -1,0 +1,21 @@
+city: Cedar Rapids
+country: United States
+description: A young girl was working a late night shift, when she was about to close and turn all the lights off. The freezer door, which was shut & locked, Flung open for no apartment reason. The young girl ran and has never been alone again. It is said it is a ghost of a man whom died while building the mall.
+location: Westdale Mall
+state: Iowa
+state_abbrev: IA
+longitude: -91.7193209
+latitude: 41.9521748
+city_longitude: -91.6656232
+city_latitude: 41.9778795
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Wingdale
+country: United States
+description: Only two or so of the original approximately fifty patient, personnel, and factory buildings are still in use, now housing juvenile offenders and their guards. Beneath this compound is a virtual underground city. Supposedly, some of those patients released from the hospital as it was being closed down have returned from time to time to squat in this subterranean labyrinth. Adjacent to this compound is a cemetery, where It is believed some of the patients who died at the hospital were laid to rest.
+location: Hudson Valey Correctional
+state: New York
+state_abbrev: NY
+longitude: -73.95087029999999
+latitude: 41.5219847
+city_longitude: -73.5667744
+city_latitude: 41.6465446
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

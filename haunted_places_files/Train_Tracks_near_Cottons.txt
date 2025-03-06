@@ -1,0 +1,21 @@
+city: San Clemente
+country: United States
+description: blood will sometimes appear on the train tracks near Cottons where a surfer was killed while attempting to cross the railway to the water. His ghost has also been ‘alleged’ to have actually saved other surfers from harms way in the general area… ghost of the lost surfer.
+location: Train Tracks near Cottons
+state: California
+state_abbrev: CA
+longitude: -117.6197983
+latitude: 33.419595
+city_longitude: -117.6126004
+city_latitude: 33.4273521
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

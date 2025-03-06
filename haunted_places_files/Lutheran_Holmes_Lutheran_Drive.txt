@@ -1,0 +1,21 @@
+city: Muscatine
+country: United States
+description: Lutheran Holmes now a nursing home use to be an orphanage. There is said to be old tunnels underneath the building but have never been seen. Workers say that on the seven hundred in one of the room every time a new patient comes to that room they soon die. Also the six hundred hall call lights will come on and nobody is in that room. Residents say they see children running at night and asked the staff to ask them to be quiet. Behind is an old cemetery, which is closed and has a no trespassing sign. It is small and consists of mostly orphan graves. You get an uneasy feeling and want to leave.
+location: Lutheran Holmes/ Lutheran Drive
+state: Iowa
+state_abbrev: IA
+longitude: -91.0964924
+latitude: 41.4186702
+city_longitude: -91.0432051
+city_latitude: 41.424473
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/12/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Outer Banks
+country: United States
+description: Late at night (usually around 1 in the morning) you can hear terrified screams coming from the ocean, the screamer always shouts, "Oh god that monster is swimming closer to me" Then you hear one last agonized shout and the sound of someone being pulled underwater. The screamer is supposed to be a man who disappeared and was thought to be killed by a shark.
+location: Sanderling
+state: North Carolina
+state_abbrev: NC
+longitude: -75.77162500000001
+latitude: 36.2227579
+city_longitude: -75.4665158
+city_latitude: 35.5584932
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

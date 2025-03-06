@@ -1,0 +1,21 @@
+city: Grapevine
+country: United States
+description: This was the former high school and then Grapevine middle school which has now been moved as well.  The building began as a mental hospital and then was changed into a normal hospital, after malpractice charges.  The lights in rooms would randomly shut off and voices were heard in the hallways.  Basketball practices used to be held there at night until many players would hear voices and stopped showing up.
+location: Grapevine middle school
+state: Texas
+state_abbrev: TX
+longitude: -97.0855764
+latitude: 32.9429222
+city_longitude: -97.0780654
+city_latitude: 32.9342919
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: The night shift has heard voices, and footsteps. Mainly in the front ICU wards and the first unit. Staff and residents alike have seen shadows, heard footsteps and whispering. Many of the staff have complained of cold spots and the feeling of something or someone brushing up against them.
+location: Bokenkamp
+state: Texas
+state_abbrev: TX
+longitude: -97.349616
+latitude: 27.717336
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

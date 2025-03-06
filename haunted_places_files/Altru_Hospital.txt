@@ -1,0 +1,21 @@
+city: Grand Forks
+country: United States
+description: Formerly United Hospital - The staff elevator makes several runs per night, often empty. Many staff members have claimed to have seen the elevator open on their floor and caught a glimpse of a figure inside, Strange, unexplained shadows set off the door alarms in the psych ward. When seen on video camera, the shadows appear to slide under the door and reappear on the other side. - April 2007 Correction/ Update: The Altru and United Hospital submissions were combined, United Hospital became Altru sometime around 2000.
+location: Altru Hospital
+state: North Dakota
+state_abbrev: ND
+longitude: -97.0691871
+latitude: 47.9107295
+city_longitude: -97.0328547
+city_latitude: 47.9252568
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1877/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

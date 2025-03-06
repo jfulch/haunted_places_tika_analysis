@@ -1,0 +1,21 @@
+city: Pullman
+country: United States
+description: Steven's Hall - In the basement of one of the only female dorm houses left, it is said that a girl was staying in the basement (illegally) during the summer. Gary Ridgeway (the Green River Killer) supposedly was in Eastern Washington and somehow knew about this girl. he killed her and now girls will not spend extended amounts of time in the basement because they have seen, heard, and even felt chills of unexplainable kinds.
+location: Washington State University
+state: Washington
+state_abbrev: WA
+longitude: -117.1542121
+latitude: 46.7319225
+city_longitude: -117.1817377
+city_latitude: 46.7297771
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

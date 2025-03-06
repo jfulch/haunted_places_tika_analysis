@@ -1,0 +1,21 @@
+city: Orlando
+country: United States
+description: Republic bank/Orange Ave. - Numerous employees and visitors have witnessed apperitions of a shadow type figure as well noises, doors opening and shuting,elevators with no one on them moving with footsteeps coming off of them. Numerous siteing of a female looking at you in restroom mirrors and then vanishing.
+location: Citrus Center
+state: Florida
+state_abbrev: FL
+longitude: -81.3784263
+latitude: 28.539269
+city_longitude: -81.3792365
+city_latitude: 28.5383355
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

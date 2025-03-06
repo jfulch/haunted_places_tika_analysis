@@ -1,0 +1,19 @@
+city: Carnegie
+country: United States
+description: Reports of hearing an organ playing and seeing an apparition of a "Blue Lady." Many claim that she would knock on their door in the middle of the night saying that something was very wrong in the house though nothing was ever found out of the ordinary.
+location: Old Lonsinger House
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -80.0833885
+city_latitude: 40.4086802
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

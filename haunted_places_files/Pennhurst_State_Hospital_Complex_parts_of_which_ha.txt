@@ -1,0 +1,19 @@
+city: Spring City
+country: United States
+description: No Trespassing.- March 2008 Update – A visitor who lives in the area wanted to add that she hears gun shots and screams all the time.
+location: Pennhurst State Hospital Complex- parts of which have now been converted into a Veterans State Hospital by former Governor Ridge. No matter where you go in these buildings you can hear people talking and moving around, even though you are quiet. You can feel the energy of many people surrounding you, although none of it is negative. Nature sounds are not to be heard, although woods surround Pennhurst. The grounds are protected by Military Police and the have camp set up in the middle of the layout.
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -75.5476876
+city_latitude: 40.1767688
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2012/05/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

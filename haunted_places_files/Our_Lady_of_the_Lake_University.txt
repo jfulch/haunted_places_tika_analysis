@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: This university is said to carry ageless stories of past inhabitants who still walk the halls and campus grounds. Some of the more famous ones include the once janitor who haunts the basement of the library, the ghosts of the dorms, ghostly nuns, and a famous headless apparition who walks the halls of what is now the elementary school across the street, but was once a dorm for the university
+location: Our Lady of the Lake University
+state: Texas
+state_abbrev: TX
+longitude: -98.5433654
+latitude: 29.4264099
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Roma
+country: United States
+description: In the 1940's, a young girl who was about to receive her First Communion fell, hit her head on a rock, and died. Now, legend has it that she haunts the community's historical plaza. Citizens of this small town have claimed to see her walking through this area in her beautiful, white dress. At other times, they have complained of hearing loud noises in the middle of night when no one else is in sight.
+location: Roma's Historical Plaza
+state: Texas
+state_abbrev: TX
+longitude: -96.9081618
+latitude: 32.65158
+city_longitude: -99.0156554
+city_latitude: 26.4088523
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1992/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

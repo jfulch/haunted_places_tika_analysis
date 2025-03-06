@@ -1,0 +1,21 @@
+city: Chestnut Hill
+country: United States
+description: Students have reported lights along the pathway near the Main House (administration building) turning off and on late at night as they walk by. For example, as a person approaches a light it goes out, then back on once the person has gone by it. An eerie feeling of being watched in this location has also been noted, as well as unexplained isolated mists in the surrounding wooded area.
+location: Pine Manor College
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.157477
+latitude: 42.3199094
+city_longitude: -71.166187
+city_latitude: 42.3303798
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

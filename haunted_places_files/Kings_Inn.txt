@@ -1,0 +1,21 @@
+city: Bristol
+country: United States
+description: Chairs and silverware move themselves, as well as lamps and doors slamming. Pictures fly off the wall and the apparition of a man has been spotted there.
+location: King's Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.8561256
+latitude: 40.0946019
+city_longitude: -74.8518311
+city_latitude: 40.1006661
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: War
+witness_count: 0

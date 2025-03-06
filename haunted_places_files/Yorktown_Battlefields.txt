@@ -1,0 +1,21 @@
+city: Yorktown
+country: United States
+description: Plenty of Civil War Era ghosts wandering around. And legend is if you sit on a hill on the battle fields at midnight and stare at the moon for a few seconds, then look at the battle fields the soldiers are still there fighting.
+location: Yorktown Battlefields
+state: Virginia
+state_abbrev: VA
+longitude: -76.5024214
+latitude: 37.2307961
+city_longitude: -76.5096731
+city_latitude: 37.2387556
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1975/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 0

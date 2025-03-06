@@ -1,0 +1,21 @@
+city: Petersburg
+country: United States
+description: It is said that late at night you can hear loud voices and sounds of cannons going off. That is also a ghostly figure that rides a black horse and can be seen on top of the hill just behind the station.
+location: Battery 9 station
+state: Virginia
+state_abbrev: VA
+longitude: -77.3568983
+latitude: 37.2438545
+city_longitude: -77.40192669999999
+city_latitude: 37.2279279
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

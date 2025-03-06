@@ -1,0 +1,21 @@
+city: Port Chester
+country: United States
+description: Late in the 1940's, senior students at the High School tortured and dragged a freshman to the clock tower as a freshman prank. Upon reaching the top of the old staircase, the young boy fell from the clock tower and landed on the concrete below. He broke his neck and died instantly. The boys responsible for the crime never confessed until they started experiencing hauntings during school. One was haunted so bad that he committed suicide a year later. The boy's ghost still haunts the clock tower today and can be seen opening the door that leads to it. Students also report that the lights flicker upon opening the door.
+location: Port Chester High School -Tower
+state: New York
+state_abbrev: NY
+longitude: -73.6785457
+latitude: 41.0123199
+city_longitude: -73.66568339999999
+city_latitude: 41.0017643
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

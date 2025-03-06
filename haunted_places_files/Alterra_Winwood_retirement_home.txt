@@ -1,0 +1,21 @@
+city: Shelby Township
+country: United States
+description: a former worker that worked there for about 4 months during the afternoon shift in the kitchen would hear voices and also hear pots and pans being moved without anybody in the kitchen. Other people that worked there have also encountered abnormal things such as visions or voices. Some people say that it is some of the elderly who have died in that place.
+location: Alterra Winwood- retirement home
+state: Michigan
+state_abbrev: MI
+longitude: -83.0706015
+latitude: 42.627356
+city_longitude: -83.0329934
+city_latitude: 42.670782
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

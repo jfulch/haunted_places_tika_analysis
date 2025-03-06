@@ -1,0 +1,21 @@
+city: Alexandria
+country: United States
+description: Known to be haunted by a young women in period clothing.
+location: Gadsby's Tavern
+state: Virginia
+state_abbrev: VA
+longitude: -77.0436284
+latitude: 38.805639
+city_longitude: -77.0469214
+city_latitude: 38.8048355
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bayonne
+country: United States
+description: This was a World War Two Factory active to make P.T. Boats after the war a lot of people lost the jobs. During the war a boat fell off a conveyer belt and crushed 2 men. And now the little girl is seen some times looking for her father and her father is still yell for her. Over and over. Never to be seen again but forever heard!
+location: Elco Naval Base
+state: New Jersey
+state_abbrev: NJ
+longitude: -80.2543044
+latitude: 40.0257053
+city_longitude: -74.1143091
+city_latitude: 40.6687141
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Jackson
+country: United States
+description: A former employee reports hearing footsteps, automatic doors opening and shutting rapidly.
+location: University Club Amsouth Building
+state: Mississippi
+state_abbrev: MS
+longitude: -90.1853161
+latitude: 32.3007314
+city_longitude: -90.1848103
+city_latitude: 32.2987573
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 36m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

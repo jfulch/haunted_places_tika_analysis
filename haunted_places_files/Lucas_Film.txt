@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: Formerly Listed as Abandoned Army Hospital - Many soldiers died and their ghosts still haunt this hospital in Park Presidio. It is fenced off, but you can find ways either under the fence or over it. Many windows have been boarded up but a basement door towards the back of the building is open. Also, many windows are busted out and it is musty, graffiti-filled, and very spooky. You can hear footsteps, see reflections of light, and sometimes a cold draft. Even S.F.P.D. will not enter. - The police patrol the area and it is VERY possible you will get arrested or ticketed. - March 2008 update: Was torn down, there are no new reports since being owned by Lucas Film.
+location: Lucas Film
+state: California
+state_abbrev: CA
+longitude: -122.4497938
+latitude: 37.8005441
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

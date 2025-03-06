@@ -1,0 +1,20 @@
+city: Modesto
+country: United States
+description: 4 girls said to have been raped and murdered haunt a store in the mall.
+location: Vintage Faire Mall
+state: California
+state_abbrev: CA
+longitude: -121.0540259
+latitude: 37.6887363
+city_longitude: -120.9968782
+city_latitude: 37.63909719999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1874/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

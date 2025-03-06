@@ -1,0 +1,21 @@
+city: Murrieta
+country: United States
+description: Boston Scientific Company - Witnesses report a ghost of a young girl around the office area between the cubicles. There are no kids allowed or anyone allowed in those spaces would have to officially check in the front office area. Also, in the woman's restroom next to the lunchroom, people have sighted the faucet turning on and off on it's own. If you are there alone in the restroom, you can hear in the last stall someone unrolling the toilet paper. In the clean room, items coming out of the bio machine have been thrown straight across the room and you can also feel someone blowing in your ear.
+location: French Valley
+state: California
+state_abbrev: CA
+longitude: -117.1699011
+latitude: 33.5301568
+city_longitude: -117.2139232
+city_latitude: 33.5539143
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2012/06/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

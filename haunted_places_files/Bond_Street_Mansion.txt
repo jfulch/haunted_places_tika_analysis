@@ -1,0 +1,19 @@
+city: Niles
+country: United States
+description: The bond street family cemetery is across the road. A little boy who lived with his parents in the mansion died of fright in the 1800's after his bedside candle was blown out by a draft in the middle of the night. He is buried in a tomb in the cemetery. It is said that his mother had an underground pathway built under the road to her son's tomb and she would visit the tomb every night. They say to this day, you can see the woman's ghost walk across the road and weep at her son's grave and every night a mysterious light will shine in the upstairs bedroom window and then suddenly go out.
+location: Bond Street Mansion
+state: Michigan
+state_abbrev: MI
+city_longitude: -86.2541768
+city_latitude: 41.8297694
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

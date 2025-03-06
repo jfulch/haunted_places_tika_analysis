@@ -1,0 +1,21 @@
+city: Hamilton
+country: United States
+description: On Highway 36 East, past the fill up station and before the old antique shop, there is a bridge. Under that bridge lies a bike trail. If you follow the trail North, stop under the Highway 36 bridge and turn towards the creek you will see a drainage pipe. Go accross to the pipe and crawl in on your hands and knees past two turns. Shine a flashlight down the tunnel and you should see a head look at you and then duck around the corner. Also you should hear metal banging ahead of you and grunting noises. Rumor has it, this is some sort of goat-man.
+location: Pecan Creek Trail
+state: Texas
+state_abbrev: TX
+longitude: -98.1227746
+latitude: 31.69870079999999
+city_longitude: -98.1239231
+city_latitude: 31.7037655
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

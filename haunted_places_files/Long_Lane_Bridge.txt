@@ -1,0 +1,21 @@
+city: Millersville
+country: United States
+description: The story goes that a man lived across from the old bridge and one day he just snapped and hung his family from the bridge rafters.  Reports of apparitions appearing on photos, voices being heard, and a feeling of being watched.
+location: Long Lane Bridge
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.3580515
+latitude: 39.9692317
+city_longitude: -76.3541274
+city_latitude: 39.9978764
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

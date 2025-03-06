@@ -1,0 +1,20 @@
+city: Smithville
+country: United States
+description: There are several places upon this lake that are supposed to be haunted. In one of the places, there are road signs that appear to bleed and have bullet holes in them. They disappear though when people get close. There have also been reports of strange occurrences at a place called Devil's Bridge. Devils bridge is located off of 92 HWY East outside of Smithville. It is where there are five roads that use to meet and make a pentagram. - The bridge may have since been destroyed.
+location: Smithville Lake
+state: Missouri
+state_abbrev: MO
+longitude: -94.5310289
+latitude: 39.4361329
+city_longitude: -94.5810659
+city_latitude: 39.38694419999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

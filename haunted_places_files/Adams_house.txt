@@ -1,0 +1,21 @@
+city: Birmingham
+country: United States
+description: House built in 1920. Originally inhabited by Margaret parks who owned Parks Cole Company in downtown Birmingham around the same period. Countless paranormal experiences in the home. For example: lights turning on and off by themselves, curtains opening as if someone where looking out{nobody being home that is). , cold spots , ghostly apparitions both male and female, items vanishing and reappearing ( items of small size ), a strand of bells ringing in early morning hours. This is only to name a few. Also witnessed by many people. Home at a later date became the Michigan metaphysical society.
+location: Adams house
+state: Michigan
+state_abbrev: MI
+longitude: -83.205793
+latitude: 42.541766
+city_longitude: -83.21131919999999
+city_latitude: 42.5467012
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1920/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Dubuque
+country: United States
+description: This building is said to be one of the most haunted places in Dubuque. It was once a large private residence, but is now a museum. People have experienced classic encounters such as cold breezes, strange voices and chills running down people's spines. Several of the caretakers have reported objects mysteriously out of place and lights flickering. There have even been reports of eerie cries coming from the servant's house, the master bedroom, and the nursery.
+location: The Ham House
+state: Iowa
+state_abbrev: IA
+longitude: -90.6506594
+latitude: 42.53135229999999
+city_longitude: -90.6645718
+city_latitude: 42.5005583
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

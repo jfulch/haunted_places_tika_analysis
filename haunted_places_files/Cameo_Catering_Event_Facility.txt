@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: Mysterious noises, levitations primarily in the basement of assorted objects. Men talking when the building is empty. The building was a Masonic hall for IOOF for years. Story goes members who have passed on object to "guests" in the building, as their rites were secret.
+location: Cameo Catering Event Facility
+state: Washington
+state_abbrev: WA
+longitude: -117.3388995
+latitude: 47.6998994
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2018/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

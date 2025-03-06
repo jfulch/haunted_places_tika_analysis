@@ -1,0 +1,20 @@
+city: Mesa Verde
+country: United States
+description: The spirits of the ancient Anasazi walk in and around the ceremonial pit houses (kivas).
+location: Cliff Palace
+state: Colorado
+state_abbrev: CO
+longitude: -108.4735637
+latitude: 37.1671092
+city_longitude: -108.4618335
+city_latitude: 37.2308729
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Accident
+witness_count: 0

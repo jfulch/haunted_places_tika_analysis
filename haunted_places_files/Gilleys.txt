@@ -1,0 +1,21 @@
+city: Pasedena
+country: United States
+description: Gilleys is an old indoor rodeo that burnt to the ground many years ago. Supposedly a few people died. You get an eerie feeling that someone is watching you. You hear footsteps from the catwalk. A spooky owl flies around as if to tell you to stay away.
+location: Gilleys
+state: Texas
+state_abbrev: TX
+longitude: -95.1669436
+latitude: 29.6598536
+city_longitude: -95.2091006
+city_latitude: 29.6910625
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

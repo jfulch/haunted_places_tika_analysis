@@ -1,0 +1,18 @@
+city: Lakewood
+country: United States
+description: In 1997 the theatre was haunted by an old man with a bad temper. Employees where teased and tormented, many quit. Even customers noticed him wondering around. Management had to bring a specialist.
+location: Union Square 6 Mann Theatre
+state: Colorado
+state_abbrev: CO
+city_longitude: -105.0813734
+city_latitude: 39.7047095
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Westlake
+country: United States
+description: Rumors of hauntings on the second floor. Things moving unexplainably... seeing a ghostly, white, man in a hospital gown in patients with heart-related injuries. Little girl seen in patients [mostly newborns] eyes and in the mirrors in their bathrooms.
+location: St. John Westshore Hospital
+state: Ohio
+state_abbrev: OH
+longitude: -81.943749
+latitude: 41.435755
+city_longitude: -81.9179173
+city_latitude: 41.4553232
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

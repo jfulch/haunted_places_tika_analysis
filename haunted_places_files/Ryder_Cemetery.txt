@@ -1,0 +1,20 @@
+city: Rich Hill
+country: United States
+description: Reports of yelling and no one around.
+location: Ryder Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -94.4296168
+latitude: 38.059388
+city_longitude: -94.3610616
+city_latitude: 38.0964191
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

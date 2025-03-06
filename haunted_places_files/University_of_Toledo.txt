@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: Triangle Fraternity House - The house is around 130 years old and it used to be a funeral home before it was a fraternity house. In the house, doors will randomly open and close, sometimes lights will go out, and some of the brothers have seen people walking around the upstairs hallway and then run through the attic door and then disappear.
+location: University of Toledo
+state: Ohio
+state_abbrev: OH
+longitude: -83.6140701
+latitude: 41.6580307
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1906/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

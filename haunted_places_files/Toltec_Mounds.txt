@@ -1,0 +1,21 @@
+city: Scott
+country: United States
+description: About twenty minutes from Little Rock, this is an old prehistoric Native American worship site. Many consider it Arkansas' "Stonehenge." Large dirt mounds were used as a calendar to predict the future, and for magical purposes. Apparitions are seen, and strange noises have been heard. The site is about 100 acres.
+location: Toltec Mounds
+state: Arkansas
+state_abbrev: AR
+longitude: -92.0605725
+latitude: 34.6443324
+city_longitude: -92.0962552
+city_latitude: 34.6964808
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

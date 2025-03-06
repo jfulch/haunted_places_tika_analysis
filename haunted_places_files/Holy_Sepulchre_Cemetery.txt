@@ -1,0 +1,21 @@
+city: Rochester
+country: United States
+description: you can see ghostly apparitions of dark shadowy woman in black, and in the children's section, you can find white figures that look like smoke almost.
+location: Holy Sepulchre Cemetery
+state: New York
+state_abbrev: NY
+longitude: -77.6305552
+latitude: 43.2133267
+city_longitude: -77.6109219
+city_latitude: 43.16103
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1911/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

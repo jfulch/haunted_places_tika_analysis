@@ -1,0 +1,19 @@
+city: Fremont
+country: United States
+description: Althaugh the home is owned by new owners now, the once-named Applebrook Farm is over 100 years old. A large, white house with red shutters, one could nearly ALWAYS feel the presence of spirits. Figures were seen & voices were heard.
+location: Old Applebrook Farm
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.9420013
+city_latitude: 43.4675173
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Scituate
+country: United States
+description: haunted by lighthouse keepers after original lighthouse was destroyed by a storm, while main light house keeper stood on share & watched after going for provisions.
+location: Minot Lighthouse
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.7591154
+latitude: 42.2697165
+city_longitude: -70.7258633
+city_latitude: 42.195929
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

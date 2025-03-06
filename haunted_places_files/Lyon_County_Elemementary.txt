@@ -1,0 +1,21 @@
+city: Lyon County
+country: United States
+description: It has been said that in the girls bathroom in the gym that a little 9 year old named Lisa died there. She has haunted the bathroom since her death. People have seen shadows, heard screaming, seen things moving, and seen water come on by itself. Even if you knock on the closet door you will hear her knocking back. It's also been said that she has gotten so angry that she tore the doors off of the stalls.
+location: Lyon County Elemementary
+state: Kentucky
+state_abbrev: KY
+longitude: -88.080756
+latitude: 37.0938064
+city_longitude: -88.0900762
+city_latitude: 37.0247261
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/07/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

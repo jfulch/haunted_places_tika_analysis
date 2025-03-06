@@ -1,0 +1,20 @@
+city: Cayce
+country: United States
+description: It is said the stairs by E-pod are haunted by a little girl who fell down the stairs and broke her neck. It is said she fell because there was no light and it was to dark. It is also said that the lights would come on every now and then and people think its her tried to get down the stairs safe.
+location: Busbee Middle School
+state: South Carolina
+state_abbrev: SC
+longitude: -81.04812369999999
+latitude: 33.9491012
+city_longitude: -81.0739827
+city_latitude: 33.96570910000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1895/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

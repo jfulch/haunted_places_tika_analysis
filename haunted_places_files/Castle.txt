@@ -1,0 +1,21 @@
+city: Fort Worth
+country: United States
+description: Brought from England - Apparitions of a man have been reported. - January 2004 additional information: They say a young man built this castle for his bride to be. The wedding was to be held in the newly finished house, but on the wedding day, the bride was found floating in the lake. No one was sure if she died accidentally or if foul play was involved ...But a few months later the groom married the dead woman's sister. Now, at night, the bride can be seen running from the house, across the road and towards the lake before disappearing. The actual history of the Castle is not quite as dramatic as the ghost stories it has spawned...but in case anyone is curious... The Castle was originally an 1860's rock farmhouse that was purchased in the 1920's by the Whitings. After extensive renovations and the addition of the round crenulated front wing and the rear tower the rambling mansion took on the look of a castle. It was completed in 1938 and Mrs. Whiting, who mostly supervised the renovation, named it "Inverness". The residence has seen several owners in the past and at one time Gary Stewart stayed there while filming a movie in the 1950's. In the not so distant past the castle was vacant for a long period of time and was in such disrepair it was on the verge of being condemned. It is now currently occupied and restored.
+location: Castle
+state: Texas
+state_abbrev: TX
+longitude: -97.4753432
+latitude: 32.794352
+city_longitude: -97.3307658
+city_latitude: 32.7554883
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1938/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Gettysburg
+country: United States
+description: This large, civil war era house is always occupied by female students living off-campus, who attend Gettysburg College. There is a small grave in the backyard of the house and it belonged to a young woman who was living there during the civil war. She is said to move around the house at night, moving objects around, breaking plates, glasses, etc. The smell of her perfume, lilac, can be smelled at night when she is walking about the house.
+location: "Red House"
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.24401770000001
+latitude: 39.8278195
+city_longitude: -77.2310955
+city_latitude: 39.8309293
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 0

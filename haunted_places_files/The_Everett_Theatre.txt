@@ -1,0 +1,21 @@
+city: Boston
+country: United States
+description: In the 1700's The Everett Theatre on Fairmount Ave. People on the balcony were all slaughtered on the balcony. Story is that that the further stage lights above the balcony were cut down by two murderers. They killed a whole sold-out audience in the balcony. Today the theatre is closed because the people who owned it ran out of money. Still today the people who were killed are seen screaming and crying up there.
+location: The Everett Theatre
+state: Massachusetts
+state_abbrev: MA
+longitude: -122.208177
+latitude: 47.978749
+city_longitude: -71.0588801
+city_latitude: 42.3600825
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

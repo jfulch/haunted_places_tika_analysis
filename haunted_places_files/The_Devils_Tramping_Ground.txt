@@ -1,0 +1,21 @@
+city: Siler City
+country: United States
+description: It is a patch of land in a perfect circle- 40 feet across, the perimeter of which is a path about a foot wide. It's said that the devil himself walks that path every night pacing as he spins his evil deeds, no one has ever been able to spend the night there, and nothing will grow on the path, it is said that anything placed in the circle will disappear by the next morning.
+location: The Devil's Tramping Ground
+state: North Carolina
+state_abbrev: NC
+longitude: -79.48667739999999
+latitude: 35.5847956
+city_longitude: -79.4622431
+city_latitude: 35.7234734
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

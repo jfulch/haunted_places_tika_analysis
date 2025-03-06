@@ -1,0 +1,19 @@
+city: Prescott
+country: United States
+description: For years many people have seen the ghost of Angeline. She was a small girl, that rumor has it died in the 1800's from a plague, while traveling in a wagon train headed west. There have been several sightings of Angeline. There have also been experiences, such as tiny handprints on the outside windows of cars, and bad mishaps for those that try to steal her headstone. She has even been sighted near the area a few miles from her grave in search of her mother. Her grave is the only grave in the direct location area. It is fenced, has a headstone and a single tree, and is located near Lynx Lake and Diamond Valley, right outside of Prescott.
+location: Angeline's Grave
+state: Arizona
+state_abbrev: AZ
+city_longitude: -112.4685025
+city_latitude: 34.5400242
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

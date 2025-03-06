@@ -1,0 +1,21 @@
+city: San Rafael
+country: United States
+description: There is a ghost dubbed 'blue boy' who supposedly drowned in a bathtub. Some students say they have seen wet footprints near the site of haunting.
+location: Dominican University
+state: California
+state_abbrev: CA
+longitude: -122.5129887
+latitude: 37.9798656
+city_longitude: -122.5310874
+city_latitude: 37.9735346
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

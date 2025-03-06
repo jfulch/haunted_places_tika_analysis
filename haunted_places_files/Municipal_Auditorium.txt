@@ -1,0 +1,21 @@
+city: Ottawa
+country: United States
+description: Footsteps go across the stage when no one is there. Voices carry on conversations just out of understanding range, usually downstairs. Chairs may move from where they are set in the mezzanine.
+location: Municipal Auditorium
+state: Kansas
+state_abbrev: KS
+longitude: -95.2669655
+latitude: 38.6140464
+city_longitude: -95.2686366
+city_latitude: 38.615768
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

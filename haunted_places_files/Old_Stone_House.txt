@@ -1,0 +1,19 @@
+city: Peru
+country: United States
+description: Part of the old under ground rail road near the Wabash river on old stone road, it is said on some foggy nights you can drive by and see strange lights coming from the house, It was burned on the inside years ago and is not safe to enter but it has been bought and is going to be converted into a church.
+location: Old Stone House
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.0688811
+city_latitude: 40.7536528
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

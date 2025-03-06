@@ -1,0 +1,21 @@
+city: Garrison
+country: United States
+description: A man was killed who once lived in the Stoney End. It is now a restaurant and many worker claim to see him and experience unexplainable things such as (things out of place, lights turning on and off, and some even say they have seen him!) some of the small town locals have claimed to see him outside on the small road leading to and from Stoney End, and also next to Stoney end on highway 83 leading through Garrison.
+location: Stoney End
+state: North Dakota
+state_abbrev: ND
+longitude: -101.3895577
+latitude: 47.6471874
+city_longitude: -101.4157165
+city_latitude: 47.6522225
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 17m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

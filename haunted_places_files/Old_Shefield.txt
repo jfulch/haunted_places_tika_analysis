@@ -1,0 +1,21 @@
+city: Turners Falls
+country: United States
+description: A man was burnt alive in the school and haunts the new foundation. He doesn't harm anyone. But he scare's people with horrible vision's of a Clown stabbing himself with a knife. Or doing other horrible things.
+location: Old Shefield
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.5568064
+latitude: 42.5997784
+city_longitude: -72.5564777
+city_latitude: 42.60425230000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

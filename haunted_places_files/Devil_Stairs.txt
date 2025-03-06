@@ -1,0 +1,19 @@
+city: Warensville
+country: United States
+description: On certain nights around 12:00 a young woman can be seen walking up and down the road. She has on a prom dress. The old folks will tell you she'll open the car door and get in, and down the road she'll get back out.
+location: Devil Stairs
+state: North Carolina
+state_abbrev: NC
+city_longitude: -81.5187955
+city_latitude: 36.460963
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/07/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

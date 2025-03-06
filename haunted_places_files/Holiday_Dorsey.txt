@@ -1,0 +1,21 @@
+city: Fayetteville
+country: United States
+description: Fife House - Doc Holiday was an outlaw, who died of tuberculosis. No one knows why he haunts the house. But if you take a picture and get it enlarged he can usually be seen in the window of the top left room. This place is no longer a home but now a visitor site.
+location: Holiday Dorsey
+state: Georgia
+state_abbrev: GA
+longitude: -84.455962
+latitude: 33.448386
+city_longitude: -84.4549262
+city_latitude: 33.4487257
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 1

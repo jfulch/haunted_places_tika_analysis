@@ -1,0 +1,20 @@
+city: Belle Fourche
+country: United States
+description: When an old Janitor was fixing the light in the gym he fell from the top and died and has haunting the school ever since. Kids see shadows all the time at night. The light that he was fixing flickers on and off in the gym.
+location: Belle Fourche High School
+state: South Dakota
+state_abbrev: SD
+longitude: -103.8422693
+latitude: 44.6636537
+city_longitude: -103.852148
+city_latitude: 44.6713733
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

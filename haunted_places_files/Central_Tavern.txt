@@ -1,0 +1,21 @@
+city: Kirkland
+country: United States
+description: Employees and after hours guests have seen a "pink lady" near the back of the room.
+location: Central Tavern
+state: Washington
+state_abbrev: WA
+longitude: -122.2055358
+latitude: 47.6757442
+city_longitude: -122.2059833
+city_latitude: 47.6768927
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: White River Junction
+country: United States
+description: Room 112 -  seems to be haunted by a woman who committed suicide there. The electronic key entry system decides when it wants to work, sometimes will work one minute, and not the next. Inside the room, you will be taken over by an extremely creepy feeling like someone is watching you.
+location: Comfort Inn
+state: Vermont
+state_abbrev: VT
+longitude: -72.3341399
+latitude: 43.645506
+city_longitude: -72.3192579
+city_latitude: 43.6489596
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

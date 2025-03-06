@@ -1,0 +1,19 @@
+city: Laredo
+country: United States
+description: This was the old DPS office and several employees have witnessed a deceased DPS officer wandering around the building at all times. He turns lights, computers, etc. on/off; he slams doors shut; shuffles papers/files around; you can actually see the door knob turning (like someone on the other side trying to open the door) but there is no one in the other room; strange sensation of being watched and cold chills.
+location: J.P. OSCAR MARTINEZ'S OFFICE – The Old Department of Public Safety office
+state: Texas
+state_abbrev: TX
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

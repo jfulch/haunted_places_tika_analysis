@@ -1,0 +1,21 @@
+city: Mount Airy
+country: United States
+description: A baby had fallen in the pool and was dying, they took it to the utilities building to try and save it, but there was no luck and the baby died. Now they say that if you go up to the Utilities building at night and knock on the window the baby will scream. Some say that it's just the equipment in the building, but many think otherwise the noise sounds just like a baby!
+location: Cross Creek Country Club
+state: North Carolina
+state_abbrev: NC
+longitude: -80.6197036
+latitude: 36.53839
+city_longitude: -80.6072858
+city_latitude: 36.4993007
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

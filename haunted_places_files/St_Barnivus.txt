@@ -1,0 +1,21 @@
+city: Snow Hill
+country: United States
+description: It is said that back in the 1800's a young girl and guy was in love, and the girl died of a disease. Then about 2 years later the young man died of a broken heart. The graves are unmarked. It is said that if you run around the church 10 times you will see the girl on her knees in front of that guy’s grave crying, and the young man standing behind her. If the young man sees you he will chase you and he can run just as fast and just as slow as you. No one has been brave enough to find out.
+location: St. Barnivus
+state: North Carolina
+state_abbrev: NC
+longitude: -77.6825783
+latitude: 35.4477221
+city_longitude: -77.6810859
+city_latitude: 35.4515504
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

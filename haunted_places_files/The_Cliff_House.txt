@@ -1,0 +1,20 @@
+city: Marmount Castle
+country: United States
+description: Manitou Springs - A noble couple from Europe came to the valley and met an untimely and gruesome deaths (she cheated on him and he murdered her and committed suicide.) The place is haunted. Voices (mumbled) and some have seen a white, translucent blur floating through walls. Steps being heard.
+location: The Cliff House
+state: Colorado
+state_abbrev: CO
+longitude: -104.9174742
+latitude: 38.8597025
+city_longitude: -104.922261
+city_latitude: 38.859234
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

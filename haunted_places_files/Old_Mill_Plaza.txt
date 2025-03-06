@@ -1,0 +1,21 @@
+city: Newton
+country: United States
+description: Haunted by an old lady that walks around in olden day cloths very white she is in an old gray dress when followed her she disappears.
+location: Old Mill Plaza
+state: Kansas
+state_abbrev: KS
+longitude: -97.3458168
+latitude: 38.043933
+city_longitude: -97.3450365
+city_latitude: 38.0466779
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

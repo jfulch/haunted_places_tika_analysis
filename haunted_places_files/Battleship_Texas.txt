@@ -1,0 +1,21 @@
+city: Deer Park
+country: United States
+description: Supposedly haunted by a sailor named Red. Some students encountered a wispy form, which wandered across a hallway behind a locked screen door.
+location: Battleship Texas
+state: Texas
+state_abbrev: TX
+longitude: -95.089709
+latitude: 29.75628249999999
+city_longitude: -95.1238204
+city_latitude: 29.7052284
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

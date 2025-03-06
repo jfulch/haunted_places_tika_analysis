@@ -1,0 +1,21 @@
+city: Robbinsville
+country: United States
+description: An apparition of an old woman can be seen at different times of the day, usually during a full moon. Horses can be heard trotting, men fighting& sound of babies crying at several different locations.
+location: Tuskeegee
+state: North Carolina
+state_abbrev: NC
+longitude: -83.71921619999999
+latitude: 35.40835870000001
+city_longitude: -83.80739899999999
+city_latitude: 35.322866
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

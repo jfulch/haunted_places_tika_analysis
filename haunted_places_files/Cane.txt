@@ -1,0 +1,20 @@
+city: Lovell
+country: United States
+description: A figure of a blue glowing woman, who looks beautiful far away but when you approach her you see that she is a very ugly being. She hopelessly searchers for her children who drowned because of her abusive husband. She is constantly trying to find them and will take you in place of them.
+location: Cane
+state: Wyoming
+state_abbrev: WY
+longitude: -108.3895614
+latitude: 44.8374532
+city_longitude: -108.3895614
+city_latitude: 44.8374532
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.1
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

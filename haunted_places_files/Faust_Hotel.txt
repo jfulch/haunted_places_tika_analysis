@@ -1,0 +1,21 @@
+city: Rockford
+country: United States
+description: It is said that many areas of the old Faust Hotel are haunted.  Many service/repair men go to the basement area which includes an old bar and bowling alley that haven't been functional since the 1980's, they have reported a very strong feeling of a presence.  Almost like someone watching them.  The warm air goes cold and damp and all they can think about is getting back to the lobby area as quickly as possible.  These same eerie feelings have been reported by many who have been in the old kitchen areas and also on the 11th floor which used to be the ballroom.
+location: Faust Hotel
+state: Illinois
+state_abbrev: IL
+longitude: -89.08500699999999
+latitude: 42.267248
+city_longitude: -89.0939952
+city_latitude: 42.2711311
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1929/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fairbanks
+country: United States
+description: There is a ghost of a young girl in a white dress, from the early 1900's. Also reports of a black floating figure and an apparition of a little boy about 7 or 8 dressed like the 1930s just walking around.
+location: Birch Hill Cemetery
+state: Alaska
+state_abbrev: AK
+longitude: -147.6741994
+latitude: 64.859365
+city_longitude: -147.7163888
+city_latitude: 64.8377778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 10h 52m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

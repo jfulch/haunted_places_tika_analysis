@@ -1,0 +1,19 @@
+city: Anson
+country: United States
+description: An old metal bridge in the outskirts is supposedly haunted by some hanging victim. It is extremely loud if you drive on it and if walked upon footstep can be heard underneath and wind blowing on one side yet be calm on the other.
+location: Haunted Bridge on the outskirts of town
+state: Texas
+state_abbrev: TX
+city_longitude: -99.896207
+city_latitude: 32.7565042
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1864/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 38m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Middlesex
+country: United States
+description: My Lady Bridge - Many years ago in stormy night unknown lady who Going Home in stormy night Riding with the horse buggy . suddenly the Bridge was flooding all of a lot water when the lady was coming by the bridge she was fell off the bridge then she drown . The morning the lady body is found at the Bridge at night time when you coming the bridge you can heard the sound of the spirit of lady banging under the Bridge.
+location: Stormont Road
+state: Virginia
+state_abbrev: VA
+longitude: -76.5212974
+latitude: 37.575218
+city_longitude: -76.5257007
+city_latitude: 37.6040106
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

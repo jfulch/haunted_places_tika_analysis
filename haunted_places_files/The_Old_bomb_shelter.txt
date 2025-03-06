@@ -1,0 +1,19 @@
+city: Orem
+country: United States
+description: People have heard the sounds of a girl crying out for help and the sound of a man's muffled voice. Rumor has it that years after the shelter was abandoned from the war a girl was raped. Inside it is dark and wet and always chilly..
+location: The Old bomb shelter
+state: Utah
+state_abbrev: UT
+city_longitude: -111.6946475
+city_latitude: 40.2968979
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 0

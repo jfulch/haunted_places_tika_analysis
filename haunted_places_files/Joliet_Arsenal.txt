@@ -1,0 +1,21 @@
+city: Joliet
+country: United States
+description: Old army ammunition plant. Ghost cars(are heard but not seen or seen but not heard)far enough from main road where you cannot hear or see those cars, footsteps in empty buildings, strange noises that cannot be explained. Witnessed numerous times.
+location: Joliet Arsenal
+state: Illinois
+state_abbrev: IL
+longitude: -88.1096118
+latitude: 41.365687
+city_longitude: -88.0817251
+city_latitude: 41.525031
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

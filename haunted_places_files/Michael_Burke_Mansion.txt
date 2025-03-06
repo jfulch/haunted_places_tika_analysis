@@ -1,0 +1,18 @@
+city: Marlboraugh
+country: United States
+description: People who have lived in the home after the last of Michael Burke's descendants left have experienced strange occurrences ranging from footsteps and other noises coming from unoccupied rooms to actual sightings of a spirit claiming to be Michael Burke. Neighbors have also reported seeing an elderly man roaming the grounds in period clothing whose description matches Michael Burke who dies in his late 80's in 1938. Burke was scion of early Irish settlers who became prominent in business, banking, charity and political affairs of Marlborough.
+location: Michael Burke Mansion
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.5522874
+city_latitude: 42.3459271
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1938/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

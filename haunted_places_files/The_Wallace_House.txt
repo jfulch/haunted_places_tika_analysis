@@ -1,0 +1,20 @@
+city: Somerville
+country: United States
+description: had a friendly spirit that enjoyed pulling on gowns and tapping shoulders of guests and tour guides during interpretive tours and reenactments during winter season.  Historically, one of the original houses that George Washington and his officers stayed in during the winter at Morristown, NJ during the Revolutionary War.
+location: The Wallace House
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.6220815
+latitude: 40.5696565
+city_longitude: -74.60987999999999
+city_latitude: 40.5742696
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1763/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 0

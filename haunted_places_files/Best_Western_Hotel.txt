@@ -1,0 +1,21 @@
+city: Lake Forrest
+country: United States
+description: Employees have felt uneasy around the bottom floor rooms. EVP has been recorded and Photos have been taken in one of the rooms. Cold spots in the kitchen area of the room.
+location: Best Western Hotel
+state: California
+state_abbrev: CA
+longitude: -117.7156933
+latitude: 33.625787
+city_longitude: -117.6861023
+city_latitude: 33.6469437
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

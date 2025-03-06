@@ -1,0 +1,21 @@
+city: Rancho Palos Verdes
+country: United States
+description: Spike is a vacant lot at the end of Lunada bay. It is surrounded by houses. But the lot remains vacant, even though they have tried to build on it several times. When you go near there you start to feel like you want to vomit. Also cars have been known to stop dead in front of the lot. Urban Legend has it that a teenager went crazy and killed his family with a axe. Also legend states that on certain nights you can hear screams and see a ghostly house through the thick fog. There used to be an iron gate that had sharp black spikes sticking out of it. However this was long ago and has since been dismantled. this is a local legend, kind of like the Vanderlip house.
+location: Spike
+state: California
+state_abbrev: CA
+longitude: -117.5994453
+latitude: 33.64326680000001
+city_longitude: -118.3870173
+city_latitude: 33.7444613
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

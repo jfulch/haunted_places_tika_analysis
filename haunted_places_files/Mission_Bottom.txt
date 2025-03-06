@@ -1,0 +1,19 @@
+city: Wetumka
+country: United States
+description: An old mission hospital built on the outskirts of Wetumka is said to be haunted. At midnight a light moves through the top floor. This is strange because the second floor is completely gone.
+location: Mission Bottom
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -96.2416731
+city_latitude: 35.2375883
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Hibbing
+country: United States
+description: Zim Rd. -  Reports of anomalies in pictures taken there and severe temperature changes.
+location: Little Swan Cemetery
+state: Minnesota
+state_abbrev: MN
+longitude: -92.8466372
+latitude: 47.29403420000001
+city_longitude: -92.9376887
+city_latitude: 47.42715459999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: This is the room now closed by management due to unexplained events which occurred to guests. B340 is located in an abandoned area of the ship's long hallway corridor. Lights mysteriously flicker and a very cold feeling surrounds the area. It is also said the door knocks on occasion to those who knock.
+location: The Queen Mary- Room B340
+state: California
+state_abbrev: CA
+longitude: -118.1903235
+latitude: 33.7526356
+city_longitude: -118.1937395
+city_latitude: 33.7700504
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

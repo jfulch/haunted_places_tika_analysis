@@ -1,0 +1,21 @@
+city: Cyril
+country: United States
+description: some reports have been of a young girl roaming the halls late at night, and doors opening and shutting by selves.
+location: Cyril high school
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.2036013
+latitude: 34.8990015
+city_longitude: -98.2006044
+city_latitude: 34.8964555
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

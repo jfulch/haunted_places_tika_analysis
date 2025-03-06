@@ -1,0 +1,21 @@
+city: Petersburg
+country: United States
+description: If you walk in there you get a feeling that someone’s there. You can some times hear noises and maybe see something. The hospital has been closed down for a number of years and there’s no telling how many people have died in there. But some Spirits still remain there.
+location: Old Central State Mental Hospital
+state: Virginia
+state_abbrev: VA
+longitude: -77.44914779999999
+latitude: 37.211643
+city_longitude: -77.40192669999999
+city_latitude: 37.2279279
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

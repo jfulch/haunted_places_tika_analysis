@@ -1,0 +1,20 @@
+city: Excelsior Springs
+country: United States
+description: It is noted by many that the lap pool area in the basement of the hotel is haunted. It is noted that a female figure, is walking around looking for her child. She has a tendency to get a little upset, so she will pull your hair, or throw something across the room.
+location: Elms Resort and Spa
+state: Missouri
+state_abbrev: MO
+longitude: -94.2259483
+latitude: 39.3370105
+city_longitude: -94.2260559
+city_latitude: 39.3391712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

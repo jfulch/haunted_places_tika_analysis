@@ -1,0 +1,21 @@
+city: Santa Cruz
+country: United States
+description: Several workers complain to co-workers at seeing ghosts in the restaurants. One even attempted to contact a parapsychology institute nearby but nothing came of it. Although owners refute these claims, one waiter says restaurant hostesses, waiters and busboys have discussed the sightings among themselves. Historians, meanwhile, have said a murder occurred at the site of the restaurant near the turn of the century. - July 2005 Update: It is now a Chinese Restaurant.
+location: Adolph's Restaurant
+state: California
+state_abbrev: CA
+longitude: -121.9794885
+latitude: 36.9844181
+city_longitude: -122.0307963
+city_latitude: 36.9741171
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

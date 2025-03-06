@@ -1,0 +1,20 @@
+city: Dundas
+country: United States
+description: Witnesses report to see some glowing grave stones and a dog with glowing red eyes and vicious teeth.
+location: Beard's cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -82.42914650000002
+latitude: 39.1948309
+city_longitude: -82.4801569
+city_latitude: 39.2036824
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

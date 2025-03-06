@@ -1,0 +1,21 @@
+city: Laguna Hills
+country: United States
+description: Story is that a little girl that ran away from home to her school because her parents where fighting. She sat on the swing crying. The next morning the custodian found her, evidently she had died of hypothermia. Reports of hearing and seeing a little girl in the play ground at night.
+location: Top of the World
+state: California
+state_abbrev: CA
+longitude: -117.7608744
+latitude: 33.5575886
+city_longitude: -117.6986604
+city_latitude: 33.5916433
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

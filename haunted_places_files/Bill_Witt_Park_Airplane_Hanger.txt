@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: Haunted by the spirit of a man who hung himself in the rafters of the hanger. He has been seen looking through the broken windows of the now abandoned hangar.
+location: Bill Witt Park Airplane Hanger
+state: Texas
+state_abbrev: TX
+longitude: -97.377318
+latitude: 27.6539313
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

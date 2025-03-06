@@ -1,0 +1,21 @@
+city: Churchill
+country: United States
+description: There have been numbers of reports of seeing impish like creatures best described as cows wondering the fields of church hill late on Halloween night. Most spotters describe the beast as red eyed /possessed look.
+location: Fields
+state: Tennessee
+state_abbrev: TN
+longitude: -82.5453964
+latitude: 36.4619321
+city_longitude: -82.7134921
+city_latitude: 36.5223207
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

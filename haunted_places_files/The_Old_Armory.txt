@@ -1,0 +1,21 @@
+city: Williston
+country: United States
+description: Mannequins move on their own. Whispering is heard, but no body knows what it's saying. In the basement there used to be and old staircase, but it got sealed up and some people have said they have seen an old soldier standing there guarding it.
+location: The Old Armory
+state: North Dakota
+state_abbrev: ND
+longitude: -103.6200242
+latitude: 48.147497
+city_longitude: -103.6179745
+city_latitude: 48.1469683
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 17m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: War
+witness_count: 1

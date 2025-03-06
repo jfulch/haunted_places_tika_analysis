@@ -1,0 +1,21 @@
+city: Uxbridge
+country: United States
+description: sometimes in the middle of the night people would see ghost like features standing at the foot of there bed dressed in colonial clothing. You will hear girls, laughing very distinctively coming from the forbidden living room.
+location: The Old Taft Tavern
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.62028579999999
+latitude: 42.0401485
+city_longitude: -71.6302532
+city_latitude: 42.07724289999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

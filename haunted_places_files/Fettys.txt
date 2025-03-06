@@ -1,0 +1,21 @@
+city: Wisdom
+country: United States
+description: Cold places late at night. Sounds of children playing even when no ones there. Objects moving on their own.
+location: Fettys
+state: Montana
+state_abbrev: MT
+longitude: -85.7178691
+latitude: 36.9896816
+city_longitude: -113.4508925
+city_latitude: 45.6179788
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 18m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

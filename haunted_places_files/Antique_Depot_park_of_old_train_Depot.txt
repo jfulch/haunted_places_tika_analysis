@@ -1,0 +1,21 @@
+city: Billings
+country: United States
+description: In the 40's a plan crashed in Billings and there was no were to put the bodies in the funeral home fridge. So they had to put the bodies in the fridge at the old grocery store by the train depot. A WWII solider was one of the people who died in the crash. The old building now is a large 2 story antique store. People say they can see an old WWII solider walking around the store at times, but when they go near him he vanishes right before their eyes.
+location: Antique Depot ( park of old train Depot)
+state: Montana
+state_abbrev: MT
+longitude: -108.499235
+latitude: 45.783773
+city_longitude: -108.5006904
+city_latitude: 45.7832856
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 18m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

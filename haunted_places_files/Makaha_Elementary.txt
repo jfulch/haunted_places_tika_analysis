@@ -1,0 +1,21 @@
+city: Makaha
+country: United States
+description: Lights flicker at night and reports of hearing screams.
+location: Makaha Elementary
+state: Hawaii
+state_abbrev: HI
+longitude: -158.212034
+latitude: 21.4705592
+city_longitude: -158.2206477
+city_latitude: 21.4634328
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

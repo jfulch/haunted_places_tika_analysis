@@ -1,0 +1,21 @@
+city: Wilson
+country: United States
+description: The story behind Acid Park is that a young teenage girl was driving one night while she was tripping on acid and wrecked her car and died. People say that her father dreamed about what he thought she was seeing when she wrecked. After that he put up all these reflectors, which is supposed to what he saw in his dreams. The car is still there on the dirt road. There are single reflectors placed everywhere, which is supposed to be the places the girl was seen after her death.
+location: Acid Park
+state: North Carolina
+state_abbrev: NC
+longitude: -78.0538907
+latitude: 35.6588
+city_longitude: -77.9155395
+city_latitude: 35.7212689
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

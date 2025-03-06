@@ -1,0 +1,19 @@
+city: Ventura
+country: United States
+description: Bard Hospital has been turned into an office building. Now things move around by themselves and lights go out without human help. If one wants them to go back on, all one has to do is say, "I'm not finished yet!" and they'll go back on.
+location: Bard Hospital
+state: California
+state_abbrev: CA
+city_longitude: -119.2290316
+city_latitude: 34.274646
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1901/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Colburn
+country: United States
+description: Colburn cemetery. Ghost of an old woman has been seen since the 1920s.
+location: Colburn Cemetery
+state: Idaho
+state_abbrev: ID
+longitude: -116.4406285
+latitude: 48.3673291
+city_longitude: -116.5351946
+city_latitude: 48.3971492
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1926/07/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Elizabeth City
+country: United States
+description: The Cropsey family moved to N.C. in the 1890's from New York. They made their home on the Pasqutank River. Not long after arriving, their daughter Nell went missing. Last seen talking to a male suitor on the family porch. When she turned up some days later floating in the river dead. It is said that she still can be seen in the house and walking on the riverbank. Her mother has also been seen looking out the window for her Nell, who never made home. You can buy a book about the history of the Nell Cropsey Murders at any large bookstore.
+location: Nell Cropsey House Hall Mansion
+state: North Carolina
+state_abbrev: NC
+city_longitude: -76.2510461
+city_latitude: 36.2946008
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1974/11/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

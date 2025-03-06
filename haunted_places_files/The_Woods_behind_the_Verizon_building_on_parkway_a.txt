@@ -1,0 +1,19 @@
+city: Ewing
+country: United States
+description: A boy vanished in these wood about 30 years ago, people say they can hear twings snapping and leaves rustling and once a sound of a boy crying
+location: The Woods behind the Verizon building on parkway aveune
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.79091249999999
+city_latitude: 40.2599864
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.0
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

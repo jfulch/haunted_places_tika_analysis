@@ -1,0 +1,21 @@
+city: Raleigh County
+country: United States
+description: Beckly Courthouse - There is believed to be a mysterious women in red, she supposedly appears in the jurors room most often.
+location: Beckley
+state: West Virginia
+state_abbrev: WV
+longitude: -81.1881557
+latitude: 37.7781702
+city_longitude: -81.2518833
+city_latitude: 37.7381597
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1811/10/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

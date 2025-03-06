@@ -1,0 +1,19 @@
+city: Indianapolis
+country: United States
+description: Reports of seeing blood on witnesses 92 hands, hearing a loud bang in the middle of the sanctuary, and loud footsteps.
+location: Downtown -St. Joseph's Old Abandoned Catholic Church
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Chillicothe
+country: United States
+description: It is said that if you drive through the tunnel with your windows down you can hear the cries of a baby that was killed there. The story says a mother and her daughter died there years ago. The fashion in which they were killed varies on who you ask. There was also a woman that hung herself (or was murdered, then hung) from the north end of the tunnel.
+location: Schrader Road Tunnel
+state: Ohio
+state_abbrev: OH
+longitude: -82.3224523
+latitude: 39.3072804
+city_longitude: -82.9824019
+city_latitude: 39.3331197
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

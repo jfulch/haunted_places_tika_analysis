@@ -1,0 +1,21 @@
+city: Yorba Linda
+country: United States
+description: haunted by "The Pink Lady." The origin of the pink lady is somewhat a mystery, but she appears on the night of June 15 every other year. On these occasions, curious locals can often be found keeping watch around the cemetery, hoping to catch a glimpse of her. There is a story about her death. On prom night, her and her boyfriend were on they're way to the dance, on Orangethorpe St. her boyfriend pushed her out of their carriage and onto the train tracks, where she was killed by an on coming train. The reason people call her "the pink lady" is because she was wearing a pink dress on the night of her death. if you want to know more about her, just go to the Yorba Linda library and look in the old newspaper section.
+location: The Yorba Family Cemetery
+state: California
+state_abbrev: CA
+longitude: -117.7836138
+latitude: 33.8646518
+city_longitude: -117.8132571
+city_latitude: 33.88850350000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1993/07/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

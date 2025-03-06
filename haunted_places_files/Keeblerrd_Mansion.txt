@@ -1,0 +1,19 @@
+city: Collinsville
+country: United States
+description: walking slaves, eerie sounds - This old mansion used to stand on the curved Keebler rd. It had at one time a stage like place in the basement with leg irons still in the concrete walls where they used to auction off slaves. At night when you would drive by the house, you could see like candles moving from window to window. Rumors about how sometimes slave women could be seen walking from the house to the old cemetery right down the road with baskets of clothes on their heads. Strange noises could be heard at different times, especially at night. A friend visited their as a child with her father, and they witnessed the slave auction area themselves. Several years ago, the house mysteriously burned down, and the old cemetery now goes unnoticed, but the old-timers remember it and where the house and cemetery were located.
+location: Keeblerrd Mansion
+state: Illinois
+state_abbrev: IL
+city_longitude: -89.9845476
+city_latitude: 38.6703266
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

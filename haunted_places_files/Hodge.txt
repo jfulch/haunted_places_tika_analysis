@@ -1,0 +1,21 @@
+city: Jonesboro
+country: United States
+description: Walker Rd (surrounding area) - Witnesses have seen a tall man in a black hat walking through their rooms at all hours of the day through one wall out the exterior wall. This area was also susceptible to other strange occurrences such as a strange noise coming from the ground. They described it as, "...a train engine that you can feel more than hear. Everyone heard it that was there including my best friend at the time."
+location: Hodge
+state: Louisiana
+state_abbrev: LA
+longitude: -92.7086508
+latitude: 32.2355709
+city_longitude: -92.7159853
+city_latitude: 32.2412672
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

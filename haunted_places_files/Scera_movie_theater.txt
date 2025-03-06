@@ -1,0 +1,21 @@
+city: Orem
+country: United States
+description: In the basement of the Scera family movie theater is a ghost we like to call "Eleanor", as we lack any information about her or her true name.  She walks around in the basement and occasionally up elsewhere, basically all around the older part of the Scera.  Eleanor, a middle-aged woman, usually glows green or blue.  No harm has been done by her.  Many of the employees but few or none of the volunteers have seen her.  She usually appears on Wednesdays.  Some think she once worked there every Wednesday and died before she came to work one day, and, not knowing she's dead, still goes to work every day.
+location: Scera movie theater
+state: Utah
+state_abbrev: UT
+longitude: -111.6883029
+latitude: 40.2837158
+city_longitude: -111.6946475
+city_latitude: 40.2968979
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/05/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

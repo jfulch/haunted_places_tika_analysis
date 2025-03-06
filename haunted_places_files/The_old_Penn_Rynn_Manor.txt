@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: Used to be the Biddle estate(as in Bailey, Banks and Biddle) It is right on the Delaware river. The story is that the original owners had a son that fell in love with one of the maids. This was looked down upon by the parents. The young lovers went down to the river and drowned themselves. The sightings have been of a lady on a white horse and a young man that would walk the path from the house to the water.
+location: The old Penn Rynn Manor
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.95200299999999
+latitude: 40.06482099999999
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1630/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

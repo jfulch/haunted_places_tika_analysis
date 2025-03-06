@@ -1,0 +1,21 @@
+city: Huntington
+country: United States
+description: an over whelming since of a presence on the stairway to the ladies room. As soon as you enter the stairway, you can feel it's presence. It follows you to the powder room, but it leaves you as you enter the stalls. This presence is suspicious, you will feel her!
+location: Keith Albee theater
+state: West Virginia
+state_abbrev: WV
+longitude: -82.4428812
+latitude: 38.4207873
+city_longitude: -82.44515400000002
+city_latitude: 38.4192496
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

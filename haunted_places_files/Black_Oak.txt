@@ -1,0 +1,21 @@
+city: Gary
+country: United States
+description: along an interstate stood an old house that was once a speak easy (bar saloon) and a home for ladies of the night often you could hear a car pull in and hear men entering the basement where they would shoot the owner of the saloon and upstairs you could see a woman dressed in red and often was crying and would reach out to touch you and a man would leave the basement and walk upstairs and often pushed witnesses down & they could hear the screams of women and children loosing their lives this house has been since destroyed but to this day you can see the woman in the red crying and reaching for you. Black Oak Experience
+location: Black Oak
+state: Indiana
+state_abbrev: IN
+longitude: -87.39364979999999
+latitude: 41.5661472
+city_longitude: -87.3464271
+city_latitude: 41.5933696
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2014/01/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

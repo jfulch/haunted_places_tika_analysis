@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: An elementary school east of IH-35 is haunted by the students. Construction workers on site heard the kids laughing from the walls. Mysterious events would happen to the crew who were working. Some had minor injuries.
+location: Metz Elementary
+state: Texas
+state_abbrev: TX
+longitude: -97.7219604
+latitude: 30.2547154
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Union
+country: United States
+description: There is more to the weird occurrences at this site. If you put your car in neutral on the bridge, it will roll up the hill. No one knows why, but it really does happen.
+location: Cry Baby Bridge
+state: South Carolina
+state_abbrev: SC
+longitude: -82.6022721
+latitude: 34.4472607
+city_longitude: -81.623711
+city_latitude: 34.7154122
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

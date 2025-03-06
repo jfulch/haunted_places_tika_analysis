@@ -1,0 +1,21 @@
+city: Pensacola
+country: United States
+description: Branch Medical Clinic - The ghost of a navy corpsman killed while stationed there reportedly roams the hallway between the lab and X-ray departments. He always is seen carrying something in his hands and wears a tech jacket.
+location: NAS Whiting Field
+state: Florida
+state_abbrev: FL
+longitude: -87.01789149999999
+latitude: 30.7143327
+city_longitude: -87.2169149
+city_latitude: 30.42130899999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1971/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

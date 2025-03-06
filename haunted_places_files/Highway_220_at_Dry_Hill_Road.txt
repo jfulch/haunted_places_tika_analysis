@@ -1,0 +1,21 @@
+city: North of Cedarville
+country: United States
+description: At the top of the mountain at Dry Hill Rd. going north on Highway 220, off the to the left side of the road is part of the old Butterfield Stage Coach Rd. Hunters have always reported the sound of someone whistling a strange tune. When they search the surrounding area to make sure it's not a joke from someone, it always stops when you step onto the Old Stage Coach Road. When the whistling stops, you can hear a team of horses running, as if the old stagecoach is making another run.
+location: Highway 220 at Dry Hill Road
+state: Arkansas
+state_abbrev: AR
+longitude: -94.3388106
+latitude: 35.6834891
+city_longitude: -94.3668792
+city_latitude: 35.5698087
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1948/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

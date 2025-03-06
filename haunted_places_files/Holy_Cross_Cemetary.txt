@@ -1,0 +1,21 @@
+city: Anamosa
+country: United States
+description: behind this small graveyard on a hill there is a grouping of trees that will lead you to one big tree. where it is said that many hangings occured. The area with the trees is said to be an old Indian burial ground as is much of Anamosa. Some have seen orbs and shadowey figures.
+location: Holy Cross Cemetary
+state: Iowa
+state_abbrev: IA
+longitude: -91.2958754
+latitude: 42.1149282
+city_longitude: -91.2851594
+city_latitude: 42.1083371
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

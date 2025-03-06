@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: Built in 1813 this building was the original patient quarters and home to the superintendent and his wife. It was said the female seen wandering in the halls bore a resemblance to a former hospital superintendent's wife. Also reports of hearing doors open and close when no one was around. Several third shift employees have heard a woman laughing on the first floor in the middle of the night.  But could never find out where it was coming from.  A security guard was making his rounds at night on the third floor when someone grabbed his shoulder.  He turned around and there wasn't anyone there.  The sources that experienced these events aren't the types to make things up.
+location: Friends Hospital
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.1021627
+latitude: 40.0264575
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1813/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

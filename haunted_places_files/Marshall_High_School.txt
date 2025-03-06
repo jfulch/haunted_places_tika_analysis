@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: a former night janitor said she herd strange sounds and once something said her name.  She always works alone.
+location: Marshall High School
+state: Oregon
+state_abbrev: OR
+longitude: -122.5729373
+latitude: 45.49430400000001
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

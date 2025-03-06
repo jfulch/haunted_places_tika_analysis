@@ -1,0 +1,20 @@
+city: Nevada
+country: United States
+description: Legend says that a woman was thrown off the train and drug on the railroad tracks. Somebody found the body and buried her there. The area is mowed down today and there is flowers on the grave. Orbs have been spotted.
+location: Unmarked Grave
+state: Missouri
+state_abbrev: MO
+longitude: -94.3562876
+latitude: 37.8375077
+city_longitude: -94.3546719
+city_latitude: 37.83920519999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

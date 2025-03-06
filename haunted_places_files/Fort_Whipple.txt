@@ -1,0 +1,21 @@
+city: Prescott
+country: United States
+description: Buildings 14 and 17 - These buildings used to be a morgue and a TB Sanitarium. Doors have been heard slamming, and apparitions have been seen..
+location: Fort Whipple
+state: Arizona
+state_abbrev: AZ
+longitude: -112.4552462
+latitude: 34.5527787
+city_longitude: -112.4685025
+city_latitude: 34.5400242
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

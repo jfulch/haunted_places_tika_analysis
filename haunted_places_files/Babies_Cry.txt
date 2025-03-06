@@ -1,0 +1,19 @@
+city: Hilo
+country: United States
+description: Located in Hilo town at the site of the old hospital in Kaumana. Pass the old basketball court; take the access road around the main building to the rear parking lot. Years ago the old nursery broke out in flames burning the nurses as well as the infants. You can hear babies crying through the halls and strange noises all around you. There are definitely spirits there.
+location: Babies Cry
+state: Hawaii
+state_abbrev: HI
+city_longitude: -155.0884869
+city_latitude: 19.7070942
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bennington
+country: United States
+description: Native Americans called this place "cursed" and used it strictly for burying their dead.  Over the years there as been between 30-40 unexplained disappearances on this mountain.  The trails stop partially up the mountain, suggesting that no one goes up there.  When you walk into the forest of the mountain you don't hear anything living, it's as though even the animals don't dare.
+location: Glastenberry Mountain
+state: Vermont
+state_abbrev: VT
+longitude: -73.0712156
+latitude: 42.9781342
+city_longitude: -73.1967741
+city_latitude: 42.8781345
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

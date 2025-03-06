@@ -1,0 +1,21 @@
+city: North Webster
+country: United States
+description: Some say a young boy wearing khakis and a blue sweater roams the athletic areas playing sports and shutting off the lights. When someone goes to turn the lights on the light switch is already on. There is also a teacher in high heels on the second floor. People say that they can hear high heel shoes clicking on the floor. Random appliances in the school turn on and off by themselves. The young boy can also be seen in the library trying to check out books.
+location: North Webster Elementary
+state: Indiana
+state_abbrev: IN
+longitude: -85.70300460000001
+latitude: 41.318991
+city_longitude: -85.69776480000002
+city_latitude: 41.325602
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

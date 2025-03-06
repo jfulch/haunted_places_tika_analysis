@@ -1,0 +1,20 @@
+city: Pipestone
+country: United States
+description: Unexplainable footsteps, war drums, shadows of what appear to be humans. Also there have at times been heard voices.
+location: Pipestone National Monument
+state: Minnesota
+state_abbrev: MN
+longitude: -96.3247472
+latitude: 44.01364909999999
+city_longitude: -96.3128117
+city_latitude: 43.9985815
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1906/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: War
+witness_count: 0

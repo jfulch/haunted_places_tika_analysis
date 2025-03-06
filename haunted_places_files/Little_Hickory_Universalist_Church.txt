@@ -1,0 +1,19 @@
+city: West of Ramsey
+country: United States
+description: Doors have been known to open and close and images have been seen through windows. Strange noises have been heard. There is a feeling of another presence there.
+location: Little Hickory Universalist Church
+state: Illinois
+state_abbrev: IL
+city_longitude: -89.11361880000001
+city_latitude: 39.1443772
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

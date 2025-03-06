@@ -1,0 +1,21 @@
+city: Hampton
+country: United States
+description: A woman walking in the hallway and then goes away. Lights come on by themselves.
+location: South Hampton
+state: Virginia
+state_abbrev: VA
+longitude: -76.3927636
+latitude: 37.0438812
+city_longitude: -76.34522179999999
+city_latitude: 37.0298687
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

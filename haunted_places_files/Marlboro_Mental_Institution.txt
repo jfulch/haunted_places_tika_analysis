@@ -1,0 +1,21 @@
+city: Marlboro
+country: United States
+description: Reports of a rotten stench and a whistling noise, feelings of being followed. Rumor has it that the land was originally a slaughter house and the state wanted to take over and build a mental institution on the land but the man wouldn’t allow it eventually the state just took the land from the owner of the slaughter house and built their mental institution somehow eventually the owner of the land ended up in the institute as a patient he broke loose one night and they never found him the patients then for the next couple years said they could hear weird sounds outside like pigs dieing and cows mooing a couple of the patients were missing and never found.- Febuary 2005 additional info - The counselers would take the kids on hikes through the campgrounds and told stories about a ghost-man who haunted the camp, "OLD MAN SAM." They said he lived in a house painted with blood. Located in a big graveyard right in the middle of the camp. The largest grave there was one with nothing on it but SAM. There was one other big grave that said, THE MOTHER.
+location: Marlboro Mental Institution
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2370076
+latitude: 40.3432343
+city_longitude: -74.26872910000002
+city_latitude: 40.3380949
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

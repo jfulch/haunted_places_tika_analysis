@@ -1,0 +1,21 @@
+city: Galveston
+country: United States
+description: The Ashton Villa doesn't have a particularly sad or tragic background but it is one of the houses that survived the hurricane of 1900. Reports of apparitions, male and female dressed in old style clothes. Feelings, of not being alone, and strange noises of movement when no one else is around.
+location: Ashton Villa
+state: Texas
+state_abbrev: TX
+longitude: -94.792837
+latitude: 29.300242
+city_longitude: -94.7976958
+city_latitude: 29.3013479
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1874/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

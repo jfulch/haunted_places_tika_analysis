@@ -1,0 +1,21 @@
+city: Memphis
+country: United States
+description: Several definitive accounts of Mary, the ghost of the Orpheum Theatre exist in the archives of Memphis Magazine, in It Happened in Tennessee and in the published history of the Orpheum. The ghost of a little girl, Mary, haunts this theatre. She has a favorite seat during performances. Some people believe that she is the ghost of a girl who died when the original Orpheum burned, but no one was reported to have been killed, and others believe she was killed near the Orpheum on Beale Street. She is not a malicious ghost, actually very shy, and enjoys the playing of the organ (where she has appeared several times.
+location: The Orpheum Theatre
+state: Tennessee
+state_abbrev: TN
+longitude: -90.05503929999999
+latitude: 35.14012719999999
+city_longitude: -90.0489801
+city_latitude: 35.1495343
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

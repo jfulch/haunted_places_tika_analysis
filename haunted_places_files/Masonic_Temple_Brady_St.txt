@@ -1,0 +1,21 @@
+city: Davenport
+country: United States
+description: Currently owned by Palmer College. Security reports many types of haunting phenomenon at all hours of the day.
+location: Masonic Temple, Brady St.
+state: Iowa
+state_abbrev: IA
+longitude: -90.568266
+latitude: 41.5847305
+city_longitude: -90.5776367
+city_latitude: 41.5236437
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

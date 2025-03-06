@@ -1,0 +1,21 @@
+city: Burnet County
+country: United States
+description: When you go onto the bridges at night, you are supposed to be able to hear something running and breathing hard underneath the bridge. There are two bridges, and they were both built in the 1800's. Many say that the noises from under the bridge comes from trolls.
+location: Joppa Bridge
+state: Texas
+state_abbrev: TX
+longitude: -98.0305042
+latitude: 30.8205245
+city_longitude: -98.2212979
+city_latitude: 30.7270349
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

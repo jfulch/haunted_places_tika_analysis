@@ -1,0 +1,19 @@
+city: Lafayette
+country: United States
+description: It is an old Nursing Home where many of the people who lived there died. There are many things that happen in there from lights turning on unexpectedly, to hearing footsteps, and even feeling something brush up against you. One of the stories are, there was a murder in on of the bathrooms. When the body was taken out, three women went in and cleaned it up. One of the women new the girl that was murdered and she went back to pay her respects. When she walked into the room, she found exactly as it was before they started cleaning. Now around the time of the anniversary of the girl's murder, all the gore returns. There still is no use cleaning it up. It still comes back.
+location: Pythian Home
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.87528689999999
+city_latitude: 40.4167022
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Prescott
+country: United States
+description: In 1921, the owner of the hotel, Abby Byr, ill with, "The Consumption" was deserted by her husband when he went to get medicine, and never returned. Refusing to eat or drink, Abby and her cat Noble passed away in room 16. Today, Abby continues to wait for her husband to return. Haunting the halls and rooms of the Vendome, guests have been recording their experiences at the hotel ever since. Those who stay in room 16 have seen her, felt her and report a wide variety of friendly encounters.
+location: Hotel Vendome
+state: Arizona
+state_abbrev: AZ
+longitude: -112.469006
+latitude: 34.538801
+city_longitude: -112.4685025
+city_latitude: 34.5400242
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1921/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

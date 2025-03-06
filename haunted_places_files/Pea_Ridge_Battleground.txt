@@ -1,0 +1,21 @@
+city: Pea Ridge
+country: United States
+description: Like most Civil War battlegrounds, Pea Ridge has hauntings much like Gettysburg, only not as strong.
+location: Pea Ridge Battleground
+state: Arkansas
+state_abbrev: AR
+longitude: -94.025807
+latitude: 36.4437655
+city_longitude: -94.1152041
+city_latitude: 36.4539625
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1740/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: War
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Shreveport
+country: United States
+description: Bell tower which was once part of a church, now stands alone in a pasture off the side of US Hwy 71. Legend has it a bride was waiting for her soon-to-be husband who died in a car accident on his way to their wedding. Many stories exist about the way the woman actually died. Some say she fell down the stairs to her death because she was upset, but still others say she hung herself in a fit of depression. People claim at midnight the bell tolls and a woman's screams can be heard.
+location: Taylortown Tower
+state: Louisiana
+state_abbrev: LA
+longitude: -93.5945547
+latitude: 32.3860639
+city_longitude: -93.7501789
+city_latitude: 32.5251516
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1987/11/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 0

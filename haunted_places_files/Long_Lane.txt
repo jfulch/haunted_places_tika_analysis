@@ -1,0 +1,20 @@
+city: Middletown
+country: United States
+description: across from Rushford there is a dirt road and at the end of it there is a cement building underground if you go in and be very quiet you can hear the screams of people being beaten it is apparently the place where the patients were brutally tortured and murdered. - NO TRESPASSING - you will be arrested.
+location: Long Lane
+state: Connecticut
+state_abbrev: CT
+longitude: -72.6663509
+latitude: 41.5426563
+city_longitude: -72.6506488
+city_latitude: 41.5623209
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1997/10/31
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Newberry Park
+country: United States
+description: The Stagecoach Inn is an original stage stop and hotel. Pierre was killed in the original Inn. When the Inn burned to the ground in 1969, or so, it was re-built in another location using the original blueprints. It seems Pierre moved with the Inn. Pierre's room is colder than the rest of the upstairs, the docents have opened the Inn in the morning to find the upstairs runner rugs rolled up, the books in the upstairs library stacked on the floor, the sound of someone walking upstairs can be heard downstairs when no one is on the upper level. Several docents refuse to work upstairs; they feel like they are being stared at. A man has been seen several times looking out of an upstairs windows. There have been several reports of conversations with an older, oddly dressed man who vanishes when turned away from.
+location: Stage Coach Inn
+state: California
+state_abbrev: CA
+longitude: -118.912092
+latitude: 34.178351
+city_longitude: -118.9070887
+city_latitude: 34.1805403
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

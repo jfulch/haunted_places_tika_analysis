@@ -1,0 +1,18 @@
+city: Germantown
+country: United States
+description: A little girl died on this bridge when her brother threw her off. No people go under the bridge to hear her singing the same song she did the day she died. Another story is a long time ago a truck driver went off the road into the creek and died. Sometimes at night you can see his lights.
+location: steal bridge
+state: Ohio
+state_abbrev: OH
+city_longitude: -84.3693882
+city_latitude: 39.6261682
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

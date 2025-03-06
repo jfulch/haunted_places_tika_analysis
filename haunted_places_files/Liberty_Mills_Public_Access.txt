@@ -1,0 +1,21 @@
+city: Liberty Mills
+country: United States
+description: Several years ago a car load of teenage girls were driving on the road leading past the P.A.P. The driver lost control going around a curve, hitting several trees and ejecting the girls from the car. People said that on that night they could hear the screams of the some of the girls as they died, one even hung in a tree-a branch piercing her midsection. To this day if you go to the P.A.P. you can hear the girls screaming and crying for help. Witnesses report of hearing faint cries.
+location: Liberty Mills Public Access
+state: Indiana
+state_abbrev: IN
+longitude: -85.7363877
+latitude: 41.0286853
+city_longitude: -85.7358184
+city_latitude: 41.03365609999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

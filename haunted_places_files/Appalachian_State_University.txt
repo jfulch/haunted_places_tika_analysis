@@ -1,0 +1,21 @@
+city: Boone
+country: United States
+description: East Hall - East Hall is one of the dormitories for the college and is said to be haunted. Student assistants have reported being followed by unknown footsteps when on their rounds after midnight. People have also claimed that the lights will suddenly turn off in halls and you can feel someone brush against you. You can also hear whispering voices in the hallway. The third floor new bathroom is haunted by a male ghost, though it is a girls' bathroom. Also assorted residents have reported seeing a girl dressed in white in their rooms and others have had small items in their rooms rearranged daily.
+location: Appalachian State University
+state: North Carolina
+state_abbrev: NC
+longitude: -81.6841448
+latitude: 36.2134842
+city_longitude: -81.6745517
+city_latitude: 36.216795
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1968/04/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

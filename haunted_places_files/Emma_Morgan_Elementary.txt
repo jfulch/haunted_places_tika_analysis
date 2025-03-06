@@ -1,0 +1,21 @@
+city: Paducah
+country: United States
+description: In the little-kids playground, through the gates, you will be talking and back around the corner you can hear the sound of a bike being slammed up against the gates, but when you walk back there, it stops. There are also voices and footsteps in the halls, especially in the hallway that has the names of the past principals listed. Also, for two miles around it, almost all of the houses have had paranormal activity. No one knows the identity of the school's ghosts, but most of the ghosts in the community are either past owners or past owners' pets. Also, the place used to be a gravel pit. According to myth, many people died on construction of the town, and, to keep people from knowing that some people had died unexplained deaths, there buried them under the town. Of coarse, that's just a myth...
+location: Emma Morgan Elementary
+state: Kentucky
+state_abbrev: KY
+longitude: -88.6192095
+latitude: 37.0623316
+city_longitude: -88.6000478
+city_latitude: 37.0833893
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Bennington
+country: United States
+description: Jennings Hall  - Jennings Hall is now a facility for music students and was even the inspiration for the Shirley Jackson novel, The Haunting of Hill House. Students have reported hearing footsteps and voices late at night.
+location: Bennington College
+state: Vermont
+state_abbrev: VT
+longitude: -73.2359361
+latitude: 42.9203078
+city_longitude: -73.1967741
+city_latitude: 42.8781345
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1937/06/15
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

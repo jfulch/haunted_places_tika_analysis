@@ -1,0 +1,20 @@
+city: Willis
+country: United States
+description: During a play, a kid fell of the catwalk over the auditorium. Now, during school you can hear him moaning for help but only in the auditorium.
+location: Lynn Lucas Middle School
+state: Ohio
+state_abbrev: OH
+longitude: -95.4889399
+latitude: 30.4320579
+city_longitude: -81.6921916
+city_latitude: 41.4999723
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

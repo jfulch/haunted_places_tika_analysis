@@ -1,0 +1,21 @@
+city: Lemoore
+country: United States
+description: The theater is haunted by two ghosts. One is an old man who died from a heart attack, he is said to be sitting in the last row, his seat always stays cold. The other is a boy about 16 or 17 who fell from the balcony when working spotlights for a play. People have said that they can hear his screams....
+location: Lemoore High Theater
+state: California
+state_abbrev: CA
+longitude: -119.7799695
+latitude: 36.2975958
+city_longitude: -119.7829107
+city_latitude: 36.3007835
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

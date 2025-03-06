@@ -1,0 +1,21 @@
+city: Lawton
+country: United States
+description: People have reported hearing the screams of a female coming from the tower near the lake. The tower is closed now, but some say that while walking up the stairs they could feel someone walking along with them.
+location: Jed Johnson's Lake
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.6006078
+latitude: 34.7296776
+city_longitude: -98.3959291
+city_latitude: 34.6035669
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

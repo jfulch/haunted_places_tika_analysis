@@ -1,0 +1,21 @@
+city: Riverton
+country: United States
+description: Tour guides and tourists have reported seeing small balls of light bounce along the floor and walls of the caverns. If the balls are approached, they move away. Also, a "ghost tour" sometimes follows unsuspecting individuals through the cave. Other strange things, such as doors slamming as tours approach, and lights flickering off and on are regular happenings.
+location: Seneca Caverns
+state: West Virginia
+state_abbrev: WV
+longitude: -79.38841939999999
+latitude: 38.7631272
+city_longitude: -79.43588059999999
+city_latitude: 38.74400199999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

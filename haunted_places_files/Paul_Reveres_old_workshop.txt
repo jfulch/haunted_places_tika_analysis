@@ -1,0 +1,21 @@
+city: Canton
+country: United States
+description: Paul Revere's old work place in Canton is now a house that is rented out.  Families now rent the house.  From time to time weird noises happen, and sometimes things (such as belongings, door, and windows) move.  Sometimes the windows open themselves.  The family living there at the moment (2007) lives with the ghosts.
+location: Paul Revere's old workshop
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1503573
+latitude: 42.15601119999999
+city_longitude: -71.1447732
+city_latitude: 42.1584324
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1652/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Albany
+country: United States
+description: An old abandoned mental hospital. It is believed to be haunted by souls that were tortured in the basement of the hospital. There is the stench of blood as you walk in and you can see spirits roaming the grounds. There is also a tunnel in the basement, but no one has ever been to the end of it. If you go to this hospital you will have to park your car in the front of the hospital and walk around it to the back where there is an opening in the fence. It is located off of Turner Rd. Near Kramardie beach. - January 2007 correction: The haunting of the supposed Turner Field Naval Hospital is a rumor. There was never actually a mental hospital at the naval station. There was a small doctor's clinic, but that was all. There is currently a job corps facility using the site.
+location: Turner Field Naval Hospital
+state: Georgia
+state_abbrev: GA
+longitude: -84.1036687
+latitude: 31.6079012
+city_longitude: -84.15574099999999
+city_latitude: 31.5785074
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

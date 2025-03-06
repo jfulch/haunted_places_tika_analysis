@@ -1,0 +1,21 @@
+city: Waynesville
+country: United States
+description: A Man killed his wife in their home and then committed suicide. Neighbors say they see her ghost in the windows and her rocking chair rocking. An actual witness who stayed with a neighbor frequently while in school heard and saw things that she cant even explain even though she does not believe in ghosts.
+location: Woolsey Heights
+state: North Carolina
+state_abbrev: NC
+longitude: -82.9805119
+latitude: 35.4942765
+city_longitude: -82.98874769999999
+city_latitude: 35.4887145
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

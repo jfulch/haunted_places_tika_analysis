@@ -1,0 +1,21 @@
+city: Wise
+country: United States
+description: This submission has been proved false - Many years ago, a student at J J Kelly High hung himself in the auditorium. Before doing so, he road the elevator up to the 2nd floor, walked down the long hallway, got a drink of water from the water fountain then hung himself on stage. Nobody knows why. To this day, the elevator opens and closes uncontrollably. The water fountain sprays water without anyone touching it.. And the auditorium, there's always wind that comes through there and sounds from the back. - February 2007 Correction: the elevator was not put in until 1995.
+location: J.J. Kelly High School
+state: Virginia
+state_abbrev: VA
+longitude: -82.5766184
+latitude: 36.9837066
+city_longitude: -82.5757108
+city_latitude: 36.9759345
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

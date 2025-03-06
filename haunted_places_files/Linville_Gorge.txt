@@ -1,0 +1,21 @@
+city: Linville
+country: United States
+description: lights have mysteriously appeared for years... There are two legends associated with these lights, one is they are the spirit of an Indian maiden who is in search of her brave that never returned from battle... the other is it is the spirit of a faithful slave who is in search of his master who was accidentally wounded while hunting.... whatever they are, they appear nightly in the gorge, with no set pattern, they weave in and out of the trees until they reach the edge of the river, then they disappear only to reappear in another spot.
+location: Linville Gorge
+state: North Carolina
+state_abbrev: NC
+longitude: -81.9267782
+latitude: 35.9495715
+city_longitude: -81.87044809999999
+city_latitude: 36.0711174
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

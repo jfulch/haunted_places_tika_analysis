@@ -1,0 +1,21 @@
+city: Lincoln
+country: United States
+description: The Temple Building - A worker fell from the rafters during construction early in the 1900's and was killed as he hit the stage floor. People have heard a noise followed by a crashing sound from the stage. As they come to investigate, there is no one there or anything out of place. A misty figure of a worker in old style clothes has also been seen. - February 2004 update: The ghost's name is Clara and they recently put an office in for her (Clara's Office) With a piano and many different instruments. If you're alone in the building you can hear her playing the organ.
+location: University of Nebraska
+state: Nebraska
+state_abbrev: NE
+longitude: -96.7004763
+latitude: 40.8201966
+city_longitude: -96.6851982
+city_latitude: 40.8257625
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

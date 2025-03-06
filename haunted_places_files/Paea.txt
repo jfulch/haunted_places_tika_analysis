@@ -1,0 +1,21 @@
+city: Maui
+country: United States
+description: A group of friends were driving through a residential area in Paea. Before reaching an old sugar mill, the occupants of the car saw what appeared to be a gray stone statue of the Virgin Mary swaddled in a white veil. As soon as they passed, the "statue" turned her head and looked at the car. Every other part of her remained still. The group did not bother to turn around and investigate.
+location: Paea
+state: Hawaii
+state_abbrev: HI
+longitude: -156.3319253
+latitude: 20.7983626
+city_longitude: -156.3319253
+city_latitude: 20.7983626
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

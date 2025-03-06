@@ -1,0 +1,20 @@
+city: Wallingford
+country: United States
+description: Lady in White back in the 1930's a woman was left at the alter on her wedding day. She was so depressed that she drowned herself. Motorists have seen her on the side of the road totally soaked and asking for a ride but when their backs would be turned she'd disappear .a few police officers have seen the woman
+location: Whirlwind Road
+state: Connecticut
+state_abbrev: CT
+longitude: -72.75842580000001
+latitude: 41.435085
+city_longitude: -72.8230736
+city_latitude: 41.4570108
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1993/07/06
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

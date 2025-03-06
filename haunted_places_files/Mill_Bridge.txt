@@ -1,0 +1,21 @@
+city: Camax
+country: United States
+description: This is a very old bridge with one lane and steel overhead, located on the Country Club road north of Jasper, Al. It has been haunted by the ghost of Moon Mullins for years. She died on the bridge under strange circumstances over 75 years ago. Since her death, several people over the years have reported hearing strange noises and seeing apparitions on the bridge, as well as the nearby Black Water Creek banks.
+location: Mill Bridge
+state: Alabama
+state_abbrev: AL
+longitude: -88.12666809999999
+latitude: 30.6704936
+city_longitude: -86.829447
+city_latitude: 33.359879
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

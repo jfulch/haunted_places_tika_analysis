@@ -1,0 +1,21 @@
+city: Atchison
+country: United States
+description: The local newspaper office's are said to be haunted by the ghost of an editor who died under mysterious circumstances. Several people who have been working late at night have been or heard the locked back door open and close by itself.
+location: The Globe
+state: Kansas
+state_abbrev: KS
+longitude: -95.1167769
+latitude: 39.5616302
+city_longitude: -95.1216356
+city_latitude: 39.5630521
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

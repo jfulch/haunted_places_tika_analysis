@@ -1,0 +1,21 @@
+city: Kelso
+country: United States
+description: when the place was abandoned and closed down you could see a man walking upstairs. It has been told that many of years ago a man hung himself in room #6 and to this day is a strange stain on the wall in that room.
+location: Kelso Depot
+state: California
+state_abbrev: CA
+longitude: -115.6532007
+latitude: 35.0121516
+city_longitude: -115.6536072
+city_latitude: 35.0124884
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

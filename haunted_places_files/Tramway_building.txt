@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: The building has been renovated, and some of the construction crew has seen and heard strange things. One crew heard voices in an office. When they went to inspect the voices in the office they opened the door and there was nobody there. Also, there is a ghost of a mechanic who used to work on railcars in the basement. Legend is that he died in a tragic accident. He is seen walking down corridors carrying a huge tool and then disappearing.
+location: Tramway building
+state: Colorado
+state_abbrev: CO
+longitude: -104.9680001
+latitude: 39.7664532
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

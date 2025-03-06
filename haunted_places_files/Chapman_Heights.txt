@@ -1,0 +1,21 @@
+city: Yucaipa
+country: United States
+description: Reports of four kids walking around the housing development at night time and there is a golf course right next to it and it targets late golfers or any one on a golf cart late at night and all four kids have been seen in white clothes in the corner on peoples eyes but when you look they disappears. It also is said to shake or mess with the golf cart you are in.
+location: Chapman Heights
+state: California
+state_abbrev: CA
+longitude: -117.0816788
+latitude: 34.0408997
+city_longitude: -117.0430865
+city_latitude: 34.033625
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

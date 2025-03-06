@@ -1,0 +1,21 @@
+city: Kahala
+country: United States
+description: Sights of a woman with long hair, no face and no lower half, accompanied with Doors slamming shut. - August 2004 update: (This theatre no longer exists. this may also be an urban legend. There's similar stories to this on the mainland as well. The submitter can recall one that involved a theatre, a teen aged couple, and a woman with no face.)
+location: Waialae Drive-in Theaters
+state: Hawaii
+state_abbrev: HI
+longitude: -157.7875852
+latitude: 21.2777001
+city_longitude: -157.7864379
+city_latitude: 21.2697044
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 48m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

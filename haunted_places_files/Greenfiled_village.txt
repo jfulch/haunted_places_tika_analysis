@@ -1,0 +1,21 @@
+city: Dearborn
+country: United States
+description: Henry ford museum -  Henry ford museum has a car from the time President Kennedy was Shot. In the evening on the anniversary he has been spotted standing next to his car waving to the security officers and leaving a single red rose on the hood of the car. Often felt a cold wind and was also told he said that there was two men that As well was not the man that shot him there was another man out side the building that was standing on the lawn where there was trees and shot him.
+location: Greenfiled village
+state: Michigan
+state_abbrev: MI
+longitude: -83.2246496
+latitude: 42.3053156
+city_longitude: -83.17631449999999
+city_latitude: 42.3222599
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1987/02/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

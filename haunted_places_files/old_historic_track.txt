@@ -1,0 +1,21 @@
+city: Goshen
+country: United States
+description: It was often reported by several local hobos who lived and drank around the lake in the old historic track, that the specter of a jockey and horse who drown in the lake in the early 1900's would rise to ride across the lake on some nights. Of course no one ever listened to the belligerents until others had reported being chased through the brush along side of one of the dirt trails and also the trotting of a horse could be heard on several occasions.
+location: old historic track
+state: New York
+state_abbrev: NY
+longitude: -74.3209921
+latitude: 41.4024891
+city_longitude: -74.3243191
+city_latitude: 41.4020382
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bayview
+country: United States
+description: It is said that a woman has been seen walking across the bridge in her wedding dress. She ran away from her wedding and when she was driving away, her car ran off the bridge.
+location: Bayview Bridge
+state: Alabama
+state_abbrev: AL
+longitude: -86.9730203
+latitude: 33.5560311
+city_longitude: -86.9736056
+city_latitude: 33.5587173
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1981/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

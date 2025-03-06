@@ -1,0 +1,21 @@
+city: Dunnellon
+country: United States
+description: Reports of seeing 3 kids that had died at the intersection around 3 in the morning.
+location: Tiger Trl./High School Rd.
+state: Florida
+state_abbrev: FL
+longitude: -82.41432789999999
+latitude: 29.0772318
+city_longitude: -82.46093309999999
+city_latitude: 29.0491426
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

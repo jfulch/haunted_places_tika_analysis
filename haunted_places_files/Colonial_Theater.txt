@@ -1,0 +1,21 @@
+city: Laconia
+country: United States
+description: People that worked there have told of many tales of hearing people running around the building and hearing voices coming from all over the building. It is from around the turn of the 20-century.
+location: Colonial Theater
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.4701469
+latitude: 43.5283008
+city_longitude: -71.4703509
+city_latitude: 43.5278546
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

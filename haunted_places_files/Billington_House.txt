@@ -1,0 +1,19 @@
+city: Phoenix
+country: United States
+description: The youngest daughter has reported almost all the sightings. She has heard footsteps and people talking while she has been home alone. She has seen a glowing figure of a person with one arm, standing in the second-floor window of her playhouse. She said that it stood motionless, and that she only saw it at night. She saw it three nights in a row. She told her dad one night, and he looked out the window by her bed, to the tree house directly where she said it was standing, and did not see a thing. On the fourth night there was no such person in the tree house, as if it had never been there at all. The same child awoke at night, looked out her window, and saw a man in a long, black coat and a hat, standing on her patio. She closed her eyes for no more than a second, and when she opened them, the man was gone. She has also seen a woman looking at her, and smiling at her from her c loset.
+location: Billington House
+state: Arizona
+state_abbrev: AZ
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Geneva
+country: United States
+description: shallow graves - Once an industrial school for girls, there is now a little subdivision. Although the school is gone the graveyard for it is still around. A graveyard that’s about a hundred years old, just the feeling in the air is creepy. Supposedly late at night you can see a young girl (probably from the school)runs through the woods behind the little cemetery. sometimes you will see to glowing eyes in the trees.
+location: Girls' School Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.34488
+latitude: 41.8658851
+city_longitude: -88.3053525
+city_latitude: 41.8875281
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

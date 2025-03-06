@@ -1,0 +1,21 @@
+city: Kissimmee
+country: United States
+description: Apparition of a man that was shot many years ago has been reported.
+location: Celevration
+state: Florida
+state_abbrev: FL
+longitude: -81.5331286
+latitude: 28.3252878
+city_longitude: -81.40757099999999
+city_latitude: 28.2919557
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1531/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

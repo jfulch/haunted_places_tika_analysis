@@ -1,0 +1,21 @@
+city: Fayetteville
+country: United States
+description: It's a Subway restaurant attached to a train station. Randomly, day or night, people can see a man in an orange shirt who will vanish into nothing. Sometimes an old time phone will ring four or five times. Whispering and whistling are common to hear while dining in the lobby. Hay St. (the location) used to be heavy with crime, but is now a safe place to visit.
+location: Subway at the train depot
+state: North Carolina
+state_abbrev: NC
+longitude: -78.8848033
+latitude: 35.0549605
+city_longitude: -78.87835849999999
+city_latitude: 35.0526641
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

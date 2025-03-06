@@ -1,0 +1,19 @@
+city: Jenkins County
+country: United States
+description: Where the battle of Shermann was located, hear children crying at night, doors open and close by themselves, etc.
+location: Birdsville Mansion
+state: Georgia
+state_abbrev: GA
+city_longitude: -81.9971108
+city_latitude: 32.7781246
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

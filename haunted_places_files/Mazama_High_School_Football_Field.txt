@@ -1,0 +1,21 @@
+city: Klamath Falls
+country: United States
+description: There is a legend that there is a graveyard under the football field which is why it's so high off the ground. After lost football games you can hear murderous cries from under the bleachers.  November Correction/Update: This may be typical urban myth.
+location: Mazama High School Football Field
+state: Oregon
+state_abbrev: OR
+longitude: -121.7335093
+latitude: 42.1986622
+city_longitude: -121.7816704
+city_latitude: 42.224867
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Brea
+country: United States
+description: Performing Arts Center - one student had been sweeping under the seats and by the time she had finished a row the two end seats would be down, and this happened in every row. Also one student said when she had been there late one night with only 3 other students that there had been a figure of a man standing on the stage staring at them. Many strange noises come about also during the later parts of the night, especially after a rehearsal or performance.
+location: Brea Olinda High School
+state: California
+state_abbrev: CA
+longitude: -117.8755223
+latitude: 33.933146
+city_longitude: -117.9002918
+city_latitude: 33.916475
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1958/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

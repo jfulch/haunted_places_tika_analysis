@@ -1,0 +1,20 @@
+city: Medicine Bow
+country: United States
+description: Numerous cold spots and ghostly music in this virtually abandoned hotel in south-central Wyoming.
+location: Virginian Hotel
+state: Wyoming
+state_abbrev: WY
+longitude: -106.200375
+latitude: 41.8959824
+city_longitude: -106.2047385
+city_latitude: 41.8955212
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

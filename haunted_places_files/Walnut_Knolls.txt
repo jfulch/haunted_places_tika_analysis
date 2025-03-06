@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: There have been stories of a woman getting decapitated on the 3rd floor, children drowning in the pool (now filled in), and hearing people walking in the attic (has been blocked off for years). This apartment was a Mental Hospital back in the 40's and 50's. Many see lights on, in vacant apartments. And one specific ghost "George" who likes to throw shampoo bottles at the residents, stories say that this ghost was an old patient.
+location: Walnut Knolls
+state: Ohio
+state_abbrev: OH
+longitude: -82.868725
+latitude: 40.152875
+city_longitude: -82.99879419999999
+city_latitude: 39.9611755
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

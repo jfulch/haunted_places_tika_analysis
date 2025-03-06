@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: dead passengers and flight attendants pilots. An American airlines flight crashed into an airfield near the airport. The crash ignited a huge fireball all passengers and crew died in the disaster.
+location: O'Hare airport
+state: Illinois
+state_abbrev: IL
+longitude: -87.9073214
+latitude: 41.9741625
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

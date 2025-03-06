@@ -1,0 +1,20 @@
+city: Sterling
+country: United States
+description: It is known that if you enter room 104, that you can see a woman in a night gown with what looks to be a blood stain on the front where she was supposedly shot walks around the room cleaning.
+location: Ramada inn
+state: Colorado
+state_abbrev: CO
+longitude: -103.1601964
+latitude: 40.6240043
+city_longitude: -103.207709
+city_latitude: 40.6255415
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

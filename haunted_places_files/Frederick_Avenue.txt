@@ -1,0 +1,21 @@
+city: Front Royal
+country: United States
+description: There have been many sightings of a child walking in the graveyard behind Frederick Avenue. Also, some of the people in these houses on the avenue have sighted ghosts within their own premises such as children crying out to them.
+location: Frederick Avenue
+state: Virginia
+state_abbrev: VA
+longitude: -78.1820681
+latitude: 38.92537610000001
+city_longitude: -78.1944446
+city_latitude: 38.9181671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

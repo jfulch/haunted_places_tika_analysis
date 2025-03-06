@@ -1,0 +1,21 @@
+city: Angola
+country: United States
+description: Pigmans Rd - Location of both a tragic train accident and heinous murders of a killer known as pigman. Many stories throughout the years of supernatural activity.
+location: Holland Rd
+state: New York
+state_abbrev: NY
+longitude: -79.0457857
+latitude: 42.6206545
+city_longitude: -79.0278156
+city_latitude: 42.63839249999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2009/03/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

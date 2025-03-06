@@ -1,0 +1,21 @@
+city: Roberts Landing
+country: United States
+description: Two adults and 1 child walk the Roberts Landing road at sunset. Said to have been returning home from a party when their home was destroyed by fire. They keep returning in their car, which is also seen.
+location: Roberts Landing road
+state: Michigan
+state_abbrev: MI
+longitude: -84.6081804
+latitude: 45.7226452
+city_longitude: -82.51574149999999
+city_latitude: 42.6597561
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

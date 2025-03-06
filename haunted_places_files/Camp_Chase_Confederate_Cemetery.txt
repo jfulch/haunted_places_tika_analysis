@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: Many of these soldiers who died were buried in the prison cemetery and it is here that the "Lady in Gray" still walks and leaves gifts of flowers behind usually on the grave of a unknown soldier. She is said to be a young woman who wears a gray suit in the style of the Civil War era. She walks through the cemetery with her head bowed and appears to be weeping. She has been seen walking directly through trees and through the iron cemetery gates. In the summer of 1988, during a Civil War re-enactment, many of the people present heard the sounds of a woman crying. There was no woman present but the weeping sounds were unmistakable. It was believed to have been Lady in Gray, still grieving over the loss of some forgotten soldier.
+location: Camp Chase Confederate Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -83.0759564
+latitude: 39.9438494
+city_longitude: -82.99879419999999
+city_latitude: 39.9611755
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1993/07/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

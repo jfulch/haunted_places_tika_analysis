@@ -1,0 +1,21 @@
+city: Walton
+country: United States
+description: There is a dilapidated yellow house that sits on US 25 on the northern edge of Walton, Ky. Many families have moved in, but none stay. It is said the ghost of a Civil War General haunts the house, driving the would-be homesteaders out.
+location: U.S. Hwy 25
+state: Kentucky
+state_abbrev: KY
+longitude: -84.61121530000001
+latitude: 38.8758056
+city_longitude: -84.61022129999999
+city_latitude: 38.87561940000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 0

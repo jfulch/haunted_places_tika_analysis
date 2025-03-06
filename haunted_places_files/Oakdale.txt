@@ -1,0 +1,20 @@
+city: Washington
+country: United States
+description: Carmike Cinemas Oakdale 20 - Many strange sightings have been seen in the projection booth. Workers have reported sightings of two ghosts. One is a young woman with blonde hair that smells of a perfume. A second ghost, named by workers Red Lapels, is said to be a well-dressed man with a red head. Their voices are often heard and the two ghosts are also associated with projector and film problems.
+location: Oakdale
+state: Minnesota
+state_abbrev: MN
+longitude: -92.9649361
+latitude: 44.9630216
+city_longitude: -92.8577105
+city_latitude: 44.8896877
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bethesda
+country: United States
+description: Some disturbing reports of sightings on the Road and in several houses dating back to the Civil War.
+location: Old Georgetown Road
+state: Maryland
+state_abbrev: MD
+longitude: -77.1119614
+latitude: 39.0069662
+city_longitude: -77.0947092
+city_latitude: 38.984652
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: War
+witness_count: 1

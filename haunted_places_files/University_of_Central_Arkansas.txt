@@ -1,0 +1,21 @@
+city: Conway
+country: United States
+description: Hughes Hall - Room 219 -  Appliances turn on by themselves and you can feel a presence in the room. Water comes on while no one is near the sink. A person residing in the room can feel someone lay down next to them at night. Objects have flown across the room. One person even felt someone pull her belt loop. Things are misplaced, and objects blow when there is no air on or window open.
+location: University of Central Arkansas
+state: Arkansas
+state_abbrev: AR
+longitude: -92.4579383
+latitude: 35.0780913
+city_longitude: -92.4421011
+city_latitude: 35.0886963
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

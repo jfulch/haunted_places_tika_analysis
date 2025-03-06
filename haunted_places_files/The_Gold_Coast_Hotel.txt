@@ -1,0 +1,21 @@
+city: Fort Bragg
+country: United States
+description: has a ghost 3 the people who work in the hotels bar area say that things like glasses have moved by themselves mysteriously.
+location: The Gold Coast Hotel
+state: California
+state_abbrev: CA
+longitude: -123.8067928
+latitude: 39.460208
+city_longitude: -123.8052935
+city_latitude: 39.445723
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Chartiers Valley
+country: United States
+description: many different hauntings including large white figure that roams the property, shadow figures that dart in and out of hallways, phantom screams when nobody is around and also shuffling of feet and voices can be heard.
+location: Old Kane Hospital
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -80.1316927
+city_latitude: 40.4052428
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

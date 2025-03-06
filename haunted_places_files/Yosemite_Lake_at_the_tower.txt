@@ -1,0 +1,20 @@
+city: Merced
+country: United States
+description: The story is told that in the 1970s at the boat tower. A mother had taken her two kids swimming and were jumping off the tower. The kids had drowned from hitting shallow waters. The bodies were never found. Every night the mother would drive her car out there and would look for her kids. She had past away and still to this day you will see a car drive out there and see a woman in a long flowing gown with her arms out crying and calling her for her children.
+location: Yosemite Lake at the tower
+state: California
+state_abbrev: CA
+longitude: -120.4314421
+latitude: 37.3767874
+city_longitude: -120.4829677
+city_latitude: 37.3021632
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

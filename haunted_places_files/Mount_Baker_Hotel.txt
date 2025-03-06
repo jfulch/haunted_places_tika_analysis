@@ -1,0 +1,21 @@
+city: Concrete
+country: United States
+description: Make it known that if you are going to this hotel, and you go upstairs be prepared, you will see a little girl about 4, with red hair and blue jean shorts on, with a pink shirt on! She might try to push you down the stairs (Do Not Be Alarmed!) but it does not work. All you can feel is a sort of tingle go through your body. You can hear a little girls voice saying "The bad woman’s gonna hurt me!" Also you might hear "Turn around, the bad woman will hurt you!" People say that her mother used to beat her to death.
+location: Mount Baker Hotel
+state: Washington
+state_abbrev: WA
+longitude: -121.745547
+latitude: 48.539146
+city_longitude: -121.7462513
+city_latitude: 48.53928130000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

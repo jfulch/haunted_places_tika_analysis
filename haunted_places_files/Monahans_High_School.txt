@@ -1,0 +1,21 @@
+city: Monahans
+country: United States
+description: Auditorium - Supposedly a girl hung herself in there and now in the basement you can see and feel the spirit. She is known to go through the costumes and hide things in really odd places.
+location: Monahans High School
+state: Texas
+state_abbrev: TX
+longitude: -102.8938848
+latitude: 31.58703109999999
+city_longitude: -102.8926536
+city_latitude: 31.5942991
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

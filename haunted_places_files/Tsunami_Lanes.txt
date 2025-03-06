@@ -1,0 +1,21 @@
+city: Crescent City
+country: United States
+description: old family owned bowling center was sold. new owners report during remodeling they could here footsteps on wooden walk space behind pin-setters.
+location: Tsunami Lanes
+state: California
+state_abbrev: CA
+longitude: -124.1976192
+latitude: 41.7570922
+city_longitude: -124.2025913
+city_latitude: 41.7557501
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 1

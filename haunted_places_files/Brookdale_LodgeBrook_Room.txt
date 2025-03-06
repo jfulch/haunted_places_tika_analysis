@@ -1,0 +1,19 @@
+city: Brookdale
+country: United States
+description: There is the story of a little girl who drowned in the brook that runs through the restaurant. She comes back to the Brookedale Lodge and sits by the fireplace in the lounge and roams the grounds. A wonderful place to dine and stay, mysterious, but friendly and beautiful. (near Santa Cruz, Felton area)
+location: Brookdale Lodge/Brook Room
+state: California
+state_abbrev: CA
+city_longitude: -122.106181
+city_latitude: 37.1062446
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

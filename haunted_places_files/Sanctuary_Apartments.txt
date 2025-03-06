@@ -1,0 +1,21 @@
+city: Port St. Lucie
+country: United States
+description: noises in the club house numerous reports of ghost sightings.
+location: Sanctuary Apartments
+state: Florida
+state_abbrev: FL
+longitude: -80.3847681
+latitude: 27.3649492
+city_longitude: -80.3582261
+city_latitude: 27.2730492
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

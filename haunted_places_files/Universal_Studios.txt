@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: Back to the future ride - Employees will clean the area and close doors to the ride rooms. A few minutes later they will go back to find candy wrappers on the floor and doors opened. Employees also experienced cold spots. An employee stated a little girl died on the ride due to an illness.
+location: Universal Studios
+state: California
+state_abbrev: CA
+longitude: -118.3533783
+latitude: 34.13811680000001
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

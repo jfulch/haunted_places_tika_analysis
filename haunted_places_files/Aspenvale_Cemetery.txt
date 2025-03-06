@@ -1,0 +1,21 @@
+city: Chilhowie
+country: United States
+description: Aspenvale Cemetery is a Civil War Cemetery There are reports of strange feelings of "company" present, anomalies, and orbs present in photographs.
+location: Aspenvale Cemetery
+state: Virginia
+state_abbrev: VA
+longitude: -81.6400039
+latitude: 36.81420800000001
+city_longitude: -81.6823411
+city_latitude: 36.7984482
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1745/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

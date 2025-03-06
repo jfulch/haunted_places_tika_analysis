@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Last year, during the filming of VH-1's "Random Play" several crewmembers reported seeing a ghostly figure appear in a fourth story window, lean and out and then disappear. Also, lights would inexplicably turn on and off. Strange cold spots were felt and "shooting lights" were seen in hallways.
+location: Ambassador Hotel
+state: California
+state_abbrev: CA
+longitude: -118.297101
+latitude: 34.059646
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Northfield
+country: United States
+description: Thorson Hall -  there have been sightings of the "Red Hat Boy" believed to possibly be the ghost of a student who died, not on campus, but while he attended St. Olaf and lived in that dorm. What is believed to be the boy's dog has also been seen with him and roaming around campus by itself. He also appears in a certain room, one that is assumed was his.
+location: St. Olaf College
+state: Minnesota
+state_abbrev: MN
+longitude: -93.1828167
+latitude: 44.4617681
+city_longitude: -93.161604
+city_latitude: 44.4582983
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1874/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

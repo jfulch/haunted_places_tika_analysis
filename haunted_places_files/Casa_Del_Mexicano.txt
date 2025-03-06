@@ -1,0 +1,21 @@
+city: East Los Angeles
+country: United States
+description: care taker of the place tells that there are nine ghost ,and at nights when he stays at his room up in the second floor he hears somebody knocking at the door, foot steps coming up from the bottom and that lights turn on by themselves. Two people in a Christmas play saw a Mexican man with jeans, boots and a squared shirt sitting on top of one of there play house looking at them, they said that it felt cold in that part of stage but that they continued with the play.
+location: Casa Del Mexicano
+state: California
+state_abbrev: CA
+longitude: -118.2057741
+latitude: 34.0345991
+city_longitude: -118.1669736
+city_latitude: 34.0224417
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

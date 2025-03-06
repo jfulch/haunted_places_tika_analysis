@@ -1,0 +1,21 @@
+city: Gardner
+country: United States
+description: Very Heavily Guarded because its right next to the prison.  NO TRESSPASSING - It is an area where a Mental Hospital used to be. Large area with several empty buildings and remains of buildings. Strange noises and sights have been reported by people who dared to enter.
+location: East Gardner Mental Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.9870196
+latitude: 42.5864302
+city_longitude: -71.998133
+city_latitude: 42.5750883
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

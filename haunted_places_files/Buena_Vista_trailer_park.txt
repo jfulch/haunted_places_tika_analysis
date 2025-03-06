@@ -1,0 +1,21 @@
+city: Fargo
+country: United States
+description: it's been said that there have been 2 15 year olds walking around at night 1 boy and 1 girl that where hit by two car's racing on Santa Cruz Dr you also can here screaming and yelling
+location: Buena Vista trailer park
+state: North Dakota
+state_abbrev: ND
+longitude: -96.8512276
+latitude: 46.8694303
+city_longitude: -96.7898034
+city_latitude: 46.8771863
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

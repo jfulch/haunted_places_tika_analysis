@@ -1,0 +1,21 @@
+city: Lake Geneva
+country: United States
+description: It is said that this house use to be a home for retarded children. The wealthy from the lakes area & Chicago would send their retarded children there to be raised. It is said that you can hear screams of children and children crying in the various rooms of the house.
+location: Lawrence House Bed &amp; Breakfast
+state: Wisconsin
+state_abbrev: WI
+longitude: -80.215531
+latitude: 44.490851
+city_longitude: -88.4334301
+city_latitude: 42.5916836
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1837/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.666666666666666
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

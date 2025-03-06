@@ -1,0 +1,21 @@
+city: Malvern
+country: United States
+description: A man walks around the bar blowing on all of the ladies’ necks. Also, the TV mysteriously turns upside down. It is said soldiers have been seen here too. (Was also on Unsolved Mysteries) Many other ghosts here, very haunted.
+location: General Warren Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.524514
+latitude: 40.042757
+city_longitude: -75.5138118
+city_latitude: 40.0362184
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

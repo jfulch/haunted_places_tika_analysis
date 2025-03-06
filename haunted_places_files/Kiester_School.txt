@@ -1,0 +1,21 @@
+city: Harrisonburg
+country: United States
+description: behind the school is a wooded area that is haunted by at least two ghosts the spirits seem to be evil if you go into the woods you get the sensation that you are being watched and at times being followed there is a nature trail built in to the woods and there are two parts where there the trail was being made but never finished. There is a rumor that in the 1960's a man went into the woods (before the nature trail was erected) and was never seen again and no body was ever found!
+location: Kiester School
+state: Virginia
+state_abbrev: VA
+longitude: -78.8830383
+latitude: 38.4384323
+city_longitude: -78.8689155
+city_latitude: 38.4495688
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

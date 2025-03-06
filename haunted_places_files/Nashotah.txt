@@ -1,0 +1,21 @@
+city: Delafield
+country: United States
+description: Nashotah House & Seminary - The grounds of this Episcopal seminary have been inhabited since the 1500s, and have been inhabited by a ghost since the mid-1700s. When an acolyte to the Episcopal priesthood attended this seminary, his wife had an affair with the Dean. To accommodate this affair, the woman hanged her husband; it was ruled a suicide, however. Since committing suicide is a mortal sin, the acolyte was buried in a cornfield rather than the cemetery. On her deathbed, the cheating wife confessed to her crime. The seminary wished to rightfully bury the body, so they exhumed the casket only to find that it was empty. It is said that the acolyte still haunts the grounds trying to get justice.
+location: Nashotah
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.422389
+latitude: 43.081003
+city_longitude: -88.4037079
+city_latitude: 43.060842
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

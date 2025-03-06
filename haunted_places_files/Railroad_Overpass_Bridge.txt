@@ -1,0 +1,21 @@
+city: Azusa
+country: United States
+description: Haunted by a transient and his dog seen walking the tracks at night.
+location: Railroad Overpass Bridge
+state: California
+state_abbrev: CA
+longitude: -117.5599054
+latitude: 34.0918191
+city_longitude: -117.9075627
+city_latitude: 34.1336186
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Drayden
+country: United States
+description: Drayden residents tell many ghost stories. One is about a large black dog who travels Cherryfield Road dragging a chain.
+location: Cherryfield Rd
+state: Maryland
+state_abbrev: MD
+longitude: -76.4825591
+latitude: 38.1601604
+city_longitude: -76.48161999999999
+city_latitude: 38.1787376
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1889/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.466666666666669
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

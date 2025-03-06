@@ -1,0 +1,20 @@
+city: Union
+country: United States
+description: this is the location where Susan Smith rolled her car in the lake with her children strapped in. after the car was recovered with the children's bodies, people went down to look & a memorial was erected. A family had gone to the lake to look their suv was parked on the boat ramp in park when it rolled into the lake drowning them. Some say that smith's children are still there looking for someone to play with. The sounds of laughing and orbs have been reported at the monument. The lake has since been closed. - May 2008 Update: no longer closed.
+location: John D Long Lake
+state: South Carolina
+state_abbrev: SC
+longitude: -81.5123235
+latitude: 34.7749883
+city_longitude: -81.623711
+city_latitude: 34.7154122
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1971/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

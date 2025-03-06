@@ -1,0 +1,21 @@
+city: Wamego
+country: United States
+description: Reports of lights turning on and off in the basement, and on the main theater floor, props mysteriously move from place to place sounds of moaning and climbing of stairs in utter silence. One report says the fire alarm mysteriously went off with no one around, the doors locked, and the lights turned off for the night, very disturbing to passers by, tunnels found in the basement lead to a mansion in town that lead also to the old morgue.
+location: Columbian Theater
+state: Kansas
+state_abbrev: KS
+longitude: -96.3054547
+latitude: 39.2029622
+city_longitude: -96.3049975
+city_latitude: 39.2019412
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: The Basement of "old Main" is said to be haunted by slaves, as it was a part of the Underground Railroad. Employees have been said to hear voices and moans. Lights go on and off and doors slam by themselves. Many unexplained happenings
+location: "Old Main" Administration Building- Duquesne University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9901728
+latitude: 40.4372949
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

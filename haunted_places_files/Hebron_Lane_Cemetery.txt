@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: on moon lit nights you can see the ghost of Hebron Lane. It is an old woman walking through the cemetery among the headstones carrying a lantern. She is dressed in a long dress with a long apron, and she has a covering over her head. She holds the lantern up high looking in the trees,( some trees are no longer there), the story goes that she is trying to find her cat in the trees. She appears mostly around Halloween. However, she can be seen other times as well.
+location: Hebron Lane Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7148228
+latitude: 38.2454009
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

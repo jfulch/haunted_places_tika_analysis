@@ -1,0 +1,21 @@
+city: Hartland
+country: United States
+description: The Hartland Inn operated as a hotel and restaurant in the early 1900s. Nowadays the rooms upstairs are no longer in use, but the restaurant still is open. One night after closing time in 2002 or 2003, the bussers were folding napkins around table 9 when they heard a bloodcurdling scream coming from the basement. One of them went down to the basement and it was pitch black. She asked everyone else if they had been down there, but no one had. There have also been sightings of a little girl in a Victorian-style sailor outfit in the basement.
+location: The Hartland Inn
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.3475838
+latitude: 43.1041944
+city_longitude: -88.3420398
+city_latitude: 43.105008
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.7
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

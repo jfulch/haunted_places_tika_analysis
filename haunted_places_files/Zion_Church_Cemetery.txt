@@ -1,0 +1,21 @@
+city: Poland
+country: United States
+description: its has been told of a ghost coming out in the road and just stopping in front of the cars and make you stop. Locals believe its a warning about this haunted place. And it tell you to turn around and go back. If you do go around the haunted place don't say you weren't warned!
+location: Zion Church Cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -86.95153529999999
+latitude: 39.4295895
+city_longitude: -86.9507203
+city_latitude: 39.4440938
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

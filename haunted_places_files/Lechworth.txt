@@ -1,0 +1,20 @@
+city: Havestraw
+country: United States
+description: Various amount of paranormal activity including cold spots, ghost orbs, little girl screaming from sealed off room on top level.
+location: Lechworth
+state: New York
+state_abbrev: NY
+longitude: -74.02555530000001
+latitude: 41.2143162
+city_longitude: -73.96458369999999
+city_latitude: 41.1975947
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

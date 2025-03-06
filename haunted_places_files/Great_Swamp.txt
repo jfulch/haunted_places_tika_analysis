@@ -1,0 +1,19 @@
+city: South Kingstown
+country: United States
+description: This was a place of a massacre that took place during the colonial era. There was a battle between the colonists and the Indians. This was called a massacre because the Indians were not prepared against the advanced weaponry of the colonists. Now this place has been a burial ground of the Indians at night you could still hear the war cries, and gunshots and screaming and crying that took place and see Indians dressed in war regalia walking through the swamp.
+location: Great Swamp
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.569428
+latitude: 41.4576086
+city_longitude: -71.524667
+city_latitude: 41.4475686
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

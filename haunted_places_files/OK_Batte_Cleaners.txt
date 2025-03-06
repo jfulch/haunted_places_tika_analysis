@@ -1,0 +1,20 @@
+city: Crystal Springs
+country: United States
+description: In the bathroom around 10:45 you can sometimes hear the door open and close. In the back room there have been times when you can hear footsteps. And the lights go on and off and there have been times reported when the microwave has gone on and off by it self. When they lock up there have been odd times when the owner has come back to get something and the door has been unlooked. The employees have seen misty figures floating around then disappearing when someone come in or they hear a loud noise.
+location: OK Batte Cleaners
+state: Mississippi
+state_abbrev: MS
+longitude: -90.3562654
+latitude: 31.9872187
+city_longitude: -90.3570353
+city_latitude: 31.987378
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

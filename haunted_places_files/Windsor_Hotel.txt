@@ -1,0 +1,21 @@
+city: Americus
+country: United States
+description: Legend says that the ghost of a little girl, daughter of a former housekeeper, runs laughing at night. Both the housekeeper and the little girl lived at the hotel and were pushed down the elevator shaft in the early 1900 s. On the third floor you can feel the presence of a little girl. You can also hear a woman's voice and the cry of a baby.
+location: Windsor Hotel
+state: Georgia
+state_abbrev: GA
+longitude: -84.23352419999999
+latitude: 32.0725928
+city_longitude: -84.23268759999999
+city_latitude: 32.0723861
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

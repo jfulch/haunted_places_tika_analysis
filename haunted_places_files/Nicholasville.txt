@@ -1,0 +1,21 @@
+city: Jessamine
+country: United States
+description: West Jessamine High School - There is an old family cemetery on the grounds. It is enclosed by an old rock wall. The football field was also used as a mass grave during a cholera epidemic. It is also said that three women were hung on a tree in the old family cemetery. They had been accused of witchcraft. Teachers have told of hearing a woman humming while walking the halls. Also the smell of rose perfume will suddenly overtake a room. If you visit the school after dark you may see shadow figures in the old cemetery. If you leave your car and go down to the cemetery your car will start by itself and the lights will go on and off. Custodians have also told of seeing three ladies, all dressed in red walking side by side in the halls at night.
+location: Nicholasville
+state: Kentucky
+state_abbrev: KY
+longitude: -84.5729961
+latitude: 37.8806341
+city_longitude: -84.56414699999999
+city_latitude: 37.895573
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: A warehouse worker that died while working in the bypass section in the warehouse haunts Qantas Freight. There have been numerous witnesses that claim to have seen his ghost working normally and when approached he turns around and his face and hands are bloody and mangled. The workers report the stranger to the managers and when they look for him he disappears. Many graveyard shift workers claim that he appears mostly in the cooler room checking the human remains section.
+location: Qantas Freight Warehouse
+state: California
+state_abbrev: CA
+longitude: -118.40317
+latitude: 33.932262
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

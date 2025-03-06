@@ -1,0 +1,20 @@
+city: Morristown
+country: United States
+description: Local nightclub haunted by female from revolutionary war era
+location: Jimmy's
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.48180310000001
+latitude: 40.7963853
+city_longitude: -74.4815438
+city_latitude: 40.79676670000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

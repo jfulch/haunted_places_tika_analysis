@@ -1,0 +1,21 @@
+city: Woodstock
+country: United States
+description: It is a creepy looking woods in woodstock. It is said that a man in black used to rape children and then murder them and throw them in the pond. He then went mad and killed himself. Now if you go to the woods at night, you see a lot of activity by the pond. Steam will rise and you will see orbs, children laughing has been heard, and sightings of the man in black have been seen.
+location: Ryders Woods
+state: Illinois
+state_abbrev: IL
+longitude: -88.4397826
+latitude: 42.30637
+city_longitude: -88.44870209999999
+city_latitude: 42.3147436
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

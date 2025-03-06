@@ -1,0 +1,21 @@
+city: Yosemite National Park
+country: United States
+description: In a tent in camp 6 a guy hung himself. Now, during the nighttime hours on any given night, you see some one swinging from the wooden frame beneath the tent.
+location: Camp 6
+state: California
+state_abbrev: CA
+longitude: -119.5383294
+latitude: 37.8651011
+city_longitude: -119.5383294
+city_latitude: 37.8651011
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

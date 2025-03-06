@@ -1,0 +1,21 @@
+city: South Bend
+country: United States
+description: Some flight attendants and pilots who stay at the hotel have sworn that they have seen a flight attendant sitting on the edge of the bed looking in the mirror at them. Some say that awhile back, her pilot in the room killed a flight attendant.
+location: Holiday Inn City Center
+state: Indiana
+state_abbrev: IN
+longitude: -86.24952979999999
+latitude: 41.7166144
+city_longitude: -86.25198979999999
+city_latitude: 41.6763545
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

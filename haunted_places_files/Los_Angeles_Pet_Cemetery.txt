@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: The Little Rascal's dog Petey, Hop along Cassidy's Horse and Mary Pickford's dog are all interred here. However, the dead animal that does the most haunting here is Kabar, a Great Dane that belonged to Rudolf Valentino. The dog died in 1929 but it's playful phantom is still reported panting or licking people that wander near it's grave.
+location: Los Angeles Pet Cemetery
+state: California
+state_abbrev: CA
+longitude: -118.6522057
+latitude: 34.1573667
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1929/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

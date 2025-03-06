@@ -1,0 +1,21 @@
+city: Fayetteville
+country: United States
+description: Woolsy Road Bridge - In the early 1920's the sheriff of Woolsy, use to kill blacks and he would dump there bodies into the swamp by his house. It is said if you park by the bridge and walk to the edge of the swamp that you can see the ghost of the people that were killed carrying lanterns through the swamp.
+location: Woolsy
+state: Georgia
+state_abbrev: GA
+longitude: -84.4175882
+latitude: 33.3627119
+city_longitude: -84.4549262
+city_latitude: 33.4487257
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1958/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

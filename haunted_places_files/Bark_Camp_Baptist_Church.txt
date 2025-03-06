@@ -1,0 +1,21 @@
+city: Midville
+country: United States
+description: doors, opening and closing, loud noises, spotting of the preacher that hung himself, lights, candles everywhere, things being through at you, noises in the grave yard, blood on the ceiling .Each time you go out there different things happen.
+location: Bark Camp Baptist Church
+state: Georgia
+state_abbrev: GA
+longitude: -82.2068779
+latitude: 32.8835741
+city_longitude: -82.2348455
+city_latitude: 32.8190456
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1875/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

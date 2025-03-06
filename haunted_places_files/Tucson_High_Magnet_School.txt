@@ -1,0 +1,21 @@
+city: Tucson
+country: United States
+description: One of the many classrooms in the vocational building has been condemned, because of rumors of a student killing himself there. The student now haunts the room. Students and teachers have reported hearing loud taps on the door, cold spots, and eerie footsteps when no one is around.
+location: Tucson High Magnet School
+state: Arizona
+state_abbrev: AZ
+longitude: -110.9619775
+latitude: 32.2271084
+city_longitude: -110.926479
+city_latitude: 32.2217429
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

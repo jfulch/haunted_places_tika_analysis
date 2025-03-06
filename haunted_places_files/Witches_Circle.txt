@@ -1,0 +1,19 @@
+city: Daleville
+country: United States
+description: It is said that people have seen outlines of a white women figure here. There is also a myth that the red splatter on the road is where someone was murdered but people say it’s just a paint splatter. Also it has been said that a old man that used to live close to the "Witches Circle" still haunts the place today, and its said that witches still go there to do witch craft.
+location: Witches Circle
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.5580301
+city_latitude: 40.1211545
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

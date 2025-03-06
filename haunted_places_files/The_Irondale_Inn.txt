@@ -1,0 +1,21 @@
+city: Bloomsburg
+country: United States
+description: A bed and breakfast on the site of an old plantation is said to have three ghosts haunting, one case in which and old woman has gone around the halls closing doors behind the guests, A large heating vent leading into the basement is believed to be the "home" to these specters. The current occupants discovered soon after moving there some of these events. One weekend after coming home from a trip the lid to the hot tub was removed and the kitchen door was mysteriously open with nothing missing from inside.
+location: The Irondale Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.4626205
+latitude: 41.00813369999999
+city_longitude: -76.4549457
+city_latitude: 41.003698
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Cartersville
+country: United States
+description: 50 years ago a 12 year old a girl was riding her horse at this site and the horse went berserk and she ran into a branch and it beheaded her. Now there have been sightings of her in the woods by her grave inside the camp. She looks transparent and glowing.
+location: Camp Sandmann
+state: Georgia
+state_abbrev: GA
+longitude: -84.71749109999999
+latitude: 34.1007583
+city_longitude: -84.7999382
+city_latitude: 34.1650972
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

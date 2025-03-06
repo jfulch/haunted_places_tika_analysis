@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: Battlefield Cemetery - There is a cemetery on the right that has a very strange ghost lurking around the graves. He watches over the cemetery and rumor is, there was a water fountain in the yard and if you drink from it he will make noises and sometimes throw things at you. He is believed to be a confederate solder.
+location: Varina Road in Varina
+state: Virginia
+state_abbrev: VA
+longitude: -77.36676899999999
+latitude: 37.436187
+city_longitude: -77.4360481
+city_latitude: 37.5407246
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1862/09/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 0

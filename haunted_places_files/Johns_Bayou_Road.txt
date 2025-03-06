@@ -1,0 +1,20 @@
+city: Vancleave
+country: United States
+description: In the past five years there have been three similar car accidents with survivors claiming the same thing. In the reports, the drivers have said they were driving alone at night and noticed what seemed like blood on the road, being curious they stop and see what it was. After they would get back in their vehicles, before they can even start their car headlights just come from no where, and a "dark colored" van would crash into their vehicle. In that exact location (the four way crossing of John's Bayou and Mount Pleasant)there have been 5 car wrecks, three have survived and two ended with a fatality, but the three that did survived all reported the exact same story. All five vehicles were found with black paint from the vehicle that crashed into them.
+location: John's Bayou Road
+state: Mississippi
+state_abbrev: MS
+longitude: -88.6458669
+latitude: 30.5050194
+city_longitude: -88.6875237
+city_latitude: 30.5404745
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Wrightsville
+country: United States
+description: Students at the school claim to see shadowy figures and doors slamming on their own. There were also reports of seeing orbs and other strange lights. Also earlier this year a student found ectoplasm on a gym locker. Their have been other stories about the school that date back to after the civil war. There have also been lots of horrible acts there from the students and teachers.
+location: Eastern York High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.5397608
+latitude: 39.9988331
+city_longitude: -76.5299655
+city_latitude: 40.0256531
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

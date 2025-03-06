@@ -1,0 +1,21 @@
+city: Geneva
+country: United States
+description: The ghost of Belhurst Castle is that of a beautiful Italian opera singer, who fled from Spain with her lover. One night the couple raced to their secret tunnel. Just when within safety the tunnel collapsed killing the opera singer. Over the years, dozens of guests have reported seeing a woman in white standing silently on the front lawn in the middle of the night.
+location: Belhurst Castle
+state: New York
+state_abbrev: NY
+longitude: -76.9752306
+latitude: 42.8392709
+city_longitude: -76.985557
+city_latitude: 42.8679836
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Danbury
+country: United States
+description: It is said that a woman who was stood up at the alter there killed herself in the church and can be seen walking around searching for her lost fiancée and the sounds of her sobbing can be heard all through the night.
+location: Davis Chapel Church
+state: North Carolina
+state_abbrev: NC
+longitude: -80.1338196
+latitude: 36.40674
+city_longitude: -80.20588310000001
+city_latitude: 36.4093047
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

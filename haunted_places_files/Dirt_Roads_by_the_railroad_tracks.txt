@@ -1,0 +1,19 @@
+city: Pearson
+country: United States
+description: It's said the dirt roads near these tracks are home to a strange light that will follow and hover over cars. It is called The Pearson Light is one of the best-known stories. A long time ago a poor person was walking with a lantern and got ran over by a train. All that was left was his head. If you go to the place you can see a big light that will chase you. Some say that if you curse, yell, throw things at it, or party and be loud it will crush the top of your car in.
+location: Dirt Roads by the railroad tracks
+state: Georgia
+state_abbrev: GA
+city_longitude: -82.8523668
+city_latitude: 31.297703
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1844/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.45
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

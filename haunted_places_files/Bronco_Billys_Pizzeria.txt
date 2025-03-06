@@ -1,0 +1,21 @@
+city: Union City
+country: United States
+description: In Old Alvarado section of Union City there is a pizzeria called Bronco Billy's pizza, it is a very old building built before Union City became a city, In the after hours it is said to be haunted , there are pictures of old cowboys from the area over a century old, the place is dark and gloomy, the reserved party room is heard to be the most supernatural activity. Submit: Submit
+location: Bronco Billy's Pizzeria
+state: California
+state_abbrev: CA
+longitude: -122.0797452
+latitude: 37.5962421
+city_longitude: -122.0438298
+city_latitude: 37.5933918
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

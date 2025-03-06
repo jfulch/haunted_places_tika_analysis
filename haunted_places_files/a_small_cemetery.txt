@@ -1,0 +1,20 @@
+city: Thackery
+country: United States
+description: It is in a small cemetary just north of town on creek road. In the 70's a young girl was brutally raped and murdered there in the back right side of the cemetary. One day last summer me and a 2 friends took a bike ride up to the cemetary and were walking around to see if anything wierd was going on there. when we got to the back my friend had to use the restroom so he walked over to the fence and said a small girl was at the bottom of the hill hovering toward him.
+location: a small cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -84.1727816
+latitude: 39.7441916
+city_longitude: -83.91882249999999
+city_latitude: 40.0556136
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

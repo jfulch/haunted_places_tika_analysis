@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: Off of National on Bennett is Phelps Grove Park under the third bridge late at night you can see a woman in a wedding dress known as "Bride under the Bridge" that was killed on her wedding day
+location: Phelps Grove Park Bridge
+state: Missouri
+state_abbrev: MO
+longitude: -93.2834227
+latitude: 37.1895864
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

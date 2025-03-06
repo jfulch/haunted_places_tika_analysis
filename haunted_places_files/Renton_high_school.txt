@@ -1,0 +1,21 @@
+city: Renton
+country: United States
+description: the ghost is known as the phantom of Renton high. The story of how the phantom came to be is that a girl was raped and murdered by an old janitor who hung her body from the rafters in the old auditorium, which has recently been torn out. she would make herself known to small groups only. she would play the piano turn off the light and some times manifest on the balcony. it is also said she haunts the 4th floor and the tower which are off limits to students.
+location: Renton high school
+state: Washington
+state_abbrev: WA
+longitude: -122.21197
+latitude: 47.481741
+city_longitude: -122.2170661
+city_latitude: 47.48287759999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

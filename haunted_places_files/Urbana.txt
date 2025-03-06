@@ -1,0 +1,21 @@
+city: Champaign
+country: United States
+description: The University of Illinois - The English building  - is supposed to be haunted. The story is that it was once a girl's dormitory, and a girl killed herself there. Supposedly her spirit haunts the building.
+location: Urbana
+state: Illinois
+state_abbrev: IL
+longitude: -88.2271615
+latitude: 40.1019523
+city_longitude: -88.2433829
+city_latitude: 40.1164204
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1867/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

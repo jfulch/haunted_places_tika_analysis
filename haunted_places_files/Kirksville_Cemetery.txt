@@ -1,0 +1,20 @@
+city: Kirksville
+country: United States
+description: The submitter of this places claims to have a picture of a friend posing next to a headstone that is shaped like a chair, similar to the one you mention from IA. They do not remember what cemetery it is in, but they do know that it was in the Kirksville area. This chair also had rumors about people who had died after sitting in it. - October 2007 Update – The Chair that was mentioned is called The Devil’s Chair Located on Jamison St. in Kirksville.
+location: Kirksville Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -92.5894747
+latitude: 40.1953891
+city_longitude: -92.5832496
+city_latitude: 40.19475389999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 0

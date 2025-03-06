@@ -1,0 +1,21 @@
+city: North Little Rock
+country: United States
+description: Workers hear little girls laughing in the back room when nobody is there. The soda machines turn on by themselves.
+location: Chuck E. Cheese
+state: Arkansas
+state_abbrev: AR
+longitude: -92.221792
+latitude: 34.792525
+city_longitude: -92.2670941
+city_latitude: 34.769536
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

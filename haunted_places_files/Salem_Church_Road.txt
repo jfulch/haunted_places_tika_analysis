@@ -1,0 +1,19 @@
+city: Newark
+country: United States
+description: people say there are a family of six walking across the highway. Back in the 1900's the family of six was hung because of witchcraft, ever since then they hunt the highway to find the relatives whom hung them.
+location: Salem Church Road
+state: Delaware
+state_abbrev: DE
+longitude: -75.6963155
+latitude: 39.6646654
+city_longitude: -75.74965720000002
+city_latitude: 39.6837226
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

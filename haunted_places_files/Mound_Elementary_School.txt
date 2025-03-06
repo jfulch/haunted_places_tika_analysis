@@ -1,0 +1,20 @@
+city: Cleveland
+country: United States
+description: Believed to be built on an Indian Burial grcund and cursed.
+location: Mound Elementary School
+state: Ohio
+state_abbrev: OH
+longitude: -81.648665
+latitude: 41.462648
+city_longitude: -81.6943605
+city_latitude: 41.49932
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

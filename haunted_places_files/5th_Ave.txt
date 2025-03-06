@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: Between Roosevelt and Fillmore - A nine year-old girl was killed tragically on August 6,1995, by a hit and run driver. The driver was never located, or brought to justice. It is said that this little girl made herself known to some people for some time after her death. Even now, it is believed that people can still feel a presence in certain areas of Phoenix. One such area is where she was killed. Another area is in the neighborhood of 17th Ave. and Grant. At the time of her death, a man who was sleeping alone in the bedroom, had a box fall on him, awakening him. His wife, who was in the kitchen preparing the evening meal, had a vision of the little girl smiling at her, and saying how much she loved them both. Another sighting of this little girl happened near 19th Ave. and Camelback. A mother was walking a little girl, unknown to the older sister and her friend who were followin g behind them. The little girl kept turning to look at the two behind her, smiling and waving. This little girl's facial features, hair and hair color appeared to be exactly the same as the deceased little girl. Also, at the time of the girl's death, when the ambulance, fire truck, and police cars were at the scene, the girl's body was placed in the ambulance. As the ambulance was pulling away, it was reported later that others saw her up against the windows in the back of the ambulance. Her face and hands were pressed against the window as the paramedics were trying to save her. All of this was reported to the mother, ranging from a couple of days to six months later. The mother would often awaken, believing she had just been talking to the girl, but it was only in her dreams.
+location: 5th Ave
+state: Arizona
+state_abbrev: AZ
+longitude: -112.0802534
+latitude: 33.5129204
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

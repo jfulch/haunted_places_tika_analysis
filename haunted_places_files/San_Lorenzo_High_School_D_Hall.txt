@@ -1,0 +1,21 @@
+city: San Lorenzo
+country: United States
+description: It has been reported by many janitors and teachers that a little girl walks up and down D-Hall and the classes in it with her doll at hand. Some also say she moves vending machines, tosses chairs and desks. The story goes like this: Supposedly before the school was built it was an old cherry field, and the girls father worked there. One day she was playing in the fields and fell asleep while her father was working. The father then got in a tractor and started mowing the fields. He ran her over and killed her without noticing that the cherry stains on the tractor was actually blood. He later looked for her and found her dead cut up where D-Hall is now.
+location: San Lorenzo High School -D-Hall
+state: California
+state_abbrev: CA
+longitude: -122.122524
+latitude: 37.6885711
+city_longitude: -122.1244088
+city_latitude: 37.6810422
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1894/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

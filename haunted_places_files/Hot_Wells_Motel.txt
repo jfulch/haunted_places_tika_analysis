@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Site of an old Burnt down hotel. Rumor has it that Hot Wells was known for its luxury spas and the numerous fires that took place in Rm. 13. The Fowl Smell of the dead still lingers there even after its been burnt for 46 yrs.
+location: Hot Wells Motel
+state: Texas
+state_abbrev: TX
+longitude: -98.4540616
+latitude: 29.3692078
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1600/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

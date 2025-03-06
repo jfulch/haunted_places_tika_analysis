@@ -1,0 +1,21 @@
+city: Mount Clemens
+country: United States
+description: on video orb to multiple orbs crossing past in front of the camera.
+location: CHE COSA coffee house
+state: Michigan
+state_abbrev: MI
+longitude: -82.86566049999999
+latitude: 42.5851851
+city_longitude: -82.8779754
+city_latitude: 42.5972563
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1550/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: East Lansing
+country: United States
+description: Williams Hall - Incidents have included residents hearing noises coming from unoccupied rooms, computers turning on and off, seeing ghostly figures in the halls and dancing in the old cafeteria, night receptionists have reported the television in the main hall turning on and off.
+location: Michigan State University
+state: Michigan
+state_abbrev: MI
+longitude: -84.4821719
+latitude: 42.701848
+city_longitude: -84.48386540000001
+city_latitude: 42.7369792
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1755/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

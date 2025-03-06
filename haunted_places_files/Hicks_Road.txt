@@ -1,0 +1,21 @@
+city: Los Gatos
+country: United States
+description: A biker died on the road about 10 years ago and now he haunts the road. The ghost wears a trench coat and rolls around at night on a bike. The bike has no wheels and you cant see his face. You can only see him in your mirrors.
+location: Hicks Road
+state: California
+state_abbrev: CA
+longitude: -121.893024
+latitude: 37.2036154
+city_longitude: -121.9623751
+city_latitude: 37.2358078
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

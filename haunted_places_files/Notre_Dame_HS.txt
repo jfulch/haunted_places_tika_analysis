@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: A nun years back hung herself off the balcony because she was pregnant. It is now said to be haunted. Also the gym which is no longer in use has been reported to have ghosts.
+location: Notre Dame HS
+state: California
+state_abbrev: CA
+longitude: -121.882555
+latitude: 37.328303
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

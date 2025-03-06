@@ -1,0 +1,18 @@
+city: Shelby
+country: United States
+description: Green eyes is known as green eyes because back in the 1940's there was a hospital. Not just any hospital, it is known as St. Pauls Psychiatric Reformed Cemetery. The hospital was burned down by a group of vandals. If you go near the cemetery, a huge dog will chase your car, and green eyes will appear in the gravesite, except when you get closer the dog stops and the eyes stop and you can hear people screaming for there lives.
+location: Green Eyes Cemetery
+state: Ohio
+state_abbrev: OH
+city_longitude: -82.6618424
+city_latitude: 40.88144519999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

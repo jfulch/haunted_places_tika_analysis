@@ -1,0 +1,21 @@
+city: Orlando
+country: United States
+description: The old mansion in the Harry P. Leu Botanical Gardens is haunted by the ghosts of the former residents. Visitors to the house on guided tours have reported cold spots in the upper bedrooms and tour guides have reported spirits. The gardens are off of S.R. - 1792 (Orlando Ave.) east of down town Orlando.
+location: Leu Botanical Gardens
+state: Florida
+state_abbrev: FL
+longitude: -81.3563829
+latitude: 28.5697967
+city_longitude: -81.3792365
+city_latitude: 28.5383355
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

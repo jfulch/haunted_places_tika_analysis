@@ -1,0 +1,21 @@
+city: Glen Haven
+country: United States
+description: The Screamer - A sanitarium was burned down in 1912 to clear a spot for a watershed for the city of Syracuse. The site is located on Skaneateles Lake. The Sanitarium's caretaker was said to have perished in the fire. His screams could be heard across the lake. Even in life, he was a nasty jealous man and now takes out his revenge on those at the summer camp across the lake. He can be seen and heard at night pacing the wooded cliffs above the camp brandishing his sharpened scythe and wailing.
+location: Skaneateles
+state: New York
+state_abbrev: NY
+longitude: -76.2677602
+latitude: 42.7661004
+city_longitude: -76.27798589999999
+city_latitude: 42.7656238
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1912/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

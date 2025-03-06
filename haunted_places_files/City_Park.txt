@@ -1,0 +1,20 @@
+city: Eagle Butte
+country: United States
+description: Late at night if you walk by you can hear the voice of a woman. A woman died behind the baseball field fence she was found frozen. You can here her moaning and scream's. There have been sighting of her late at night people see her walking around sometimes.
+location: City Park
+state: South Dakota
+state_abbrev: SD
+longitude: -101.2408616
+latitude: 45.0001007
+city_longitude: -101.2224805
+city_latitude: 44.9886537
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

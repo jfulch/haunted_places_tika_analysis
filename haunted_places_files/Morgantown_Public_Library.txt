@@ -1,0 +1,21 @@
+city: Morgantown
+country: United States
+description: The public library employees have reported a ghost. Especially when working late in the evening.
+location: Morgantown Public Library
+state: West Virginia
+state_abbrev: WV
+longitude: -79.9546081
+latitude: 39.63023
+city_longitude: -79.95589679999999
+city_latitude: 39.629526
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

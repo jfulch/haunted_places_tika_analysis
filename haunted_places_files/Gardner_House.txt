@@ -1,0 +1,21 @@
+city: Topeka
+country: United States
+description: this house is home to a poltergeist.
+location: Gardner House
+state: Kansas
+state_abbrev: KS
+longitude: -95.698397
+latitude: 39.0527609
+city_longitude: -95.6890185
+city_latitude: 39.0558235
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

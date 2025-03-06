@@ -1,0 +1,21 @@
+city: Benicia
+country: United States
+description: Reports of footsteps on the back stairs, a ball of fire that flies around, lights flashing, cold spots, & an apparition of an old woman.
+location: Benicia Old Town Theater/ Portuguese Hall
+state: California
+state_abbrev: CA
+longitude: -122.1577485
+latitude: 38.0523235
+city_longitude: -122.1585777
+city_latitude: 38.049365
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

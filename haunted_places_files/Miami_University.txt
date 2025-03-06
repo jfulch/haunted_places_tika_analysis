@@ -1,0 +1,20 @@
+city: Oxford
+country: United States
+description: on an old country road just outside of the university the lights of a ghost can be summoned by flashing your car lights 3 times. Forbidden lovers once used this sign when they would meet at night. But one night the guy coming on his motorcycle died. You can see red lights, a concentrated white light (like the light of a motorcycle), and then many lights (like an ambulance.
+location: (Miami University)
+state: Ohio
+state_abbrev: OH
+longitude: -84.73087679999999
+latitude: 39.5105334
+city_longitude: -84.74523099999999
+city_latitude: 39.5069974
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

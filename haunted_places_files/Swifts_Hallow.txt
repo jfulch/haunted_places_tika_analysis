@@ -1,0 +1,18 @@
+city: Medina
+country: United States
+description: Swift Mansion - A.K.A. Known as , "The Old Swift Place." Burned down in 1926 - There have been many deaths here (most of which were children due to illness). there is accually a whole book about it.
+location: Swift's Hallow
+state: Ohio
+state_abbrev: OH
+city_longitude: -81.8552196
+city_latitude: 41.143245
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1926/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

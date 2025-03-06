@@ -1,0 +1,21 @@
+city: Freedom
+country: United States
+description: The Vicary Mansion is said to be haunted by the Captain Vicary. Tours are open on special days to celebrate the landmark. And people have seen chandeliers swinging back and forth and turning off and on. And you can hear voices. They even found a shoe that looks like it's from the 1800's. It was found near a secret room...there also you can feel a presence.
+location: Vicary Mansion
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.2506154
+latitude: 40.6821
+city_longitude: -80.25172769999999
+city_latitude: 40.6856221
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1989/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

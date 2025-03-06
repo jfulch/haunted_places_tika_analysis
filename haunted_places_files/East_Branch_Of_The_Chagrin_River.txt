@@ -1,0 +1,20 @@
+city: Kirtland
+country: United States
+description: Noises heard, logs falling, chills, red orbs seen.
+location: East Branch Of The Chagrin River.
+state: Ohio
+state_abbrev: OH
+longitude: -81.30142839999999
+latitude: 41.6251608
+city_longitude: -81.3614985
+city_latitude: 41.62893649999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

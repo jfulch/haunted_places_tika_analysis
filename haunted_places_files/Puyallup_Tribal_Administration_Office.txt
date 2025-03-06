@@ -1,0 +1,21 @@
+city: Tacoma
+country: United States
+description: The building is an old Hospital. It is said that many people died of TB there. In the basement there is an incinerator they used to burn the bodies. People walking can be heard through out the building. On the 5th floor a woman cries for her child and/or husband. The elevators move from floor to floor on their own. Children’s voices can be heard. In the basement(used to be the morgue) a woman complains of being cold. The fifth floor is known to be the most spiritually active.- Update: Building is gone now,6/03.It is going to be the new location of the {Emerald Qween Casino Hotel}
+location: Puyallup Tribal Administration Office
+state: Washington
+state_abbrev: WA
+longitude: -122.4095326
+latitude: 47.2363583
+city_longitude: -122.4442906
+city_latitude: 47.2528768
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bullvalley
+country: United States
+description: This house was built in the 1800's. The family that lived in it all died in the upstairs, the only part of the house with corners. The reason for the downstairs and outer perimeter not having corners was for the purpose of ghosts and spirits to have no place to hide. Late at night, in the dark of the upstairs windows, figures can be seen moving about. Sounds of steps can also be heard faintly. On the second floor is the door to nowhere that is up on the house leading to no deck nor any stairway. one of the stories is that one of the Stickney children hung himself in an upstairs room. They say anyone is welcome to visit the station. Yet, a vistitor to the house recently was told they'd get back in touch with her to give her more information. they never did. Beware you may get to go inside and get some stories, but not much else. -  October 2004 update:It has now been remodeled into a police station.
+location: Stickney Mansion
+state: Illinois
+state_abbrev: IL
+longitude: -88.3523187
+latitude: 42.3007764
+city_longitude: -88.3550887
+city_latitude: 42.3205772
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Sylvan Beach
+country: United States
+description: is haunted by a few ghosts, one is named "Jack" and his room is on the second level of the restaurant, the other is a woman that has been seen in the dining area.
+location: Yesterday's Royal
+state: New York
+state_abbrev: NY
+longitude: -75.7299532
+latitude: 43.1953024
+city_longitude: -75.730463
+city_latitude: 43.1964576
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

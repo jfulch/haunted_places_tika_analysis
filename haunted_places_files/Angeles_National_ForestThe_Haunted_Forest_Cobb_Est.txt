@@ -1,0 +1,21 @@
+city: Altadena
+country: United States
+description: Screams can be heard from these people, and strange lights can be seen from the flashlights they once carried.
+location: Angeles National Forest/The Haunted Forest (Cobb Estate)
+state: California
+state_abbrev: CA
+longitude: -118.1274515
+latitude: 34.2058442
+city_longitude: -118.1313188
+city_latitude: 34.190162
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

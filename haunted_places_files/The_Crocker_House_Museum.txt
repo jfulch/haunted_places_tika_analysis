@@ -1,0 +1,21 @@
+city: Mount Clemens
+country: United States
+description: There are plenty of spirits in this place. This is to include the old man caretaker to gentleman Jack Jacobie and many more.
+location: The Crocker House Museum.
+state: Michigan
+state_abbrev: MI
+longitude: -82.8820073
+latitude: 42.5987361
+city_longitude: -82.8779754
+city_latitude: 42.5972563
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

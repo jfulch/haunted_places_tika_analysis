@@ -1,0 +1,21 @@
+city: Tombstone
+country: United States
+description: Customers here have reported countless instances of playful pranks since frontier days. Expect the usual crashing sounds, and objects that move on their own volition.
+location: Nellie Cashman's Restaurant
+state: Arizona
+state_abbrev: AZ
+longitude: -111.9328039
+latitude: 33.6257944
+city_longitude: -110.0675764
+city_latitude: 31.7128683
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Nashua
+country: United States
+description: Indian Rock Road is a dark and wooded road about five miles from Pine Hill Cemetery. The road leads to a meadow, which is a popular hangout for local youths. When walking along Indian Rock Road, one experiences cold spots and the intense feeling of being watched by some malevolent force. The woods seem as if they are about to swallow the road whole.
+location: Indian Rock Road
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.5208376
+latitude: 42.77776739999999
+city_longitude: -71.46756599999999
+city_latitude: 42.7653662
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.666666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

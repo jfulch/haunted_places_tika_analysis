@@ -1,0 +1,20 @@
+city: Wooster
+country: United States
+description: you will here loud music that only a few people can hear. It will either be a comical kind of music or sad music. it depends what mood the ghost is in. some times she will come up and grab you because you look sad and she is lonely.
+location: Taco Bell
+state: Ohio
+state_abbrev: OH
+longitude: -81.93377149999999
+latitude: 40.8221722
+city_longitude: -81.935143
+city_latitude: 40.8050565
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2017/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bradfordsville
+country: United States
+description: During the summer of 1965 several of the children of Bradfordsville heard a mysterious sound coming from the North Rolling Fork River which flows parallel to the streets of the town.  The sound was very similar to a whip being cast.  If you got close to the river looking for the source of the sound--the sound got quieter.  If you got farther away from the river the sound became louder.  It went on and on.  Many adults were called out by the children to find out what was causing the strange "whip" like cracking sound.  No one ever was able to explain what caused the strange sounds.
+location: North Rolling Fork River
+state: Kentucky
+state_abbrev: KY
+longitude: -85.1488483
+latitude: 37.4942356
+city_longitude: -85.1488483
+city_latitude: 37.4942356
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Fort Yates
+country: United States
+description: There is an old white building the government now uses as a storage area for facility management, when you walk by this building at night you can see someone looking at you out the barred windows. I was told by my grandmother is once was a jail in the early 1900's. My friends and I were walking around one night and seen it for our self, shadows and profile outlines of people like things looking out at us, I never realized I could run so fast.
+location: OLD GOVERNMENT JAIL
+state: North Dakota
+state_abbrev: ND
+longitude: -100.6300842
+latitude: 46.0940039
+city_longitude: -100.6301271
+city_latitude: 46.0869408
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

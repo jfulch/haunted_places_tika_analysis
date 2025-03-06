@@ -1,0 +1,21 @@
+city: Skowhegan
+country: United States
+description: Lake George - there is a paranormal force that lurks within the cabins of the camp. A true fact: "Four kids were walking along in the woods, when they came upon an abandoned cabin with high, foggy windows. Two kids lifted the smaller kid to boast up to get a better view of what was 'concealed' inside! There in the cabin beheld a game room with chairs folded up around the room, however when the other kid wanted a look for herself, she reported something much different than that! Nevertheless, the other girl saw a folded-up game table against the wall...instead of a game room she beheld a large rectangular table with all the chairs perfectly seated around the table.
+location: West side Lake
+state: Maine
+state_abbrev: ME
+longitude: -69.5916459
+latitude: 44.7672693
+city_longitude: -69.7193803
+city_latitude: 44.76503659999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

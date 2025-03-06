@@ -1,0 +1,20 @@
+city: Branson
+country: United States
+description: On the site of the Shepherd of the Hills Outdoor Drama, people have seen the ghost of an old Civil War spotter wandering the hill upon horseback.
+location: Inspiration Point
+state: Missouri
+state_abbrev: MO
+longitude: -93.3054701
+latitude: 36.6667456
+city_longitude: -93.2185144
+city_latitude: 36.6436731
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/08/31
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

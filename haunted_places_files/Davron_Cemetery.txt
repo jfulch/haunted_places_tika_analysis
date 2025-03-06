@@ -1,0 +1,20 @@
+city: Cleveland
+country: United States
+description: At night tombstones can be seen broken when in the day they were not! Bright lights at all times of the night can be seen. Also strange sounds can be heard such as water, screaming, and howls. It's a very small cemetery that was closed in 1886 because of poor maintenance.
+location: Davron Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -81.5983687
+latitude: 41.5138354
+city_longitude: -81.6943605
+city_latitude: 41.49932
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1886/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

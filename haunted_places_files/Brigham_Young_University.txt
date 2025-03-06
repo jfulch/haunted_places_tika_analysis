@@ -1,0 +1,21 @@
+city: Provo
+country: United States
+description: Library-Music Section - In the Reading Room of the Music Section of the Library there is always a moaning noise that sometimes sounds like voices. Also, the room is always extremely cold or extremely hot. In another part of the Music Library, the Harp room, a mysterious chair, called the "ghost chair" by some appeared out of nowhere and the librarians can't account for where it came from. There is also a room in the back called the Music Recordings Archives where rows and rows of old records lie practically untouched and students often get scared or spooked in this room.
+location: Brigham Young University
+state: Utah
+state_abbrev: UT
+longitude: -111.6493156
+latitude: 40.2518435
+city_longitude: -111.6585337
+city_latitude: 40.2338438
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

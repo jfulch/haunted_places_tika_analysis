@@ -1,0 +1,21 @@
+city: East Bernard
+country: United States
+description: There is an old High School in the small town of East Bernard. In the gym there are orbs and spirits everywhere. If you go down to the girls weight room the punching bag will start and stop moving
+location: East Bernard High School
+state: Texas
+state_abbrev: TX
+longitude: -96.0656338
+latitude: 29.5267569
+city_longitude: -96.0710696
+city_latitude: 29.5310744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Thaxton
+country: United States
+description: there is a grave beside the church if you go to it at night and stand on the grave and say the name of the women that died there, she committed suicide, after you say her name get in the vehicle and drive down the road on to a bridge and look at the steeple it will turn red then look behind you as you leave because you will see something.
+location: Pleasant Ridge Church
+state: Mississippi
+state_abbrev: MS
+longitude: -89.2333429
+latitude: 31.5433037
+city_longitude: -89.1781251
+city_latitude: 34.3076058
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

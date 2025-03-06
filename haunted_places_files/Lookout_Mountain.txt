@@ -1,0 +1,21 @@
+city: Pawhuska
+country: United States
+description: There are little people that live around the mountain and it is said that if you go up there and disturb the grave they chase you.
+location: Lookout Mountain
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.3422633
+latitude: 36.6635969
+city_longitude: -96.3372309
+city_latitude: 36.6678426
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

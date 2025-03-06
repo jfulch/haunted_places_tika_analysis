@@ -1,0 +1,19 @@
+city: Bainbridge
+country: United States
+description: People have seen a ball of fire hovering over the cemetery, and then in the next few days a new grave will need to be dug. People have also seen a large ghostly black dog with a blood-curdling howl that doesn't leave any tracks.
+location: New Enterprise Freewill Baptist Church
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.57546990000002
+city_latitude: 30.9037995
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

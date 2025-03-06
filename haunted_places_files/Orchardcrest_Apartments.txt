@@ -1,0 +1,21 @@
+city: Winchester
+country: United States
+description: Late at night, or early morning hours, odd things will occur, such as lights flickering on and off, TV's coming on and off, doors slamming when everyone is asleep. Rumor has it that around 100 years ago, there was a cemetery and that when they built the apartments, they dug up most of the bodies, but some were forgotten.
+location: Orchardcrest Apartments
+state: Virginia
+state_abbrev: VA
+longitude: -78.18102449999999
+latitude: 39.1554408
+city_longitude: -78.1633341
+city_latitude: 39.1856597
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Hodgenville
+country: United States
+description: Sounds of a really loud stomping as if someone was jumping up and down as hard as they could.
+location: Creekfront Tunnel
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7415261
+latitude: 37.5767889
+city_longitude: -85.73996059999999
+city_latitude: 37.5739497
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Santa Fe
+country: United States
+description: One ghost in particular paces in the shadows late at night. Another prominent ghost on campus is that of a decapitated nurse during WWII. The campus was an insane asylum during this time, and a post-war inmate snapped and cut off a nurse's head. She has been seen walking in the hallways, which now lead to the cafeteria. Ask the students, they can tell you, and the whole college is haunted.
+location: The College of Santa Fe
+state: New Mexico
+state_abbrev: NM
+longitude: -105.9775895
+latitude: 35.6569559
+city_longitude: -105.937799
+city_latitude: 35.6869752
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

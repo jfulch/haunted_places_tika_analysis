@@ -1,0 +1,21 @@
+city: Cullman
+country: United States
+description: Cry Baby Hollow Off Highway 31 North in Cullman County - It is said that when Cullman was being settled, a family in a wagon was crossing the small wooden bridge. A wheel broke off and the wagon turned over, throwing a small baby into the creek, killing it. Since that time, you can hear a baby crying. Also, if you put a candy bar on the bridge, leave and then come back, there will be a bite taken out of it.
+location: Vinemont
+state: Alabama
+state_abbrev: AL
+longitude: -86.8671293
+latitude: 34.2429261
+city_longitude: -86.8436124
+city_latitude: 34.1748208
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

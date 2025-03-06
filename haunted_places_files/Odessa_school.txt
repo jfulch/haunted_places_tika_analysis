@@ -1,0 +1,21 @@
+city: Odessa
+country: United States
+description: Strange footsteps in gym and hallways of the school, slamming of doors on 3rd floor. large drafts in one of the lower hallways of the school (NOTE) school has new windows and doors.
+location: Odessa school
+state: Nebraska
+state_abbrev: NE
+longitude: -99.254752
+latitude: 40.67313
+city_longitude: -99.2552479
+city_latitude: 40.7007586
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

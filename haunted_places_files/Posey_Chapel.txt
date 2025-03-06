@@ -1,0 +1,19 @@
+city: Laborite
+country: United States
+description: Many orbs are seen in this area, also you can hear a woman singing and someone playing a guitar in the background. - Septermber 2004 additional information: you can stand outside the fence and be fine, but enter the property and your heart starts pounding, etc. Some have seen a ghost of a nun crossing the street. And others see a vague white form on top of the hill that is too large to be a grave stone.
+location: Posey Chapel
+state: Indiana
+state_abbrev: IN
+longitude: -86.62696679999999
+latitude: 41.7530992
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

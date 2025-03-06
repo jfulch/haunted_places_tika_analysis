@@ -1,0 +1,20 @@
+city: Deadwood
+country: United States
+description: unexplained footsteps are heard here.
+location: Green Door Brothel
+state: South Dakota
+state_abbrev: SD
+longitude: -103.7291126
+latitude: 44.3776523
+city_longitude: -103.7296415
+city_latitude: 44.376651
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

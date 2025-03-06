@@ -1,0 +1,21 @@
+city: Moses Lake
+country: United States
+description: This haunting has been described as mysterious noises that happen around 11:30 P.M., and also a smoke-like apparition with only the legs showing is seen running down the hallway. An alarm has also been heard. - April 2007 Update - that building was torn down in 2005 and now there is nothing there. Workers involved in the demolition claimed that when they took down decorations inside the classroom the next day they would be replaced as if they never touched them.
+location: Columbia Basin Alternative High School
+state: Washington
+state_abbrev: WA
+longitude: -119.3215697
+latitude: 47.1828499
+city_longitude: -119.2780771
+city_latitude: 47.1301417
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2005/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

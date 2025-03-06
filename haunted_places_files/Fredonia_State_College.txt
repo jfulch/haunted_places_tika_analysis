@@ -1,0 +1,21 @@
+city: Fredonia
+country: United States
+description: Igoe Hall - A student named Jimmy Igoe was killed on a fishing trip to Lake Erie. He now haunts the halls of this structure by slamming doors, changing television channels, turning lights on and off, and messing with the water in the bathrooms and he messes with the elevator. When you ask him to stop, he will.
+location: Fredonia State College
+state: New York
+state_abbrev: NY
+longitude: -79.34036329999999
+latitude: 42.4538665
+city_longitude: -79.3317105
+city_latitude: 42.4400576
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1954/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

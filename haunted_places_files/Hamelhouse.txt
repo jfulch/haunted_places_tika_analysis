@@ -1,0 +1,20 @@
+city: Waynesville
+country: United States
+description: Reports of apparitions, bottles, keys and other items such as forks plates fly across the room.
+location: Hamelhouse
+state: Ohio
+state_abbrev: OH
+longitude: -84.0872799
+latitude: 39.5294568
+city_longitude: -84.086601
+city_latitude: 39.52978239999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

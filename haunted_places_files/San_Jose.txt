@@ -1,0 +1,21 @@
+city: Santa Cruz
+country: United States
+description: Highway 17 - People have claimed to see the ghost of an old Indian man walking along the road. He is supposedly the cause of all the accidents.
+location: San Jose
+state: California
+state_abbrev: CA
+longitude: -121.8863286
+latitude: 37.3382082
+city_longitude: -122.0307963
+city_latitude: 36.9741171
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

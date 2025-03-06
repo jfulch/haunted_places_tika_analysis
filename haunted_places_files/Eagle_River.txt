@@ -1,0 +1,19 @@
+city: Sheboygan Falls
+country: United States
+description: Long ago, in the 1800's, a man worked on the railroad tracks. One day, he was on a caboose, in the back, and he fell off. He was knocked unconscious, and another train was coming. He was decapitated; his head flew 200 feet away. To this day, he uses his old railroad light, searching for his lost head.
+location: Eagle River
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -87.8106439
+city_latitude: 43.7291617
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Absecon
+country: United States
+description: Late at night, as the only visitors when staying in a private cottage of this B&B, a soft song could be heard playing on a fife (a flute like instrument).  No one else was on this property that night, not even the owner or caretaker.
+location: Pitney House
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.498728
+latitude: 39.425234
+city_longitude: -74.4957076
+city_latitude: 39.4284503
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

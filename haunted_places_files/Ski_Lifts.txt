@@ -1,0 +1,21 @@
+city: Mount Baldy
+country: United States
+description: has a ghost of a man wearing all white. He seems to be from back in the mining days. He is wearing a white suit, with a white hat. He has a mustache as well.
+location: Ski Lifts
+state: California
+state_abbrev: CA
+longitude: -117.6219104
+latitude: 34.2700828
+city_longitude: -117.6589752
+city_latitude: 34.2363809
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

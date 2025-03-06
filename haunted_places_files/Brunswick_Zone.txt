@@ -1,0 +1,21 @@
+city: Roswell
+country: United States
+description: It has been known that an elderly bowler passed away while bowling, since then trash can lids randomly drop to the ground and the feeling of a dark presence pushes you while you are bowling.
+location: Brunswick Zone
+state: Georgia
+state_abbrev: GA
+longitude: -84.338843
+latitude: 34.034118
+city_longitude: -84.3615555
+city_latitude: 34.0232431
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2013/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

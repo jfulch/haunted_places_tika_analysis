@@ -1,0 +1,21 @@
+city: Gettysburg
+country: United States
+description: Small wooded housing development behind Oak Hill, the site of the first days battle where the peace light now stands. Residents report seeing a tall man in a tuxedo gazing. Unidentified blue lights in secluded wooded areas near houses. Unseen entity heard sprinting on train tracks towards night-walkers - has been known to throw rocks.
+location: Ridgewood
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.2449079
+latitude: 39.8562486
+city_longitude: -77.2310955
+city_latitude: 39.8309293
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

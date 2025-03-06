@@ -1,0 +1,21 @@
+city: Menomonee Falls
+country: United States
+description: Old army barracks. Ghostly sounds have been heard at night. May have been built over an old Indian Burial Mound by the US Army.
+location: Menomonee Co Park office
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.1776302
+latitude: 43.1583885
+city_longitude: -88.1173132
+city_latitude: 43.1788967
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.783333333333331
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

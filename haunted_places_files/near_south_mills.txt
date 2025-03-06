@@ -1,0 +1,21 @@
+city: Pasquotank County
+country: United States
+description: dismal swamp - you can stop by the side of the road after midnight, thru the winter time an sometimes you will see this dull ball of light going from one side of the road to the next, then going thru trees an back across the road ,the light will look like its about 500ft away an is about middle way the trees there in height, as soon as you think you are getting close enough to tell what it is, it will just vanish
+location: near south mills
+state: North Carolina
+state_abbrev: NC
+longitude: -76.3278528
+latitude: 36.444585
+city_longitude: -76.317414
+city_latitude: 36.2927068
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1966/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

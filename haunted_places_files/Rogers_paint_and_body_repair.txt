@@ -1,0 +1,21 @@
+city: Cottage Grove
+country: United States
+description: Footsteps going up and down the stairs, feelings of a presents among you, tools being moved around the building, and slamming doors when no wind.
+location: Rogers paint and body repair
+state: Oregon
+state_abbrev: OR
+longitude: -123.0353538
+latitude: 43.7990056
+city_longitude: -123.0595246
+city_latitude: 43.797623
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

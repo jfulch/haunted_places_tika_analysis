@@ -1,0 +1,21 @@
+city: Reading
+country: United States
+description: People have seen the vision of an old woman walking across the balcony.
+location: The Majestic Theater
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.9307534
+latitude: 40.3792505
+city_longitude: -75.9268747
+city_latitude: 40.3356483
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: This is now a movie theater but used to be a meeting hall for a women's organization. People have reported seeing the ghost of a hanging woman in the hallway, as well has hearing footsteps and laughter.
+location: The Harvard Exit
+state: Washington
+state_abbrev: WA
+longitude: -122.3224047
+latitude: 47.6162011
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

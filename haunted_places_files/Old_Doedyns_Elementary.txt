@@ -1,0 +1,21 @@
+city: San Juan
+country: United States
+description: Back when the school was open, everyone would say that a little girl once went in the restroom right outside the cafeteria and came out with scratches all over her wrist. she was bleeding from all over her arm. SHe said she never felt anything, so nobody knows what really happened.
+location: Old Doedyns Elementary
+state: Texas
+state_abbrev: TX
+longitude: -98.1517083
+latitude: 26.204922
+city_longitude: -98.1552872
+city_latitude: 26.1892409
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

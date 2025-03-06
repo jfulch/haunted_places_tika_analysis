@@ -1,0 +1,21 @@
+city: Tokeland
+country: United States
+description: Reports of apparitions (dog, cat, and a Chinese man) and strange sounds.
+location: Tokeland Inn
+state: Washington
+state_abbrev: WA
+longitude: -123.985774
+latitude: 46.70863
+city_longitude: -123.9818347
+city_latitude: 46.7064856
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

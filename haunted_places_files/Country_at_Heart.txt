@@ -1,0 +1,19 @@
+city: Prestonsburg
+country: United States
+description: This story may not be completely accurate - Before the shop opened, there was an apartment building complex over the store (you can still see the abandoned apartments over the store). The owner claims that a woman murdered her husband (or the husband committed suicide) and was decapitated there. Even when the whole building was fully checked, the head wasn't found! The owner says that the bloodstains are still in the building (supposedly, the room has the only window that's broken facing the road). That room may be haunted.
+location: Country at Heart
+state: Kentucky
+state_abbrev: KY
+city_longitude: -82.7715486
+city_latitude: 37.6656527
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

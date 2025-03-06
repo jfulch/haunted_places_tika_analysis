@@ -1,0 +1,21 @@
+city: Jerome
+country: United States
+description: strange noises and a man in a black cape accompanied by two large black dogs...
+location: Jerome cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -85.9373213
+latitude: 40.4566274
+city_longitude: -85.9308185
+city_latitude: 40.4553162
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

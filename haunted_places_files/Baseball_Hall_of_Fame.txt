@@ -1,0 +1,21 @@
+city: Cooperstown
+country: United States
+description: It is said that late at night after closing time, baseball legend "Shoeless" Joe Jackson haunts the building. The sound of smashing glass is heard when nothing is broken. The voice of Shoeless Joe is heard complaining about not being elected into the Hall of Fame. The sound of a ball hitting is heard and the roar of the crowd is immense, then the flash of a light appears and suddenly everything is quiet.
+location: Baseball Hall of Fame
+state: New York
+state_abbrev: NY
+longitude: -74.92321369999999
+latitude: 42.6999368
+city_longitude: -74.92432099999999
+city_latitude: 42.7006303
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1887/07/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

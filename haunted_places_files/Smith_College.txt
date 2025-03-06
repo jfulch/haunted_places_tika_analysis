@@ -1,0 +1,21 @@
+city: Northampton
+country: United States
+description: Martha Wilson House -  On the first floor, unexplained footsteps have been heard pacing back and forth, doors slamming shut all at once, and windows open when nobody is there. Sessions House Served as a passage in the Underground Railroad. Started as old farmhouse, known to be haunted before becoming part of the college. Contained secret tunnel in basement where escaping slaves were killed when it collapsed; their ghosts reported to haunt the house.
+location: Smith College
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.6372341
+latitude: 42.31809570000001
+city_longitude: -72.64120129999999
+city_latitude: 42.3250896
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1947/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

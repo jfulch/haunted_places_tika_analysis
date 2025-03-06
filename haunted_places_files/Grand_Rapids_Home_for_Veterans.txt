@@ -1,0 +1,21 @@
+city: Grand Rapids
+country: United States
+description: This Old Soldiers Home first opened in 1886 and its early residents were Civil War veterans. To the present day, ghostly men are seen on the grounds wearing Civil War garb.
+location: Grand Rapids Home for Veterans
+state: Michigan
+state_abbrev: MI
+longitude: -85.6602716
+latitude: 43.0165405
+city_longitude: -85.6680863
+city_latitude: 42.9633599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1886/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

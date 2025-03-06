@@ -1,0 +1,21 @@
+city: Lennox
+country: United States
+description: Nyman Hall - reports of a former drama teacher seen looking for his students. & there is a lady that only comes out when you go up to the stage. You can see here up where the lights are.
+location: Hawthorne High School
+state: California
+state_abbrev: CA
+longitude: -118.3631462
+latitude: 33.9173288
+city_longitude: -118.3525752
+city_latitude: 33.9380695
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

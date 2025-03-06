@@ -1,0 +1,20 @@
+city: Somers
+country: United States
+description: Man rumored to kill himself on water tower while on acid with friends by jumping is seen be people walking on the side of the road at 10:00 p.m. the rumored time of his death.
+location: Durky Rd.
+state: Connecticut
+state_abbrev: CT
+longitude: -72.46600630000002
+latitude: 42.0047285
+city_longitude: -72.44607979999999
+city_latitude: 41.9851929
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

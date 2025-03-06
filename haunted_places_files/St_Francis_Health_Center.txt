@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: When the hospital first started, nuns were in charge of the nursing and healthcare. There is one who does not want to leave. She has been seen with blood on her clothes and she wanders around the hospital. Many say that she will exit through a wall, which was added after her death.
+location: St. Francis Health Center
+state: Colorado
+state_abbrev: CO
+longitude: -104.8224605
+latitude: 38.8651708
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

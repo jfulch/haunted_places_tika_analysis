@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: The vaudeville-era Palace at 6th and Broadway is said to be extensively haunted by spectral stage workers and theatre guests. One of the seats near the front of the house supposedly is haunted by a man who was shat there when discovered out on a date with the wrong woman. Two old stage hands bicker in the wings. When a show stinks, the spirits make their opinion known by lobbing invisible rotten eggs at the stage. Ghost hunters have identified nearly two dozen individual hauntings in the building. There is some mischievous activity, but nothing particularly scary.
+location: Palace Theatre
+state: California
+state_abbrev: CA
+longitude: -118.252351
+latitude: 34.0457263
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

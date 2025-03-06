@@ -1,0 +1,21 @@
+city: Tahlequah
+country: United States
+description: Seminary Hall - Reports of footsteps and seeing something white come up to doorway.
+location: Northeastern State University
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.9674541
+latitude: 35.9214597
+city_longitude: -94.969956
+city_latitude: 35.91537
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1889/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

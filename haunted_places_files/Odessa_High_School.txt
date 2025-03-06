@@ -1,0 +1,21 @@
+city: Odessa
+country: United States
+description: A ghost called "ghost Betty" who actually went to this school killed herself in the auditorium. Many have witnessed voices screams or even visions of her hanging. School - December Update/correction: The story about betty that is already on the website is incorrect. Betty was a student back in the 60s, and her real name was Elizabeth. Her boyfriend took her out to a stock pond around Notres and he shot her and weighed her body down and dropped her in the pond. The next day he was taken out of class and she showed the police where he dumped her body, and she haunts our auditorium because she was big into theatre.
+location: Odessa High School
+state: Texas
+state_abbrev: TX
+longitude: -102.382456
+latitude: 31.8514043
+city_longitude: -102.3676431
+city_latitude: 31.8456816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2010/01/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

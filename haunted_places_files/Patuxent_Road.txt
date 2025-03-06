@@ -1,0 +1,21 @@
+city: Odenton
+country: United States
+description: The story is told that on the old narrow bridge there late at night you can hear cries of a baby. Also on certain nights at midnight you can see a "ghostly" woman pushing a stroller. The story says that the woman and her child were killed here years ago by a passing car. It has also been said that from time to time late at night you can also see the car and it will suddenly vanish.
+location: Patuxent Road
+state: Maryland
+state_abbrev: MD
+longitude: -76.7240739
+latitude: 39.0422321
+city_longitude: -76.7002462
+city_latitude: 39.0839981
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

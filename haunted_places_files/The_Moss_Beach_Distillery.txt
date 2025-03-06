@@ -1,0 +1,21 @@
+city: Moss Beach
+country: United States
+description: Unusually shaped building is the current home of the "Blue Lady". Building used to be a speak- easy during the prohibition. A woman who worked at the establishment was married to a seaman, but had an affair with a piano player. When the husband returned from Alaska and found out, he then murdered her on the beach below. The Blue Lady is a friendly and mischievous spirit.
+location: The Moss Beach Distillery
+state: California
+state_abbrev: CA
+longitude: -122.512849
+latitude: 37.517728
+city_longitude: -122.5133117
+city_latitude: 37.5274401
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

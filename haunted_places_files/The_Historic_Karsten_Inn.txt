@@ -1,0 +1,21 @@
+city: Kewaunee
+country: United States
+description: This Inn was certified haunted by Wisconsin Ghost Investigations team in March 2002. They reported orbs, ectoplasm mists and even apparitions in photos. They encountered cold and hot spots, unusual odors, sounds of breaking glass in the bar, sounds of a child running upstairs, a flute being played, undecipherable whispering, furniture moving in rooms and sounds of a woman crying on the 2nd floor. They also captured a shadow man on film with a moving object. The ghosts are that of Mr. Karsten, a young boy, a woman and another unknown male presence. Hotel rooms can still be rented here.
+location: The Historic Karsten Inn
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.501256
+latitude: 44.458095
+city_longitude: -87.50313969999999
+city_latitude: 44.4583321
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

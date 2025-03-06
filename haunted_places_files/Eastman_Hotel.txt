@@ -1,0 +1,21 @@
+city: Waynoka
+country: United States
+description: This Hotel was bought in 1929 by Ann Eastman. She lived with her Daughter Lavern Eastman. When Ann died the hotel was passed down to Lavern. When she got old a preacher used to beat her. He wouldn't let anyone in to see her or let her out. Also upstairs on the 3 floor last room there was a fire where a Baby died and the guy that let people in there rooms at night died trying to save the baby. Late at night you can hear a baby crying upstairs and a man yelling. Downstairs you can hear keys jingling from the doorman and whistling from Lavern. The owner has been seen in the front lobby walking around and hovering over tables. Curtains that were undone the day before are tied back the next as if someone was looking out them.
+location: Eastman Hotel
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.884331
+latitude: 36.57865719999999
+city_longitude: -98.8798145
+city_latitude: 36.5822557
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1929/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

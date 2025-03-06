@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: ARCO Refinery - Dark figures walking around, valves turning by themselves. In the early years of the refinery, when safety was not emphasized and the refinery was a much more dangerous place to work, many have perished and died.
+location: Carson
+state: California
+state_abbrev: CA
+longitude: -118.281693
+latitude: 33.8316745
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1998/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 0

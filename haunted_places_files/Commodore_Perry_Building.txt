@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: On the floors above the new apartment living areas, there is and old dance room and also an old restaurant. A young girl's ghost appears on the steps of the room where a piano still sits from years ago.
+location: Commodore Perry Building
+state: Ohio
+state_abbrev: OH
+longitude: -83.53747539999999
+latitude: 41.6503374
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Atwater
+country: United States
+description: Formerly part of Castle Air Force Base, it houses one of the nation's largest collections of aircraft. One particular craft, an old B-29, is said to be haunted by a former crewmember who died when a bomb exploded in the aircraft while on a mission. He's said to turn the landing lights on and off and is known to make the propellers turn, though they are locked into place. Don't worry, he's friendly.
+location: Castle Air Museum
+state: California
+state_abbrev: CA
+longitude: -120.5779524
+latitude: 37.3667796
+city_longitude: -120.609084
+city_latitude: 37.3477174
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

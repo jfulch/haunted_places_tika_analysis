@@ -1,0 +1,21 @@
+city: Maysville
+country: United States
+description: Located at the north end of 4th street, Abandoned since the early 80's. People who live near it have said they have often seen strange lights in the windows and heard infant’s cries. Also some have claimed to see a figure standing in the last window on the third floor both day and night. Others who have been inside since its closing have noticed an old stretcher that seems to move on its own, others have said to have been followed by shadows accompanied by voices and the feeling of being watched. Others have claimed to see doctors in the halls and heard the cries of past patients. Red glowing eyes and what seems to be some sort of dog that seems to be chasing something have been seen, also cold spots and children playing in the waiting rooms. In the basement and all over the building are strange markings as if they are warnings of some kind, anyone who goes in, walks past, or drives by have said they felt sick and a threatening hostility. It is believed to haunt the entire town.
+location: Hayswood hospital
+state: Kentucky
+state_abbrev: KY
+longitude: -83.7664854
+latitude: 38.6458318
+city_longitude: -83.744365
+city_latitude: 38.6411854
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

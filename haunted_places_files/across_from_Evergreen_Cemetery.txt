@@ -1,0 +1,21 @@
+city: East Los Angeles
+country: United States
+description: it was a apartment now its reconstructed, but apartment is still there. Chairs move TV, radio turns on by it self water does also. You can hear footsteps as if you were jumping off a bunk bed you can see a black shadow with red eyes it changes figures, you can feel things its a scary unwanted feeling you feel a lot of cold spots.
+location: across from Evergreen Cemetery
+state: California
+state_abbrev: CA
+longitude: -118.1982942
+latitude: 34.0401408
+city_longitude: -118.1669736
+city_latitude: 34.0224417
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

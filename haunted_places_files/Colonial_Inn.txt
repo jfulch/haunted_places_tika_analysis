@@ -1,0 +1,21 @@
+city: Concord
+country: United States
+description: a gray ghost haunts room 24.
+location: Colonial Inn
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.34958
+latitude: 42.461624
+city_longitude: -71.3489484
+city_latitude: 42.4603719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

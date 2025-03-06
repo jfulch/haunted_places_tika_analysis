@@ -1,0 +1,21 @@
+city: El Monte
+country: United States
+description: There have been numerous accounts from employees and other people of a ghostly little girl in the attic of the gymnasium. Also, reports of an apparition of a man in the locker room.
+location: Lambert Park-Gymnasium
+state: California
+state_abbrev: CA
+longitude: -118.0197307
+latitude: 34.0852976
+city_longitude: -118.0275667
+city_latitude: 34.0686206
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

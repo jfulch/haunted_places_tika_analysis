@@ -1,0 +1,21 @@
+city: Sidney
+country: United States
+description: House outside of Sidney, that is abandoned. It appears that who ever lived there just got what they could and got out of there. Basement is full of baby dolls and strange writing on the walls. some of the baby dolls are hanging, and sounds of children laughing.
+location: Green House
+state: Illinois
+state_abbrev: IL
+longitude: -88.29593109999999
+latitude: 40.081069
+city_longitude: -88.0733729
+city_latitude: 40.0250332
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

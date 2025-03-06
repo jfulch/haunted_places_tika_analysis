@@ -1,0 +1,21 @@
+city: Fraser
+country: United States
+description: It is said that a little boy was brutally beaten and hung from the swing set and people report during the night to see the swings start swinging all on their own and cries of pain.
+location: Eisenhower Elementary
+state: Michigan
+state_abbrev: MI
+longitude: -82.940281
+latitude: 42.526523
+city_longitude: -82.9493652
+city_latitude: 42.539202
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

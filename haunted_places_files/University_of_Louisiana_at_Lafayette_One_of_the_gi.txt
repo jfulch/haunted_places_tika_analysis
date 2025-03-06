@@ -1,0 +1,21 @@
+city: Lafayette
+country: United States
+description: is haunted by a girl who was killed when an elevator that wasn't supposed to be working fell on her and decapitated her. The elevator has been sealed and closed off, but you can still feel an immense energy or presence when you pass by it. The girl is a "friendly" ghost, helping the girls when they lose things by placing them where they can find them easily.
+location: University of Louisiana at Lafayette -One of the girls' dormitories
+state: Louisiana
+state_abbrev: LA
+longitude: -92.0204121
+latitude: 30.2114404
+city_longitude: -92.0198427
+city_latitude: 30.2240897
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1929/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

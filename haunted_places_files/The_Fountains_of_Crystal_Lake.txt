@@ -1,0 +1,21 @@
+city: Crystal Lake
+country: United States
+description: On the upper floor there is an apparition of an old lady that wanders the halls and when you follow her, she leads you down a dead end hallway and she disappears. Also on the upper floor, there is an area with checkerboards to play checkers on. The checker chips move by themselves. In the basement, right when you get on the basement floor, you get the sensation of being watched. If you walk down the long dark hall, you hear footsteps follow you.
+location: The Fountains of Crystal Lake
+state: Illinois
+state_abbrev: IL
+longitude: -88.28009589999999
+latitude: 42.267116
+city_longitude: -88.31619649999999
+city_latitude: 42.2411344
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

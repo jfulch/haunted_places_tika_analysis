@@ -1,0 +1,21 @@
+city: Snohomish
+country: United States
+description: This is an old library that was built in the early 1900's. The first librarian died of unknown causes and people say they see her ghost walking around in the basement. Many of the workers hear her footsteps downstairs after hours and some claim to have seen her ghost. Some people have researched her death and went to her gravesite only to find out that her grave was unmarked. They believe that if they buy a tombstone and have another ceremony she will be put to rest to no longer haunt the library. The library will be moving to a new location within the year and they hope to have her settled by then.
+location: Snohomish public library
+state: Washington
+state_abbrev: WA
+longitude: -122.088498
+latitude: 47.915157
+city_longitude: -122.0981847
+city_latitude: 47.91287560000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

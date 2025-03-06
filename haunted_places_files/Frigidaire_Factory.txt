@@ -1,0 +1,19 @@
+city: Greenville
+country: United States
+description: It is said to have the ghost of an employee who was killed in a traffic accident on his way home from work after being fired. - March 2008 update: Has been torn down
+location: Frigidaire Factory
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.2527987
+city_latitude: 43.1775314
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

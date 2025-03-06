@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: The hospital is belived to be built over a grave yard, and if you go to the park at night time, you can feel things and you might see something.
+location: Children's Hospital
+state: Ohio
+state_abbrev: OH
+longitude: -82.9795743
+latitude: 39.9531241
+city_longitude: -82.99879419999999
+city_latitude: 39.9611755
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Chantilly
+country: United States
+description: It is said that many years ago before the windy road was paved a man was killed while hitchhiking. On Wednesday or Thursday nights at 11:30 if you drive down Walney and you see a hitchhiker, it is recommended that you stop. He appears up to three times to give you the chance to pick him up. If you still don't pick him up by the third time, a car will come out of nowhere and kill you.
+location: Walney Road
+state: Virginia
+state_abbrev: VA
+longitude: -77.4317811
+latitude: 38.8759468
+city_longitude: -77.43109919999999
+city_latitude: 38.8942786
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

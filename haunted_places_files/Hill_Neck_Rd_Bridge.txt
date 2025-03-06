@@ -1,0 +1,21 @@
+city: Ernul
+country: United States
+description: there is an old bridge of Hill Neck road in Ernul NC. This bridge is believed to be haunted by the spirits of a Mexican family, who's car ran off the bridge. The whole family died. At night an engine can be heard revving. Also, cries of pain, and for help can be heard.
+location: Hill Neck Rd Bridge
+state: North Carolina
+state_abbrev: NC
+longitude: -77.033231
+latitude: 35.251875
+city_longitude: -77.07967099999999
+city_latitude: 35.2526614
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

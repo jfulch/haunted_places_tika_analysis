@@ -1,0 +1,21 @@
+city: Chelsea
+country: United States
+description: If you steer in to the voke park baseball field you will notice a lil'boy that got viseously attacked by 2 dogs. He seen wearing the same clothes he was on the night of his death,and bloody and asking for help ,rumor has it when you approach him he dissapears.
+location: Voke Park
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0313906
+latitude: 42.4090178
+city_longitude: -71.0328284
+city_latitude: 42.3917638
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1961/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

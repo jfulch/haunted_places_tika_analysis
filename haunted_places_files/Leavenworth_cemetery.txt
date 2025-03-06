@@ -1,0 +1,21 @@
+city: Leavenworth
+country: United States
+description: this place was once the burial site for railroad workers in the late 1800's, if you enter the cemetery at night you may see the workers carrying their lanterns, and some claimed to have heard the hammering of railroad spikes, and the workers whistling
+location: Leavenworth cemetery
+state: Washington
+state_abbrev: WA
+longitude: -120.6457848
+latitude: 47.6089156
+city_longitude: -120.6614765
+city_latitude: 47.5962326
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1832/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

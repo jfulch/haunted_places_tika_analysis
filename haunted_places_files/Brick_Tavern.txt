@@ -1,0 +1,21 @@
+city: Roslyn
+country: United States
+description: once a jailhouse for criminal miners, people claim to have felt a presence in the basement where the cells used to be. Noises can often be heard before closing time and a few have seen an apparition of a lost miner.- July 2005 Update: The jail cells where built as a movie set for the movie The Runner Stumbles with Dick Van Dyke is 1978 or 1979.
+location: Brick Tavern
+state: Washington
+state_abbrev: WA
+longitude: -120.9933213
+latitude: 47.2226608
+city_longitude: -120.9931393
+city_latitude: 47.2234523
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

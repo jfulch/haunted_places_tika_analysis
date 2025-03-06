@@ -1,0 +1,21 @@
+city: Millington
+country: United States
+description: In the Millington hills, you leave by running because something is after you. Even during the day, a lot of the hills and lands of Millington hills has bad vibes.
+location: Millington Hills
+state: Michigan
+state_abbrev: MI
+longitude: -83.4915575
+latitude: 43.2185681
+city_longitude: -83.5296774
+city_latitude: 43.2814132
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1993/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Staten Island
+country: United States
+description: When traveling by the restaurant late at night(from 10-2) many have seen an apparition of a woman in old-fashioned clothing and a bonnet in the very upper window and on some days the ghostly single light bulb hanging from the ceiling flickers and sways. Also, when eating at the restaurant, there is said to be spirits of men dressed in civil war attire walking out the door and toward the cemetery across the street.
+location: The Parsonage (Richmond town Restaurant near the pond)
+state: New York
+state_abbrev: NY
+longitude: -74.101917
+latitude: 40.642631
+city_longitude: -74.1502007
+city_latitude: 40.5795317
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

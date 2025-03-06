@@ -1,0 +1,21 @@
+city: Orlando
+country: United States
+description: Sunland was an old Mental hospital in the Pine Hills section of Town. Many reports of poltergeist activity voices and screams. - This submission was originally posted as " “Belleview Mental Hospital" It has now been demolished and turned into a park where it is still believed to be haunted. And interesting link can be found here
+location: Sunland Hospital
+state: Florida
+state_abbrev: FL
+longitude: -81.4866684
+latitude: 28.5727774
+city_longitude: -81.3792365
+city_latitude: 28.5383355
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

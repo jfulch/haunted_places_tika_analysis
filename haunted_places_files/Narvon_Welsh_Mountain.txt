@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: reports of feeling watched, doors slamming, hearing voices and screams.
+location: Narvon – Welsh Mountain
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.00197059999999
+latitude: 40.0875236
+city_longitude: -76.3055144
+city_latitude: 40.0378755
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

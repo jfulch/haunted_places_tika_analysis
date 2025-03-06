@@ -1,0 +1,21 @@
+city: Newbury/Byfield
+country: United States
+description: A student who died in the mid 90's has been known to occupy the auditorium/theater. With lights off you can sometimes hear Joe drumming, or moving around the stage. We've had experiences of this happening when the school was locked up and only the tech crew was working in the auditorium (and all were present and accounted for)
+location: Triton Regional High School
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.91920139999999
+latitude: 42.7440048
+city_longitude: -70.94751029999999
+city_latitude: 42.7595355
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

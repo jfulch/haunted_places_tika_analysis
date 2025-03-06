@@ -1,0 +1,19 @@
+city: Rockwood
+country: United States
+description: You get strange feelings of people all around you, like your not wanted. If you go into the chemicals lab everything is left normally, such as documents and such. Plenty of footsteps walking around and slamming of doors. and the occasional laugh that always causes me and my friends to take off.
+location: Old Soap and Toothpaste factory
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.2465957
+city_latitude: 42.0708765
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

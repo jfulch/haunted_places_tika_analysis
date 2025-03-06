@@ -1,0 +1,20 @@
+city: La Veta
+country: United States
+description: The west wing of this old fort is haunted by two ghosts, the Candle Lady ghost and the Floating Lady ghost. There is cold spot in the kitchen. Staff have seen orbs and experienced flickering lights.
+location: Fort Francisco Museum Hall Mansion
+state: Colorado
+state_abbrev: CO
+longitude: -105.0096653
+latitude: 37.5076043
+city_longitude: -105.0077747
+city_latitude: 37.5050118
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fargo
+country: United States
+description: The Children's Museum - The entrance to a 2nd story terrace becomes unlocked by itself. There are two doors, both locked with deadbolts. One becomes unlocked repeatedly - when there is only one person with a key - and this person has not been near the door. The elevator sometimes goes up and down without anyone in it. There is a presence of not being alone - not malevolent. This house used to house a family with 10 children in the early 1900's. The ghost is lovingly referred to as "Vanessa" after the mother of these children. It is not known if anyone ever died there - or of who the ghost may be.
+location: Yunker Farm
+state: North Dakota
+state_abbrev: ND
+longitude: -96.7965076
+latitude: 46.9126693
+city_longitude: -96.7898034
+city_latitude: 46.8771863
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 17m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

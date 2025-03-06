@@ -1,0 +1,21 @@
+city: Vancouver
+country: United States
+description: The Grant House is a part of Officer's Row. The row is a strip of colonial style houses that was housing for officers of the Vancouver Barracks, which have stood since the mid 1800's. The Grant House was the first built and was once home to President Ulysses S. Grant during his tenure before his presidency. Anyways, a former officer named Sully haunts the house. The ghost is even mentioned in the pamphlet at the front door. (The house is now a folk art museum and restaurant). I used to work in the kitchen and my boss claimed to have heard and felt Sully's presence, as have many others.
+location: The Grant House
+state: Washington
+state_abbrev: WA
+longitude: -122.6600802
+latitude: 45.628158
+city_longitude: -122.6716063
+city_latitude: 45.6318397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1822/04/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

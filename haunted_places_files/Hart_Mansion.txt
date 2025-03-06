@@ -1,0 +1,21 @@
+city: Santa Clarita
+country: United States
+description: The home of the silent film star William S. Hart. Mr. Hart is scene by people that he recognizes and likes (namely docents). He and his sister (also a ghost) are the only people to have ever really lived in the home. The ghost of their nurse as well as Mr. Hart's dogs are also seen. Coffee is often smelled in the museum.
+location: Hart Mansion
+state: California
+state_abbrev: CA
+longitude: -118.5257901
+latitude: 34.3753971
+city_longitude: -118.542586
+city_latitude: 34.3916641
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

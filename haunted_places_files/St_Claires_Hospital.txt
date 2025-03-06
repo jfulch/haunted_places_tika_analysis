@@ -1,0 +1,20 @@
+city: Denville
+country: United States
+description: It is believed the spirit of an elderly gentleman is still lurking in the Peds section of the hospital. Several of the staff members claim to see the form of a human body behind the curtain that divides the beds and then it vanishes into the wall.
+location: St. Claires Hospital
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.4650991
+latitude: 40.8951347
+city_longitude: -74.47737750000002
+city_latitude: 40.8923212
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

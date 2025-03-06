@@ -1,0 +1,18 @@
+city: Pueblo County
+country: United States
+description: this is where a Spanish army fought and defeated a band of Comanche Indians. The Comanche chief, Cuerno Verde, was killed at this site as well as many Spaniards and Comanche. At the historic marker of the site whispers can be heard in Spanish and Comanche as well as a strange presence can be felt.
+location: Battle site of Cuerno Verde
+state: Colorado
+state_abbrev: CO
+city_longitude: -104.4723301
+city_latitude: 38.2528534
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1763/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

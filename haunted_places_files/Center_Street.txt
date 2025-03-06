@@ -1,0 +1,21 @@
+city: Frostburg
+country: United States
+description: This fraternity house is known to house the ghost of a sorority girl who was raped and killed after hitching a ride home from Spring Semester 1988. She used to live on adjacent Wood Street and had a boyfriend at the house. The brothers in the house used to complain that she always left her hair dryer plugged in the upstairs bathroom. In 1992, two brothers went into the bathroom after hearing a hair dryer turn on. They went to investigate but found nothing on the counter or plugged in. Mysteriously the room was steamy and the words "Hitch A Ride" were faintly etched on the mirror.
+location: Center Street
+state: Maryland
+state_abbrev: MD
+longitude: -78.92760419999999
+latitude: 39.6526599
+city_longitude: -78.92835699999999
+city_latitude: 39.6581424
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1992/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 15.35
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

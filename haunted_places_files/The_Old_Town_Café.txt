@@ -1,0 +1,21 @@
+city: Bellingham
+country: United States
+description: People who work there at night saw clean dishes went up in space for 15 min. and went down to the same place. Some heard Piano music without a piano anywhere. Someone outside saw a female ghostly spirit in the second floor looking down. The building as called "Overland Block" built in 1890.
+location: The Old Town Café
+state: Washington
+state_abbrev: WA
+longitude: -122.481868
+latitude: 48.751708
+city_longitude: -122.4786854
+city_latitude: 48.7519112
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1890/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

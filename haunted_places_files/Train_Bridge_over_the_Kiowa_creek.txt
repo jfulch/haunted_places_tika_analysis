@@ -1,0 +1,20 @@
+city: Bennett
+country: United States
+description: Many years ago a massive train accident happened around the bridge, crossing over the Kiowa creek. Many of the passengers passed away on board. To this day it's said on some nights you will be able to see or hear a ghost train passing by.
+location: Train Bridge over the Kiowa creek
+state: Colorado
+state_abbrev: CO
+longitude: -104.4422627
+latitude: 39.6275623
+city_longitude: -104.4274609
+city_latitude: 39.7588736
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

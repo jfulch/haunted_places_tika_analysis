@@ -1,0 +1,21 @@
+city: San Marcos
+country: United States
+description: Theater building - A ghost referred to as "Ramsey" haunts the building. He supposedly hung himself in the building. Random unusual events, such as lights turning off by them have been reported. It has also been said that since the building is round and surrounded by water, that it attracts ghosts.
+location: Southwest Texas State University
+state: Texas
+state_abbrev: TX
+longitude: -97.938351
+latitude: 29.888411
+city_longitude: -97.9413941
+city_latitude: 29.8832749
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

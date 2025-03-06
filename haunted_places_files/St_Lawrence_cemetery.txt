@@ -1,0 +1,21 @@
+city: West De Pere
+country: United States
+description: Strange noises are being heard such as growling noises, and there feels like there is a bad presence and lots of electric lights, with orbs happening there. Sometimes fogs.
+location: St. Lawrence cemetery
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.1201391
+latitude: 44.4347657
+city_longitude: -88.07538070000001
+city_latitude: 44.445547
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 23m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

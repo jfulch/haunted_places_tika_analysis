@@ -1,0 +1,20 @@
+city: Mount Vernon
+country: United States
+description: Has had a lot of activity. Glowing red lights have been seen floating in the cemetery.
+location: Spanish Fort Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -93.8314247
+latitude: 37.054078
+city_longitude: -93.8185401
+city_latitude: 37.1036665
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

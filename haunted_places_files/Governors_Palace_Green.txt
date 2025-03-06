@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: A young women haunts the Governor’s Palace and another house near the palace. She is the ghost of a girl named Elizabeth that was attending one of the governor’s balls. It is said that during the night Elizabeth became very upset and ran away from the ball. On her way back to the house that Elizabeth was staying at, she lost one of her shoes on the Governor’s Palace's Green. When she finally got home legend has it that she threw herself off the top step. But the truth is that Elizabeth died away from Williamsburg giving birth. Even so, Elizabeth still haunts the Governor’s Palace Green. Some people still see her. Others hear the sound of someone running who is missing a shoe. - March 2008 Additional information: This is actually believed to be the ghost of Lady Anne Skipwith, a guest at the George Wythe house (also haunted).
+location: Governor’s Palace Green
+state: Virginia
+state_abbrev: VA
+longitude: -76.7020651
+latitude: 37.2740582
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

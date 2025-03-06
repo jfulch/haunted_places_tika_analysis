@@ -1,0 +1,21 @@
+city: Grant County
+country: United States
+description: There are reports of everything and anything, from ghosts wandering the road, apparitions in the cemetery, and flashlights and radios going dead with no explanation while in the actual cemetery. An actual experience within the family occurred when driving down the road. The hood of the car flew open for no apparent reason, other than passing the "haunted" cemetery. Upon arriving home, they found nothing wrong with the car that would have caused the hood to unlatch.
+location: Old Redfield Road
+state: Arkansas
+state_abbrev: AR
+longitude: -92.4172044
+latitude: 34.753683
+city_longitude: -92.4208713
+city_latitude: 34.2628015
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

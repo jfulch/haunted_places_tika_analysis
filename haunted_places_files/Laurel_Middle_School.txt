@@ -1,0 +1,21 @@
+city: Laurel
+country: United States
+description: many years ago the balcony in the school gym collapsed, killing 7 kids. Reports of feeling suddenly cold in the area and seeing white shadowy figures have been reported. these incidents happen at least once a month. a new middle school is being built and the haunted one will be evacuated next year.
+location: Laurel Middle School
+state: Montana
+state_abbrev: MT
+longitude: -108.7627
+latitude: 45.6766429
+city_longitude: -108.7715328
+city_latitude: 45.6691159
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 18m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

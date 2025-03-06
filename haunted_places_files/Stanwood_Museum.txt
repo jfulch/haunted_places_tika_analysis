@@ -1,0 +1,21 @@
+city: Stanwood
+country: United States
+description: People who have lived next to this house say that late at night when the museum is closed you can see candlelight and the curtains open and close. Some times even driving by you can see a curtain pulled back like someone is peering out, and then when you stop to look the curtain goes back.
+location: Stanwood Museum
+state: Washington
+state_abbrev: WA
+longitude: -122.3710914
+latitude: 48.2426514
+city_longitude: -122.3706837
+city_latitude: 48.2410895
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

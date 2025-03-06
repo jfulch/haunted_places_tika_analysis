@@ -1,0 +1,21 @@
+city: Lafayette
+country: United States
+description: The witches' grave is haunted by the witch that was hung. Before she died she cursed the town and said that the town would burn to the ground 3 times. So far it has burned completely to the ground twice. If you go to her grave at night, usually you can see her standing around, or walking through the cemetery. Many people have reported being chased by the witch, and some still have scars on their backs from being scratched. The marks look like razor blades have been sliced down their backs. This is all true and factual, Just ask anyone that lives or has lived in that town.
+location: Lafayette Cemetery
+state: Oregon
+state_abbrev: OR
+longitude: -123.101418
+latitude: 45.2510133
+city_longitude: -123.1148259
+city_latitude: 45.2442834
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

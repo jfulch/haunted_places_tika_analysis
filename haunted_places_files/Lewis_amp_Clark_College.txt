@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: Find your way to the center of the campus, around 1:00am and you will likely feel someone or something there with you. On many occasions you can hear screaming and Yelling as if a mob is chasing someone through the old campus. On rare occasions you will see multiple apparitions come running through the campus center, one being chased by a group of 10-15.
+location: Lewis &amp; Clark College
+state: Oregon
+state_abbrev: OR
+longitude: -122.4554639
+latitude: 46.6195461
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1964/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Santa Cruz
+country: United States
+description: Porter College - The Meadow - The third spirit is a transient named Lily that lived in the meadow near Porter in the 70s, she is seen walking around the meadow, either in rags or naked.
+location: University of California Santa Cruz
+state: California
+state_abbrev: CA
+longitude: -122.0582972
+latitude: 36.9914738
+city_longitude: -122.0307963
+city_latitude: 36.9741171
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

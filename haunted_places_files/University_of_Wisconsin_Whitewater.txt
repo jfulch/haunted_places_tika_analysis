@@ -1,0 +1,21 @@
+city: Whitewater
+country: United States
+description: Delta Zeta House- Witnesses who have lived there have heard a presence creaking as walking down the large front staircase.
+location: University of Wisconsin – Whitewater
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.7430845
+latitude: 42.8411986
+city_longitude: -88.7323272
+city_latitude: 42.83362049999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1902/10/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 23m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

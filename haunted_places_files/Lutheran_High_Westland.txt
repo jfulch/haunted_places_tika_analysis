@@ -1,0 +1,21 @@
+city: Westland
+country: United States
+description: formerly Nankin Mills Middle School - stories say that three children died in the tunnels beneath the school. every night at 2am the three roam the halls, and when school starts the next day, many things in the offices and classrooms are out of place. stories also say that the forest behind the school is home to the spirits of former students.
+location: Lutheran High Westland
+state: Michigan
+state_abbrev: MI
+longitude: -83.3720488
+latitude: 42.3436747
+city_longitude: -83.400211
+city_latitude: 42.32420399999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1937/12/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: North Adams
+country: United States
+description: warning - The tunnel is very active - not recommend the 4-mile trip, trains do come through. And it is monitored by the local Police. 186 men were killed in a nitro blast that was unexpected. Built in the 1800s this tunnel holds a bit of a story on being haunted. Reports of seeing a lantern.
+location: The Hoosac Tunnel
+state: Massachusetts
+state_abbrev: MA
+longitude: -73.0905616
+latitude: 42.6753744
+city_longitude: -73.1087148
+city_latitude: 42.70091499999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

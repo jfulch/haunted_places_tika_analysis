@@ -1,0 +1,21 @@
+city: Alma
+country: United States
+description: Gamma Phi Beta House - Sisters that live in the "pink" room awoke one night to see a ghostly figure pacing back and forth between the closet door and the bedroom door. The sisters that stay in that room immediately started screaming, and the president came out of her room, opened the door and the ghost went past her. When she returned to her room everything that was hanging on the walls had fallen to the ground. Also, there are always strange things happening at the house. Things turn up missing or are moved. Strange noises can be heard throughout the night. Doors are always slamming, lights go dim, and many other strange things happen. The "hauntings" started shortly after the sisters of gamma phi beta remodeled the house...it's almost like it upset the ghost(s).
+location: Alma College
+state: Michigan
+state_abbrev: MI
+longitude: -84.669939
+latitude: 43.379011
+city_longitude: -84.6597274
+city_latitude: 43.3789199
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1874/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

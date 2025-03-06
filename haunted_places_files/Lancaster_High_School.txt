@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: In the theater the house light will randomly turn off or on well you can clearly see that no one is by light box. There are also rumors that if you sit in the seats and you have the lights off you will see a white figure walk across the stage and towards you.
+location: Lancaster High School
+state: California
+state_abbrev: CA
+longitude: -118.1894258
+latitude: 34.6939529
+city_longitude: -118.1541632
+city_latitude: 34.6867846
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

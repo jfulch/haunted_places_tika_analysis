@@ -1,0 +1,20 @@
+city: Shelton
+country: United States
+description: While walking in, you will often hear a young girls voice, say hello, and then later, if you stay long enough you can see a dark shadow figure run and what seems to be hiding behind the grave stones, then when you are leaving you will again hear the young girls voice but be unable to understand her.
+location: East Village Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -73.185087
+latitude: 41.3584183
+city_longitude: -73.0931641
+city_latitude: 41.3164856
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

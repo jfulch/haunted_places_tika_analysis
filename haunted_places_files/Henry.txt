@@ -1,0 +1,21 @@
+city: Paris
+country: United States
+description: Dumpling Hill Cemetery - The Ghost of A Slave hanged for a petty crime is often seen and heard here attempting to chase away any Visitors. So be wear stay away from Dumpling Hill Cemetery at night.
+location: Henry
+state: Tennessee
+state_abbrev: TN
+longitude: -88.32671069999999
+latitude: 36.3020023
+city_longitude: -88.32671069999999
+city_latitude: 36.3020023
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

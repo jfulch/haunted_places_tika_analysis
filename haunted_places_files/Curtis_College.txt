@@ -1,0 +1,21 @@
+city: Curtis
+country: United States
+description: Dorm Rooms - it is said that the Curtis College dorm rooms are haunted by a guy that hung himself because he was made fun of. it is said that he walks around the halls at night and whistles and makes fun of people and pounds on the floor and doors and people go out and see and there is no one there!!
+location: Curtis College
+state: Nebraska
+state_abbrev: NE
+longitude: -100.5106291
+latitude: 40.6358597
+city_longitude: -100.5157004
+city_latitude: 40.6300081
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1926/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

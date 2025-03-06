@@ -1,0 +1,21 @@
+city: York
+country: United States
+description: there are people yelling and throwing thing down the street and this happens at midnight
+location: East 3rd
+state: Nebraska
+state_abbrev: NE
+longitude: -97.5850738
+latitude: 40.8642208
+city_longitude: -97.5920867
+city_latitude: 40.8673915
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2018/11/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 0

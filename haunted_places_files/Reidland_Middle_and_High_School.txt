@@ -1,0 +1,21 @@
+city: Paducah
+country: United States
+description: During the day you could hear someone walking down the hallway and there would be no one there. Then some of the doors would open and close real fast and there would be nothing there some of them would not open it would be like it is stuck. Then the lights would go on and of and would not come on but when the teachers or students would go over there it would stop. Nobody knows what it is.
+location: Reidland Middle and High School
+state: Kentucky
+state_abbrev: KY
+longitude: -88.5356245
+latitude: 37.0171543
+city_longitude: -88.6000478
+city_latitude: 37.0833893
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

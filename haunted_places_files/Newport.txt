@@ -1,0 +1,20 @@
+city: Cedarville
+country: United States
+description: in the woods - There is a tree out in the woods of Back Rd. that is an old KKK tree. If you go out there and examine the tree you will see rope burn on one of the branches from where they used to hang people. Footsteps can be heard and if your back there for long enough for a split second you will see a young man being hanged.
+location: Newport
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.149039
+latitude: 39.32968049999999
+city_longitude: -75.1996314
+city_latitude: 39.3326145
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

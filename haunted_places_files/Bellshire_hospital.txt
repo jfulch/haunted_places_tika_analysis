@@ -1,0 +1,21 @@
+city: Ogden
+country: United States
+description: it was the old mental hospital and the doctor running it would torture the patients and many ghost hunt's have been there and there a girl coming down the stairs has been seen, there have been screams, and people seen from the windows, as well. It was turned into a October haunted house called "Lazarus maze" in 2006.
+location: Bellshire hospital
+state: Utah
+state_abbrev: UT
+longitude: -111.9919593
+latitude: 41.22545059999999
+city_longitude: -111.9738304
+city_latitude: 41.223
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2006/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 26m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

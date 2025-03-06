@@ -1,0 +1,21 @@
+city: Park City
+country: United States
+description: There is an old slave cave that was used during the Underground Railroad, many people have seen the images of slaves and such. However after the civil war the cave is noted to have been a hide out for Jessie James.
+location: Mammouth Park
+state: Kentucky
+state_abbrev: KY
+longitude: -86.0705373
+latitude: 37.13477779999999
+city_longitude: -86.04636699999999
+city_latitude: 37.0939375
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

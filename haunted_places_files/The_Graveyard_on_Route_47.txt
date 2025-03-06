@@ -1,0 +1,21 @@
+city: South Dennis
+country: United States
+description: There have been numerous sightings of children crying near the older tombstones in this cemetery.
+location: The Graveyard on Route 47
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.8211906
+latitude: 39.1917917
+city_longitude: -74.8198893
+city_latitude: 39.1784475
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

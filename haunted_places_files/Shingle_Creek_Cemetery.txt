@@ -1,0 +1,21 @@
+city: Kissimmee
+country: United States
+description: The ghost of a Confederate soldier has been seen. A Vietnam veteran-- a fellow soldier-- reported that a man in grey was walking around the cemetery and at one point appeared and saluted him.  The man in grey admonished him to "be careful." There is a Confederate soldier [casualty] buried in the cemetery (d. 1863) and several Confederate veterans are also buried there.  The man in grey doesn't seem to be malevolent; he actually seems to be patrolling the area on behalf of the living. The cemetery is family-owned, but it is accessible to the public.  It is on Old Vineland Road, behind the Shingle Creek United Methodist Church.
+location: Shingle Creek Cemetery
+state: Florida
+state_abbrev: FL
+longitude: -81.4072771
+latitude: 28.2948082
+city_longitude: -81.40757099999999
+city_latitude: 28.2919557
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

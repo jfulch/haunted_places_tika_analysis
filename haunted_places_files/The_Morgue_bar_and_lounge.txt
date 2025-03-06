@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: The building which currently houses The Morgue bar and lounge, 626 St. Phillip Street, was built in 1849. It was originally used as the city's first integrated mortuary, particularly during the huge Yellow Fever epidemic of 1853. Ten thousand people perished in New Orleans that year alone. Though paranormal activity has been recorded in the main bar area, the most well known haunting here is of the mortician's daughter. She used to steal jewelry from the dead.... and still 'borrows' items from unsuspecting ladies who use the women's restroom. You see, the restroom area was once the place was the bodies were stored. Obviously, the new owner has a sense of humor - the house cocktail is called Embalming Fluid, and is just about the right color too. For more info see  www.themorguebar.com
+location: The Morgue bar and lounge
+state: Louisiana
+state_abbrev: LA
+longitude: -90.0732233
+latitude: 29.931134
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1849/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 1

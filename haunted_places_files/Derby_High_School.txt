@@ -1,0 +1,20 @@
+city: Derby
+country: United States
+description: It's not known of any deaths in the school or around, but when alone in one of the art rooms witnesses report a noise as if someone had come into the room, and yet the door was closed and there was no one inside besides themselves, a muffled voice whispered "Don't go", and the apparition of a girl.
+location: Derby High School
+state: Connecticut
+state_abbrev: CT
+longitude: -73.0979851
+latitude: 41.3336597
+city_longitude: -73.0889973
+city_latitude: 41.3206523
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

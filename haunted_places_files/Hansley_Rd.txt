@@ -1,0 +1,20 @@
+city: Sugar Grove
+country: United States
+description: There is a long story of the blue flame ghost a girl who decapitated her fiancé then slit her own throat, but supposedly if you go to the bridge at night and call out her name, Anna, the figure of a person holding a lantern will appear.
+location: Hansley Rd.
+state: Ohio
+state_abbrev: OH
+longitude: -82.5259207
+latitude: 39.6378449
+city_longitude: -82.5484932
+city_latitude: 39.6264539
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

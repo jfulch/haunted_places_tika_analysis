@@ -1,0 +1,21 @@
+city: St. Albans
+country: United States
+description: This old schoolhouse was built before the turn of the century. It was even used as the St. Albans Haunted House Halloween Event from 1979 to 1989. During the 1920's, a janitor died from a heart attack in a girl's restroom, located in the cellar. Cold spots and odd sensations have occurred here, as well as an apparition appearing in a window in the south wing upstairs. That particular window refuses to remain closed after attempts to nail it shut. Sounds of footsteps have also been heard in that location as well as lights going off and on. People have even reported hearing eerie voices.
+location: Old Barlowe Street School
+state: Vermont
+state_abbrev: VT
+longitude: -73.0778594
+latitude: 44.8049858
+city_longitude: -73.0835582
+city_latitude: 44.8107132
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1979/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

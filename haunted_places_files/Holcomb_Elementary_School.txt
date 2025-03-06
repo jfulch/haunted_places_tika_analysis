@@ -1,0 +1,20 @@
+city: Holcomb
+country: United States
+description: A janitor was cleaning a bathroom when he fell, hit his head, and died. He comes once a year at midnight and rings the school bell.
+location: Holcomb Elementary School
+state: Kansas
+state_abbrev: KS
+longitude: -100.988126
+latitude: 37.9876564
+city_longitude: -100.989333
+city_latitude: 37.9861353
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

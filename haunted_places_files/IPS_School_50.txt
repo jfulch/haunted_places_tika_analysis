@@ -1,0 +1,21 @@
+city: Indianapolis
+country: United States
+description: Cold spots felt, strange loud banging heard. The building is still there. As for location, School #50 sits behind present day Indianola Park, about a half mile EAST of the intersections of Washington St. and Belmont Ave. On the City's west side. December 2006 – update/correction: School 50 is at Hawthorne Park, which is at Belleview and Washington Street - west of Belmont Street. Indianola Park is east of Belmont and Washington Streets, which is next to School #30. That intersection is Miley Avenue and Washington Street.
+location: I.P.S. School #50
+state: Indiana
+state_abbrev: IN
+longitude: -86.15482689999999
+latitude: 39.7738302
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

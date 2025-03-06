@@ -1,0 +1,21 @@
+city: Ashland
+country: United States
+description: There have been many reports of footsteps heard from the upstairs costume room.  During a performance cast members reported seeing the door to the dressing room open, the downstairs toilet flush, and the door close afterwards.  A director said that she saw the ghost standing in the middle of the stage with it's back turned to her.  She could see the body but no face.  Another time cast members arrived to the theatre to find three lit candles in a triangle with a rose placed in the middle of the stage.
+location: Rinehart Theater
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.877564
+latitude: 46.5935149
+city_longitude: -90.8837982
+city_latitude: 46.5924428
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

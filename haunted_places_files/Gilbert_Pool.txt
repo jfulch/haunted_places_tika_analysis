@@ -1,0 +1,21 @@
+city: Bellevue
+country: United States
+description: There's a haunting in the office at Gilbert Pool, sights of ghosts. If you lock the door and come back everything will be all over the place in the office even when the door is still locked.
+location: Gilbert Pool
+state: Nebraska
+state_abbrev: NE
+longitude: -95.8997797
+latitude: 41.1273559
+city_longitude: -95.9145568
+city_latitude: 41.1543623
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Buckingham
+country: United States
+description: It's a long narrow winding road with lots of hills and bridges. that is in total darkness. You pass many big houses before you reach a field. There are two huge rocks there. Witches haunt the road and when you try to go back up the hill to leave your car feels like its being pulled backwards down the hill. there is lots of fog and strange noises.
+location: Holicong road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.060953
+latitude: 40.3449012
+city_longitude: -75.0494329
+city_latitude: 40.3149535
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Camillus
+country: United States
+description: One apartment in this complex has been said to be haunted by a little girl. All of the tenants from this one apartment have moved out as fast as they have moved in. When mentioned even the managers of the complex agree that the place is haunted by a little girl. The complex is said to be built on what was once a farm and the little girl was believed to have been killed there.
+location: Walnut West Apartments
+state: New York
+state_abbrev: NY
+longitude: -76.26248420000002
+latitude: 43.0504751
+city_longitude: -76.3040965
+city_latitude: 43.039233
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

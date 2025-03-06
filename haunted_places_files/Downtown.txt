@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: the Sheldon Concert Hall - The Sheldon is thought to be haunted by its architect, who died before the place was finished; he also plays with the lights, has been known to change the levels on sound equipment, and makes strange noises. Sometimes he plays with the lights even during performances.
+location: downtown
+state: Missouri
+state_abbrev: MO
+longitude: -90.1916501
+latitude: 38.6266074
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1904/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

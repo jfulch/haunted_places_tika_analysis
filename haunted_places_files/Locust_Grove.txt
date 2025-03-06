@@ -1,0 +1,20 @@
+city: New Middletown (Youngstown)
+country: United States
+description: Old summer picnic area/swimming hole. Children kept drowning so it was shut down in the late 70's. Swimmers can feel hands pulling at their legs while swimming.
+location: Locust Grove
+state: Ohio
+state_abbrev: OH
+longitude: -80.548867
+latitude: 40.9464055
+city_longitude: -80.5612032
+city_latitude: 40.9652067
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

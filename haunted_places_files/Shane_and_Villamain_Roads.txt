@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: the spirits of children who were killed in a bus accident at the intersection push one's car off the tracks. This has been documents on film. Put your car in neutral and the cars will roll up hill and over the tracks.
+location: Shane and Villamain Roads
+state: Texas
+state_abbrev: TX
+longitude: -98.443407
+latitude: 29.317215
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Allerton Park
+country: United States
+description: There have been reports of a mysterious lady in white. She, according to witnesses and old photos of people that use to go there as guest of Mr. Robert Allerton, is a guest that frequently visited there. She has been seen walking along the pond in the back of the mansion, and in "her" room putting on hats and gloves. She's been heard coming down the stairs and pacing the hall in front of "her" room. This is all I know, I've been to the house many times and I've always noticed a strange feeling in the air. BTW the gardens there are wonderful.
+location: Allerton Mansion
+state: Illinois
+state_abbrev: IL
+longitude: -88.6517012
+latitude: 39.9983398
+city_longitude: -88.6517012
+city_latitude: 39.9983398
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

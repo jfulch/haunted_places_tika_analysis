@@ -1,0 +1,21 @@
+city: Indian head
+country: United States
+description: Many occupants admit feeling a strong presence in their homes. Also small objects are constantly coming up missing or moved in to strange places. Many have even heard sounds. Three occupants admit to seeing the old man on the Potomac while fishing.
+location: NSWC BASE HOUSING
+state: Maryland
+state_abbrev: MD
+longitude: -77.169223
+latitude: 38.6038406
+city_longitude: -77.1622016
+city_latitude: 38.60011859999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

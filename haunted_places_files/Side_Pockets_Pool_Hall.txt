@@ -1,0 +1,21 @@
+city: Pryor
+country: United States
+description: Pool balls flying off tables, balls and tables found rearranged in the morning, photographic evidence.
+location: Side Pockets Pool Hall
+state: Oklahoma
+state_abbrev: OK
+longitude: -88.5989159
+latitude: 37.0642041
+city_longitude: -95.3169136
+city_latitude: 36.3084275
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

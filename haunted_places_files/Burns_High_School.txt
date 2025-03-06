@@ -1,0 +1,20 @@
+city: Burns
+country: United States
+description: The Library, there have been many sightings of walls shaking and stuff falling off the walls.
+location: Burns High School
+state: Wyoming
+state_abbrev: WY
+longitude: -104.3535134
+latitude: 41.1877344
+city_longitude: -104.3591244
+city_latitude: 41.1927591
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

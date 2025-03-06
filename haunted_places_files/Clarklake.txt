@@ -1,0 +1,21 @@
+city: Brooklyn
+country: United States
+description: in the house its said that there are noises that can be heard in a closet and the attic. And it is said that a man killed 3 people in the house and then himself. And so now the man is looking all over the house for the 3 people so he can kill them again.
+location: Clarklake
+state: Michigan
+state_abbrev: MI
+longitude: -84.2482819
+latitude: 42.105874
+city_longitude: -84.2482819
+city_latitude: 42.105874
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1973/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

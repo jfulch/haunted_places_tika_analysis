@@ -1,0 +1,21 @@
+city: Grant
+country: United States
+description: Becker Hall - Deceased basketball players still meet for a late night game, with fans there to cheer them on.
+location: Alabama State
+state: Alabama
+state_abbrev: AL
+longitude: -86.2533163
+latitude: 34.5286985
+city_longitude: -86.2533163
+city_latitude: 34.5286985
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1989/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

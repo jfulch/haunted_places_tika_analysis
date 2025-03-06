@@ -1,0 +1,21 @@
+city: Chico
+country: United States
+description: Laxson Auditorium - supposedly the spirit of an older woman has been seen by performers on stage, sitting in one of the balcony seats. She always sits in the same seat but of course is gone when anyone goes to investigate.
+location: California State University Chico
+state: California
+state_abbrev: CA
+longitude: -121.8473287
+latitude: 39.729575
+city_longitude: -121.8374777
+city_latitude: 39.7284944
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

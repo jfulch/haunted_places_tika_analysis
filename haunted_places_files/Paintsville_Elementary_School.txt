@@ -1,0 +1,21 @@
+city: Paintsville
+country: United States
+description: Numerous reports of unexplained happenings from within the building including unexplained moaning, sighting of a woman in one of the classrooms crying out to her husband and a child on the other side of the room, and also many of the janitors working there claim there is in fact a ghost within the school.
+location: Paintsville Elementary School
+state: Kentucky
+state_abbrev: KY
+longitude: -82.8065386
+latitude: 37.815396
+city_longitude: -82.8071054
+city_latitude: 37.8145384
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

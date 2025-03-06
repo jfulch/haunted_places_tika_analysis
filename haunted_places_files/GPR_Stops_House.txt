@@ -1,0 +1,18 @@
+city: Vermillion/Meckling
+country: United States
+description: This house has been long abandoned, strange noises from the top floor have been heard, and a girl who went in was hit on the chest, resulting in a bruise in the shape of a perfect triangle. Some think that it may be the ghost of a school superintendent who hung himself when the Meckling school was dissolved.
+location: GPR Stops House
+state: South Dakota
+state_abbrev: SD
+city_longitude: -97.0682397
+city_latitude: 42.8119553
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

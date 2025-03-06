@@ -1,0 +1,21 @@
+city: Dudley
+country: United States
+description: On the side of the new Dudley oxford road, for about a mile there is the remains of the first road. At night many reporting of a mysterious man in an old colonial black alphet riding down the road on a horse. No one has been to close to really make out the man, but many reporting from people walking by.
+location: OLD Dudley Oxford road
+state: Maine
+state_abbrev: ME
+longitude: -71.91845660000001
+latitude: 42.0536424
+city_longitude: -68.1597483
+city_latitude: 46.17143950000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

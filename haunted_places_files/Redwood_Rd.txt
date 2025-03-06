@@ -1,0 +1,21 @@
+city: Castro Valley
+country: United States
+description: Almost at the very end of Redwood Rd., there's a haunted preschool. In the early 1980s, a man, with a knife, killed all the kids at the preschool. The building no longer remains. All that remains is a swing set and the foundation of the building. From time to time, you can hear the children playing or running around and you can see the swings actually moving by themselves
+location: Redwood Rd.
+state: California
+state_abbrev: CA
+longitude: -122.088032
+latitude: 37.7444267
+city_longitude: -122.0863522
+city_latitude: 37.6940973
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

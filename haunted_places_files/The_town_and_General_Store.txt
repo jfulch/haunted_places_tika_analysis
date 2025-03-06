@@ -1,0 +1,21 @@
+city: Cerrillos
+country: United States
+description: The town of Cerrillos (little hills) is a charming, tree-shaded town located 27 miles south of Santa Fe. The village is one of the old traditional villages in Santa Fe County. Cerrillos officially came into being in the 1870 s as a wild and wooly mining town, and little has changed in its appearance since then. It contains many old western storefronts and adobe buildings, complete with hitching posts, old grocery and western bar, old church, ancient cottonwood trees, dirt streets, and railroad tracks. It can be seen in the Walt Disney movie, "Elfego Baca" and then later in "Young Guns I & II". While there, if you go into the old General Store - which is still in operation - there is a cold spot, although no one knows why, or they aren't saying, on your right even though there are windows directly in front of its location.
+location: The town and General Store
+state: New Mexico
+state_abbrev: NM
+longitude: -106.124522
+latitude: 35.437136
+city_longitude: -106.1245907
+city_latitude: 35.4375198
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

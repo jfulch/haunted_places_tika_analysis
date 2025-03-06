@@ -1,0 +1,20 @@
+city: Valle Mines
+country: United States
+description: An old railroad tunnel which still exist today just south of Valle Mines MO. near the old slave graveyard, is haunted. I've been there many times both by myself and with others. Each time Tunnel Bill makes himself known and always "escorts" you out... The story goes, that years ago a man named Bill died at the tunnel. Several stories exist on how and why he died, but the important part is he is very jealous of his tunnel (home)and will treat you with the same respect that you treat him.
+location: Tunnel Bill's
+state: Missouri
+state_abbrev: MO
+longitude: -90.4907466
+latitude: 38.0144408
+city_longitude: -90.4998475
+city_latitude: 38.0419971
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1826/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

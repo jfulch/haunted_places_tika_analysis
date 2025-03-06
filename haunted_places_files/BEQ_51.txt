@@ -1,0 +1,21 @@
+city: Ford Island
+country: United States
+description: Witnesses have heard footsteps, the galley doors open and shut by themselves(these doors are locked at night), they have felt cold drafts of air in the same location, also, a figure walking from the mess decks wearing dungarees and a white hat has been seen.
+location: BEQ 51
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9526422
+latitude: 21.3476718
+city_longitude: -157.959815
+city_latitude: 21.3642518
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

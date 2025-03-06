@@ -1,0 +1,21 @@
+city: Dallas Pike
+country: United States
+description: Workers claim to have seen black shadows on the cameras, gas pumps going off without the handle being lifted, and a dot that dances around on the outside camera.
+location: Citgo
+state: West Virginia
+state_abbrev: WV
+longitude: -77.0824718
+latitude: 38.8634519
+city_longitude: -80.5579104
+city_latitude: 40.04634830000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Kane
+country: United States
+description: Usually around 2:00am when people walk by the old school from the 1800s, they see children watching from windows on the top floor.
+location: Clay Street School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.7991649
+latitude: 41.6628255
+city_longitude: -78.81114269999999
+city_latitude: 41.6628394
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

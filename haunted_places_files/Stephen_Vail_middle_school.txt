@@ -1,0 +1,20 @@
+city: Middletown
+country: United States
+description: At Vail in the 60's or 70's a gay gym teacher killed her self in the girls locker room to get away from the taunting other female gym teachers she broke a mirror and slit her wrists in the 4 locker stall they say that if you go down there during gym or after school hours you can hear locker doors slamming shut and here basketballs bouncing and there have also been sightings of her running on the track on top of the gym.
+location: Stephen Vail middle school
+state: Ohio
+state_abbrev: OH
+longitude: -84.3999551
+latitude: 39.51237589999999
+city_longitude: -84.39827629999999
+city_latitude: 39.5150576
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1962/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

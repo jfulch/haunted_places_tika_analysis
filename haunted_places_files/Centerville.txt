@@ -1,0 +1,21 @@
+city: Appanoose
+country: United States
+description: Railroad Tracks - If you park your car on these tracks, turn it off, and put it in Neutral, little kids will push you off the tracks.. You will hear foot steps in the rocks while they are pushing you...
+location: Centerville
+state: Iowa
+state_abbrev: IA
+longitude: -92.8738196
+latitude: 40.7290565
+city_longitude: -92.8577105
+city_latitude: 40.6806102
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

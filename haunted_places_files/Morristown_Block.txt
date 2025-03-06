@@ -1,0 +1,21 @@
+city: Russellville
+country: United States
+description: The business known as Morristown block was originally known as The Vaughn Block Company, which formed in the 1930s. In the mid-60s, the company secretary, who was engaged in a romantic affair with the owner apparently committed suicide in the front office. Actually, it was widely assumed that Mr. Vaughn killed the secretary who was also his sister in law because of a possible pregnancy. People who have worked late in the office have been known to hear a struggle between a man and a woman and then a silence. Persons living across the street from the block company in the house formerly owned by the secretary have reported the presence of a woman who could be described as looking like Mr. Vaughn's secretary. The spirit is not said to be evil, but very watchful, especially when the seasons change.
+location: Morristown Block
+state: Tennessee
+state_abbrev: TN
+longitude: -83.207672
+latitude: 36.253143
+city_longitude: -83.19516759999999
+city_latitude: 36.25870520000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

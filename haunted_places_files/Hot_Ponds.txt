@@ -1,0 +1,21 @@
+city: Jackpot
+country: United States
+description: Just outside of Jackpot Nevada there were some naturally occurring hot ponds that had been made into an attraction where people could rent rooms. It had been popular until apparently some people were murdered there. Witnesses report "Footprints and hoof prints would appear on the path, coming after us even though there was no possible way anyone else could have been out there. Broken glass was discovered around our van; even though it had not been there in the beginning and we had not brought anything glass out. There were strange noises and the air in certain spots on the property would suddenly grow very, very cold. it was a strange, yet interesting experience there was defiantly something or someone there."
+location: Hot Ponds
+state: Nevada
+state_abbrev: NV
+longitude: -114.5095897
+latitude: 42.3458256
+city_longitude: -114.6724061
+city_latitude: 41.9841401
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

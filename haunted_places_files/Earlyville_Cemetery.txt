@@ -1,0 +1,21 @@
+city: Kersey
+country: United States
+description: At 9:30 in the morning a purple and red haze can sometimes be seen towards the wooded area at the end of the cemetery. Singing is usually heard, sounding like a little boy. The Cemetery dates back to the early 1900's when the town was called Centerville.
+location: Earlyville Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.2487964
+latitude: 41.3605368
+city_longitude: -78.5961346
+city_latitude: 41.3622832
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

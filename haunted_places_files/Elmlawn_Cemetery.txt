@@ -1,0 +1,21 @@
+city: Tonawanda
+country: United States
+description: At night orbs can be seen, when driving by this cemetery. A number of unidentified lights as well can be seen inside the cemetery as well. This normally occurs between midnight and 3am.
+location: Elmlawn Cemetery
+state: New York
+state_abbrev: NY
+longitude: -78.86444999999999
+latitude: 42.99257
+city_longitude: -78.880315
+city_latitude: 43.0203347
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

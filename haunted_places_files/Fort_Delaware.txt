@@ -1,0 +1,19 @@
+city: Delaware City
+country: United States
+description: This site (now a state park) was used as to imprison Confederate soldiers during the Civil War. Many workers and tourists have seen ghostly images, felt cold places and heard voices. On a recent "ghost tour" visitors actually saw the image of a Confederate soldier watching them from the upper ramparts. Also on this island site was once a cemetery for soldiers who died of typhus and malaria and this is supposed to be haunted as well.
+location: Fort Delaware
+state: Delaware
+state_abbrev: DE
+longitude: -75.587367
+latitude: 39.578484
+city_longitude: -75.588815
+city_latitude: 39.5778901
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1861/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 1

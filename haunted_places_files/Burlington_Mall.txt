@@ -1,0 +1,21 @@
+city: Burlington
+country: United States
+description: Sears Warehouse - Footsteps heard behind you when no one is around, presence clearly felt in certain areas, objects fall from shelves when you walk by and a voice can be heard in some areas.
+location: Burlington Mall
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.2137169
+latitude: 42.4825157
+city_longitude: -71.1956205
+city_latitude: 42.5047161
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2002/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

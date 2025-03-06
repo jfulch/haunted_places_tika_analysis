@@ -1,0 +1,21 @@
+city: Springfield
+country: United States
+description: The Pit - The Pit is the parking lot at Ursuline Academy but before that was there, there was a cemetery.  So some may say the Ursuline building and surrounding areas are haunted.
+location: Ursuline Academy
+state: Illinois
+state_abbrev: IL
+longitude: -89.6489184
+latitude: 39.8183908
+city_longitude: -89.6501481
+city_latitude: 39.78172130000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1995/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

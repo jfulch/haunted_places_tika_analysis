@@ -1,0 +1,21 @@
+city: Eastpointe
+country: United States
+description: LOCATED AT 10 MILE HAYES. SOME SAY AROUND MIDNIGHT, IF YOU PULL UP AT THE ATM, AND TURN OFF YOUR LIGHTS, AND EVERYTHING IS QUIET,IF YOU LOOK TO THE RIGHT IN THE WINDOW, YOU SHOULD SEE A YOUNG BANK TELLER THAT GOT SHOT IN A 1946 BANK ROBBERY AND WAS KILLED. SHE SHOULD LOOK AT YOU AND POINT.
+location: First State Bank
+state: Michigan
+state_abbrev: MI
+longitude: -82.9567569
+latitude: 42.4641163
+city_longitude: -82.9554746
+city_latitude: 42.4683698
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

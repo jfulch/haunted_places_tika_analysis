@@ -1,0 +1,21 @@
+city: Battle Mountain
+country: United States
+description: When working things will just disappear, weird noises and strange coldness when upstairs where the motels are located. Built back in the 1800's.
+location: Nevada Hotel
+state: Nevada
+state_abbrev: NV
+longitude: -116.9393988
+latitude: 40.64515180000001
+city_longitude: -116.9342671
+city_latitude: 40.6421334
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

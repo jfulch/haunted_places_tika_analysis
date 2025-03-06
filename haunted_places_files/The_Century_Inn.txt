@@ -1,0 +1,21 @@
+city: Scenery Hill
+country: United States
+description: This is the oldest inn along Route 40. In the restaurant of this bed and breakfast, there is a very cold room. The innkeeper said she had seen someone at the door nearby, the cold is not caused by a draft, and she has trouble keeping that door locked. Directly down the hill from that room, mysterious footprints leading away from the inn wall have appeared in the snow.
+location: The Century Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.07002349999999
+latitude: 40.0863811
+city_longitude: -80.0703324
+city_latitude: 40.0859055
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

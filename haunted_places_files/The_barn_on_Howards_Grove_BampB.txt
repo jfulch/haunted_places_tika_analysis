@@ -1,0 +1,21 @@
+city: Annapolis
+country: United States
+description: The story is the housekeeper was mysteriously murdered. This was probably around the 1930's, and the rumors of ghosts still prevail. - Some of our readers are going to investigate the bed & breakfast and will report back to us, what they experience.
+location: The barn on Howard's Grove B&amp;B
+state: Maryland
+state_abbrev: MD
+longitude: -1.3374236
+latitude: 51.6685352
+city_longitude: -76.4921829
+city_latitude: 38.9784453
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

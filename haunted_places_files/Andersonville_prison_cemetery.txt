@@ -1,0 +1,21 @@
+city: Andersonville
+country: United States
+description: a civil war re-enactor, for the CSA reports while they were in Andersonville they were visiting the Drummer Boy museum. while in there a woman came in and said that last year, she and her husband were leaving the cemetery, which closes at 5 pm. She said that she was just scanning the scene one more time and that she saw a man on a crutch. He was missing a leg and wearing a confederate uniform standing beside one of the graves. she asked her husband if he saw it, not taking her eyes off the man. she pointed to her husband and he too saw it. at first they thought it was a re-enactor, but they were all at the camp. when they passed the spot, the man looked in his rear-view mirror and no one was there.
+location: Andersonville prison cemetery
+state: Georgia
+state_abbrev: GA
+longitude: -84.1303207
+latitude: 32.2002948
+city_longitude: -84.1303207
+city_latitude: 32.2002948
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1864/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

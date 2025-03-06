@@ -1,0 +1,21 @@
+city: Virginia City
+country: United States
+description: a ghost nun has been seen in this building that was once a hospital.
+location: Bonanza Inn
+state: Montana
+state_abbrev: MT
+longitude: -111.9472142
+latitude: 45.293354
+city_longitude: -111.9460911
+city_latitude: 45.2938143
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.0
+day_duration: 11h 18m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

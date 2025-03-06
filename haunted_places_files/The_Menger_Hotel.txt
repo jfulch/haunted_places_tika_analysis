@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Haunted by 38 known ghosts, including Teddy Roosevelt, a lady in blue, Sallie White who is a murdered chamber maid, Captain Richard King, and many others. My sister, who is a little psychic, had an experience here. Our family was sleeping in the new portion of the hotel, and she woke up in the early hours and saw a misty "cowboy" like-person standing in the room with his back turned to her. He had a blank stare on his face and just stood for several minutes before leaving. Many of Teddy Roosevelt's rough riders haunt the bar.
+location: The Menger Hotel
+state: Texas
+state_abbrev: TX
+longitude: -98.485988
+latitude: 29.4246985
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1812/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

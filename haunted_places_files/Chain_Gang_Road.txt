@@ -1,0 +1,20 @@
+city: Gaffney
+country: United States
+description: When you go down on the Old Chain Road you can here voices of girls moaning and screaming. These girls were the victims of the Gaffney Strangler.
+location: Chain Gang Road
+state: South Carolina
+state_abbrev: SC
+longitude: -81.7993523
+latitude: 34.97656449999999
+city_longitude: -81.64981949999999
+city_latitude: 35.0717945
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

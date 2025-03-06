@@ -1,0 +1,21 @@
+city: Victoria
+country: United States
+description: a shadow of a little boy with a basket ball saying "come play with me" has been reported. - October 2007 Additional information: Footsteps, voices, and strange red glowing lights have also been reported.
+location: Old army barracks by the Airport
+state: Texas
+state_abbrev: TX
+longitude: -96.9199383
+latitude: 28.852345
+city_longitude: -97.0035982
+city_latitude: 28.8052674
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

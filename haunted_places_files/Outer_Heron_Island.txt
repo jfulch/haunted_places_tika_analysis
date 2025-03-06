@@ -1,0 +1,21 @@
+city: Heron Island
+country: United States
+description: Supposedly there was a shipwreck here and the captain of the ship was decapitated. It's the typical story of the headless ghost wandering around, supposedly searching for his head.
+location: Outer Heron Island
+state: Maine
+state_abbrev: ME
+longitude: -69.58504549999999
+latitude: 43.7759177
+city_longitude: -69.5669904
+city_latitude: 43.8303611
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

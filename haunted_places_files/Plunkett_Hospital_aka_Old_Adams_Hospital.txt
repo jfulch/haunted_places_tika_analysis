@@ -1,0 +1,19 @@
+city: Adams
+country: United States
+description: Update: Is being considered to be renovated into condo's for senior citizens. - Screams can be heard along with sightings of ghosts that usually resemble patients that may have died there. This buildings windows and doors are boarded up partially due to the fact that people have reported seeing ghosts in the windows looking outside.
+location: Plunkett Hospital-  -aka "Old Adam's Hospital"
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -73.1174344
+city_latitude: 42.6242251
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

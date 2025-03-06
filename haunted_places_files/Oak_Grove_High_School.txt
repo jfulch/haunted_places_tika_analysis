@@ -1,0 +1,21 @@
+city: North Little Rock
+country: United States
+description: Reports include hearing people talking and screaming, as well as seeing shadows.
+location: Oak Grove High School
+state: Arkansas
+state_abbrev: AR
+longitude: -92.3326179
+latitude: 34.8411977
+city_longitude: -92.2670941
+city_latitude: 34.769536
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

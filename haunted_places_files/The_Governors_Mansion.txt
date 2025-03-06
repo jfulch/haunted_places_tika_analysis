@@ -1,0 +1,19 @@
+city: Dover
+country: United States
+description: This building is quite haunted. Residents have reported, among others: a bewigged 18th century gentleman; a "tippling ghost" that will empty wineglasses left in a certain place; a chain-rattling ghost in the basement (supposedly the place was a stop on the underground railroad; and it's said that some slaves were sold out and recaptured); and a little girl in a red dress who plays in the gardens.
+location: The Governor's Mansion.
+state: Delaware
+state_abbrev: DE
+longitude: -75.5230747
+latitude: 39.1613715
+city_longitude: -75.5243682
+city_latitude: 39.158168
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

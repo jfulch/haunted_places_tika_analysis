@@ -1,0 +1,21 @@
+city: Oconomowoc
+country: United States
+description: There has been rumors that a young boy hung himself in the lower gym and has been haunting the gym for years on Halloween.
+location: Oconomowoc High School
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.4898572
+latitude: 43.0994804
+city_longitude: -88.4992659
+city_latitude: 43.1116731
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

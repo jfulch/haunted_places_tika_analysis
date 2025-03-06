@@ -1,0 +1,21 @@
+city: Marsing
+country: United States
+description: Apon entering the cemetery at night a feeling of being closed in and severe saddness comes over you. Flashes of dancing lights appear over the headstones.There are alot of young people buried there. Eighteen years and younger.
+location: Homedale Marsing cemetery
+state: Idaho
+state_abbrev: ID
+longitude: -116.8920322
+latitude: 43.5457896
+city_longitude: -116.8131959
+city_latitude: 43.5454359
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1987/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

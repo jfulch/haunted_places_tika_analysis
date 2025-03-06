@@ -1,0 +1,18 @@
+city: Pittsfield
+country: United States
+description: strange noises and large white silloettes have been spotted .. mysterious footsteps and blood stained almost ape like finger prints frequently occur
+location: the tracks before Clapp Park
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -73.2453824
+city_latitude: 42.4500845
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 0

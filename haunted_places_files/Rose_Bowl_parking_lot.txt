@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: Around midnight a lady wearing a white wedding dress was seen walking towards visitors in the parking lot then disappears.
+location: Rose Bowl parking lot
+state: California
+state_abbrev: CA
+longitude: -118.1676462
+latitude: 34.1613284
+city_longitude: -118.1445155
+city_latitude: 34.1477849
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Nacogdoches
+country: United States
+description: A former housekeeper reports feeling a gentle pressure on every inch of her body and suddenly felt like the room was spinning. She could feel a happy presence. It went away as she descended the stairs but she seldom entered the attic after that and didn't clean the house much longer. Possibly the children of the house. But in the cellar the feeling was more negative.
+location: Sterne-Hoya House
+state: Texas
+state_abbrev: TX
+longitude: -94.6506865
+latitude: 31.6005146
+city_longitude: -94.6554874
+city_latitude: 31.6035129
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

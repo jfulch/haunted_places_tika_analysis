@@ -1,0 +1,21 @@
+city: Tulsa
+country: United States
+description: IN the auditorium you can see a man in a white penguin tux walking around on stage and backstage, rumored to be that of an old band director that died of a heart attack on stage in the 50's after conducting the song "come, sweet death". you can look up and see a small person also in white on the grid. Many other sightings and phenomena have been reported by the janitor and a few kids that stayed late for events or detention. Must have visitors pass the enter, simply go to the main office on the first floor and say you want to walk around and view the architecture, it's very nice.. you can also just go during the round up show, ROTC chili supper or silent auction. - March 2008 additional information: The reported ghost in the white tux is suppose to be that of Dr. Carl Barnett, the band director who had the heart attack while conducting Bach's "Come, Sweet Death." His death occurred on April 23, 1974. He was 59 years old, and it was his first and last performance of that musical composition. Here is a link where you can confirm it - www.snopes.com/horrors/freakish/onstage.asp
+location: Will Rogers High School
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.933252
+latitude: 36.153701
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1974/04/23
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

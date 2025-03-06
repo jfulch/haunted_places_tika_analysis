@@ -1,0 +1,19 @@
+city: Point
+country: United States
+description: there is an old graveyard where a witch was hung and burned. If you go to the very far back right of the cemetery around 1 to 2:30 a.m. and stand with your back to the tree, usually up on the hill you will see a dark apparition of a man in a suit. Witnesses also report hearing footsteps all around them.
+location: Just off highway 69 in-between Emory and Lone Oak
+state: Texas
+state_abbrev: TX
+city_longitude: -95.8713542
+city_latitude: 32.9315089
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

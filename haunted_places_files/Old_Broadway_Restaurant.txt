@@ -1,0 +1,20 @@
+city: Alexandria
+country: United States
+description: Old Broadway was once a brothel and a morgue. It is now a restaurant. Patrons and staff have reported that they witnessed an old woman walking upstairs during the evenings. She has also been seen in the mirrors as staff cleaned off the tables. The old woman is believed to be friendly.
+location: Old Broadway Restaurant
+state: Minnesota
+state_abbrev: MN
+longitude: -95.3773233
+latitude: 45.8885145
+city_longitude: -95.3776663
+city_latitude: 45.8848164
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

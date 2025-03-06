@@ -1,0 +1,20 @@
+city: Edison
+country: United States
+description: In the upper east wing of the school, students and teachers have heard constant banging in a patch of sealed lockers, and when opened the sound would suddenly stop only to start again when locked up again.
+location: Wardlaw-Hartridge School
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.3797829
+latitude: 40.59489680000001
+city_longitude: -74.4120953
+city_latitude: 40.5187154
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

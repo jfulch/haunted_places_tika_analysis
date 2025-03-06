@@ -1,0 +1,21 @@
+city: Tallahassee
+country: United States
+description: It used to be a hospital for people with T.B, back when there was no immunization, and people would go crazy. Then it became a hospital for mentally insane people or mentally challenged people that families didn't want to take care of. It was closed down several years ago (at least 15) . The place has had all the windows and doors busted out, but beds still remain made with hospital paraphernalia lying around. The weirdest thing is that the third floor - (some say it is the fourth floor) - has always remained locked and no one has ever been able to get in there. If you go to the hospital late at night you can here shuffling and whispering coming from up there. And the sound of things being dropped .
+location: Sunnyland Hospital
+state: Florida
+state_abbrev: FL
+longitude: -85.154782
+latitude: 30.6591
+city_longitude: -84.28073289999999
+city_latitude: 30.4382559
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,20 @@
+city: St. Joseph
+country: United States
+description: Strange noises and sightening have been reported and the 3rd floor is said to be haunted by a man in dress pants. An old patient is said to be seen wandering the halls through out the building. The most haunted part of the building is the Basement where the Morgue is located. Strange things such as the motion detecter going off rapidly when no one is around, the sewing machine starting, cries of help, sounds of whimpering and crying, and a man's shadow and muttering have been heard. Ten groups, (four groups of 1, two groups of 2, two groups of 3, a group of 4, and a group of half of a schooling college class), have reported hearing a woman's voice whisper "Help Me." at seperate times. And six groups, (two groups of one, three groups of three, and one family tour), have reported a man running towards the elevator bellowing "Why are you here? Get out!".
+location: Glore Psychiatric Museum
+state: Missouri
+state_abbrev: MO
+longitude: -94.8083941
+latitude: 39.7762831
+city_longitude: -94.846681
+city_latitude: 39.7674578
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

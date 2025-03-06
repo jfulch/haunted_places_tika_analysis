@@ -1,0 +1,21 @@
+city: Harrisville
+country: United States
+description: The tower is now walled up, and painted with a mural of a light keeper, but before being cut off from the rest of the building, a single dim light could be seen making it's way up the winding stairs to the tower.
+location: Sturgeon Point light house
+state: Michigan
+state_abbrev: MI
+longitude: -83.2726825
+latitude: 44.7127172
+city_longitude: -83.2946891
+city_latitude: 44.6564022
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

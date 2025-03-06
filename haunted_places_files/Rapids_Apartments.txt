@@ -1,0 +1,21 @@
+city: Big Rapids
+country: United States
+description: The apartments are very close to Ferris State University and have many students staying there.  Residents have heard a young lady or small child clearly say "Hi" behind them in the apartment. When they all turned to look no one was there.
+location: Rapids Apartments
+state: Michigan
+state_abbrev: MI
+longitude: -85.4856063
+latitude: 43.6901794
+city_longitude: -85.4836557
+city_latitude: 43.6980782
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

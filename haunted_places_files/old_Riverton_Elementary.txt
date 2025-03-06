@@ -1,0 +1,21 @@
+city: Riverton
+country: United States
+description: late at night you can hear children’s voices you can hear footsteps behind you. in the boiler room you can hear a little girl crying, because she fell down a shoot.
+location: old Riverton Elementary
+state: Utah
+state_abbrev: UT
+longitude: -111.944385
+latitude: 40.512258
+city_longitude: -111.9391023
+city_latitude: 40.521893
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1502/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

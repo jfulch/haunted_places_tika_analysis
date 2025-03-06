@@ -1,0 +1,21 @@
+city: Urbandale
+country: United States
+description: Bulit over an old coal mine, footsteps and talking voices can be heard lat at night when nobody is around.
+location: Urbandale High School
+state: Iowa
+state_abbrev: IA
+longitude: -93.7155848
+latitude: 41.6378609
+city_longitude: -93.7121656
+city_latitude: 41.6266555
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

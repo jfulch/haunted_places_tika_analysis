@@ -1,0 +1,21 @@
+city: Ontario
+country: United States
+description: There is a tree that grew up in a big open field where the bodies of an airline crash were laid. The tree grew twisted and has a depth to it. As you approach the tree you will hear the ruffling of thousands of crows on branches but you cannot see them.
+location: Field between airport and freeway
+state: California
+state_abbrev: CA
+longitude: -117.598057
+latitude: 34.0559781
+city_longitude: -117.6508876
+city_latitude: 34.0633443
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

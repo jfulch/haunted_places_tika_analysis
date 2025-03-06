@@ -1,0 +1,20 @@
+city: Rapid City
+country: United States
+description: Sioux San was a boarding school, many many years ago for Native American children and a sanitarium for TB patients many years later. It is now an out patient hospital. It is said the voices and crying and apparitions of children haunt the third floor. These sightings have been seen by numerous night guards, who have quit because of the ghosts. There is numerous little graves on the grounds, of children, who still need to go home to their families.
+location: Sioux San Hospital
+state: South Dakota
+state_abbrev: SD
+longitude: -103.271804
+latitude: 44.0741912
+city_longitude: -103.2310149
+city_latitude: 44.0805434
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1898/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

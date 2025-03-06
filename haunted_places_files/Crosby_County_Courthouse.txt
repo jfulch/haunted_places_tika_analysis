@@ -1,0 +1,21 @@
+city: Crosbyton
+country: United States
+description: When the building is mostly deserted, occasionally the elevator will start on one floor, move to another floor, the doors will open, & no one is in the elevator. Then in a minute or two, the doors will shut & the elevator starts moving to one of the other floors in the building.  Several employees over the years have seen this happen, while others choose not to think about it.
+location: Crosby County Courthouse
+state: Texas
+state_abbrev: TX
+longitude: -101.2399344
+latitude: 33.6584863
+city_longitude: -101.2379276
+city_latitude: 33.6600847
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: East Aurora
+country: United States
+description: Many people have said they've seen heard voices in the rooms when no one was in there and have seen ghostly figures in the halls and main lobby. The Roycroft did burn down many years ago and was recently restored.
+location: Roycroft Inn
+state: New York
+state_abbrev: NY
+longitude: -78.6173553
+latitude: 42.7667827
+city_longitude: -78.6133589
+city_latitude: 42.7678376
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

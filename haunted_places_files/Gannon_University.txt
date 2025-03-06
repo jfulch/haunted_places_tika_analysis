@@ -1,0 +1,21 @@
+city: Erie
+country: United States
+description: Frat House  - Years ago at this frat house there was a Halloween costume party the fraternity was hosting. Everybody was dressed up in a costume. During the party, what appeared to be a person, was looming around quietly dressed in a dark cowboy-like outfit with a big brim black hat. One of the people at the party noticed the figure and followed it to a room upstairs. Then the figure turned around and looked at the person and disappeared. Later on during the party, noises such as walking, banging, and windows opening and closing began to be heard from the upstairs of the house. Some of the people at the party went upstairs to see what was happening. When they got up there, the figure was seen again and this time it spoke. It yelled at them to GET OUT! Then it vanished and everybody left the house. To this day, it is not known if the figure still haunts the house.
+location: Gannon University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0865882
+latitude: 42.1282445
+city_longitude: -80.085059
+city_latitude: 42.12922409999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

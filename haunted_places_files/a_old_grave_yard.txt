@@ -1,0 +1,21 @@
+city: Hardburly
+country: United States
+description: a grave yard around the mountain in Hardburly is haunted. fog like thing moves around a head stone.
+location: a old grave yard
+state: Kentucky
+state_abbrev: KY
+longitude: -82.5152858
+latitude: 37.47771960000001
+city_longitude: -83.12405849999999
+city_latitude: 37.3017628
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

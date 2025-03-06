@@ -1,0 +1,20 @@
+city: Lancaster
+country: United States
+description: There are two tales to the story. One tale is that back in the civil war times that there was a general there that had kept slaves in the outhouse at night and one night they had dug there way out and went in the house and slaughtered the family. And the second tale is that it is the original home of Bloody Mary. Where you look in the mirror and say her name five times and she is supposed to appear behind you.
+location: Mudhouse Mansion
+state: Ohio
+state_abbrev: OH
+longitude: -82.506078
+latitude: 39.7588859
+city_longitude: -82.5993294
+city_latitude: 39.7136754
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 0

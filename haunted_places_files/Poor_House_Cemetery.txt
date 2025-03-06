@@ -1,0 +1,19 @@
+city: Dewittville
+country: United States
+description: The Alms House/Poor Farm was located in Dewittville, NY. The cemetery is located on a portion of this property. The records date from 1833 - 1918. Grave markers were not used until 1869. The farm was used to house the poverty stricken people and the barn is the most haunted but numerous sightings of glowing orbs hearing weird noise's in the wood's.
+location: Poor House Cemetery
+state: New York
+state_abbrev: NY
+city_longitude: -79.44532459999999
+city_latitude: 42.2392247
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1833/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

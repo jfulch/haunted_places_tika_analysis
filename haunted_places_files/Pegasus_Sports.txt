@@ -1,0 +1,21 @@
+city: Rockford
+country: United States
+description: In downtown Rockford, there is an old building that used to be a bridal store. Before that, it was a restaurant. When it was completed, a young girl was murdered in the attic. Now, the attic is host to cold spots, screaming, orbs, and apparitions. - October 2007 Update/Correction: the owner of Pegasus Sports said that the noises and such in the attic were true, but that was in the old Pegasus building a few blocks away. The old building was demolished. He says that their new location is ghost free.
+location: Pegasus Sports
+state: Michigan
+state_abbrev: MI
+longitude: -85.5553249
+latitude: 43.1324992
+city_longitude: -85.5600316
+city_latitude: 43.1200272
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1957/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

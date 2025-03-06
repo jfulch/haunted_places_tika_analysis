@@ -1,0 +1,21 @@
+city: Bowdoin
+country: United States
+description: In the 1800's a woman was practicing witch craft. The towns people decide to hang her. After her death they buried her in a cemetery near a big stump. A star mysteriously appears it means that the witch is roaming the pit.
+location: Cemetery in the pit
+state: Maine
+state_abbrev: ME
+longitude: -69.9672812
+latitude: 44.0607341
+city_longitude: -69.96962429999999
+city_latitude: 44.0495825
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

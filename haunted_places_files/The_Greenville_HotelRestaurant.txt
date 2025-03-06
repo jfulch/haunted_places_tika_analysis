@@ -1,0 +1,21 @@
+city: Bay Head
+country: United States
+description: Over the years many employees have experienced many things from ghosts physically appearing (looking very much like a live person) and walking down the hall and disappearing, to the sounds of children playing in the lobby late at night. One employee even reported falling asleep on the couch in the lobby and awaking to the sounds of kids playing in front of them. He saw glimpses of them as well. There are sounds of moving furniture in unoccupied rooms, sounds of people walking down the hall but "no one is there", the sense that someone is standing behind you, but "no one is there". Guests report hearing children run down the halls laughing in the middle of the night, but there are never any live children doing that. In fact it is rare that children stay there.
+location: The Greenville Hotel/Restaurant
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.0429692
+latitude: 40.0719994
+city_longitude: -74.0543036
+city_latitude: 40.0717828
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

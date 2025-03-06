@@ -1,0 +1,21 @@
+city: Kelso
+country: United States
+description: On Main Street in West Kelso... The former "redlight" area of town. This building housed a restaurant , Bar, and Room. The current owners, Family freinds, and employees have all experienced strange noices,voices, items being moved, keys coming off walls, and upstairsdoors and windows being opened(even after they were nailed shut)Most employees will not go upstairs by themselves.
+location: Branding Iron Building
+state: Washington
+state_abbrev: WA
+longitude: -122.0381925
+latitude: 47.2103818
+city_longitude: -122.9084445
+city_latitude: 46.146779
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

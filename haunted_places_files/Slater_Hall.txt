@@ -1,0 +1,21 @@
+city: Iowa City
+country: United States
+description: Floor One - Legend has it that in the 1800's, a man they called "Penguin man" roamed the vicinity looking for young babies whose brains he liked to feast on. Legend has it that the "Penguin man" has been reincarnated into a fat, black, first floor RA. She roams the halls of Slater looking for innocent young students to eat. SLATER HALL IS VERY DANGEROUS. BEWARE THE WADDLER.
+location: Slater Hall
+state: Iowa
+state_abbrev: IA
+longitude: -91.5451162
+latitude: 41.6581315
+city_longitude: -91.5301683
+city_latitude: 41.6611277
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

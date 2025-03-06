@@ -1,0 +1,21 @@
+city: Flemingsburg
+country: United States
+description: Auditorium - there have been reports of footsteps being heard coming down the large aisle and echoing in the room. They are that of a man wearing what sounds like hard-soled dress shoes.
+location: Simons Middle School
+state: Kentucky
+state_abbrev: KY
+longitude: -83.736364
+latitude: 38.4263363
+city_longitude: -83.73380759999999
+city_latitude: 38.4222995
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

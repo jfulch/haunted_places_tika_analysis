@@ -1,0 +1,21 @@
+city: Owensboro
+country: United States
+description: When Owensboro High's elevator was first put in the seven year old son Johnny of the builder of the elevator was playing with his ABC blocks the elevator wasn’t all finished and there had been no doors to the elevator yet and the boy feel to his death, to this day if you go to the school real late at night right in front of the elevator and say Johnny are you playing with your blocks, you are to hear the sound of the blocks clinging together as if he were playing with them.
+location: Owensboro High School
+state: Kentucky
+state_abbrev: KY
+longitude: -87.1122657
+latitude: 37.7576613
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

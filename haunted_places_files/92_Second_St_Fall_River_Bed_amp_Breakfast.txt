@@ -1,0 +1,21 @@
+city: Fall River
+country: United States
+description: This is the house where Lizzie Borden lived and supposedly killed her father and step mother, Andrew and Abbey Borden. Cold spots are reported and doors open and close by themselves. Many ghosts have appeared and disappeared especially in the second floor bedroom where the murder occurred.
+location: 92 Second St. Fall River/ Bed &amp; Breakfast
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.156196
+latitude: 41.6989279
+city_longitude: -71.1550451
+city_latitude: 41.7014912
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

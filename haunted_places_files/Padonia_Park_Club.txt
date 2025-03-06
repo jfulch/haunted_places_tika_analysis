@@ -1,0 +1,19 @@
+city: Cockeysville
+country: United States
+description: Built over a cemetery where odd things always seem to occur. There is a Haunted House and Haunted Hayride in October, which seems eerie because the real ghost isn't in costumes, but it is a great place to go for scares!
+location: Padonia Park Club
+state: Michigan
+state_abbrev: MI
+longitude: -76.671167
+latitude: 39.4536423
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

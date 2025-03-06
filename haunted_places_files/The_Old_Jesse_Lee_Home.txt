@@ -1,0 +1,19 @@
+city: Seward
+country: United States
+description: In the 1964 earthquake, dozens of children died here. You can hear a distant giggle in this building. Other times, you can hear children jump roping, or running around.
+location: The Old Jesse Lee Home
+state: Alaska
+state_abbrev: AK
+city_longitude: -149.4422222
+city_latitude: 60.10416669999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 10h 52m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

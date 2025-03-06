@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: Witnesses report hearing of foot steps in one of the stalls. Then bathroom sink goes on by it's own.
+location: Sun coast
+state: Nevada
+state_abbrev: NV
+longitude: -115.2873719
+latitude: 36.1699235
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Nutley
+country: United States
+description: When the restaurant is closed, the staff has seen two figures dancing on the main dance floor.
+location: Park Pub Restaurant
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.1582186
+latitude: 40.8322225
+city_longitude: -74.15987249999999
+city_latitude: 40.8223168
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

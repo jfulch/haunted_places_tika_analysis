@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: Its a fantastic Bed and Breakfast in the Garden District or New Orleans. It has a couple ghosts; a black man who burned in the wood shed that "smokes," and a little girl who just wants to play. It is a fantastic Bed and Breakfast, and you can request the most haunted of the rooms. (Mostly on the 3rd. floor).
+location: The Castle Inn
+state: Louisiana
+state_abbrev: LA
+longitude: -90.0726076
+latitude: 29.9512035
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

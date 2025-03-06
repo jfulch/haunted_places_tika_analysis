@@ -1,0 +1,21 @@
+city: Dora
+country: United States
+description: Old Dora has a street that once, a long time ago, was the center of town. The town itself was built around the railroad tracks and depot. Many stores and businesses lined this street. There was a church and many homes in the surrounding area. A cement tunnel gave pedestrians an inlet to the town under the railroad tracks. The roads are still a remembrance of older days made of old concrete and stone. Many people met their demise in Dora, either by the tracks or other occurrences. At one time, when racism was still the norm, a black man was accused of stealing a horse from a local resident, and was sentenced to die by hanging from a nearby train trestle. It is said that the very second the man’s neck broke, the horse was found in a farm just outside of town. When the moon is full, you can just barely make out the silhouette of a man dangling from the trestle. And if you listen really close , you can still hear the mournful moans of his wife in the adjacent forest.
+location: Old Dora
+state: Alabama
+state_abbrev: AL
+longitude: -87.0557764
+latitude: 33.7548538
+city_longitude: -87.0902772
+city_latitude: 33.728717
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 0

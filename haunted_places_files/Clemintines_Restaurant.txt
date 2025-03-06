@@ -1,0 +1,21 @@
+city: Lower Burrell
+country: United States
+description: The graveyard appears to be haunted. Many sightings seen by locals. The school house lights flash on and off. Red Candels are there around the Halloween holiday. THe tire swing moves without the win. The apparitions of Jim Jones and Clemons fighting have been seen...Chady Fitz.
+location: Clemintines Restaurant
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.735698
+latitude: 40.590296
+city_longitude: -79.7209802
+city_latitude: 40.5849232
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

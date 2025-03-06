@@ -1,0 +1,20 @@
+city: Cape May
+country: United States
+description: the mischievous ghost of an elderly woman is felt in Room 10. The elderly woman was frequent guest of the hotel and during her stays, she developed a close friendship to the previaus owner's child, which is why the activity is strongest when children are present in the room. TV's and lights turn on and off by themselves, objects have been moved around, and weird feelings and sounds have been experiences by people who have stayed in the room. A woman spirit occupies the kitchen area of the hotel. Legend has it that the ghost was a former kitchen employee of the hotel. She choked to death on food and is still felt in the hotel today, mainly in the walk-in storage room.
+location: Hotel Macomber
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9168547
+latitude: 38.9309518
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

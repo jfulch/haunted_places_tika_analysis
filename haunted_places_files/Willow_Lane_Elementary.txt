@@ -1,0 +1,20 @@
+city: White Bear Lake
+country: United States
+description: There are two hauntings at this school one is two boys have spotted a figure in black running along the side woods of there schools swamp and as this was happening a little girl was screaming. Another incident that happened a boy that went to this school was murdered and on the last day of school a group of kids flashed there cameras in the bathroom because the lights were out and a figure of a little boy was standing there..
+location: Willow Lane Elementary
+state: Minnesota
+state_abbrev: MN
+longitude: -93.026432
+latitude: 45.044644
+city_longitude: -93.0081479
+city_latitude: 45.0853814
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,18 @@
+city: Columbus
+country: United States
+description: The road is known as 3 legged lady road because of the sightings of a woman with 3 legs. As the legend goes your suppose to beat her across the bridge. Well, she runs beside your car trying to run you off the road by slamming her fist into the side of your car. A friend of mine took a shortcut on the road on his way home from work and meet the 3 legged lady as he drove across the bridge he could hear her fist ramming into the side of his car and as he got home there were dents in the side of his car.
+location: 3 legged lady road
+state: Mississippi
+state_abbrev: MS
+city_longitude: -88.4272627
+city_latitude: 33.4956744
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

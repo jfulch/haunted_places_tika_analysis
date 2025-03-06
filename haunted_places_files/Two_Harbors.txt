@@ -1,0 +1,21 @@
+city: Catalina Island
+country: United States
+description: The Banning Inn - A specter dubbed the "White Lady" has been seen here as well as the smell of tobacco and fish from the spirit of a fisherman. Rumors of Natalie Wood's ghost have also been talked about in the area where she drowned.
+location: Two Harbors
+state: California
+state_abbrev: CA
+longitude: -118.49833
+latitude: 33.44
+city_longitude: -118.4163103
+city_latitude: 33.3878856
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1884/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

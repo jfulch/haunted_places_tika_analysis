@@ -1,0 +1,20 @@
+city: Oxford
+country: United States
+description: Reports of a girl dressed in a long black dress by the dish line. The girl looked really sad and was dressed like someone from the early 1900's. Others had sightings of different things but the girl seems to be the main one. One of the Residence Hall Advisors saw the girl my mother described. An electrician quit when he was working upstairs at Oxford College. He wouldn't say what he saw just that he had seen something and that he wasn't ever going to risk going back into that building.
+location: Miami University, Oxford College
+state: Ohio
+state_abbrev: OH
+longitude: -84.73087679999999
+latitude: 39.5105334
+city_longitude: -84.74523099999999
+city_latitude: 39.5069974
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

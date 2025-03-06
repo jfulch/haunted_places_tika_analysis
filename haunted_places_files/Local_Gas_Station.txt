@@ -1,0 +1,20 @@
+city: Paintsville
+country: United States
+description: there have been reports, of 'fully dressed' in battle clothing- headdresses and all, Indians, walking through a local gas station and disappearing again and dishes in the eatery of the place falling and being thrown around as well, many employees have quit.
+location: Local Gas Station
+state: Kentucky
+state_abbrev: KY
+longitude: -82.7807867
+latitude: 37.8129034
+city_longitude: -82.8071054
+city_latitude: 37.8145384
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: War
+witness_count: 1

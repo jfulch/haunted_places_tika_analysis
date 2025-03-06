@@ -1,0 +1,21 @@
+city: Dunkirk
+country: United States
+description: abandoned property that has remnants of the seminary, church, and cemetery, during daylight hours on the Lake Erie waterfront beach there has been numerous sightings of an unidentified priest walking in the weeds with rosary in hand seemingly deep in thought and alone. . this vision only lasts a few seconds but is undeniable.
+location: former holy cross seminary
+state: New York
+state_abbrev: NY
+longitude: -79.37032219999999
+latitude: 42.4720019
+city_longitude: -79.3339324
+city_latitude: 42.4795019
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

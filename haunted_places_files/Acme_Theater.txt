@@ -1,0 +1,19 @@
+city: Riverton
+country: United States
+description: A man often felt but rarely seen often likes to be in the balcony during the late evening shows. When he is seen he is most often wearing clothes that would be related to the costuming of the vaudeville era of performance theater. It is thought by those that have seen him that he probably performed in the theater at that time in it's history.
+location: Acme Theater
+state: Wyoming
+state_abbrev: WY
+longitude: -108.387152
+latitude: 43.025
+city_longitude: -108.3801036
+city_latitude: 43.0249592
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

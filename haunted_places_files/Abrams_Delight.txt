@@ -1,0 +1,21 @@
+city: Winchester
+country: United States
+description: Several ghosts of the Hollingsworth family (the family that built & owned the house for several generations) haunt the home and grounds. Mary Hollingsworth is the most frequent visitor.
+location: Abram's Delight
+state: Virginia
+state_abbrev: VA
+longitude: -78.1601149
+latitude: 39.1690973
+city_longitude: -78.1633341
+city_latitude: 39.1856597
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

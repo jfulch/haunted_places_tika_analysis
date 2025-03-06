@@ -1,0 +1,21 @@
+city: Fort Hall
+country: United States
+description: Reports of hearing babies crying & report seeing a woman in white, with no face.
+location: The River Bottoms
+state: Idaho
+state_abbrev: ID
+longitude: -112.548317
+latitude: 43.0563031
+city_longitude: -112.4383131
+city_latitude: 43.0332482
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

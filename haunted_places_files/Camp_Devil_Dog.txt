@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: One of the small wooden green hooches is rumored to be haunted. A Marine on fire-watch ran out of the hooch screaming he saw a ghost of a small child leaning over another Marine who as asleep on the floor. The Marine contacted his instructors and refused to go back in there.
+location: Camp Devil Dog
+state: North Carolina
+state_abbrev: NC
+longitude: -77.453704
+latitude: 34.6883529
+city_longitude: -77.4302414
+city_latitude: 34.7540524
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

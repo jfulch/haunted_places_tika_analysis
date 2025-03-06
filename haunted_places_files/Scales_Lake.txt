@@ -1,0 +1,21 @@
+city: Boonville
+country: United States
+description: Believed to be haunted by Black Annie.
+location: Scales Lake
+state: Indiana
+state_abbrev: IN
+longitude: -87.2604155
+latitude: 38.0548702
+city_longitude: -87.27417229999999
+city_latitude: 38.0492131
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

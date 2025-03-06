@@ -1,0 +1,21 @@
+city: Eola
+country: United States
+description: It is said that some children died when a boiler blew up. You always get a weird feeling when your walking through it. During Halloween the sometimes open it up into a haunted house, since the school is no longer open anyways. During the setups and the "haunted tours" actual weird things have happened such as doors slamming and footsteps being heard. - NO Trespassing
+location: Old middle school
+state: Texas
+state_abbrev: TX
+longitude: -100.088818
+latitude: 31.400975
+city_longitude: -100.088047
+city_latitude: 31.398372
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/10/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Many strange occurrences have been reported over the years. Apparitions of different beings show up in the lounge on the 18th floor & in the parking garage accompanied by feelings of terror, strange smells & sounds. Rumor is that the front office is curse - 6 suicides of people who worked in the front office since the hotel opened in 1972.
+location: Los Angeles Airport Marriott
+state: California
+state_abbrev: CA
+longitude: -118.3848086
+latitude: 33.9465953
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

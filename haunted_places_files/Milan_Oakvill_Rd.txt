@@ -1,0 +1,21 @@
+city: Milan
+country: United States
+description: Legends have it that on Milan Oakvill Rd. In 1910 a young women about 23 got in a car accident and died when her and her newly wed husband were driving and went off the road and killed her and her husband well legends say it you go out there and shut your car off where they crashed you will hear the screeching of the tires and when you least expect it and driving down the road you can see her walking aside the road in her wedding
+location: Milan Oakvill Rd.
+state: Michigan
+state_abbrev: MI
+longitude: -83.62685549999999
+latitude: 42.0841868
+city_longitude: -83.6824384
+city_latitude: 42.0853204
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1910/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

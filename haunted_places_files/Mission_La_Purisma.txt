@@ -1,0 +1,21 @@
+city: Lompoc
+country: United States
+description: The large chapel definitely has two separate presences. One is of a priest. The other chapel presence is a young girl. She was more than likely baptized at and lived at the mission. Her presence is strongest in the back by the baptismal font. It is one of happiness and a youthful playfulness, she was possibly a pre-teen.
+location: Mission La Purisma
+state: California
+state_abbrev: CA
+longitude: -120.4206238
+latitude: 34.6697472
+city_longitude: -120.4579409
+city_latitude: 34.6391501
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

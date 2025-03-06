@@ -1,0 +1,21 @@
+city: Tonopah
+country: United States
+description: There was a lady murdered in the hotel and still haunts it to this day. - January 2007 Confirmation to haunting: 2 separate instances 2 witnesses report hearing someone in great physical distress in the first stall of the woman’s bathroom in the Mitzpah Hotel Restaurant. Concerned and a bit embarrassed, because the woman was sighing and groaning for several minutes. They had finally decided to ask if she was OK and as they were washing their hands and deciding what to say, they noticed the stall door was open and they were alone. It is a very small bathroom, isolated and removed from the casino area.
+location: The Mizpa hotel
+state: Nevada
+state_abbrev: NV
+longitude: -117.2307642
+latitude: 38.0683209
+city_longitude: -117.2305861
+city_latitude: 38.069211
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 2

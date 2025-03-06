@@ -1,0 +1,21 @@
+city: San Clemente
+country: United States
+description: an Indian woman has been seen in the brush filled savannah between the tee and fairway apron. Generally a very faint image of the native American appears in the morning and very late afternoon.
+location: Talega golf course, hole two (par 5 uphill)
+state: California
+state_abbrev: CA
+longitude: -117.5961415
+latitude: 33.463153
+city_longitude: -117.6126004
+city_latitude: 33.4273521
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

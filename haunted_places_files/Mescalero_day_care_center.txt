@@ -1,0 +1,21 @@
+city: Mescalero
+country: United States
+description: An old high school burned down at the location. And is now a daycare center. A ghost that is said to throw objects move objects and knock on doors. Employees of the daycare center reported sightings during later after hours when the building was closed.
+location: Mescalero day care center
+state: New Mexico
+state_abbrev: NM
+longitude: -105.7723543
+latitude: 33.1573576
+city_longitude: -105.7741541
+city_latitude: 33.15758539999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

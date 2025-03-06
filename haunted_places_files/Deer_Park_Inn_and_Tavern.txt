@@ -1,0 +1,19 @@
+city: Newark
+country: United States
+description: Main Street- Has be remolded several times but back in the 1800s slaves were traded on the porch. It is said that Edgar Allen Poe wrote "The Raven" there. Once a popular dive for the college kids, the wait staff used to tell stories of sounds on the stairs(which were closed off at the time) when opening or closing the bar. Of course no one was there. Often the front doors would swing as if someone entered, but again, no one was there.
+location: Deer Park Inn and Tavern
+state: Delaware
+state_abbrev: DE
+longitude: -75.755988
+latitude: 39.683221
+city_longitude: -75.74965720000002
+city_latitude: 39.6837226
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

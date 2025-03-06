@@ -1,0 +1,21 @@
+city: Marietta
+country: United States
+description: Used as a hospital during the Civil War, now a museum, people have seen ghosts of soldiers here. An entire hospital "scene" completes with soldiers in their hospital beds and 2 people witnessed doctors working with them at the same time in the basement area or lower floor. Employees have also heard several unexplained noises. While on a field trip of the Marietta Museum located in the Kennesaw House, a girl reported seeing a woman dressed in a light blue antebellum style dress with pink flowers around the neckline and bodice. This woman smiled at her and then vanished. She claims it is a woman in a picture at the museum. The picture is of the original owners of the Kennesaw House.
+location: Kennesaw House
+state: Georgia
+state_abbrev: GA
+longitude: -84.5508718
+latitude: 33.9526112
+city_longitude: -84.5499327
+city_latitude: 33.95260200000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1845/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

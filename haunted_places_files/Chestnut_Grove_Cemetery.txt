@@ -1,0 +1,20 @@
+city: Ashtabula
+country: United States
+description: On Dec. 29th, 1876 the Pacific Express traveled over a bridge, carrying about 159 passengers. Only the first engine made it to the other side just as the bridge began to collapse. The remainder of the train broke away and fell to the bottom of the ravine. About 90 people died; most of them burned alive while trapped inside the crushed cars. Legend says that the ghosts of the victims return to the bottom of the bridge on the anniversary of the disaster.
+location: Chestnut Grove Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -80.7809908
+latitude: 41.8551115
+city_longitude: -80.7898089
+city_latitude: 41.8650534
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

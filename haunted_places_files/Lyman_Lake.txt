@@ -1,0 +1,20 @@
+city: Lyman
+country: United States
+description: They say back in the old days around Lyman lake that there was a party there and a girl got raped and killed down there. If you go out there around like 12:00 at night you can hear a girl screaming and sometimes (very rare though) you can see a faint glowing light over in the trees.
+location: Lyman Lake
+state: South Carolina
+state_abbrev: SC
+longitude: -82.196424
+latitude: 34.994496
+city_longitude: -82.12733120000001
+city_latitude: 34.9481741
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

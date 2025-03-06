@@ -1,0 +1,21 @@
+city: Tempe
+country: United States
+description: There is a saying that you should never go in the auditorium after 9:00PM. A worker fell through the stage and died when the school was starting to open. Some people say they have seen this man, who appears to be finishing the job he had started. You can even hear a voice that sometimes says something that is hard to understand. Some students have even said they have felt someone touch them.
+location: Marcos De Niza High School
+state: Arizona
+state_abbrev: AZ
+longitude: -111.9218572
+latitude: 33.3658448
+city_longitude: -111.9400054
+city_latitude: 33.4255104
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

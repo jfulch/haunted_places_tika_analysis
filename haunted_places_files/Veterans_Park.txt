@@ -1,0 +1,21 @@
+city: Oostburg
+country: United States
+description: It is said that a drifter through town drowned in the creek that runs through the park. There have been reports of a man who walks the banks of the creek on certain nights, and when approached, he seems to walk into the creek and disappear. Strange noises also occur in sewer pipes which are on the park's north side.
+location: Veterans Park
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.8024739
+latitude: 43.625896
+city_longitude: -87.7945323
+city_latitude: 43.62277479999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

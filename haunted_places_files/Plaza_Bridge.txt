@@ -1,0 +1,21 @@
+city: Emmett
+country: United States
+description: Reports of strange sounds like a woman being dumped off the bridge by a mysterious old truck with no lights. Also babies crying and their mother looking for them and trying to shush them. There has also been reports of fingernails tapping and scratching on campers tents and partiers cars when they are sleeping in them down next to the bridge.
+location: Plaza Bridge
+state: Idaho
+state_abbrev: ID
+longitude: -116.4524199
+latitude: 43.89986409999999
+city_longitude: -116.4993012
+city_latitude: 43.8734978
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

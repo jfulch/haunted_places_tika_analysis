@@ -1,0 +1,20 @@
+city: New Haven
+country: United States
+description: Object levitate, lights flicker, strange noises eerie feelings and cold spots reported.
+location: Boondocker Inn
+state: Missouri
+state_abbrev: MO
+longitude: -91.2247136
+latitude: 38.600699
+city_longitude: -91.2190416
+city_latitude: 38.6083822
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

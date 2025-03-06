@@ -1,0 +1,21 @@
+city: South Padre Island
+country: United States
+description: The Third Coast used to be a Country and western bar on the island, and this bar has been haunted for years. About 20 years ago, there was a guy that used to help out at the bar and sleep in his car in the back parking lot. This guy unfortunately had a drug problem though, and was found one evening by the dumpster in the back close to death, having OD'd. He was dragged inside the bar and passed on there. There is a very strong sense that someone is watching over your shoulder, and not in a good way. Also he likes to mess with the electricity, doors, he gets a little loud upstairs, and makes all the employees feel very uncomfortable. He also will mess with the juke box.
+location: The Third Coast Bar
+state: Texas
+state_abbrev: TX
+longitude: -97.3602579
+latitude: 27.7022112
+city_longitude: -97.1681257
+city_latitude: 26.1118401
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

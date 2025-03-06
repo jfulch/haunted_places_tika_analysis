@@ -1,0 +1,20 @@
+city: Columbia
+country: United States
+description: The haunting of Longstreet Theatre relates directly to it's history of being used as a military hospital during the Civil War. It has long been rumored the morgue was housed in the basement of this building in a room that now serves as the "Green Room" for the theatre. The "Green Room" actually is three barrel-vaulted alcoves made out of brick. Many stories have circulated among the student population of sightings and strange noises, especially late at night. So convinced are some theatre students, that many refuse to be in the building after dark alone and institute a "buddy system." One student relates a story about being in the theatre late at night for a dress rehearsal and going down to the basement to buy a soda from the vending machine located directly opposite the "Green Room." As the student stood facing the machine, a sudden wave of fear overcame her and she looked over her shoulder towards the Green Room. As she did so, the temperature dropped suddenly and she felt a wall cold air hit her even though there are no windows and the entrance doors to the basement remained closed. The student left in a hurry and later described the feeling as being watched by a negative energy.
+location: Longstreet Theatre
+state: South Carolina
+state_abbrev: SC
+longitude: -81.0293265
+latitude: 33.9958666
+city_longitude: -81.0348144
+city_latitude: 34.0007104
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

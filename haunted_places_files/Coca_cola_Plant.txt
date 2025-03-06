@@ -1,0 +1,21 @@
+city: Detroit
+country: United States
+description: a supervisor was shot by a disgruntled employee in the 50s. He is sometime seen yelling at workers and keeping the line running when the supervisors are gone.
+location: Coca-cola Plant
+state: Michigan
+state_abbrev: MI
+longitude: -83.1261256
+latitude: 42.3442795
+city_longitude: -83.0457538
+city_latitude: 42.331427
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1828/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

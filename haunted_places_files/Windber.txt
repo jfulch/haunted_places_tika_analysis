@@ -1,0 +1,21 @@
+city: Somerset
+country: United States
+description: Mine 40 - Weird noises like dogs barking and no dogs are around. When walking through the actual buildings you can hear someone following you through the buildings even though no one is around, and at times you hear someone whispering the name of your friends. The Ghost of the Night Miner is supposedly haunting the railroad tracks around night. Very creepy in the day, and eerie at night!!!
+location: Windber
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.8350223
+latitude: 40.2397986
+city_longitude: -79.0780831
+city_latitude: 40.008411
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

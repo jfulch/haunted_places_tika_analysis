@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: Helen Hunt falls - The falls now bear her name. Her grave is up a little higher in the mountains in a place called Gold Camp Road. On the average of 5 people die around the Gold Camp area each year. If you drive through the tunnels there, something freaky ALWAYS happens. Handprints on the car, voices in the tunnels, etc.
+location: Cheyenne Canyon
+state: Colorado
+state_abbrev: CO
+longitude: -104.8858249
+latitude: 38.7922192
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1992/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

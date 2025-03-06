@@ -1,0 +1,21 @@
+city: Prestonsburg
+country: United States
+description: Big Sandy Riverbed - Near the riverbed in the 1958, there was the nations worst bus wreck ever, killing over 20 children and the bus driver! There is now a little shack where it happened. Some say, at night in the little shack, you can hear screams. Prestonsburg School Bus Disaster - Caution this contains descriptions of the accident and the aftermath and may not be suitable for all readers.
+location: Emma
+state: Kentucky
+state_abbrev: KY
+longitude: -82.700757
+latitude: 37.6382581
+city_longitude: -82.7715486
+city_latitude: 37.6656527
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1937/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

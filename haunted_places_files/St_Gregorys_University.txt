@@ -1,0 +1,21 @@
+city: Shawnee
+country: United States
+description: Theater/Museum - A Janitor reports seeing a woman in white and hearing her humming. The woman is believed to be the spirit of a mummy that has been trapped in the museum looking for her body.
+location: St. Gregory's University
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.9542552
+latitude: 35.3676045
+city_longitude: -96.9253004
+city_latitude: 35.3272928
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

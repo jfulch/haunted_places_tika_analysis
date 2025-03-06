@@ -1,0 +1,21 @@
+city: Hendersonville
+country: United States
+description: Stories go that Colonel Barry (who used to own the property) haunts the high school.  Staff and custodial staff often heard extra footsteps and the fire doors would open and shut, as if somebody opened them to walk through.  A teacher was once sitting in the bleachers watching cheerleading practice below and she heard (and felt) footsteps coming up to her, but nobody was there.  She called practice off and refused to go in the bleachers at night.
+location: Hendersonville High School
+state: Tennessee
+state_abbrev: TN
+longitude: -86.6054698
+latitude: 36.30335050000001
+city_longitude: -86.6199957
+city_latitude: 36.3047735
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

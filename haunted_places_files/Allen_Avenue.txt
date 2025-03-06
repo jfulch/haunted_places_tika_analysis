@@ -1,0 +1,19 @@
+city: Wakefield
+country: United States
+description: A protective ghost haunts the top floors of this old Victorian.  It slams doors, sometimes emits an odd stench, turns up the heat, and turns on electrical appliances.  The ghost is unknown but referred to as "Satan" because of its need for hellish temperatures.
+location: Allen Avenue
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.5091714
+latitude: 41.4459417
+city_longitude: -71.50155459999999
+city_latitude: 41.4381721
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

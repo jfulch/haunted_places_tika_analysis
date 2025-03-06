@@ -1,0 +1,21 @@
+city: Indianapolis
+country: United States
+description: When the Cathedral High School campus was the campus of Ladywood, a private boarding school in Indianapolis. Ladywood was entirely run by the Sisters of Providence, a group of nuns devoted to a Catholic education. There is a building on campus, Loretto Hall, the former main building of Ladywood, classes were held on the first floor, physical education in the basement, with student dorms on the second floor, and nun dorms in the attic. It has been reported many times that at night, after what would be "lights out" for the girls that you can hear and sometimes see a sister walking down the halls in the second floor and candles burning in the attic.
+location: Cathedral High School (Former sight of Ladywood High School)
+state: Indiana
+state_abbrev: IN
+longitude: -86.0807787
+latitude: 39.8520411
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1819/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

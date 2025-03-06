@@ -1,0 +1,19 @@
+city: Kent County
+country: United States
+description: Woodland Beach - early 1900s woodland beach had a boardwalk and other attractions, all that stands now of the former boardwalk is the pier ties in the water, but on a well lit night of the full moon, you can se figures walking over the water where the boardwalk used to be, maybe waiting to get on the ferry that no longer travels from there. There is mostly home put in the woodland area now, but the beach is open to the public, but keep in mind the water can rise over the bridge that leads to the beach.
+location: Woodland
+state: Delaware
+state_abbrev: DE
+longitude: -75.4743891
+latitude: 39.33221959999999
+city_longitude: -75.4344727
+city_latitude: 39.1440612
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

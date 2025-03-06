@@ -1,0 +1,21 @@
+city: Gardens of Faith
+country: United States
+description: if you go into the chapel[mausoleum] at gardens of faith,and are very quiet it sounds like faint voices haveing a conversation.A man took his life by the creek a few years back and you get an erie feeling down there.
+location: maryland ghost
+state: Maryland
+state_abbrev: MD
+longitude: -76.5078947
+latitude: 39.3551135
+city_longitude: -76.5078947
+city_latitude: 39.3551135
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

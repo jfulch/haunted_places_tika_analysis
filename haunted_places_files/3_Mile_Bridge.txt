@@ -1,0 +1,21 @@
+city: Sentinel
+country: United States
+description: Late at night you can clearly see lights in the trees along the river. It appears as though there are strands of light bulbs hung in the trees, but when you get to the bridge, they disappear. It is said that devil worshippers performed rituals there, killing cattle, and leaving the badly torn up bodies in fields nearby. It is located 1 mile south and 3 miles west of Sentinel.
+location: 3 Mile Bridge
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.3054743
+latitude: 35.2243041
+city_longitude: -99.1753573
+city_latitude: 35.1578315
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

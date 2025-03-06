@@ -1,0 +1,21 @@
+city: Ocean Isle Beach
+country: United States
+description: In one of the guest cottages one street back from the beach a man named Sam died of a heart attack while on vacation there. Since then employees and guest's alike have noticed strange happenings in the cottage, including cold spots and the shades opening by themselves. Some other reports indicate actual manifestation of Sam. The hotel is reluctant to talk about Sam but the Housekeeping staff will help you out if your nice to them.
+location: The winds beach resort
+state: North Carolina
+state_abbrev: NC
+longitude: -78.41078710000001
+latitude: 33.8938794
+city_longitude: -78.426672
+city_latitude: 33.8943393
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

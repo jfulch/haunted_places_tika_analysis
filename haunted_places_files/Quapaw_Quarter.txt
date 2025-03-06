@@ -1,0 +1,21 @@
+city: Little Rock
+country: United States
+description: Mount Holly Cemetery - This is a large cemetery with burials dating back to the 1820's. The graves of six Confederate generals, as well as the wife of Cherokee chief John Ross are found here. Statues have apparently been seen moving. Some are repeatedly found in various areas of the neighborhood, as if they just wandered there. Many people were reburied there in the 1800's. Ghostly flute playing is heard as well as apparitions being seen. Many graves have trinkets placed upon them.
+location: Quapaw Quarter
+state: Arkansas
+state_abbrev: AR
+longitude: -92.2645458
+latitude: 34.7427959
+city_longitude: -92.2895948
+city_latitude: 34.7464809
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Perry
+country: United States
+description: a white figure of a girl maybe sixteen or so, has been spotted in the backyards of houses and walks up to the cemetery then disappears.
+location: Water Street
+state: New York
+state_abbrev: NY
+longitude: -77.99372180000002
+latitude: 42.72165469999999
+city_longitude: -78.0055618
+city_latitude: 42.7156175
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

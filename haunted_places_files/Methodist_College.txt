@@ -1,0 +1,21 @@
+city: Fayetteville
+country: United States
+description: October 2007 Submission removed. False story
+location: Methodist College
+state: North Carolina
+state_abbrev: NC
+longitude: -78.8671408
+latitude: 35.1296003
+city_longitude: -78.87835849999999
+city_latitude: 35.0526641
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

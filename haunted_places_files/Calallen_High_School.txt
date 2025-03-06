@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: The elevator by the Theater Arts room is said to be haunted. At night it opens and closes by itself when no one is there to push the buttons. It's been sighted once or twice by students who are there for extracurricular activities. One of the janitors has seen the ghost of a young teenage girl roaming the halls when the students have left.
+location: Calallen High School
+state: Texas
+state_abbrev: TX
+longitude: -97.635614
+latitude: 27.8576317
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

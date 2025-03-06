@@ -1,0 +1,20 @@
+city: Excelsior Springs
+country: United States
+description: Many years ago, an African American woman drowned her baby to keep it from being exposed to slavery. At night sometimes you can hear the baby crying or see the apparition of the mother.
+location: Tryst Falls
+state: Missouri
+state_abbrev: MO
+longitude: -94.2718876
+latitude: 39.37202
+city_longitude: -94.2260559
+city_latitude: 39.3391712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

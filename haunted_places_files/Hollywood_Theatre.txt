@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: Built in the twenties at least 4 past managers have actually SEEN the spirit of a man in a white suit in the upstairs lobby. Rattling pipes backstage is also a common occurrence.
+location: Hollywood Theatre
+state: Oregon
+state_abbrev: OR
+longitude: -122.620631
+latitude: 45.5354248
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

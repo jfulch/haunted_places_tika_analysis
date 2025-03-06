@@ -1,0 +1,20 @@
+city: Thornton
+country: United States
+description: If you go up to the Brittany Hill Restaurant after closing walk up to the old mansion doors and you can see the ghost of a man holding his wife in his arms. The owner of the mansion was caught cheating on his wife and she jumped out the tower window when he saw her dead he hung him self in the tower now they both stand up in the tower window together
+location: Brittany Hill
+state: Colorado
+state_abbrev: CO
+longitude: -104.9842156
+latitude: 39.8663691
+city_longitude: -104.9719243
+city_latitude: 39.8680412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1992/05/08
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

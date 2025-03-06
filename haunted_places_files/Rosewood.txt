@@ -1,0 +1,21 @@
+city: Muhlenburg
+country: United States
+description: Skipworth Cemetery - It is said that this cemetery, established in the 1800's, is patrolled at night by a Civil war soldier whose body is buried there. If you see a round, white light on a moonlight night in the spring of the year and are not family or friend you must exit the cemetery at once or your entire family will be cursed.
+location: Rosewood
+state: Kentucky
+state_abbrev: KY
+longitude: -87.0894418
+latitude: 37.0867105
+city_longitude: -87.14228949999999
+city_latitude: 37.17725009999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1863/07/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

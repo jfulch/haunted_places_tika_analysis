@@ -1,0 +1,21 @@
+city: Torrance
+country: United States
+description: Sightings of old nuns lurking around the third building hallway have been reported. Witnesses have also seen an old drama teacher in the drama lab and visions of blood in the hall ceiling.
+location: Bishop Montgomery High
+state: California
+state_abbrev: CA
+longitude: -118.3734314
+latitude: 33.836524
+city_longitude: -118.3406288
+city_latitude: 33.8358492
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

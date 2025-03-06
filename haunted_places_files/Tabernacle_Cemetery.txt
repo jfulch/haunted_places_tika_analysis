@@ -1,0 +1,21 @@
+city: Waukesha
+country: United States
+description: People have seen a person standing next to a tree in the cemetery. Also, bright flashes of light have been known to be seen by the fence that surrounds the right side of the cemetery.
+location: Tabernacle Cemetery
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.3341031
+latitude: 43.0309341
+city_longitude: -88.2314813
+city_latitude: 43.0116784
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

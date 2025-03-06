@@ -1,0 +1,21 @@
+city: Johnson City
+country: United States
+description: Old Library - If you go to the old library building and enter the stacks there, you might see the ghost of a former librarian. She worked there about 20 years ago and finally retired, but would go just to help put the books back in place, she had a heart attack and died down there. Whenever people were down there, they said they felt like they were being watched, and when they pulled material and left for a minute they'd come back and it was put up, that’s not strange except they were down there by themselves. She appeared to one of the workers and she swore she'd never go down there again.
+location: East Tennessee State University
+state: Tennessee
+state_abbrev: TN
+longitude: -82.3701933
+latitude: 36.3025374
+city_longitude: -82.3534727
+city_latitude: 36.3134397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Shawano
+country: United States
+description: It is the end of the very long French Road.  For some reason the name at the end was changed to Chicken Alley.  You will be chased by what appears to be snowmobile lights, but it never gets any closer.  You'll travel through a haunted lumberyard forest on the way.  Sometimes you can see the Chicken Alley sign, and sometimes you can't.  There is also a large tree that only appears with a full moon in the background.  You will see wild chickens running around and if you get out of your car at the crossroads (the only one there, someone will yell at you!!!
+location: Chicken Alley
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.35459209999999
+latitude: 44.59484800000001
+city_longitude: -88.60899169999999
+city_latitude: 44.7822064
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1895/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

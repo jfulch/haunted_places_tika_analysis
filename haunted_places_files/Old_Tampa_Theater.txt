@@ -1,0 +1,21 @@
+city: Tampa
+country: United States
+description: It is an old theater that is very intricately detailed inside and has a particularly haunted look to it anyway. A young man in the 1940's started working there, his job running the projector. He loved his job and continued to work there until his death. Now employees have said that they occasionally hear footsteps and chains in deserted hallways behind the stage and have spotted someone in the projecting room even though there was no one up there at the time. Also reports of smell rancid smells, such as vomit and garbage, drafts of icy air, reports of something grabbing workers by the neck.
+location: Old Tampa Theater
+state: Florida
+state_abbrev: FL
+longitude: -82.45895399999999
+latitude: 27.95034
+city_longitude: -82.4571776
+city_latitude: 27.950575
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Brooksville
+country: United States
+description: There is a house in Brooksville that has been featured in the Tampa Tribune and the St. Petersburg Times, among others, about this house that is a family home built in the early part of the 1900s. The story goes that if you drive by late at night (before the current owners moved in) you would see a candle passing by the windows on the second floor. Doors being slammed and whispers are also very common.
+location: The Weeks House
+state: Florida
+state_abbrev: FL
+longitude: -82.388119
+latitude: 28.556025
+city_longitude: -82.3878709
+city_latitude: 28.5552719
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

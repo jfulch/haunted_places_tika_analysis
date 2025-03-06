@@ -1,0 +1,21 @@
+city: Amsterdam
+country: United States
+description: Often at night when the store is closed flashes of lights and small orbs seem to appear. An apparition of a young woman will be seen and disappear.
+location: Captain Video
+state: New York
+state_abbrev: NY
+longitude: -73.9558416
+latitude: 40.8222029
+city_longitude: -74.190356
+city_latitude: 42.9377453
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2013/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

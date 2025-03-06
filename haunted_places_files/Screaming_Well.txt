@@ -1,0 +1,19 @@
+city: Seattle
+country: United States
+description: They say if you look into the well you can hear screaming of people who fell into the well years before. They say sometimes the voices follow you home.
+location: Screaming Well
+state: Washington
+state_abbrev: WA
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Moulton
+country: United States
+description: The land which the new store is built on was a cemetery. When they surveyed the land and took pictures, a ghost of an early 1900’s solider was in the picture, covering his face like he was in front of the person, taking the picture.
+location: Auto Zone Off 157
+state: Alabama
+state_abbrev: AL
+longitude: -87.2781736
+latitude: 34.4895728
+city_longitude: -87.29335329999999
+city_latitude: 34.4812062
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

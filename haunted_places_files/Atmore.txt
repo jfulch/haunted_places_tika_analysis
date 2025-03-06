@@ -1,0 +1,21 @@
+city: New Bern
+country: United States
+description: Oliver House - 1700's home in historic downtown New Bern is said to be inhabited by more than just housekeepers and tourist. A young child and her father died in the attic while being quarantined for small pox. She still can be heard playing with the toys in the attic. They eventually closed off the area from tourist after certain encounters seen by a local tour guide, Lisabeth Ballenger, assigned to the attic area, was said to have been pushed by the ghost's father. He is said to be very protective and it is apparent that he wants no one near the attic. Many others have witnessed the hauntings as well.
+location: Atmore
+state: North Carolina
+state_abbrev: NC
+longitude: -77.04228119999999
+latitude: 35.1081982
+city_longitude: -77.04411429999999
+city_latitude: 35.108493
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/08/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

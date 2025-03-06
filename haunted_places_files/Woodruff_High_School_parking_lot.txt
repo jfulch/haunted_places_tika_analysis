@@ -1,0 +1,21 @@
+city: Peoria
+country: United States
+description: An outdoor swimming pool was once located at the site. Sometime after it was built, some kids climbed the fence for a midnight swim. A teenage boy drowned, almost pulling his girlfriend down with him. Teenage girls who drive across the spot sometime feel a hand at their ankles, pulling their foot hard onto the gas pedal.
+location: Woodruff High School parking lot
+state: Illinois
+state_abbrev: IL
+longitude: -89.5723915
+latitude: 40.7083464
+city_longitude: -89.5889864
+city_latitude: 40.6936488
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1998/05/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Angier
+country: United States
+description: At the park in Coats. There is this trail. If you walk down this trail, there is some kind of being that chases you. And if you camp there, there is a place that if you put something there such as a tent, and try to sleep your tent will be moved out of the way by morning. Its called " The Devils Stomping Grounds"
+location: Coats Park
+state: North Carolina
+state_abbrev: NC
+longitude: -78.74331219999999
+latitude: 35.5187727
+city_longitude: -78.7391813
+city_latitude: 35.5071044
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2013/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Twin falls
+country: United States
+description: An old building, listed on the national historical register, now a brewery, pub and restaurant, used to be an old flour mill. Employees mentioned hearing footsteps and other strange noises. Reports of presences felt and unexplainable apparitions and disturbances also took place here. this activity has been given a the name of Flour Fred. There is a myth suggested about an occupational accident responsible for the lingering presence.
+location: Twin Falls Brewing Company
+state: Idaho
+state_abbrev: ID
+longitude: -114.472287
+latitude: 42.55571
+city_longitude: -114.4608711
+city_latitude: 42.5629668
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

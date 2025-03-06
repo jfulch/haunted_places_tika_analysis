@@ -1,0 +1,20 @@
+city: Natchez
+country: United States
+description: The Post House used to be an old post office in Natchez. It has been the home of several restaurants since that time. Everyone swears that the second floor is haunted by a ghost named Madeline.
+location: The Post House
+state: Mississippi
+state_abbrev: MS
+longitude: -91.4103448
+latitude: 31.5540478
+city_longitude: -91.403171
+city_latitude: 31.5604442
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1877/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

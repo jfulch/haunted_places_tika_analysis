@@ -1,0 +1,19 @@
+city: Muamee
+country: United States
+description: There are 2 ghost that walk all around that restaurant one is the lilac lady she smells real strong of lilacs and the other smells like B.O.
+location: The Link Inn
+state: Ohio
+state_abbrev: OH
+longitude: -83.6668888
+latitude: 41.5890208
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

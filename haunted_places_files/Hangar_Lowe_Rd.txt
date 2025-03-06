@@ -1,0 +1,21 @@
+city: Cedar Hill
+country: United States
+description: There is the ghost of a jogger that was run over and he shows up every now and then on the side of the road, just laying there. When someone tries to call help for him, he disappears.
+location: Hangar Lowe Rd.
+state: Texas
+state_abbrev: TX
+longitude: -97.0366437
+latitude: 32.6059257
+city_longitude: -96.9561152
+city_latitude: 32.5884689
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

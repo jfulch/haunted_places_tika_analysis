@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: this school has rumors of a teacher tortured and killed student back in 1992 on the stage in the main gym so now the stage is haunted and there have sightings of curtains moving and people falling off and lights turning off and on and a screaming voice of a little boy being tortured.
+location: Deepwater elementary
+state: Texas
+state_abbrev: TX
+longitude: -95.1619362
+latitude: 29.7063793
+city_longitude: -95.2091006
+city_latitude: 29.6910625
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1992/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

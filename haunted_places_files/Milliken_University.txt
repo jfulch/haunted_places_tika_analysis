@@ -1,0 +1,21 @@
+city: Decatur
+country: United States
+description: There are a number of ghosts who hang around the 150 year old campus. In the main theater, there is a ghost called "Track girl" for whom the performers leave candy before a show to ensure that all things will be well.
+location: Milliken University
+state: Illinois
+state_abbrev: IL
+longitude: -88.974817
+latitude: 39.8430961
+city_longitude: -88.9548001
+city_latitude: 39.8403147
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

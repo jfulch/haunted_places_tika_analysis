@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: Rm.222 - in the Memorial Classroom building is said to be haunted. Late night custodial staff as well as security personnel has reported noises such as howling and laughing coming from around the room. On one specific occasion a security officer arming the building heard what he described as "Furniture being moved around." Mind you, it was 1:00 am.
+location: Del Mar College {east campus}
+state: Texas
+state_abbrev: TX
+longitude: -97.4076327
+latitude: 27.7635746
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1863/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

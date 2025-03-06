@@ -1,0 +1,21 @@
+city: Tombstone
+country: United States
+description: It is believed and even witnessed that the ghost of the Earps and the ghosts of the Clanton brothers are seen around the OK Corral, and the old western buildings around there.
+location: OK Corral and Surrounding Places
+state: Arizona
+state_abbrev: AZ
+longitude: -110.0675922
+latitude: 31.713021
+city_longitude: -110.0675764
+city_latitude: 31.7128683
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

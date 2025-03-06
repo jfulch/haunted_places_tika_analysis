@@ -1,0 +1,20 @@
+city: Sweetwater
+country: United States
+description: The Sweetwater County Library was constructed on an old Indian cemetery. Items move by themselves. Apparitions have been seen.
+location: Sweetwater Co. Library
+state: Wyoming
+state_abbrev: WY
+longitude: -109.464512
+latitude: 41.529796
+city_longitude: -109.1880047
+city_latitude: 41.8519395
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

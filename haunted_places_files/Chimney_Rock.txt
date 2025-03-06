@@ -1,0 +1,20 @@
+city: Gallia
+country: United States
+description: You can hear a woman scream as she jumps off of the rock. She kill her self by jumping off of the rock
+location: Chimney Rock
+state: Ohio
+state_abbrev: OH
+longitude: -82.8243392
+latitude: 39.1689573
+city_longitude: -82.34518899999999
+city_latitude: 38.8619254
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

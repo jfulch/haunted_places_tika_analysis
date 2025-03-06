@@ -1,0 +1,19 @@
+city: Dubuque
+country: United States
+description: In 1992 a 14 year old boy killed himself with a knife in his home. And the people that have moved in have said that knifes have been lying in an x on the exact spot he killed himself.
+location: The Saul House
+state: Iowa
+state_abbrev: IA
+city_longitude: -90.6645718
+city_latitude: 42.5005583
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1992/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

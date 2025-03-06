@@ -1,0 +1,21 @@
+city: Jasper
+country: United States
+description: John Monnasco died after an eighteen-wheeler hit his car on Warrior River Bridge. It is said that he haunts the bridge and throws sticks and rocks at the trucks that pass the bridge, trying to get his revenge.
+location: Warrior River Bridge
+state: Alabama
+state_abbrev: AL
+longitude: -87.143549
+latitude: 33.8084931
+city_longitude: -87.2775053
+city_latitude: 33.8312185
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

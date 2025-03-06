@@ -1,0 +1,21 @@
+city: Sugar Valley
+country: United States
+description: There is a menacing presence near the small church and cemetery there, but not in it. The presence was not seen, while the visitors were unable to record it, it sucked the battery dry on the video camara.
+location: Hollobaugh Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.2982239
+latitude: 41.0356123
+city_longitude: -77.2982239
+city_latitude: 41.0356123
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

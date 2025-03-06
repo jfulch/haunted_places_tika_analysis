@@ -1,0 +1,21 @@
+city: Bridgewater
+country: United States
+description: Reports of what seems to be a female ghosts. people have said that they see her out of the corner of their eye and when they look she has disappeared. Some people have seen her walking on the balcony during the service.
+location: Bridgewater Congregational Church
+state: New York
+state_abbrev: NY
+longitude: -73.3658027
+latitude: 41.535134
+city_longitude: -75.2595731
+city_latitude: 42.9006376
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

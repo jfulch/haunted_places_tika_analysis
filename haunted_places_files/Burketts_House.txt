@@ -1,0 +1,19 @@
+city: Camden
+country: United States
+description: Established in the late 1800's in the French port community near Camden. Home to a young girl that was allegedly beaten by her parents, she was locked in her upstairs room until she died of starvation. Tales from travelers swore of ghastly sounds coming from the home, and strange mishaps have occurred to passing vehicles. The young girl is supposedly buried in an unmarked grave across the road from the house in Jones Cemetery. The cemetery itself has its own reports of strange occurrences. One example is if you turn off your vehicle’s motor, it may not start again. Also mechanical parts to vehicles will go missing after entering the cemetery's gate.
+location: Burkett's House
+state: Arkansas
+state_abbrev: AR
+city_longitude: -92.8343294
+city_latitude: 33.5845581
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

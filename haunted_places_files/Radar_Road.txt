@@ -1,0 +1,19 @@
+city: Rogers
+country: United States
+description: A sound resembling that of a galloping horse has been observed by nearby residents and other locals. It is thought to be a ghost from the Civil War era.
+location: Radar Road
+state: Arkansas
+state_abbrev: AR
+city_longitude: -94.1185366
+city_latitude: 36.3320196
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

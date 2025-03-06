@@ -1,0 +1,20 @@
+city: New Haven
+country: United States
+description: North Campus dorms - One resident reported waking up to a massive black force hovering over his bed, constricting him, paralyzing him with fear. Some time later a small circle with a symbol in it appeared to be burned into the wall over his bed where none had existed before. Doors would open by themselves. Closed, locked windows would be opened every time the room was empty. Faucets would go on and off by themselves and closets would rattle. A psychic investigator is reported to have cleansed the room, she said it was a spirit of a young boy killed on the sight when it was farmlands; she also said that the spirit of the young boy had invited in several other negative spirits. Previous occupants of the room have reported similar experiences.
+location: Southern Connecticut State University
+state: Connecticut
+state_abbrev: CT
+longitude: -72.947462
+latitude: 41.332566
+city_longitude: -72.9278835
+city_latitude: 41.308274
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1777/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

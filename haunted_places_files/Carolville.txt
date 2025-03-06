@@ -1,0 +1,21 @@
+city: Oak Creek
+country: United States
+description: Peter Cooper Glue Factory - this abandon factory is haunted by as many as 30 ghost of people who have been murdered here. - NO TRESPASSING March 2008 Correction: No massacre ever took place here. . it was a great factory, happy place for them until it was shut down and just became a place of sadness and despair not ghosts.
+location: Carolville
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.85480249999999
+latitude: 42.8800171
+city_longitude: -87.8631362
+city_latitude: 42.8858503
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1791/02/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

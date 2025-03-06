@@ -1,0 +1,21 @@
+city: Manteca
+country: United States
+description: The last theater in the hall way on the left of the cinema is haunted by 2 ghosts, a young boy and an elderly man. A fire broke out supposedly when the place was a drug store in the late 1950's, killing at least 3 people. late night workers hear voices and tapping on the upper level of the theater.
+location: Cinema 10
+state: California
+state_abbrev: CA
+longitude: -121.227185
+latitude: 37.780834
+city_longitude: -121.2160526
+city_latitude: 37.7974273
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

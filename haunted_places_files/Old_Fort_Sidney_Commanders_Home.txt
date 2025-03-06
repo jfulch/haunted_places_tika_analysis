@@ -1,0 +1,21 @@
+city: Sidney
+country: United States
+description: The Old Fort Sidney Commanders Home is haunted by the spirit of a woman. She was the wife of a commander back in the earlier 1900's. One day while in a hurry, she took the steep maids staircase. She tripped and fell to her death. Some say she can still be seen roaming through the house. An actual picture of the ghost can be seen in a Nebraska published magazine called the Scriviner.
+location: Old Fort Sidney Commanders Home
+state: Nebraska
+state_abbrev: NE
+longitude: -102.9722357
+latitude: 41.1427985
+city_longitude: -102.9774497
+city_latitude: 41.1448219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1848/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

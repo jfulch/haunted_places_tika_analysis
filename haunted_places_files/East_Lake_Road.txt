@@ -1,0 +1,21 @@
+city: Cazenovia
+country: United States
+description: Cazenovia is a small town to the south east of Syracuse. One late fall driving on East Lake Road a witness reports seeing apparitions of a young lady and an older woman dressed in 18th Century dresses on the side of the road. As he witness slowed down to see if they needed any help, but then sped up again once they realized that their headlights were passing right through them.
+location: East Lake Road
+state: New York
+state_abbrev: NY
+longitude: -75.882434
+latitude: 42.982639
+city_longitude: -75.85269149999999
+city_latitude: 42.9300668
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

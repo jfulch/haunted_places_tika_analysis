@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: about 5 years ago 3 teachers died but no students knew how or why. Reports of hearing voices, footsteps and feeling cold drafts.
+location: Kelvyn Park Highschool
+state: Illinois
+state_abbrev: IL
+longitude: -87.73621399999999
+latitude: 41.9277271
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

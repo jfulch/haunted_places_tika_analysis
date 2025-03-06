@@ -1,0 +1,19 @@
+city: Gainesville
+country: United States
+description: A section of War Woman Dell, a little girl is supposed to be buried beside a tall oak tree where she once had a tree house. It is said on quiet days you can still hear her lonely spirit singing and playing.
+location: War Woman Dell/Apple Orchard
+state: Georgia
+state_abbrev: GA
+city_longitude: -83.8240663
+city_latitude: 34.2978794
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2011/08/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 0

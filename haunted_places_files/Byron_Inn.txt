@@ -1,0 +1,21 @@
+city: Tracy
+country: United States
+description: It is an abandoned hotel that was once used by famous Hollywood actors who wanted to "get away" from the Hollywood life for awhile. It is now haunted by some of those Hollywood stars.
+location: Byron Inn
+state: California
+state_abbrev: CA
+longitude: -121.4369129
+latitude: 37.763758
+city_longitude: -121.4252227
+city_latitude: 37.7396513
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

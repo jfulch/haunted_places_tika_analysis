@@ -1,0 +1,21 @@
+city: Manchester
+country: United States
+description: Alumni Hall - Supposedly a monk committed suicide by jumping from a fourth floor window. He has been seen wandering the halls of the fourth floor and sometimes lights flicker in the windows.
+location: Saint Anselm College
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.5072307
+latitude: 42.9874723
+city_longitude: -71.4547891
+city_latitude: 42.9956397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1955/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

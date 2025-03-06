@@ -1,0 +1,21 @@
+city: Arcadia
+country: United States
+description: 233 E. Huntington - George Woolf, also known as "The Iceman" bought the Derby Restaurant in 1938. The famous jockey died eight years later after suffering fatal injuries when he was thrown off a horse at the Santa Anita Raceway. Employees are convinced he is still looking over his old restaurant. Footsteps can be heard going up the stairs to his old living quarters, above the restaurant and his presence is felt throughout the building.
+location: THE DERBY
+state: California
+state_abbrev: CA
+longitude: -118.0236086
+latitude: 34.1404412
+city_longitude: -118.0353449
+city_latitude: 34.1397292
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1938/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

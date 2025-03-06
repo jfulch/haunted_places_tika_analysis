@@ -1,0 +1,21 @@
+city: Boston
+country: United States
+description: Originally a hotel of ill repute, then a dorm for Emerson College, is currently selling condos. Haunted by persistent flappers, drug-addicted dandies, and an old man with a beard. Parapsychologists filmed ghostly horses in lower basement, which once served as the stables.
+location: Charlesgate
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.09228390000001
+latitude: 42.3491864
+city_longitude: -71.0588801
+city_latitude: 42.3600825
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1956/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

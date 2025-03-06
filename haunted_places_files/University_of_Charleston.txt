@@ -1,0 +1,21 @@
+city: Charleston
+country: United States
+description: Riggleman Hall - Feelings of not being alone strange noises and shadows.
+location: University of Charleston
+state: West Virginia
+state_abbrev: WV
+longitude: -81.6165232
+latitude: 38.3328289
+city_longitude: -81.6326234
+city_latitude: 38.3498195
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1510/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

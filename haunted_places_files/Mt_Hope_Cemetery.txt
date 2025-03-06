@@ -1,0 +1,20 @@
+city: Webb City
+country: United States
+description: As you drive into the cemetery there is a road that turns north towards the bulk of the cemetery. After a drive of approximately 300 feet there is a large statue of an Angel. At nights, especially when it is overcast or little moonlight, you can hear the sound of weeping, it is the sound of an adult female, as you face the Angel statue ask the Angel "What is wrong?" and the Angel will say "Nothing." Some have seen an old man in an old overcoat that is there one minute and gone the next in the center of the cemetery.
+location: Mt. Hope Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -94.4758716
+latitude: 37.1235345
+city_longitude: -94.4630035
+city_latitude: 37.1464475
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

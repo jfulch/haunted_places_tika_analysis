@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: Ghost that died when the building was a coffee plantation refinery and now glasses swing by themselves, doors swing open and a loud cackling can be heard on the second floor in the middle of the night.
+location: Logan's on 6th street
+state: Texas
+state_abbrev: TX
+longitude: -97.7412602
+latitude: 30.2678288
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

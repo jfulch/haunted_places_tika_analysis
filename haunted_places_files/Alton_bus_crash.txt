@@ -1,0 +1,19 @@
+city: Alton
+country: United States
+description: In September 1989 an school bus fell over the ledge of a caliche pit full of water. 21 children drowned that day while struggling to get out of the bus. Now it is fenced in. People have claimed to hear the screams of the children. Though most of the locals figure it is the teens that hang around there. Some people even claim to have seen figures sitting on the ledge of the pit. Park and get off to see everything up close. There is a definite sense of sorrow and gloom surrounding the area.
+location: Alton bus crash
+state: Texas
+state_abbrev: TX
+city_longitude: -98.3133594
+city_latitude: 26.2872995
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

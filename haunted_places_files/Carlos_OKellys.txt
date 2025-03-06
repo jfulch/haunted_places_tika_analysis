@@ -1,0 +1,21 @@
+city: Marion
+country: United States
+description: Many odd things occur including unplugged blenders going off, flickering lights, and plates falling off of racks for no apparent reason.
+location: Carlos O'Kellys
+state: Iowa
+state_abbrev: IA
+longitude: -91.6165192
+latitude: 42.027036
+city_longitude: -91.5968958
+city_latitude: 42.033279
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

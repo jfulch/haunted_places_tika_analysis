@@ -1,0 +1,21 @@
+city: Montgomery
+country: United States
+description: CISD Administration Building - Formerly Sadler Hospital - now offices for the Conroe school district. Double doors swing open for no reason (not electric). Sounds like someone whistling a tune, when no one in the room with you. Toilets flush for no reason. Deceased loved ones perfume filling the room.
+location: Conroe
+state: Texas
+state_abbrev: TX
+longitude: -95.4560512
+latitude: 30.3118769
+city_longitude: -95.6963355
+city_latitude: 30.3882613
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1776/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

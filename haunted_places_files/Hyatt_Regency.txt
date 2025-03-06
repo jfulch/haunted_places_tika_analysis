@@ -1,0 +1,20 @@
+city: Kansas City
+country: United States
+description: Ghosts of a woman dressed in her "tea gown' can be seen in the main lobby of the Hyatt Regency in Downtown Kansas City, MO. This unknown lady was killed in the July 17, 1981 skywalk collapse that killed 114 people and injured 200.  It is unknown who the woman is, but it said to be of Kathryn Sullivan - who's son has been an advocate for creation of a monument to all those effected by the tragedy.
+location: Hyatt Regency
+state: Missouri
+state_abbrev: MO
+longitude: -94.5797203
+latitude: 39.0849356
+city_longitude: -94.5785667
+city_latitude: 39.0997265
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1981/07/17
+date_source: description
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

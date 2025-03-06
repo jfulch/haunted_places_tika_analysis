@@ -1,0 +1,21 @@
+city: Whitman
+country: United States
+description: inside the school you can see a shadow of a person walking down the hallways hitting the lockers.
+location: LaCrosse School
+state: Washington
+state_abbrev: WA
+longitude: -117.8772375
+latitude: 46.8125302
+city_longitude: -117.5887295
+city_latitude: 46.8363403
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1973/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

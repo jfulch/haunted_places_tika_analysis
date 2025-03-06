@@ -1,0 +1,21 @@
+city: Albertville
+country: United States
+description: At night you will hear doors slamming and see lights flickering on and off. You'll lock your locker, leave and then walk back to your locker to find it unlocked. You'll also hear kids in the hallway and no one is there.
+location: Alabama Avenue Middle School
+state: Alabama
+state_abbrev: AL
+longitude: -86.20615099999999
+latitude: 34.26015900000001
+city_longitude: -86.20886689999999
+city_latitude: 34.2675937
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1597/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

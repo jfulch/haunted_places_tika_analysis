@@ -1,0 +1,21 @@
+city: Crooked Lake
+country: United States
+description: on the dock late at night an apparition of an old fishing boat in the middle of the lake. In the boat is an old man yelling for help. Shortly after you sight him mist surrounds him and he disappears.
+location: The Pines Bar
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.3541243
+latitude: 45.2389437
+city_longitude: -88.354354
+city_latitude: 45.2418336
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

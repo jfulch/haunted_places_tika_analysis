@@ -1,0 +1,21 @@
+city: Pendleton
+country: United States
+description: Used to be a Library - Haunted by old Librarian who ate a whole bar of Lye soap in the basement over a love affair. She has been seen often at night in the windows looking out, and when it was a library she used to knock books over with a violent push. The basement is now rarely used and only during the day by employees.
+location: Pendleton Arts Center
+state: Oregon
+state_abbrev: OR
+longitude: -118.7885799
+latitude: 45.6745076
+city_longitude: -118.7885967
+city_latitude: 45.672075
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

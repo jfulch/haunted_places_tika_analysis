@@ -1,0 +1,21 @@
+city: Grand Rapids
+country: United States
+description: Daily Grill/Village Inn - At the restaurant that was called the Thornapple Village Inn in the Ada area. the anecdote associated with this haunting is that an engagement dinner was held at the restaurant, and afterward the young woman who was to be married died unexpectedly. She is sometimes seen in one of the mirrors in the ladies room in the restaurant's basement, and restaurant managers/wait staff has reported working after closing to see and hear the restaurant elevator operating on its own. They report other odd happenings with other electrical devices. She has been seen in silhouette, sitting in the restaurant, and one manager, a young female I spoke with, said after a few nights of working alone cleaning up the bar area after closing, that she won't work alone there any more, she had seen the elevator operate on its own too many times and was scared.
+location: Thornapple Restaurant
+state: Michigan
+state_abbrev: MI
+longitude: -85.5126927
+latitude: 42.9123467
+city_longitude: -85.6680863
+city_latitude: 42.9633599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1973/11/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

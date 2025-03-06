@@ -1,0 +1,21 @@
+city: Troy
+country: United States
+description: There is said to be children running and playing in room 243 at night, there also is said to be a ghost of john in the same room and can be seen walking around with a axe.. there was a mass murder in 1936.
+location: Lansingburgh High school
+state: New York
+state_abbrev: NY
+longitude: -73.6742792
+latitude: 42.7631614
+city_longitude: -73.69178509999999
+city_latitude: 42.7284117
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1936/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

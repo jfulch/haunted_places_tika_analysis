@@ -1,0 +1,21 @@
+city: George Washington National Forest
+country: United States
+description: go to the picnic area. from time to time a spirit hovers over the small run that flows next to the campsites. also if you hike around the pond and stay on the rugged trail that leads up the mountain, about a half mile or so up the trail i heard the sound of a horse walking and neighing also children's voices were heard.
+location: Braley's Pond area
+state: Virginia
+state_abbrev: VA
+longitude: -79.3034216
+latitude: 38.288134
+city_longitude: -79.98736199999999
+city_latitude: 37.3316394
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

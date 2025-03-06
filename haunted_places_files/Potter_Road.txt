@@ -1,0 +1,21 @@
+city: Doyline
+country: United States
+description: Twenty Seven Years ago...Four Doyline High School Teenagers were riding back from the local homecoming dance. They were drunk and ran straight into a Pine Tree. A cross was placed right in front of the tree where they wrecked. Every Homecoming Night...Blood runs from the tree to the cross...but now that someone stole the cross....the blood runs up the tree...they say you can hear the two girls weeping...in the tree
+location: Potter Road
+state: Louisiana
+state_abbrev: LA
+longitude: -93.4574039
+latitude: 32.4686278
+city_longitude: -93.4110049
+city_latitude: 32.5357073
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1844/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

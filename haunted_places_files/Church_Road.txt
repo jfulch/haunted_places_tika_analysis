@@ -1,0 +1,21 @@
+city: Portage
+country: United States
+description: It's a cemetery, when it gets dark out sources have seen a young girl hanging from a tree. They have also seen dark shadows move from headstone to headstone.
+location: Church Road
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.5687178
+latitude: 43.5573114
+city_longitude: -89.46262019999999
+city_latitude: 43.5391486
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

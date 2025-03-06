@@ -1,0 +1,20 @@
+city: Modesto
+country: United States
+description: Sounds of people talking loudly in kitchen when no one is in there. Loud crashing of plates and trays has also been heard. According to an employee who has been with the hotel for 27 years a woman was killed in the kitchen by an enraged boyfriend. There are also rumors of more than one person killing themselves in the kitchen. Also while on in the parking lot patrol security has heard the sound of breaking glass as near as two cars away-upon investigation there is no cause for the sound. Rooms 420, 206, and 152 are also all reported by guests and employees to be haunted. Especially in room 152 where all the electrical equipment in the room turns on and off by itself. The room has been checked many times for electrical problems and none can be found.
+location: Red Lion Hotel (formerly Holiday Inn)
+state: California
+state_abbrev: CA
+longitude: -121.4681111
+latitude: 38.5690959
+city_longitude: -120.9968782
+city_latitude: 37.63909719999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

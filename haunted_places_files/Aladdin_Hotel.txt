@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: 7th floor in the Panorama suite - visitors report hearing a key in the door and quiet whispering in the foyer for quite some time. They also report they felt a presence. The door buzzer rang a couple of times but no one was there. Items appeared from nowhere.
+location: Aladdin Hotel
+state: Nevada
+state_abbrev: NV
+longitude: -115.1700646
+latitude: 36.1099696
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

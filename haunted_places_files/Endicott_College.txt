@@ -1,0 +1,21 @@
+city: Beverly
+country: United States
+description: Winthrop Hall - The old mansion by the water is haunted by a younger looking woman wearing a flowing white gown. She is a ghost supposedly waiting for her husband to come back from sea. On the third floor of the building there is a staircase that goes up into the wall and mysteriously ends. The staircase leads to a widow's walk on the roof where supposedly the woman jumped to her death when finding out her husband was not coming home. Witnesses have seen her numerous times walking around the yard by the water and cliffs.
+location: Endicott College
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8408093
+latitude: 42.5531918
+city_longitude: -70.880049
+city_latitude: 42.5584283
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Buffalo
+country: United States
+description: many people have said before or after a show they would be by themselves in the building and a nice dressed man with a white mustache would come near them and say isn't it magnificent they look down then look up to respond the man had vanished into thin air.
+location: Shea's Performing Art Center
+state: New York
+state_abbrev: NY
+longitude: -78.8732014
+latitude: 42.8917438
+city_longitude: -78.8783689
+city_latitude: 42.88644679999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

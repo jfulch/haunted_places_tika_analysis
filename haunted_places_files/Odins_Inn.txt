@@ -1,0 +1,21 @@
+city: Metairie
+country: United States
+description: There are cold spots, unexplained noises, a man appeared in the mirror, lights turning on and off and silhouettes / apparitions appear.
+location: Odin's Inn
+state: Louisiana
+state_abbrev: LA
+longitude: -90.2205796
+latitude: 30.0033043
+city_longitude: -90.1528519
+city_latitude: 29.9840922
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Monmouth
+country: United States
+description: This is one of the oldest cemeteries in Warren County. Most of the stones date back to the early 1800's. There is an Indian buried there who was killed by the people trying to settle in the area. Story has it that this Indian was responsible for scalping a white farmer who was working in his field. The community hunted down the Indian a killed him. There has been documented investigations in this cemetery several times in just the past few years. Many uncertain images appear in pictures and audio recordings playback what sounds to be Indian chanting. The area residents discourage anyone from entering the cemetery after dark. This stems from several problems with cult activity in the years past. Many have stated that even on the hottest summer day once you enter the cast iron gates of the cemetery a cool breeze will follow you around. If you travel to the cemetery go to the farthest stone in the southeast corner of the cemetery and you will find the stone of the unnamed Indian.
+location: Sugar Tree Grove Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -90.7085978
+latitude: 40.9557301
+city_longitude: -90.6473576
+city_latitude: 40.9114271
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

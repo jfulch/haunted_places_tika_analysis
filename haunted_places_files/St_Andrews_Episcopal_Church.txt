@@ -1,0 +1,21 @@
+city: Nogales
+country: United States
+description: Apparitions and other phenomena have reportedly been experienced by a number of parishioners and at least two pastors.
+location: St. Andrew's Episcopal Church
+state: Arizona
+state_abbrev: AZ
+longitude: -110.9546735
+latitude: 31.38903939999999
+city_longitude: -110.9342532
+city_latitude: 31.3403775
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

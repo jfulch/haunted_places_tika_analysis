@@ -1,0 +1,21 @@
+city: Muskegon
+country: United States
+description: Every now and then, my friend will walk past the church in her neighborhood, and hear babies crying. But when she looks back nothing is there! She knew that no one was in the church because it is not open unless there is Saturday night mass or on Sunday. To this day she still does not know where the baby had been.
+location: St. Michaels Catholic Church
+state: Michigan
+state_abbrev: MI
+longitude: -86.2503016
+latitude: 43.2218223
+city_longitude: -86.24839209999999
+city_latitude: 43.2341813
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

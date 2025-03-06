@@ -1,0 +1,20 @@
+city: Bethel
+country: United States
+description: There has been blood on the mirrors in the gym bathrooms. There have been sightings of orbs and you could see orbs in pictures that they took in the gym of the kids. the toilets flush themselves and the lights flicker.
+location: Johnson Elementary School
+state: Connecticut
+state_abbrev: CT
+longitude: -73.39220949999999
+latitude: 41.383404
+city_longitude: -73.41396209999999
+city_latitude: 41.3712283
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Banner Elk
+country: United States
+description: Tate Dorm - use to be the sight of the old Tate Hospital. Many of the students say that on the four floor at night while they are in their rooms they can hear balls bouncing. Also the security guards have reported the lights coming back on by themselves after they have been turned off. Students also say that they have come into their rooms to find their clothes thrown everywhere. The ghost is a little girl named Emily who died of an illness while in the hospital.  She also haunts the library on campus.
+location: Lees McRae College
+state: North Carolina
+state_abbrev: NC
+longitude: -81.87537449999999
+latitude: 36.1617964
+city_longitude: -81.8715019
+city_latitude: 36.1631817
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/04/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

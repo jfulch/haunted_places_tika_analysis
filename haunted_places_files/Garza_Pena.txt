@@ -1,0 +1,21 @@
+city: San Juan
+country: United States
+description: In the girls restroom they have heard footsteps. While you are doing the restroom you could hear someone turn on the sink and washing their hands, then paper towels on the floor. When you get out you feel someone behind you. Then when you turn around there is water on the floor.
+location: Garza Pena
+state: Texas
+state_abbrev: TX
+longitude: -98.143679
+latitude: 26.2082597
+city_longitude: -98.1552872
+city_latitude: 26.1892409
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

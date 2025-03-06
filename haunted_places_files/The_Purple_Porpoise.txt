@@ -1,0 +1,21 @@
+city: Gainesville
+country: United States
+description: The Purple Porpoise has been a Gainesville institution for years and is about the close it's doors but the problem will probably go to the new owners. This is a college town and in the '60s a female student was brutally attacked and killed in the upstairs bathroom. To this day her ghost AND the violent ghost (more like an imprint) of her killer haunt the cramped hallway and restroom. She emits a feeling of hopelessness and fear while he is pure evil. Men are usually safe but numerous females have been attacked.
+location: The Purple Porpoise
+state: Florida
+state_abbrev: FL
+longitude: -81.66421509999999
+latitude: 24.5939874
+city_longitude: -82.32482619999999
+city_latitude: 29.6516344
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1607/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

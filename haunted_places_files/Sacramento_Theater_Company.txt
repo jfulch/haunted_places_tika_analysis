@@ -1,0 +1,21 @@
+city: Sacramento
+country: United States
+description: Reported to be one of the most haunted buildings in Sacramento, this theater is home to at least five ghosts. The most well known specter, believed to be a former stagehand, has been affectionately dubbed "Pinky" because of the glowing pink aura that is often seen near hot spots. Disturbances include footsteps heard on the stage after hours, a man walking the hallways, lights flickering. The theater is currently under paranormal investigation.
+location: Sacramento Theater Company
+state: California
+state_abbrev: CA
+longitude: -121.4861716
+latitude: 38.581161
+city_longitude: -121.4943996
+city_latitude: 38.5815719
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

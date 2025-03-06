@@ -1,0 +1,19 @@
+city: Pocatello
+country: United States
+description: It is believed that a woman was tied up there and tortured and raped, and now in present day it is said that an occult forms there and sacrifices animals. So the city of Pocatello has closed it off to all visitors and public. -  November 2003 Update: they have torn down most of it, and what was left of it has been renovated into offices.
+location: Kraft Building
+state: Idaho
+state_abbrev: ID
+city_longitude: -112.4455344
+city_latitude: 42.8713032
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

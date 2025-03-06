@@ -1,0 +1,21 @@
+city: Tolono
+country: United States
+description: a cult lived there in 1985 and tortured 54 civilians there has been numerous reports of people being chased by shadow figures.
+location: The Oaks Trailer Park
+state: Illinois
+state_abbrev: IL
+longitude: -88.2660789
+latitude: 39.9716945
+city_longitude: -88.2589387
+city_latitude: 39.9861415
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

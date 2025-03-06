@@ -1,0 +1,20 @@
+city: Stark County
+country: United States
+description: Perry Twp. - Calvary Cemetery - Lincoln Way East - Voices caught on EVP tape. The man said "This is Kirk". There was a gravestone with the name "Kirk" one gravestone over.
+location: Massillon
+state: Ohio
+state_abbrev: OH
+longitude: -81.52150929999999
+latitude: 40.7967244
+city_longitude: -81.2518833
+city_latitude: 40.8684676
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

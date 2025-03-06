@@ -1,0 +1,21 @@
+city: Lemont
+country: United States
+description: Also known as "Monk's Castle," an old cemetery where monks, a phantom carriage and Lady in white have been seen.
+location: St. James Sag Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -87.9326032
+latitude: 41.6984271
+city_longitude: -88.0017261
+city_latitude: 41.673642
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

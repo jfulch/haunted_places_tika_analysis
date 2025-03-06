@@ -1,0 +1,21 @@
+city: Haslet
+country: United States
+description: In the 1800's as white settlers came to Texas, Indian tribes were being removed of their homelands. Blue Mound Hill was an Indian lookout for the tribe. The white settlers wanted to use the land for cattle and homes. This tribe was slaughtered by white settlers. Now every full moon around midnight you can see the ghosts of the Indians circling atop Blue Mound Hill, chanting and screaming for revenge. The next day ashes can be found atop the hill where the fire of the Indians anger went out. To get to Blue Mound Hill, take either North or South 287(depending on where you come from), then take a left or right onto Blue Mound Road. Follow until you get to a hill with a white shed on top of it.
+location: Blue Mound
+state: Texas
+state_abbrev: TX
+longitude: -97.3395514
+latitude: 32.9490989
+city_longitude: -97.3477957
+city_latitude: 32.9748469
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

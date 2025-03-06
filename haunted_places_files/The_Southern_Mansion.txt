@@ -1,0 +1,21 @@
+city: Cape May
+country: United States
+description: the ghost of a well-dressed woman wearing a strong-scenting perfume has been seen by many people. The ghost is believed to be Esther, the niece of Capt. George Allen who built the house in 1863. People have felt her presence, smelled her perfume, hear her laughing, and see her dancing throughout the house. The owner thinks that Esther is just a spirit who wants to party. On several occasions, many have heard the rustling of her petticoat drift down a hallway or into another room. There's one particular room in the house that psychics have claimed bring a lot of tension in the house. The owner believes that someone died in this room.
+location: The Southern Mansion
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.91868099999999
+latitude: 38.935557
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1863/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Gold Hill
+country: United States
+description: Many stories have been told of a strange dark hooded "ghost" that carries a lantern and wonders through this cemetery vanishing into thin air when approached. Many other stories of strange lights, sounds and visions of fire leaping from the crypts. A greenish fog is often seen floating through the area and has said to have broken windows of cars that pass through it. Some have said that the "hauntings" are a result of the Oregon Vortex, which is, located close by.
+location: Rock Point Cemetery
+state: Oregon
+state_abbrev: OR
+longitude: -123.0852141
+latitude: 42.4358221
+city_longitude: -123.0506035
+city_latitude: 42.4317894
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

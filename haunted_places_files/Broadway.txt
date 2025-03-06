@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: hammers keep floating up in front of peoples faces as workmen try to fix it up.
+location: Broadway
+state: Washington
+state_abbrev: WA
+longitude: -117.4136403
+latitude: 47.6636398
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

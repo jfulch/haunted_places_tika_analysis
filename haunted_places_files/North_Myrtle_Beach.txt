@@ -1,0 +1,20 @@
+city: Myrtle Beach
+country: United States
+description: Ocean Pier One - Strange electrical problems, doors locking from the inside, items disappearing and appearing in spots that had just be straightened up or cleaned.
+location: North Myrtle Beach
+state: South Carolina
+state_abbrev: SC
+longitude: -78.680016
+latitude: 33.8160058
+city_longitude: -78.8866943
+city_latitude: 33.6890603
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1926/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

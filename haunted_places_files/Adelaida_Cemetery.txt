@@ -1,0 +1,21 @@
+city: Adelaida
+country: United States
+description: A ghost wearing a long white nightgown makes her appearance in this old cemetery every Friday night, between 10PM and midnight. This Mennonite ghost lays flowers on the grave on one of her children that died in the Diphtheria epidemic. She may have also committed suicide in her own life. - February 2004 Update/Correction: Was formerly posted under Palo Altos – It is actually located 20 miles outside of Paso Robles - A ghost researcher visited this cemetery in August 17, 2001 and even though they did not see any ghosts while taking photos, an apparition which may have been "Charlotte" showed up on their film/negative, along with another one of a large orb. They had three witnesses with them that particular day and night, to verify that there was no one else in that cemetery, except of course, the spirits.
+location: Adelaida Cemetery
+state: California
+state_abbrev: CA
+longitude: -120.8739835
+latitude: 35.6565522
+city_longitude: -120.874138
+city_latitude: 35.645397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/08/17
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

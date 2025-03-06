@@ -1,0 +1,21 @@
+city: Couer D'Alene
+country: United States
+description: Sherman Ave - Most of the rooms have shown some level some level of activity. Rooms #1 and #3 seem to be the most active with ashtrays falling off tables, lights flickering on and off and items left on tables changing positions. People have often reported "creepy feelings" in these two rooms. All activity seems to be non-threatening and somewhat benevolent. Before being turned into a motel in the early 50's it was an officers quarters for the Farragut Naval Base.
+location: The Bates Motel
+state: Idaho
+state_abbrev: ID
+longitude: -116.7567249
+latitude: 47.67295499999999
+city_longitude: -116.7804664
+city_latitude: 47.6776832
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1750/11/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Kelly 92s Island
+country: United States
+description: Things move around the cabin when no one was around, voices are hear by the deaf, and people sometimes see dark figures walking on the beach only to disappear in a heartbeat.
+location: 4-H Camp
+state: Ohio
+state_abbrev: OH
+longitude: -82.69798019999999
+latitude: 41.6080925
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2018/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

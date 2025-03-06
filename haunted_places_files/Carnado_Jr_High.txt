@@ -1,0 +1,21 @@
+city: Plainview
+country: United States
+description: A little boy died there and if you walk down the hall by the Gym alone you can here a basketball bouncing but there's no one there. And the stage if your there you get the felling that's some ones watching you and you can hear little whispers
+location: Carnado Jr. High
+state: Texas
+state_abbrev: TX
+longitude: -101.717118
+latitude: 34.206207
+city_longitude: -101.7068417
+city_latitude: 34.1847936
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

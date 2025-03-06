@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: A lady covered in mud wearing a white dress is said to be seen walking through Zacate creek in La Azteca area. There is usually a foul odor in this area, people say it is the sewage that smells, but others say it's the smell of a ghost which is most likely to be that lady.
+location: Zacate creek
+state: Texas
+state_abbrev: TX
+longitude: -99.483941
+latitude: 27.5324842
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1861/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

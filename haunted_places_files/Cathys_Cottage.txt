@@ -1,0 +1,21 @@
+city: Newton
+country: United States
+description: It is believed that two little children and one adult haunt this small cottage. They like to open the refrigerator door, turn lights off and on, and pound on the basement door among other things. There are cold spots in the house, particularly in the first bedroom. At night, whispers can be heard.
+location: Cathy's Cottage
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.61002599999999
+latitude: 43.724657
+city_longitude: -71.0345018
+city_latitude: 42.8695335
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.783333333333331
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

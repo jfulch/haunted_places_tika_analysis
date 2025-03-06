@@ -1,0 +1,20 @@
+city: St. Joseph
+country: United States
+description: After the floral shop shut down they tried to sell it but no one wants to buy it do to its weird happenings. There is a very eerie feeling when you enter the building. Plus it kind of looks like a castle. People have heard a beautiful sound of piano playing from the upper floors, they hear foot steps, noises in the fire place.
+location: The Old Park Floral Building
+state: Missouri
+state_abbrev: MO
+longitude: -94.800501
+latitude: 39.735482
+city_longitude: -94.846681
+city_latitude: 39.7674578
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

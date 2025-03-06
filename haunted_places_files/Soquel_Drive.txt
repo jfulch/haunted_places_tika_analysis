@@ -1,0 +1,21 @@
+city: Capitola
+country: United States
+description: This old house marked "20" on the entrance is extremely haunted. There are lots of active orbs and sounds being heard inside of the house while venturing around the exterior of. Upon getting inside of the house things had been moved after going from room to room and noises heard in down below quarters of the house. On the balcony there is a ghost of an old man who stands on the balcony and guards the home from the 3rd story. The only way into this place was to climb.
+location: Soquel Drive
+state: California
+state_abbrev: CA
+longitude: -121.8704571
+latitude: 36.9691067
+city_longitude: -121.953293
+city_latitude: 36.9752283
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

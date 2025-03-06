@@ -1,0 +1,21 @@
+city: Pawnee
+country: United States
+description: While touring the mansion many people have felt ghosts, some have seen the presence of Pawnee Bill, an image of him is also in an ominous effect on a painting on the second floor. An angry chill is felt in the Southern upper bedroom where the men played poker. May Lillie, Pawnee Bills wife, haunts her favorite chair near the front door, and some have seen their child who died young, playing with toys near the chair.
+location: Pawnee Bill Ranch Mansion
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.8160751
+latitude: 36.3330586
+city_longitude: -96.8039232
+city_latitude: 36.3378321
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

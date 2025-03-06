@@ -1,0 +1,21 @@
+city: Charlette
+country: United States
+description: A worker has been found hanging in midair, with chains around his neck. Strange noises have been heard in the church, as well as the cemetery. Children's voices have been heard in the empty schoolroom, and an apparition of a preacher that passed away has been seen at the pulpit.
+location: Charlette Baptist Church
+state: Arkansas
+state_abbrev: AR
+longitude: -80.840417
+latitude: 35.220543
+city_longitude: -91.4390149
+city_latitude: 35.8166368
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Maryville
+country: United States
+description: Roberta Hall - haunted by the same ghost, Roberta Steel for nearly 40 years. South Third of Hudson hall was closed for years because of strange occurrences. While closed, there were strange noises, like golf balls being rolled down the hall, and strange green lights coming from the bathroom. Since it has been reopened, there have been occurrences of things such as hairbrushes flying across the dorm rooms.
+location: Northwest Missouri State University
+state: Missouri
+state_abbrev: MO
+longitude: -94.8825243
+latitude: 40.3519854
+city_longitude: -94.8724706
+city_latitude: 40.3461017
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/12/04
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Weslaco
+country: United States
+description: J Wing - in the j wing it is said that a janitor died several years ago and now you can see him in the halls cleaning and singing at the same time during 5:00
+location: Weslaco high school
+state: Texas
+state_abbrev: TX
+longitude: -98.001484
+latitude: 26.168088
+city_longitude: -97.9908366
+city_latitude: 26.1595194
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1985/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

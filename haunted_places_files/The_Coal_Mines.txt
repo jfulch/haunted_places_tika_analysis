@@ -1,0 +1,20 @@
+city: Firesteel
+country: United States
+description: Back in the 1930's firesteel was a booming town after the discovery of coal. One day when all the miners were hard at work an explosion killed about 100 miners and to this day they say that if you get too close to the mines you can hear the voices of the miners hard at work. the town of firesteel was once a large and prosperous city but is now doomed as the people are driven away by the ghosts that haunt the old mines.
+location: The Coal Mines
+state: South Dakota
+state_abbrev: SD
+longitude: -101.3675262
+latitude: 45.4516781
+city_longitude: -101.2851477
+city_latitude: 45.4247065
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

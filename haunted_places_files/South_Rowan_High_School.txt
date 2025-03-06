@@ -1,0 +1,20 @@
+city: China Grove
+country: United States
+description: their have been pictures taken in the auditorium with some kind of white figure or light.
+location: South Rowan High School
+state: North Carolina
+state_abbrev: NC
+longitude: -80.60927459999999
+latitude: 35.5733191
+city_longitude: -80.5817318
+city_latitude: 35.569306
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1509/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

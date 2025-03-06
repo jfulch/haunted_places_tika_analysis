@@ -1,0 +1,21 @@
+city: Lawrence
+country: United States
+description: There is an original cornerstone that was used to rebuild the hotel after Quatril's Raid burned it down. On the 5th level, room 506 contains a "portal spirit to the spirit world. There have been examples of flashing lights, breath marks on recently cleaned mirrors, and doors shutting on their own.
+location: Eldridge Hotel
+state: Kansas
+state_abbrev: KS
+longitude: -95.236257
+latitude: 38.971029
+city_longitude: -95.2352501
+city_latitude: 38.9716689
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

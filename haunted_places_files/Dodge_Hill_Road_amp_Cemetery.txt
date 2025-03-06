@@ -1,0 +1,21 @@
+city: North Platte
+country: United States
+description: Many of the locals frequent this spot in the winter for its choice sledding, but after dark, only the brave visit this area. The road takes a few twists and turns and has a sheer drop on either side at some points. Several people have skidded through the guard rails and plunged to their death. Further along is the infamous cemetery. It is said that if you go there at night and point your headlights at the statue of Jesus, he will eventually move. Sometimes people can be seen walking through the tombstones one moment and vanish the next. Phantom animals have also been reported.
+location: Dodge Hill Road &amp; Cemetery
+state: Nebraska
+state_abbrev: NE
+longitude: -71.71690509999999
+latitude: 42.1614555
+city_longitude: -100.7601454
+city_latitude: 41.1402759
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

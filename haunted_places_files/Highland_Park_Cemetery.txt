@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: This cemetery was moved when I-75 came through Williamsburg. It's a rather large cemetery with one mausoleum, and several monuments. The graves extend out beyond the cemetery gates and it seems as though the most haunted area is beyond the gates. There is a strong vibe at night that you shouldn't venture beyond the gates.
+location: Highland Park Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -84.1584594
+latitude: 36.7431636
+city_longitude: -84.15965609999999
+city_latitude: 36.7434169
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

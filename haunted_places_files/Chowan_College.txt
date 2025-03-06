@@ -1,0 +1,21 @@
+city: Murfreesboro
+country: United States
+description: Music Hall - there have been reports of a piano playing but no body was here.
+location: Chowan College
+state: North Carolina
+state_abbrev: NC
+longitude: -77.09697589999999
+latitude: 36.4354563
+city_longitude: -77.0985752
+city_latitude: 36.4423754
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

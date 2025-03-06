@@ -1,0 +1,21 @@
+city: Lawrence
+country: United States
+description: Indian children crying and roaming about the campus looking for their parents.
+location: Haskell Indian school
+state: Kansas
+state_abbrev: KS
+longitude: -95.2333404
+latitude: 38.9377658
+city_longitude: -95.2352501
+city_latitude: 38.9716689
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

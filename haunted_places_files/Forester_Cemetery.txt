@@ -1,0 +1,21 @@
+city: Forester
+country: United States
+description: Young Boys Running around Graves around 12:00 on almost every Wednesday Thought to be because of a Fire that killed some school children.
+location: Forester Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -82.5694563
+latitude: 43.5035633
+city_longitude: -82.5693699
+city_latitude: 43.4991899
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

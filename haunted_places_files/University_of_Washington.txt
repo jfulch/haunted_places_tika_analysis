@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: Columns Amphitheater - After dark, there is an entity at the Columns Amphitheater who does not like visitors. A couple sitting on a bench is a favorite target. The entity shakes the closest bush or shrub violently, and growls very low if you do not pay attention. Some people are unable to enter the amphitheater at night because of the forbidding, brooding feelings within. The Columns Amphitheater was named for the four columns from the original University of Washington building located closer to downtown.. Have no idea if the entity came from the original building or is some angry student, but he seems to be male and a young adult. Someone might consider taking a camera in there!
+location: University of Washington
+state: Washington
+state_abbrev: WA
+longitude: -122.3035199
+latitude: 47.65533509999999
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1913/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

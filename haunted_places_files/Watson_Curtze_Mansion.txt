@@ -1,0 +1,21 @@
+city: Erie
+country: United States
+description: The body of Gen. Anthony Wayne was boiled here in order to remove the skin from the bone so part of him could be buried in Philadelphia. The cauldron in which he was boiled is stored in the kitchen of the house and is known to bang and rattle at night. Also the apparition of a young girl is also seen on the second floor. The mansion is now a museum.
+location: Watson-Curtze Mansion
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0935823
+latitude: 42.126801
+city_longitude: -80.085059
+city_latitude: 42.12922409999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

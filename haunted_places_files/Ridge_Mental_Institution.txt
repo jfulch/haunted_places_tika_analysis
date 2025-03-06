@@ -1,0 +1,20 @@
+city: Wheat Ridge
+country: United States
+description: The institution was for kids 18 years old and younger. It was Closed in the 70's. Although recently tore down, the place was a pinnacle for paranormal activity. Voices of kids playing could be heard, a well as a little girl crying in one of the rooms. Apparitions also appear in the form of black masses that are very unfriendly. All of the buildings exhibit these traits, especially the boiler room where the room grows cold and a stench begins to fill it. Many people have also reported a feeling of being watched, as well as someone unseen whispering incoherently into their ear. Poltergeist activity was also noted, mainly the hiding of flashlights and things appearing in different places than they were before. Pictures revealed hundreds of orbs and plasma streaks.
+location: Ridge Mental Institution
+state: Colorado
+state_abbrev: CO
+longitude: -105.0639735
+latitude: 39.7697258
+city_longitude: -105.0772063
+city_latitude: 39.766098
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

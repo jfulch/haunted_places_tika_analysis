@@ -1,0 +1,18 @@
+city: Cheyenne
+country: United States
+description: The tunnels were originally built back in the early days of the railroad and where used as a means of travel between the Plains hotel, The train station, and the Heyman building. Its is rumored to stretch as far as the capital building "Approximately 3miles" though know one knows for certain. Those who have been able to access them have reported strange things such as loud footsteps within when everyone in the party is accounted for. The footsteps are described as heavy almost leather boot like steps. Similar to boots that might be worn by railroad workers. It is also said that voices can be heard in the distance when there is no one there. No actual sightings have been reported nor has there been an validation by experts to these claims.
+location: Old Underground Tunnels
+state: Wyoming
+state_abbrev: WY
+city_longitude: -104.8202462
+city_latitude: 41.1399814
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

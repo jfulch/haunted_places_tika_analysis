@@ -1,0 +1,21 @@
+city: Jersey City
+country: United States
+description: many employees have seen ghosts wearing close with style from a different era. Feet running sounds and more, screams all that happen on the second and third shift.
+location: 629 Grove St. -Industrial Building
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.0973698
+latitude: 40.8486448
+city_longitude: -74.0776417
+city_latitude: 40.72815749999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

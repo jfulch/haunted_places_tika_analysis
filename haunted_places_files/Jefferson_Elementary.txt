@@ -1,0 +1,20 @@
+city: Middletown
+country: United States
+description: People say that a young girl haunts Jefferson. Jefferson has been known to be built on an old ancient burial ground. Janitors and the gym teachers have reported hearing balls bouncing in the gym and little children laughing and playing about on the gym stage. - June 2005 Update: The school was torn down in the Summer of 2003.
+location: Jefferson Elementary
+state: Ohio
+state_abbrev: OH
+longitude: -84.554699
+latitude: 39.392988
+city_longitude: -84.39827629999999
+city_latitude: 39.5150576
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1743/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

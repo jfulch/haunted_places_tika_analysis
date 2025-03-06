@@ -1,0 +1,21 @@
+city: Ackley
+country: United States
+description: It's an old cemetery about 5 miles south of Ackley out in the country. There?s a gazebo and there is said to be and old lady sitting in a rocking chair holding a baby.
+location: Hazzl Green Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -93.0906539
+latitude: 42.4780023
+city_longitude: -93.0529775
+city_latitude: 42.55553400000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1955/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

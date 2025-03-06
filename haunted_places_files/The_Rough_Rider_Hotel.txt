@@ -1,0 +1,21 @@
+city: Medora
+country: United States
+description: One of the rooms on the top floor is said to be haunted by a young boy. You can hear a child's laughter, the toilets flush when there is nobody in the room.
+location: The Rough Rider Hotel
+state: North Dakota
+state_abbrev: ND
+longitude: -103.523939
+latitude: 46.9148621
+city_longitude: -103.5243536
+city_latitude: 46.9139028
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

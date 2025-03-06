@@ -1,0 +1,21 @@
+city: Westland
+country: United States
+description: A strange ghost hangs around this place a lot. He bangs things in the kitchen and slams doors in the basement. He is a friendly ghost but likes to make noise. He's believed to be a mill worker from the mill a block away. He was crushed in a freak accident around the turn of the century. In hunting adventures with all the lights off we got a picture of his face in ectoplasm. In another you can see his hand, very clearly.
+location: Nankin Mills Tavern
+state: Michigan
+state_abbrev: MI
+longitude: -83.37016779999999
+latitude: 42.3487847
+city_longitude: -83.400211
+city_latitude: 42.32420399999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Pueblo
+country: United States
+description: Many people have died along the old trails beside the river. Many Indian burial sites have also been unearthed along the river. When walking on the Pueblo Nature trail one feels uneasy, as if you are being followed and watched.
+location: Arkansas River
+state: Colorado
+state_abbrev: CO
+longitude: -104.6091409
+latitude: 38.2544472
+city_longitude: -104.6091409
+city_latitude: 38.2544472
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

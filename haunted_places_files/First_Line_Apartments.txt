@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: Residents report hearing strange noises during the day and night, heard footsteps coming upstairs and the sound of keys in the door, but when they went to look who had arrived, no one would be there. Also reported an apparition of a woman coming from one of the bedrooms, walking past the small hallway and continue to the next room and disappear. While she was walking down the hallway, she would pause for a short time and turn and stare into the living room as if looking for someone.
+location: First Line Apartments
+state: Texas
+state_abbrev: TX
+longitude: -95.198663
+latitude: 29.71404099999999
+city_longitude: -95.2091006
+city_latitude: 29.6910625
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

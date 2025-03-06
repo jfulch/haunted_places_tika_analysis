@@ -1,0 +1,19 @@
+city: White Cloud
+country: United States
+description: In the 1920's a family moved to the Newaygo County area buying 1300 acres. It is known that there were murders, incest and madness that happened during that time. There have been reports of sightings, weird noises, voices, eyes in the darkness, nooses hanging from trees and inside one of the old barns, weird happenings with vehicles that go out there and many other occurrences...well known in White Cloud and not many people dare to go out there because of past history.
+location: Dudgeon Swamp
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.771997
+city_latitude: 43.5502974
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1819/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

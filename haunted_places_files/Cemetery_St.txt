@@ -1,0 +1,21 @@
+city: Kingston
+country: United States
+description: Old battlefield on Cemetery St. late at night you can hear screaming and footsteps! There is a confederate Cemetery you get the weirdest feeling and cold chills and also hear the screams for help.
+location: Cemetery St.
+state: Georgia
+state_abbrev: GA
+longitude: -84.94766059999999
+latitude: 34.2318468
+city_longitude: -84.94410979999999
+city_latitude: 34.237039
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

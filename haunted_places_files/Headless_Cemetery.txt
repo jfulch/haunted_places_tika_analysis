@@ -1,0 +1,21 @@
+city: Eunice
+country: United States
+description: When you drive there, your car will automatically die out no matter what. There are rumors that there are restless spirits of those who were not buried properly walk along the paths. There is story that Satanists were buried there also. There is usually a dead animal that rests upon the cross.
+location: Headless Cemetery
+state: Louisiana
+state_abbrev: LA
+longitude: -92.4237679
+latitude: 30.4803805
+city_longitude: -92.4176324
+city_latitude: 30.4943669
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

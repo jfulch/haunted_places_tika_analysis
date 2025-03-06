@@ -1,0 +1,21 @@
+city: Frackville
+country: United States
+description: People are seen walking in the halls but there are no people just shadows. and things move without people moving them.and there is blood found in the artroom
+location: Frackville Elemantry School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.23465039999999
+latitude: 40.7834662
+city_longitude: -76.2302211
+city_latitude: 40.7839774
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

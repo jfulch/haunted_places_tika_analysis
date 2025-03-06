@@ -1,0 +1,21 @@
+city: Warrior
+country: United States
+description: There was this old cemetery in the early 1800's, and workers tore the tombstones down and built Corner High School over the old cemetery. At night, if you look very close, you can see spirits walking up and down the halls.
+location: Corner High School
+state: Alabama
+state_abbrev: AL
+longitude: -86.9674623
+latitude: 33.7612299
+city_longitude: -86.8094394
+city_latitude: 33.8142682
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

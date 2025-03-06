@@ -1,0 +1,21 @@
+city: Mason County
+country: United States
+description: T.N.T. area - Called T.N.T. area because the U.S. military used to make explosives there during World War II. There are over 100 igloos in the area, where they stored the T.N.T. This is the place where sightings of the Mothman have occurred. The first sighting was here at the old North Power Plant, now destroyed back in 1995.
+location: Point Pleasant
+state: West Virginia
+state_abbrev: WV
+longitude: -82.1370889
+latitude: 38.8445251
+city_longitude: -81.9971108
+city_latitude: 38.7553693
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1995/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

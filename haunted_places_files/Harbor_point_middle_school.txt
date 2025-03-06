@@ -1,0 +1,21 @@
+city: Mukilteo
+country: United States
+description: during the night, if you walk past this school you can see a boy standing is the window of the closest wall. The rumor is the boy was thrown out this window by a science teacher who didn't like the boy. There are also two girls that look like normal humans but disappear if you look at them to long. Waiting for their brother to get out of school. The rumor behind this haunting is the two girls were shot walking to get their brother. Nobody knows the two girls' names.
+location: Harbor point middle school
+state: Washington
+state_abbrev: WA
+longitude: -122.2993687
+latitude: 47.9025313
+city_longitude: -122.3045815
+city_latitude: 47.9445396
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

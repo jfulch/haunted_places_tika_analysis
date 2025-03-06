@@ -1,0 +1,21 @@
+city: Philippi
+country: United States
+description: In a little 1920's church along the road was a preacher who killed himself after killing his obessive mother. He killed his self with a cross given to him by his mother. Some see him roaming the church in his black overgown. Staring out the window like he is waiting for someone to come to his ceromony...
+location: Hanging rock
+state: West Virginia
+state_abbrev: WV
+longitude: -80.0220412
+latitude: 39.1182453
+city_longitude: -80.0403578
+city_latitude: 39.1523198
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 30m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

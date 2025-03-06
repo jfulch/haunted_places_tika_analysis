@@ -1,0 +1,21 @@
+city: Carmel
+country: United States
+description: The upper suites, very cold at night and feeling very uneasy in the master bedroom of the two bedrooms.
+location: Blue Sky Lodge
+state: California
+state_abbrev: CA
+longitude: -121.72738
+latitude: 36.478472
+city_longitude: -121.9232879
+city_latitude: 36.5552386
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

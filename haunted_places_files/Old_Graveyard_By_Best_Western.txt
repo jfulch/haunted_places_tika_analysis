@@ -1,0 +1,21 @@
+city: Williams
+country: United States
+description: Weird things show in photos, such as glares at nighttime. There’s also a high presence of spirits .
+location: Old Graveyard By Best Western
+state: Arizona
+state_abbrev: AZ
+longitude: -112.210671
+latitude: 35.244025
+city_longitude: -112.1910031
+city_latitude: 35.24945659999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

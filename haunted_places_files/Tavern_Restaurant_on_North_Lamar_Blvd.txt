@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: Has a female ghost, nicknamed "Emily". She has been seen through the upstairs window at night after closing, has broken dishes and glasses and loves to change the channels on the television.
+location: Tavern Restaurant, on North Lamar Blvd.
+state: Texas
+state_abbrev: TX
+longitude: -97.7511169
+latitude: 30.277075
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

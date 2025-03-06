@@ -1,0 +1,21 @@
+city: Porterville
+country: United States
+description: There was a white man killed by a few black men when the KKK was still at large. He was hung from a tree, his head buried beneath him. To this day, you still can hear fo`t steps, rocks being kicked, and laughter of what sounds like older men. Even a few say that scratches appear on their arms!
+location: Ed Trays Hill
+state: California
+state_abbrev: CA
+longitude: -118.9747667
+latitude: 36.0727852
+city_longitude: -119.0167679
+city_latitude: 36.06523
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

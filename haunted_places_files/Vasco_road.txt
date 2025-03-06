@@ -1,0 +1,21 @@
+city: Antioch
+country: United States
+description: you can hear people if you get out of your car running around. breathing and invisible people is also reported. if you don't feel like getting out of your car, it is scary just to drive through in the dark.
+location: Vasco road
+state: California
+state_abbrev: CA
+longitude: -121.7132757
+latitude: 37.8960434
+city_longitude: -121.805789
+city_latitude: 38.0049214
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

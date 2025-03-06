@@ -1,0 +1,21 @@
+city: Marfa
+country: United States
+description: It is a great tourist attraction. For years everyone has gone to this place on the road between Marfa and Alpine. No one knows if the lights are in fact spectral or of UFO origin.
+location: the Marfa Lights
+state: Texas
+state_abbrev: TX
+longitude: -103.8828184
+latitude: 30.2751212
+city_longitude: -104.020623
+city_latitude: 30.3094622
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1961/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.466666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

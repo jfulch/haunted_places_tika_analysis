@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: This place was home to Salem’s Developmentally Disabled. Stories of brutality and murder about from this location. Many have said to see people walking across the lawns at night even though the place has been locked up since 2000. The cemetery there was built over by a building in 1930's and the bodies were not moved when the building was torn down no one could account for the missing 12 or so bodies. Former employees have said that they have seen the walls bleed and chairs move by themselves.
+location: Fairview Training Center
+state: Oregon
+state_abbrev: OR
+longitude: -123.0030369
+latitude: 44.9386901
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

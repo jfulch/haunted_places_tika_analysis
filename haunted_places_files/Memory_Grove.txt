@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: There is story of a lady who was killed the night of her wedding walking across b street and if you go to the spot where she was hit and you park your car and turn off the lights you can see her cross the street in her wedding dress. And voices have been heard on tape recorders of a girl's whisper asking for help.
+location: Memory Grove
+state: Utah
+state_abbrev: UT
+longitude: -111.885538
+latitude: 40.77675079999999
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Oshkosh
+country: United States
+description: on the opening nights of performances u can see a little boy walking around on the railing of the balcony were he fell to his death.
+location: Grand Opera Theater
+state: Washington
+state_abbrev: WA
+longitude: -88.5386276
+latitude: 44.017506
+city_longitude: -88.52477309999999
+city_latitude: 44.0163383
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

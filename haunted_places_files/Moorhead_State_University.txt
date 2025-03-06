@@ -1,0 +1,20 @@
+city: Moorhead
+country: United States
+description: Weld Hall -  Weld Hall is the theater building on the collage. Many years back a worker at the theater fell down the winding metal staircase, in the back of the stage, he broke both of his legs and neck. His ghost has been seen dancing on the stage, without his legs.
+location: Moorhead State University
+state: Minnesota
+state_abbrev: MN
+longitude: -96.7576325
+latitude: 46.8667538
+city_longitude: -96.7678039
+city_latitude: 46.8737648
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/06/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

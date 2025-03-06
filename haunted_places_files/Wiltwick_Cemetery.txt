@@ -1,0 +1,21 @@
+city: Kingston
+country: United States
+description: Ghostly activity and energy inside that cemetery.
+location: Wiltwick Cemetery
+state: New York
+state_abbrev: NY
+longitude: -74.00526599999999
+latitude: 41.921624
+city_longitude: -73.9973608
+city_latitude: 41.9270367
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Artesia
+country: United States
+description: a couple that where to be wed had a fight and the bride was pushed down the stairs to her death. It is said that if you walk past her grave you will se her floating around.
+location: The Red House
+state: California
+state_abbrev: CA
+longitude: -118.3763117
+latitude: 34.0780298
+city_longitude: -118.0831212
+city_latitude: 33.8658484
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1961/07/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

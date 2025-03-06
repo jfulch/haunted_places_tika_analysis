@@ -1,0 +1,21 @@
+city: Tempe
+country: United States
+description: On the sixth floor of Palo Verde East, there was a girl who committed suicide in room 605. She is now seen wandering the halls on the sixth floor in a white dress, while she hums to herself.
+location: Arizona State University
+state: Arizona
+state_abbrev: AZ
+longitude: -111.9280527
+latitude: 33.4242399
+city_longitude: -111.9400054
+city_latitude: 33.4255104
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1903/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

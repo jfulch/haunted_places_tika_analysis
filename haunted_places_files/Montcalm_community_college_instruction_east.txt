@@ -1,0 +1,21 @@
+city: Sidney
+country: United States
+description: December 2007 This submission has been removed.
+location: Montcalm community college instruction east
+state: Michigan
+state_abbrev: MI
+longitude: -85.1001673
+latitude: 43.2531581
+city_longitude: -85.1271907
+city_latitude: 43.2452303
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

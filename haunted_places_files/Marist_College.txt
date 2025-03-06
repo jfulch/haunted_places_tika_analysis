@@ -1,0 +1,21 @@
+city: Poughkeepsie
+country: United States
+description: As the story goes; Shelly was killed by a jealous boyfriend in the school's cafeteria. Since then, she has been a presence in Sheahan Hall, where she lived. Most of her activity involves folding clothes, opening/closing doors, screwing with televisions and occasional bumps in the night. She may also be linked to some strange occurrences at a grotto dedicated to those who died at Marist.
+location: Marist College
+state: New York
+state_abbrev: NY
+longitude: -73.9341204
+latitude: 41.7224565
+city_longitude: -73.9209701
+city_latitude: 41.7003713
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1992/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.666666666666666
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

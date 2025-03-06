@@ -1,0 +1,21 @@
+city: Poolesville
+country: United States
+description: Hauntings of two teenage ghosts that were mysteriously killed in a car crash in a small lake by an old water house. Their ghostly visions are seen at night when there are no car lights and you honk your horn a few times there spirits are seen rising from the lake and then come to knock on your car door. It has also been seen that a pair of bright headlights are shown coming down the narrow road and then disappear.
+location: Black Rock Road
+state: Maryland
+state_abbrev: MD
+longitude: -77.4191518
+latitude: 39.1435859
+city_longitude: -77.4169311
+city_latitude: 39.1459392
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

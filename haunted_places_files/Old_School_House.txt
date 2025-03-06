@@ -1,0 +1,21 @@
+city: Rockwood
+country: United States
+description: This schoolhouse is a single room building. It’s been told that the school caught fire many years ago; there were several children that got burned to death. If you stop at this school, its been told that you can hear children screaming. If you take photos you can see a lot of unexplained things such as faces of kids, mean dogs and such. The outside of the school remains, the inside has been gutted, but is by no means empty.
+location: old school house
+state: Tennessee
+state_abbrev: TN
+longitude: -84.88649509999999
+latitude: 36.3805359
+city_longitude: -84.68494
+city_latitude: 35.8656284
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

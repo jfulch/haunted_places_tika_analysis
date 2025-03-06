@@ -1,0 +1,19 @@
+city: Camden
+country: United States
+description: The ghost will always appear on Halloween night. A mysterious light always appears. It is possible that someone may have died on the tracks, looking for a way home. The location of the track is right across the street from the Pepsi Place, but it only appears at night.
+location: The Railroad Track Light
+state: Arkansas
+state_abbrev: AR
+city_longitude: -92.8343294
+city_latitude: 33.5845581
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

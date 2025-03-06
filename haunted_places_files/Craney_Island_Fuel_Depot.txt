@@ -1,0 +1,21 @@
+city: Portsmouth
+country: United States
+description: Reports of a Civil War soldier, the sound of a horse.
+location: Craney Island Fuel Depot
+state: Virginia
+state_abbrev: VA
+longitude: -76.35938809999999
+latitude: 36.8923701
+city_longitude: -76.2982742
+city_latitude: 36.8354258
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

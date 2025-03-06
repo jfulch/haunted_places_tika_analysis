@@ -1,0 +1,18 @@
+city: Coahoma
+country: United States
+description: at night turn your car off and you can hear noises and screams of a woman. it has been said that something moved a car with 6 teenagers and a mom.
+location: old Colorado city highway
+state: Colorado
+state_abbrev: CO
+city_longitude: -101.2566819
+city_latitude: 32.3531959
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Hazleton
+country: United States
+description: In the little shop on the corner of Wyoming and Green Streets, next to I believe Cousins Bar, there is said to have been various sightings of people walking through the storefront, in the kitchen, and in the basement. There was supposedly a mass murder in the building back in the late 1930's. While nobody has actually physically encountered any of them, they are said to be very temperamental and violent.
+location: Wyoming and Green Streets
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.9735283
+latitude: 40.9550087
+city_longitude: -75.97464719999999
+city_latitude: 40.9584181
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1867/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

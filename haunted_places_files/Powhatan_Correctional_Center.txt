@@ -1,0 +1,21 @@
+city: Powhatan
+country: United States
+description: Where the Chapel is located in the prison today, at one time was the inmates infirmary. There are windows surrounding 3 sides of the room, which are visible from the security towers outside. Many times officers have reported seeing a prisoner standing at the windows looking out. When investigated by inside officers, the area is found to be empty and secured, no way for anyone to get in or out! This occurs several times a year at all hours of the day and night. One evening an officer from a tower reported someone at the window. Again no one was found, yet the officer reported she could still see the inmate at the window. The inside officers searched the area with no inmate found. The Captain went to the tower to see what the officer insisted she was seeing. When he looked to the window she pointed to, he too could see the man.
+location: Powhatan Correctional Center
+state: Virginia
+state_abbrev: VA
+longitude: -77.8350535
+latitude: 37.6257994
+city_longitude: -77.91882389999999
+city_latitude: 37.5415273
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

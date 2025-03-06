@@ -1,0 +1,21 @@
+city: Streamwood
+country: United States
+description: This small school is supposedly haunted by the ghosts of several teachers that have passed away in the years. Sounds have been heard ranging from bells to chains, to voices. Also Lights seem to turn on and of by themselves.
+location: Hanover Countryside Elementary School
+state: Illinois
+state_abbrev: IL
+longitude: -88.1807366
+latitude: 42.0303341
+city_longitude: -88.17840849999999
+city_latitude: 42.0255827
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

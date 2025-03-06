@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: It was established in the 1700's, not sure exactly when, it says on the sign hanging above the door, but there is a very friendly ghost there who every morning makes breakfast. Very early in the morning you can smell bacon cooking when no-one is awake or in the kitchen.
+location: Lancaster Tavern
+state: Virginia
+state_abbrev: VA
+longitude: -76.4643091
+latitude: 37.7698459
+city_longitude: -76.4660157
+city_latitude: 37.77002600000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Johnson County
+country: United States
+description: Doe Mountain - The apparition is called the Doe Mountain Fireball. It's been spotted at several locations on the mountain at different times of the day and night. It rolls along up and down the mountain and can roll across even dry leaves and never start a brushfire. It ranges in size from about a bowling ball size to upwards of three feet across. It appears as a big ball of fire rolling from place to place on Doe Mountain.
+location: Mountain City
+state: Tennessee
+state_abbrev: TN
+longitude: -81.80483799999999
+latitude: 36.4745636
+city_longitude: -81.8224362
+city_latitude: 36.4585672
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1976/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

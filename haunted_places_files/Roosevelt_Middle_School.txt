@@ -1,0 +1,20 @@
+city: Elizabeth
+country: United States
+description: On the third floor of Roosevelt middle school it is reported that the hallways and the boys bathroom is haunted by a boy around the age of 13 committed suicide because of both family and school problems. students have said that when they walk into the bathroom they feel a cold front of wind. Also staff that stay late have reported that they have seen the bathroom door open when they have already locked it. The little boy is said to haunt the hallways every January 12 which happened to be the day that he died.
+location: Roosevelt Middle School
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2568651
+latitude: 40.7713195
+city_longitude: -74.2107006
+city_latitude: 40.6639916
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1882/01/30
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

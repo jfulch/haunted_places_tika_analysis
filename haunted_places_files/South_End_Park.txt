@@ -1,0 +1,21 @@
+city: Wapello
+country: United States
+description: Certain nights (none in particular) you can here people chanting and fire crackling and sometimes you see this certain owl (the same one every time) and if you spot it, it will stare right back at you and cry it's horrible cry. At this moment if you look at the moon it has two circles around it, and that is the haunting of south end park.
+location: South End Park
+state: Iowa
+state_abbrev: IA
+longitude: -91.18252400000002
+latitude: 41.171784
+city_longitude: -91.1854273
+city_latitude: 41.18141929999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2020/12/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

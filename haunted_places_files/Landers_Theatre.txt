@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: Little Theatre - Along with the spirit of the stage manager who comitted suicide and the baby, there are, in addition, some 100 other ghosts haunting the theatre. For example, there are the spirits of two secretaries in the box office that like to throw things. There is even the spirit of a little dog that is rarely seen. Lander's Theatre is by far the most haunted spot in Springfield.
+location: Landers Theatre
+state: Missouri
+state_abbrev: MO
+longitude: -93.29093
+latitude: 37.207308
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1976/04/04
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

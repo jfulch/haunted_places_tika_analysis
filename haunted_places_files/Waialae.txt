@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: Kahala Mall - Waialae Drive-in - The faceless woman that used to haunt the women's restroom of the old Waialae Drive-in, that was built over a cemetery, is reported to have been seen at the women's restrooms near the mutli-plex theatres of the Kahala Mall. And, just like the sightings of the old drive-in, a woman with long dark hair is seen in the restroom, in front of one of the sinks. When her reflection is seen in the mirror, no face is seen. Kahala Mall is across the street from where the old drive-in used to be. There is a gated community there now in the drive-in's spot. The other half of the cemetery isn't there anymore.
+location: Waialae
+state: Hawaii
+state_abbrev: HI
+longitude: -157.7762165
+latitude: 21.2705629
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1954/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

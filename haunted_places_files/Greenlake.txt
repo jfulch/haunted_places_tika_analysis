@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: In 1926 the body of 22 yr old Sylvia Gaines was found murdered at Greenlake, it was determined that her father had killed her in a drunken rage, witness's at the trial stated that they had been having an affair and Sylvia wanted to leave, the point of land where her body was found is named Gaines Point and there have been reported sightings at night of her ghostly figure wandering the point.
+location: Greenlake
+state: Washington
+state_abbrev: WA
+longitude: -122.3256609
+latitude: 47.6797182
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1926/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

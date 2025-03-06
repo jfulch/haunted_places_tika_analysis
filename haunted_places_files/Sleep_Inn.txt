@@ -1,0 +1,20 @@
+city: Sandusky
+country: United States
+description: When employees walk the halls of the third floor at night, there is an uncanny feeling that they are not alone. The television in 317 will turn on and flip channels all by itself. A laundry attendant was trapped in 315 (the locks are on the inside, and the door opens to the inside, but the door would not open from the inside.) Housekeepers cleaning room 324 have seen the curtains in 312 fluttering/opening, but when the room was checked, the AC unit was off and the room was vacant. Doors slamming and footsteps can be heard when employees are up there alone, but when they call out or go to see who's there, the halls are empty.
+location: Sleep Inn
+state: Ohio
+state_abbrev: OH
+longitude: -82.659645
+latitude: 41.40220100000001
+city_longitude: -82.7079605
+city_latitude: 41.4489396
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Stockbridge
+country: United States
+description: Janitors, teachers, students, parents and police have all bared witness to slamming doors, disembodied voices and footsteps coming from the back halls and objects moving on their own in Stockbridge High School. Police and school officials have been called in the middle of the night because of the school alarms going off only to arrive to find the school locked down. On entry footsteps and distance voices are heard. No known cause has been found for these occurrences. One sighting of a woman in her mid-forties was reported once by a janitor working late in the back hall but no other sightings have been reported.
+location: Stockbridge High School
+state: Georgia
+state_abbrev: GA
+longitude: -84.20268109999999
+latitude: 33.5640676
+city_longitude: -84.23380929999999
+city_latitude: 33.5442781
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.466666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

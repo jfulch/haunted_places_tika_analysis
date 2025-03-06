@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: Apartment Building - Reports of strange feelings of being watched cold spots, rancid smells that disappear as soon as the appeared, footsteps of children running & playing sounding like they where on the roof at 2 or 3 in the morning.
+location: Delor St. &amp; Alaska Ave
+state: Missouri
+state_abbrev: MO
+longitude: -90.2712682
+latitude: 38.5825398
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

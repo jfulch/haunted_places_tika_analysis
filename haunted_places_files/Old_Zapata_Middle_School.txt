@@ -1,0 +1,21 @@
+city: Zapata
+country: United States
+description: Zapata Central - At the Old Zapata Middle School gym (which is now Zapata Central), there is a ghostly resident of a small boy that died there. Footsteps heard in the bleachers when no one is up and walking.
+location: Old Zapata Middle School
+state: Texas
+state_abbrev: TX
+longitude: -99.4994811
+latitude: 27.5713993
+city_longitude: -99.2714255
+city_latitude: 26.9072605
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1879/08/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

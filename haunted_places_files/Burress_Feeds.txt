@@ -1,0 +1,18 @@
+city: Isabel
+country: United States
+description: Late at night you could see a girl age (11-13) they said she died of smallpox in the early 1900's now she haunts the old Burress Feeds store and you could hear her screaming at night and sometimes you could hear her calling for her mom.
+location: Burress Feeds
+state: South Dakota
+state_abbrev: SD
+city_longitude: -101.429593
+city_latitude: 45.3941475
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

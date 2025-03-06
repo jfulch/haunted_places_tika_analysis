@@ -1,0 +1,21 @@
+city: Sun Valley
+country: United States
+description: The old power plant was de-commissioned as of 2004. But when it was operational there had been numerous sightings of a figure on the second deck of the old power plant. Station Operators, at night, have seen a person wandering by one of the electrical rooms; when followed they disappear into walls or through locked doors. Also, on the second and lower decks, a feeling of being watched or a person behind, when do one else is around. Furthermore, A former employee received six death sentences and he currently serves his time at San Quentin as one of the two "Sunset Strip Slayers". It is speculated that he might have started his killing spree while still employed at the power plant.
+location: DWP, Valley Generating Station
+state: California
+state_abbrev: CA
+longitude: -118.3905172
+latitude: 34.2444462
+city_longitude: -118.3812562
+city_latitude: 34.2279298
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

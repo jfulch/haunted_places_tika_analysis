@@ -1,0 +1,20 @@
+city: St. Charles
+country: United States
+description: The sounds of footsteps from an unoccupied floor can be heard.
+location: St. Charles Nursing Home
+state: Missouri
+state_abbrev: MO
+longitude: -90.5239396
+latitude: 38.7582227
+city_longitude: -90.4974359
+city_latitude: 38.7881062
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

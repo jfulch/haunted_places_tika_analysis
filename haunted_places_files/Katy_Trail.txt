@@ -1,0 +1,20 @@
+city: Pleasant Hill
+country: United States
+description: There is a listing on this site for the Katy Trail near Pleasant Hill. The only thing about this is that the Katy trail Runs from Sedalia to St Charles Sedalia is at least 30 miles from Pleasant Hill and the Katy trail is probably 35 so it is impossible for the Katy Trail near Pleasant Hill to be haunted, because there is no Katy trail near Pleasant Hill.
+location: Katy Trail
+state: Missouri
+state_abbrev: MO
+longitude: -94.2777066
+latitude: 38.7840143
+city_longitude: -94.2693911
+city_latitude: 38.7875094
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1961/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

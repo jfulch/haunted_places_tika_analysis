@@ -1,0 +1,20 @@
+city: New Haven
+country: United States
+description: Midnight Mary's Grave Inscription " and they shall pass away at mid-night. " Visitors at midnight see apparitions and pass on the next day.
+location: Cemetery Blvd and Congress Ave.
+state: Connecticut
+state_abbrev: CT
+longitude: -72.94798879999999
+latitude: 41.29945730000001
+city_longitude: -72.9278835
+city_latitude: 41.308274
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1933/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

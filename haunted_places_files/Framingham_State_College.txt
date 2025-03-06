@@ -1,0 +1,21 @@
+city: Framingham
+country: United States
+description: Peirce Hall - A resident assistant was the only person staying in her dorm before early students moved in. When she woke up in the morning, several mirrors from the dorm rooms were placed outside of the rooms leaned up against the walls. Lights go on in rooms that no one lives in.
+location: Framingham State College
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.43704629999999
+latitude: 42.2979259
+city_longitude: -71.4161565
+city_latitude: 42.279286
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1839/09/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

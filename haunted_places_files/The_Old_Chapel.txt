@@ -1,0 +1,18 @@
+city: Lamar
+country: United States
+description: It is told that a man had come and killed a preacher and a nun, while raping another. The poor nun found out later that she was pregnant, and hanged herself on the top floor. To this day, the unhappy nun can be heard crying and moaning throughout the week, and a few have even seen her weeping while walking along the halls.
+location: The Old Chapel
+state: Colorado
+state_abbrev: CO
+city_longitude: -102.6207496
+city_latitude: 38.0872307
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1948/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

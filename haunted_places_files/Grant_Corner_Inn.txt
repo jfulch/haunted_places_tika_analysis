@@ -1,0 +1,21 @@
+city: Santa Fe
+country: United States
+description: Rooms 4 and 8 and the hallway on the second floor are the primary haunting sites in this three- story house built in 1905. Objects falling on the floor, footsteps, and slamming doors are among the usual fare. There is also a grayish figure that appears in the hallway.
+location: Grant Corner Inn
+state: New Mexico
+state_abbrev: NM
+longitude: -105.9406894
+latitude: 35.6890275
+city_longitude: -105.937799
+city_latitude: 35.6869752
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1905/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 34m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Providence
+country: United States
+description: Xavier Hall - Formerly St. Xavier Rectory - Students have reported furniture moving in their dorm rooms. Some have felt tremendous cold feelings and almost audible anger coming from some rooms. This has not been documented, but it seems that a nun may have been murdered by a priest there at some time.
+location: Johnson and Wales University
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.4130131
+latitude: 41.8198
+city_longitude: -71.4128343
+city_latitude: 41.8239891
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

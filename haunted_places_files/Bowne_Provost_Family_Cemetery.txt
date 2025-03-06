@@ -1,0 +1,19 @@
+city: Laurence Harbor
+country: United States
+description: dates back to the civil war. Ghosts have been seen here and mysterious figures.
+location: Bowne Provost Family Cemetery
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.2465338
+city_latitude: 40.4567735
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

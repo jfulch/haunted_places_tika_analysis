@@ -1,0 +1,21 @@
+city: Melbourne
+country: United States
+description: Rumored to be haunted by "Jonathan", who makes noises, moves props and can be seen in the balcony sometimes.
+location: The Henegar Center
+state: Florida
+state_abbrev: FL
+longitude: -80.61024669999999
+latitude: 28.0781009
+city_longitude: -80.60810889999999
+city_latitude: 28.0836269
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

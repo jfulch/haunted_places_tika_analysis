@@ -1,0 +1,21 @@
+city: Pawhuska
+country: United States
+description: There is a school off in the woods behind lake bluestem it is an old one room school house that was used for Native American children in the early 1900's but the chalk board is still in-tack and it is said that if you enter and write you name on the board and come back at a later time that you name will be scratched off the board.
+location: Bird Creek School
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.3680928
+latitude: 36.6967452
+city_longitude: -96.3372309
+city_latitude: 36.6678426
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

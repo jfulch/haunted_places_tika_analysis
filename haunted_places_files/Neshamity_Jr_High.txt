@@ -1,0 +1,21 @@
+city: Langhorne
+country: United States
+description: A janitor who has been thought to worship Satan and committed suicide in 1978. Some students and faculty claim to see his spirit roaming the halls.
+location: Neshamity Jr. High
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.89961
+latitude: 40.2059422
+city_longitude: -74.92266649999999
+city_latitude: 40.1745538
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

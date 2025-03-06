@@ -1,0 +1,20 @@
+city: Hollister
+country: United States
+description: well a couple of years ago a girl was shot in the parking lot and ever since then there has been complaints by the pm workers of weird sounds and appearances of a girl walking the parking lot lat at night. - January 2007 Correction: it was a teenage boy that was shot by his friends in the parking lot. Not a young girl.
+location: Country Mart
+state: Missouri
+state_abbrev: MO
+longitude: -93.2290867
+latitude: 36.6118996
+city_longitude: -93.2154587
+city_latitude: 36.6211735
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

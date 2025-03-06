@@ -1,0 +1,21 @@
+city: Maywood
+country: United States
+description: It is said that late at night the lights in the school flash and that loud screeches can be heard.
+location: Lexington Elementary school
+state: Illinois
+state_abbrev: IL
+longitude: -87.8377999
+latitude: 41.8702972
+city_longitude: -87.8431155
+city_latitude: 41.8791979
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1989/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

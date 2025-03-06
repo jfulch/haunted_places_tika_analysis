@@ -1,0 +1,21 @@
+city: Lawton
+country: United States
+description: in the middle of the day in the girls restroom about 5-7 girls where in there, all of a sudden the lights went out... no one saw onyone turn them off. The switch went from up to down BY ITSELF
+location: an elementary school
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.4306214
+latitude: 34.5972093
+city_longitude: -98.3959291
+city_latitude: 34.6035669
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

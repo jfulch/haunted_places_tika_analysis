@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: 1 person got killed in a fire. He would be in a room and doors would closed, hear footsteps when he is the only one in there. Had radio on and turned off by it self. Desk fell over in the room while he was cleaning.
+location: Our Lady Of Sorrows School
+state: Missouri
+state_abbrev: MO
+longitude: -90.28316
+latitude: 38.577459
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1947/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

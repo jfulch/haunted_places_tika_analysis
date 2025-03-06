@@ -1,0 +1,21 @@
+city: Bloomington
+country: United States
+description: Rumors that Late at night in the Auditorium, Screams, footsteps can be heard. Also that Janitors would get pushed down stairs Unexpectedly. The story behind this is that a Drama Teacher working alone(supposedly) fell into the pit area and died(a mere 5 feet drop). Police said it was accidental. But her wrist's were broken, indicated she'd been pushed. The Auditorium is now dedicated to that Drama Teacher.
+location: Bloomington High School
+state: California
+state_abbrev: CA
+longitude: -117.4142615
+latitude: 34.0577791
+city_longitude: -117.3958797
+city_latitude: 34.07029
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2023/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

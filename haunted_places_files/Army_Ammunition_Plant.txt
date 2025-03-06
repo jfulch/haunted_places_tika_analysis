@@ -1,0 +1,21 @@
+city: Parsons
+country: United States
+description: An explosion in the late 1980s killed two workers, a man and a woman, and closed the plant for more than two years. When work resumed in 1990, just in time for the Persian Gulf War, part of the building was closed. To prevent sympathetic detonation in case of an accident, work areas were located several hundred yards apart, connected by ramshackle, unpainted, wasp-infested wooden ramps. Inspectors, supervisors and parts managers rode old-fashioned bicycles with wire handlebar baskets between areas. They used thumb-operated bicycle bells to alert other bikers and "pedestrians" before crossing an intersection or entering an adjoining hallway. As production of the cluster bombs continued -- with 202 bombs tucked inside each one -- rumors spread that the workers killed by a single exploding bomblet was haunting the closed area of the plant. Only two of the employees who survived the explosion returned to the plant, but they each began to have nightmares about their former co-worker; one was being chased through the dark, wooden ramps by the woman, whose face was destroyed in the blast by flying shrapnel. The other survivor was plagued by visions of a male co-worker being vaporized from the waist up by the explosion, his legs, shielded by the thick steel work table, beginning to turn and run without its upper body. In the dreams, they kept running. Finally, one night two inspectors and a parts manager decided to explore the closed ramp. There were no lights in the area, and the workers hadn't thought to bring a flashlight. Still, they crept ahead into the dark. About 100 feet or so up the hall, the air cooled noticeably. The men walked a few feet further until, from around a bend ahead of them, they heard it: a metallic ringing. A bicycle bell rang twice in the pitch black, abandoned hall. Brrrng, brrrng! Then, after a pause, twice more: Brrrng, brrrng! The men, already nervous because of the dark and cold, fled back down the ramp to the light. After catching their breath, they agreed they had heard a bicycle bell, precisely the type bell used by the company's supervisors, inspectors, etc. for transportation in the labyrinthine plant. They agreed that the sound had come from ahead of them, not behind, and they agreed it wasn't likely anyone could have been in the ramp ahead of them with a bicycle.
+location: Army Ammunition Plant
+state: Kansas
+state_abbrev: KS
+longitude: -95.1842132
+latitude: 37.2844919
+city_longitude: -95.2610838
+city_latitude: 37.34033840000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Pierce
+country: United States
+description: sounds of footsteps following you, but when you turn around there is no one there, doors opening and closing on their own, then sometimes you'll hear a baby crying and see different shadows.
+location: Pierce Elementary
+state: Colorado
+state_abbrev: CO
+longitude: -104.7558755
+latitude: 40.6390554
+city_longitude: -104.7552458
+city_latitude: 40.63553599999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

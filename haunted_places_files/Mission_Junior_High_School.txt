@@ -1,0 +1,21 @@
+city: Mission
+country: United States
+description: Science Building East Stairwell- formerly Mission High School At night, you can just make out the shadow of a man walking up and down the stairs ( supposedly a teacher who fell down the stairs when he was leaving one night after school.) During the daytime, that side of the building is colder than the other and lights and other electronics do have trouble.
+location: Mission Junior High School
+state: Texas
+state_abbrev: TX
+longitude: -98.3215058
+latitude: 26.2199269
+city_longitude: -98.3252932
+city_latitude: 26.2159066
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1911/03/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

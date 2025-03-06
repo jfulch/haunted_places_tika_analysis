@@ -1,0 +1,18 @@
+city: Columbia
+country: United States
+description: Dolly Field - no one lives up there and if you go up there at night this man name Larry that use to live up there in a old house but died some years back will come after you with his tractor some people have been chase by this man.
+state: North Carolina
+state_abbrev: NC
+city_longitude: -76.25215210000002
+city_latitude: 35.9176632
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

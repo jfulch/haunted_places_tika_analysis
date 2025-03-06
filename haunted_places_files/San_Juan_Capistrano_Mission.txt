@@ -1,0 +1,21 @@
+city: San Juan Capistrano
+country: United States
+description: Reports of an Indian girl seen by some at her memorial. Also spotted shadows of people and heard children crying in the cemetery where a surprisingly large number of people were buried in a surprisingly small space.
+location: San Juan Capistrano Mission
+state: California
+state_abbrev: CA
+longitude: -117.6625408
+latitude: 33.5020224
+city_longitude: -117.6627655
+city_latitude: 33.5019027
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

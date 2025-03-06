@@ -1,0 +1,21 @@
+city: Hutchins
+country: United States
+description: People have reported that the purple mist has approached them while they were out on the lake at night. The phantom approaches from the north side of the lake and disappears a few feet from boaters.
+location: Lancaster Country Club Lake
+state: Texas
+state_abbrev: TX
+longitude: -96.6751725
+latitude: 32.6431729
+city_longitude: -96.7130521
+city_latitude: 32.6492999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Woodruff
+country: United States
+description: This is a haunted bridge which many account, cannot be crossed on the stroke of midnight. Those who have tried to do so have broken down, screaming and crying uncontrollably. The bridge is near the price house and it is passable only by foot.
+location: Seven Devils Bridge
+state: South Carolina
+state_abbrev: SC
+city_longitude: -82.0370466
+city_latitude: 34.7395701
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Old Westbury
+country: United States
+description: Many of the old buildings on campus are said to be haunted. Cleaning crews refuse to work in the art center after a ghostly woman was reported sighted there.
+location: The New York Institute of Technology
+state: New York
+state_abbrev: NY
+longitude: -73.605301
+latitude: 40.81141969999999
+city_longitude: -73.5995717
+city_latitude: 40.7887113
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

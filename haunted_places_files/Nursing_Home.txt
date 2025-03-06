@@ -1,0 +1,20 @@
+city: Aurora
+country: United States
+description: An elder man and woman, who never seem to converse, have been seen from the hallways just as they enter rooms--but never located! The kitchen area has poltergeist activity: heavy coffee container thrown to the floor when no one was near it, stove burners turn on by themselves. Most chilling was when a small juice glass-the old green type that used to come in oatmeal boxes-appeared in midair, hovered, and then crashed to the floor. The shards were real, but no such glasses were in the kitchen! These events have been witnessed by more than one person at the time and never explained!
+location: Nursing Home
+state: Missouri
+state_abbrev: MO
+longitude: -93.70894
+latitude: 36.957206
+city_longitude: -93.717979
+city_latitude: 36.970891
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

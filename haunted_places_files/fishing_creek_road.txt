@@ -1,0 +1,21 @@
+city: Somerset
+country: United States
+description: two car links past the last turnoff on left of road the road starts at a down hill grade when passing through at reported time of 11:30pm at recorded speed of 15mph's looking through rear view mirror a figure of a ghostly man will appear in back seat of your vehicle and will ride down to the end of the road of fishing creek park and will remain in the vehicle until returning him back to the curve where first sited.
+location: fishing creek road
+state: Kentucky
+state_abbrev: KY
+longitude: -84.70519449999999
+latitude: 36.9910889
+city_longitude: -84.6041084
+city_latitude: 37.0920222
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

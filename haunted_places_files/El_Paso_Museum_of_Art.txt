@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: It was located on Montana Street, but now they moved it to the Downtown area of El Paso. Old woman was sited on various times looking at you from a window on the top floors. Lights would flicker on and off. Doors would open and shut. Moaning sounds were heard coming from the basement.
+location: El Paso Museum of Art
+state: Texas
+state_abbrev: TX
+longitude: -106.4902692
+latitude: 31.7585876
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1803/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

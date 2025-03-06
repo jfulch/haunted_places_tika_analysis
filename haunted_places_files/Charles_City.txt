@@ -1,0 +1,21 @@
+city: Floyd
+country: United States
+description: Ioron Hill - Back on the new walking trail is the site where a train wreck happened. Reports of apparitions & people calling out your name.
+location: Charles City
+state: Iowa
+state_abbrev: IA
+longitude: -92.6724112
+latitude: 43.0663612
+city_longitude: -92.7363031
+city_latitude: 43.1277502
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

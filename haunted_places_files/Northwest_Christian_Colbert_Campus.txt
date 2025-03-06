@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: many mysterious occurring. Some say it is the ghost of old Mr. Altmeyer telling them to leave.
+location: Northwest Christian Colbert Campus
+state: Washington
+state_abbrev: WA
+longitude: -117.3352443
+latitude: 47.8264592
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

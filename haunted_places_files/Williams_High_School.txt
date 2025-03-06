@@ -1,0 +1,21 @@
+city: Burlington
+country: United States
+description: It is said that a girl was stood up on prom night, and she got to the top of the school and jumped. When you drive down the road between the football field and the back of the school, the top sign at the end of the street bleeds.
+location: Williams High School
+state: North Carolina
+state_abbrev: NC
+longitude: -79.4543032
+latitude: 36.0888363
+city_longitude: -79.43779909999999
+city_latitude: 36.0956918
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1968/08/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

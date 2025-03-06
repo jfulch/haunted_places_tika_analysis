@@ -1,0 +1,20 @@
+city: Higginsville
+country: United States
+description: There is the confederate park is across the street it is a state park and has many graves of confederate and union soldiers and you may check it out because it is rumored to be haunted as well.
+location: Confederate Park
+state: Missouri
+state_abbrev: MO
+longitude: -93.7244696
+latitude: 39.0963678
+city_longitude: -93.7171621
+city_latitude: 39.0725121
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 0

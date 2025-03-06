@@ -1,0 +1,21 @@
+city: Wabash
+country: United States
+description: Bloodcurdling screams heard at night sometimes, was a murder in the gym, some say that the school received letters from an unknown person telling them to move the school, they didn't then the school mysteriously burnt down.
+location: Miami school
+state: Indiana
+state_abbrev: IN
+longitude: -85.849598
+latitude: 40.828275
+city_longitude: -85.8205411
+city_latitude: 40.797821
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Dogtown
+country: United States
+description: To get to this cemetery, you have to take dirt roads about a mile back in a field. The cemetery is surrounded by forest. Once in the cemetery, different creepy sounds can be heard. Some figures have also been viewed here.
+location: Pleasant Grove Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -89.286217
+latitude: 37.733613
+city_longitude: -89.1103569
+city_latitude: 40.7632936
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

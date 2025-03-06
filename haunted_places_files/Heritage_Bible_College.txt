@@ -1,0 +1,21 @@
+city: Huntsville
+country: United States
+description: WHBC Frat House - Late at night, you can hear the ghost of former youth minister Anthony Stephens walking through the house, flushing the toilet. His now deceased brethren Robert Ekisbus and Adam Cooper follow him around making noises that almost sounds like the word, "cheese".
+location: Heritage Bible College
+state: Alabama
+state_abbrev: AL
+longitude: -86.56988229999999
+latitude: 34.6754025
+city_longitude: -86.5861037
+city_latitude: 34.7303688
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1975/10/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

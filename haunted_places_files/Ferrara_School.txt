@@ -1,0 +1,20 @@
+city: East Haven
+country: United States
+description: In the middle of the night you can see shadowy figures and hear strange noises. In the woods there you can hear scrabbling noises, like someone running though the bushes watching you or trying to catch you. Often also, you can hear like a screaming in the woods or possible crying.
+location: Ferrara School
+state: Connecticut
+state_abbrev: CT
+longitude: -72.85394389999999
+latitude: 41.334704
+city_longitude: -72.8684565
+city_latitude: 41.2841687
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

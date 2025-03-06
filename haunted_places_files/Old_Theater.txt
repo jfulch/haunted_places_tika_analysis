@@ -1,0 +1,21 @@
+city: Covington
+country: United States
+description: The old theatre (and church) on Maine Strasse in Covington is frequented with glimpses of spectral figures in the corner of the eyes or in reflections, footsteps, light switches turn themselves on, and occasionally a loud noise as of something heavy being dropped to the ground and dragged across the floor on the ground level.
+location: Old Theater
+state: Kentucky
+state_abbrev: KY
+longitude: -84.50951380000001
+latitude: 39.0827166
+city_longitude: -84.5085536
+city_latitude: 39.0836712
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

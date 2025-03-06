@@ -1,0 +1,19 @@
+city: Henryton
+country: United States
+description: Henryton Sanitarium is located on Henryton Road near Patapsco State Park. (Zip Code 21784) This huge facility closed in 1985 and has been abandoned ever since. Originally opened in 1920. First the facility treated tuberculosis patients then treated mentally retarded children. Many people have visited this place. You must park down the rail road tracks and walk up behind it. Never enter the front gate. It is to dangerous. Witnesses saw shadows in an old theatre inside the hospital, a women’s dress hanging at the end of one of the long hallways. When they went back, it was gone. There are hundreds of rooms and doors. Outside of one of the buildings on a hill, they saw a rocking chair on a porch (above) still rocking as if the patients were still there. As with all the other closed Maryland Hospitals, It's as if all history of the place was wiped off the map.
+location: Henryton Sanitarium
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.9133105
+city_latitude: 39.3512158
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

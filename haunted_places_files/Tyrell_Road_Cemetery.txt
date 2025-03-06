@@ -1,0 +1,21 @@
+city: Gilberts
+country: United States
+description: This cemetery, with headstones dating back to the late seventeen hundreds, has been the site of many strange happenings. This old Irish farmhouse and barn has been the scene of many ghostly sites. From green orbs to a ghostly male figure holding lanterns and swinging them up and down as he walks.
+location: Tyrell Road Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.35966549999999
+latitude: 42.0885728
+city_longitude: -88.3728605
+city_latitude: 42.1033585
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Mobile
+country: United States
+description: The apparition of a woman can be seen hanging on a cross.
+location: Seven Hills Cemetery
+state: Alabama
+state_abbrev: AL
+longitude: -88.2535608
+latitude: 30.6737238
+city_longitude: -88.0398912
+city_latitude: 30.6953657
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

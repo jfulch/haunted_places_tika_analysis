@@ -1,0 +1,21 @@
+city: La Luz
+country: United States
+description: Though it is unsure what haunts the water treatment plant. There is no denying that it is in fact haunted. As you walk in one flashlight will light up the entire room as it reflects off of the water and the crystals. It provides you with an eerie feeling right from the start. As you walk around you will notice cold spots and hot spots. Though not particularly the most desirable place to spend eternity, it would seem that many apparitions could be seen there.
+location: Water Treatment Plant
+state: New Mexico
+state_abbrev: NM
+longitude: -105.9570016
+latitude: 32.9745672
+city_longitude: -105.9419335
+city_latitude: 32.9778651
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

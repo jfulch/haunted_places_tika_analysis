@@ -1,0 +1,19 @@
+city: Medway
+country: United States
+description: This site used to be home to a camp for children. A young boy was said to have drowned in the pool. Sometimes you can still hear his cries for help.
+location: Holy Lands
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.3967256
+city_latitude: 42.1417641
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

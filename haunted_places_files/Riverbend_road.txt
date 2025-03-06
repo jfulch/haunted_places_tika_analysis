@@ -1,0 +1,20 @@
+city: Catfish
+country: United States
+description: N.C. HWY 16.- There is an old Indian burial ground If you go down the road about 3 miles and turn off in the field you will find an old dirt road with a chain blocking the drive. People say they see lights down there and that weird things happen to their vehicles when the lights come near.
+location: Riverbend road
+state: South Carolina
+state_abbrev: SC
+longitude: -84.41933159999999
+latitude: 32.8380944
+city_longitude: -80.2137063
+city_latitude: 33.5425608
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

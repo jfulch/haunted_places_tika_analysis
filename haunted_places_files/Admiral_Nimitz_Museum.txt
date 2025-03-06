@@ -1,0 +1,21 @@
+city: Fredericksburg
+country: United States
+description: Some employees have heard footsteps late at night. They say you can see shadows of men walking through out. Lights will suddenly go on/off and no one else was in the building.
+location: Admiral Nimitz Museum
+state: Texas
+state_abbrev: TX
+longitude: -98.8676849
+latitude: 30.2731041
+city_longitude: -98.8719843
+city_latitude: 30.2752011
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

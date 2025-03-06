@@ -1,0 +1,21 @@
+city: Bensalem
+country: United States
+description: formerly Eastern State School and Hospital - Rumored to be haunted due to unfair treatment and killing of patients. If you go into patients rooms the doors will slam shut and trap you in. When you walk down the halls you can sometimes see a figure fallowing you of a man. Mysterious 4th floor said to be life threatening and extremely haunted. If you go into the morgue its very cold and feels like theres a fan on you with no windows in site.
+location: Strayer College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.96305
+latitude: 40.1394005
+city_longitude: -74.9325683
+city_latitude: 40.09944249999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1906/03/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Manchester
+country: United States
+description: Reports of cold spots, noises, doors locking, & lockers open and shut.
+location: John F Kennedy Catholic High School
+state: Missouri
+state_abbrev: MO
+longitude: -90.5076027
+latitude: 38.6014528
+city_longitude: -90.5092882
+city_latitude: 38.5969977
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

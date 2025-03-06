@@ -1,0 +1,21 @@
+city: Dardanelle
+country: United States
+description: Footsteps are seen on the ceiling, strange shadows are seen walking through the back of the gym and cafeteria, and screaming is heard from behind the curtain on the stage.
+location: Dardanelle High School
+state: Arkansas
+state_abbrev: AR
+longitude: -93.1571745
+latitude: 35.2074294
+city_longitude: -93.1579532
+city_latitude: 35.2231408
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

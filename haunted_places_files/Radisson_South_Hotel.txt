@@ -1,0 +1,20 @@
+city: Bloomington
+country: United States
+description: Footsteps are heard and the feeling they are coming toward you.
+location: Radisson South Hotel
+state: Minnesota
+state_abbrev: MN
+longitude: -93.2416307
+latitude: 44.8528219
+city_longitude: -93.2982799
+city_latitude: 44.840798
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 0

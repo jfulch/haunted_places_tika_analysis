@@ -1,0 +1,21 @@
+city: Texas City
+country: United States
+description: All the employees of this theatre are scared to death to go into one of the auditoriums alone. Most workers have had some kind of an encounter with the ghost that haunts this particular auditorium. It makes some people feel freezing. Others became very hot. One employee said that every time she went in it, her knees would become very weak...but when she left the room, she was fine. Some employees have even seen this spirit.
+location: Cinemark Movies 12
+state: Texas
+state_abbrev: TX
+longitude: -95.0254002
+latitude: 29.4070864
+city_longitude: -94.9027002
+city_latitude: 29.383845
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Hilton Head Island
+country: United States
+description: The ghost of a young girl named Caroline (commonly known as The Blue Lady) haunts this lighthouse where she died during the hurricane of 1898. The Blue Lady is most reported during the hurricane seasons. People say they 've gone or rode by the Old Lighthouse and would hear a women sobbing.
+location: The Old Lighthouse
+state: South Carolina
+state_abbrev: SC
+longitude: -80.81250779999999
+latitude: 32.1386659
+city_longitude: -80.752608
+city_latitude: 32.216316
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1946/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

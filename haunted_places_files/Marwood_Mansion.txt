@@ -1,0 +1,19 @@
+city: Potomac
+country: United States
+description: there have been strange occurrences of things like the bathroom window being raised, the toilet flushing and steam coming from the bathtub. There are also strange sounds that come from the basement. Whenever storage is put in the basement, in the morning it is ruined and ransacked. This was the house of the late relatives of the Gore family. The marble in the house always cracks, and then the cracks disappear the next day but return later. The butler has been seen walking down the steps and around the property.
+location: Marwood Mansion
+state: Maryland
+state_abbrev: MD
+city_longitude: -77.2085914
+city_latitude: 39.0181651
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Chilhowie
+country: United States
+description: This school is buried on an Indian burial ground from Many years ago!!! There are Indians that appear and walk the halls mostly late at night! There is one that likes to appear in the gym very often!
+location: CHS Hauntings
+state: Virginia
+state_abbrev: VA
+city_longitude: -81.6823411
+city_latitude: 36.7984482
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Iaeger
+country: United States
+description: There are several hauntings and ghosts in this hollow. One, in particular, is the strange appearance of an extremely large "doglike" creature that many of the hunters and ATV riders in the area have seen. Chickens, cats, and other dogs always turn up missing from their homes. Some say that they have seen the creature more than once and have also seen the creature stand up on two legs and run off into the woods. Some hunters say that they have been stalked by the creature while hunting. One lady explained that she noticed the creature outside her mobile home. Once the creature noticed her looking, it made its way to the window. The lady quickly ran through the home locking doors and turning off lights. She said that the "thing" banged and scratched on her home all night.
+location: Sandy Huff Hollow Road
+state: West Virginia
+state_abbrev: WV
+city_longitude: -81.813726
+city_latitude: 37.4645557
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

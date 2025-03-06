@@ -1,0 +1,21 @@
+city: Spanaway
+country: United States
+description: Lights flicker and alarms go off when no ones around.
+location: Spanaway Jr. High School
+state: Washington
+state_abbrev: WA
+longitude: -122.4277165
+latitude: 47.1150727
+city_longitude: -122.4345661
+city_latitude: 47.103988
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

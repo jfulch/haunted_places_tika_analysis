@@ -1,0 +1,21 @@
+city: Orono
+country: United States
+description: Beta Theta Pi House - The downstairs "house advisor suite" at the Beta Theta Pi House on the campus is said to be occupied by an old disgruntled brother of the fraternity. No one is sure what his name was but those who have seen him say he looks ghastly. In addition, the 3rd floor (attic) has a separate room reserved for housemothers over the years, and believed to be haunted by one of its last residents, Evelyn. She opens the door after it has been locked and bolted. She can be heard walking in the attic and along the back stairs to the kitchen. She flicks the lights off and on in the guest bathroom, and tends to leave brothers alone unless they are misbehaving.
+location: University of Maine
+state: Maine
+state_abbrev: ME
+longitude: -68.6666508
+latitude: 44.9012197
+city_longitude: -68.6719411
+city_latitude: 44.8831125
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1839/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

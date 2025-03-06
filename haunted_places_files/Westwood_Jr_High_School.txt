@@ -1,0 +1,20 @@
+city: Elyria
+country: United States
+description: Night shift custodians have claimed to see a tall figure of a well dressed black man wandering the halls in the building. They have also heard locker doors slamming shut, voices of children, chairs being pushed off the tables, weird knocking sounds and the feeling of being watched. Strangely enough on rare occasions money was found in places after they were cleaned. The highest places of activities are in the learning center(library), locker rooms and the auditorium.
+location: Westwood Jr. High School
+state: Ohio
+state_abbrev: OH
+longitude: -82.14093369999999
+latitude: 41.3956277
+city_longitude: -82.10764859999999
+city_latitude: 41.3683798
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

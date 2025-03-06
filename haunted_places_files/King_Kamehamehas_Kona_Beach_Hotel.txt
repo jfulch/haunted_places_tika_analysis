@@ -1,0 +1,21 @@
+city: Kailua Kona (Big Island)
+country: United States
+description: Legend says that the top floor of this hotel is haunted. People have reported hearing footsteps, chanting, and battle cries along the corridors. Some witnesses even claim seeing ancient Hawaiian warrior apparitions. The reason for this haunting seems lie in the fact that this is where King Kamehameha lived out the end of his life. His bones are buried somewhere near or under this hotel. The exact location is a secret and only known only by his descendants. On the bottom floor of the hotel, there are a row of oil paintings of past Kings and Queens of Hawaii, the last picture at the end of the hallway is a rendering of Queen Liliuokalani. The unsmiling picture appears to breathe in and out while glaring at you.
+location: King Kamehameha's Kona Beach Hotel
+state: Hawaii
+state_abbrev: HI
+longitude: -155.9973554
+latitude: 19.6408109
+city_longitude: -155.9969261
+city_latitude: 19.639994
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

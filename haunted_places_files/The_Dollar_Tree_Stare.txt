@@ -1,0 +1,21 @@
+city: Hermiston
+country: United States
+description: there a few different ghost the plays with the toys and talk. A worker took her digital camera and took some pictures and they claim it showed faces of like five different ghosts.
+location: The Dollar Tree Stare
+state: Oregon
+state_abbrev: OR
+longitude: -119.288253
+latitude: 45.833307
+city_longitude: -119.2894604
+city_latitude: 45.8404101
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

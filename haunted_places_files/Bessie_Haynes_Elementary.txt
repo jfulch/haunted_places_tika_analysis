@@ -1,0 +1,21 @@
+city: Pecos
+country: United States
+description: It is said to be hauntings about a builder that was on the school roof when she fell threw and died. So They named the school after her. many people have seen her wondering the halls, and heard her in the girls restroom. Also many lights have gone on and off. the haunting is mainly in the girls restroom.
+location: Bessie Haynes Elementary
+state: Texas
+state_abbrev: TX
+longitude: -103.4851161
+latitude: 31.4207013
+city_longitude: -103.4932293
+city_latitude: 31.4229124
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1745/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

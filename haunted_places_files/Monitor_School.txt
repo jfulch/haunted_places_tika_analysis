@@ -1,0 +1,20 @@
+city: Coal Grove
+country: United States
+description: The school closed about 10 years ago, and to this day, the lights flicker on and off.
+location: Monitor School
+state: Ohio
+state_abbrev: OH
+longitude: -82.6457167
+latitude: 38.4956365
+city_longitude: -82.6471057
+city_latitude: 38.5034142
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

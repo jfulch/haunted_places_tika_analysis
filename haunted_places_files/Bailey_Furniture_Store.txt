@@ -1,0 +1,21 @@
+city: Soldotna
+country: United States
+description: The furniture store used to be a grocery store, and the owner of that store was murdered. The killer was never found. It's said that the man still haunts the place, and sometimes furniture breaks for no reason. Also, there are unusual sounds heard from the back office.
+location: Bailey Furniture Store
+state: Alaska
+state_abbrev: AK
+longitude: -151.0699785
+latitude: 60.4969898
+city_longitude: -151.0583332
+city_latitude: 60.4877778
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 10h 52m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,18 @@
+city: Bowling Green Area
+country: United States
+description: The Holcomb Woods are located on Holcomb Road, just off of 199 near Bowling Green. As the legend goes, a bus full of children was traveling down Holcomb Road when the driver grew incredibly angry and steered the bus into the woods, taking out a bunch of small trees and coming to rest at a large one. The driver was killed on impact. It is on this tree that the driver's face is seen. The bus burst into flames, killing all onboard. If you take Holcomb Road from 199 just past the edge of the woods, you'll need to turn your vehicle to face 199. Shortly after you turn off your headlights, radio stations will scramble and cell phones will lose signals. A single headlight will come straight at you and suddenly disappear when it reaches the tree.
+location: Holcomb Woods
+state: Ohio
+state_abbrev: OH
+city_longitude: -83.64994250000001
+city_latitude: 41.3864155
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/09/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

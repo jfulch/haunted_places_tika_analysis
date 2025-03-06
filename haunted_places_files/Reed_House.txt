@@ -1,0 +1,21 @@
+city: Asheville
+country: United States
+description: the sounds of pool being played can be heard.
+location: Reed House
+state: North Carolina
+state_abbrev: NC
+longitude: -82.5394027
+latitude: 35.5642357
+city_longitude: -82.5514869
+city_latitude: 35.5950581
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1630/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Pine Bluff
+country: United States
+description: Old Widow Hudson can be seen walking around as a ghostly apparition at night in the cemetery. It is said that started haunting the place after she killed her family and then committed suicide.
+location: Hudson Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -92.1958657
+latitude: 34.0735609
+city_longitude: -92.0031955
+city_latitude: 34.2284312
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1939/03/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

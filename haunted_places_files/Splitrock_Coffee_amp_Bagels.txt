@@ -1,0 +1,20 @@
+city: Riverton
+country: United States
+description: The customer bell rings when there is no one there. Heavy footsteps and doors closing heard.
+location: Splitrock Coffee &amp; Bagels
+state: Wyoming
+state_abbrev: WY
+longitude: -114.3120669
+latitude: 48.1967621
+city_longitude: -108.3801036
+city_latitude: 43.0249592
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

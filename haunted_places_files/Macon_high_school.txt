@@ -1,0 +1,20 @@
+city: Macon
+country: United States
+description: a woman was murdered by a janitor back in the 80's and ever since than there have been sightings of her roaming the hallways late at night saying. You have the wrong man. The janitor who confessed may be innocent.
+location: Macon high school
+state: Missouri
+state_abbrev: MO
+longitude: -92.4639583
+latitude: 39.7460843
+city_longitude: -92.4726859
+city_latitude: 39.74225610000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

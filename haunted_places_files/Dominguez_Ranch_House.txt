@@ -1,0 +1,21 @@
+city: Carson
+country: United States
+description: The Rancho Dominguez Adobe Ranch House is now a museum. This house was one time used as a stop over for people coming to the San Pedro seaport to Los Angeles back in the late 1800's. The site of the house is also know as "the battle of Rancho Dominguez" of the Mexican-American War back in the 1840's. Rumor has is that you can see "orbs" or flashes of small lights moving very quickly around the park site late at night where the house sits. Also rumor has it that a man was beaten and robbed and left to die just about 100 yards from where this historical and supposedly "haunted" site is located. The ghost of the man is rumored to be a "guest" that stayed at the house when it was used as a stop over for travelers.
+location: Dominguez Ranch House
+state: California
+state_abbrev: CA
+longitude: -118.2174783
+latitude: 33.8670619
+city_longitude: -118.281693
+city_latitude: 33.8316745
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1826/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

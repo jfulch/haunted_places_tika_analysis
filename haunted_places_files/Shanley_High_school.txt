@@ -1,0 +1,21 @@
+city: Fargo
+country: United States
+description: This building was built in 1951 as the parochial high school. There were a few strange happenings. A teacher was working late one night when she heard footsteps in the hall she looked out and saw no one. In the gymnasium an electrician was working on an air-conditioning unit that was located under the bleachers when he happened to look up and he saw a hooded figure float from one wall to another through a solid brick wall on both sides. A young lady was working at night cleaning on the third floor for two nights. And for two nights she saw a girl come out of a closed door in the hall and go right through a picture of Mary on the opposite side. For some reason all of the ghost activity has been seen around the theatre. Soon Shanley high will be torn down in November and turned into apartments.
+location: Shanley High school
+state: North Dakota
+state_abbrev: ND
+longitude: -96.8174722
+latitude: 46.79842550000001
+city_longitude: -96.7898034
+city_latitude: 46.8771863
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1951/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

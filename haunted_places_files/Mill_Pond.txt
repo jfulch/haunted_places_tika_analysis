@@ -1,0 +1,21 @@
+city: Mount Pleasant
+country: United States
+description: is a park in the north west area of town, which is well-known to be the site of weird occurrences. there have been reports of seeing dark, voiceless apparitions with red, dimly glowing eyes.
+location: Mill Pond
+state: Michigan
+state_abbrev: MI
+longitude: -84.78974459999999
+latitude: 43.599784
+city_longitude: -84.7675139
+city_latitude: 43.59780749999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

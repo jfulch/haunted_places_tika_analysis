@@ -1,0 +1,21 @@
+city: Crawford
+country: United States
+description: Swing Inn - The ghost of a prostitute known as "Blue Moon" haunts this bar and can be heard walking up and down the stairs on nights when business is slow.
+location: Ferryville
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.1020738
+latitude: 43.3505324
+city_longitude: -90.8294002
+city_latitude: 43.2491547
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 23m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

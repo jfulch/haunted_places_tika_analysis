@@ -1,0 +1,21 @@
+city: Oatman
+country: United States
+description: Room 15 - Many guests and staff testify that it is not uncommon to hear whispering and laughter coming from this empty room. There is also a Theatre Room Museum on the second floor, where dust on the beds reveals the outlines of sleeping guests, leaving adjacent areas intact and undisturbed. A former chambermaid's ghost has also been sighted.
+location: Oatman Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -114.3834508
+latitude: 35.0263985
+city_longitude: -114.3835698
+city_latitude: 35.0263915
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

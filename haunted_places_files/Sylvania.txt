@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: Gibbs Bridge - Revving of motorcycle; yelling. Apparently, in the seventies, a male high school student drove his motorcycle home from school after football practice. A couple bullies were hiding on each side of the bridge with a fish line going across. The bullies had secured the line to trees. As the motorcycle student rode over the bridge he was decapitated. To this day, if one parks there car on the bridge at midnight, put the car keys on the roof of the car, and flash the headlights three times you'll hear a motorcycle and yelling.(The yelling is garbled.) The legend has been known as "Xanadu."
+location: Sylvania
+state: Ohio
+state_abbrev: OH
+longitude: -83.7128575
+latitude: 41.6893596
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2011/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 0

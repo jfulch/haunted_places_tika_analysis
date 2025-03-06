@@ -1,0 +1,20 @@
+city: Craig
+country: United States
+description: In 1948 a man fell to his death out of the art room and on to the stage. In the art room the door swings open even when there is no draft.
+location: Craig middle school/old high school
+state: Colorado
+state_abbrev: CO
+longitude: -107.546421
+latitude: 40.5218
+city_longitude: -107.5464541
+city_latitude: 40.5152491
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1948/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

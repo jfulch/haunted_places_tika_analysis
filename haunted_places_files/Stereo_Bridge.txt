@@ -1,0 +1,19 @@
+city: Valparaiso
+country: United States
+description: well long time ago two trains on the same track had collided under the bridge so at night on the certin day you’re on the bridge you can hear a train blow its steam and one other train on the opposite side are coming at the same time to collide under the bridge and during the day u can see that the track looks the exactly the same from the left side and the right side like a circle .
+location: Stereo Bridge
+state: Indiana
+state_abbrev: IN
+city_longitude: -87.0611412
+city_latitude: 41.4730948
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 1

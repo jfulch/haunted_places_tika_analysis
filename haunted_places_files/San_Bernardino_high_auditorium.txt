@@ -1,0 +1,21 @@
+city: San Bernardino
+country: United States
+description: Doors close, lights go on by themselves. Stories heard by teachers that use to be students from the school have seen weird figures in the Auditorium. It was heard that one of the students were fixing the lights on the second floor balcony, they fell off it falling to the first fall dying. Cold spots have also been reported by students that head to the second floor balcony.
+location: San Bernardino high auditorium
+state: California
+state_abbrev: CA
+longitude: -117.2956395
+latitude: 34.1313935
+city_longitude: -117.2897652
+city_latitude: 34.1083449
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

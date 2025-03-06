@@ -1,0 +1,21 @@
+city: Blountville
+country: United States
+description: A ghost called "George" haunts this building.
+location: Sullivan County News
+state: Tennessee
+state_abbrev: TN
+longitude: -82.56635229999999
+latitude: 36.5617974
+city_longitude: -82.32680599999999
+city_latitude: 36.5331586
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

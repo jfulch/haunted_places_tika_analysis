@@ -1,0 +1,21 @@
+city: McAlester
+country: United States
+description: This place is called "The 1896" by the locals. The building was built in 1896. There is an apartment above the bar and restaurant that has a history of 1 suicide, 1 murder/suicide and 1 death by disease. One or more of the spirits there has a fixation with dimes. You put a dime somewhere and the next day it is on the bar. One threw bottle caps at the bartender one night. One night "the lady" threw pans off the shelves. When we went back there it was a mess. But the odd thing was that there was a brick in the middle of the mess and nobody can figure out how it got in there. The outside patio is made of bricks but there are none inside. There have been two girls that have been locked in the bathroom. (The doors lock from the inside of course.) The doors had to be removed to get one of them out!
+location: Mary Jane’s 1896 bar &amp; Grille – AKA – 1896
+state: Oklahoma
+state_abbrev: OK
+longitude: -117.159969
+latitude: 32.707612
+city_longitude: -95.7697131
+city_latitude: 34.9334298
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1896/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: War
+witness_count: 0

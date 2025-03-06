@@ -1,0 +1,21 @@
+city: Venice
+country: United States
+description: There is said to be a ghost nun at St. Mark School. In the fourth grade class room there is said to be a ghost nun haunting the room. There was a nun that used to work for the school who taught fourth grade. She died and came back to haunt the school. There have been sightings of her, and at occasional times you would see the door slam by its self with no windows open. The windows in the class room would open by them selves too.
+location: St. Mark School
+state: California
+state_abbrev: CA
+longitude: -118.4520637
+latitude: 33.9914995
+city_longitude: -118.4694832
+city_latitude: 33.9850469
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

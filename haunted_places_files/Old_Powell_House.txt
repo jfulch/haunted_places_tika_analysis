@@ -1,0 +1,19 @@
+city: Geraldine
+country: United States
+description: The house was originally located on the opposite side of the road, but was moved in the 70's. The family who built the house would lock their children upstairs in the attic during the day. The children could be heard screaming for help. When the house was moved, pictures began to break, tables moved at random, and voices could be heard. It is said that the children haunt the house, as well as the parents.
+location: Old Powell House
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.00080779999999
+city_latitude: 34.3514798
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

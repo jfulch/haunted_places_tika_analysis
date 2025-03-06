@@ -1,0 +1,20 @@
+city: Beaufort
+country: United States
+description: The Castle - Legend states that the explorer Jean Ribaut brought with him a jester, a dwarf named Gauche. He's been sighted walking on the shadowy grounds of the house, and some say they've seen him inside while touring the historic home.
+location: Joseph Johnson House
+state: South Carolina
+state_abbrev: SC
+longitude: -80.66773119999999
+latitude: 32.4329644
+city_longitude: -80.6698286
+city_latitude: 32.4315813
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1947/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

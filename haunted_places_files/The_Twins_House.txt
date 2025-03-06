@@ -1,0 +1,19 @@
+city: Shelbyville
+country: United States
+description: A long time ago there were two teenage boys who had gone crazy after their mother was killed by their father. The two boys killed their father in cold blood. The house is still haunted by the two boys. The house is symmetric on both sides one for both twins to live on. On July 4th, 1940 the two stabbed each other to death. On July 4th it is said that you can hear the two boys screaming in pain from the fighting.
+location: The Twins House
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.7769238
+city_latitude: 39.5214373
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

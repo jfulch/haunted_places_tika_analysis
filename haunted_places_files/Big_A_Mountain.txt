@@ -1,0 +1,21 @@
+city: Honaker
+country: United States
+description: A helicopter crash left large chunks of metal from the aircraft and bones in the trees on big a mountain. Local people from the area were first on the scene and one man found a dying victim moaning but he was too late to save the person's life. He returned to the spot years later and said he could still hear the person moaning and felt a cold chill and the smell of death still fills the air around the area where the helicopter crashed
+location: Big A Mountain
+state: Virginia
+state_abbrev: VA
+longitude: -82.0514711
+latitude: 37.0231617
+city_longitude: -81.9742921
+city_latitude: 37.016222
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

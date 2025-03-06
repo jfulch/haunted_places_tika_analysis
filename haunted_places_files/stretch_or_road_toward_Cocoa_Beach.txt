@@ -1,0 +1,19 @@
+city: Narcossee
+country: United States
+description: Around mile marker 15 there is said to be the ghost of a teenage girl, who died in a head on car crash, on her way to the beach on prom night. Moving puddles of blood have been sighted on the road at night
+location: stretch or road toward Cocoa Beach
+state: Florida
+state_abbrev: FL
+city_longitude: -81.239167
+city_latitude: 28.298056
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

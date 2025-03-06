@@ -1,0 +1,21 @@
+city: Boone
+country: United States
+description: Kate Shelly was famous for saving a train from going off of the tracks on the bridge that is now known as the Kate Shelly high bridge. It is said that if you look up at the tracks (bridge) at night you can see a mysterious outline of a person and a dim light like a lantern running on the tracks. People around here say that it's Kate forever reliving the incident that saved a train and lots of people. - September 2004 CORRECTION: located west of the City of Boone, is not the bridge where Kate Shelley saved the passenger train. It was actually first structured in early 1900's and was named "The Boone Viaduct". It was renamed for Kate Shelley in the 1960's. The bridge has wonderful tales of "Specter" Steam Engines and ghostly "watchmen" that walk it. The original bridge that Kate Shelley crossed was demolished in the 1930's. Kate Shelley's ghost, accordingly, haunts the hamlet of Moingona, Iowa, South West of City of Boone, where the story took place.
+location: Kate Shelly High Bridge
+state: Iowa
+state_abbrev: IA
+longitude: -93.9693673
+latitude: 42.0593212
+city_longitude: -93.8802273
+city_latitude: 42.0597047
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1863/12/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

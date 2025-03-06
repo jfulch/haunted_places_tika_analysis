@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: Flamenco Unit - The unit was built in 1920, and was a division of the state hospital for years. It is now used to house inmates with mental health issues. Numerous patients and inmates have died in the facility over the years. Now at night you can hear keys rattle when no one is in the area, and doors open and close on their own. Also, a woman is seen in the female unit’s library. Very often extra inmates are counted, and when rechecked they are not there.
+location: Arizona State Prison Complex
+state: Arizona
+state_abbrev: AZ
+longitude: -112.0258737
+latitude: 33.4525898
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

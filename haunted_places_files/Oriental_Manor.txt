@@ -1,0 +1,21 @@
+city: Brooklyn
+country: United States
+description: Catering Hall - the place is haunted by two guys and a girl. At night you can hear walking (foot steps), and doors shutting. It's possible that they were killed there and brought down to the basement by the alleged mafia people who owned it years ago.
+location: Oriental Manor
+state: New York
+state_abbrev: NY
+longitude: -73.9670243
+latitude: 40.5802238
+city_longitude: -73.9441579
+city_latitude: 40.6781784
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

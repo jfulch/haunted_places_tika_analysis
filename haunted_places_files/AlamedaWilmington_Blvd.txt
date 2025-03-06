@@ -1,0 +1,21 @@
+city: Carson
+country: United States
+description: A Spirit of a man who is dressed in the style of the 1800's has been seen in the area of Alameda and Wilmington/Del Amo Blvd. It has been rumored that when the Dominguez Ranch house was used as a Stage Coach stop over after the Civil War, the man was beaten and killed on that area where those streets connect.
+location: Alameda/Wilmington Blvd.
+state: California
+state_abbrev: CA
+longitude: -118.2752002
+latitude: 33.7952127
+city_longitude: -118.281693
+city_latitude: 33.8316745
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1924/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

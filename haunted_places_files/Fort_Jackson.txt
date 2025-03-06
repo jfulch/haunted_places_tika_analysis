@@ -1,0 +1,20 @@
+city: Columbia
+country: United States
+description: Artillery range -  a female soldier with a hole in her helmet has been seen at the range. Apparently she killed herself in one of the Latrines.
+location: Fort Jackson
+state: South Carolina
+state_abbrev: SC
+longitude: -80.9128167
+latitude: 34.0155068
+city_longitude: -81.0348144
+city_latitude: 34.0007104
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1944/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Murder
+witness_count: 1

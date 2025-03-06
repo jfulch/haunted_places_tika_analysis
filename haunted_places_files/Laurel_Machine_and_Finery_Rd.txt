@@ -1,0 +1,20 @@
+city: Laurel
+country: United States
+description: When you go down this road at night you will see people run out in front of your car and if you look back they are just standing there. No one will go down that road on a full moon night the production plant on the road will not even work at night when its a full moon. Visions of seeing a girl drenched in blood and loud screams have been reported.
+location: Laurel Machine and Finery Rd.
+state: Mississippi
+state_abbrev: MS
+longitude: -89.1246917
+latitude: 31.6986204
+city_longitude: -89.1306124
+city_latitude: 31.6940509
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

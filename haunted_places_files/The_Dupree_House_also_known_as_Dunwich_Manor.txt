@@ -1,0 +1,19 @@
+city: Fort Covington
+country: United States
+description: This old Victorian mansion, once owned by occult writer Gerina Dunwich, is known by local residents to be haunted. In the early 20th century, a mentally disturbed woman was believed to have been locked away in one of the small attic rooms. She died there, leaving bloodied hand prints on the walls and ceiling. Several coats of primer and paint were necessary to cover the stains. The room contains a cold spot and several séances have been held there in an attempt to contact the restless spirit. Strange thumps have also been heard in the attic at night. Glowing lights have been seen moving through the cellar, and a ghostly presence has been felt by numerous people in the upstairs bedrooms. The carriage house (which is older than the main house and reputed to have underground tunnels leading to Canada) is also believed to be haunted. Strange moaning sounds have been heard at night coming from its second floor.
+location: The Dupree House (also known as Dunwich Manor)
+state: New York
+state_abbrev: NY
+city_longitude: -74.49651
+city_latitude: 44.988444
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

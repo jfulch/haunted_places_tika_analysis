@@ -1,0 +1,21 @@
+city: Middlefield
+country: United States
+description: Follow Skyline Trail until you reach the town offices. In back of the building is a small family plot. In the far left corner next to a large tree lays a single stone. On the stone reads "IT". There are no names, dates or other information on the stone. Across the street stands a large abandoned house, the presence of evil vibes are felt through out the entire area, as though you are being watched.
+location: Mack Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.2164614
+latitude: 42.5920368
+city_longitude: -73.01510110000001
+city_latitude: 42.3484207
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

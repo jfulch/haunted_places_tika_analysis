@@ -1,0 +1,21 @@
+city: Paterson
+country: United States
+description: Haunted house - There have been many sightings in this house. A lady in a white gown, and a young child. At night you can hear footsteps of unknown beings walking up and down the staircase. This phenomenon has been occurring for many years and it is unknown what spirits walk the halls of this house.
+location: Tenth Ave
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.1482261
+latitude: 40.9238718
+city_longitude: -74.17181099999999
+city_latitude: 40.9167654
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

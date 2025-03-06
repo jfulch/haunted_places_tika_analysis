@@ -1,0 +1,21 @@
+city: West Brownsville
+country: United States
+description: A maid that fell down the stairs of the castle tower is said to still haunt the castle. There are also several other reported sightings. They have extensive documentation and photos of orbs and such and will share them with you if you ask them.
+location: Nemacolin Castle
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.8836546
+latitude: 40.0225754
+city_longitude: -79.8906025
+city_latitude: 40.0242409
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

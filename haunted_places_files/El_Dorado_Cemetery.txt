@@ -1,0 +1,21 @@
+city: El Dorado
+country: United States
+description: After dark you can SEE orbs, ectoplasm, etc. There is a child's voice that is frequently heard. One report is of a teen couple who were just " trying to get scared." The young man looked in the rear view mirror of his car and saw a elderly man leaning on the car looking in. The young man sped off stopping later to find handprints drug across the trunk of his car
+location: El Dorado Cemetery
+state: California
+state_abbrev: CA
+longitude: -120.8277011
+latitude: 38.7289361
+city_longitude: -120.4357631
+city_latitude: 38.74263759999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

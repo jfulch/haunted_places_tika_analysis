@@ -1,0 +1,20 @@
+city: Houston
+country: United States
+description: Asbury Cemetery is located way back on a dirt road, down in a valley between some hills. It's a really pretty place, and I have been to more than one funeral there. But it's also a place where people like to park and stargaze. On several occasions, people have described a low voice talking, or an overwhelming, almost gut-wrenching feeling that something is watching them or something is after them. More than one serious accident has occurred from people driving from it at night as fast as they can. A witness involved in a wreck reports:  "A group of us were out there just hanging out when everyone in our group, which consisted of about 10 people, all stopped talking in mid-sentence and felt a horrible sense of dread. We ran to our vehicles and everyone flew from there. I'm a biologist with a minor in Physics; I don't believe in "ghosts". On top of that, my father is a minister, and I have strong convictions against ghosts. Naturally, I thought it was just a change in the wind, sudden drop in pressure, etc., so I went back one night with a girl I was dating and a friend. We were sitting in the car talking when I felt a horrible feeling that someone was right on me. At the same time the girl I was with began to scream and tell me to get out of here, start the car! We flew out of there at full speed and kept speeding down the narrow two-lane road that led to it. Even though we had left the area and were a half mile away, she continued to look out the back window and say that someone is coming, and our friend was saying "go, man, go! Don't slow down!" I felt it too, and turned to look out the back window to see what it was; I lost control on the dirt road and my car went down a steep hill into some trees. We were at the bottom of this hill and all any of us could do was yell excitedly in fear at what might be out there. To this day, neither I nor any of my many friends who used to go out there will even turn down the road that leads to it at night. Not from what I said, but because they were there and I have felt it, too. "
+location: Asbury Cemetery
+state: Mississippi
+state_abbrev: MS
+longitude: -88.9110725
+latitude: 33.9619325
+city_longitude: -88.99922670000001
+city_latitude: 33.8984461
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

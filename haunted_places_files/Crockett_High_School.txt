@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: The story is said that there is a little girl roaming the basement of the school cause it is said that she in search of her family. At night by the big gym when teachers work late that you can hear a little girl crying walking up and down the hall.
+location: Crockett High School
+state: Texas
+state_abbrev: TX
+longitude: -97.7966913
+latitude: 30.213196
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Eau Claire
+country: United States
+description: Frost Cemetery/Munchkin land -  There is an old church on the T of Brush Lake Rd. and Frost. It's surrounded by an old cemetery. The church and it's grounds are said to be haunted by a child who was killed inside of the church by the pastor. If you drive by there is also a head stone that glows green. You can here giggling from insides the cemetery late at night. And you will sometimes see figures hiding among the stone.
+location: Dowagiac
+state: Michigan
+state_abbrev: MI
+longitude: -86.2227997
+latitude: 41.9944999
+city_longitude: -86.29973869999999
+city_latitude: 41.9850452
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1984/02/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

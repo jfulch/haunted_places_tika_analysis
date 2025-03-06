@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: The Texas Rural Legal Aid building is about a block south of the Magnet School and is rumored to have been inhabited by monks at sometime. Workers have stated that they have seen a dark shadow walking around from room to room and stopping at one of the desks and pausing for along while, they say in the area where he pauses there used to be a bell which one of the monks would ring in order to announce things. At one point the staff left a tape recorder on overnight on a staircase to see if they could record strange noises and they recorded footsteps going up and down, an abrupt stop and someone screaming no just before what sounded like someone kicking the tape recorder down the stairs where it was found the next morning.
+location: The Texas Rural Legal Aid building
+state: Texas
+state_abbrev: TX
+longitude: -99.507695
+latitude: 27.514611
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

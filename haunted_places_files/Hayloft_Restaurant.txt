@@ -1,0 +1,19 @@
+city: Plymouth
+country: United States
+description: Has recently burned to the ground - This place was originally built in the 1800's. Up until 1970 the restaurant was a working barn. The ghost moves objects about the restaurant; sometimes knocking things over and sometimes making them disappear altogether. He also turns up every once in awhile, looking just like an old Indiana farmer. When he's around people report smelling some thing that smells like burning wood.
+location: Hayloft Restaurant
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.3097278
+city_latitude: 41.3436554
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

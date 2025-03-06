@@ -1,0 +1,20 @@
+city: Lusk
+country: United States
+description: The motel was a brothel during the latter part of the 19th century into the early 20th century.  Strange lights have been seen.  Voices and overall strange feelings overcome you in the building.
+location: The Yellow Motel
+state: Wyoming
+state_abbrev: WY
+longitude: -104.4516098
+latitude: 42.7587364
+city_longitude: -104.4521747
+city_latitude: 42.7624668
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

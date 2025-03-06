@@ -1,0 +1,21 @@
+city: Point Lookout
+country: United States
+description: a male ghost, dressed in Civil War attire guards the steps to the lighthouse. Pictures have recorded him leaning against the frame at the door. This spit of land was used as a union hospital and POW camp during the civil war. Several ghosts of soldiers have been reported here. Also, many people have seen the ghost of a sailor, perhaps lost at sea nearby.
+location: Point Lookout Lighthouse
+state: Maryland
+state_abbrev: MD
+longitude: -76.32207389999999
+latitude: 38.0387818
+city_longitude: -76.3374474
+city_latitude: 38.0609713
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

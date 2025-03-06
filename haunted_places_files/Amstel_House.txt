@@ -1,0 +1,19 @@
+city: New Castle
+country: United States
+description: haunted by unknown spirit that also haunts his son's house down the street.
+location: Amstel House
+state: Delaware
+state_abbrev: DE
+longitude: -75.56487779999999
+latitude: 39.6606389
+city_longitude: -75.5668166
+city_latitude: 39.6620397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

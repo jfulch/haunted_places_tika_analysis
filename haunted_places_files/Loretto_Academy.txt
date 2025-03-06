@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: At night the bell tower is illuminated. The bells do not ring anymore and haven't for years. Yet at night you can see the movement in the bell tower. Some say it is a colony of bats, or birds. But this shadow wears the same habit as the rest of the nuns teaching at Loretto. What this shadow represents is the spirit or energy of a much beloved sister who taught at this academy for many years and died of an illness, which kept her from continuing her duties at Loretto Academy. Her existence is well documented by the Concordia Cemetery Association, as well as her personal information and final resting place.
+location: Loretto Academy
+state: Texas
+state_abbrev: TX
+longitude: -106.434001
+latitude: 31.787071
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1856/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

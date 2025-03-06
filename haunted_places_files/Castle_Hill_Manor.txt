@@ -1,0 +1,21 @@
+city: Charlottesville
+country: United States
+description: Castle Hill Manor was built before the Revolutionary War in 1765, by a Dr. Thomas Walker. Many guests who have stayed at the manor have been aroused and really frightened in the middle of the night by uncanny noises or footsteps. Some guests over the years have seen a female and described her as a young pretty woman who is sometimes playful and whose main goal is to disturb the people that she doesn't like sleeping in her room. However other guests who she does like have slept in peace in her room. In the early 1800's a prince and princes lived in the house and had many festive parties. Guest are also woken by sounds of chairs moving across the floor, glasses clinking, and footsteps walking swiftly across the floor. Possibly the ghosts are reliving the parties they had hundreds of years ago.
+location: Castle Hill Manor
+state: Virginia
+state_abbrev: VA
+longitude: -78.2908675
+latitude: 38.0888535
+city_longitude: -78.47667810000002
+city_latitude: 38.0293059
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1765/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

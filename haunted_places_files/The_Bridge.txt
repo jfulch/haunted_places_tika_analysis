@@ -1,0 +1,19 @@
+city: Kahilli Park
+country: United States
+description: There has been sightings of a women inside the bridge, and there has been voices. There is sometimes very intense growling coming from around the bridge. Several people have been pulled down inside the bridge when there was only one person in the bridge. These sightings and other things happen at midnight mostly.
+location: The Bridge
+state: Georgia
+state_abbrev: GA
+longitude: -83.07341699999999
+latitude: 34.026052
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

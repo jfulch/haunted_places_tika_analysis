@@ -1,0 +1,21 @@
+city: Booneville
+country: United States
+description: In the gynasium boy's sower room two students were punched so hard they were sent flying back and hitting the wall. Pairs of glowing red eyes were seen along with someone's finger poking through the door. Cold drafts have been felt and vioces were heard.
+location: Owsley County High
+state: Kentucky
+state_abbrev: KY
+longitude: -83.66520969999999
+latitude: 37.4764535
+city_longitude: -83.6749145
+city_latitude: 37.4761991
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

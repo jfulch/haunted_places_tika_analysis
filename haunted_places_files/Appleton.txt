@@ -1,0 +1,21 @@
+city: Outagamie
+country: United States
+description: Huntley School - There’s a boy who wanders the streets but is never confronted. He screams about the color purple constantly!! He apparently believes that he is a distant relative to the former mob boss Lucky Luciano. He's been known to confront high school age girls and speak of his good fortune. Once swayed, most of the girls are never seen again. He has no known residence, although it's said that he still lives in his parent's basement. If a confrontation happens then he runs like a lightning bolt, and isn't seen again. To everyone that has knowledge of him... he's a ghost!
+location: Appleton
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.41538469999999
+latitude: 44.2619309
+city_longitude: -88.4016041
+city_latitude: 44.4636545
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1998/02/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

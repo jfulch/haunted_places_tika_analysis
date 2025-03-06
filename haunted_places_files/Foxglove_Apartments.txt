@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Occasionally late at night one can hear what sounds like a cat jumping around on the furniture. Also large fleeting shadows out of the corner of your eye and nothing there when you turn to look. There was also the sound of books slamming to the ground in the bedroom while the occupants where in the bedroom.
+location: Foxglove Apartments
+state: Texas
+state_abbrev: TX
+longitude: -106.589966
+latitude: 31.859039
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

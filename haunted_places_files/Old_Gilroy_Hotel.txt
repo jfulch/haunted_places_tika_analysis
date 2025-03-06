@@ -1,0 +1,21 @@
+city: Gilroy
+country: United States
+description: There are 2 ghosts that haunt this building. A woman in her 20's and a little girl. Story goes, when the building was a hotel a man went in and raped and killed 2 people. The woman is seen at the top of the stairs, and the little girl is seen in the hallway. footsteps are heard, the electric piano's keys are struck when it is not plugged in, lights go on and off, the little girl is sometimes seen looking out the window, one employee recalls being touched on the back of the neck by one of the ghosts. Doors rattle as though someone is locked inside and can't get out.
+location: Old Gilroy Hotel
+state: California
+state_abbrev: CA
+longitude: -121.5708589
+latitude: 37.0214162
+city_longitude: -121.5682751
+city_latitude: 37.0057816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

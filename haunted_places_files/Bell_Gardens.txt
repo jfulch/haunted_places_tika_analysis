@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Suva Intermediate School - A Janitor who committed suicide is said to haunt the 2 story building also one the art class there are many cold spots and out of the corner of your eye you can see someone standing
+location: Bell Gardens
+state: California
+state_abbrev: CA
+longitude: -118.1514588
+latitude: 33.9652918
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1905/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

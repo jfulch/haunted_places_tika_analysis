@@ -1,0 +1,21 @@
+city: Edinburg
+country: United States
+description: In Edinburg, there is a house that is haunted located on Shunior and 18th street. This house is right in the corner on 18th street and Shunior. Well this house has always been there for rent, and people that move in wont last no more than 3 months, due to extremely horrible terrifying noises.
+location: 18th St.
+state: Texas
+state_abbrev: TX
+longitude: -98.1540881
+latitude: 26.3038065
+city_longitude: -98.1633432
+city_latitude: 26.3017374
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

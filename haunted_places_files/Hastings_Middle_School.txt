@@ -1,0 +1,21 @@
+city: Hastings
+country: United States
+description: The school was built over a ancient Indian burial ground. Teachers and students have reported sightings of an Indian Chief. He has been reported as a dark shadowy figure floating down halls and moving things around inn classrooms. Many of the teachers call him Chief Turkey Feather because of turkey feathers left behind after visiting classrooms.
+location: Hastings Middle School
+state: Michigan
+state_abbrev: MI
+longitude: -85.29072579999999
+latitude: 42.6435743
+city_longitude: -85.29084030000001
+city_latitude: 42.6458682
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

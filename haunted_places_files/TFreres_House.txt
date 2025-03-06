@@ -1,0 +1,21 @@
+city: Lafayette
+country: United States
+description: There is a young woman said to haunt this Bed and Breakfast. It is one of the oldest homes in Lafayette and it's said she once lived there a hundred or so years ago. The story goes she drowned in the big barrell used to catch the rainwater that is still in place today. The story varies as to whether it was an accident or suicide. She is a friendly ghost who makes objects move, walks around upstairs at night, and moves furniture around. People say she has a comforting presence.
+location: T'Frere's House
+state: Louisiana
+state_abbrev: LA
+longitude: -92.0221531
+latitude: 30.1600911
+city_longitude: -92.0198427
+city_latitude: 30.2240897
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

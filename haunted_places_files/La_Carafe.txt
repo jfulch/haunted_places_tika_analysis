@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: La Carafe is located in a pre-Civil War building on Houston's historical Market Square. The second floor seems to be the seat of the haunting. Employees have reported hearing footsteps and the sound of heavy objects being dragged across the unoccupied second floor. The figure of a large black man has also been seen standing in the second floor window after closing time. La Carafe Experience
+location: La Carafe
+state: Texas
+state_abbrev: TX
+longitude: -95.3618493
+latitude: 29.7631165
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1979/07/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

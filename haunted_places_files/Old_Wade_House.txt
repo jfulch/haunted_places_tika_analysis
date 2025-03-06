@@ -1,0 +1,20 @@
+city: Greenbush
+country: United States
+description: This historical site, once a stop for the stagecoaches traveling through, has for years spoken to the tour guides. Whether encouraging guides down the steps of the back bedroom with a feeling of someone pushing, or when heard scuffing around at the butternut house as they make their beds, there is a gentle haunting experience here.
+location: Old Wade House
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.0897021
+latitude: 43.7820705
+city_longitude: -88.0839854
+city_latitude: 43.77666019999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

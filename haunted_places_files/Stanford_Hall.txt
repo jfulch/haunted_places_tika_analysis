@@ -1,0 +1,19 @@
+city: Hagerstown
+country: United States
+description: The woman is silk and the moon shiner haunt this building.
+location: Stanford Hall
+state: Maryland
+state_abbrev: MD
+city_longitude: -77.71999319999999
+city_latitude: 39.6417629
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: The Lighthouse Resort then known as The Lighthouse Motel was built in the 1950's. The older "ridge" cabins are haunted. Guests write in journals that are in the rooms and there are entries of TV s turning on and off. Rocking chairs rocking for ten minutes or more for no reason. Doors opening and closing with no explanation. Waking up and finding the living room furniture re arranged and moved. The words, "I can't breath" & "burn" have been whispered in a visitors ear while sleeping.
+location: Lighthouse Resort
+state: Washington
+state_abbrev: WA
+longitude: -124.0539384
+latitude: 46.3924658
+city_longitude: -124.0543234
+city_latitude: 46.3523219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2017/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

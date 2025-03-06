@@ -1,0 +1,21 @@
+city: Scotia
+country: United States
+description: A small town in California named Scotia, there are a lot of hauntings. Particularly in the Scotia Inn. There are many sightings of many ghosts, but ask the front desk person for the most famous of them all, and you will get the answer..."Frank". Frank is on the top story in one room. There are many sounds, feet scraps, voices, ect. Frank is a friendly ghost, and some times will bounce a basket ball to you, if you bounce it to him. Another story is of a woman, and her children. A little child was playing with her ball one bright day when her ball fell off the balcony, as did the child. It is said the mother and girl haunt the room the little girl fell off of. There is yet another story of a baby crying. There are many other ghosts in the Inn....just as the people that work there.
+location: Scotia Inn
+state: California
+state_abbrev: CA
+longitude: -124.100822
+latitude: 40.484111
+city_longitude: -124.1008808
+city_latitude: 40.4823572
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

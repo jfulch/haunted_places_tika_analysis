@@ -1,0 +1,20 @@
+city: Lebanon
+country: United States
+description: When you go out there late at night you will here voices and sometimes even see white figures floating around some of the graves. The Cemetery is over 200 years old and most of the people who are buries there are named Wilson. I advise you not to go into the cemetery, very bad luck, trust me. The Cemetery is located 25 miles east of Lebanon on back country roads.
+location: Wilson Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -92.4385163
+latitude: 37.740128
+city_longitude: -92.6637865
+city_latitude: 37.6805967
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Smithfield
+country: United States
+description: After hours there is a feeling of an evil presence, particularly strong in the downstairs old boiler room, which employees would refuse to go into alone. One night an employee (myself) was working in the projector booth and heard the door open and slam and glanced under their arm to see and hear some feet running past and into the restroom. Upon looking in the restroom, no one was there. At another time, 2 employees were cleaning the theater and saw several people on the balcony laughing at them. Believing they were customers, they yelled at them to get out, they disappeared.
+location: The Main Theater
+state: Utah
+state_abbrev: UT
+longitude: -111.8323358
+latitude: 41.8346685
+city_longitude: -111.8327229
+city_latitude: 41.8382622
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

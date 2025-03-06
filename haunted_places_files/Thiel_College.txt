@@ -1,0 +1,21 @@
+city: Greenville
+country: United States
+description: Roth Hall - Many people have seen a ghost haunting Roth Hall. The origin of the ghost is unknown.
+location: Thiel College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.383918
+latitude: 41.411974
+city_longitude: -80.39117850000001
+city_latitude: 41.404499
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1951/04/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

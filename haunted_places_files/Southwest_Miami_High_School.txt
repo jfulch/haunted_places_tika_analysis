@@ -1,0 +1,21 @@
+city: Miami
+country: United States
+description: Library - According to the librarians many who have worked there for several years books are constantly rearranged after organized and lights flicker.
+location: Southwest Miami High School
+state: Florida
+state_abbrev: FL
+longitude: -80.33894099999999
+latitude: 25.722601
+city_longitude: -80.1917902
+city_latitude: 25.7616798
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

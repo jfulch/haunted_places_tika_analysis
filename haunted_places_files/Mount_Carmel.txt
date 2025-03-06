@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: Spirit of Julia Buccola Petta is said to wander the cemetery grounds. On one occasion when a young boy was left behind in the cemetery, the family saw the boy take the hand of a lady in a white gown upon their return to retrieve the boy. When they got closer the lady disappeared.
+location: Mount Carmel
+state: Illinois
+state_abbrev: IL
+longitude: -87.5893179
+latitude: 41.7780323
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1924/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

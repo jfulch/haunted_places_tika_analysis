@@ -1,0 +1,21 @@
+city: Adams
+country: United States
+description: The Bell Witch is the horrible spirit caused much trouble and may have killed John.
+location: John Bell Farm
+state: Tennessee
+state_abbrev: TN
+longitude: -87.0547466
+latitude: 36.5910671
+city_longitude: -87.06555639999999
+city_latitude: 36.5822667
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

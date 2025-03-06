@@ -1,0 +1,21 @@
+city: Gorman
+country: United States
+description: Rumors that a little girl had died on the land some time ago. When they built the school, they built the cafeteria over where she was buried. The exact spot where she was buried, it is said that the cement never dried and is always wet. She also has fun with the kids and teachers there. Sometimes she has been seen running around the school.
+location: Gorman School
+state: California
+state_abbrev: CA
+longitude: -118.8539869
+latitude: 34.7930337
+city_longitude: -118.8525956
+city_latitude: 34.7960902
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: Voices of children running and playing can be heard.
+location: Hamilton Hotel
+state: Texas
+state_abbrev: TX
+longitude: -99.5083667
+latitude: 27.5067031
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

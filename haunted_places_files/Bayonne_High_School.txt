@@ -1,0 +1,21 @@
+city: Bayonne
+country: United States
+description: The now auditorium of the high school used to be the Jr high section. It's been said that a boy around 14 hung himself from the stairwell, also it's been said he was pushed and broke his neck but anyway. If you go there just before school season begins you will see a boy opening the doors to the auditorium with school books in his hands. Also on many nights that the high school has put on plays there is a boy in the back of the room just watching.
+location: Bayonne High School
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.1221437
+latitude: 40.6710066
+city_longitude: -74.1143091
+city_latitude: 40.6687141
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

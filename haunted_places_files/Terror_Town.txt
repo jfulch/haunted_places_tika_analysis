@@ -1,0 +1,18 @@
+city: Pisgah
+country: United States
+description: Located 1 mile past Zooland Campground on Pisgah Covered Bridge Road outside of Asheboro. (.5 mile past Forest Hills) There is an old farmland there with a number of hauntings have reported over the years. The farm is made up of about 18 acres with several farmhouses scattered throughout. A little girl's voice is heard deep in the forest. A boy who hung himself there haunts the upper farm. An old lady and her husband haunt one of the houses. Her brother died in the woods near the house and can now be heard singing at night while he makes moonshine. A shadow of a black horse is seen running through the woods and then vanishes. There is a company who uses the location now for a haunted attraction called Terror Town so it is very easy to access during hours when they are there working. One of the staff lives at the park so don't try to visit this one without permission. They let us take a tour with no problem and even showed us some cool stuff.
+location: Terror Town
+state: North Carolina
+state_abbrev: NC
+city_longitude: -82.75679559999999
+city_latitude: 35.4259427
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

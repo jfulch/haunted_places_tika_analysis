@@ -1,0 +1,21 @@
+city: Chualar
+country: United States
+description: Many times a night when you drive home you can see a woman walking on the side of the road. When you pass her she disappears. One report states, “One time I was at the end of my road (which is at the End of Chualr road) I was riding my motorcycle and I was masterly thrown off by something. When I hit the ground I passed out and when I woke up I saw a black hair woman above me staring at me. I blinked and she was gone. I am almost positive it was the lady on the side of the road.”
+location: The End Of Chualar Road
+state: California
+state_abbrev: CA
+longitude: -121.5078671
+latitude: 36.5775574
+city_longitude: -121.5185514
+city_latitude: 36.5705171
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: Supposedly built on a cemetery in the early 1900 after an earthquake, it is haunted by a few restless spirits.
+location: San Francisco Arts Institute
+state: California
+state_abbrev: CA
+longitude: -122.417167
+latitude: 37.803376
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

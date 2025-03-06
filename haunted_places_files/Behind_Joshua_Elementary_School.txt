@@ -1,0 +1,21 @@
+city: Palmdale
+country: United States
+description: The train tracks behind Joshua Tree Elementary School. A black figure has been seen.
+location: Behind Joshua Elementary School
+state: California
+state_abbrev: CA
+longitude: -118.0750804
+latitude: 34.5524735
+city_longitude: -118.1164613
+city_latitude: 34.5794343
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

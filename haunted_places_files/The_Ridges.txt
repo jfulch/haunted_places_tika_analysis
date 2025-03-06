@@ -1,0 +1,20 @@
+city: Athens
+country: United States
+description: Old State Mental Hospital - after being closed in the 1980's rumored to be haunted by the locals.
+location: The Ridges
+state: Ohio
+state_abbrev: OH
+longitude: -82.121813
+latitude: 39.3195746
+city_longitude: -82.1012554
+city_latitude: 39.3292396
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

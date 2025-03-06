@@ -1,0 +1,21 @@
+city: Hanson
+country: United States
+description: This place is VERY haunted. In 1905 a woman by the name of Alice Burrage got hung. No one knows who did it, but at that same time the caretaker disappeared. Also, in 1922 a boy got his leg caught in something. When they found out what it was, they found out that it was a man's ribcage, that dated back to 1905!Alice got hung upstairs. If you go up there, the rocking chair moves on its own. You also hear screaming.
+location: Camp Kiwanee
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8502462
+latitude: 42.058094
+city_longitude: -70.8800187
+city_latitude: 42.0751892
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1905/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

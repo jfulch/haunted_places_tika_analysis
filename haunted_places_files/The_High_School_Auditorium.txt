@@ -1,0 +1,21 @@
+city: St. Helens
+country: United States
+description: The high school auditorium is haunted with a women's ghost that died there. People have seen her in the lighting booth and sitting in the chairs.
+location: The High School Auditorium
+state: Oregon
+state_abbrev: OR
+longitude: -122.8340793
+latitude: 45.8494065
+city_longitude: -122.8158185
+city_latitude: 45.8590111
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

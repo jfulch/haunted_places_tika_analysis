@@ -1,0 +1,21 @@
+city: Sandusky
+country: United States
+description: At night if your not in the room at 12:00 midnight a person comes over the loud speaker and says LOCKDOWN and the doors lock and the light turn off and the TVs shut off then the elevator comes and monastery figures come out then spikes come out of the wall and the wall and ceiling caves in then its all gone in the morning.
+location: Great Wolf Lodge
+state: Michigan
+state_abbrev: MI
+longitude: -85.64717739999999
+latitude: 44.7387118
+city_longitude: -82.8296572
+city_latitude: 43.4202989
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1989/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: Carts move by themselves near the garden area. The women's restroom above gate 31 is supposedly haunted. Also near gate 31, a worker in the cockpit of an aircraft saw a bloody face in a gate area window near the same restroom. When the worker did a double take, the face was gone.
+location: Honolulu Airport
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9250736
+latitude: 21.3245132
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

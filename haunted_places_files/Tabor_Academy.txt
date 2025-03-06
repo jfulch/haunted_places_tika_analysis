@@ -1,0 +1,21 @@
+city: Marion
+country: United States
+description: Lillard Hall - In the Lillard Hall Penthouse, a boy hung himself. It is said that you can hear voices and sounds coming from the attic and penthouse. The Lillard Hall Penthouse is still used today, and the rooms are still billeted in by students.
+location: Tabor Academy
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.767304
+latitude: 41.7080104
+city_longitude: -70.7525299
+city_latitude: 41.697719
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1975/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

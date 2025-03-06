@@ -1,0 +1,20 @@
+city: Berthoud
+country: United States
+description: A man is seen in the vicinity of Bennet Road during daylight walking through the hills carrying a canvas bag that is thrown over his shoulder. "Mr. Bennet," the original settler of the area was shot and killed on Bennet Road as the result of a land dispute. The apparition disappears as he walks along.
+location: South of Carter Lake
+state: Colorado
+state_abbrev: CO
+longitude: -105.2140323
+latitude: 40.3533002
+city_longitude: -105.0810924
+city_latitude: 40.3083174
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1992/04/18
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

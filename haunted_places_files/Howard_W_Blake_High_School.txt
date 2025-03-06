@@ -1,0 +1,21 @@
+city: Tampa
+country: United States
+description: Main Theatre -  To roll with the typical "all theatres have their ghosts" you can see strange lights in the wings, music, and occasional whistling. Things seem to go wrong during every show staged in that theatre.
+location: Howard W. Blake High School
+state: Florida
+state_abbrev: FL
+longitude: -82.465811
+latitude: 27.9583387
+city_longitude: -82.4571776
+city_latitude: 27.950575
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

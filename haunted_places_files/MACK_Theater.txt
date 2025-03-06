@@ -1,0 +1,21 @@
+city: McMinnville
+country: United States
+description: Cold spots in the women's bathroom by one of the entrance doors to the theater. Feeling of being watched. Feelings there aren't scary just a little uneasy.
+location: MACK Theater
+state: Oregon
+state_abbrev: OR
+longitude: -123.1941352
+latitude: 45.2100101
+city_longitude: -123.1987163
+city_latitude: 45.21011619999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

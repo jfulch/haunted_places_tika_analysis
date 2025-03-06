@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: A Girl was raped and killed in the library; if you sit there you can hear her screaming for help and someone breathing on your neck.
+location: Wayne Memorial High School
+state: Michigan
+state_abbrev: MI
+longitude: -83.37539199999999
+latitude: 42.287245
+city_longitude: -83.3863214
+city_latitude: 42.2814269
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

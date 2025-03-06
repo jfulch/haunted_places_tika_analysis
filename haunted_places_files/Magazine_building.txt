@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: A soldier seems to still walk up the stairs to put his guns away.
+location: Magazine building
+state: Virginia
+state_abbrev: VA
+longitude: -76.7055707
+latitude: 37.2707685
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Coventry
+country: United States
+description: Feelings of cold spots, hearing doors slamming and people walking. Witnesses have reported the sensation of cannons firing and screaming.
+location: Nathaniel Greene Homestead
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.5440603
+latitude: 41.6942695
+city_longitude: -71.5642076
+city_latitude: 41.6885978
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

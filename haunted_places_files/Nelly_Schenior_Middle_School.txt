@@ -1,0 +1,21 @@
+city: La Joya
+country: United States
+description: There are stories that this middle school was built on top of a cemetery. You can hear steps at night, and watch shadows through the window. Also the desk start to move and the janitors always have to move it back in the morning. The basement is locked down. They say its hunted a teacher was killed there and you can hear her looking for things.
+location: Nelly Schenior Middle School
+state: Texas
+state_abbrev: TX
+longitude: -98.469543
+latitude: 26.24664
+city_longitude: -98.4814092
+city_latitude: 26.2470165
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

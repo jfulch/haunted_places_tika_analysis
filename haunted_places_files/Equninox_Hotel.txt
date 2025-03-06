@@ -1,0 +1,21 @@
+city: Manchester
+country: United States
+description: a man haunts room 346, and he will stack up all your things.
+location: Equninox Hotel
+state: Vermont
+state_abbrev: VT
+longitude: -73.0724968
+latitude: 43.1619615
+city_longitude: -73.0723268
+city_latitude: 43.16368749999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

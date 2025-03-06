@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: In one of the boys' dormitories, there have been sightings of a ghost of a Hawaiian lady dressed in the garb of the 1800's. Consequently, the boys who've seen her point out that it's a woman seen in a portrait in that dorm. they may be talking about Princess Pauahi Bishop- the young woman who had Kamehameha Schools built. And, in one of the girls' dormitories, one of the stairwells is haunted by the ghost of a young girl that died in that stairwell. She had very bad asthma and died from an asthma attack. They say that she can be heard wheezing and gasping for air in the stairwell.
+location: Kamehameha Schools Dormitories
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8661535
+latitude: 21.3396842
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1778/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

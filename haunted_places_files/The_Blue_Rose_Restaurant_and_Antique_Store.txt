@@ -1,0 +1,20 @@
+city: Pass Christian
+country: United States
+description: The now closed Blue Rose is haunted by The women who owned it in the early 1900s. She was engaged to be married but her finance broke off the wedding and ran off with another girl. As the woman was chasing after him she tripped on her dress, fell down the stairs, and broke her neck. Her ghost is seen in mirrors and in front of the building. People think it is someone doing a reenactment but it isn't.
+location: The Blue Rose Restaurant and Antique Store
+state: Mississippi
+state_abbrev: MS
+longitude: -89.24856659999999
+latitude: 30.31411
+city_longitude: -89.2475429
+city_latitude: 30.3157527
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

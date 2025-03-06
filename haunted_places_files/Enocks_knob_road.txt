@@ -1,0 +1,20 @@
+city: New Haven
+country: United States
+description: A very creepy old bridge sits near the end of this road. The lake below is haunted by the spirit of the little boy who fell off the bridge a long time ago. It is said that late at night if you go on the bridge and look down you can see something swimming in the murky waters, some say he appears as a serpent. There have also been many stories of a man committing suicide by diving off the bridge. A lot of people who drive down this road will hear dogs barking while nearing the bridge...only there are no dogs in the area! An old man lives not far from the bridge but and he claims he does not own any dogs. Legend also has it that on Friday the 13th you can see an apparition of a gnome with glowing red eyes climbing up an old dead tree near the bridge. A very spooky place indeed.
+location: Enocks knob road
+state: Missouri
+state_abbrev: MO
+longitude: -91.1470208
+latitude: 38.57899219999999
+city_longitude: -91.2190416
+city_latitude: 38.6083822
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Nelsonville
+country: United States
+description: In the 50s or 60s a small plane with a man, his wife and child crashed in a hollow North of Nelsonville. The plane was not found for a couple of weeks. The man and his wife died on impact. The baby lived, only to starve to death. You can go some nights and park near the woods where they crashed and still hear a baby crying.
+location: Airplane Hollow
+state: Ohio
+state_abbrev: OH
+city_longitude: -82.23181559999999
+city_latitude: 39.458681
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/09/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

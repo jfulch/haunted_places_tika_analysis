@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: Graceland Cemetery is one of Chicago's oldest graveyards and boasts several hauntings. The most famous is the spirit of Inez Clark. Inez was just shy of seven years old when she was struck by lightening at a family picnic. Her parents, distraught over the loss, had a life-size statue of the child erected at her grave site. The statue is enclosed in glass, protecting it from the elements. On rainy nights, when thunder is rolling, the statue reportedly disappears from the glass box, and a young girl can be seen roaming the cemetery grounds.
+location: Graceland Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -87.661881
+latitude: 41.954837
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

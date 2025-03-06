@@ -1,0 +1,21 @@
+city: Virginia City
+country: United States
+description: the ghost of Miss Suzette still walks across the schoolyard.
+location: Fourth Ward School
+state: Nevada
+state_abbrev: NV
+longitude: -119.652269
+latitude: 39.303161
+city_longitude: -119.6499793
+city_latitude: 39.3095135
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Smyrna
+country: United States
+description: Girl in white dress floating through hallway, chairs turned around backwards, objects misplaced and moved, all electrical objects turned on.
+location: Union St.
+state: Delaware
+state_abbrev: DE
+longitude: -75.60703819999999
+latitude: 39.296876
+city_longitude: -75.6046494
+city_latitude: 39.2998339
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Evening
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

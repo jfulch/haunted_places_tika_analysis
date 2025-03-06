@@ -1,0 +1,21 @@
+city: Dearborn Heights
+country: United States
+description: Computer number 25 is definitely haunted by an old senior who didn't not graduate because he failed computers. Now the computer acts up and any senior who sits at that computer passes with an 'A'. All the work is already done. This ghost is unlike any other ghost, he is a kind one!
+location: Crestwood Computer Lab
+state: Michigan
+state_abbrev: MI
+longitude: -83.2932414
+latitude: 42.3220925
+city_longitude: -83.27326269999999
+city_latitude: 42.3369816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

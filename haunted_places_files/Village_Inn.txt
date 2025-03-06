@@ -1,0 +1,21 @@
+city: Stone Mountain
+country: United States
+description: Hotel built around 1830's was used as a hospital during the civil war. Many audible haunting including black man singing, whistling, mores code, and footsteps have been reported. Doors slam open, and glimpses of shadows moving out of the corners of your eye. The haunting seems to come and go over the years. There is long history of paranormal events.
+location: Village Inn
+state: Georgia
+state_abbrev: GA
+longitude: -84.17075799999999
+latitude: 33.811494
+city_longitude: -84.17019599999999
+city_latitude: 33.8081608
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

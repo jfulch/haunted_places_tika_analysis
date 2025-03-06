@@ -1,0 +1,21 @@
+city: Poplar
+country: United States
+description: you can see green mist and red eyes and creepy laughing
+location: Poplar Schools
+state: Montana
+state_abbrev: MT
+longitude: -105.2034182
+latitude: 48.1125628
+city_longitude: -105.1983148
+city_latitude: 48.1130741
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 18m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

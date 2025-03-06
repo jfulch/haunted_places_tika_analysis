@@ -1,0 +1,21 @@
+city: Hampton Beach
+country: United States
+description: In the late 1600's Hampton was the scene of the second greatest witch hunt of the era. The hysteria of Salem had boiled over into this sleepy fishing community with a population of less than 300. Goodwife Eunece Cole lived at the end of the road by the water. She is said to have cursed a group of mariners who were taunting her. Upon the mariners return to the Isle of Shoals ( Rugged outcropping of islands 7 miles from Hampton), a great storm blew up sank the boat and they were never seen again. Goody Cole was convicted of witchcraft for laying the curse. She was not executed for her crimes but was forced to pay a heavy fine. She died in her home a few years later. Her body was removed and buried with a stake through her heart. Her body was dug up and moved many times. For the past 300 years she has been haunting the residents of the street. It is never spoken of. Figures appear in the Fog, Lights Flicker, objects moved and livestock cats will go missing.
+location: Island Path Road
+state: New Hampshire
+state_abbrev: NH
+longitude: -70.8129658
+latitude: 42.9136322
+city_longitude: -70.81348179999999
+city_latitude: 42.9113098
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/02/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.8
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

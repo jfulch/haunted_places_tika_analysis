@@ -1,0 +1,21 @@
+city: Santa Cruz
+country: United States
+description: Upstairs is haunted by a woman in a Victorian black dress who is looking for a book, she also opens doors even heavily locked and bolted or nailed ones and windows. Downstairs, a man with glasses is seen in the empty fireplace, and in the basement an angry dog, probably from when local police used the place for search dog training, haunts the stairway and front door. Also a heard calls out for help from the basement.
+location: The Rispin Mansion
+state: California
+state_abbrev: CA
+longitude: -121.9594173
+latitude: 36.9818783
+city_longitude: -122.0307963
+city_latitude: 36.9741171
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

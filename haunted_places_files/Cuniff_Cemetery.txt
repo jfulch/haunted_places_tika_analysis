@@ -1,0 +1,21 @@
+city: Watertown
+country: United States
+description: At the Cunnif cemetery there are the graves from people who have died because of experiments made on them. There have been reported shadows and a lot of people say they see people in wheelchairs that go away when you point the flashlight at them and hear voices and also sometimes have rocks thrown at them when there are no other people around.
+location: Cuniff Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1992736
+latitude: 42.3767011
+city_longitude: -71.1828321
+city_latitude: 42.3709299
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

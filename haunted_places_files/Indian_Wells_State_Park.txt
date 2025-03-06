@@ -1,0 +1,20 @@
+city: Shelton
+country: United States
+description: Supposedly haunted by "white lady". Some say she was killed there on her wedding day, hence, the "white lady" title. Others insist she is one of several children/young people killed by a train while playing cards on the train tracks during the '30s' - February 2007 Additional information: there were 5 kids playing cards on the tracks that day; 4 were hit by the train and killed, the other died of fright.
+location: Indian Wells State Park
+state: Connecticut
+state_abbrev: CT
+longitude: -73.1240183
+latitude: 41.34157949999999
+city_longitude: -73.0931641
+city_latitude: 41.3164856
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

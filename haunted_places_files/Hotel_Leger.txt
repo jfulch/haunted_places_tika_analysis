@@ -1,0 +1,20 @@
+city: Mokelumne Hill
+country: United States
+description: Hotel owned by George Leger in 1880, He met an untimely death, shot in gambling argument. Anyway odor of fresh cigar smoke is still smelled in his upstairs room. Owners always happy to give a tour.
+location: Hotel Leger
+state: California
+state_abbrev: CA
+longitude: -120.705701
+latitude: 38.301161
+city_longitude: -120.7063219
+city_latitude: 38.3004709
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1880/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

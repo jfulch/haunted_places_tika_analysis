@@ -1,0 +1,19 @@
+city: Wattsonville
+country: United States
+description: This house is located in the middle of a strawberry field right off of the freeway. It is fully boarded up, but there are very noticeable hot spots on the roof of the house that shine blue, as well as many orbs that surround the house. From what the people that own us say, many people were murdered in this house, and it is extremely haunted. Doors slam and open on their own, people hear things happen in that house from far away. Screams of a little boy are heard as well as adults yelling for help. Strange spot.
+location: Redman House
+state: California
+state_abbrev: CA
+city_longitude: -121.7568946
+city_latitude: 36.910231
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

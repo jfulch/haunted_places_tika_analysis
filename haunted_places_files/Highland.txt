@@ -1,0 +1,21 @@
+city: Anderson
+country: United States
+description: Highland High School -  Has been haunted for several years. The gym is where the sightings usually take place. People have reported that they have seen a little boy roaming around the gym and sometimes doing laps around the basketball court. They have also heard basketball being bounced. They say that the sounds and the little boy running laps. The boy died one day in gym class when they were playing basketball. The teacher said that he was fine and next time the teacher looked at him, he was lying there dead. Ever since then, the little boy has haunted the gym of Highland High school. - June 2004 Update/correction..the boy's name has been removed. the boy died in highlands old gym which is now the auditorium. The boy haunts the auditorium, the green room, back stage, and the cat walk. He died of an asthma attack while running laps around the old gym/auditorium.
+location: Highland
+state: Indiana
+state_abbrev: IN
+longitude: -85.6303343
+latitude: 40.13689
+city_longitude: -85.6802541
+city_latitude: 40.1053196
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Eagle River
+country: United States
+description: There is a mysterious "lady in yellow" who appears during after-hours. It becomes angry if it is mentioned.
+location: North Slope Saloon
+state: Arkansas
+state_abbrev: AR
+city_longitude: -93.940833
+city_latitude: 36.267778
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

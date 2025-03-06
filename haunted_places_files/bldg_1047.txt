@@ -1,0 +1,20 @@
+city: Fort Carson
+country: United States
+description: on the third floor a soldier went crazy and killed three other soldiers, the soldiers that live on that floor say that, you can still hear what sounds like crying, some say that if you go to room 313 you feel cold spots, beds will shake, stuff will fall, and you can even make out what looks like a man just looking at you in the dark
+location: bldg #1047
+state: Colorado
+state_abbrev: CO
+longitude: -84.51122
+latitude: 39.0838892
+city_longitude: -104.7920877
+city_latitude: 38.7421321
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Murder
+witness_count: 0

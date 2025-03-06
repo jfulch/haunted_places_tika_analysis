@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: The old gym was used as a collection area for Japanese internees during WWII. Voices and crying can be heard here at night.
+location: San Jose State University (1857)
+state: California
+state_abbrev: CA
+longitude: -121.9329189
+latitude: 37.332039
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Hartsville
+country: United States
+description: Memorial Hall - Coker College has a ghost that roams the halls of one of the dorms. It is said that the spirit is of a girl who hanged herself in an elevator shaft. College students have heard strange and disturbing noises during the night. Alarm clocks will come on in the middle of the night, and radios will cut off without anyone touching them.  The elevator Shaft has since been made into a stairwell.
+location: Coker College
+state: South Carolina
+state_abbrev: SC
+longitude: -80.0704915
+latitude: 34.3765882
+city_longitude: -80.07340049999999
+city_latitude: 34.3740431
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

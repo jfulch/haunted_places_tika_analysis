@@ -1,0 +1,21 @@
+city: Flint
+country: United States
+description: Smells of some one baking, even though there is no stove. Knocking on walls, lights flickering, faces seen looking out of window at night. Personal items being moved from one place to another. "People" walking down hallway when there was no one there. Bells ringing at the front door. Haunted possibly by an old man and woman, or maybe even farm help.
+location: Naturally You Wig &amp; Hair Salon
+state: Michigan
+state_abbrev: MI
+longitude: -88.1180162
+latitude: 43.1788641
+city_longitude: -83.6874562
+city_latitude: 43.0125274
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1979/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

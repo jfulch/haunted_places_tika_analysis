@@ -1,0 +1,20 @@
+city: Rogers
+country: United States
+description: Lusks lock is part of the beaver creek canal system that was the lifeline of the area in the 1800 & 1900's. Lusk's lock is said to be haunted by a worker of the lock who died there. You can see him walking along the lock in his work clothes.
+location: Lusk's Lock
+state: Ohio
+state_abbrev: OH
+longitude: -80.6621302
+latitude: 40.7753636
+city_longitude: -80.6261832
+city_latitude: 40.7914504
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1888/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

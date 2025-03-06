@@ -1,0 +1,19 @@
+city: Purdy
+country: United States
+description: This house is located right down the road from the Purdy Cemetery. It was the home of a confederate soldier during the civil war. He was shot by another soldier during the battle of Shiloh and died at the top of the stairs on the second floor. It is said on certain nights the blood reappears and you can hear him scream.
+location: Dodd House
+state: Tennessee
+state_abbrev: TN
+city_longitude: -88.530418
+city_latitude: 35.2277569
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Spencer
+country: United States
+description: Formerly listed under Spencer - Maria Prouty was murdered here by her husband. The murder was ruled a suicide. The reason was found out years later. The story is long and complex with more twists and turns than most works of fiction. Read the book 'Deliver us From Evil' by two local couples who researched the crime for more details.
+location: Prouty Mansion
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.9922867
+city_latitude: 42.2439682
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

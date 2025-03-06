@@ -1,0 +1,19 @@
+city: Horsepen
+country: United States
+description: This building is built almost directly over an old mine. The mine below was the site of one of the largest water inundations(they broke through a rock wall into an underground river) killing many by drowning. Their voices call for help at night and sometimes during the day if someone is alone.
+location: Old Pocahontas Fuel Building
+state: Virginia
+state_abbrev: VA
+city_longitude: -81.5198295
+city_latitude: 37.22817080000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

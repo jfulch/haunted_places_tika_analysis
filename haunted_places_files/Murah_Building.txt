@@ -1,0 +1,21 @@
+city: Oklahoma City
+country: United States
+description: This place was bombed in 1995.Parents of children that are around the age of 3-5, say that when they take their kids take their they get really spooked and start to cry and when they ask what is wrong they say that they see a dead person wondering around the place, but only the gift younger children can see it.
+location: Murah Building
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.516944
+latitude: 35.472778
+city_longitude: -97.5164276
+city_latitude: 35.4675602
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1995/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

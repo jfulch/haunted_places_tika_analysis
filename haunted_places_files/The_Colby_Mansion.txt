@@ -1,0 +1,21 @@
+city: Byram Twp.
+country: United States
+description: This is an old boarded up house on Tamarack Road in Byram. The house was built for a wealthy railroad millionaire in the late 1800s.The man shot his wife and cut off her head and put it on the fireplace mantle. He was then killed and both of their bodies are buried in the estates' graveyard. Someone recently bought the property and built a new house somewhere on the land. The old mansion is still standing but the old guest cottage fell down many years ago. The property is heavily patrolled by police.
+location: The Colby Mansion
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.717686
+latitude: 40.9661169
+city_longitude: -74.7227291
+city_latitude: 40.9601024
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Lambertville
+country: United States
+description: This popular inn and restaurant is host to several different ghosts. There have been occasional sightings that mainly consist of mischief and strange noises. Pots and pans have been known to lift from their hooks and come crashing to the ground. There are even pictures in one area of the inn that never seem to stay on the walls, no matter how they are hanged.
+location: Inn Of The Hawke
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9435732
+latitude: 40.3627232
+city_longitude: -74.94294479999999
+city_latitude: 40.36593939999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

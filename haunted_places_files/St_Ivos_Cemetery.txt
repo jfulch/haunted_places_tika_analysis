@@ -1,0 +1,20 @@
+city: Lebanon
+country: United States
+description: people have experience when they went there to investigate the haunting of this place they left a video camera on one of the graves and as they were seen walking away in there video when they played it back the camera zoomed in on them and followed them wherever they walked then the camera fell off the grave and went foggy. Reports of voices and other strange noises heard.
+location: St. Ivos Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -85.17304779999999
+latitude: 37.6251278
+city_longitude: -85.2527381
+city_latitude: 37.5697868
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

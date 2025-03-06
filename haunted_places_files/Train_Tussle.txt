@@ -1,0 +1,18 @@
+city: Smoaks
+country: United States
+description: Reports of seeing & Hearing a spectral train.
+location: Train Tussle
+state: South Carolina
+state_abbrev: SC
+city_longitude: -80.8139879
+city_latitude: 33.0896069
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Oxford
+country: United States
+description: Books thrown off shelves, can hear an organ being played at night
+location: Oxford Public Library
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.865207
+latitude: 42.118582
+city_longitude: -71.8647577
+city_latitude: 42.1167606
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

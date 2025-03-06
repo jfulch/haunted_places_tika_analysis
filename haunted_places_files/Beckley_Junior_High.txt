@@ -1,0 +1,21 @@
+city: Beckley
+country: United States
+description: It use to be a Hospital during the Civil War. There was a young woman named Hannah who worked as a nurse. There were some slaves one day that were locked up in the room. Then Hannah was killed. She moans and you can hear footsteps up and down the halls.
+location: Beckley Junior High
+state: West Virginia
+state_abbrev: WV
+longitude: -81.191154
+latitude: 37.771575
+city_longitude: -81.1881557
+city_latitude: 37.7781702
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

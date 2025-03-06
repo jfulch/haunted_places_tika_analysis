@@ -1,0 +1,21 @@
+city: Elizabeth
+country: United States
+description: in 1955 a firefighter was killed in the line of duty and now haunts the fire co if you are at the end of the fire hall and a call comes in you can see machinery running to the fire truck with a fire coat draped over his shoulder, lights will be on and no one will be there if you stop to turn them off no sooner do you leave the building the lights are on.
+location: Central VFC
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.8374649
+latitude: 40.2760019
+city_longitude: -79.8897706
+city_latitude: 40.2692367
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1955/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

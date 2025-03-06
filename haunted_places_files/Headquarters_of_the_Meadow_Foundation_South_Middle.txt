@@ -1,0 +1,19 @@
+city: Franklin
+country: United States
+description: The ghost of an elderly gentleman has been reported to walk through the house and look through the dining room windows. He is sometimes reported to have been wearing a Civil War uniform.
+location: Headquarters of the Meadow Foundation -South Middlebush Road
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.5804378
+city_latitude: 41.12204089999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

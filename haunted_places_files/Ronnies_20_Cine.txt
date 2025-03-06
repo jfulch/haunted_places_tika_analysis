@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: In the largest theatre a man died of a heart attack. The doors to this theatre will not stay open after 11 pm and an eerie presence can be felt inside.April 2008 Correction - This theatre was not on the site of the Old Ronnie's Drive in.
+location: Ronnie's 20 Cine
+state: Missouri
+state_abbrev: MO
+longitude: -90.362463
+latitude: 38.527309
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

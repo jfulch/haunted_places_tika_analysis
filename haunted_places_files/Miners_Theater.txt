@@ -1,0 +1,21 @@
+city: Collinsville
+country: United States
+description: Located on Main Street, Miner's Theater is supposedly haunted by three ghosts. The first two are supposedly brothers, and one killed the other for ownership of the Theater. The murderer is supposedly hostile, and the actors who frequently act at Miner's always tell the new people to leave the murderer and his brother alone, and to never call on them. The third is the spirit of a young woman. She is a mischievous ghost, and harmless. Often, actors will find make up or costumes missing, only to find them after they looked everywhere they could possibly be. One time, a young actress was putting on make up, and couldn't find her mascara, so she went on to put on something else, when suddenly, the missing mascara rolled off the vanity, and rolled in the opposite direction the floor slated to.
+location: Miner's Theater
+state: Illinois
+state_abbrev: IL
+longitude: -89.9875686
+latitude: 38.6694311
+city_longitude: -89.9845476
+city_latitude: 38.6703266
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1984/09/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

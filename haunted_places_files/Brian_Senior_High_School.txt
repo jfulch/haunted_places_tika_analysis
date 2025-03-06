@@ -1,0 +1,19 @@
+city: Bellevue
+country: United States
+description: Two years ago there was a fight at this school. A kid was about to punch the other kid and fell and broke his neck. There was reported sightings of large objects being moved around, cold breezes in specific areas on hot days, and kids being shoved and pushed by an invisible force. People also say they have seen the kid. He is a dark shadowy figure with none of his features visible.
+location: Brian Senior High School
+state: Maine
+state_abbrev: ME
+city_longitude: -70.56748879999999
+city_latitude: 43.3032949
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

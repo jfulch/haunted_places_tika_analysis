@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: It is said that a firefighter died in a fire at this fire station. He has now come back to haunt the place. Whenever there is a fire to go to at night, the ghost will turn the lights on and off and flush toilets to wake up the firefighters before the alarm. He has even been known to do this before the station gets a call about a fire.
+location: Fire Station #9
+state: Texas
+state_abbrev: TX
+longitude: -82.8223847
+latitude: 34.67665849999999
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/08/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

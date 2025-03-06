@@ -1,0 +1,21 @@
+city: Concord
+country: United States
+description: It used to be a jail.. they still have the jail cells. The staff have heard voices and have seen furniture and table decorations being moved and have put a plate down one place turn their back and see it in another spot with nobody around.
+location: Margarita's Mexican Restaurant
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.536558
+latitude: 43.204981
+city_longitude: -71.5375718
+city_latitude: 43.2081366
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

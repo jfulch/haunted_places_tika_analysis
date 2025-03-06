@@ -1,0 +1,20 @@
+city: Kansas City
+country: United States
+description: A former security guard the Power and Light Building, downtown Kansas City, reports, that place is very spooky. There have been numerous suicides from people jumping off the top of the building over the years. There is a lot of history there. They would hear lots of strange noises, and feel like someone or something was watching them while making their rounds at night on the various floors in the building.
+location: Power and Light building
+state: Missouri
+state_abbrev: MO
+longitude: -94.5847116
+latitude: 39.0975218
+city_longitude: -94.5785667
+city_latitude: 39.0997265
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

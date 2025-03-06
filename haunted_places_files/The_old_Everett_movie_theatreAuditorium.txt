@@ -1,0 +1,21 @@
+city: Everett
+country: United States
+description: Located in downtown of north Everett, the theatre has had several people in the last 20 or so years, see an apparition or ghost from time to time. It is believed to be a man; either an old deceased patron or worker of the theatre. Psychics have been called in and have reported they felt very much a supernatural presence.
+location: The old Everett movie theatre/Auditorium
+state: Washington
+state_abbrev: WA
+longitude: -122.208177
+latitude: 47.978749
+city_longitude: -122.2020795
+city_latitude: 47.9789848
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

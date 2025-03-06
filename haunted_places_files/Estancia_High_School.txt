@@ -1,0 +1,21 @@
+city: Costa Mesa
+country: United States
+description: Faculty has reported strange smells and being touched when no one else is in the room in the early morning. Night cleaning crews have told of flashlights beams being restricted to only a few feet in front of them in seemingly clear hallways.
+location: Estancia High School
+state: California
+state_abbrev: CA
+longitude: -117.9338432
+latitude: 33.6588268
+city_longitude: -117.9188221
+city_latitude: 33.6412156
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1979/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

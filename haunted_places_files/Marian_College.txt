@@ -1,0 +1,21 @@
+city: Indianapolis
+country: United States
+description: Stokely Mansion - An apparition of a man walking a dog has been seen. An apparition of a brunette woman running out the side porch door and jumping into an awaiting carriage, people have been gently pushed off the dog walk, chills forbidding feelings also noted. Gondolas running without water under them. People having tea in the Japanese Tea House in the middle of the night. - Note: The mansion does not have a driveway at the side porch itself. Any carriage at it would have been in the formal gardens or in the swimming pool.
+location: Marian College
+state: Indiana
+state_abbrev: IN
+longitude: -86.2035016
+latitude: 39.8146979
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1983/07/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.283333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

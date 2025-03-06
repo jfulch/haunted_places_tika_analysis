@@ -1,0 +1,21 @@
+city: Manheim
+country: United States
+description: An electrician was putting the lighting up for the stage in the Auditorium when he slipped and fell to his death. Many students in stage crew still see a ghostly figure falling on certain nights.
+location: Manheim Central High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.3927144
+latitude: 40.1719933
+city_longitude: -76.3949614
+city_latitude: 40.16342789999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

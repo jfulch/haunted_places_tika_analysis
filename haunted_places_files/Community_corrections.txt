@@ -1,0 +1,21 @@
+city: New Castle
+country: United States
+description: disembodied voices heard.
+location: Community corrections
+state: Indiana
+state_abbrev: IN
+longitude: -85.3723579
+latitude: 39.96507250000001
+city_longitude: -85.3702476
+city_latitude: 39.928935
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

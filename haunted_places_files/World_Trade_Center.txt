@@ -1,0 +1,21 @@
+city: Manhattan
+country: United States
+description: Ground Zero Site - people reported seeing The victims spirits - workers and rescuers - & apparitions of the buildings still standing. Several Ghosts have been reported to be crying for help after 9/11.
+location: World Trade Center
+state: New York
+state_abbrev: NY
+longitude: -74.0133795
+latitude: 40.7127431
+city_longitude: -73.9712488
+city_latitude: 40.7830603
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Marlton
+country: United States
+description: The old air port is always been seen as nothing but dirt. But way back in the day it use to be a small airport with building and the whole nine yards, untill one day, a former emoployee came back and set it on fire...The cops believe it was an arsansis but they have no hard facts. So many people who live out here still believe that ghost are haunting up and down kettlerun, and this is why people are getting into the majorty of the accidents... everyone says "they see something so they try to get out of the way of it"
+location: Airport on KettleRun Road
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9354525
+latitude: 39.8997868
+city_longitude: -74.9218324
+city_latitude: 39.8912248
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

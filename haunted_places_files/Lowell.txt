@@ -1,0 +1,21 @@
+city: Lake County
+country: United States
+description: Lake Prairie Cemetery - Mists, orbs of light, and figures of the deceased locals have been seen here. The southern half of the cemetery has the oldest grave markers, and that is where the most activity is. The cemetery is located on Calumet Avenue, 2 miles west of route 41.
+location: Lowell
+state: Indiana
+state_abbrev: IN
+longitude: -87.4205903
+latitude: 41.2914243
+city_longitude: -87.30161319999999
+city_latitude: 41.4897279
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

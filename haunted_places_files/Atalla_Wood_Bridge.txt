@@ -1,0 +1,21 @@
+city: Attalla
+country: United States
+description: Some people say that a school bus full a kids fell of the bridge and went into the lake for years people say that if you go there at night just put your front wheels on the bridge on the right side of the bridge and then put your car into neutral the children of the school bus accident will push you across so that you don't fall off.
+location: Atalla Wood Bridge
+state: Alabama
+state_abbrev: AL
+longitude: -86.1161661
+latitude: 33.9832721
+city_longitude: -86.0885852
+city_latitude: 34.0217639
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

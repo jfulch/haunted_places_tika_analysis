@@ -1,0 +1,21 @@
+city: Stockport
+country: United States
+description: Stockport is an old run down town and on the outskirts of it there are two silos where a little boy once jumped across and fell to his death, you can still see him jumping back and forth.
+location: Silos
+state: Iowa
+state_abbrev: IA
+longitude: -92.3349139
+latitude: 42.4987494
+city_longitude: -91.8351687
+city_latitude: 40.8575265
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1840/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

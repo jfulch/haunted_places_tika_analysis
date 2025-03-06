@@ -1,0 +1,21 @@
+city: Westfield
+country: United States
+description: The spirits of maids are know to haunt this mansion. Mr. William Steward lived here once. In the basement there is axes and other weapons. A 4th grade class took a trip to see the Mansion and 2 boys had an encounter with a spirit. It was a white shadow. They said it looked like a girl in there mid 20's. She was in the corner crying and they went over to see who it was and nobody was there. The spirit still haunts the McClurg Mansion and the 4th grade classes still go there for a field trip.
+location: McClurg Mansion
+state: New York
+state_abbrev: NY
+longitude: -79.57689549999999
+latitude: 42.3214438
+city_longitude: -79.5781027
+city_latitude: 42.32228
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

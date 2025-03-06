@@ -1,0 +1,19 @@
+city: Fort Bliss
+country: United States
+description: Old stage is haunted with a feeling of desertion, clicking and unexplainable noises in the night. Many soldiers and visitors have died on the shooting ranges and adjacent trails. Come visit the tavern any evening, bring cameras.
+location: MacGregor Range Asa P. Grey Recreation Center, "Tumbleweed Tavern"
+state: Texas
+state_abbrev: TX
+city_longitude: -106.4213208
+city_latitude: 31.812438
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

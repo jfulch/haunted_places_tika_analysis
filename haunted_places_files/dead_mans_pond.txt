@@ -1,0 +1,20 @@
+city: Cottage Grove
+country: United States
+description: It is said that a little boy was pulled under the water and drowned. To this day the ducks will sit at the edge of the water but will not go near the middle. And if you look closely you can see bubbles rise up from the middle of the pond.
+location: dead mans pond
+state: Minnesota
+state_abbrev: MN
+longitude: -92.9582512
+latitude: 44.8208615
+city_longitude: -92.9438218
+city_latitude: 44.8277446
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1516/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

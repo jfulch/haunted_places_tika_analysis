@@ -1,0 +1,21 @@
+city: Skidmore
+country: United States
+description: People claimed to have seen a small child haunting the attic of the house and the owners also claimed to have heard crying and laughing through the walls at night. They also say that they hear dripping (they think it is blood) from the spot under the ceiling fan. The owners and towns people say there is a ghost still haunting the house because there was a child killed by his father up in the basement, hung by a ceiling fan. I know because i lived there one year ago.
+location: Billmore House
+state: Texas
+state_abbrev: TX
+longitude: -82.5523204
+latitude: 35.5405665
+city_longitude: -97.6855522
+city_latitude: 28.2541716
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

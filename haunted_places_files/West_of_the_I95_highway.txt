@@ -1,0 +1,21 @@
+city: Bronx
+country: United States
+description: there is an empty lot behind some houses that are now built on Baisley Ave. In among the trees at night u can sometimes see the little girl that was murdered there over 70 years ago and she was thrown in the swamps alive.
+location: West of the I95 highway
+state: New York
+state_abbrev: NY
+longitude: -73.86891
+latitude: 40.83578000000001
+city_longitude: -73.8648268
+city_latitude: 40.8447819
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1938/07/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

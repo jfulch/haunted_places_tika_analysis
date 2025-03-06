@@ -1,0 +1,20 @@
+city: Portsmouth
+country: United States
+description: 830 Murray - It is said that two brothers owned this building, formerly a shoe company. They went bankrupt and the one brother jumped to his death from a window on the fifth floor. Also rumors say it could have been the elevator shaft he jumped down. His brother was so devastated having lost his brother that he, in turn, killed himself. The 2 stories circulating are he threw himself off the roof, or jumped on the tracks in front of a train, which runs right next to the building. It is rumored that you can hear screams on the 5th floor and a breeze blowing, sometimes you might even see or feel the presence of a ghost. They don't have anyone work directly on the fifth floor anymore because people will not stay. One woman working there refuses to go past the third floor. It's definitely a scary place.
+location: Mitchellace
+state: Ohio
+state_abbrev: OH
+longitude: -82.9787731
+latitude: 38.7370849
+city_longitude: -82.9976742
+city_latitude: 38.7317431
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/10/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

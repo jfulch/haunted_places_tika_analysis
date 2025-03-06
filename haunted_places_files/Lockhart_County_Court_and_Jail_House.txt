@@ -1,0 +1,21 @@
+city: Lockhart
+country: United States
+description: Closed in the early 70s, it was made into a museum that is opened on the weekends. The top three levels are what was once the old jail. The jail section is filled with so much pain and sadness and death, it's hard to breathe! The whole place gives off bad vibes. You can sense that a lot of people died up there, and there was a lot of suffering. It's sad and creepy at the same time.
+location: Lockhart County Court and Jail House
+state: Texas
+state_abbrev: TX
+longitude: -97.6718607
+latitude: 29.884354
+city_longitude: -97.6699996
+city_latitude: 29.8849441
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: There was once a fire in this hotel. Guests have claimed to hear the ghosts of the fire victims. - February 2007 Correction: A former worker reports there never was a fire in the Broadmoor Hotel. However, that isn't to say that there aren’t any ghosts. There are several stories in which employees late at night have seen a woman dressed in 1920s clothing walking around the main Hotel. It is believed that this lady is very likely the Countess Portales, wife of Count Portales who built the original casino which had been moved and then used as a golf club house before being torn down in the 1990s.
+location: Broadmoor Hotel
+state: Colorado
+state_abbrev: CO
+longitude: -104.8504458
+latitude: 38.7910423
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Mackinac Island
+country: United States
+description: A little girl with long hair haunts this Bed & Breakfast. You can often hear here playing the Piano. Sometimes guests can see her. She says she wants to go home.
+location: Bogan Lane
+state: Michigan
+state_abbrev: MI
+longitude: -84.61233829999999
+latitude: 45.8510096
+city_longitude: -84.6189339
+city_latitude: 45.8491796
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

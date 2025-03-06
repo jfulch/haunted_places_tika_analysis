@@ -1,0 +1,20 @@
+city: Cape May
+country: United States
+description: An elderly woman's voice is often heard here.
+location: Washington Inn
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9188339
+latitude: 38.9364011
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

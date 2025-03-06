@@ -1,0 +1,20 @@
+city: Greenwood
+country: United States
+description: in the graveyard at rock church many strange happenings have occurred.  The graveyard is very old, some headstones are just rocks. The grass doesn't grow around some headstones at all. At night sometimes singing can be heard. White mists have been seen circling around the church on clear sunny days with no fog or dark clouds in the sky. A white figure of a man has been seen in the in the house beside the church in the master bedroom.  In the basement doors rarely stay locked and blue spots have filled the room,and quickly disappeared only to reappear, follow up the stairs and disappear in the kitchen leaving a very harsh musty smell.
+location: Rock Church Graveyard
+state: South Carolina
+state_abbrev: SC
+longitude: -82.113413
+latitude: 34.229341
+city_longitude: -82.1617883
+city_latitude: 34.1954001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/06/20
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

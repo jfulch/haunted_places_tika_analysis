@@ -1,0 +1,21 @@
+city: Haymarket
+country: United States
+description: It is said that a farmer believed his daughter was responsible for giving her mother spoiled meat that killed her so he hung his daughter from a meat hook on the fourth floor of their mill. Her image on the meat hook has been seen frequently. The mill was more recently burnt down and I haven't heard what happens since that.
+location: Haymarket (Beverly) Mill
+state: Virginia
+state_abbrev: VA
+longitude: -77.7104493
+latitude: 38.824166
+city_longitude: -77.6363806
+city_latitude: 38.8120591
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

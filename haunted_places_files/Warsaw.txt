@@ -1,0 +1,21 @@
+city: Hancock
+country: United States
+description: Peyton's Place - A man supposedly went crazy on his family and killed them all with a pitch fork. if you walk back into the woods into their private cemetery, a young man's voice will call at you to run and leave. also, a black '62 mustang will chase you when you leave and then vanishes from your rearview mirror.
+location: Warsaw
+state: Illinois
+state_abbrev: IL
+longitude: -91.4345978
+latitude: 40.35921099999999
+city_longitude: -91.135302
+city_latitude: 40.38493649999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

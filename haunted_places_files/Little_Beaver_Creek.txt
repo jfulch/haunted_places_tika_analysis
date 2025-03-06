@@ -1,0 +1,20 @@
+city: Columbiana County
+country: United States
+description: the bridge over Little Beaver Creek, in Lisbon is haunted. There is said to be strange sounds and ghosts seen. Not too far from there, On Church Hill Road there is another bridge, which is said to be haunted.
+location: Little Beaver Creek
+state: Ohio
+state_abbrev: OH
+longitude: -80.613689
+latitude: 40.726653
+city_longitude: -80.7657804
+city_latitude: 40.7902581
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1567/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Baxterville
+country: United States
+description: Occurrences of people walking through the cemetery when no one is there.  Feelings of dread when you are in or outside of the cemetery at night.  Strange occurrences at homes that surround the cemetery.  Graves at the cemetary date back to the mid 1800's.
+location: Myrtle Grove Cemetery
+state: Mississippi
+state_abbrev: MS
+longitude: -89.6036413
+latitude: 31.0473719
+city_longitude: -89.590278
+city_latitude: 31.083889
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

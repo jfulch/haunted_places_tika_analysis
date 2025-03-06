@@ -1,0 +1,21 @@
+city: Munford
+country: United States
+description: Gravity Hill - Gravity Hill is on Cheaha Road. When you go there, put your car in neutral and sit there and your car will be pulled. Loud screams of a woman who was murdered there can be heard.
+location: Chehae
+state: Alabama
+state_abbrev: AL
+longitude: -85.8874488
+latitude: 33.4848529
+city_longitude: -85.95080050000001
+city_latitude: 33.5298282
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

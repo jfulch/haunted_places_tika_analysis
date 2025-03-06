@@ -1,0 +1,21 @@
+city: Glenbeulah
+country: United States
+description: A graveyard filled with graves that date back to the early 1800s.A man hung himself in this graveyard and is said to be found walking about after midnight you also can see a glowing grave and a pair of shows that appear on a grave. This graveyard was featured on Unsolved Mysteries a few years back and they did come up with ghost activity.
+location: Glenbeulah Graveyard
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.0477703
+latitude: 43.7911162
+city_longitude: -88.0473179
+city_latitude: 43.7972157
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

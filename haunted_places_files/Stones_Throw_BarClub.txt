@@ -1,0 +1,21 @@
+city: Eau Claire
+country: United States
+description: an employee there for a few years reports almost everyone that worked there had strange things happen. People would hear footsteps in the old kitchen hallways downstairs, beer bottles would mysteriously break and/or fly across the room in the basement. Bartenders would hear doors slam downstairs after the bar had closed and they were the only ones there. Once long after everyone had left, a bartender was getting ready to leave when he shouted "ok everybody out" jokingly knowing he had already cleared the bar of people. At that instance, a man stood up from his chair, shook out his coat and proceeded to walk to the door, where he disappeared completely. That bartender left and never worked again. It is one of the oldest buildings in town, and it is rumored that a man hung himself there in the early 1900's.
+location: Stones Throw Bar/Club
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.5005317
+latitude: 44.8124231
+city_longitude: -91.4984941
+city_latitude: 44.811349
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lake Worth
+country: United States
+description: Lake Worth 8 Cinemas - cold spots can be felt in the auditorium, there is sometimes an occasional, brief breeze, and the temperature of the auditorium is always colder than the rest of the building, regardless of what the thermostat is set at. There is also a knocking sound that can occasionally be heard coming from one of the doors leading from the hallway while movies are playing and whenever a children's movie is run in that auditorium, the projector will either stop during the middle of the show several times, or the film would get jammed in the machine.
+location: West Palm Beach
+state: Florida
+state_abbrev: FL
+longitude: -80.0684479
+latitude: 26.6167555
+city_longitude: -80.0684479
+city_latitude: 26.6167555
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1885/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

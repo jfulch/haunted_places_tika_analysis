@@ -1,0 +1,20 @@
+city: Moorhead
+country: United States
+description: auditorium - A lady died of a heart attack and things like last year power went out and the sound of curtains shutting came from the ceiling and a bolt fell.
+location: Moorhead High school
+state: Minnesota
+state_abbrev: MN
+longitude: -96.7428763
+latitude: 46.8720698
+city_longitude: -96.7678039
+city_latitude: 46.8737648
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

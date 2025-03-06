@@ -1,0 +1,20 @@
+city: Savannah
+country: United States
+description: Formerly a mental facility, there have been many sightings and sounds blames on a ghost they call "Oscar". Oscar was a patient in the mental facility and before he died he swore to never leave and to make everyone's lives there hell. My fiance worked as a CMT (med-tech) there, she didn't believe in ghosts until Oscar made a bunch of noise and scared her out of the basement one night.
+location: Shady Lawn Nursing Home
+state: Missouri
+state_abbrev: MO
+longitude: -94.756241
+latitude: 39.935165
+city_longitude: -94.8302451
+city_latitude: 39.9416606
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1958/11/18
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

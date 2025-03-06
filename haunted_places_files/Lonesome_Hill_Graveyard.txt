@@ -1,0 +1,20 @@
+city: Lebanon
+country: United States
+description: Blue mists coming out of the woods following you. - February 2007 Additional Information;Warning: Visiting this place after dark is prohibited.
+location: Lonesome Hill Graveyard
+state: Missouri
+state_abbrev: MO
+longitude: -92.7591587
+latitude: 37.582746
+city_longitude: -92.6637865
+city_latitude: 37.6805967
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 0

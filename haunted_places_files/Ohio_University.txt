@@ -1,0 +1,20 @@
+city: Athens
+country: United States
+description: Wilson Hall - Reports of banging, cold spots, blood would appear on the walls no mater how many times it was painted. And other strange phenomena such as the face of a demon showing up in the wood grain on a dorm room door, where a girl believed to be possessed killed herself.
+location: Ohio University
+state: Ohio
+state_abbrev: OH
+longitude: -82.10138889999999
+latitude: 39.324358
+city_longitude: -82.1012554
+city_latitude: 39.3292396
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1848/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

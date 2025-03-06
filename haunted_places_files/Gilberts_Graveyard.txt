@@ -1,0 +1,21 @@
+city: Dorchester
+country: United States
+description: Haunted graveyard by the Gilbert family who were pioneers in the 1890's. Strange noises and the movement of the tombstone are just the tip of this sight.
+location: Gilbert's Graveyard
+state: Nebraska
+state_abbrev: NE
+longitude: -97.198728
+latitude: 40.6117875
+city_longitude: -97.116426
+city_latitude: 40.6458388
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

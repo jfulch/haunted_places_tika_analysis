@@ -1,0 +1,21 @@
+city: Palmerdale
+country: United States
+description: A strange man believed to be the groundskeeper of the first built school can be seen in the front window. He can also be seen walking the halls. He will then appear in the window. Also, the feeling of being chased is felt.
+location: Kindergarten
+state: Alabama
+state_abbrev: AL
+longitude: -86.6535695
+latitude: 33.730016
+city_longitude: -86.6461003
+city_latitude: 33.738712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 37m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Temple Hills
+country: United States
+description: Behind all of the bushes and debris is an steep hill leading to an small pond. If you notice that two trees are intertwined with each other. If you would to walk under them, you will feel a sense of pressure around your arms and shoulders. Talking to industrial workers, they said that back in the 60's, a group of teens would go fishing in the pond and they wound climb the branches to jump in the water, then one drowned and was not saved by his friends. Two of the teenagers still frequent the spot.
+location: Beach Rd
+state: Maryland
+state_abbrev: MD
+longitude: -76.931207
+latitude: 38.823685
+city_longitude: -76.9455296
+city_latitude: 38.8140024
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1685/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

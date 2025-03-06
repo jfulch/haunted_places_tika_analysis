@@ -1,0 +1,21 @@
+city: Kings Mountain
+country: United States
+description: during the time of the revolutionary war a tavern was located at a crossroads' now the intersection of Oak Grove and Stoney Point roads, the legend is that a British soldier carrying stolen plans was in route to warn the British as he stopped at the tavern for a rest he was identified as a Brit and killed by the inn keeper, and on moonlit nights you can see him at the crossroads, he always looks confused, as you try to approach he disappears.
+location: Oak Grove
+state: North Carolina
+state_abbrev: NC
+longitude: -81.4038071
+latitude: 35.2759485
+city_longitude: -81.34119419999999
+city_latitude: 35.2451342
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Murder
+witness_count: 1

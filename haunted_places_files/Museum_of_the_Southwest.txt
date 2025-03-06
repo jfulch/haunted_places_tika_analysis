@@ -1,0 +1,21 @@
+city: Midland
+country: United States
+description: The ghost of it's murdered owner when it was a mansion haunts upstairs.
+location: Museum of the Southwest
+state: Texas
+state_abbrev: TX
+longitude: -102.092519
+latitude: 31.993304
+city_longitude: -102.0779146
+city_latitude: 31.9973456
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

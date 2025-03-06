@@ -1,0 +1,21 @@
+city: Omaha
+country: United States
+description: This commercial haunted house is supposed to be actually haunted by several spirits. Visitors to the Halloween events have reported a 'lady in a blue dress' near the end of the tour who is not a staff member. The owners also mention other phenomena happening during the rest of the year. Their website is - www.mysterymanoromaha.org and they discuss these events there.
+location: Mystery Manor
+state: Nebraska
+state_abbrev: NE
+longitude: -95.9397716
+latitude: 41.2667178
+city_longitude: -95.9979883
+city_latitude: 41.2523634
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

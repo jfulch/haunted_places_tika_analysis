@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: Witnesses have claimed to hear strange voices and eerie music inside this old church. There have even been reports of a young female apparition walking down the front stairs. She is dressed in a gown from the 1800’s.
+location: D.A.R. Building
+state: Washington
+state_abbrev: WA
+longitude: -122.3229369
+latitude: 47.58354910000001
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

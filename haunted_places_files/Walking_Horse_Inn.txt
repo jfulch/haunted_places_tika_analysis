@@ -1,0 +1,21 @@
+city: Wartrace
+country: United States
+description: Was the location where the Union released most of the Confederate prisoners at the end of the war. Many were very sick and malnourished, several have past away in the hotel. Also in the 70's a Vietnam vet.(during a flash-back) shot and killed four other guests in the hotel. You can hear walking and running in the hallways, gunshots, and many voices (as in a group of people) talking late at night. There are 13 rooms in the hotel; room 11 has a very eerie feel to it, as though you are being watched.
+location: Walking Horse Inn
+state: Tennessee
+state_abbrev: TN
+longitude: -86.3344315
+latitude: 35.5273493
+city_longitude: -86.33360429999999
+city_latitude: 35.5272954
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

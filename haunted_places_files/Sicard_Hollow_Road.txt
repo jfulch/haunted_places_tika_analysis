@@ -1,0 +1,21 @@
+city: Birmingham
+country: United States
+description: Just drive up and down this road at night and you will feel the strange energy. This road was part of the original Alabama interstate highway over 100 years ago.
+location: Sicard Hollow Road
+state: Alabama
+state_abbrev: AL
+longitude: -86.67836609999999
+latitude: 33.468268
+city_longitude: -86.80248999999999
+city_latitude: 33.5206608
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

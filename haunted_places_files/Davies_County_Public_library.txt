@@ -1,0 +1,21 @@
+city: Owensboro
+country: United States
+description: an apparition of a boy with high red knee socks, a red vest, very old style shoes, high shorts, and one of those hats you see on many men back in the 20's and 30's.
+location: Davies County Public library
+state: Kentucky
+state_abbrev: KY
+longitude: -87.1121167
+latitude: 37.7559529
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

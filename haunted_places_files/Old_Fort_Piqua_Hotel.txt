@@ -1,0 +1,20 @@
+city: Piqua
+country: United States
+description: Downtown Piqua, haunted hotel.
+location: Old Fort Piqua Hotel
+state: Ohio
+state_abbrev: OH
+longitude: -84.24012300000001
+latitude: 40.148931
+city_longitude: -84.24244490000001
+city_latitude: 40.1447732
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

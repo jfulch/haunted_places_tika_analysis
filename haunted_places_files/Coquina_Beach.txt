@@ -1,0 +1,21 @@
+city: Bradenton
+country: United States
+description: On Coquina Beach, at the very southern tip of the island before the Longboat Key bridge, there is a span of public beach where there once was a hotel but now it is a picnic area. On the beach, a male figure in black clothing walks from the picnic area to the shoreline and vanishes. This particular area has a lot of wandering spirits at night, but this male ghost has been seen in daylight and looks totally out of place.
+location: Coquina Beach
+state: Florida
+state_abbrev: FL
+longitude: -82.6924095
+latitude: 27.4513185
+city_longitude: -82.5748194
+city_latitude: 27.4989278
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

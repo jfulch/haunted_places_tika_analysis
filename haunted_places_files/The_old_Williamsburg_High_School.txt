@@ -1,0 +1,20 @@
+city: Williamsburg
+country: United States
+description: The county's last hanging tree was where the library is, three students jumped out of the third floor window, a janitor hung himself in the closet on the third floor, and a teacher also shot herself on the third floor. People have seen lights going from room to room at night.
+location: The old Williamsburg High School
+state: Ohio
+state_abbrev: OH
+longitude: -84.0657987
+latitude: 39.051928
+city_longitude: -84.05298859999999
+city_latitude: 39.0542311
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

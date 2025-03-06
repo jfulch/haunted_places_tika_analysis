@@ -1,0 +1,21 @@
+city: Nashua
+country: United States
+description: the ghost of Elizabeth Ford haunts her former home.
+location: Country Tavern
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.517755
+latitude: 42.78988
+city_longitude: -71.46756599999999
+city_latitude: 42.7653662
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1791/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

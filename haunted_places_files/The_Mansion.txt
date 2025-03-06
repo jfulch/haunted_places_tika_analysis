@@ -1,0 +1,21 @@
+city: Bellingham
+country: United States
+description: a man pacing and a woman screaming in pain are heard here, where a woman had died in childbirth.
+location: The Mansion
+state: Washington
+state_abbrev: WA
+longitude: -122.4750367
+latitude: 48.7453675
+city_longitude: -122.4786854
+city_latitude: 48.7519112
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Smith Township
+country: United States
+description: Located between Alliance and Sebring, is Lexington Rd. It is more commonly known as "Jewish Cemetery Road". An elderly caretaker was hit by a car and killed while walking to the cemetery with his dog, to lock up the Cemetery for the night. A short time later, the dog was also hit and killed, supposedly walking the road looking for "Zeke" his master. The ghost of the dog is still seen around dusk close to the cemetery.
+location: Mahoning County
+state: Ohio
+state_abbrev: OH
+longitude: -81.0202533
+latitude: 40.9608876
+city_longitude: -81.0202533
+city_latitude: 40.9608876
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: DeFuniak Springs
+country: United States
+description: Ghost of a small girl wanders the Emergency Operations Center. The girl (Sally May) keeps E-911 Operators alert on the Midnight shift. Locals say she died a violent death in the 1920's on the location the building now stands.
+location: Emergency Operations Center
+state: Florida
+state_abbrev: FL
+longitude: -86.0940244
+latitude: 30.7241761
+city_longitude: -86.11521839999999
+city_latitude: 30.7210227
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

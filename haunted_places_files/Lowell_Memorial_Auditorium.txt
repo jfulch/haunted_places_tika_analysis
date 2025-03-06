@@ -1,0 +1,20 @@
+city: Lowell
+country: United States
+description: The building is about 100 years old and when it is late at night, there have been numerous accounts of doors slamming when no one is in that part of that building. It is said that their is ghost occupying a consession stand and tends to walk up and down the hallways late at night when only the box office employees are working. There have been many accounts when patrons feeling someone tugging on their shirts during events!
+location: Lowell Memorial Auditorium
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.3041913
+latitude: 42.645133
+city_longitude: -71.31617179999999
+city_latitude: 42.6334247
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

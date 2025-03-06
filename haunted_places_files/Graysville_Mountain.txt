@@ -1,0 +1,21 @@
+city: Graysville
+country: United States
+description: It has been rumored for a long time now that the rock overhang on the mountain is haunted by several ghost that come out at night. Feelings of suicide have over whelmed ones visiting.
+location: Graysville Mountain
+state: Tennessee
+state_abbrev: TN
+longitude: -85.1171169
+latitude: 35.457417
+city_longitude: -85.0844001
+city_latitude: 35.4470137
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

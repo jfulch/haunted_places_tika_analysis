@@ -1,0 +1,21 @@
+city: Grand Blanc
+country: United States
+description: Mysterious smoke coming from the bathrooms. Teachers would go in there, thinking someone was smoking and there would be nobody there. Cameras would show that nobody even went into the bathrooms. During tests, students will sometimes hear voices coming from the venting systems. Lockers will mysteriously open and slam shut and nobody will be in the hallways. Every now and then, you would hear people whispering in the bathroom stall next to you and nobody will be there. Also, door stalls will open and slam shut, even yours. It seems that the bathrooms at the high school are particularly haunted.
+location: Grand Blanc High School
+state: Michigan
+state_abbrev: MI
+longitude: -83.63065429999999
+latitude: 42.9205822
+city_longitude: -83.6299518
+city_latitude: 42.9275277
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2018/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

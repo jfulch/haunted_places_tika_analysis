@@ -1,0 +1,21 @@
+city: Uxbridge
+country: United States
+description: There was sightings in the early 70s of a headless biker. Would bike up and down Blackstone St. and anybody driving down the road that saw him somehow disappeared.
+location: Blackstone St.
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.6047435
+latitude: 42.064856
+city_longitude: -71.6302532
+city_latitude: 42.07724289999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

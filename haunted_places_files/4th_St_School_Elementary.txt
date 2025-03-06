@@ -1,0 +1,21 @@
+city: East Los Angeles
+country: United States
+description: There was a ten year old boy who got locked in the little boys room and left there over night, found the next day strangled. His unexplained death still haunts till this day. There have been sightings of him playing in the monkey bars late at night. You can also hear him in the restrooms (boys & Girls) crying, screaming trying to open the doors, screaming "please let me out".
+location: 4th St. School Elementary
+state: California
+state_abbrev: CA
+longitude: -118.1534903
+latitude: 34.0286694
+city_longitude: -118.1669736
+city_latitude: 34.0224417
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

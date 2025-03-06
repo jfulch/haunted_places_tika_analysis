@@ -1,0 +1,19 @@
+city: Benjamin
+country: United States
+description: In the late seventies a six year old boy drown in the pool and some family members of the owner and guests have said that they have seen the shadow of a boy as well as a green mist on the stairs. In one of the up stairs bedrooms, if you are awake around one in the morning you are able to hear several soft voices. In the two downstairs bedrooms there have sightings of an old woman and a very unpleasant presence. Some also tell of a "ghost cat" that wanders around the back of the house near the place that we buried her.
+location: Old Arrowhead Swimming Resort
+state: Utah
+state_abbrev: UT
+city_longitude: -111.731318
+city_latitude: 40.0982875
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Altamont
+country: United States
+description: It has a rock shaped like the Devil's horns out of the hill you can see it really well and it is said that the devil roams down there, it is in the valley, don't know if the one talking about St. Elmo-valley is talking about the same one.
+location: Devil's Peak
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.74811079999999
+city_latitude: 39.061988
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

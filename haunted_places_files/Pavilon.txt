@@ -1,0 +1,21 @@
+city: Mullan
+country: United States
+description: if you are down stars swimming you will hear people playing basketball or running when no one is there. Sometimes you can hear people from the locker rooms. some say there was a funeral held there for a kid that died from drinking and driving. some say a kid died in the pool down stars.
+location: Pavilon
+state: Idaho
+state_abbrev: ID
+longitude: -115.7991964
+latitude: 47.470504
+city_longitude: -115.8018253
+city_latitude: 47.4702078
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

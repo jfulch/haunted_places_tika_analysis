@@ -1,0 +1,21 @@
+city: Westmoreland
+country: United States
+description: Norvelt Coke Ovens - Noises of rocks being thrown into the creek late at night. No sign of animals. Figures were seen slowly walking deep in the woods, wearing miners equipment.
+location: Norvelt
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.49753799999999
+latitude: 40.2081263
+city_longitude: -79.4703885
+city_latitude: 40.2353963
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

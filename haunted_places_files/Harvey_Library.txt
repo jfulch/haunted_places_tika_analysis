@@ -1,0 +1,21 @@
+city: Harvey
+country: United States
+description: It has been said that at night when no one is in the building there have been books pulled from shelves and left on the floor open. When the workers come in for work they find the books pulled out.
+location: Harvey Library
+state: North Dakota
+state_abbrev: ND
+longitude: -99.9355056
+latitude: 47.7681901
+city_longitude: -99.935404
+city_latitude: 47.769723
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,17 @@
+city: Foster
+country: United States
+description: Dolly Cole, a suspected witch, lost her daughter to a house fire set by her neighbors thinking Dolly was in the house.  She swore revenge on them all, and is seen wondering along the dirt road near her gravesite. Hauntings also include a spirit appearing to hunters on a private sportsmanship club while hunting and upon the lake on opening day of trout season.
+location: Dolly Cole's Grave Site
+state: Rhode Island
+state_abbrev: RI
+city_longitude: -71.7581249
+city_latitude: 41.8537098
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/15
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

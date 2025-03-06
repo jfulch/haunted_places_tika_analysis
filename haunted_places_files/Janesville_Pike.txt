@@ -1,0 +1,21 @@
+city: Tyrone
+country: United States
+description: The story behind this, Is that a woman died in a car wreck on her wedding night, And the woman is still searching the area for her husband. There's an area a few miles up Janesville pike where the guard rails end, there’s a small yellow sign, And a small area where you can pull off the road.. Your supposed to drive up to this area, Get out of your vehicle, Light a match and while the wind blows the match out you say her name, Sylvia.. Drive back down the mountain and do this three times and after the third match blows out, She is supposed to appear wearing a white wedding dress.
+location: Janesville Pike
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.2796406
+latitude: 40.693663
+city_longitude: -78.23862439999999
+city_latitude: 40.6706184
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

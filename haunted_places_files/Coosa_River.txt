@@ -1,0 +1,21 @@
+city: Gadsden
+country: United States
+description: In the 1950's, several well-known citizens of Gadsden reported seeing a sea serpent while they were fishing in the Coosa River.
+location: Coosa River
+state: Alabama
+state_abbrev: AL
+longitude: -86.0066386
+latitude: 34.014264
+city_longitude: -86.0066386
+city_latitude: 34.014264
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1901/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

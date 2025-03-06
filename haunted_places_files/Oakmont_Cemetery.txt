@@ -1,0 +1,21 @@
+city: Ridgway
+country: United States
+description: At 3:00 a.m. the spirits walk the graveyard. And some of the are not rested yet.
+location: Oakmont Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.7486835
+latitude: 41.4383227
+city_longitude: -78.7286388
+city_latitude: 41.4203391
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

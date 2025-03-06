@@ -1,0 +1,21 @@
+city: Monrovia
+country: United States
+description: Supposed noises are heard there, and an apparition of a lady in gray white (not too clear, on that) is said to haunt the place. This place is located on Foothill Blvd. near the corner of Myrtle.
+location: Azteca Building
+state: California
+state_abbrev: CA
+longitude: -118.0058006
+latitude: 34.1514374
+city_longitude: -118.0019482
+city_latitude: 34.1442616
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1998/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

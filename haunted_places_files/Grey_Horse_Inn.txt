@@ -1,0 +1,21 @@
+city: the plains
+country: United States
+description: Replay of a confederate soldier being killed.
+location: Grey Horse Inn
+state: Virginia
+state_abbrev: VA
+longitude: -77.77792699999999
+latitude: 38.860679
+city_longitude: -77.7738827
+city_latitude: 38.8620578
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 0

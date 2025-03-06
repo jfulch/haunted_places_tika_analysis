@@ -1,0 +1,21 @@
+city: Jefferson City
+country: United States
+description: Rumor is a girl was raped and murdered in a closet 8 years ago, and kids in the class room constantly complain about the cool air coming from the closet and there are always scratch marks on the closet door popping up, day after day.
+location: Jefferson County High School
+state: Tennessee
+state_abbrev: TN
+longitude: -83.4671893
+latitude: 36.0512446
+city_longitude: -83.492396
+city_latitude: 36.122311
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

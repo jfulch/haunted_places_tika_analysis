@@ -1,0 +1,21 @@
+city: Dahlonega
+country: United States
+description: In the 4th grade girls bathroom, toilets flush, water turns on by itself, stalls open and close. Moaning and crying can be heard in the last stall. Graffiti, which has been removed, has appeared again the next day. Also cold spots have been reported.
+location: Lumpkin County Elementary School
+state: Georgia
+state_abbrev: GA
+longitude: -83.990499
+latitude: 34.5446837
+city_longitude: -83.9843953
+city_latitude: 34.5261465
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

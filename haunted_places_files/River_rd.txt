@@ -1,0 +1,21 @@
+city: Brunswick
+country: United States
+description: Up and down river road there are 5 markers made out of stone. It is said that thousands of years ago Native Americans lived on this site. There have been many many surveyors that have looked over the stones and nobody knows what they are or what they were used for. that late at night on full moons strange things happen near those stones. you can hear old voices and singing.
+location: River rd
+state: Maine
+state_abbrev: ME
+longitude: -70.0155408
+latitude: 43.9344945
+city_longitude: -69.966996
+city_latitude: 43.9140162
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

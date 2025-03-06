@@ -1,0 +1,20 @@
+city: Anderson
+country: United States
+description: A Ghostly Figure with a white masked believed to be a killer that slaughtered in the 1500's.
+location: Cobbs Way
+state: South Carolina
+state_abbrev: SC
+longitude: -82.5970207
+latitude: 34.5436115
+city_longitude: -82.6501332
+city_latitude: 34.5034394
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2015/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

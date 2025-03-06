@@ -1,0 +1,21 @@
+city: Weymouth
+country: United States
+description: A man in black can sometimes be seen floating up and down the street late at night. He fades away when you start to stare.
+location: Rindge Street
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.945135
+latitude: 42.224845
+city_longitude: -70.94103559999999
+city_latitude: 42.2180724
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

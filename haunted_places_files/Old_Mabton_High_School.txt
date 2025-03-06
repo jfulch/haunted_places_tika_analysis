@@ -1,0 +1,21 @@
+city: Mabton
+country: United States
+description: It is a creepy feeling by just looking at it. It is said that you can heard kids walking, screaming, and running down the stairs. You hear pans from the kitchen banging. The shutters opening and shutting. The school was just shut down due to it being unsafe, it is now all boarded up and graffited.
+location: Old Mabton High School
+state: Washington
+state_abbrev: WA
+longitude: -119.99471
+latitude: 46.2122079
+city_longitude: -119.9967079
+city_latitude: 46.2148534
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1895/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

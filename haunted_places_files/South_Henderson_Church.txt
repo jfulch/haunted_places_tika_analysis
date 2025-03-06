@@ -1,0 +1,21 @@
+city: Gladstone
+country: United States
+description: A college group from Knox College took a field trip to the cemetery next to South Henderson Church. They took cameras and surveillance equipment and found many weird things. They found millions of orbs and deducted that the cemetery is a gateway to the other realm.
+location: South Henderson Church
+state: Illinois
+state_abbrev: IL
+longitude: -90.9125209
+latitude: 40.8726829
+city_longitude: -90.9612528
+city_latitude: 40.864483
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1837/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Estes Park
+country: United States
+description: Gordon and Ethel Mace built this charming lodge in 1917, and it stayed in their family until 1986 when the family lost ownership of it. Not to deter Ethel, however, who has haunted her old room for years. She especially likes to sit in a wing-backed rocker before a fireplace in what is now a storage room, her feet up, reading the Bible. Gordon hates smoking. Few guests are able to keep a cigarette lit for long - something smashes it out or steals the pack! Ethel must be somewhat of a prohibitionist, because mixed drinks seem to spill and fly off tables fairly often.
+location: Baldpate Inn
+state: Colorado
+state_abbrev: CO
+longitude: -105.5336429
+latitude: 40.3086412
+city_longitude: -105.5216651
+city_latitude: 40.3772059
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1917/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

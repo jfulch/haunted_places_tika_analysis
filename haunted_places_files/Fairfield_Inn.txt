@@ -1,0 +1,19 @@
+city: Providence
+country: United States
+description: On the bottom floor in one the rooms closer to the front, a ghost dressed in old clothes from approx the late 1700's with a triangle shaped hat. Weathered, leathery looking face. Dressed as a farmer not military. Stands in face and mumbles no words could be made out.
+location: Fairfield Inn
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.5066233
+latitude: 42.1617019
+city_longitude: -71.4128343
+city_latitude: 41.8239891
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/08/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

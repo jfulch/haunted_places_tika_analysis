@@ -1,0 +1,21 @@
+city: Mitchellville
+country: United States
+description: Two little girls are repeatedly spotted wandering around these grounds, and another can be heard singing in the basement of one of the oldest buildings there.
+location: Iowa Correctional Institute For Women
+state: Iowa
+state_abbrev: IA
+longitude: -93.3669296
+latitude: 41.6638805
+city_longitude: -93.3571534
+city_latitude: 41.6666555
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

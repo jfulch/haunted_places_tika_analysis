@@ -1,0 +1,21 @@
+city: Elizabeth
+country: United States
+description: The Newborn Nursery is haunted by a woman in white. A room in the Special Care Nursery is known for suddenly becoming cold and furniture and equipment is known to move by itself. A crying baby is sometimes heard in the third unused Nursery. A room in the postpartum ward is known for a rocking chair that rocks by itself and a toilet that flushes by itself. The hospital operator one night received a phone call from a patient room the voice on the other end requested that she send "help"---the room was in a closed down, unused ward and had no telephone.
+location: Elizabeth General Medical Center in Elizabeth
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.21421819999999
+latitude: 40.6585683
+city_longitude: -74.2107006
+city_latitude: 40.6639916
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

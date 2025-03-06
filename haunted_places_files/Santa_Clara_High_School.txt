@@ -1,0 +1,21 @@
+city: Oxnard
+country: United States
+description: Santa H was established in 1901. there have been many reports of numerous hauntings. nuns used to live on the premises and there have been a number a reports of people seeing a hooded figure in the hallways floating. there have also been voices and chanting coming from the old chapel that is no longer used. the most popular ghost at Santa Clara is named Joey. Joey was a student at the school in the early 50s, when he was killed in a car accident on his way to a basketball game. there have been several reports from teachers and students of hearing a basketball in the gym late at night and locker doors slamming after the room has been locked up.
+location: Santa Clara High School
+state: California
+state_abbrev: CA
+longitude: -119.178386
+latitude: 34.178567
+city_longitude: -119.1770516
+city_latitude: 34.1975048
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1901/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

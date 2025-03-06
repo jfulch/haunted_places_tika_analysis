@@ -1,0 +1,20 @@
+city: Arrville
+country: United States
+description: When you go down mt. Eaton Road, there is a haunted cemetery hidden down a long driveway. When you go there at night, there are these huge gravestones that glow bright green. If you touch them and they turn blue, they are at your house murdering you family. If it turns pink, they are right behind you and are very dangerous. If you run they will chase you until you pee your pants. Literally.
+location: Mt. Eaton Road
+state: Ohio
+state_abbrev: OH
+longitude: -81.7050707
+latitude: 40.853217
+city_longitude: -81.7640212
+city_latitude: 40.8436663
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

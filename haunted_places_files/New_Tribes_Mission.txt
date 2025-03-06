@@ -1,0 +1,21 @@
+city: Sanford
+country: United States
+description: Former hotel is now home to missionaries from New Tribes Mission. In the East Wing there have been disturbances of many kinds including poltergeist activity and cold spots. To date there has been no formal paranormal investigation due to fear of bad press, but an informal check shows that something is going on there.
+location: New Tribes Mission
+state: Florida
+state_abbrev: FL
+longitude: -81.27062719999999
+latitude: 28.8120837
+city_longitude: -81.269453
+city_latitude: 28.8028612
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

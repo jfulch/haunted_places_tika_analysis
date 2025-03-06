@@ -1,0 +1,21 @@
+city: Lahaina
+country: United States
+description: has been said that the boys dormitory, in Lahainaluna High School, is haunted by two ghosts. One is the barking a ghost dog that walks the halls of the dormitory. The other is the ghost of a man in which one of the borders have combed their hair in the bathroom, gone off to his room to bed, and then waking up to find the man, partnered by a dog, holding out his hand to give back the strand of hair that boy had left in the bathroom.
+location: Lahainaluna High School: David Malu/Boys Dormitory
+state: Hawaii
+state_abbrev: HI
+longitude: -156.6601452
+latitude: 20.887746
+city_longitude: -156.6825
+city_latitude: 20.8783333
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1823/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

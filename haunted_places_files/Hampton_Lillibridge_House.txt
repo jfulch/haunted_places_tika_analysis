@@ -1,0 +1,19 @@
+city: Savannah
+country: United States
+description: This is said to be the most haunted house in Savannah, and the only house known to have had an exorcism. When the house was being restored in the 1960s, some workmen refused to finish the job because of strange occurrences (tools disappearing, hearing footsteps when they knew they were alone, strange feelings). On one occasion, a man was seen wearing a black suit and bow tie in the third floor window when no one was living in the house. Neighbors have also heard a woman's scream coming from within the house, and a gray haired man has also been sighted.
+location: Hampton Lillibridge House
+state: Georgia
+state_abbrev: GA
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

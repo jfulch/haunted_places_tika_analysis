@@ -1,0 +1,20 @@
+city: Aiken
+country: United States
+description: This Inn was built in 1898 and is still open today. The second floor has many unusual happenings. Many unexplained noises and shadows. Housekeepers report hearing "whispers" when the floor is empty. Many times a housekeeper's cart will be at the opposite end of the hall when she returns from cleaning a room. Guests report a lady crying, sometimes screaming on occasion. Toilets flush in unoccupied rooms. Doors open and close. Many times the TV in room 225 is found on even though it has not been unoccupied. The lights in the basement mysteriously are found on.
+location: Holley House
+state: South Carolina
+state_abbrev: SC
+longitude: -81.7220672
+latitude: 33.5612335
+city_longitude: -81.7195533
+city_latitude: 33.5604168
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1898/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

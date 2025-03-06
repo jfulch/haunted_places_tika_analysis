@@ -1,0 +1,20 @@
+city: St. James
+country: United States
+description: The legend goes that if you go down Spook Hollow road that you will end up at a cemetery. If you go into the cemetery at night that no matter what time of year it is the weather is nice and cozy. The legend also says that there were a group of children that were going to the cemetery to perform some kind of sacrifice. Some of the children can be heard from some of the sacrifices that were done. There is also a little house on that road that people say house some of the adults that were involved.
+location: Spook Hollow
+state: Missouri
+state_abbrev: MO
+longitude: -91.6109923
+latitude: 37.9551828
+city_longitude: -91.6143224
+city_latitude: 37.9972645
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

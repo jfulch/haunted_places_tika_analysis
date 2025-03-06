@@ -1,0 +1,21 @@
+city: Oneida
+country: United States
+description: In the old wing of the building early in the morning or late at night you go there and you can see white figures walking around the halls and hear screams and cries and people talking. Its been said that there was 2 people that died in the making for that wing and they come back so mess with all the school stuff they delete stuff off computers and they reorganize the classrooms. In the gym you can feel the presence of someone in there with you at all times.
+location: Otto Shortell Middle School
+state: New York
+state_abbrev: NY
+longitude: -75.7107994
+latitude: 43.0783142
+city_longitude: -75.65129309999999
+city_latitude: 43.0925684
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

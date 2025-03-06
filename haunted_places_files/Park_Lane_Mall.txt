@@ -1,0 +1,21 @@
+city: Reno
+country: United States
+description: In 1976 a woman was found dead in the old bathroom down stairs. Her murder was never solved and she haunts the bottom floor of Park Lane Mall and is said appear around 9:00pm on the 3RD Sat. of every month. - March 2008 update: Has been torn down
+location: Park Lane Mall
+state: Nevada
+state_abbrev: NV
+longitude: -119.8043104
+latitude: 39.5265809
+city_longitude: -119.8138027
+city_latitude: 39.5296329
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1976/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

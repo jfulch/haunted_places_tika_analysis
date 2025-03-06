@@ -1,0 +1,21 @@
+city: Asheville
+country: United States
+description: recently torn down and rebuilt - When the Zalandia Castle caught fire; a woman named Helen lost her only child. A daughter. Helen was so crushed by the loss she hung herself from the bridge right down the road from the castle. On Halloween night go to the bridge and try to conjure Helen. If she is successfully called, you car will mess up in some way that you can't get down the mountain.
+location: Helens' Bridge
+state: North Carolina
+state_abbrev: NC
+longitude: -82.53812789999999
+latitude: 35.5954703
+city_longitude: -82.5514869
+city_latitude: 35.5950581
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1980/05/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: Reports a gray figure coming out of the men's bathroom and disappear through the wall on the other side of the hall. Also experienced, strange drafts, 3 directional; shadow of a person, and an apparition in a white suite.
+location: Trinity Episcopal Church
+state: California
+state_abbrev: CA
+longitude: -122.4251401
+latitude: 37.7883036
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Laurel
+country: United States
+description: The Spirits of two young girls haunt the hospital. - June 2008 Update: The hospital has burned down.
+location: Downtown Hospital
+state: Mississippi
+state_abbrev: MS
+longitude: -89.14074649999999
+latitude: 31.6850255
+city_longitude: -89.1306124
+city_latitude: 31.6940509
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/16
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

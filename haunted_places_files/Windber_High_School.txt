@@ -1,0 +1,21 @@
+city: Windber
+country: United States
+description: If you turn out the lights in the girls bathroom by the gym sometimes the white figure will come out from the wall.
+location: Windber High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.8224717
+latitude: 40.2306684
+city_longitude: -78.8350223
+city_latitude: 40.2397986
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1658/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

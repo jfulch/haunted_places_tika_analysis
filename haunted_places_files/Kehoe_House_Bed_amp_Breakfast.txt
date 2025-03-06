@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: Said to be haunted by the spirits of children. Also, by a "Lady in Gray" who haunts not only the bed & breakfast in general, but particularly room #203. People who have stayed in this room have felt their hands being gently touched and have felt kisses upon their cheeks. All have agreed that she seems to be a very friendly spirit.
+location: Kehoe House Bed &amp; Breakfast
+state: Georgia
+state_abbrev: GA
+longitude: -81.088381
+latitude: 32.07715
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

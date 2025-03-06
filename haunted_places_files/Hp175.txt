@@ -1,0 +1,21 @@
+city: Camp Lejeune Marine Base
+country: United States
+description: Room 300 - While a Marine was sleeping he was slapped and saw a black figure. It disappeared when the Marine turned on the light. The Marine had a bruise the next morning.
+location: Hp175
+state: North Carolina
+state_abbrev: NC
+longitude: -77.3578802
+latitude: 34.6709809
+city_longitude: -77.4013403
+city_latitude: 34.6250544
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

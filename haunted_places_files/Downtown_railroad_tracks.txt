@@ -1,0 +1,20 @@
+city: Easley
+country: United States
+description: Easley was originally built for railroads and in the early days, many trains crashed there. If you go to the tracks at night, you can hear a train whistle when there is no train coming.
+location: downtown railroad tracks
+state: South Carolina
+state_abbrev: SC
+longitude: -82.568392
+latitude: 34.828036
+city_longitude: -82.6015206
+city_latitude: 34.829838
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2001/02/18
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

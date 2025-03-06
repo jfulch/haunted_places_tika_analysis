@@ -1,0 +1,17 @@
+city: West Pittson
+country: United States
+description: The claimed incidents began in 1974 and lasted until 1989 in the home of Jack and Janet Smurl. Whether the haunting was genuine or an elaborate hoax is debated. According to the Smurls, the first signs of paranormal activity began in 1974. They reported that a television set burst into flames, and a stain appeared on a carpet overnight. Water pipes began to leak even though they were repeatedly re-soldered by a plumber, and scratches resembling those from a large cat appeared on paintwork and bathroom fittings. Toilets flushed without human intervention, footsteps were heard on the stairs, chest drawers opened and closed unaided, radios worked when they were not plugged in, rocking chairs rocked while empty, and a sour smell filled the house. In 1985, John and Mary claimed to hear loud, obscene language, and Jack and Janet's house became often extremely cold. Two days after this, an icy cold swept the house and a strange black human shape allegedly materialized in the kitchen in front of Janet. It was about five feet nine inches tall, and with no facial features. It later appeared to Mary Smurl in her kitchen. Several TV specials and movies like A Haunting where made about the experiences here.
+location: The Smurl Haunting
+state: Indiana
+state_abbrev: IN
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1974/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bartow
+country: United States
+description: Construction on the old courthouse was completed in 1909; there is now a newer, much larger courthouse across the street from the older structure, and the old courthouse now houses the Polk County Historial Museum and Genealogical Library. Although the 1909 courthouse was the third building to serve as the courthouse in Polk, it's only the second courthouse to have been built on that particular plot of land (the one before that was built in 1883). The boiler room is located in one of the four basements (it's the basement accessible by elevator only), and many years ago there was an explosion there, killing one male worker; staff, cleaning crews, and visitors have reported hearing screams of pain coming from that basement. The bodies of the Mann brothers, who were lynched by a mob for murdering Marshall Silas Campbell in the street outside the courthouse, were brought and displayed for several days in 1886 in the 1883 courthouse on the second floor the area of the old courthouse corresponds with the second floor rotunda of the 1909 courthouse - there is a feeling of sadness there, and apparitions have been seen on the spot where the bodies were laid out. Also, near the second floor bathrooms and on the third floor, the apparition of The Lady in White has been observed by many people - it isn't known who she is, and she could be one of several women who had strong ties to the building. Strange things have been observed in a room containing ancient Native American artifacts on the first floor, from cold spots to malfunctioning lights. In the actual 1909 courtroom, cold spots are felt and sometimes people feel something "brushing" against them - the exact cause isn't known because every trial from 1909 until the new courthouse was completed in 1987 was held there, but it's believed it might be Judge Chillingsworth, who was murdered along with his wife in West Palm Beach and whose gangster killers were tried in that courtroom.
+location: Old Courthouse
+state: Florida
+state_abbrev: FL
+longitude: -81.8427846
+latitude: 27.8968167
+city_longitude: -81.8431374
+city_latitude: 27.8964147
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1909/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

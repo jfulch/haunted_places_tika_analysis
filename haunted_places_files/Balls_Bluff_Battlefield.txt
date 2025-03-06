@@ -1,0 +1,21 @@
+city: Leesburg
+country: United States
+description: Around the time of the battle at night, soldiers have been seen still trying to climb the bluffs and get across the Potomac river.
+location: Balls Bluff Battlefield
+state: Virginia
+state_abbrev: VA
+longitude: -77.5308806
+latitude: 39.1304226
+city_longitude: -77.56360149999999
+city_latitude: 39.1156615
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

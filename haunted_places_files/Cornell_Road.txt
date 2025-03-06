@@ -1,0 +1,21 @@
+city: Westport
+country: United States
+description: At the time slavery was declared illegal in Massachusetts a sea captain chose to drown his slaves in a cistern in the cellar rather than set them free. Since then paranormal occurrences have been witnessed at this house by many people.
+location: Cornell Road
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1082685
+latitude: 41.5519185
+city_longitude: -71.0735476
+city_latitude: 41.5700183
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1620/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

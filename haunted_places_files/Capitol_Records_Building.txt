@@ -1,0 +1,21 @@
+city: Nashville
+country: United States
+description: At the turn of the century, Jacob Schnell created the most grandiose mansion in Nashville, but his daughters were miserably snubbed by the city's elite. After his death, his daughters allowed the once great house to crumble and deteriorate into ruin while they lived inside it. After they died, the house was knocked down and capitol records built on the site. After building was completed, employees reported they thought the ghosts of the daughters were still around walking the halls, moving things, locking doors and playing with equipment. A psychic visited the place and claimed the house was full of a great sadness.
+location: Capitol Records Building
+state: Tennessee
+state_abbrev: TN
+longitude: -86.819887
+latitude: 36.13985
+city_longitude: -86.7816016
+city_latitude: 36.1626638
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Boise
+country: United States
+description: The Field is located on Fairveiw and Milwaukee Streets. It contains unmarked graves and people have claimed to hear strange laughing here during the night. Local myth says that the skulls of people cremated, that do not burn all the way, are stored in a room with boarded up windows. Many strange things have occurred here.
+location: The Field
+state: Idaho
+state_abbrev: ID
+longitude: -116.267812
+latitude: 43.6352064
+city_longitude: -116.2146068
+city_latitude: 43.6187102
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

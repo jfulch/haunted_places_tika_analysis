@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: While driving on the lower deck at night towards Oakland direction, drivers would hear knocking on the windows. Some saying that they saw a headless man running next to their cars at the same speed of the cars. He was believed to be the victim of the 1989 earthquake.
+location: Bay Bridge
+state: California
+state_abbrev: CA
+longitude: -122.3778182
+latitude: 37.7982799
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

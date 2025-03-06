@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: Ft. Meigs State Memorial - This is an old fort and has many supposed ghosts including blue lights, lights coming on, cold spots, figures and others.
+location: Perrysburg
+state: Ohio
+state_abbrev: OH
+longitude: -83.627157
+latitude: 41.556996
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1816/05/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

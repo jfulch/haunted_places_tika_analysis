@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Building #13 - built in 1893 for soldiers of the 18th Infantry. A Calvary soldier was forced to retire because of his age-he may have been a doctor. This depressed man apparently hanged himself in the rafters of building 13. Also in building 13, the swinging doors in the courtroom have a habit of swinging by themselves at times. A cavalry soldier has been seen walking through the halls as well.
+location: Fort Bliss
+state: Texas
+state_abbrev: TX
+longitude: -106.4213208
+latitude: 31.812438
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1893/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

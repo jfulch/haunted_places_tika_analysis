@@ -1,0 +1,21 @@
+city: Doylestown
+country: United States
+description: The dorms are haunted by a ghost that hung himself, (dorm is the original, from the 1890's) and can be heard walking down hallway, from personal experience ghost has took and object in room and placed it in the middle of the room standing up in the morning.
+location: Delaware Valley College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.15994289999999
+latitude: 40.2982282
+city_longitude: -75.1298939
+city_latitude: 40.3101063
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Baltimore
+country: United States
+description: Todds farm - dates back before the war of 1812. This home has been the site of many hauntings. And is said they are turning it into a museum. A ghostly woman can sometimes be seen in the attic window with a candle waiting for her soldier to come home from the war---he never does. Late at night you can sometimes see slaves hanging from the trees. The family cemetery is located directly behind the house. It has been said that although there is no electricity in the house, now, if an intruder enters, lights will turn on. There are so many spirits not at rest here.
+location: Dundalk
+state: Maryland
+state_abbrev: MD
+longitude: -76.5205184
+latitude: 39.2506633
+city_longitude: -76.6121893
+city_latitude: 39.2903848
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1855/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

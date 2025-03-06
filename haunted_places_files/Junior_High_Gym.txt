@@ -1,0 +1,21 @@
+city: Coahoma
+country: United States
+description: During cheerleading practice about 15 or more years ago it was reported that the lights mysteriously went out and there were sounds and headlights of a vehicle getting closer and closer to the girls as the girls tried to run the lights and the sounds of the vehicle chased them.
+location: Junior High Gym
+state: Texas
+state_abbrev: TX
+longitude: -101.3037622
+latitude: 32.3018951
+city_longitude: -101.3062329
+city_latitude: 32.2965085
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

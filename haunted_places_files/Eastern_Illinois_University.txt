@@ -1,0 +1,21 @@
+city: Charleston
+country: United States
+description: Pemberton Hall - where a young college girl was allegedly brutally murdered, before winter break, by a psychotic janitor. Clocks turn back in time, voices are heard in the halls and doors mysteriously lock after the young girls enter. Wet footprints on the floor or bloody footprints. The floor where she was killed is closed off but mysterious music still plays from a piano she once played on. The murder supposedly took place on the fourth floor, which is now boarded up.
+location: Eastern Illinois University
+state: Illinois
+state_abbrev: IL
+longitude: -88.1759052
+latitude: 39.4780293
+city_longitude: -88.1761521
+city_latitude: 39.4961458
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1967/09/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

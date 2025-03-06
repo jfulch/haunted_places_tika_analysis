@@ -1,0 +1,21 @@
+city: Maiden
+country: United States
+description: Numerous reports of an apparition known as "the gray man". Those who have seen him say he has no face. People that lived in the Brookwood neighborhood years ago say that the man has appeared beside them in mirrors. in the 1970s oe 80s, a man was hit by a tractor trailer truck because he was trying to push someone out of the way of the truck. But the truck driver said there was no one there.
+location: Old Hwy 321
+state: North Carolina
+state_abbrev: NC
+longitude: -81.214193
+latitude: 35.5779039
+city_longitude: -81.2117473
+city_latitude: 35.5756889
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

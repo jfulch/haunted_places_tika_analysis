@@ -1,0 +1,20 @@
+city: Jericho springs
+country: United States
+description: Reports of strange glowing lights.
+location: the Jericho cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -93.828823
+latitude: 37.6514292
+city_longitude: -94.0085518
+city_latitude: 37.6222649
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

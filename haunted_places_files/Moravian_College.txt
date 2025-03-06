@@ -1,0 +1,21 @@
+city: Bethlehem
+country: United States
+description: Wilhelm Dormitory-  At night weird noises that are a mixture of banging and scratching coming from the walls. The walls are cement so It could not have been coming from the next room.
+location: Moravian College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.3812135
+latitude: 40.6308814
+city_longitude: -75.37045789999999
+city_latitude: 40.6259316
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1777/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

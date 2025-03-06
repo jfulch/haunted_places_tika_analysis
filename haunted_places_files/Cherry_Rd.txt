@@ -1,0 +1,21 @@
+city: Oswego
+country: United States
+description: A long time ago, there was a girl and her boyfriend driving down the road after prom. Towards the end of the road, there is a sharp curve and at night you can't really see it. Supposedly they went off the road and the girl died instantly. The boy crawled out of the road and wrote help in his own blood. He died right after that. On some nights, you are supposed to see it written in the road and you can see the girl walking down the road. - This is rumored to be a hoax. It is said the road crews find it fun to write “Help” in the tar when resurfacing them. Also belived this is a different road than Help Road in Ottawa.
+location: Cherry Rd.
+state: Illinois
+state_abbrev: IL
+longitude: -88.3163508
+latitude: 41.6286901
+city_longitude: -88.35145960000001
+city_latitude: 41.6828074
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1944/06/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

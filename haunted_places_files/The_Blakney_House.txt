@@ -1,0 +1,19 @@
+city: Monroe
+country: United States
+description: The old Blakney House is located on Franklin St. Believed to be haunted by William Blakney, a greedy miser who has hidden his fortune somewhere in the house. There is also rumored talk about a girl, perhaps related to Blakney, who watched her parents get run over from the upstairs window. The house was first renovated and remodeled about 15 years ago to house a privately owned "Boswell's Restaurant." Prior to the remodeling, neighborhood kids were told not to go around the house, but that might have been just adults against trespassing. Once the restaurant opened, employees began to report strange things, such as dishes (entire cabinets full) relocated, tables being moved, and other odd anomalies. One account, involved a luncheon on the 2nd floor in one of the reserve rooms. Only two people were at the restaurant (it didn't open until lunch) and they set up elaborate place settings for the luncheon. As they went downstairs to start preparing further, loud crashes and bangs were heard from the upstairs. Using the slave staircase (it's that old), which is the only way to get up to that part of the house when it's locked, they found the entire banquet room had been ransacked. When you try to go upstairs, you get a very unsettling feeling - the feeling of "I don't want to go up there at all." No business, restaurant or otherwise, has been successful at the Blakney house, or at least no business ever stays there for very long. The business located there today makes a point of closing before dark, as they are afraid to be in the building for "when the fun begins."
+location: The Blakney House
+state: North Carolina
+state_abbrev: NC
+city_longitude: -80.5495112
+city_latitude: 34.9854275
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

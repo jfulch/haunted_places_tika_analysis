@@ -1,0 +1,20 @@
+city: Lamar
+country: United States
+description: The gym at Lamar High School is haunted by a female basketball player who was killed in a terrible car accident. She died on the night of the final basketball game. After the girl's death, her jersey and locker were never used again. Legend states that on the anniversary of her death you can see the girl's spirit playing basketball in the gym.
+location: Lamar High School
+state: South Carolina
+state_abbrev: SC
+longitude: -80.0549827
+latitude: 34.1719336
+city_longitude: -80.062568
+city_latitude: 34.1687661
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Fairport
+country: United States
+description: the Fairport light house is known for being haunted by a gray cat rubbing against anyone who goes in the lighthouse. One day investigators found a dead gray cat in the wall. Also other people say that 2 girls were riding on a tram and it broke. The 2 girls drown and are now found running around in the lighthouse.
+location: Fairport Light House
+state: Ohio
+state_abbrev: OH
+longitude: -81.2774311
+latitude: 41.7569876
+city_longitude: -81.2739916
+city_latitude: 41.7500431
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

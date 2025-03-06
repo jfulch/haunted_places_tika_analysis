@@ -1,0 +1,20 @@
+city: Abbeville
+country: United States
+description: The Historical Abbeville Opera House is old enough to have a Negro balcony, which still exists. The balcony is completely cleared, save one chair, which is said to belong to the ghost of the house. Legend has it that one of the black patrons of the house was murdered in that very balcony.
+location: Abbeville Opera House
+state: South Carolina
+state_abbrev: SC
+longitude: -82.3778701
+latitude: 34.1775674
+city_longitude: -82.3790147
+city_latitude: 34.1781719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Chandler
+country: United States
+description: The hotel receives strange calls from extensions that don't exist. A female apparition has been sighted and the moaning of a male is heard.
+location: San Marcos Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -111.8427294
+latitude: 33.3040947
+city_longitude: -111.8412502
+city_latitude: 33.3061605
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Hedley
+country: United States
+description: Reports of unexplained sounds and feelings of self destruction.
+location: Hedley Cemetery
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.5137542
+city_latitude: 39.1904819
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.283333333333331
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

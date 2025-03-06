@@ -1,0 +1,21 @@
+city: Plum
+country: United States
+description: There is a cemetery on Hanky Church Road that is haunted. Visitors of this cemetery have reported dozens of strange events. Feelings of weightlessness, numbness, possessions, headstones and trees that glow, and cloud-like apparitions are just a few. There is also a gravestone shaped like a tree trunk that is believed to be the center of activity.
+location: Hanky Church Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.6920477
+latitude: 40.5058454
+city_longitude: -79.7494911
+city_latitude: 40.5003456
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

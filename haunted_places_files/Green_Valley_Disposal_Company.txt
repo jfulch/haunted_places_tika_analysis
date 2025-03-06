@@ -1,0 +1,21 @@
+city: Los Gatos
+country: United States
+description: The ghost that inhabits this old house where there is now an office is named Julius. He has played with the electric calculator on one of the desks even while someone is sitting there. At night you can hear a chair rolling across a wooden floor upstairs and the upstairs is carpeted. There is also a cold spot in a room where things were stored and also the office downstairs was so cold you had to wear a coat and there was nothing wrong with the heating or cooling system. Also, upstairs, in the cold storage room the filing cabinets would open and shut very rapidly and then stop. At one time a new phone system was installed, and within a week it completely shut down, the engineers could not even explain it and while calls were being put on hold he would disconnect every call on hold!
+location: Green Valley Disposal Company
+state: California
+state_abbrev: CA
+longitude: -121.8931609
+latitude: 37.3685027
+city_longitude: -121.9623751
+city_latitude: 37.2358078
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

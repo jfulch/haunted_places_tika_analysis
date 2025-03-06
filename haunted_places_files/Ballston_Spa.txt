@@ -1,0 +1,21 @@
+city: Milton Terrace
+country: United States
+description: The Crandall House is presently an apartment building and hasn't been haunted for about ten years. The Crandall House was haunted by Sylvester Crandall who killed his wife, stepdaughter.
+location: Ballston Spa
+state: New York
+state_abbrev: NY
+longitude: -73.8668953
+latitude: 43.0022643
+city_longitude: -73.8668953
+city_latitude: 43.0022643
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

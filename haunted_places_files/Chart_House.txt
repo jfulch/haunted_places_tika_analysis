@@ -1,0 +1,20 @@
+city: Simsbury
+country: United States
+description: Its an old restaurant that has the spirit of a woman, who is described as friendly, residing there. The employees like to tell stories about her; she does stuff like shut off lights if they've been left on, closing doors at closing time, that kind of thing.
+location: Chart House
+state: Connecticut
+state_abbrev: CT
+longitude: -72.81092629999999
+latitude: 41.8470178
+city_longitude: -72.82791499999999
+city_latitude: 41.8540094
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

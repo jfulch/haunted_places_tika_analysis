@@ -1,0 +1,21 @@
+city: Swiftwater
+country: United States
+description: One of the most feared in its evolution, people from other states have heard of this paranormal place. Unsolved mysteries did a program on this evil place and it blew the doors off camera crew. - March 2008 Update: It was completely leveled.
+location: Swiftwater Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.3126688
+latitude: 41.0429494
+city_longitude: -75.3266416
+city_latitude: 41.0881409
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

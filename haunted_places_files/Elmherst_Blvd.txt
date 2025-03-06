@@ -1,0 +1,21 @@
+city: Dunmore
+country: United States
+description: it is a real long, desolate, and windy road that go for about 3 miles to a small circle. You are supposed to stop there turn your lights off and drive around the circle 3 times and face the way you came in. You then wait there until a large truck, which comes out of no where, starts chasing you. WARNING: DO NOT GET VERY SCARED THE TRUCK NEVER GETS YOU SO DONT GO FAST. PEOPLE HAVE CRASHED AND DIED BECAUSE OF THAT. ALSO DO NOT WAIT TO SEE WHAT AND WHO IT IS. JUST LEAVE! Once u start to leave the lights seem to disappear and you never see any thing behind you.
+location: Elmherst Blvd.
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.5950424
+latitude: 41.3958928
+city_longitude: -75.63241119999999
+city_latitude: 41.4198027
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Canton
+country: United States
+description: an old railroad tunnel with 7 large steps leading up to the top. It is said that a boy was riding through on his bike and was hit by the train and now still haunts the tunnel. Some nights he will appear, but there are always sounds of train whistles, footsteps, and little kid laughing.
+location: 7 Steps
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.6962207
+latitude: 41.6580848
+city_longitude: -76.8532927
+city_latitude: 41.656464
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

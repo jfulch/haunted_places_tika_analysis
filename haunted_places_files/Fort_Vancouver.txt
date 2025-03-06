@@ -1,0 +1,21 @@
+city: Vancouver
+country: United States
+description: At Fort Vancouver, the ghost of Dr. John McGloughlin still haunts his old house, they say you can hear his heavy foot steps walk up and down the halls. Some say there are people in the look out tower that can be seen from the ground.
+location: Fort Vancouver
+state: Washington
+state_abbrev: WA
+longitude: -122.6565852
+latitude: 45.6261746
+city_longitude: -122.6716063
+city_latitude: 45.6318397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1824/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

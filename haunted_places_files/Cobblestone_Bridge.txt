@@ -1,0 +1,21 @@
+city: Bullrun Manasses
+country: United States
+description: Civil War soldiers have been seen crossing the bridge at night.
+location: Cobblestone Bridge
+state: Virginia
+state_abbrev: VA
+longitude: -77.521614
+latitude: 38.782778
+city_longitude: -77.465
+city_latitude: 38.791981
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

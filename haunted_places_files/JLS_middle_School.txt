@@ -1,0 +1,21 @@
+city: Palo Alto
+country: United States
+description: At night in a garden there is figure of a young girl sitting on a bench. The bench was dedicated to her when she died. If you sit on the bench around midnight it is said that you can hear crying and soft whispering in your ear, also feelings of being watched but there is no one there. The girl was killed on a nearby train track when her bike got stuck in the tracks. At night in the bike racks you can see a blue cruiser bike that is totally wrecked and then it disappears.
+location: JLS middle School
+state: California
+state_abbrev: CA
+longitude: -122.1185532
+latitude: 37.42115829999999
+city_longitude: -122.1430195
+city_latitude: 37.4418834
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/11/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

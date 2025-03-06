@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: Formerly the Valley Doubletree - A woman and her two children have been seen wandering the halls of this hotel. At night they have been known to cause mischief in various rooms. Numerous employees have experienced very frightening encounters with these ghosts. - December 2006 additional information / Correction: A former employee reports there are many places in the hotel that are haunted by different things. A man committed suicide in one of the rooms close to the front desk and none of the housekeepers like that room. The 3rd floor in the back has a friendly gentleman ghost that asks the housekeepers and night bellman for towels and such but is gone before they can get a room number. There are a couple of rooms that the more intuitive employees won't get anywhere near.
+location: Mirabeau Park Hotel
+state: Washington
+state_abbrev: WA
+longitude: -117.1948271
+latitude: 47.6672218
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

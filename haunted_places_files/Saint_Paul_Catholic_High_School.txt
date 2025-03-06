@@ -1,0 +1,20 @@
+city: Bristol
+country: United States
+description: In the G-Wing of this school it is rumored that a student once hung himself. A SPCHS teacher also died of a heart attack in this same hallway. During play rehearsals and performances, this area is used for dressing rooms/prop rooms and it is rumored that a ghost has been seen when the lights are off.
+location: Saint Paul Catholic High School
+state: Connecticut
+state_abbrev: CT
+longitude: -72.9140424
+latitude: 41.7023543
+city_longitude: -72.9492703
+city_latitude: 41.67176480000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

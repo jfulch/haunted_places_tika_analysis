@@ -1,0 +1,21 @@
+city: Victoria
+country: United States
+description: the regency apartments which is behind Rosewood funeral home is haunted. Reports of voices and footsteps reported.
+location: Regency Apartments
+state: Texas
+state_abbrev: TX
+longitude: -96.978508
+latitude: 28.8481
+city_longitude: -97.0035982
+city_latitude: 28.8052674
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Kokomo
+country: United States
+description: you go past the mill and go to the bridge and go across it and stop your car get out you can see people walking down the river
+location: Adams mill
+state: Indiana
+state_abbrev: IN
+longitude: -86.5102027
+latitude: 40.480425
+city_longitude: -86.13360329999999
+city_latitude: 40.486427
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

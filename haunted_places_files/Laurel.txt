@@ -1,0 +1,21 @@
+city: Fort Meade
+country: United States
+description: Oak Hill Youth Center/ The Old Portland Hospital - This Youth Center is half of what used to be an old mental hospital and insane asylum. The other half is still abandoned and is said to make clanging noises. If you go inside you can find old medical supplies and files, but beware of floating objects and ghostly appearances. Also for the Guards at the front gate with guns.
+location: Laurel
+state: Maryland
+state_abbrev: MD
+longitude: -76.72917799999999
+latitude: 39.097893
+city_longitude: -76.7267773
+city_latitude: 39.1137602
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 16.183333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

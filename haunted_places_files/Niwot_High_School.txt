@@ -1,0 +1,20 @@
+city: Niwot
+country: United States
+description: is haunted by a child that was in the basement and was killed by the janitor.
+location: Niwot High School
+state: Colorado
+state_abbrev: CO
+longitude: -105.1442349
+latitude: 40.1035485
+city_longitude: -105.1708193
+city_latitude: 40.103874
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/11/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

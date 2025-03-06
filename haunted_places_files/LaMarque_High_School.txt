@@ -1,0 +1,21 @@
+city: LaMarque
+country: United States
+description: When people go up to the cat walk , people can hear voices when you are with 1 other person. It is said that someone was climbing the ladder and fell straight down killing instantly. If you go further down, there use to be an elevator shaft which people say the line broke and it fell while people where in it.
+location: LaMarque High School
+state: Texas
+state_abbrev: TX
+longitude: -94.9940578
+latitude: 29.3759054
+city_longitude: -94.9713134
+city_latitude: 29.3685674
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

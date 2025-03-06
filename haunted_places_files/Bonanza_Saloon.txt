@@ -1,0 +1,21 @@
+city: Virginia City
+country: United States
+description: Apparition of a lady waving on the balcony.
+location: Bonanza Saloon
+state: Nevada
+state_abbrev: NV
+longitude: -119.6492527
+latitude: 39.3109743
+city_longitude: -119.6499793
+city_latitude: 39.3095135
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1531/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

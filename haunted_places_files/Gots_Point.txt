@@ -1,0 +1,21 @@
+city: Nampa
+country: United States
+description: Lake Lowell - It is legend that a girl was killed while skiing here in the late 1970's. Many people have said to see her ghost sitting on the rocks of the shore, watching the water. Upon approaching her she disappears.
+location: Gots Point
+state: Idaho
+state_abbrev: ID
+longitude: -116.6398545
+latitude: 43.5434938
+city_longitude: -116.5634625
+city_latitude: 43.5407172
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1908/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Ellisville
+country: United States
+description: someone killed there during civil war blood stains appear when it rains, for more information, check out  The Deason House
+location: Deason Home
+state: Mississippi
+state_abbrev: MS
+longitude: -89.1969731
+latitude: 31.6095319
+city_longitude: -89.1956142
+city_latitude: 31.6040538
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1855/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Rehobeth
+country: United States
+description: If you ride by the front of the school at midnight, you will always see a janitor ghost that died there while cleaning bathrooms. He waves at you when you drive by.
+location: Old Rehobeth High School
+state: Alabama
+state_abbrev: AL
+longitude: -85.4578171
+latitude: 31.121231
+city_longitude: -85.45271129999999
+city_latitude: 31.1229561
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2009/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

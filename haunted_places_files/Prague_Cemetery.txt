@@ -1,0 +1,21 @@
+city: Grant County
+country: United States
+description: The cemetery is located off Prague Road (off 270 E). Reports of voices, lights and faces in the trees, and ghost trains actually barreling through the cemetery itself. There is also a rumor of a girl who was tied to the train tracks(no longer present) in the near area, but authenticity of that rumor is unknown.
+location: Prague Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -92.2641163
+latitude: 34.3069042
+city_longitude: -92.4208713
+city_latitude: 34.2628015
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

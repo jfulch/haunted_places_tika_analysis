@@ -1,0 +1,21 @@
+city: Bardstown
+country: United States
+description: Haunted by numerous spirits that were killed there.
+location: The Old Talbott Inn
+state: Kentucky
+state_abbrev: KY
+longitude: -85.46750829999999
+latitude: 37.80902140000001
+city_longitude: -85.46690249999999
+city_latitude: 37.8092279
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

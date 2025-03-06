@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: United High School has been haunted for years. Some say they would see a dirty little girl under the portables playing or looking for some thing in the dirt. Others say it is haunted by an Indian. Janitors have experienced this haunting at night. One night a janitor was cleaning one of the portables, picked up the trash, put it in a bag and fixed the desks, turned off the lights and locked the door. As he was walking away he looked back and saw that the lights were on. He opened the door and the trash had been thrown on the ground and desks were messed up again.
+location: United High School
+state: Texas
+state_abbrev: TX
+longitude: -99.4654905
+latitude: 27.6260407
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

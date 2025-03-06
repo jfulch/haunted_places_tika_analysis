@@ -1,0 +1,21 @@
+city: Waterbury
+country: United States
+description: Room 2 is haunted by Margaret Spencer who died there.
+location: Old Stagecoach Inn
+state: Vermont
+state_abbrev: VT
+longitude: -72.7577439
+latitude: 44.33874429999999
+city_longitude: -72.7562636
+city_latitude: 44.3378203
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

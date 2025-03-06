@@ -1,0 +1,21 @@
+city: Burbank
+country: United States
+description: This previous monastery is now a college. Mother Cabrini now haunts the campus. She was once one of the nuns that resided here. Her face is even sculpted into one of the buildings. The bell in the bell tower has been known to ring late in the night.
+location: Woodbury University
+state: California
+state_abbrev: CA
+longitude: -118.341446
+latitude: 34.20758
+city_longitude: -118.3089661
+city_latitude: 34.1808392
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

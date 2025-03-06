@@ -1,0 +1,21 @@
+city: Fremont
+country: United States
+description: Barnard Park used to be a cemetery and it was a camp during the Mormon Trail. The city turned the cemetery into a park and couldn’t move all of the bodies because some of the bodies were marked with sticks and rocks and after the years passed, they were impossible to find. Late at night, you can see figures passing threw the park; one ghost sticks out among the rest. She is a lady who was on the Mormon Trail, her daughter died when they were staying at the camp and the girls mother was to devastated to go on and late at night in the winter, you can see the lady walking around the park crying. A lot of the houses around the park have also been said to be haunted. There is another ghost of a man that is always seen lying down on a park bench.
+location: Barnard Park
+state: Nebraska
+state_abbrev: NE
+longitude: -96.4901475
+latitude: 41.4350323
+city_longitude: -96.4981467
+city_latitude: 41.4333909
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1846/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

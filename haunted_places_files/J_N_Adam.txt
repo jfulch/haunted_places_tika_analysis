@@ -1,0 +1,21 @@
+city: Perrysburg
+country: United States
+description: two ponds are behind the abandoned castle like building J. N. Adam mental institution and former TB ward. Voices and a lingering presence is felt at the gazebo and concrete wall that the water runs off of. also nearby path in the woods that was once a railroad exhibits the same dark unexplained presence.
+location: J. N. Adam
+state: New York
+state_abbrev: NY
+longitude: -79.000669
+latitude: 42.449301
+city_longitude: -79.0079949
+city_latitude: 42.4809609
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

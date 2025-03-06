@@ -1,0 +1,21 @@
+city: Clear Lake
+country: United States
+description: Moe church is haunted by a number of very angry spirits as well as is its cemetery. it is said that, in the early 1900s, the church was accidentally burned to the ground with more than 30 people inside at the time of the fire. The church was later rebuilt and has been haunted ever since. Towns people also say that in the early 1950s a young woman who had lost her infant child hung herself in the bell tower of the church. at times she is seen hanging in the bell tower as well as, seen walking through the cemetery with an infant held to her chest. These sightings have been reported to be the cause of numerous accidents on the road between the church and cemetery. Some that have been fatal.
+location: Moe church
+state: Wisconsin
+state_abbrev: WI
+longitude: -92.2193536
+latitude: 45.27480010000001
+city_longitude: -92.2712996
+city_latitude: 45.2519072
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

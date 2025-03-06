@@ -1,0 +1,21 @@
+city: Dubuque
+country: United States
+description: The Fischer Building was originally 8 stories tall, built in downtown Dubuque in the mid 19th century, about 50 years before the "first" skyscraper was built in Chicago.? With a steel addition to the top of the building, it is now 9 stories tall with another smaller building on top. There are two reported "hauntings" in the Fischer Building. In the basement, in the offices of the maintenance staff, there is a tall man that walks from one room, a short distance through a larger room to the next room.? Many people have reported him walking in the same direction, and he has been seen only from the back. On the fourth floor, in the northwest hallway, there is a well dressed woman, wearing a dress, fur and high heels that appears near the center of the building and walks north, turns to the right and goes in the last doorway.? Her style of dress suggests she is from the 1920s or 1930s.? Some people report that she opens the door and enters the last office, even though the door is locked.?
+location: Fischer Building
+state: Iowa
+state_abbrev: IA
+longitude: -90.6678969
+latitude: 42.5016445
+city_longitude: -90.6645718
+city_latitude: 42.5005583
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 2

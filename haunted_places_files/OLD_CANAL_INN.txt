@@ -1,0 +1,21 @@
+city: NUTLEY
+country: United States
+description: ITS A BAR/RESTAURANT WHICH IS WELL OVER 100 YEARS OLD IN THE TIME OF ITS EXISTENCE 2 MEN HAVE DROPPED DEAD SITTING IN THE SAME BAR STOOL. ITS STILL THERE TODAY BUT ALL THE LOCALS KNOW BETTER THAN SIT THERE. SOME SYA YOU CAN FEEL YOURSELF BEING DRAWN TO THE CHAIR LATE AT NIGHT.
+location: OLD CANAL INN
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.1834387
+latitude: 40.8121193
+city_longitude: -74.15987249999999
+city_latitude: 40.8223168
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1685/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

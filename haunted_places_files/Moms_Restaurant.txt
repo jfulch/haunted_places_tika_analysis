@@ -1,0 +1,20 @@
+city: Marceline
+country: United States
+description: Over the years, customers and employees have felt strange drafts of cold air, plates have "jumped" from shelves, and furniture and other objects have been found tipped over or placed upside down. There have been occasional reports of an apparition of a young woman, and the ghost is known to the townspeople as "The Lady in White."
+location: Mom's Restaurant
+state: Missouri
+state_abbrev: MO
+longitude: -92.9504154
+latitude: 39.7151074
+city_longitude: -92.9482526
+city_latitude: 39.7119703
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

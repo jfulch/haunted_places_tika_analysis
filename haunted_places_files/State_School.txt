@@ -1,0 +1,21 @@
+city: Belchertown
+country: United States
+description: the state school used to be a mental institution that often had very unfair and cruel treatment to it's inhabitants. there’s an old story of how two people, who were not mentally retarded, but only had low intelligence, fell very deeply in love, but were kept away from each other because back then, it was considered to be wrong for people with mental disorders to marry or date or have children. they would sneak to each other in the night and leave love notes and whisper to each other through windows. it's said that during the night, you can see them run between their dormitories. there are many ghosts haunting the state schools, and up until a few years ago, 3 of the buildings were used as elementary schools. now only one remains open, and another building has been converted into a teen center with a skate park outside. at night, if you sneak into the skate park, you can see the ghosts out roaming between the buildings. even walking through that place in the daylight is enough to give you the shivers, windows will break, doors slam open and shut, you can hear screaming and crying and moaning near the men's sleeping quarters, and the tunnel system that runs below the state schools often has lights flickering on and off, although power to the buildings was cut off years ago. the swings on the playground will swing when no ones in them, and just walking near the place, gives you a very sick feeling.
+location: State School
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.4166346
+latitude: 42.2731423
+city_longitude: -72.4008884
+city_latitude: 42.2770346
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/02/04
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

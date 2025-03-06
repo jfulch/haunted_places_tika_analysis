@@ -1,0 +1,20 @@
+city: Centerville
+country: United States
+description: the lots that are used for the stage seem to go on and off a lot. The downstairs and basement area are very spooky, it's always dark down there, and it's always extremely cold down there too. in the top bedroom there have been stories told of Abraham Lincoln's spirit in the window and in the room. People aren't sure if it's Abe, but a tall man that looks much like him.
+location: Town Hall Theatre
+state: Ohio
+state_abbrev: OH
+longitude: -84.15934159999999
+latitude: 39.6291422
+city_longitude: -84.15938179999999
+city_latitude: 39.6283928
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1809/02/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

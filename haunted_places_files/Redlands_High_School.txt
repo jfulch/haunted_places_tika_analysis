@@ -1,0 +1,21 @@
+city: Redlands
+country: United States
+description: Theater - Believed to be haunted by many spirits. Particularly, it is haunted by a teenage presence who lost his girlfriend in a car accident. He was so distraught by her death that he would climb up into the theatre's air ducts and write poems about her. He died in an accident in the theatre coincidently and he now haunts the theatre at all hours. The poems were painted over in most places, but he still resides here.
+location: Redlands High School
+state: California
+state_abbrev: CA
+longitude: -117.1709382
+latitude: 34.055095
+city_longitude: -117.1825381
+city_latitude: 34.0555693
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

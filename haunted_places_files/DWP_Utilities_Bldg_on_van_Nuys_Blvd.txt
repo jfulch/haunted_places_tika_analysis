@@ -1,0 +1,21 @@
+city: Van Nuys
+country: United States
+description: Strong presence here. Cold spots, touching. There is a strong negative energy of a malevolent entity that haunts the building.
+location: DWP Utilities Bldg. on van Nuys Blvd.
+state: California
+state_abbrev: CA
+longitude: -118.4481981
+latitude: 34.1899146
+city_longitude: -118.451357
+city_latitude: 34.1898566
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2006/02/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

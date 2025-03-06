@@ -1,0 +1,19 @@
+city: New Castle
+country: United States
+description: third floor is haunted by unknown ghost
+location: David Finney Inn
+state: Delaware
+state_abbrev: DE
+longitude: -75.5644841
+latitude: 39.6598002
+city_longitude: -75.5668166
+city_latitude: 39.6620397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

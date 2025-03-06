@@ -1,0 +1,21 @@
+city: Conway
+country: United States
+description: There is a grave yard on left hand side of road at night the grave yard glows and you see two big red eyes they follow you all the way up or down Stark Road
+location: Stark Road
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.08958799999999
+latitude: 43.964789
+city_longitude: -71.1203479
+city_latitude: 43.9791831
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Okmulgee
+country: United States
+description: Strange events are an everyday occurrence; such as strange noises (such as screaming),merchandise falling of shelves for no apparent reason, and a very eerie feeling at times; almost as if someone is watching you.
+location: Warehouse Market
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.0090839
+latitude: 36.0906045
+city_longitude: -95.9515399
+city_latitude: 35.6266957
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

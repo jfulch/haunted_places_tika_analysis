@@ -1,0 +1,21 @@
+city: Gettysburg
+country: United States
+description: a civil war soldier has been seen here.
+location: Cashtown Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.3603565
+latitude: 39.8847576
+city_longitude: -77.2310955
+city_latitude: 39.8309293
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

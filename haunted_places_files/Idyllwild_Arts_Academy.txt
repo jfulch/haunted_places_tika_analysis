@@ -1,0 +1,21 @@
+city: Idyllwild
+country: United States
+description: McNeale Hall - The main boys dorm at Idyllwild Arts Academy has been reported to be haunted. Some of the occurrences have been: hearing running in the hall after lights out, hearing strange voices, items being moved, as well as being touched by something when no ones there.
+location: Idyllwild Arts Academy
+state: California
+state_abbrev: CA
+longitude: -116.7468108
+latitude: 33.733713
+city_longitude: -116.7152556
+city_latitude: 33.7467471
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1894/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

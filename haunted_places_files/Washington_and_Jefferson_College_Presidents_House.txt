@@ -1,0 +1,21 @@
+city: Washington
+country: United States
+description: The President's house on W&J campus is haunted by the ghost of a confederate officer. The original family that owned the house were southern sympathizers during the civil war and took in a wonder confederate officer. He hid out in the house for a while before he was captured and hung. The ghost walks the upstairs hallway pacing between the top of the stairs and the front window looking for Union soldiers. Activity increased when the current president took office, it is said the ghost is angry because the president is from Boston. April 2007 Additional information - The new President said the place is indeed haunted, and that it would turn the radio on sometimes really loud or start the fire places up. She told of how she'll be with the only other person in the house and you can hear the footsteps pacing. Also if you go to the third floor on a hot summer day (they do not have air conditioning up there unless thier son is staying over) its really cold.
+location: Washington and Jefferson College President's House
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.238725
+latitude: 40.170436
+city_longitude: -80.2461714
+city_latitude: 40.17396
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1789/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

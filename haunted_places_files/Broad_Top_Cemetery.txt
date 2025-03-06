@@ -1,0 +1,21 @@
+city: Broad Top
+country: United States
+description: Statue at Mockingbird Hill, said to "yodel" and glow at night. Sights of a small dog called "Binks" roams the woods.
+location: Broad Top Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.1411682
+latitude: 40.2018265
+city_longitude: -78.14084079999999
+city_latitude: 40.2023022
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

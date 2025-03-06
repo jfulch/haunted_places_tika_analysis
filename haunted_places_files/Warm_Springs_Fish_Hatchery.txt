@@ -1,0 +1,21 @@
+city: Geyserville
+country: United States
+description: Reports of an elderly Indian couple roaming the grounds. The main building was haunted by a ghost (woman) who called the employees names and changed the radio station. four houses there had their own encounters with ghosts. The shower came on all times day or night in one house. One of the other houses reportedly had a spirit of a child that climbed in the bed them.
+location: Warm Springs Fish Hatchery
+state: California
+state_abbrev: CA
+longitude: -122.9999812
+latitude: 38.7175942
+city_longitude: -122.9027647
+city_latitude: 38.7074755
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

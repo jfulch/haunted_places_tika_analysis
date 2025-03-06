@@ -1,0 +1,21 @@
+city: Murdock
+country: United States
+description: People will be walking through the cemetery looking at children’s graves and begin to hear many children playing out in the road and go to look and no one is there.
+location: Oxbow Cemetery
+state: Nebraska
+state_abbrev: NE
+longitude: -96.3125307
+latitude: 40.9142957
+city_longitude: -96.2800116
+city_latitude: 40.925555
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

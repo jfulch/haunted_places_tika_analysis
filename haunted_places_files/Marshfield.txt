@@ -1,0 +1,21 @@
+city: Wood County
+country: United States
+description: St. Joseph's Hospital  4 West - Employees who work on  4 West have seen a dark figure in a black robe go in and out of rooms. Patients have also seen this figure, sometimes at the same time as the staff.  Other strange things have occurred such as cold sensations and strange lights.
+location: Marshfield
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.1717987
+latitude: 44.6688524
+city_longitude: -90.0746767
+city_latitude: 44.4747774
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1935/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

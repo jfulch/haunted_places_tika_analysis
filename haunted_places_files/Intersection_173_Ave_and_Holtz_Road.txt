@@ -1,0 +1,21 @@
+city: Lowell
+country: United States
+description: When you are driving East on 173rd there are two big hills. When you top either hill you can see the intersection at Holtz Road. When you top the first hill, on occasion you will see a bunch of flashing lights and what appears to be a huge wreck. When the road continues, you lose sight of the intersection. When you can see the intersection again, it is clear and there in no sign that anything was ever there. This has been seen by many people.
+location: Intersection 173 Ave and Holtz Road
+state: Indiana
+state_abbrev: IN
+longitude: -87.38360639999999
+latitude: 41.3042987
+city_longitude: -87.4205903
+city_latitude: 41.2914243
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

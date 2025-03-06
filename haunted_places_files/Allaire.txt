@@ -1,0 +1,21 @@
+city: Howell
+country: United States
+description: Allaire Village - Located in the middle of the park on Allaire Road. It is an old iron fence from the 1900’s. Reports of an apparition of a woman in white has been spotted between the park and the General Store.
+location: Allaire
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.1324377
+latitude: 40.1602263
+city_longitude: -74.2082671
+city_latitude: 40.1645785
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1822/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

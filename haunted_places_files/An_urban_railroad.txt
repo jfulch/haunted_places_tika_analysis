@@ -1,0 +1,19 @@
+city: Oakville
+country: United States
+description: The An-urban railroad used to run through Oakville. Eventually it went out of use and most of its track was taken up. The empty trail where it once laid is said to be haunted by slaves who built it and other unknown apparitions. Many have encountered phantom chains along its path. One of the old an-urban stations still stands in Springport. It is also said to be haunted.
+location: An-urban railroad
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.39052649999999
+city_latitude: 40.0792119
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

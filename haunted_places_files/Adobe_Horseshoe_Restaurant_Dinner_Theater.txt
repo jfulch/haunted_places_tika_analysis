@@ -1,0 +1,21 @@
+city: San Elizario
+country: United States
+description: There have been sightings of a lady wearing a yellow hat in the restaurant by people that are unaware of haunting. San Elizario was once the County seat. This woman is well-dressed in a long dress wearing a yellow hat. Since hat wearing is uncommon in this area, customers inquire about the odd woman. They are amazed to find they have just seen a ghost.
+location: Adobe Horseshoe Restaurant / Dinner Theater
+state: Texas
+state_abbrev: TX
+longitude: -106.2735887
+latitude: 31.5862771
+city_longitude: -106.2727573
+city_latitude: 31.5851146
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

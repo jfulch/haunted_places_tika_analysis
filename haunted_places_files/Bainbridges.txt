@@ -1,0 +1,21 @@
+city: Chelmsford
+country: United States
+description: Bainbridges is a restaurant in Chelmsford that is supposedly haunted by a few different ghosts pictures have been seen moving an cries of a woman an children playing while the clean up crew was there alone.
+location: Bainbridges
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.3796785
+latitude: 42.6356785
+city_longitude: -71.3672838
+city_latitude: 42.5998139
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1898/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

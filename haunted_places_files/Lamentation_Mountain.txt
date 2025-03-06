@@ -1,0 +1,20 @@
+city: Berlin
+country: United States
+description: At the summit of Lamentation Mountain along the Mattabesset Trail there are reports that a woman can be heard sobbing if it is quiet. The sobbing can be heard even when there is no wind. There is a legend that a woman killed herself by jumping off the cliffs and still haunts the area.
+location: Lamentation Mountain
+state: Connecticut
+state_abbrev: CT
+longitude: -72.7567636
+latitude: 41.58065420000001
+city_longitude: -72.7456519
+city_latitude: 41.621488
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1653/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

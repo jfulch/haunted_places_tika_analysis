@@ -1,0 +1,21 @@
+city: Grove City
+country: United States
+description: During the 1970's a student fell from the cat walks of the theatre and died due to fall related injuries. The death was covered up as much as possible. The female student began haunting the costume shop of the old theatre and is rumored to have moved to the new auditorium when it was built, in one of the costumes. Numerous sightings of her have been reported and various strange and unexplainable occurrences have happened that are attributed to her. There have been several attempts to exorcise the building, all of which have failed. The students, particularly the ones in the theatre attribute much of what goes wrong to Gwendolyn and live in almost a constant state of fear of the ghost.
+location: PEW Fine arts center
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0772199
+latitude: 41.1528693
+city_longitude: -80.08867029999999
+city_latitude: 41.15783769999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

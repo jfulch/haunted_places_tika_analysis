@@ -1,0 +1,21 @@
+city: Hartland
+country: United States
+description: Patrons of this Driving Range continuously report a mysterious return and re-appearance of their Hit Balls.
+location: Hartland Golf Range
+state: Michigan
+state_abbrev: MI
+longitude: -83.7085022
+latitude: 42.6291544
+city_longitude: -83.7507315
+city_latitude: 42.6315066
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

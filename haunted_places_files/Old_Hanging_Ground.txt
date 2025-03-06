@@ -1,0 +1,19 @@
+city: Fayette County
+country: United States
+description: (off of Padgett Road, near Starr's Mill)  Old hanging ground that belonged to Old Man Padgett. During a hanging, a Negro broke loose and hung Padgett from the nearby railroad bridge. Padgett still walks the tracks looking for his killer. The track has been abandoned for 15-16 years and you can still hear train horns and see figures on the dirt road, tracks, and in the woods and hear voices in the woods.
+location: Old Hanging Ground
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.4802606
+city_latitude: 33.4502206
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Albertville
+country: United States
+description: At night, you can hear footsteps and voices. In the early 1900's, a tornado ripped through the town and killed many people on what is now “The Main Street Strip”. People with businesses on the street have said that sometimes in the summer they would go outside and feel a sudden coldness. They would also hear people screaming at night and the street would be empty.
+location: Main Street Strip
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.20886689999999
+city_latitude: 34.2675937
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

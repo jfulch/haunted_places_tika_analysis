@@ -1,0 +1,21 @@
+city: York
+country: United States
+description: Strange occurrences have been reported in Campbell Hall. the suites and rooms are, as well as an aggressive presence in the kitchen. March 2008 Update – A former student in the late 1990s, reports a math professor shot himself in his office in the annex between Campbell Hall and the Business/Comp. Science building. The student states he did not know the professor, but knew students that attended his classes, everyone interviewed who had him said he was kind of a "Beautiful Mind" type. He smoked heavily and although he left no suicide note of which they are aware, it's assumed that he found out he had incurable lung cancer. His office was vacant for about two semesters, then they gave the office to a new professor. As to any hauntings tied directly to this are unknown.
+location: York College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.7281509
+latitude: 39.94674639999999
+city_longitude: -76.727745
+city_latitude: 39.9625984
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1887/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Franklin County
+country: United States
+description: This used to be a family run theater. The family is said to still haunt it. Behind the stage, a little girl looks out the window. It is said if you put powder or fresh paint down and leave, when you return, little footprints and handprints appear. The old projection room, which is now blocked off, is said to have a strong force pushing you back out the door. Downstairs there are strange noises, lights and sounds.
+location: Calvin Theater
+state: Washington
+state_abbrev: WA
+longitude: -72.62989999999999
+latitude: 42.3201
+city_longitude: -118.8672379
+city_latitude: 46.49373629999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

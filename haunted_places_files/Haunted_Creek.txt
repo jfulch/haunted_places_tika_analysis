@@ -1,0 +1,18 @@
+city: Fairfield
+country: United States
+description: Behind Fairfield Bowling Lanes – The creek is haunted by a mother and her child. The woman looks as if she is in her mid- twenties and the child is around three or four. She wears a long, white dress probably from around the early 1800's or late 1700's. The little boy wears brown pants, a white shirt and a cap. It is believed that a woman and child were most brutally killed, in a mass murder spree.
+location: Haunted Creek
+state: Ohio
+state_abbrev: OH
+city_longitude: -84.5603187
+city_latitude: 39.3454673
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

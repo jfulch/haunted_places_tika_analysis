@@ -1,0 +1,21 @@
+city: San Diego
+country: United States
+description: Taco Bell - employees have reported whispers coming from the bathroom. Trash doors swinging one time at closing there was three closers one manager and two crew one of the crew members was washing dishes he seen some one who he thought was a employee walk behind him and go in the walk-in freezer" so the employee thought he would play a joke on the employee as he held the door tightly the door was moving like there was some one in there when three minutes went by then the employee let go of the door. he went to go see if the manager was coming but he was shocked to see both the manager and the employee was working he was really scared he had goose bumps.
+location: Mission Valley
+state: California
+state_abbrev: CA
+longitude: -117.1623501
+latitude: 32.7670907
+city_longitude: -117.1610838
+city_latitude: 32.715738
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1923/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Accident
+witness_count: 1

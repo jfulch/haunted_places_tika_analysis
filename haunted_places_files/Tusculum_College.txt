@@ -1,0 +1,21 @@
+city: Greeneville
+country: United States
+description: Virginia Hall - Used to be an all-female dorm. It is mostly offices and classrooms now. The head mother's room was in the attic. The dorm caught fire but the head mother couldn't get out. The girls could hear her screaming. Classes where held on the 3rd floor. The 4th floor is the attic. The door to the 4th floor is sealed, and the elevator will not go to the 4th floor.
+location: Tusculum College
+state: Tennessee
+state_abbrev: TN
+longitude: -82.7607956
+latitude: 36.1723296
+city_longitude: -82.83098609999999
+city_latitude: 36.1631574
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1607/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.666666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 0

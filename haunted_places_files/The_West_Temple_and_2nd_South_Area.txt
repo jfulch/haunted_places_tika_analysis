@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: Banks, hotels, and The Capitol Theatre have all witnessed ghosts and have had poltergeist activity. The area has been the location of several murders including the deaths of the Emanuel David Family where a woman threw her children off the 12th floor of an Area Hotel. People have heard the screams of a little girl saying "Mom don't make me do it."
+location: The West Temple and 2nd South Area
+state: Utah
+state_abbrev: UT
+longitude: -111.8944468
+latitude: 40.7731779
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

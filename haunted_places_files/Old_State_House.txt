@@ -1,0 +1,20 @@
+city: Hartford
+country: United States
+description: Built in 1796, the former State Capitol building is said to be haunted by the spirits of its' glorious past. The first witch to be hanged in the New England colonies was on this site in 1647. In the late 1970's the Warrens found the ghost of local painter and museum keeper, Joseph Steward, to be alive and well and roaming the halls of the second floor. Many reports of strange footsteps and ghostly assembly meetings have been reported.
+location: Old State House
+state: Connecticut
+state_abbrev: CT
+longitude: -72.6726803
+latitude: 41.7660964
+city_longitude: -72.6850932
+city_latitude: 41.76371109999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1796/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

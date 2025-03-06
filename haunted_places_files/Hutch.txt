@@ -1,0 +1,21 @@
+city: Bell County
+country: United States
+description: there is a small area off the main highwa called Hutch. In this small community there is a local swimming hole called "Devil's Garden". Before it earned this name, a small group of partying teenagers were swimming one summer night. After partying too much, one of the kids slipped and hit his head on a rock in the shallows. Not thinking straight, the other kids decided to hide the body under water, tied to a rock. The next day, the kids went to see if the night before had really happened. They arrived to find that the local authorities had already arrived and discovered the body. To their surprise, their friend had drowned and not died of the fall. They lived with their secret for over 15 years until they each started disappearing mysteriously, and the remaining two confessed and were sentenced to ten years in prison. Now every full moon, the moon's reflection casts a skull like image on the water's surface.
+location: Hutch
+state: Kentucky
+state_abbrev: KY
+longitude: -83.62130289999999
+latitude: 36.6506396
+city_longitude: -83.63484299999999
+city_latitude: 36.741122
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 1

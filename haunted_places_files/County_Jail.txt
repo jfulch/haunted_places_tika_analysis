@@ -1,0 +1,20 @@
+city: Paulding
+country: United States
+description: While working on the third floor an electrician notice someone watching him. When the electrician made eye contact the individual turned and walked out the door. When the electrician described the individual to the deputies on duty he was told that his description fit the old Sheriff, John Keeler, who had been dead for at least ten years.
+location: County Jail
+state: Ohio
+state_abbrev: OH
+longitude: -84.57543539999999
+latitude: 41.1361877
+city_longitude: -84.5805082
+city_latitude: 41.1381051
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

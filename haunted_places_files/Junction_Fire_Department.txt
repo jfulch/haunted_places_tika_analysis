@@ -1,0 +1,21 @@
+city: Lewistown
+country: United States
+description: It is said that a man hung himself in the Engine room of the fire company and you can see him there and hear him gasping for breath before he disappears. The meeting room has had things move for no reason at all. You can hear kids running around the lounge when it is quiet.
+location: Junction Fire Department
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.57895669999999
+latitude: 40.5917801
+city_longitude: -77.571382
+city_latitude: 40.5992395
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

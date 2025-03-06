@@ -1,0 +1,20 @@
+city: Plattsburg
+country: United States
+description: Every once in a while, the ghost of Lake Concord haunts the area. Long ago a boy drowned in the lake, and not discovered until the early 1950's. People have said that  they can here a little boy screaming and yelling for help. He did this because no one was around when he was walking on the frozen lake. He fell in and never came back up. So if you live near Lake Concord, you will soon here him.
+location: Lake concord
+state: Missouri
+state_abbrev: MO
+longitude: -94.4652286
+latitude: 39.5566656
+city_longitude: -94.4480059
+city_latitude: 39.5655549
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2004/02/19
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

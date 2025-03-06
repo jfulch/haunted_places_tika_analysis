@@ -1,0 +1,21 @@
+city: Amarillo
+country: United States
+description: Formerly Bonanza Supermarket - back in the 1980's , before Gebo's ever opened a second store, a supermarket called Bonanza was there. people say that an employee there was killed in the meat department one night. Present day, stories of the ghost haunt Gebo's.. Moving items and misplacing them at night... since then, the employees try to avoid night inventory. In the morning, things would be out of place... Lots of employees have seen what the ghost has done.
+location: Gebo's
+state: Texas
+state_abbrev: TX
+longitude: -101.8757419
+latitude: 35.161422
+city_longitude: -101.8312969
+city_latitude: 35.2219971
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

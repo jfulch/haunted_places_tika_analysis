@@ -1,0 +1,21 @@
+city: Dubuque
+country: United States
+description: Mary Frances Hall - Mary Frances Hall on the Clarke Campus was built in 1924. The top floor of the dormitory and the chapel is said to be haunted by the ghost of the school's founder Mary Frances Clarke. Students have accounted for unexplained footsteps in the hallway, the feeling of being watched and a shrouded figure near the chapel. Mary Benedict Hall, built in 1965, is also haunted by spirits of past students and the founding sister's of the Blessed Virgin Mary. Student's have reported seeing books and tickets being tossed from the shelving units, a shrouded figure in the hallway on the 3rd floor (west wing), water running in bath on 3rd floor west wing restroom in middle of night, and unexplained footsteps in the tunnel connecting Mary Benedict and Mary Josita halls.
+location: Clarke College
+state: Iowa
+state_abbrev: IA
+longitude: -90.6913801
+latitude: 42.5092661
+city_longitude: -90.6645718
+city_latitude: 42.5005583
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1924/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

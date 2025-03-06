@@ -1,0 +1,19 @@
+city: Latham
+country: United States
+description: In back of the Woodlands apartment complex lies a preserved revolutionary war graveyard. With almost a dozen laid to rest hear, it is said that on hot summer night with strong gusts of wind, voices of men can be heard and on full moons the sound of drums are heard when the wind blows.
+location: Revelatory Hero's Cemetery
+state: New York
+state_abbrev: NY
+city_longitude: -73.760537
+city_latitude: 42.7477661
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 0

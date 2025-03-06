@@ -1,0 +1,21 @@
+city: Carleton
+country: United States
+description: This is an old cemetery with a boardwalk right up the road. In the cemetery, there are headstones with faces on them and the faces will change to a smile, or mad face, or just move around. When you go to the cemetery, if the light on back of the old church isn't on then you won't be able to see anything. Make sure the light is on. Down the road a little ways is the boardwalk (6" wide boards on stilts that stretch a mile over swamp about 30ft high). When you walk across it, you get the feeling someone is behind you and it makes your hair stand up. You'll also hear the sound of a child screaming. They say a child got lost in the swamp during civil war times and died there.
+location: Mount Nebo &amp; The Boardwalk
+state: Alabama
+state_abbrev: AL
+longitude: 35.7252775
+latitude: 31.768332
+city_longitude: -87.5238411
+city_latitude: 33.2718031
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

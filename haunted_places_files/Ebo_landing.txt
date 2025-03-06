@@ -1,0 +1,21 @@
+city: St. Simon's Island
+country: United States
+description: Supposedly a group of chained slaves were being held on the beach (having just arrived on the slave smuggling ship the Wanderer), the slaves made a suicide pack. Rather than live their lives in irons they ran, chained side by side to one another, into the water and drowned. It is said the sight is haunted by their spirits, you can hear the heavy irons clatter as they sprint from the beach for the water.
+location: Ebo landing
+state: Georgia
+state_abbrev: GA
+longitude: -81.38704159999999
+latitude: 31.1882866
+city_longitude: -81.3885517
+city_latitude: 31.1595905
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Annapolis
+country: United States
+description: This is found at Truxton park in Annapolis right across from Spa Cove apts. You go in the woods past the 3rd baseball field and you'll see a slanted tree where the witch was buried and escaped in the 1800's never to be seen again now it is rumored that on Halloween if you go deep enough into the woods you can see the bodies of the people the witch got hanging from trees.
+location: Truxton Park-Witches Grave
+state: Maryland
+state_abbrev: MD
+longitude: -76.50518679999999
+latitude: 38.963263
+city_longitude: -76.4921829
+city_latitude: 38.9784453
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Evanston
+country: United States
+description: A single sheet hangs in a room window facing the interstate. Authorities thought it necessary to place it there because of repeated sightings of a young girl reliving her death (caused by hanging) every night. Many people have born witness to this disturbing occurrence. There is no power and lights will be on at night, a rocker that will be rocking, howling noises, strange floating lights are all reported.
+location: Wyoming State Hospital
+state: Wyoming
+state_abbrev: WY
+longitude: -110.9481806
+latitude: 41.2637952
+city_longitude: -110.9632373
+city_latitude: 41.2682794
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1993/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

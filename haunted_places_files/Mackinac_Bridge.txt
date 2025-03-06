@@ -1,0 +1,21 @@
+city: Mackinac Island
+country: United States
+description: Its been said to me that only sometimes when people go over the Mackinac Bridge you can here a little baby crying because the parents had gotten into a accident on the bridge and they went over the side of the bridge and they had a little baby in the car with them. - May 2008 Update – There have been 2 accidents that are listed on Wikipedia 1 in 1989 @ 1 in 1997. Neither accident mentioned a baby. 5 Workers dies on the bridge during its construction. < href=" http://en.wikipedia.org/wiki/Mackinac_Bridge ">http://en.wikipedia.org/wiki/Mackinac_Bridge
+location: Mackinac Bridge
+state: Michigan
+state_abbrev: MI
+longitude: -84.72776549999999
+latitude: 45.817377
+city_longitude: -84.6189339
+city_latitude: 45.8491796
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1989/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Leicester
+country: United States
+description: 3 little kids turn heat up and down, play with lights, move things around, bother guests, some say they have had sightings. Ghosts don’t seem to like some guests and weird things happen... stuff flies across room.
+location: Becker College Lane House
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.90374179999999
+latitude: 42.2479841
+city_longitude: -71.90868429999999
+city_latitude: 42.245926
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

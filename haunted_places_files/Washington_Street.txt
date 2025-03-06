@@ -1,0 +1,21 @@
+city: Lincoln
+country: United States
+description: Apparently there was a little boy back in the day who was on one of the four corners on Washington Street. There was a car full of gang members in the car and shot the little boy on one of the corners. They say that if you come across one of the corners you hear the little boy scream and a brush of wind hit across your body.
+location: Washington Street
+state: Nebraska
+state_abbrev: NE
+longitude: -96.696658
+latitude: 40.798026
+city_longitude: -96.6851982
+city_latitude: 40.8257625
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2014/12/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Fort Riley
+country: United States
+description: There is a spot around Moon Lake that has a Chiefs Circle. If you camp any where near the circle you start seeing what looks like fire flies that are in sets of two and stay low to the ground and don't separate. If you are awake when it happens they will chase you away from the circle. If you're not awake you are woke up with hoops and howls. Then chased. It is said that the lights are the eyes of braves protecting the chief’s circle.
+location: Moon Lake
+state: Kansas
+state_abbrev: KS
+longitude: -96.8032837
+latitude: 39.074028
+city_longitude: -96.8099772
+city_latitude: 39.110058
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

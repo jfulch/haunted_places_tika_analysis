@@ -1,0 +1,21 @@
+city: Slidell
+country: United States
+description: Here are some of the accounts recorded by the Earth's Society of the Paranormal: A voice of a male, roughly 13 or 14-years-old, telling people from a stall in a boys' restroom to "Get Out." When investigated, no one could have said this. One person, when late on the bus, heard behind him someone call his name. He looked behind him and saw that no one behind him was calling his name. Earlier that day, he saw someone from behind outside disappear. A person saw someone going into the bathroom mentioned above, but right when the person got out, the someone was outside. There was no chance of backtracking or using the back door (it was locked). On a dark January day in 2005, a person went into the same bathroom and saw a blob-like shadow went across the floor. The person did not look up and washed his hands and got out of there. The only window was too far away and was at a poor angle for it to have come from the outside and it was dark and overcast at the time, besides it happening roughly 1:00 pm.
+location: Slidell Jr. High School
+state: Louisiana
+state_abbrev: LA
+longitude: -89.778948
+latitude: 30.280351
+city_longitude: -89.78117449999999
+city_latitude: 30.2751945
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

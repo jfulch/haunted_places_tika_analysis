@@ -1,0 +1,21 @@
+city: Farmville
+country: United States
+description: Curry Hall - A three-year-old boy rode his bicycle into the elevator shaft and died, falling to his death. It is reported that if one rides the elevator to the tenth floor and then to the basement, the boy's ghost will be seen when the doors open.
+location: Longwood College
+state: Virginia
+state_abbrev: VA
+longitude: -78.3961973
+latitude: 37.29717979999999
+city_longitude: -78.3919401
+city_latitude: 37.3020965
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1883/12/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

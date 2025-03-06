@@ -1,0 +1,21 @@
+city: Morris/Minooka
+country: United States
+description: Aux Sable is located in the countryside between Morris and Minooka. Paranormal activity includes the locking of car doors, fogging up of windows, and the entrance being blocked while attempting to leave. Fires have been started mysteriously. The old grave keepers house has tunnels under it two go to some where and the third has a gate to hell supposedly. There have been many sightings on paranormal activity.  - No Tresspassing - Police will serve you a summands or possibly arrest you.
+location: Aux Sable Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.3521258
+latitude: 41.4225185
+city_longitude: -88.4525065
+city_latitude: 41.4441856
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

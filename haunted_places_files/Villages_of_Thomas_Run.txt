@@ -1,0 +1,21 @@
+city: Bel Air
+country: United States
+description: Reports of a man in all black with a white face has been seen by many kids. Names can be listed but, there’s many of them to this day they still think that there is a man so called the "TRACKTER MAN". There’s has also reports of things that has belonged to him. There's many complaints that people hear there door bells ringing and no one is at the door waiting these houses are near the woods that he has been seen in.
+location: Villages of Thomas Run
+state: Maryland
+state_abbrev: MD
+longitude: -76.3244033
+latitude: 39.56399589999999
+city_longitude: -76.34829309999999
+city_latitude: 39.5359406
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

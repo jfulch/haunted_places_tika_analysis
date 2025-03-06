@@ -1,0 +1,17 @@
+city: Akra/Leroy
+country: United States
+description: it's to be said that a lady has been seen with a rope around her neck in a white dress walking across the road. Back in the 1940's it's said that the lady hung herself after getting the message that her husband has been killed by a gunshot at war. She lurks around sometime at 11:00P.M-12:00A.M.
+location: Road between Akra and Leroy
+state: North Dakota
+state_abbrev: ND
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 17m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

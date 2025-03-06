@@ -1,0 +1,21 @@
+city: Jane Lew
+country: United States
+description: an apparition of a teenage boy dressed in black has been seen crossing the highway. Rumor is this boy committed suicide, by stepping out on the road in front of an eighteen wheeler. He is spotted any time during the evening, and will stand in the middle of the lane until you drive by. He stares at you with a helpless look on his face. Rumors are to be said that he was abused by his father.
+location: In between Clarksburg, and Jane Lew
+state: West Virginia
+state_abbrev: WV
+longitude: -80.454855
+latitude: 39.064017
+city_longitude: -80.4067566
+city_latitude: 39.1098153
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

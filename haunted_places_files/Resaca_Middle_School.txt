@@ -1,0 +1,21 @@
+city: Brownsville
+country: United States
+description: has been said that when the janitors are cleaning up in the gym they would feel as if kids were throwing stones at them.
+location: Resaca Middle School
+state: Texas
+state_abbrev: TX
+longitude: -97.4993452
+latitude: 26.0751207
+city_longitude: -97.4974838
+city_latitude: 25.9017472
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2023/01/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Minneapolis
+country: United States
+description: Washington Avenue Bridge - The Washington Avenue Bridge connects the east bank from the west bank which house separate portions of campus. There have been several suicides off of the bridge into the Mississippi river below, most often by students. Late at night if you walk through the tunnel you can sometimes hear footsteps following you. If you turn around they will stop, and then continue again when you start to move. Also, the University of Minnesota had to remove several flags from the bridge, because they were being ripped down by an unseen force. Even while under surveillance.
+location: The University of Minnesota
+state: Minnesota
+state_abbrev: MN
+longitude: -93.2277285
+latitude: 44.97399
+city_longitude: -93.2650108
+city_latitude: 44.977753
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2007/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Rhinelander
+country: United States
+description: A ghost by the name of Molly haunts the rock and every time someone drives by the rock, there is a halo resting above. If someone were to go onto the rock and either be drinking or drunk, story has it that Molly will scream out a long screeching noise and say, "get off my rock" and the person will get pushed off.
+location: Molly's Rock on Pine Lake Rd.
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -89.4120753
+city_latitude: 45.6366228
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1877/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Milan
+country: United States
+description: there is said to be a little boy that roams the halls and a teacher follows him the little boy is said to be a boy named Josh, who died in the library by suffocation no one knows how he got suffocated though
+location: Milan High School
+state: Michigan
+state_abbrev: MI
+longitude: -83.70284749999999
+latitude: 42.0785187
+city_longitude: -83.6824384
+city_latitude: 42.0853204
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1638/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

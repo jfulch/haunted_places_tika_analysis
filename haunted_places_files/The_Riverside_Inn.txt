@@ -1,0 +1,21 @@
+city: Cambridge Springs
+country: United States
+description: Guests have reported ghosts crawling into bed with them, music heard coming from the ballroom along with, ghostly apparitions dancing. Doors opening and closing can be heard at various times of the day even when no one is there.
+location: The Riverside Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.05375099999999
+latitude: 41.805687
+city_longitude: -80.0564443
+city_latitude: 41.8036675
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1948/02/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

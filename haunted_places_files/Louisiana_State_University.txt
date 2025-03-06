@@ -1,0 +1,21 @@
+city: Baton Rouge
+country: United States
+description: Pleasant Hall - (Formerly a women's dormitory, now being renovated. ) Several accounts of murder/suicides have been reported. Most famous is the incident in room 312: The story goes that one night a girl and her boyfriend got in an argument. The girl shot her boyfriend, but he survived. She ran upstairs into her own room, 312, shot herself and died. Strange noises and sightings have been reported.
+location: Louisiana State University
+state: Louisiana
+state_abbrev: LA
+longitude: -91.1800023
+latitude: 30.4132579
+city_longitude: -91.1403196
+city_latitude: 30.4582829
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1769/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

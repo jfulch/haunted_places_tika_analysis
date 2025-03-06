@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: Room 217 -  Several tries more than necessary to turn the television off; on several occasions while sitting on the bed you can feel something or someone tugging at the bedspread; the feeling of being touched by someone's hand at the top of your back as well as the sense of a presence in the room. Very eerie and experienced by several people on different occasions.
+location: Marriott Hotel
+state: California
+state_abbrev: CA
+longitude: -118.138074
+latitude: 33.811516
+city_longitude: -118.1937395
+city_latitude: 33.7700504
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

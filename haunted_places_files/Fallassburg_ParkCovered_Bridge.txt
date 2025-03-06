@@ -1,0 +1,21 @@
+city: Fallassburg
+country: United States
+description: Haunted by a witch that was hung in the area in the 1800s. Apparitions and voices can be seen.
+location: Fallassburg Park/Covered Bridge
+state: Michigan
+state_abbrev: MI
+longitude: -85.3267242
+latitude: 42.9804248
+city_longitude: -85.3227948
+city_latitude: 42.9822533
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

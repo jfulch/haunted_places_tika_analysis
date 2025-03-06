@@ -1,0 +1,19 @@
+city: Cumberland
+country: United States
+description: Various numbers of Ghosts have been reported on this Road.  Most common is the Ghost of a little Girl whom is spitted in the front yard of one of the houses.  The road is narrow and twisting with a lot of Hills, the Deadliest curve, it's been reported that the Ghost of a little boy running with his dog.  Also, in this area sometimes a Toddler on a tricycle is spotted.  Many have spotted various, strange apparitions in the woods and fields along the road.  Often when traveling this road, people get a strange watched or haunted feeling.
+location: Tower Hill Road
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.43729739999999
+latitude: 41.9946341
+city_longitude: -71.4061876
+city_latitude: 41.9721816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

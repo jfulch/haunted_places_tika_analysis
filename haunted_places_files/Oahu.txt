@@ -1,0 +1,21 @@
+city: Pearl Harbor
+country: United States
+description: Ford Island - This small island is in the center of Pearl Harbor and the Naval Complex. Island residents have reported strange occurrences including voices and footsteps from empty rooms, finding objects moved or stacked, lights and appliances suddenly turning on at night, a strange pale glowing "fog-like" apparition floating through the houses often accompanied with a strange odor. A few residents have reported seeing figures of people walking amid the buildings and trees on the north side of the island which would suddenly disappear.
+location: Oahu
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9642869
+latitude: 21.3420741
+city_longitude: -157.9642869
+city_latitude: 21.3420741
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1825/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

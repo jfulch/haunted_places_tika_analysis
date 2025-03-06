@@ -1,0 +1,21 @@
+city: Virginia Beach
+country: United States
+description: The ghost of an ex-fireman has been spotted within the station. In some situations sirens are turned on by themselves, doors are slammed on vehicles, and fire alarms are raised for no reason.
+location: Chick's Beach Vol. Fire Squad
+state: Virginia
+state_abbrev: VA
+longitude: -76.06038889999999
+latitude: 36.7541364
+city_longitude: -75.97798499999999
+city_latitude: 36.8529263
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Tacoma
+country: United States
+description: Pierce Lake - There is a lake in the woods that is located behind pierce college on the way to the old Western state sanitarium. At night early morning hours you feel a presence, see hazy apparitions and hear voices around the lake. They belonged to a woman that drowned there many years ago.
+location: Lakewood
+state: Washington
+state_abbrev: WA
+longitude: -122.518458
+latitude: 47.1717649
+city_longitude: -122.4442906
+city_latitude: 47.2528768
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1820/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

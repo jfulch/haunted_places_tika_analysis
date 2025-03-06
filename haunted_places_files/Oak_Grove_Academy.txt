@@ -1,0 +1,21 @@
+city: Vassalboro
+country: United States
+description: Lights flicker although there is no electricity, ghosts seen on roof and tower; film appears on vehicle and will not come off until you are within a couple miles of the building.
+location: Oak Grove Academy
+state: Maine
+state_abbrev: ME
+longitude: -69.67282279999999
+latitude: 44.4661783
+city_longitude: -69.67776049999999
+city_latitude: 44.45888069999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

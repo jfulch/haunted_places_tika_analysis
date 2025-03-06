@@ -1,0 +1,21 @@
+city: Allegany
+country: United States
+description: This place was a nice ski resort which opened in the late 1950s.  In the 60s/70s, several people were crushed/dismembered in a lift accident, a little boy drowned in the pond at the base, and a janitor in the chalet was shot in the head executioner-style by the two people who robbed the place for $17,000.  They were never caught. Reported white figures in the road, people walking with ski-equipment, man following you in the chalet, little boy screaming, your car stalls at the base of the hill and you see white faces in the rear window.
+location: Wing Hollow/Ski Wing Resort
+state: New York
+state_abbrev: NY
+longitude: -78.5091894
+latitude: 42.1264537
+city_longitude: -78.4941887
+city_latitude: 42.0900647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

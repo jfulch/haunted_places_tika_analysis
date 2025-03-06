@@ -1,0 +1,21 @@
+city: Versailles
+country: United States
+description: call lights go off in empty rooms.. the sound of children playing loudly can be heard in a room of the facility, people whistling in the halls at night when all the residents are asleep...several nurses have reported hearing someone in a room at night only to go in and it's empty but they can still feel the presence of someone there...a nurse's aid reported that the doors to the laundry room shut and locked on her and she had to climb out a window to get out and when the nurse went to check, the doors were locked...it used to be a hotel in the 1800's before becoming a nursing home in recent years.
+location: Silver Bell Nursing Home
+state: Indiana
+state_abbrev: IN
+longitude: -85.31397590000002
+latitude: 38.9725621
+city_longitude: -85.2519035
+city_latitude: 39.0719988
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

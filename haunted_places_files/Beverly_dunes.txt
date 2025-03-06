@@ -1,0 +1,21 @@
+city: Beverly
+country: United States
+description: About 5 miles east of Beverly {grant county} near the old town site of Jericho where the old Milwaukee train line crosses crab creek have been reports of a beautiful Indian girl dressed in nightclothes who disappears into thin air with no trace.
+location: Beverly dunes
+state: Washington
+state_abbrev: WA
+longitude: -119.8964612
+latitude: 46.8298496
+city_longitude: -119.9296785
+city_latitude: 46.8329472
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

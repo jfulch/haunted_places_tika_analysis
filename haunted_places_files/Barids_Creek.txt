@@ -1,0 +1,21 @@
+city: Green Bay
+country: United States
+description: Children voices have been heard laughing and crying after dark. Two ghosts of children have been seen standing in the creek as well as a ghost of a man walking down the bike trails next to the creek.
+location: Barids Creek
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.94487099999999
+latitude: 44.5076249
+city_longitude: -88.019826
+city_latitude: 44.51915899999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1911/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

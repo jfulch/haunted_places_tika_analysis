@@ -1,0 +1,21 @@
+city: Bossier
+country: United States
+description: Near a curve in the railroad tracks inside the city limits of Bossier City, ghostly cries and screams can be heard. The story is a young mother and several of her small children were hit by a train years ago when her vehicle stalled on the tracks. The spine tingling cries can be heard between 10:30 and 11:30pm on certain nights. Even hard core railroad men avoid this area at night. My husband won't go near the area at night again, because he has experienced the fright several times while working.
+location: KCS Railroad Tracks
+state: Louisiana
+state_abbrev: LA
+longitude: -93.7257459
+latitude: 32.5235452
+city_longitude: -93.6623239
+city_latitude: 32.7551322
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

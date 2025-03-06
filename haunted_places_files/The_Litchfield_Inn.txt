@@ -1,0 +1,20 @@
+city: Litchfield
+country: United States
+description: The kitchen and dining room of the Inn are said to be haunted by an old Native American woman. Orbs can be seen in photographs. And an image of a semi-transparent Indian woman in the background of a picture taken in the dining room.
+location: The Litchfield Inn
+state: Connecticut
+state_abbrev: CT
+longitude: -73.2179324
+latitude: 41.7379139
+city_longitude: -73.1887165
+city_latitude: 41.7472642
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

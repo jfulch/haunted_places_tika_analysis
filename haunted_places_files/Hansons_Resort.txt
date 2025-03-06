@@ -1,0 +1,21 @@
+city: Deposit
+country: United States
+description: Footsteps and floor creaking, then porch door swinging open, even though it was locked. This happened repeatedly throughout the nights, back in the early 70's.
+location: Hanson's Resort
+state: New York
+state_abbrev: NY
+longitude: -75.459498
+latitude: 42.017664
+city_longitude: -75.4276769
+city_latitude: 42.0600834
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

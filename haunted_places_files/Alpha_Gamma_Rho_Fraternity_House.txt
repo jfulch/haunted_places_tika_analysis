@@ -1,0 +1,21 @@
+city: Stillwater
+country: United States
+description: Three fraternity brothers were killed in an accident in 1977 while they were building a theme float for homecoming. The scaffolding fell into a power line and electrocuted them. The house reportedly is haunted by strange sounds, things moving around, lights and sink faucets turning off and on. Apparently the house mother's(who was there preparing for the school year)nephew had a bad encounter there while staying there at night, in which he claimed to see something. - Side note: that numerous students have been killed during homecoming float preparations and rumor is Alpha Gamma Rho had actually stopped making a homecoming float because of how many people had been killed over time. Mainly the deaths occur from scaffolding set too close to the power lines on Washington street.
+location: Alpha Gamma Rho Fraternity House
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.069595
+latitude: 36.119027
+city_longitude: -97.0583681
+city_latitude: 36.1156071
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

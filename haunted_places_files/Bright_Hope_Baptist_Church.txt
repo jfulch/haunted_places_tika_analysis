@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: Sounds of unsettlement have been heard behind the church after everyone leaves the building.
+location: Bright Hope Baptist Church
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.1538819
+latitude: 39.9778807
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

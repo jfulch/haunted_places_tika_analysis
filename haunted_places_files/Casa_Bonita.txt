@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: Downtown on 6th St. - Casa Bonita is an extremely old building that's recently been refurbished and restored in Downtown Long Beach. It used to be a hotel a long time ago. Residents and visitors share stories of strange noises being heard in the basement where the laundry room is located. A woman screaming in the hallway where there was no one there for the screams to have come from, cold spots in apartments and hallways. Hanging lamps swinging when there is no breeze.
+location: Casa Bonita
+state: California
+state_abbrev: CA
+longitude: -118.1670035
+latitude: 33.8542373
+city_longitude: -118.1937395
+city_latitude: 33.7700504
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

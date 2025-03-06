@@ -1,0 +1,21 @@
+city: Saugus
+country: United States
+description: IF you drive into Penny Road (dirt road off of route 99) you will see a sign to your left, on the sign you will see a little boy, and supposedly if you look through you rearview mirror you will see the headlights of the truck that ran him over. A little boy was walking down this path when a truck hit him and the boy died instantly.
+location: Penny Road
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.03582589999999
+latitude: 42.445928
+city_longitude: -71.0110473
+city_latitude: 42.4651421
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

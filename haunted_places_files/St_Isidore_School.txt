@@ -1,0 +1,21 @@
+city: Grand Rapids
+country: United States
+description: Reports of water faucets going on all by themselves. There was one incident where a girl went to the upstairs bathroom and heard someone come in, but when she looked around no one was around.
+location: St. Isidore School
+state: Michigan
+state_abbrev: MI
+longitude: -85.6445633
+latitude: 42.9741734
+city_longitude: -85.6680863
+city_latitude: 42.9633599
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

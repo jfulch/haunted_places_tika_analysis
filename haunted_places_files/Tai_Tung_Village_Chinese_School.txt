@@ -1,0 +1,21 @@
+city: Chinatown
+country: United States
+description: They say a ghost of an old woman haunts the basement floors of the old school. She is described as a smiling, hunchbacked woman that is usually found washing her hands in the downstairs woman's bathroom. She is only see in darkness and when the lights are turned on, the immediately flees.
+location: Tai Tung Village (Chinese School)
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0624516
+latitude: 42.3475848
+city_longitude: -71.0624052
+city_latitude: 42.3500641
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

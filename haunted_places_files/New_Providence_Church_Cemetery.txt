@@ -1,0 +1,21 @@
+city: Surgoinsville
+country: United States
+description: The Old White Oak as its called has many strange things happen atop that mountain. Right off 11W in Surgoinsville. A Black dog seems to watch over Captain Maxwell’s grave but disappears right after sighted. Birds erupt at night if one gets within a few feet of the Revolutionary soldiers grave and many have heard footsteps in the leaves that walk along with them at night.
+location: New Providence Church Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -82.82416099999999
+latitude: 36.495202
+city_longitude: -82.851829
+city_latitude: 36.4709298
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

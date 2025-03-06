@@ -1,0 +1,19 @@
+city: East Bethany
+country: United States
+description: There was a school bus of children that were hit by a train while stuck on the tracks. Many died. It's said that if you stop on the tracks the ghosts of the children will push you across the tracks.
+location: Lyndon Tracks
+state: New York
+state_abbrev: NY
+city_longitude: -78.1014019
+city_latitude: 42.9314495
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

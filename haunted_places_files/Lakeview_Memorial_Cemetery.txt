@@ -1,0 +1,21 @@
+city: Cinnaminson
+country: United States
+description: reports of children's ghost been seen and leaving footprints in the area that is all child graves. Ghostly anomalies have been observed at the tower also.
+location: Lakeview Memorial Cemetery
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9818081
+latitude: 40.0036401
+city_longitude: -74.99276929999999
+city_latitude: 39.9969646
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

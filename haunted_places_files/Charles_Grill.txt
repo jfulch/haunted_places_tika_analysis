@@ -1,0 +1,19 @@
+city: Pomona
+country: United States
+description: Corner of Garey & Holt. St -  Multiple entities, footsteps, slamming doors, arguments, apparitions, physical phenomena such as potted trees whose tops touch the floor for a few minutes and then spring to original position. Whatever is there does definitely like to share the space with the living.
+location: Charles Grill
+state: California
+state_abbrev: CA
+city_longitude: -117.7499909
+city_latitude: 34.055103
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

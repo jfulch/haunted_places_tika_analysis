@@ -1,0 +1,21 @@
+city: Warminster
+country: United States
+description: In 1791 a woman named Penelope was raped and murdered and if you're alone in the attic at 12:00 midnight, the lights will go out and her ghost will circle the building.
+location: Mike's York Street Bar &amp; Grill (formerly the Warminster Inn)
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.1003087
+latitude: 40.205111
+city_longitude: -75.099807
+city_latitude: 40.2067884
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1791/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

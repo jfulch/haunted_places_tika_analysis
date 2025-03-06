@@ -1,0 +1,21 @@
+city: Annandale-on-Hudson
+country: United States
+description: Blithewood Mansion - Students and faculty have long reported noises and poltergeist activity at the mansion. Sightings of a ghostly young girl between the ages of 8-12 have also been mentioned in the house and the surrounding gardens. The spirit is believed to be the daughter of Captain Andrew C. Zabriskie, the former owner and builder of the house. One winter their daughter either fell or jumped to her death out the window of their New York apartment and it is said she remains at the summer house because she disliked Manhattan while alive. An eerie postscript: before her death, Capt. Zabriskie commissioned a sculptor to create 4 statues of her for each 3 years of her life up to the age of 12 in the gardens; but to this day only three statues are present, along with an empty pedestal for the fourth one.
+location: Bard College
+state: New York
+state_abbrev: NY
+longitude: -73.91005439999999
+latitude: 42.0203897
+city_longitude: -73.9095279
+city_latitude: 42.0218762
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1941/05/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

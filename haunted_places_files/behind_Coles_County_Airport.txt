@@ -1,0 +1,21 @@
+city: Mattoon
+country: United States
+description: Rag Doll Cemetery - A young girl, around the age of nine, was murdered in her own home. She would always carry around a doll, with red hair and a blue dress on it. It was referred to as her little "Rag Doll." When she was buried, her parents placed the rag doll in her coffin. The murderer was never caught and the case was mysteriously dismissed. However, to one person the murder was never left alone...."Her Rag Doll." Late at night around 12:00 midnight. If you go into the cemetery to her grave there is a tall tree right next to it. Look up and you will see her little "Rag Doll" hanging with a rope around its neck. However, when it becomes daylight the doll disappears. It has been said that the doll is alive and looking for the murderer who killed her best friend so it can get the right REVENGE!!!
+location: behind Coles County Airport
+state: Illinois
+state_abbrev: IL
+longitude: -88.27948090000001
+latitude: 39.4788707
+city_longitude: -88.37282549999999
+city_latitude: 39.48308970000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

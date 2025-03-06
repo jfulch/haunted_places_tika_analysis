@@ -1,0 +1,18 @@
+city: Bara
+country: United States
+description: Pomfret - The ruins of the settlement that later grew into Pomfret, along with the old cemetery used by the small settlement, hide in the CT woods but hold many surprises for those who take the time to find them. Reports include human voices, animal sounds, children's' laughter, sightings of a baby reclining in the branches of a tree, and orbs of light.
+location: Hack Settlement
+state: Connecticut
+state_abbrev: CT
+city_longitude: -86.098433
+city_latitude: 39.9871625
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1772/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

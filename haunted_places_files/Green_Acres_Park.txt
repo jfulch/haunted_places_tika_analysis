@@ -1,0 +1,21 @@
+city: Fort Bragg
+country: United States
+description: Witnesses report hearing humming like a person was singing they kept humming the same verse over and over several times on different nights They felt a strange chill.
+location: Green Acres Park
+state: California
+state_abbrev: CA
+longitude: -123.7939771
+latitude: 39.4827651
+city_longitude: -123.8052935
+city_latitude: 39.445723
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

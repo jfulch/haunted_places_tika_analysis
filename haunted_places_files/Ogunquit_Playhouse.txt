@@ -1,0 +1,21 @@
+city: Ogunquit
+country: United States
+description: Revolutionary War soldiers seen here at times.
+location: Ogunquit Playhouse
+state: Maine
+state_abbrev: ME
+longitude: -70.600465
+latitude: 43.239287
+city_longitude: -70.5986223
+city_latitude: 43.2468352
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1763/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Greensburg
+country: United States
+description: A ghost has been seen walking around in the wrestling room in the basement. Many wrestlers say that he comes up and wrestles them during practice. He has been seen hitting on Ashley Chapel.
+location: Greensburg Salem High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.5406127
+latitude: 40.3263691
+city_longitude: -79.5389289
+city_latitude: 40.3014581
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

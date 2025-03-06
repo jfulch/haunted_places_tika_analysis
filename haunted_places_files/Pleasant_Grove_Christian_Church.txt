@@ -1,0 +1,21 @@
+city: Dallas
+country: United States
+description: Reports of seeing Children who run by and disappear. Banging and howling noises from all over the grounds. One witness has taken pictures with a digital camera at this site and obtained pictures of floating orbs, a child's face in what was an empty hallway, and what appears to be an adult hand holding an axe. The children spirits are not too intense but the adult spirit seems very angry and seems to want to be left alone. Rumor of the adult possibly murdering the child.
+location: Pleasant Grove Christian Church
+state: Texas
+state_abbrev: TX
+longitude: -96.678013
+latitude: 32.7352723
+city_longitude: -96.7969879
+city_latitude: 32.7766642
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

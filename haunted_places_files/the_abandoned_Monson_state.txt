@@ -1,0 +1,21 @@
+city: Monson
+country: United States
+description: its an old run down insane asylum, back in its days of operation many people were tortured...some even killed. when you go up there is a very eerie sensation and when standing outside of the buildings you can hear doors shutting, floors creaking and many other things that make it seem like the building is still in use.
+location: the abandoned Monson state
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.32991059999999
+latitude: 42.143372
+city_longitude: -72.3189519
+city_latitude: 42.1042451
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1763/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

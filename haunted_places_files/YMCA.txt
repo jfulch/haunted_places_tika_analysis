@@ -1,0 +1,20 @@
+city: Winona
+country: United States
+description: Everyone that has been inside of the YMCA at night agrees that it is haunted! Everyone says that it is haunted by an old janitor that loved his job and cared about everyone there. If you are inside the YMCA at night and you be very quite, sometimes you can here doors opening and a garbage can squeaking through the halls when no one else is there.
+location: YMCA
+state: Minnesota
+state_abbrev: MN
+longitude: -91.6430437
+latitude: 44.0527423
+city_longitude: -91.6663523
+city_latitude: 44.0553908
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

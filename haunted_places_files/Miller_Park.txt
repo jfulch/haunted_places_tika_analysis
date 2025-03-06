@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: a girl is seen frequently around the park after you see her for about 10 seconds, she vanishes. It is said that the girl, named Amy, was electrocuted on the slide closest to the hockey rink and died.
+location: Miller Park
+state: Michigan
+state_abbrev: MI
+longitude: -82.9774671
+latitude: 42.5293794
+city_longitude: -83.01465259999999
+city_latitude: 42.5144566
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 1

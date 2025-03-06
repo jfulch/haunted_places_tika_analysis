@@ -1,0 +1,21 @@
+city: Shalimar
+country: United States
+description: Many Indians Used to live in this area. Some nights on full moons shadows of Indians appear in the fog over the swampy land. Sometime depicting scenes of Indians being slaughtered by white men taking there land.
+location: End of Garniers Buyou
+state: Florida
+state_abbrev: FL
+longitude: -86.5924287
+latitude: 30.4684657
+city_longitude: -86.5791189
+city_latitude: 30.4457544
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 0

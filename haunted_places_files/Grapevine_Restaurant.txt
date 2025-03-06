@@ -1,0 +1,19 @@
+city: Logan
+country: United States
+description: Ex-employees talk about strange goings on while working. Such as dishes flying against the walls and breaking, brooms being moved from one room to another as if being carried by an invisible entity. To put a stop to these things for a while they had to speak sternly such things as "Stop it!" and "Knock it off!"
+location: Grapevine Restaurant
+state: Utah
+state_abbrev: UT
+city_longitude: -111.8338359
+city_latitude: 41.7369803
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

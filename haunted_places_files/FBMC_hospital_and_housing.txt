@@ -1,0 +1,21 @@
+city: Fort Bayard
+country: United States
+description: Fort Bayard Medical Center has been around since the 1800's. It was originally a cavalry base where the Buffalo Soldiers(first African American soldiers in the U.S. cavalry)were first introduced in New Mexico. After military use, a medical center was constructed and used as a TB center. It is now a long term care facility, and veterans hospital. In the basement (where the dungeon for the original base was) there have been sighting of wheelchairs rolling down the hall, door opening and closing, sounds of shackles and chains, moaning, crying, conversations, laughing, voices, people touching your shoulder, and apparition sightings, throughout the whole hospital on all 6 floors, esp. 2 west. In the housing area there are reports of hauntings, footsteps, late at night when everyone is asleep, apparitions, knocking on the doors and no one there, covers being torn off you.
+location: FBMC hospital and housing
+state: New Mexico
+state_abbrev: NM
+longitude: -108.1576308
+latitude: 32.7890533
+city_longitude: -108.1503221
+city_latitude: 32.7961863
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1866/09/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

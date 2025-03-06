@@ -1,0 +1,19 @@
+city: Harmarville
+country: United States
+description: There was an orphanage that burned down with all the kids still in it, and when you go up the hill all the bump you go over are the buried children. When you go up the hill there are 13 bends, when you come down there are only 12. If you stop half way up the hill, turn your car off, put baby powder on the windows, then turn your car back on after a few minutes there will be little hand prints all over your windows. Sometimes at night you can hear screaming children
+location: 13 bends
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -79.8403931
+city_latitude: 40.5395038
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

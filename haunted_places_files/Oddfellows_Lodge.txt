@@ -1,0 +1,21 @@
+city: Lemoore
+country: United States
+description: Each year on Halloween the local Drama Club puts up a haunted house, The Spirits of the family that used to live there seem not to like this. Since during the haunts People working there report Sighting Shadow's of people wearing Victorian era Clothes, Cold Spots, Spots of Extreme Heat, a Hallway that seems to be Unnaturally Dark, and when in there for long amounts of time you hear voices call out your names and hands push you. A deep male voice Telling us to LEAVE US TO REST, and sightings of Strange green, and Red Lights on the roof. The Spirits are generally Menacing and People would find themselves with a feeling of deep dread after spending long times in the building
+location: Oddfellows Lodge
+state: California
+state_abbrev: CA
+longitude: -119.722054
+latitude: 36.800747
+city_longitude: -119.7829107
+city_latitude: 36.3007835
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

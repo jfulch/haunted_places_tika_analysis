@@ -1,0 +1,20 @@
+city: Poinsett Bridge
+country: United States
+description: Northern Greenville County near the state line. Old rock bridge that used to be the only roadway between Greenville and Asheville. The bridge is closed to auto traffic but is road side and accessible by fogt. Rumor has it that a slave was once hung under the bridge and his ghost still haunts it. Several of the locals say that they have been unable to start their cars when they got ready to leave. Several locals also report that they hear a loud scream when the light gets to them.
+location: Old Hwy 25 North
+state: South Carolina
+state_abbrev: SC
+longitude: -82.3843789
+latitude: 35.1293474
+city_longitude: -82.3843789
+city_latitude: 35.1293474
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

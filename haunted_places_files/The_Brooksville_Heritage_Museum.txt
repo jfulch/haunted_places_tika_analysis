@@ -1,0 +1,21 @@
+city: Brooksville
+country: United States
+description: People have seen and heard things unexplained things in that mansion that is now a museum.
+location: The Brooksville Heritage Museum
+state: Florida
+state_abbrev: FL
+longitude: -82.3811718
+latitude: 28.5559606
+city_longitude: -82.3878709
+city_latitude: 28.5552719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

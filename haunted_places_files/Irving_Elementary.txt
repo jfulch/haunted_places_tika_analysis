@@ -1,0 +1,20 @@
+city: Lima
+country: United States
+description: Reports of a ghost child that plays with a basketball. - February 2004 Update: This school has been torn down.
+location: Irving Elementary
+state: Ohio
+state_abbrev: OH
+longitude: -84.1141148
+latitude: 40.7533843
+city_longitude: -84.1052256
+city_latitude: 40.742551
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

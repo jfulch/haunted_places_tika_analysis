@@ -1,0 +1,21 @@
+city: Grand Island
+country: United States
+description: A young girl who haunts the holiday inn next door her grave stone glows. There is also a young woman who died of AIDS in the early 1990's there and she can be seen on her grave marker holding her infant son. There is also a man who died in the Gulf War walking around. He is supposedly looking for his pregnant wife
+location: Whitehaven Cemetery
+state: New York
+state_abbrev: NY
+longitude: -78.89681949999999
+latitude: 43.0259025
+city_longitude: -78.9657302
+city_latitude: 43.0216283
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 1

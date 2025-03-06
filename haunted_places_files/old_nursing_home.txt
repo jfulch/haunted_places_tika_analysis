@@ -1,0 +1,21 @@
+city: Aberdeen
+country: United States
+description: it's an abandoned nursing home that is closed off by woods. there are time you go in and a chair will move from a room out into the hall way. As you walk down the hall being quiet, you can hear grunts and moaning of older people. the building beside it burned which was where they kept the healthy patients. Everything burnt except the devil signs. If you were to go into the building that still stands to this day you will see needles with dried up blood in them. there is also a sign posted on the wall in front of the desk that says hair cuts on Tuesday and sometimes it says on wed. People have said that they seen bedroom slippers on one of the beds they ran out and when they went back in they seen blood coming out from under the door. The blood stains still remain. People have tried to go and remodel it but something keeps chasing them off.
+location: old nursing home
+state: North Carolina
+state_abbrev: NC
+longitude: -79.41378499999999
+latitude: 35.12088
+city_longitude: -79.42947889999999
+city_latitude: 35.131547
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Academia
+country: United States
+description: Being right beside a cemetery, the old school for girls is pretty creepy. Rumor was that the gardener killed some girls and hid their bodies. It is said that if you go there at night, you will be chased out by ghosts and your car will have trouble starting. It is also said that when you are leaving you will see the gardeners ghost sitting on the steps of the church by the cemetery. Reports of a girl singing.
+location: Academia
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.4758231
+latitude: 40.4964672
+city_longitude: -77.4758231
+city_latitude: 40.4964672
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1685/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

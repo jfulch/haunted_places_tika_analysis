@@ -1,0 +1,21 @@
+city: Wilson
+country: United States
+description: This used to be a house where a family lived upstairs and one downstairs. Upon investigation into the history of the house it was discovered that the family upstairs had a daughter whom was very ill and died a very painful death at home in the attic. The attic still has remnants of a mattress and curtains on the windows. Employees of the tanning salon have reported strange occurrences. One employee placed a vacuum in a closet that opened inwards, and when she went to get the vacuum it was blocking the door. It was as if the ghost of the little girl were playing a prank on her. Also, the door that leads to the poor, to which no one has the key was found open. Late at night employees have reported hearing the girl laugh and also eerie feelings of being watched. Finally, during construction of the house to make it a tanning salon, several tools went missing, and one morning the crew came in to find the toilet in the new bathroom smashed. There was no evidence of a forced entry and only one person had the key. This is a great place to go to at night if you have the right connections!
+location: Sun Rayz Tanning Salon
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.134501
+latitude: 41.87787
+city_longitude: -75.24184389999999
+city_latitude: 40.6839875
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

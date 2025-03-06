@@ -1,0 +1,21 @@
+city: Everett
+country: United States
+description: At certain times of year, you can hear the organ played by a red-eyed organist. If you happen to be a minister, you hear footsteps of the choir members when there are none (must be annoying when you're praying) Ghost hunters are not allowed in for investigations or anything, so you have to be really lucky.
+location: INC
+state: Washington
+state_abbrev: WA
+longitude: -122.1764961
+latitude: 47.982284
+city_longitude: -122.2020795
+city_latitude: 47.9789848
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

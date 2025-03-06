@@ -1,0 +1,20 @@
+city: Glenville
+country: United States
+description: It used to be an old nursing home but had been vacant for 10 years before the school moved in. The school is the Virtual Schoolhouse. Staff hears loud screaming and footsteps before school. The basement doors close for no reason and voices can be heard when no one is around.
+location: 736 Lakeview Ave
+state: Ohio
+state_abbrev: OH
+longitude: -81.6086827
+latitude: 41.5371448
+city_longitude: -81.61720830000002
+city_latitude: 41.5320644
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

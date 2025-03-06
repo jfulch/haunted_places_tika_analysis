@@ -1,0 +1,21 @@
+city: Warminster
+country: United States
+description: A young man dressed in 1700's clothing has been seen through the windows of the first floor. He also bangs on windows late at night as if trying to escape. It is believed that the body of the young soldier is buried on the grounds of Craven Hall.
+location: Craven Hall
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.0734729
+latitude: 40.1915245
+city_longitude: -75.099807
+city_latitude: 40.2067884
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

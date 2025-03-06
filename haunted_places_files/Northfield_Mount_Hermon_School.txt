@@ -1,0 +1,21 @@
+city: Northfield
+country: United States
+description: A student committed suicide and still haunts his room in the overtoun dorm. The ghost of D.L. Moody, the school's founder also is said to haunt the grounds.
+location: Northfield Mount Hermon School
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.48517509999999
+latitude: 42.6663596
+city_longitude: -72.4528885
+city_latitude: 42.6959093
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/05/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

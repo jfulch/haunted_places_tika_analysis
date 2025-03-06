@@ -1,0 +1,21 @@
+city: Mandan
+country: United States
+description: Custer House - Custer Haunts the recently rebuilt Custer House were she and Gen. George Custer lived before the little big horn.
+location: Ft. Lincoln National Park
+state: North Dakota
+state_abbrev: ND
+longitude: -100.8478347
+latitude: 46.7660582
+city_longitude: -100.8895761
+city_latitude: 46.8266603
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1839/12/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

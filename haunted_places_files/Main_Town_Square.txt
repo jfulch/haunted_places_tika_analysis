@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: a lady once pregnant that had committed a crime. Her hanging was postponed until she had the baby. When she finally had the baby, it was taken away and she was hanged. You can see her wandering through the square crying . if you go up to her she will think you have the baby and will follow you through the square.
+location: Main Town Square
+state: Georgia
+state_abbrev: GA
+longitude: -81.09633269999999
+latitude: 32.0740651
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

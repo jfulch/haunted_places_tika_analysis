@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: A high school was built on top of a cemetery and in the girls looker room a girl named Mary was said to be getting a towel when a large gate fell on top of her pressing a deep wound in her neck. Later this high school was turned into a Elementary school were f you go to the girls restroom before you exit the back side of the school you will see five girls hung from the ceiling with many bloody hand prints on the wall.
+location: Escontrias Elementary
+state: Texas
+state_abbrev: TX
+longitude: -106.2909883
+latitude: 31.6521545
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Painesville
+country: United States
+description: An old theater used to occupy this site and was torn down so they could build an office building with the pharmacy on the ground floor.
+location: Rite Aid Pharmacy
+state: Ohio
+state_abbrev: OH
+longitude: -81.242611
+latitude: 41.729231
+city_longitude: -81.245657
+city_latitude: 41.7244885
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1577/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

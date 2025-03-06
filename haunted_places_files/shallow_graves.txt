@@ -1,0 +1,19 @@
+city: Geneva
+country: United States
+description: to help other people out in finding it. It is also called girls' school cemetery.
+location: shallow graves
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.3053525
+city_latitude: 41.8875281
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.2
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

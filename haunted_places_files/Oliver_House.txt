@@ -1,0 +1,21 @@
+city: Bisbee
+country: United States
+description: This bed and breakfast is the site of a mass murder. When a husband found his wife with a man who resided here, he killed his wife and her lover. He then walked to the day room and killed whoever he came across. He left, drove to the edge of town, and then killed himself. There was also another murder, but the culprit was never found. The building is pleasant and very nostalgic. Guests that have stayed there have heard what they thought were firecrackers exploding in the hall. Later, they heard the opening and slamming of doors, with heavy footsteps going down the hall. They found out in the morning that no one else had heard any of the sounds they did, but that previous guests had reported similar events. The owner was quite helpful and knowledgeable as to who may be haunting his bed and breakfast.
+location: Oliver House
+state: Arizona
+state_abbrev: AZ
+longitude: -109.916607
+latitude: 31.442547
+city_longitude: -109.9284084
+city_latitude: 31.4481547
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

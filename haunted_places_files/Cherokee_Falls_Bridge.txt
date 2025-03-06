@@ -1,0 +1,20 @@
+city: Blacksburg
+country: United States
+description: Booger Jim lives under the bridge. He died on the bridge in 1979 when he was hung over the side of the bridge with jumper cables by his crazy wife Becca at around 9:00 P.M. If you call his name 3 times, he will answer, but you can't make it out because his throat was crushed from the hanging! Some people have even reported seeing him with a large burn on his throat from the cables.
+location: Cherokee Falls Bridge
+state: South Carolina
+state_abbrev: SC
+longitude: -81.5459497
+latitude: 35.080698
+city_longitude: -81.51592459999999
+city_latitude: 35.1212408
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1979/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: Originally a mill in the 1600's, this creek-side building is said to have many ghosts.  The presence of a young woman, the miller's reclusive daughter, can be felt in an upstairs bedroom, with the protective presence of many dogs she owned around the bed area where they would sleep.  A mirror in that room mysteriously never collects dust.  Poltergeist activity has been reported with kitchen appliances suddenly switching on or off, and lights flickering.
+location: Wissahickon Canoe Club
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.2074081
+latitude: 40.0138974
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1956/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Longview
+country: United States
+description: Legend has it that while this school was being built, a young girl died. She took cookies to the workers often, but was victim to a terrible fate one day when she fell in an area of freshly poured cement. Her ghost has been seen wandering the halls of the school at night, humming a tune. The girl’s footsteps have been heard as well.
+location: Monticello Middle School
+state: Washington
+state_abbrev: WA
+longitude: -122.9584961
+latitude: 46.1383869
+city_longitude: -122.9381672
+city_latitude: 46.1381676
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

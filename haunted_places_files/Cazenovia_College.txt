@@ -1,0 +1,21 @@
+city: Cazenovia
+country: United States
+description: Hubbard Hall - 3rd floor - Residents report having alarm clocks go off and instantaneously their cell phone fly off the desk and door close seconds later no one else in the room besides her.
+location: Cazenovia College
+state: New York
+state_abbrev: NY
+longitude: -75.8541481
+latitude: 42.9320977
+city_longitude: -75.85269149999999
+city_latitude: 42.9300668
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1956/12/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

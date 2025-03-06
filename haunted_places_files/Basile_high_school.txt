@@ -1,0 +1,21 @@
+city: Basile
+country: United States
+description: In Basile High School's old gym there has been seen seats moving up and down. There also had been lights flickering on and off.
+location: Basile high school
+state: Louisiana
+state_abbrev: LA
+longitude: -92.597027
+latitude: 30.486639
+city_longitude: -92.5959723
+city_latitude: 30.4852012
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1799/02/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

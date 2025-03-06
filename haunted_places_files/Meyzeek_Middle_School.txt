@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: back in the 1930's a young boy was shot in the lobby of the school. To this day he haunts there. At this school there is a lock in for the graduating 8th graders. Each year they have had a lock in something has happened. One witness reports someone's belongings went missing, someone broke a finger, and another sprained her ankle while running down the stairs. She claimed that something had pushed her. In years past people had reported missing items, strange noises, and so called accidents.
+location: Meyzeek Middle School
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7472244
+latitude: 38.2413149
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1875/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

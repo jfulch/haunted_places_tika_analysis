@@ -1,0 +1,19 @@
+city: Lexington
+country: United States
+description: Haunted by the spirit if the old man who died building the farm house in the late 1800's. Strange things have happened such as doors opening and slamming, windows opening & shutting all hours of the night. Once in a while you can hear cars coming up the gravel driveway, and nothing is there, even the dogs of Mr. Young run around the side of the house when they hear the sounds of the cars, and nothing is there.
+location: Don Young Farm House
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.5037164
+city_latitude: 38.0405837
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

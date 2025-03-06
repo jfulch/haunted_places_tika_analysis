@@ -1,0 +1,20 @@
+city: New Bedford
+country: United States
+description: Inmates experience instant and shared feelings of dread and at times report being woken up and not being able to rise out of bed as if being held down by an invisible force.
+location: Ash Street Jail
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9344514
+latitude: 41.6335027
+city_longitude: -70.93420499999999
+city_latitude: 41.6362152
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

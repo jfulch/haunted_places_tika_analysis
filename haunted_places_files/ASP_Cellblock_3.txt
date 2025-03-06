@@ -1,0 +1,19 @@
+city: Florence
+country: United States
+description: In 1973, officers Buckely and Morey were killed in the cellblock by inmates during a riot. Both officers were beaten and stabbed to death. On a number of occasions, when guards would lock all of the doors in the cellblock, they would find doors open between inmate counts. A number of the officers also noticed cold spots and the sounds of doors opening and closing. Several officers noticed misty forms at the end of the cellblock on a number of occasions. The cellblock is located in the same prison as the Arizona Death House, which is also haunted.
+location: ASP Cellblock 3
+state: Arizona
+state_abbrev: AZ
+city_longitude: -111.3873431
+city_latitude: 33.0314508
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1973/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

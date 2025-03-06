@@ -1,0 +1,21 @@
+city: Flagstaff
+country: United States
+description: The ghost of a woman has been seen in the halls. Faucets turn on and off by themselves, doors lock and the keys don't work in them anymore, and telephones ring in the front office from locked offices upstairs, even after they have been unplugged. Disembodied voices are heard, apparitions are seen, and objects are moved from one location to another.
+location: NACOG Head Start Administration Building
+state: Arizona
+state_abbrev: AZ
+longitude: -111.6490815
+latitude: 35.195554
+city_longitude: -111.651302
+city_latitude: 35.1982836
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

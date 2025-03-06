@@ -1,0 +1,19 @@
+city: Warsaw
+country: United States
+description: It has been said that if you drive down Devils Back Bone on ST RD 25 late at night around mid-night you will hear a freight train in the distance. It is believed that a train used to run through there but due to the quicksand it sank. No one even knows how the quicksand even got there. There is no evidence of any quicksand being there.
+location: Devils Back Bone (St Rd 25)
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.8530469
+city_latitude: 41.2381
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1936/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Dearborn
+country: United States
+description: Several years ago, when a new gym addition to the school was being built, a construction worker fell from a scaffolding and died from head injuries. Many people say that the new gym in the school is haunted and see his ghost up on the catwalk at night. If you walk down the halls of DC by yourself you always feel like something is watching you, or following you, usually due to the footstep noises. It has been said that at night, in the empty halls, if you get in the school and walk around some of the rooms are lit up and the janitor equipment will be standing outside some of the rooms, but if you go in the rooms there is no one to be found, but often strange things written on the chalk boards.
+location: Divine Child High School
+state: Michigan
+state_abbrev: MI
+longitude: -83.28307509999999
+latitude: 42.3186735
+city_longitude: -83.17631449999999
+city_latitude: 42.3222599
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Ontario
+country: United States
+description: When you are alone at night you will hear footsteps like someone else is in the restaurant. Sometimes when your on the other side of the ice machine ice will fling over at you and no one is there.  A ghost waitress was seen walking into the back of the new room.  Also there have been reports of hearing her talking to customers when no one was there. If you go into the restroom alone and sit in the middle stall the other doors on the stalls will open and close very rapidly.  Also, if you are sitting in there someone will flush the toilets and turn on the water.  Like someone is washing their hands.  Then you hear the door open when no one was there. In the banquet room if you are cleaning tables alone you can hear thumping and scratching coming from the roof.  People have also been pushed in the kitchen by the lockers.
+location: Vince's Spaghetti
+state: California
+state_abbrev: CA
+longitude: -117.672985
+latitude: 34.0635838
+city_longitude: -117.6508876
+city_latitude: 34.0633443
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

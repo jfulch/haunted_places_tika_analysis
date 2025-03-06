@@ -1,0 +1,18 @@
+city: Warroad
+country: United States
+description: many people claim to have seen a figure walking along the tree line on the 2 lane highway a night. The figure seems to be wearing a white cloth or robe. It is said that when you see the Wendigo that someone you know will die unexpectedly.
+location: the Wendigo
+state: Minnesota
+state_abbrev: MN
+city_longitude: -95.3144041
+city_latitude: 48.9052657
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

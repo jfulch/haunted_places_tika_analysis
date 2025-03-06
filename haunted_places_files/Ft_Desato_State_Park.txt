@@ -1,0 +1,21 @@
+city: St. Petersburg
+country: United States
+description: Voices can be heard around the old fort at night. Also footsteps can be heard in the southern most powder room.
+location: Ft. Desato State Park
+state: Florida
+state_abbrev: FL
+longitude: -82.71894209999999
+latitude: 27.6326329
+city_longitude: -82.6267345
+city_latitude: 27.7518284
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

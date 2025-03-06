@@ -1,0 +1,21 @@
+city: Jasper
+country: United States
+description: There are railroads by the church and long ago a man lost his hand working on the railroad. At night, if you sit there in your car, he will tap on it with a hook. One person drove away when he heard the tapping, and when he stopped, there was a hook stuck in the car.
+location: Samaria Church
+state: Alabama
+state_abbrev: AL
+longitude: -87.23121549999999
+latitude: 33.8147845
+city_longitude: -87.2775053
+city_latitude: 33.8312185
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

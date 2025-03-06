@@ -1,0 +1,21 @@
+city: Livonia
+country: United States
+description: At night if you walk around the nature trails, you are able to hear weird noises and screams. Sometimes in the distance you can notice little girls dressed in white dresses moving around. It has been said that these little girls were killed in the woods and their spirits roam around showing the directions to get out of the woods if your lost. The best time for seeing the girls or hearing the noises is from Fall to Spring time.
+location: Rotary Park Woods
+state: Michigan
+state_abbrev: MI
+longitude: -83.36282059999999
+latitude: 42.41347400000001
+city_longitude: -83.35270969999999
+city_latitude: 42.36837
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

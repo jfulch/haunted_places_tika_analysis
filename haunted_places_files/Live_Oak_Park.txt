@@ -1,0 +1,21 @@
+city: Fallbrook
+country: United States
+description: In the park there is a couple of large boulders that were used by Indians to grind acorns. The acorns were then used to make a sort of bread. The many years of grinding made indentations into the rocks. The Police department has over 2 dozen reports of an Indian girl Grinding acorns on these rocks. The reports all very in time of day but the description of the little girl is always similar.
+location: Live Oak Park
+state: California
+state_abbrev: CA
+longitude: -117.2036713
+latitude: 33.3630067
+city_longitude: -117.2511466
+city_latitude: 33.3764196
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

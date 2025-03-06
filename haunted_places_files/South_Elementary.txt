@@ -1,0 +1,20 @@
+city: Castle Rock
+country: United States
+description: In the woods behind the school there is a bridge that you can stand on leading into the hills. If you stay on that bridge long enough and stay very quiet you will hear children's faint giggling. As well as men’s voices heard. It is known that the men took the children up to the hills and for some reason, they all burned to death.
+location: South Elementary
+state: Colorado
+state_abbrev: CO
+longitude: -104.8445234
+latitude: 39.3693598
+city_longitude: -104.8560902
+city_latitude: 39.3722121
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2009/02/08
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

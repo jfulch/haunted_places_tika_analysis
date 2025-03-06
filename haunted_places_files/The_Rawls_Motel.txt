@@ -1,0 +1,21 @@
+city: Enterprise
+country: United States
+description: When going up the stairs to the second floor, there is said to be a faint odor of a cigar. If you climb the stairs and look over the second floor landing, you will feel like something is trying to push you over the stair rail. It is said that there was a woman who was pushed over the stair rail by her lover. She fell and was killed instantly. Employees that were working on the third floor said they heard the patter of small feet and childish laughter. They searched and found no one in the building but themselves.
+location: The Rawls Motel
+state: Alabama
+state_abbrev: AL
+longitude: -85.85394699999999
+latitude: 31.313646
+city_longitude: -85.85521609999999
+city_latitude: 31.3151708
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

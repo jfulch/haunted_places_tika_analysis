@@ -1,0 +1,21 @@
+city: Wheeler
+country: United States
+description: Reports of a sinister force chasing and seemingly trying to trap people walking by.
+location: Wheeler School Area
+state: Hawaii
+state_abbrev: HI
+longitude: -158.0383889
+latitude: 21.4868251
+city_longitude: -158.0328463
+city_latitude: 21.4744642
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

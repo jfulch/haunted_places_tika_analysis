@@ -1,0 +1,18 @@
+city: Midland
+country: United States
+description: An old bank, now part of a museum, has been known to be haunted. Voices and footsteps have been heard many of times. Bare footprints have been seen in the dust.
+location: Old Town Bank
+state: South Dakota
+state_abbrev: SD
+city_longitude: -101.1554178
+city_latitude: 44.0716539
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

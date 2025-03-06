@@ -1,0 +1,21 @@
+city: Sacramento
+country: United States
+description: The original owner and builder of Sacramento's oldest ice skating rink still makes his rounds at night. "Pops" Kerth, father of Sacramento City Councilman, and mayoral hopeful, Rob Kerth, wanders the dark, cold rink at 4 a.m., just as he always did, making certain all is well.
+location: Iceland
+state: California
+state_abbrev: CA
+longitude: -121.459891
+latitude: 38.6056001
+city_longitude: -121.4943996
+city_latitude: 38.5815719
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

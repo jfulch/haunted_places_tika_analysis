@@ -1,0 +1,21 @@
+city: Floral City
+country: United States
+description: Collectibles - For many years, through multiple ownerships, there have been reports of the ghost of an old woman who makes her residence on the third floor (the attic) of this antique and collectible shop. Most appearances have located her in the attic, but on at least one occasion there was a report of someone seeing the apparition on the first floor. Most sightings describe her sitting in an old rocking chair in the attic. The most recent paranormal experience in this shop took place on December 12, 2003.
+location: Cabin Clutter Antiques
+state: Florida
+state_abbrev: FL
+longitude: -82.29039999999999
+latitude: 28.772064
+city_longitude: -82.29675809999999
+city_latitude: 28.7499876
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2003/12/12
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Port Huron
+country: United States
+description: McMorran Theater is a delightfully haunted old theater located in the heart of Port Huron.  They've had some trouble keeping a night time cleaning crew though.  As they would climb the stairs to the balcony, sometimes eyes would appear and once there appeared a woman. Many other apparitions have been seen in the balcony.  ParaHaunt Paranormal Researchers (www.MiParaHaunt.com) was called to investigate.  They captured an EVP of a woman uttering "I don't belong here".  Also, the spiritual orbs could be seen moving through the stairwell, around the corners and through the seats in the balcony.
+location: McMorran Theater
+state: Michigan
+state_abbrev: MI
+longitude: -82.4257528
+latitude: 42.9790149
+city_longitude: -82.42491419999999
+city_latitude: 42.9708634
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

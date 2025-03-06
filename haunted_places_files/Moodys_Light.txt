@@ -1,0 +1,19 @@
+city: Rennsalaer
+country: United States
+description: Way aut in the farm fields a man is said to carry a lantern up and down the road that his family lived on. The light, it changes shape, size, and color throughout the night.
+location: Moody's Light
+state: Indiana
+state_abbrev: IN
+city_longitude: -87.15085619999999
+city_latitude: 40.9367045
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

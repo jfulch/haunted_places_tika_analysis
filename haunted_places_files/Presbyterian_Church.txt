@@ -1,0 +1,20 @@
+city: Manchester
+country: United States
+description: The Church bell of the Presbyterian Church in the steeple used to be rung every Sunday morning, 30 minutes before church began to let the townspeople know they needed to clean up their breakfast and head on over to church. There was only one man who ever rang the bell in the entire 100-year plus history of the church. The bell is no longer used. The man that rang the bell has long been gone, but passersby can look up into the lit steeple glass late at night, and see the shadow of the man's ghost walking around the bell as if fixing it.
+location: Presbyterian Church
+state: Ohio
+state_abbrev: OH
+longitude: -83.604461
+latitude: 38.688257
+city_longitude: -83.6093611
+city_latitude: 38.6881293
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1983/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

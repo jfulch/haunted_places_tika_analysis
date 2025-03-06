@@ -1,0 +1,19 @@
+city: Soldier
+country: United States
+description: different ones - !!!DANGER WARNING!!! - visitors report being chased by a tall albino looking man out of mine, seeing distant lights in the mines, kind of like eyes looking at them, and something would be thrown and land right behind them. Extremely cold chills.
+location: Mushroom Mines
+state: Kentucky
+state_abbrev: KY
+city_longitude: -83.299347
+city_latitude: 38.2592478
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

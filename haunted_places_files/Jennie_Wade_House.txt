@@ -1,0 +1,21 @@
+city: Gettysburg
+country: United States
+description: The only civilian killed in the battle of Gettysburg, Jennie Wade, is known to haunt this house. Visitors have felt her prescience and her father's presence still mourning the loss of his daughter and on occasion the chain in the basement will be moved by some unseen hand.
+location: Jennie Wade House
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.230648
+latitude: 39.823306
+city_longitude: -77.2310955
+city_latitude: 39.8309293
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

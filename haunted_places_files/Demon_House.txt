@@ -1,0 +1,19 @@
+city: Monticello
+country: United States
+description: Reports of odd blue and red lights being seen at night. Loud banging and thrown objects. A man reported being touched on the face by an unseen force. Cold spots and hot spots have been reported. Bad feelings and 1970s clothing litter the floor everywhere. Odd symbols painted in red in the center room with the feeling of being watched everywhere in the house.
+location: Demon House
+state: Georgia
+state_abbrev: GA
+city_longitude: -83.6832289
+city_latitude: 33.3048479
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

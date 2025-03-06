@@ -1,0 +1,21 @@
+city: Saint Clair Shores
+country: United States
+description: In 1978, a janitor was killed by teenagers outside the doors of the gym.  At night at approx. the same time, the janitor continues his nightly closing duties.  You can hear his ghost walking down the hallway, keys jangling, and his low whistling.
+location: St. Margaret's of Scotland
+state: Michigan
+state_abbrev: MI
+longitude: -82.902181
+latitude: 42.526778
+city_longitude: -82.89636039999999
+city_latitude: 42.4974085
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

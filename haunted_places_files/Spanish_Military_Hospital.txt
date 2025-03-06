@@ -1,0 +1,21 @@
+city: St. Augustine
+country: United States
+description: now that it is a tour, people have seen ghosts and flashes. The ghost is known as a one-legged man that roams around the back room.
+location: Spanish Military Hospital
+state: Florida
+state_abbrev: FL
+longitude: -81.31157569999999
+latitude: 29.8918644
+city_longitude: -81.31243409999999
+city_latitude: 29.9012437
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/10/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Culver
+country: United States
+description: Many freaky myths in the high desert of ghosts walking the road at night. Cows all the sudden appear in the road with glowing eyes, and the vehicles travel right through them. This stretch of road is very windy and treacherous, There has been many deaths due to car wrecks.
+location: Old hwy. 97 between Culver and Crooled River Bridge
+state: Oregon
+state_abbrev: OR
+longitude: -121.1928949
+latitude: 44.3932113
+city_longitude: -121.2130974
+city_latitude: 44.5256753
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

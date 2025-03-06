@@ -1,0 +1,21 @@
+city: Harrison
+country: United States
+description: Apparition of 3 men crossing the road in robes the front one was carrying a torch the other 2 had their arms in their robes.
+location: Meadowbrook
+state: West Virginia
+state_abbrev: WV
+longitude: -80.3186989
+latitude: 39.3517545
+city_longitude: -80.365865
+city_latitude: 39.33481260000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1531/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

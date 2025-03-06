@@ -1,0 +1,21 @@
+city: Ypsilanti
+country: United States
+description: supposedly if you are driving down the road late at night you may see a woman in a nurses uniform walking along the edge of the road.  But after you get past her she disappears from your rearview mirror.  The story is she was walking to work at the V.A hospital and was murdered by a man that left her for dead on the side of the road.
+location: Geddes RD.
+state: Michigan
+state_abbrev: MI
+longitude: -83.60304280000001
+latitude: 42.2755924
+city_longitude: -83.61299389999999
+city_latitude: 42.2411499
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2013/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

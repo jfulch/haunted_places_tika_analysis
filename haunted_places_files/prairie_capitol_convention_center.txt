@@ -1,0 +1,21 @@
+city: Springfield
+country: United States
+description: strange happenings such as doors slamming and seats slamming shut. The convention center is haunted by a young boy that was killed in the convention center while watching a tractor pull. Boy was killed by flying engine parts from a blown tractor engine. He died instantly and is still their wondering the convention hall at night.
+location: prairie capitol convention center
+state: Illinois
+state_abbrev: IL
+longitude: -89.64425299999999
+latitude: 39.801085
+city_longitude: -89.6501481
+city_latitude: 39.78172130000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

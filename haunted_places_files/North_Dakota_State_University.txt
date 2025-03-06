@@ -1,0 +1,21 @@
+city: Fargo
+country: United States
+description: Minard Hall - Back in the 1920s the 4th floor attic in the building which was built in 1901 was the dance room. Nobody knows what exactly happened but in the morning the janitor found two people dead. The investigators thought that it was a double homicide. After that incident the ballroom closed and was turned into a zoology lab. And then in the 1960s it was closed off because of unstable floorboards. After that kids have snuck up there and held séances. Strange feelings of something there and not being alone.
+location: North Dakota State University
+state: North Dakota
+state_abbrev: ND
+longitude: -96.8024367
+latitude: 46.8977528
+city_longitude: -96.7898034
+city_latitude: 46.8771863
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1901/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 17m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

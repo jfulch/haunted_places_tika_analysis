@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: It is said that a ghost woman has been seen on the very top floor of this hotel in an all white night gown.
+location: Green Street Hotel
+state: California
+state_abbrev: CA
+longitude: -118.1495691
+latitude: 34.1443942
+city_longitude: -118.1445155
+city_latitude: 34.1477849
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

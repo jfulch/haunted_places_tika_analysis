@@ -1,0 +1,21 @@
+city: Harrodsburg
+country: United States
+description: Young's Park was the site of a ball in late 1800s. A young woman is said to have danced herself to death. Her grave is still there, and marked UNKNOWN. People have reported seeing her dancing there late at night.
+location: Young's Park
+state: Kentucky
+state_abbrev: KY
+longitude: -84.84815929999999
+latitude: 37.7556422
+city_longitude: -84.8432852
+city_latitude: 37.762298
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Nicholas Co. -Robertson
+country: United States
+description: the lodge is haunted by a friendly woman. you can hear her talking.
+location: Blue Licks Park
+state: Kentucky
+state_abbrev: KY
+longitude: -83.9915098
+latitude: 38.4344404
+city_longitude: -84.028537
+city_latitude: 38.31233770000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

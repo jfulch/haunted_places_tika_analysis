@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: There have been at times a woman seen in a turn-of-the-century bridal dress by many parishioners weeping in the side chapel of Our Lady of Guadalupe. It is believed to be the ghost of a young Mexican woman who was left at the altar and died not long after. She comes back in hoping that her deserting groom will come back.
+location: Sacred Heart Catholic Church
+state: Texas
+state_abbrev: TX
+longitude: -106.4862847
+latitude: 31.7534636
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

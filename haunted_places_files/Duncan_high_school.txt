@@ -1,0 +1,21 @@
+city: Duncan
+country: United States
+description: An old man died in the auditorium of the high school. He died from a heart attack. You can hear voices and feel cold breezes and doors shutting by there selves.
+location: Duncan high school
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.9723635
+latitude: 34.5116796
+city_longitude: -97.9578128
+city_latitude: 34.5023028
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1924/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

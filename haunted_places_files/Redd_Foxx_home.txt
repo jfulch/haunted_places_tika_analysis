@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: Said that Redd Foxx ghost is playing pranks on the current tenants.
+location: Redd Foxx' home
+state: Nevada
+state_abbrev: NV
+longitude: -115.1177025
+latitude: 36.0521124
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

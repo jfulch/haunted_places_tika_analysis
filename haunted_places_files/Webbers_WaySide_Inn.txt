@@ -1,0 +1,21 @@
+city: Elbridge
+country: United States
+description: formerly known as Webbers Wayside Inn. The story goes, that many years ago a traveler from out of town was staying at this specific inn, on the second or third floor. The man had a heart attack and died one evening, his spirit never leaving the hotel again. People who have worked there for a time will tell you it was nothing for them to feel a cold spot, for a female to feel a touch on her body as she walked through an empty room, and on one occasion, a case of beer floating. The staff at this Inn have affectionately called this ghostly presence George. Most are not frightened by the presence, it seems to be extremely friendly to the ladies, and likes to play practical jokes. But still there are some that say, "I am never going up those stairs, you can feel "something" up there. "
+location: Webbers WaySide Inn
+state: New York
+state_abbrev: NY
+longitude: -76.448525
+latitude: 43.0340927
+city_longitude: -76.4331698
+city_latitude: 43.0387104
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1961/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

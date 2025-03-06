@@ -1,0 +1,21 @@
+city: Delran
+country: United States
+description: HCHS is said to be haunted by a former principle who had a heart attack late one night on the way up the steps in the northwest wing of the building. Teachers who work at the school late at night report hearing heavy footsteps going up the stairs and then stopping, rushes of cold air during the summer (the building is not air-conditioned) and doors opening and closing by themselves. HCHS has a lot of ground, and driving through there on a clear night, you'll find yourself in the middle of a dense mist.
+location: Holy Cross High School
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.95267299999999
+latitude: 40.0202305
+city_longitude: -74.9564247
+city_latitude: 40.0158918
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

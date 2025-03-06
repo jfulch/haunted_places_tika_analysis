@@ -1,0 +1,20 @@
+city: Richfield
+country: United States
+description: Theater - There have been sightings of spirits in the theatre. The upper balcony is where there has been spiritual activity spotted. It is said that whom ever it is, sits there and watches the plays and has been spotted on many occasions....
+location: The Academy of Holy Angels
+state: Minnesota
+state_abbrev: MN
+longitude: -93.2806949
+latitude: 44.882469
+city_longitude: -93.2830021
+city_latitude: 44.8832982
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

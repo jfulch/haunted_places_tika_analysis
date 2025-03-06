@@ -1,0 +1,19 @@
+city: Mesquite
+country: United States
+description: Hollomans Road is a small dirt road that curves between Lawson Rd. and Bruton Rd. There is a solitary home that has sat for many years abandoned on this small street. It is the only structure on the road. Brave teenagers have tried to walk the street at night only to disappear never to be seen again. The road became such a danger that the city closed the road off. Witnesses become overwhelmed by a sense of dread and of being watched, even in broad daylight. In the 80s, a Dallas man killed a young woman and her young son and dumped their bodies on that dark and brooding road (this is easily checked, as the case was just solved in the last year or so).
+location: Old Holloman's Road
+state: Texas
+state_abbrev: TX
+city_longitude: -96.5991593
+city_latitude: 32.76679550000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1898/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Westland
+country: United States
+description: on summer night s in the old part of the building that is burnt down in the old hallway u can see transparent objects at least 50 of them standing there and at the back of the building people claim to see ghost of men and women tie nooses around their necks and jump from the top of the building
+location: Pentecostal temple on Henry Ruff rd
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.400211
+city_latitude: 42.32420399999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/11/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

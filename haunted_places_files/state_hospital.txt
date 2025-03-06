@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: Several of the buildings built in the early part of the 1900's have been abandoned.  These are the buildings that housed the violently insane for many decades.  These patients lived a miserable existence.  The cages on the building serve as a reminder of the dangerous conditions. Several orbs have been captured and strange noises are a constant.
+location: State Hospital
+state: Indiana
+state_abbrev: IN
+longitude: -85.4020839
+latitude: 38.7467021
+city_longitude: -85.37995769999999
+city_latitude: 38.7358933
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

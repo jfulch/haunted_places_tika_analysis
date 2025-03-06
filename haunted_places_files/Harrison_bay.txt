@@ -1,0 +1,21 @@
+city: Harrison
+country: United States
+description: There is supposedly a cabin not far from the bay in the woods. there was a couple of people murdered in the cabin. The caretaker of the cabin was an albino man. They said that he was the murderer. It is said that you can see red eyes in the woods moving. Not like someone is walking but as if they were floating. They say that the albino is named pasty...
+location: Harrison bay
+state: Tennessee
+state_abbrev: TN
+longitude: -85.11007420000001
+latitude: 35.1860446
+city_longitude: -85.1380092
+city_latitude: 35.1136837
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

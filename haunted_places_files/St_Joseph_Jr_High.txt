@@ -1,0 +1,21 @@
+city: Manchester
+country: United States
+description: apparently a while back there was a nun that was on the balcony and fell off. You can sometimes hear talking coming from the auditorium when there is no one there.
+location: St Joseph Jr High
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.44533799999999
+latitude: 42.9769496
+city_longitude: -71.4547891
+city_latitude: 42.9956397
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 0

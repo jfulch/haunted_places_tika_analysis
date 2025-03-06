@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: One of the most haunted buildings in the city. Cold spots, electrical anomalies, feelings of being watched, a piano that plays a note in the night, vibration from the floors, feelings of sadness, tapping on shoulders, and many photographic anomalies, film and digital. - March 2008 update: This is a Bed and Breakfast anyone who wants to stay can reserve a room
+location: Lemp Mansion
+state: Missouri
+state_abbrev: MO
+longitude: -90.215887
+latitude: 38.5931793
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

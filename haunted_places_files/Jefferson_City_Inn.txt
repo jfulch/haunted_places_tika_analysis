@@ -1,0 +1,21 @@
+city: Jefferson City
+country: United States
+description: Jefferson Inn is what it was last called, but now it is the home of Lisa Sczcesny and Scott Arnold. I have stayed there myself and the place is very haunted. Built during the Civil War it was called the colonial hotel. Many deaths have occurred there. One man is said to have shot his self in the kitchen, another was pushed down the stairs by his wife and killed. a slave hung herself in the basement. Sometimes at night you can hear a woman screaming on the stairs and shutters opening and closing. And once and a while you see images in mirrors and guns going off.
+location: Jefferson City Inn
+state: Tennessee
+state_abbrev: TN
+longitude: -92.252507
+latitude: 38.590277
+city_longitude: -83.492396
+city_latitude: 36.122311
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

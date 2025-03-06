@@ -1,0 +1,21 @@
+city: Glenwood
+country: United States
+description: Located a block down the hill from the former Iowa Institution for Feeble Minded Children along the original banks of Keg Creek (where I've dug up several Indian artifacts while gardening). Mostly its been the typical kitchen cabinets opening and shutting for no reason along with cold spots and the feeling of an unseen presence. Its an old small house I bought a few years ago that was built before 1880. If I tell whatever-it-is to knock it off and go away things seem to calm down for awhile.
+location: Nuckolls Street
+state: Iowa
+state_abbrev: IA
+longitude: -95.7433907
+latitude: 41.0418703
+city_longitude: -95.7425056
+city_latitude: 41.0469437
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Tulsa
+country: United States
+description: this is a very old hotel and it is said that Elvis once stayed in it. There are signs all over the place that say no trespassing or do not enter. It is usually at night, witnesses always see lights on and strange things going up to the very top floor and people looking through the windows. - October 2007 Update - This building has been sold and is scheduled to be demolished. -
+location: Camelot Hotel
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.9520741
+latitude: 36.1476347
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1935/01/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

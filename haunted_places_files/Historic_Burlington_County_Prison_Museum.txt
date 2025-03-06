@@ -1,0 +1,21 @@
+city: Mt. Holly
+country: United States
+description: The ghost of Joel Clough still haunts the prison. Floating cigarettes, apparitions, orbs, and such have been reported.
+location: Historic Burlington County Prison Museum
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.7894047
+latitude: 39.9968603
+city_longitude: -74.78793929999999
+city_latitude: 39.9931438
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

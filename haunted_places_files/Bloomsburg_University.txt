@@ -1,0 +1,21 @@
+city: Bloomsburg
+country: United States
+description: Delta Phi Epsilon House - There have been reports of a woman who haunts this house. She has tapped people on the shoulder, and pushed people down stairs. She also moves objects around and you can hear her at night.
+location: Bloomsburg University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.4472749
+latitude: 41.0081119
+city_longitude: -76.4549457
+city_latitude: 41.003698
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1917/03/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Dumfries
+country: United States
+description: Books have been heard thrown across the room with no one in the room. Lights have gone off/on many times with no one controlling. A ghost haunts it, and almost everyone working there has had some type of interaction with it.
+location: Weems/Bots Museum
+state: Virginia
+state_abbrev: VA
+longitude: -77.3292008
+latitude: 38.5685254
+city_longitude: -77.3280382
+city_latitude: 38.5676202
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

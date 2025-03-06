@@ -1,0 +1,21 @@
+city: Boise
+country: United States
+description: any time past 2:15am,if you walk to the edge where the canal is on the high cliff, you can hear a horse running on the canal bank but cannot see it.
+location: Dry Creek Cemetery
+state: Idaho
+state_abbrev: ID
+longitude: -116.3120212
+latitude: 43.6943682
+city_longitude: -116.2146068
+city_latitude: 43.6187102
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

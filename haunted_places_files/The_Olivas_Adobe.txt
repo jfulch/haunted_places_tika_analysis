@@ -1,0 +1,21 @@
+city: Ventura
+country: United States
+description: is rumored to be haunted by the ghost of a woman. She is reported to be seen standing in an upstairs window at night.
+location: The Olivas Adobe
+state: California
+state_abbrev: CA
+longitude: -119.2433206
+latitude: 34.2437958
+city_longitude: -119.2290316
+city_latitude: 34.274646
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

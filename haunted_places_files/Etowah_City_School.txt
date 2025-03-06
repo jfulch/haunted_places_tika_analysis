@@ -1,0 +1,21 @@
+city: Etowah
+country: United States
+description: Basketball Court - During a basketball game a couple of years ago some eighth graders were taking pictures of the game. It was the big, red and white game (the school colors were red and white). When the pictures were developed they saw a shadowy figure in an old Etowah High School basketball jersey. The Etowah High School was torn down about 50 years earlier, and they turned it into Etowah City School, and the high school kids in Etowah had to travel to Englewood, TN to attend McMinn Central High School. Anyway, they did some research and found out that the boy had actually committed suicide on that court when he was a senior because he lost his last high school basketball game.
+location: Etowah City School
+state: Tennessee
+state_abbrev: TN
+longitude: -84.53407849999999
+latitude: 35.3272064
+city_longitude: -84.5249307
+city_latitude: 35.3234065
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Prescott
+country: United States
+description: Sharlot Hall - Visitors report cold spots, and the feeling of not being alone. A definite presence is felt in this room. The eyes of the portrait in this room follow you wherever you go.
+location: Lynx Creek Farm Bed &amp; Breakfast
+state: Arizona
+state_abbrev: AZ
+longitude: -112.3816371
+latitude: 34.531556
+city_longitude: -112.4685025
+city_latitude: 34.5400242
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

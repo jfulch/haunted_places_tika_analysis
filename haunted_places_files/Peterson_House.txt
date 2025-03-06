@@ -1,0 +1,18 @@
+city: Howard
+country: United States
+description: The Peterson House located on Velp Road is said to be the site of many strange occurrences. Over the past several years, leprechauns have been seen frolicking in the surrounding woods.
+location: Peterson House
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -88.08030509999999
+city_latitude: 44.5623531
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1886/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

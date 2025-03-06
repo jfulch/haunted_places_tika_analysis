@@ -1,0 +1,20 @@
+city: Hot Springs
+country: United States
+description: This historic inn has a very colorful past. The scent of perfume lingers around the upstairs dormer rooms. Visions have been seen at the main staircase. The spirit of a girl by the name of Giselle happily roams the household. A very inviting and non-threatening mystery.
+location: Villa Theresa Guest House
+state: South Dakota
+state_abbrev: SD
+longitude: -103.4808384
+latitude: 43.4373781
+city_longitude: -103.4743625
+city_latitude: 43.431646
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

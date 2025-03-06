@@ -1,0 +1,20 @@
+city: East Liverpool
+country: United States
+description: Part of an 1830s canal system, known as Grethen's Lock, is named for the ghost of a young Dutch girl. She died of malaria on August 12, 1838, and on the anniversary of her death he ghost is said to walk the towpath of this lock. Jack's Lock is haunted by the charred phantom of a lock keeper who was struck by lighting while patrolling the canal. A ghastly ghost walks the ruins of Spruceville, a deserted settlement within the park. Esther Hale was to be married in August, 1837, but her lover never showed up. Her badly decomposed body was found in her cabin four months later, still dressed in her wedding gown. Ever since, her white skeleton, wearing a dirty wedding gown, is seen darting in front of cars or jumping out to touch the living.
+location: Beaver Creek State Park
+state: Ohio
+state_abbrev: OH
+longitude: -80.613689
+latitude: 40.726653
+city_longitude: -80.5772928
+city_latitude: 40.6186756
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1838/08/12
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

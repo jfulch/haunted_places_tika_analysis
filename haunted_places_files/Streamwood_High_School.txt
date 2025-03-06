@@ -1,0 +1,21 @@
+city: Streamwood
+country: United States
+description: The auditorium is supposedly haunted by a girl who died there many years ago. This reporter is a skeptic, but there have been numerous sightings of this spirit by a few reliable sources.
+location: Streamwood High School
+state: Illinois
+state_abbrev: IL
+longitude: -88.197101
+latitude: 42.030531
+city_longitude: -88.17840849999999
+city_latitude: 42.0255827
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

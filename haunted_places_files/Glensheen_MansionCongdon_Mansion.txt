@@ -1,0 +1,20 @@
+city: Duluth
+country: United States
+description: Haunted by maid who was murdered there and by the woman who was murdered there too by her own children Delete- Duluth - Congdon Mansion - Elisabeth Congdon and her nurse haunt the house they were murdered in.
+location: Glensheen Mansion/Congdon Mansion
+state: Minnesota
+state_abbrev: MN
+longitude: -92.051791
+latitude: 46.815161
+city_longitude: -92.1004852
+city_latitude: 46.78667189999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

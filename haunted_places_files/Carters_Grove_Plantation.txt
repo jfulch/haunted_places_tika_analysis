@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: Ghosts of 17th century colonists killed in an Indian massacre roam the grounds. Fresh flowers wilt overnight in the 'refusal room', Pirates seen playing cards in the mansion at night.
+location: Carter's Grove Plantation
+state: Virginia
+state_abbrev: VA
+longitude: -76.6247878
+latitude: 37.206972
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

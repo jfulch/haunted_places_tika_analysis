@@ -1,0 +1,19 @@
+city: Olney
+country: United States
+description: Many people say that they hear strange noises in this little abandoned home. 2 little girls were playing outside, when they saw a man dressed in all black run by them ...and they never saw his face.
+location: The Butler house
+state: Maryland
+state_abbrev: MD
+city_longitude: -77.066923
+city_latitude: 39.1531627
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

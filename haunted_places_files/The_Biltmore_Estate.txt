@@ -1,0 +1,21 @@
+city: Asheville
+country: United States
+description: Back in 1914, George W. Vanderbilt died from complications from a surgery he had for appendicitis. His wife was extremely upset. So late at nights, in the Library, she would sit in front of the large marble fireplace, and talk with George. Though he was never really there. Her servants started to think she was losing her mind. To this day late at night you can still hear her voice very softly talking with George. Also, You can feel George's presence in the Billiard Room, and the 2nd floor Oak Sitting room. One of his favorite rooms in the mansion. During rainy late nights, George would sit and read. Workers report feelings of being watched, apparitions, voices, laughing, & screams. A headless orange cat has been seen by numerous visitors roaming the area between the Gardens and the Bass pond. The Pool Room is also a focal point of unexplainable events. The sound of people swimming echoes throughout the entire lower floor in the dead of night. Insane laughter can be heard coming from the drain at the bottom of the pool. It is said to be haunted by a lady in black. Employees report hearing footsteps on the second floor. Its $10 for the small tour and $50 for the full tour of the house. But be sure you stay CLOSE to the guide. Odds are, there will only be 3 or 4 people touring with you.
+location: The Biltmore Estate
+state: North Carolina
+state_abbrev: NC
+longitude: -82.5523204
+latitude: 35.5405665
+city_longitude: -82.5514869
+city_latitude: 35.5950581
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1914/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Premont
+country: United States
+description: late at night it is said that a shadow resembling that of a dog with wings can be seen on the mounds surrounding the pond.
+location: Premont Sewer Pond
+state: Texas
+state_abbrev: TX
+city_longitude: -98.1236151
+city_latitude: 27.3605947
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

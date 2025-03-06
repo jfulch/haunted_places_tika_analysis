@@ -1,0 +1,19 @@
+city: Seattle
+country: United States
+description: there is a gate that goes around this mansion and it is said that if you step one foot into the gate you have to fully enter and walk past a forest that is on a huge hill and at the top of the hill is a wishing rock that makes wishes true and if you don't you will have bad luck forever. But the mansion presuming haunted by the past slaves and many have said that they have seen ghosts there and one friend has said that there cousin has been in that building and a ghost of an old woman has pushed her out the window of the second floor fortunately the girl did survive with minor injuries.
+location: old slave mansion
+state: Washington
+state_abbrev: WA
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

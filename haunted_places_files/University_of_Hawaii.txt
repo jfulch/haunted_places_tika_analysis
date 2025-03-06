@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: Mokihana Dormitory - A young man committed suicide by hanging himself in the closet in the early 1980's. People report hearing and seeing this young man roaming the halls of Mokihana Dorm.
+location: University of Hawaii
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8171978
+latitude: 21.2991857
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 48m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

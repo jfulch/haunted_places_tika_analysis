@@ -1,0 +1,21 @@
+city: Lafayette
+country: United States
+description: Over 15 years ago, many reporters and people found out that there were gravesites that used to be where Hilltops Apartments is now. At night, they say if you stay alone in your house for ten minutes and turn off everything in your house except for the lights, there will be a very cold chill over your body. A ghost will stare at you with a hat on and a farmer’s outfit (overalls). It will not leave that night until you boil water and hold it to keep the ghost from coming towards you.
+location: Hilltops Apartments
+state: Alabama
+state_abbrev: AL
+longitude: -85.4044865
+latitude: 32.8990039
+city_longitude: -85.40115879999999
+city_latitude: 32.899776
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

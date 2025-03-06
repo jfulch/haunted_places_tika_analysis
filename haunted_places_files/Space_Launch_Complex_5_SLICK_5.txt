@@ -1,0 +1,21 @@
+city: Vandenberg AFB
+country: United States
+description: His ghost approaches a security policeman's guard post and asks about a fire and then disappears.
+location: Space Launch Complex 5 (SLICK 5)
+state: California
+state_abbrev: CA
+longitude: -120.6261307
+latitude: 34.5813686
+city_longitude: -120.5724404
+city_latitude: 34.7420267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1772/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

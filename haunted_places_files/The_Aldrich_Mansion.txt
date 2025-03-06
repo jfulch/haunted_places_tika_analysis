@@ -1,0 +1,19 @@
+city: Warwick
+country: United States
+description: supposedly one of the Aldrich daughters killed herself by jumping off a balcony. There have been some sightings there by employees.
+location: The Aldrich Mansion
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.376691
+latitude: 41.681386
+city_longitude: -71.4161671
+city_latitude: 41.7001009
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

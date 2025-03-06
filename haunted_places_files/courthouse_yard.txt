@@ -1,0 +1,21 @@
+city: Howell
+country: United States
+description: People have mysteriously been hung on large tree branches, people have seen spirits, and have heard ghostly moans and screams. Sprits were seen in windows and in the court house yard. Females wearing all white and very pale, blonde hair and blue eyes have been seen.
+location: courthouse yard
+state: Michigan
+state_abbrev: MI
+longitude: -83.9573224
+latitude: 42.6110431
+city_longitude: -83.9293952
+city_latitude: 42.6072552
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

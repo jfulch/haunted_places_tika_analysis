@@ -1,0 +1,19 @@
+city: Schofield Barracks
+country: United States
+description: a dark shadow figure lives in room # 314 the figure appears at night and walks form the kitchen area in to the restroom making itself visible for only a few seconds .
+location: Barracks 2083 1-21 INF
+state: Hawaii
+state_abbrev: HI
+city_longitude: -158.0626555
+city_latitude: 21.4954957
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1991/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

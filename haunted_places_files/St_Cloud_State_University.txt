@@ -1,0 +1,20 @@
+city: St. Cloud
+country: United States
+description: Shoemaker Hall - In the early 1900's a student at the St. Cloud Normal School had an affair with a janitor at Shoemaker Hall, which was the dormitory for the students. She became pregnant and hung herself in the meat locker of the kitchen(now the basement). Shoemaker is still a dorm, and many students report objects being moved, clocks flashing impossible numbers, lights and TVs turning on for no reason, and an apparition of a woman floating above beds late at night.
+location: St. Cloud State University
+state: Minnesota
+state_abbrev: MN
+longitude: -94.1515138
+latitude: 45.5511863
+city_longitude: -94.1632404
+city_latitude: 45.5579451
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1962/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

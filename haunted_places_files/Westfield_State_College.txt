@@ -1,0 +1,21 @@
+city: Westfield
+country: United States
+description: Davis Hall - There was said that a kid hung himself over Easter break a few years back. He didn't go home for break, and his parents found out by calling the RA's on duty to see what was going on and where he was. Since then, weird sitting of this boy have been seen in all sorts of rooms throughout the dorm. In the room where he hung himself, his closet was painted black (since then it has been repainted). He generally comes at nighttime, and opens and closes closet doors, and the atmosphere in the room changes drastically. - January 2007 Update: Room F12 it was repainted. Since then there has been no reported activity.
+location: Westfield State College
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.7941529
+latitude: 42.1318254
+city_longitude: -72.749538
+city_latitude: 42.1250929
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

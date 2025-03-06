@@ -1,0 +1,19 @@
+city: Newark
+country: United States
+description: Formerly listed as Station 3 - There are 2 ghosts that haunt the firehouse. There is one in the engineer's room that is evil and appears as a shadow in the door way and you can see him in the hallway going to the engineer's room. You can also hear voices late at night if you are by yourself. But there is another ghost and he is the protector of the station. He is very good and he rarely shows himself; and he keeps the evil presence in the hallway of the engineer's room. If you go to the firehouse you can literally feel the struggle going on.
+location: Christiana Fire Co. Station 12
+state: Delaware
+state_abbrev: DE
+longitude: -75.7044241
+latitude: 39.6372758
+city_longitude: -75.74965720000002
+city_latitude: 39.6837226
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

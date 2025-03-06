@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: 4 Peaks has a cage in the back, where they store supplies. In this cage, especially in the evenings, there have been sightings of a ghost, which appears to be an ex-employee who overdosed on heroin. He was a very depressed individual who always hated people, and thought the world was out to get him. Now it seems like he is out to get the world. Loud noises are heard, and tools will fall off the walls without warning. Other employees have noticed this as well.
+location: 4 Peaks Home Entertainment
+state: Arizona
+state_abbrev: AZ
+longitude: -111.945216
+latitude: 33.3703644
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

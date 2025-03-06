@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: The house of the first governor of Arizona can be found here. The house is haunted by his young daughter, who died of pneumonia long ago. People who have been there at night have experienced sudden coldness, the sight of things moving by themselves, and whispering voices.
+location: Pioneer
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1489621
+latitude: 33.8231982
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

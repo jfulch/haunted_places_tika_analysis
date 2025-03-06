@@ -1,0 +1,21 @@
+city: Knoxville
+country: United States
+description: Lennox subdivision - Not many of the neighbors want to talk about it but some do. The whole Lennox subdivision has experienced ghosts. It is not a house but many houses that see the same ghosts. A man with white hair, in a long nightgown. A young girl with long blonde hair. They are mischievous mostly and not mean. They like to open people's garage doors in the middle of the night. Rattle dishes. Unlock doors during daytime when the owners are away so that they come home and their house is wide open.
+location: Lennox Place
+state: Tennessee
+state_abbrev: TN
+longitude: -84.07063339999999
+latitude: 35.9061037
+city_longitude: -83.9207392
+city_latitude: 35.9606384
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1965/09/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

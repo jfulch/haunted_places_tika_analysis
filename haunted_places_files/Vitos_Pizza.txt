@@ -1,0 +1,21 @@
+city: Reading
+country: United States
+description: The Pizza Shop of Vito's is said to be haunted by an unknown spirit.
+location: Vito's Pizza
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.7049716
+latitude: 39.9417134
+city_longitude: -75.9268747
+city_latitude: 40.3356483
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

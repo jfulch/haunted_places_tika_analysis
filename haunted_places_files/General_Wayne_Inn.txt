@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: This inn is home to more than 17 ghosts including Hessians, a ghost wanting his wives picture, a old owner, and a ghost singing.
+location: General Wayne Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.25352819999999
+latitude: 40.0092302
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

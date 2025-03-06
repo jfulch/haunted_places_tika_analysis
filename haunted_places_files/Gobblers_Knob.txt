@@ -1,0 +1,20 @@
+city: Hollister
+country: United States
+description: Warren Hardin is known as the ghost of Gobbler's Knob. People say they have seen the ghost wandering around the cemetery with a jug of whiskey in his hands and every once in a while he will take a drink and smile.
+location: Gobbler's Knob
+state: Missouri
+state_abbrev: MO
+longitude: -93.1845574
+latitude: 36.6096137
+city_longitude: -93.2154587
+city_latitude: 36.6211735
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/08/06
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: War
+witness_count: 1

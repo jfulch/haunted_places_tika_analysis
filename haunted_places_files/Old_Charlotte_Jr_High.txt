@@ -1,0 +1,21 @@
+city: Charlotte
+country: United States
+description: people say that in the Charlotte Jr. High the old ISS room use to be a freezer room. They say back in the 60's a older man that was a teacher threw a kid in the freezer room. He got frostbitten and dies! Now the kids there say when they get in trouble and go in the ISS room the little boy haunts them.
+location: Old Charlotte Jr. High
+state: Michigan
+state_abbrev: MI
+longitude: -84.85648599999999
+latitude: 42.5556987
+city_longitude: -84.83582109999999
+city_latitude: 42.5636478
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1998/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

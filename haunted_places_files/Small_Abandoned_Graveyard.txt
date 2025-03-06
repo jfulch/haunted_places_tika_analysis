@@ -1,0 +1,21 @@
+city: Cumberland
+country: United States
+description: There are four or five graves that are abandoned in the woods. It is said that slaves were buried here in the 1800's. It is also said that they cross the street at night looking for a way to the north.
+location: Small Abandoned Graveyard
+state: Virginia
+state_abbrev: VA
+longitude: -78.4556549
+latitude: 38.0083172
+city_longitude: -78.24486639999999
+city_latitude: 37.4963918
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

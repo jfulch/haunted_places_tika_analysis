@@ -1,0 +1,19 @@
+city: Georgetown
+country: United States
+description: This is a large hill, it dips down. At the very bottom of the hill there is a house. It's said that there was a little girl that once lived there and was playing outside late one night, and that she was hit by a car driving fast. Around midnight if you go really fast down the hill you can see the little girl dressed all in white playing next to the telephone pole. It's directly across from the house.
+location: Devil's Dip
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.9755239
+city_latitude: 38.2945115
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

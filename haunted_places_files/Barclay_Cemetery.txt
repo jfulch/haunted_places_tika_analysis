@@ -1,0 +1,21 @@
+city: Bradford County
+country: United States
+description: This submission has been removed at the request of the owner. This is private property and violators will be prosecuted!
+location: Barclay Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.62803629999999
+latitude: 41.65281090000001
+city_longitude: -76.5488232
+city_latitude: 41.83625019999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: Built in the 1920s, the hotel is haunted by Leone Jensen, who killed herself there. The ghosts of children are heard, running up and down the stairs. It seems the hotel now occupies the site of the first elementary school in Phoenix.
+location: San Carlos Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -112.074
+latitude: 33.4506
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

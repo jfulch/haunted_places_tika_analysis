@@ -1,0 +1,21 @@
+city: Troy
+country: United States
+description: It is a restaurant. Used to be family home. The woman of the house hung herself. Waitress told us sometimes doors slam shut, lights turn on and off. Nobody will close by themselves. Located on Rochester rd.
+location: Camp Ticonderoga
+state: Michigan
+state_abbrev: MI
+longitude: -83.13017119999999
+latitude: 42.6027214
+city_longitude: -83.1497751
+city_latitude: 42.6064095
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

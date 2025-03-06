@@ -1,0 +1,21 @@
+city: Kalamazoo
+country: United States
+description: the house is over a hundred years old and used to be the Gilmoure's mansion back in the 30's,they were a wealthy family in the Kalamazoo area, it is said that the butler fell down the servants stair case all the way to the basement and died there, their is a built in grand father clock on the second floor that always stops on the same time whenever the clock is started, supposedly the same time the butler died, Brothers that live there report the presence of "something" at night, lights have turned them selves on or off and things have been moved with no one being present
+location: Gilmoure now Alpha Tau Omega fraternity house
+state: Michigan
+state_abbrev: MI
+longitude: -85.6282605
+latitude: 42.2774003
+city_longitude: -85.5872286
+city_latitude: 42.2917069
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/08/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

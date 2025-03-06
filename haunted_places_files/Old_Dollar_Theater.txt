@@ -1,0 +1,21 @@
+city: Humble
+country: United States
+description: This Theater is located along a area believed to be haunted by demons and demonic forces. It is part of the 1960 overpass haunting. The workers of the theater would be attacked by the evil entity. It would throw things at them and corner them with shadows. The theater was once blessed with holy water and a cross was put in the projection booth, but everyday the cross was moved from on booth to another unexplained. Some mornings the person who was opening would hear voices from the projection rooms, and footsteps outside the hall. There was one morning when the projectionist went in and found the word "SATIN" carved in the wall of projection booth 2, this booth was where most of the bang and violent attacks occurred.
+location: Old Dollar Theater
+state: Texas
+state_abbrev: TX
+longitude: -95.2777361
+latitude: 30.003478
+city_longitude: -95.2621553
+city_latitude: 29.99883119999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1985/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: It is so dark in there that you shine your high beams you will only be able to see few feet ahead. Also if you find a big rock throw it into the bridge; do not be surprised if you do not here the rock land.
+location: Devils bridge
+state: Texas
+state_abbrev: TX
+longitude: -98.5520566
+latitude: 29.246764
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

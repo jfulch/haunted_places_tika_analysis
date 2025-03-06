@@ -1,0 +1,21 @@
+city: Bakersfield
+country: United States
+description: A lady with the flowing robe seen wafting along the canal at dawn. A lifelong resident of this city was told the ghost belongs to a woman believed murdered. Her bones were found buried in the old foundry across from the park. The bones, discovered when the foundry's floor was torn up, had bullet holes in them.
+location: Central Park
+state: California
+state_abbrev: CA
+longitude: -119.0082458
+latitude: 35.3771518
+city_longitude: -119.0187125
+city_latitude: 35.3732921
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

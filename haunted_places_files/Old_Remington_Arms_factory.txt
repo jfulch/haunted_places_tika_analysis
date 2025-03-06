@@ -1,0 +1,20 @@
+city: Bridgeport
+country: United States
+description: Shadows are seen in the buildings at night although the factory has been abandoned for years and no longer in use.
+location: Old Remington Arms factory
+state: Connecticut
+state_abbrev: CT
+longitude: -73.173198
+latitude: 41.1869914
+city_longitude: -73.19517669999999
+city_latitude: 41.1865478
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

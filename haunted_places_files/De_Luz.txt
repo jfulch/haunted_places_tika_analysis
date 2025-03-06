@@ -1,0 +1,21 @@
+city: Fallbrook
+country: United States
+description: Santa Margarita River Bridge - Many Stories haunt the bridge, during the California Gold Rush, a small wagon train was killed at the river near the new bridge. In the early 1900's, the same year Fallbrook Union High School was first established. On the first Prom night three pairs of teens disappeared and were later found in the river. More than a dozen strange occurrences are in police reports regarding that area of the river. Once the sun drops below the mountains there, your life is in danger.
+location: De Luz
+state: California
+state_abbrev: CA
+longitude: -117.2881241
+latitude: 33.411803
+city_longitude: -117.2511466
+city_latitude: 33.3764196
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1754/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

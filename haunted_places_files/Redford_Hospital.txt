@@ -1,0 +1,18 @@
+city: Redford Township
+country: United States
+description: The Redford Hospital is abandoned but the spirits still live there. There is many reports of the people that maintain the building that there is 5 to 10 ghosts in the building. One in specifically is a little boy who died in the Hospital because his mother abused him and then left him at the Hospital to die. People see the little boy usually on the 2nd floor. Some say he is still trying to find his Mother for revenge.
+location: Redford Hospital
+state: Minnesota
+state_abbrev: MN
+longitude: -83.3239081
+latitude: 42.4465472
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1681/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

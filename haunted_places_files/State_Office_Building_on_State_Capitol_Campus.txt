@@ -1,0 +1,20 @@
+city: St. Paul
+country: United States
+description: A man is said to haunt the third on floor. A janitor claimed to see him one night while working late. The ghost is believed to be the spirit of James Rice, who died in the office in the fall of 1996.
+location: State Office Building on State Capitol Campus
+state: Minnesota
+state_abbrev: MN
+longitude: -93.102233
+latitude: 44.95515
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Ashland
+country: United States
+description: Wash Frank Hall -two ghosts were seen by a student in Wash Frank Hall. Wash Frank Hall had recently been renovated and was kept locked after classes. The history department was housed in that building. A guy named Buzzy found the door unlocked, went in and played the piano (he has just lost a football player friend that evening who died in the library). He looked up sensing a presence in the room and there was a man dressed in turn of the century clothes sitting across the room. The man gestured for him to continue playing but Buzzy got freaked out and ran out of the place.
+location: Randolph-Macon College
+state: Virginia
+state_abbrev: VA
+longitude: -77.4783518
+latitude: 37.7603794
+city_longitude: -77.47998369999999
+city_latitude: 37.7590318
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1992/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

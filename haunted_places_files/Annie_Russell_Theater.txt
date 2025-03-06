@@ -1,0 +1,21 @@
+city: Orlando
+country: United States
+description: one particular chair was always in the same spot no matter how many times it was moved to another location.
+location: Annie Russell Theater
+state: Florida
+state_abbrev: FL
+longitude: -81.34797689999999
+latitude: 28.5930546
+city_longitude: -81.3792365
+city_latitude: 28.5383355
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 0

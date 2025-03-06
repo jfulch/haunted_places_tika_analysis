@@ -1,0 +1,20 @@
+city: Fort Collins
+country: United States
+description: It is a historical fact that a girl fell to her death from the fire escape when the building was an elementary school a Custodian actually quit after his experience with the rumored entity
+location: Centennial High School
+state: Colorado
+state_abbrev: CO
+longitude: -105.0735968
+latitude: 40.5783643
+city_longitude: -105.084423
+city_latitude: 40.5852602
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1957/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

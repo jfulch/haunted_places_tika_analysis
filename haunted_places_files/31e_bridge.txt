@@ -1,0 +1,21 @@
+city: Scottsville
+country: United States
+description: it is told that if you pull up on this bridge and turn your car off that it will roll completely off the bridge. Because there was a old man crossing the bridge with a horse and wagon the old bridge gave way and killed the old man so when your car rolls off the bridge he is trying to push you off the bridge to safety.
+location: 31e  bridge
+state: Kentucky
+state_abbrev: KY
+longitude: -86.1382469
+latitude: 36.7972613
+city_longitude: -86.1905424
+city_latitude: 36.7533781
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Knoxville
+country: United States
+description: Baker Peters Jazz Club is a known haunted site in Knoxville. Now a trendy & expensive Jazz bar, it was once a Civil War era residence. The baseline of the story goes that the house was built by a Dr. James Harvey Baker. Dr. Baker's allegiances in the war are disputed; some have him on the side of the Confederates, others have him as neutral. Either way, he did have at least one son that we know of named Abner who fought staunchly for the Confederates (other versions have Dr. Baker with TWO sons on opposing sides of the war). During an invasion by the Union army in 1864, Dr. Baker was treating wounded Confederates in his home when the Union army arrived and demanded the surrender of the men in the house. Dr. Baker refused and barricaded himself and in his bedroom. The Yankees invaded the house, raced upstairs and shot him through the door. Upon returning home, 22 yr old Abner vowed revenge on the person who informed the Yankees that his father harbored Confederates. He did kill the informer, a postmaster, but was later killed by the informer's friends in a return act of revenge. Legend has it that Abner has refused to leave the house that he and his family fought so hard to retain. The house went through several changes of hands before becoming a jazz bar, which was likely very disrupting to whatever spirits are there. Baker Peters claims to have a framed photo of what looks like Abner's ghostly reflection posted somewhere in the restaurant. Other accounts report employees experiencing chills, hearing whispering, objects moving or being thrown from shelves and breaking, and even (in the early days) discovering a hanging candelabra in a dining room with the candle holders twisted downward.
+location: Baker Peters Jazz Club
+state: Tennessee
+state_abbrev: TN
+longitude: -84.0818553
+latitude: 35.9122186
+city_longitude: -83.9207392
+city_latitude: 35.9606384
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1864/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

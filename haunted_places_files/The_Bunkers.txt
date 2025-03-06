@@ -1,0 +1,21 @@
+city: Elimsport
+country: United States
+description: Near Allentown prison there is a set of bunkers for the storage of artillery during the wars over the 1900's. It's said that late at night strange events have happened in these bunkers. I've been there and seen some quite unusual things myself.
+location: The Bunkers
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.9591384
+latitude: 41.1360368
+city_longitude: -77.0205229
+city_latitude: 41.127858
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2023/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

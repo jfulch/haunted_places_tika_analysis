@@ -1,0 +1,21 @@
+city: Lexington
+country: United States
+description: This haunted hotel is very spooky not to mention very old. Two women have been said to have been murdered here, one on the steps where one woman was stabbed to death. You can still see blood stains in the carpet on the stairs. Another was shot in one of the third story rooms. Strange happenings have occurred such as doors slamming and seeing things that really aren’t there.
+location: Cambell House Inn
+state: Kentucky
+state_abbrev: KY
+longitude: -84.52500409999999
+latitude: 38.0348791
+city_longitude: -84.5037164
+city_latitude: 38.0405837
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

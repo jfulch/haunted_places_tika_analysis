@@ -1,0 +1,21 @@
+city: Dekalb
+country: United States
+description: Land of Moses - Located just outside of Butler off of ST RT 6 is a road that goes to the right and over the railroad tracks. There is a cemetery there that is allegedly haunted and they say at night if you park in the cemetery by the old crematorium you can hear cries of the departed. This begins the stretch of the road called the land of Moses that leads to Gypsy hill. This area is extremely dark at night and there is an area that Gypsies congregated at near the Indiana/Ohio line. This area is covered by a dense dark forest. Rumor has it that the gypsies kidnapped and raped a farmer's daughter in the early 1900's. The farmers then banded together and killed the gypsies. Over the next 10 years the farmers all were killed by an axe. One report said that a gypsy returned from the dead and haunted the woods, which is where the farmers bodies were found. Till this day, very few people will dare to go to those woods, park their car and get out and explore them. There is an old foundation of a log house there and some other remnants of the gypsies.
+location: Butler
+state: Indiana
+state_abbrev: IN
+longitude: -84.8713502
+latitude: 41.4297727
+city_longitude: -85.02334599999999
+city_latitude: 41.4138928
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

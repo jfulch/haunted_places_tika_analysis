@@ -1,0 +1,21 @@
+city: Pitcairn
+country: United States
+description: The main path you take to get into the trails is connected still to the old path that people used to use to get back inot the wooden area, when walking out of the woods, and back to the city, you will hear the sound of footsteps constantly following you about 10 paces behind you. It doesn't matter how many times you stCp and look, as you walk you will be followed.
+location: The Main Path
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.776003
+latitude: 40.4056391
+city_longitude: -79.77810199999999
+city_latitude: 40.4031244
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

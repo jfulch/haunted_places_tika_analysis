@@ -1,0 +1,20 @@
+city: Lucas
+country: United States
+description: West Toledo Branch Library - Odd noises and bumps are heard in the area near a fireplace on the west wall. The ghost of a man wearing clothing from the late 1930s or early 40s has been seen there.
+location: Toledo
+state: Ohio
+state_abbrev: OH
+longitude: -83.55521200000001
+latitude: 41.6639383
+city_longitude: -82.4182204
+city_latitude: 40.7050579
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fountain Hills
+country: United States
+description: Examples of occurrences are strange noises, screaming, random cold spots, strange lights, and humming sounds. In the summer of 1998, someone was shot in the middle of the night down in the wash. The screams are most likely from the young girl who was shot with a shotgun.
+location: Ashbrook Wash
+state: Arizona
+state_abbrev: AZ
+longitude: -111.7354173
+latitude: 33.6189325
+city_longitude: -111.7256936
+city_latitude: 33.6042079
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2007/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

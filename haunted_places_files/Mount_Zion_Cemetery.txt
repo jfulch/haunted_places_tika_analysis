@@ -1,0 +1,21 @@
+city: Raccoon
+country: United States
+description: Strange fogs/mists and orbs have been reported.
+location: Mount Zion Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.3298002
+latitude: 40.0470354
+city_longitude: -80.3769999
+city_latitude: 40.6075224
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

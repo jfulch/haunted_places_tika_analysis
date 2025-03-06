@@ -1,0 +1,20 @@
+city: Kosciusko
+country: United States
+description: A statue seems to weep. Several have also testified that a fresh rose could be found on her anniversary date, in her cupped hand. - March 2008 Update: An 82-year-old visitor to this cemetery reports the lady's name is Mrs. Kelly. At the time of Mrs. Kelly's death her husband had this statue made in France. The statue is said to look just like Mrs. Kelly.
+location: City cemetery
+state: Mississippi
+state_abbrev: MS
+longitude: -89.577761
+latitude: 33.0440717
+city_longitude: -89.58757639999999
+city_latitude: 33.0576295
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1973/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

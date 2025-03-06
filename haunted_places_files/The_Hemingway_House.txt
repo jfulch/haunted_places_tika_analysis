@@ -1,0 +1,21 @@
+city: Key West
+country: United States
+description: Many people have witnessed Ernest Hemingway waving from his studio window. and lights on and sounds of a typewriter being used after the tours are over and the house is unoccupied.
+location: The Hemingway House
+state: Florida
+state_abbrev: FL
+longitude: -81.80061549999999
+latitude: 24.5512044
+city_longitude: -81.7799871
+city_latitude: 24.5550593
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: In the mid 30's or 40's a famous gangster of the Heights Area was dug up and hung up on the flag pole as a practical joke. Janitors and Late Night Librarians have said to seen and heard his shadows and footsteps.
+location: Hogg Middle School
+state: Texas
+state_abbrev: TX
+longitude: -95.3860209
+latitude: 29.7895313
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

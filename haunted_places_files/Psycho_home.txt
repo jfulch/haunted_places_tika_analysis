@@ -1,0 +1,21 @@
+city: Manteca
+country: United States
+description: There was a home that every one called it the Psycho home because the old lady that lived there was Psycho. She had 13 dogs and 13 cats. If one cat dies then all the cats die's. Then after she killed them all she made a home for them. She kept all the body's. If someone came on her grass she would go get a died cat a scare you. Now if you walk in the home you hear the died dog's. and cat's.
+location: Psycho home
+state: California
+state_abbrev: CA
+longitude: -121.234442
+latitude: 37.800833
+city_longitude: -121.2160526
+city_latitude: 37.7974273
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1895/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

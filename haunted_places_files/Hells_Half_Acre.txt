@@ -1,0 +1,19 @@
+city: Hopkins County
+country: United States
+description: and most people in the area know that it used to be one of the wildest spots around. Strange noise and occurrences. the strangest thing is that the barn isn't always there.
+location: Hell's Half Acre
+state: Kentucky
+state_abbrev: KY
+city_longitude: -87.5791287
+city_latitude: 37.3153093
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

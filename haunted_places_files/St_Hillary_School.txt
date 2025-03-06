@@ -1,0 +1,21 @@
+city: Pico Rivera
+country: United States
+description: In room 9, reports of an apparition of a boy doing school work, believed to be a boy that died in a horrible car accident.
+location: St. Hillary School
+state: California
+state_abbrev: CA
+longitude: -118.0847504
+latitude: 33.9944382
+city_longitude: -118.096735
+city_latitude: 33.9830688
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Arcadia
+country: United States
+description: It is said to be haunted by a family of ghost that once lived there. When they were murdered and the house was burnt down soon afterwards. In the early 1800's. Spirits have been seen walking around and still living in the house after being rebuilt in the 1900's, over their graves.
+location: Old Blue House in neighborhood
+state: Florida
+state_abbrev: FL
+city_longitude: -81.8584164
+city_latitude: 27.2158826
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Cambridge
+country: United States
+description: June 2004 - Has been removed
+location: Matignon High School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1313553
+latitude: 42.4016029
+city_longitude: -71.10973349999999
+city_latitude: 42.3736158
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

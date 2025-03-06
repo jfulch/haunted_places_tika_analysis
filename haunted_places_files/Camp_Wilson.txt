@@ -1,0 +1,20 @@
+city: Bellefontaine
+country: United States
+description: This is a camp over 100 years old, there are numerous ghosts that are said to roam the camp at night, the most haunted area is known as the Y tree. there are hundreds of sightings every year, the most occurring ghosts are "Abe" a ghost said to be seen on trails roaming the grounds with a stove pipe hat and "Timmy" a ghost that is heard giggling and running around by the rail road tracks.
+location: Camp Wilson
+state: Ohio
+state_abbrev: OH
+longitude: -83.8093038
+latitude: 40.3537453
+city_longitude: -83.7596557
+city_latitude: 40.3611643
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

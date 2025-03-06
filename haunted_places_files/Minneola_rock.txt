@@ -1,0 +1,18 @@
+city: Montgomery
+country: United States
+description: A rock on I-70 was the slaves were traded and believed to be haunted by their ghosts.
+location: Minneola rock
+state: Missouri
+state_abbrev: MO
+city_longitude: -91.4821482
+city_latitude: 38.9365599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1791/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

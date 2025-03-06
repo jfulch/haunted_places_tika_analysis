@@ -1,0 +1,20 @@
+city: Warren
+country: United States
+description: Little known but to some employees, and those who have seen or heard the experience is the Courthouse's dark history. the courthouse is in itself old enough that at one time had it's own cells to jail those who awaited trial. the stone basement walls are sometimes heard to echo with the footsteps of prisoners or others who met ill fate.
+location: Warren Judicial Courthouse
+state: Ohio
+state_abbrev: OH
+longitude: -80.816971
+latitude: 41.2346211
+city_longitude: -80.81841659999999
+city_latitude: 41.2375569
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

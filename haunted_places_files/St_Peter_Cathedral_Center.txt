@@ -1,0 +1,21 @@
+city: Erie
+country: United States
+description: The one part of the building is over 100 years old. Faint voices can be heard on the 4th floor. Banging throughout the building. Sometimes shadows can be seen. Lights turn off and on by themselves after leaving a room. Doors open and close by themselves at times.
+location: St. Peter Cathedral Center
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0871962
+latitude: 42.1242629
+city_longitude: -80.085059
+city_latitude: 42.12922409999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

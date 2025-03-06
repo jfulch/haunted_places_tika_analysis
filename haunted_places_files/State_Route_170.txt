@@ -1,0 +1,20 @@
+city: New Middletown
+country: United States
+description: A young man wrecked his car on the bend on this road. He supposedly still walks the road and can be seen wearing a flannel shirt and is around 6ft tall. His figure appears to cross the road, is transparent and if you look close enough he is floating and not really walking!
+location: State Route 170
+state: Ohio
+state_abbrev: OH
+longitude: -80.5576411
+latitude: 40.9611263
+city_longitude: -80.5575706
+city_latitude: 40.9611712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1772/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

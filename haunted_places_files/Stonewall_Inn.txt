@@ -1,0 +1,21 @@
+city: Overland Park
+country: United States
+description: The pizza parlor in the old Stonewall Inn is accepted by most as no less then haunted. The manager has reported many spooky occurrences after closing time. Every night after closing time when the manager is the only one left he locks himself in. He then sets about pushing tables to the back and stacking chairs after which he retires to his office for a smoke. More times then would probably be desired he comes back to find the tables pushed back out and the chairs untracked. Both put back in their original positions by unseen hands.
+location: Stonewall Inn
+state: Kansas
+state_abbrev: KS
+longitude: -94.7425916
+latitude: 38.94268400000001
+city_longitude: -94.6707917
+city_latitude: 38.9822282
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

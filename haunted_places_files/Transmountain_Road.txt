@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: There have been many reports of a monk and his donkey walking this road, which runs through the Franklin Mountains of El Paso, causing many car accidents. It is said he is protecting a lost goldmine where Spanish missionaries had a large fortune. The University of Texas at El Paso confirms that this goldmine did in fact exist...but the archaeological department has had no luck in finding it.
+location: Transmountain Road
+state: Texas
+state_abbrev: TX
+longitude: -106.3905349
+latitude: 31.8994213
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

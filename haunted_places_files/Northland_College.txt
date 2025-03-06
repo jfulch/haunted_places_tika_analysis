@@ -1,0 +1,21 @@
+city: Ashland
+country: United States
+description: Memorial Hall (women’s dormitory)- Reports of ghost of a college girl who allegedly committed suicide by jumping down 3-story tall elevator shaft in 1920s - 30s. -  June 2005 Update - The girl does not like the presence of men whatsoever. Some on campus theorize her boyfriend pushed her down that elevator shaft. Also, there is talk of a janitor, although no one seems to know what happened to keep him in Memorial. It is known, however, that he does not like Pagans, or anyone dabbling in Witchcraft. Black handprints are constantly found in the rooms, and computers are known to turn on in the middle of the night, and the desktop is then printed.
+location: Northland College
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.8736669
+latitude: 46.5802698
+city_longitude: -90.8837982
+city_latitude: 46.5924428
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

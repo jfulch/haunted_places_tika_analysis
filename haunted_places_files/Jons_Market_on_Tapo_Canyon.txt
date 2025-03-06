@@ -1,0 +1,21 @@
+city: Simi Valley
+country: United States
+description: Witnesses have seen the spirit of a man wearing black pants, black tie, and a white shirt, also he says things just suddenly fall off the shelves not every thing but only one item. The shelves are not crooked or anything or else everything would fall off.
+location: Jons Market on Tapo Canyon.
+state: California
+state_abbrev: CA
+longitude: -118.7186903
+latitude: 34.2802912
+city_longitude: -118.781482
+city_latitude: 34.2694474
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

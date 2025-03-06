@@ -1,0 +1,20 @@
+city: Indian Lake
+country: United States
+description: When you go on Shawnee Island there is a church on the first road to the left. If you go there Halloween night at midnight you will see an old lady in the first row she will look at you then the room will fill up with smoke from candles and when it clears seconds later she is gone.
+location: Shawnee Island
+state: Ohio
+state_abbrev: OH
+longitude: -83.86465989999999
+latitude: 40.4967167
+city_longitude: -83.8950042
+city_latitude: 40.4990656
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

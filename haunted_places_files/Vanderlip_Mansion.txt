@@ -1,0 +1,21 @@
+city: Palos Verdes
+country: United States
+description: the wealthy Vanderlip family lived in a mansion in PV, one day the wife went crazy and chopped up her family and buried them in the walls of the house. She also killed her two dogs and then hung herself from a wooden beam in the living room ceiling. The dogs reportedly haunt the yard and scare away trespassers. The woman and her family still haunt the house itself. Sightings of glowing dogs have been reported and members of the murdered family have been seen in the windows of the abandon house. Sometimes at night you can hear the children crying for help.
+location: Vanderlip Mansion
+state: California
+state_abbrev: CA
+longitude: -118.3918261
+latitude: 33.7404928
+city_longitude: -118.3870173
+city_latitude: 33.7444613
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1864/11/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Macoupin
+country: United States
+description: Moore Cemetery - About 5 miles off the main road a cemetery with some modern headstones with much older Civil War era stones towards the back. The trees are filled with bats and a lone streetlight illuminates the parking area. It is said that if the spirits don't want you there, the light will go out. Odd lights can be seen hovering the older area of the cemetery.
+location: Carlinville
+state: Illinois
+state_abbrev: IL
+longitude: -89.8817662
+latitude: 39.27976990000001
+city_longitude: -89.9253233
+city_latitude: 39.2375268
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1922/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

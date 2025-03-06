@@ -1,0 +1,21 @@
+city: Manteno
+country: United States
+description: State Mental Institution well known for its experiments consist of a huge complex of multiple buildings connected together via under ground tunnels. The state run facility had been abandoned years ago. The buildings lay empty today. Various sightings have been reported.
+location: Manteno State Hospital
+state: Illinois
+state_abbrev: IL
+longitude: -87.804457
+latitude: 41.232138
+city_longitude: -87.8314324
+city_latitude: 41.2505881
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1876/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

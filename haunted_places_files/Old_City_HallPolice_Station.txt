@@ -1,0 +1,21 @@
+city: Davis
+country: United States
+description: Davis PD moved to a new building recently, after having been in the old City Hall that was built in 1938 or so. Downstairs, after it was vacated, in the Women's restroom, there was seen a wild haired redheaded woman rushing toward the 2nd stall door in an 'attack' posture with outstretched arms and claw-like hands towards a person's face.
+location: Old City Hall/Police Station
+state: California
+state_abbrev: CA
+longitude: -121.7192755
+latitude: 38.5512172
+city_longitude: -121.7405167
+city_latitude: 38.5449065
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1938/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

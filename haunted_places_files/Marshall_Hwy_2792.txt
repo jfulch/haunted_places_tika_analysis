@@ -1,0 +1,19 @@
+city: Carthage
+country: United States
+description: On 2792 you take a right and a little ways down the road there is an old broken down house with bushes and weeds overgrown. The story behind the house is in the mid 80's a young woman lived there with her husband and newborn daughter. On Halloween night her brother came to her for money (possibly for drugs) she told him no. He was already messed up he turned violent when she told him no. He picked her up and slammed her on the hot stove then shot her. It was rumored that he even broke the gun and stabbed her with it, but after she was already dead he drowned her in the bathtub. The police found him wandering the streets all bloody. The child was unharmed. Reports of strange feelings, not being able to breathe & people have seen a light come on in the attic & a white figure in the window and some have said to have even seen her face in the hallway of the house.
+location: Marshall Hwy 2792
+state: Texas
+state_abbrev: TX
+city_longitude: -94.3374199
+city_latitude: 32.1573841
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/10/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

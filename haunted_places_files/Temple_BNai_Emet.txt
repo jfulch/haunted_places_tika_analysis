@@ -1,0 +1,21 @@
+city: Montebello
+country: United States
+description: The halls of this building are virtually covered by darkness for most of the time during services. Three children have been known to cross the hallways from one door to another that are completely adjacent to each other. It was once said that three children were taken into a restroom stall by their father, and each were killed by slitting their throats because their father was extremely sorrowful over the death of his wife, and murdered his children to eliminate his memory of his love.
+location: Temple B'Nai Emet
+state: California
+state_abbrev: CA
+longitude: -118.1330326
+latitude: 34.0198535
+city_longitude: -118.1137535
+city_latitude: 34.0165053
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

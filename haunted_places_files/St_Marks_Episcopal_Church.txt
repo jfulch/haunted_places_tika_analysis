@@ -1,0 +1,20 @@
+city: Cheyenne
+country: United States
+description: the ghost of a man killed during the construction of the bell tower haunts the tower. - February 2007 Correction: There is no report of anyone dying during construction. The story was kept up for fun especially at Halloween when the previous Rector would hold a haunted house complete with a construction worker corpse in a coffin! There is also a tale of the tower being boarded off because of a spirit of a former Rector haunting it. However, the tower is boarded off because it is unsafe, the stairs weak and the floors unstable. St. Mark's is a beautiful church filled with love, light and everything good. Anyone wanting to visit the church should, the congregation will welcome you with open arms.
+location: St. Mark's Episcopal Church
+state: Wyoming
+state_abbrev: WY
+longitude: -104.8164133
+latitude: 41.1359745
+city_longitude: -104.8202462
+city_latitude: 41.1399814
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

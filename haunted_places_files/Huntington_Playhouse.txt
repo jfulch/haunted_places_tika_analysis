@@ -1,0 +1,20 @@
+city: Bay Village
+country: United States
+description: There are 2 ghosts one is of the owner of the land Mr. Huntington(but he sold it to the theatre owners)and the second is an old electrician(not sure of his name)he will turn the lights on and off while there is a play practice going on.
+location: Huntington Playhouse
+state: Ohio
+state_abbrev: OH
+longitude: -81.93634
+latitude: 41.4885424
+city_longitude: -81.92208450000001
+city_latitude: 41.4847662
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

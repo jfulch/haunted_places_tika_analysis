@@ -1,0 +1,21 @@
+city: Wolf Creek
+country: United States
+description: Owner, workers and guests at this lovely Victorian inn built in the late 1800's have all seen the apparition of a vampire creature with blood dripping from his mouth. And passing motorists on the old country freeways have seen him as well. One such story which made national news was when two hikers in the area witnessed the vampire while hiking around the wolf creek area, then later that night at the hotel they were bitten on the neck by the creature when they were in bed and it left strange unidentifiable bite marks on their neck.
+location: Wolf Creek Inn
+state: Oregon
+state_abbrev: OR
+longitude: -123.395782
+latitude: 42.69494
+city_longitude: -123.3953424
+city_latitude: 42.6953954
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

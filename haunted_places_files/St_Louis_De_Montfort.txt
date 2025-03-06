@@ -1,0 +1,21 @@
+city: Burbank
+country: United States
+description: In one photograph at the altar, a white orb is spotted in photo, but wasn't visible at altar.
+location: St. Louis De Montfort
+state: Illinois
+state_abbrev: IL
+longitude: -87.781854
+latitude: 41.730571
+city_longitude: -87.76073799999999
+city_latitude: 41.7467619
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

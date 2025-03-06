@@ -1,0 +1,21 @@
+city: Willard
+country: United States
+description: Haunted by the Lady in Grey, you can try to catch an image on www.libraryghost.com
+location: Willard Library
+state: Indiana
+state_abbrev: IN
+longitude: -87.5739983
+latitude: 37.9783453
+city_longitude: -87.6647017
+city_latitude: 37.9662487
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

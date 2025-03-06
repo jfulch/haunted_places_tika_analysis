@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: Many guests have reported seeing a women in a white gown wandering the halls late at night.
+location: McCully House
+state: Oregon
+state_abbrev: OR
+longitude: -122.9663099
+latitude: 42.31348140000001
+city_longitude: -122.9669865
+city_latitude: 42.31345839999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Derby
+country: United States
+description: basement of the building believed that a staff worker used to work there died in the school. in the boys bathroom by the gym there's a metal gate where you can see the locker room. many students said that if you look into the room long enough you would see a quick flash of light then it would disappear. or you would see a figure holding a mop in his hand. there would be whistling on some days too and you never knew where it was coming from.
+location: Lincoln School (Old Derby High School)
+state: Connecticut
+state_abbrev: CT
+longitude: -73.0979851
+latitude: 41.3336597
+city_longitude: -73.0889973
+city_latitude: 41.3206523
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/03/22
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

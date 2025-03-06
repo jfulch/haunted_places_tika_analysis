@@ -1,0 +1,21 @@
+city: Arcadia
+country: United States
+description: The school used to have a pool, but someone drowned in it and they covered it over. Teachers said they've heard footsteps at night through the halls, even after they've set the alarm, and if anyone was in the halls the alarm would go off. Loud banging on the lockers and girl's locker room doors have also been heard, and water goes on and off by itself, the toilets also flush by themselves. Lockers with locks on them are closed one minute and open the next even when there's no one else in the room. Some students have seen a figure of a little boy wondering through the halls late at night with a "green glow" to him.
+location: First Avenue Middle School
+state: California
+state_abbrev: CA
+longitude: -118.028908
+latitude: 34.1362469
+city_longitude: -118.0353449
+city_latitude: 34.1397292
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

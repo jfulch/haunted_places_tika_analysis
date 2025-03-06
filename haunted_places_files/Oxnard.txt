@@ -1,0 +1,21 @@
+city: Ventura county
+country: United States
+description: Santa Clara Cemetery - strange things can be seen behind the tombstones as if a man was trying to hide but then vanishes some times it feels as if he were holding you back and a chill is in the air. Some times a mist covers the area.
+location: Oxnard
+state: California
+state_abbrev: CA
+longitude: -119.1770516
+latitude: 34.1975048
+city_longitude: -119.1390642
+city_latitude: 34.3704884
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1777/01/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

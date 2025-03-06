@@ -1,0 +1,20 @@
+city: Sidney
+country: United States
+description: 230 E. Court St - A former worker reports While working there in 2000-2006 they encountered many things. It is said that a man had died in the building while repairing things. It had been a grocery store and then turned into a business office. One day a big toy metal fire truck flew across the waiting room and hit the wall with such force that it damaged the drywall. Files out of the filing cabinet would come up missing and then they would find them in our hall closet with the sweeper. Every now and then they would come in to find the calculators turned on and all 0000000's on them. One time a worker had calculations on hers. Strange sounds would happen also. Defiantly haunted and scary place to work.
+location: Tri-County Community Action Commission
+state: Ohio
+state_abbrev: OH
+longitude: -84.15537839999999
+latitude: 40.3012979
+city_longitude: -84.1554987
+city_latitude: 40.2842164
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

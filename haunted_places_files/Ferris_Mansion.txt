@@ -1,0 +1,20 @@
+city: Rawlins
+country: United States
+description: It is said that during the building of the house, at least two men were killed in construction accidents, and in the late 1800's the youngest son of the Ferris family, Cecil, was accidentally shot and killed by an older brother who was playing with a gun. Ever since then, there has been mild poltergeist activity, strange sounds, electrical malfunctions that cannot be explained, and many apparitions including Cecil and a woman in a long flowing nightgown that appears in the kitchen area. It has been owned by many families since the Ferris', and all have reported sightings and other strange occurrences. At this time it is a bed and breakfast, where guests still report sightings and noises in the night.
+location: Ferris Mansion
+state: Wyoming
+state_abbrev: WY
+longitude: -107.243246
+latitude: 41.791349
+city_longitude: -107.2386627
+city_latitude: 41.7910697
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1973/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

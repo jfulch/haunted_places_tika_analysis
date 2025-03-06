@@ -1,0 +1,21 @@
+city: Mequon
+country: United States
+description: When Concordia moved from downtown Milwaukee to its current location in Mequon (sold to them by the nuns who had lived here), it is said that a Sister named Sister Sixtoes was unwilling to move. She ended up dying near what is the chapel today. She still haunts the chapel as well as the dorms of Coburg, Catherine, and Augsburg. Students have reported sightings of an outline of a ghostly figure when walking down the stairs near the chapel late at night. Students have also reported things being moved in their rooms as well as lights, radios, TV’s, etc. Being turned on and off when no one else was around. Many strange things have occurred over the years that students have sworn was done by good ol' Sister Sixtoes.
+location: Concordia University Wisconsin
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.915531
+latitude: 43.2541994
+city_longitude: -88.0314174
+city_latitude: 43.2159232
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1962/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.783333333333331
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

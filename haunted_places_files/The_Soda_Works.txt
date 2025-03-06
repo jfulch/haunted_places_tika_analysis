@@ -1,0 +1,21 @@
+city: Placerville
+country: United States
+description: Coffee Shop/Saloon is located near the end of Main Street. The owner can't seem to let go. There is an unfinished mine, where supplies were kept and in the summer heat served as a morgue before refrigeration. He likes to turn on the bathroom taps and open and close doors. He also likes to hang out at the upstairs bar. Has ever called the new owner on cellular phone. No one was on the line, but the caller ID kept reading the phone number to the Soda Works. And if she wasn't there then who was making that call.
+location: The Soda Works
+state: California
+state_abbrev: CA
+longitude: -120.7966332
+latitude: 38.7287942
+city_longitude: -120.798546
+city_latitude: 38.7296252
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

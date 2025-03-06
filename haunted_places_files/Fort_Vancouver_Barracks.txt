@@ -1,0 +1,21 @@
+city: Vancouver
+country: United States
+description: The old army barracks, which are still occupied, were built a stone's throw from the old Fort Vancouver, which was a trading post of the Hudson's Bay Co. and was the first settlement in the Pacific Northwest. It is believed that the barracks were constructed over several old colonial graves. Many stories have been told of ghosts haunting the auditorium, the officer's housing, etc.
+location: Fort Vancouver Barracks
+state: Washington
+state_abbrev: WA
+longitude: -122.6550957
+latitude: 45.6257476
+city_longitude: -122.6716063
+city_latitude: 45.6318397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

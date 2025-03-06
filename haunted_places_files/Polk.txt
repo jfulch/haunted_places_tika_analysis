@@ -1,0 +1,21 @@
+city: Des Moines
+country: United States
+description: Merle Hay Mall Tower - Merle Hay Mall, and a building in the mall known as the Merle Hay Tower, is built over the site of a Monastery that was closed in the 1950's. Rumor has it that on occasion a nun would become pregnant, with the pregnancy resulting in mis-carriage. These babies were buried in unmarked graves on the Monastery grounds, where the mall stands today. My grandfather used to drive an ice cream truck, and would deliver to the Monastery, and witnessed one of the nuns nursing (feeding) an infant in the kitchen of the Monastery. In present day, the Merle Hay Tower is said to be haunted by a figure wearing a very old style habit, who cries as she carries a dead child. People who have offices in the Tower report an elevator that moves between floors with no one aboard late at night. When the elevator stops, footsteps can be heard, but when the sounds are investigated, no one is around. Cold spots are frequent and a feeling of being watched when alone is also reported. Others report hearing someone walk into an office and when they turn around, no one is there.
+location: Polk
+state: Iowa
+state_abbrev: IA
+longitude: -93.6091064
+latitude: 41.6005448
+city_longitude: -93.6091064
+city_latitude: 41.6005448
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

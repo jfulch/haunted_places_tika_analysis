@@ -1,0 +1,19 @@
+city: Abilene
+country: United States
+description: It is just one light (bluish in color) and if you try to drive towards it goes away. Turn the car around so that it is facing the cemetery. Then flash you headlight 3 times because when she was watching for her children to come home at night she would flash her lantern and they would flash back to let her know they where coming.
+location: The Anson Light
+state: Texas
+state_abbrev: TX
+city_longitude: -99.73314390000002
+city_latitude: 32.4487364
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

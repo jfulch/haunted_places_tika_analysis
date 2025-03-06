@@ -1,0 +1,21 @@
+city: Flint
+country: United States
+description: A heavy and oppressive feeling takes over you as you enter, and specifically in the isle with leather coats and guitars, you sense an overwhelming amount of depression and dread. You get the urge to leave immediately. The hair stands up on the back of your neck, and it also seems hard to breathe.
+location: Diane's Pawn Center
+state: Michigan
+state_abbrev: MI
+longitude: -83.6540035
+latitude: 43.0157937
+city_longitude: -83.6874562
+city_latitude: 43.0125274
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Grayson
+country: United States
+description: Woodman's circle - This building has served as an orphanage, school, and asylum. Reports of seeing the apparition of a woman wandering the grounds, as well as strange noises ranging from voices, cries and screams.
+location: Sherman
+state: Texas
+state_abbrev: TX
+longitude: -96.6088805
+latitude: 33.6356618
+city_longitude: -96.663812
+city_latitude: 33.7062406
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1590/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

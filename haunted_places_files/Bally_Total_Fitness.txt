@@ -1,0 +1,21 @@
+city: Plymouth
+country: United States
+description: At night after closing when you are downstairs you can hear someone working out on the circuit machines up stairs, you can also hear footsteps of someone running the track when no one else is there. When you go to lock the front doors at night suddenly in the free weight room it sounds like some one dropped 400lbs of weights on the ground. Witnesses have experienced hearing the foot steps but many other workers, usually the person closing, have heard the other incidents.
+location: Bally Total Fitness
+state: Michigan
+state_abbrev: MI
+longitude: -83.4656576
+latitude: 42.358295
+city_longitude: -83.4702132
+city_latitude: 42.3714253
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

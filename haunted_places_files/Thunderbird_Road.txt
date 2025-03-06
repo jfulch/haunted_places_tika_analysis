@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: When driving down thunderbird towards Mesa St. you will come upon a downward sloping hill. Go down the hill to the point where there is a slight upwards slope, stop, put your car in neutral and turn off the lights. After a couple seconds you will begin to roll up the slope with your speed increasing the longer you let it roll (you do eventually start going downhill again, so i suggest you stop your car at the top of the slope). Not sure if it's a ghost or not, but it is abnormal.
+location: Thunderbird Road
+state: Texas
+state_abbrev: TX
+longitude: -106.510034
+latitude: 31.8496471
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 0

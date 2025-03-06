@@ -1,0 +1,21 @@
+city: Gorham
+country: United States
+description: The Robie-Andrews Dorm -  Local documentation indicates that on the fourth floor of this building there was a suicide or murder in the early part of the 20th century when it was still an all-women's learning center. Students have seen the ghost on several occasions. The fourth floor also exhibits inexplicable cold spots and mild poltergeist activity. Students constantly hear footsteps moving around above them in a vacant attic. A student who lives near the attic stairwell said she felt someone grabbing her arm and her room seems to always be cold. According to legend there are 5 spirits in the building. One of which (the most active) was a female college student who lived in the 1800's. She committed suicide after her boyfriend left her when he found out she was pregnant.
+location: University of Southern Maine
+state: Maine
+state_abbrev: ME
+longitude: -70.448804
+latitude: 43.6825395
+city_longitude: -70.44422519999999
+city_latitude: 43.67953139999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: many years ago  they buried a bishop in the chapel beneath the church  now its said that he is haunting the  basement and  people haven't seen the ghost but have felt something was wrong on there.
+location: Corpus Christi cathedral
+state: Texas
+state_abbrev: TX
+longitude: -97.3965167
+latitude: 27.7944494
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

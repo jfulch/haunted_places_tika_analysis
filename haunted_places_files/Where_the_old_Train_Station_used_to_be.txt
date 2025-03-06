@@ -1,0 +1,19 @@
+city: Cheboygan
+country: United States
+description: Years ago there was a terrible train accident and when the train tipped over there was a man who was badly hurt and the wreck jogged his mind so much that he started to beat his skull against the stump of an old tree. In the process of doing so, he asked himself "why am I hear"?. Well, he beat himself to death until his skull cracked wide open. At 1:00am in the morning you can still hear the ghost of the man saying why am I here as he beats his head on the stump.
+location: Where the old Train Station used to be
+state: Michigan
+state_abbrev: MI
+city_longitude: -84.4744795
+city_latitude: 45.64695630000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 0

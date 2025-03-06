@@ -1,0 +1,21 @@
+city: Augusta
+country: United States
+description: There is a round pillar that stands about eight feet tall on a corner of Broad street in downtown Augusta that is said to be the remains of the old slave market from years ago. On several occasions, this pillar is scheduled to be removed for development, but on each occasion the person who was supposed to remove it died unexpectedly. A few years ago a driver lost control of his car and bumped into the pillar. He was dead in his car when the police arrived, but the accident was not life threatening. It is said that a slave put a curse on the pillar to which he was tied as he was being sold. For whatever reason, the pillar still stands alone with nothing else around it on the corner of Broad Street.
+location: The Pillar
+state: Georgia
+state_abbrev: GA
+longitude: -81.9588606
+latitude: 33.4726131
+city_longitude: -82.0105148
+city_latitude: 33.4734978
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

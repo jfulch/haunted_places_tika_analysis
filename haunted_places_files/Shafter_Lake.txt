@@ -1,0 +1,21 @@
+city: Andrews
+country: United States
+description: Just north of Andrews, Texas, west of Highway 385, is the original location of the county seat of Andrews County, Shafter. It was named after a Union Army Soldier of the same last name. The town was almost completely wiped out by a smallpox epidemic around the turn of the last century, possibly sometime before 1910. Up until about ten years ago, the cemetery where the victims were buried was located on the near edge of the small lake (which comes and goes as it pleases), but the bodies were moved and reentered elsewhere. Legend was that a "lady in white" haunted the graveyard, possibly the reason for its removal. Sometime during the fall of the year, you may also see a troop of Confederate soldiers and their horses galloping across the lake, usually during a full moon. Most think it is General Shafter and his men, who did patrol that area before it was settled, trying to escape Comanche Indians pursing them. By the way, the lake wasn't (and isn't) always there. It just appeared sometime in the forties, according to my mother, who lived in the area from 1948 on. The water is very salty, not good for anything, and there is no explanation for its being there at all.
+location: Shafter Lake
+state: Texas
+state_abbrev: TX
+longitude: -102.6483624
+latitude: 32.4132524
+city_longitude: -102.5457155
+city_latitude: 32.31871580000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1948/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

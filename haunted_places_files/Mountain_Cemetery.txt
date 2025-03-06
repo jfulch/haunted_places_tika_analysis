@@ -1,0 +1,21 @@
+city: Sonoma
+country: United States
+description: This old cemetery has the atmosphere of a horror movie as years of neglect leave the antique tombstones and Mausoleums in ruins. A single grave out of the way of the rest has a single name of "Lise" written on it. Teenagers who have come to the cemetery in a macabre curiosity report a sense of extreme dread, as well as a sighting of wraithlike spirits. Outside of the gated regions of the Cemetery in a woods-like area can be found dilapidated and broken graves. This "Abandoned" area has had sightings of strange lights, foul smells, and an overpowering sense of fear over it. As well as unaccountable cold spots.
+location: Mountain Cemetery
+state: California
+state_abbrev: CA
+longitude: -122.4562777
+latitude: 38.2997805
+city_longitude: -122.4580356
+city_latitude: 38.291859
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

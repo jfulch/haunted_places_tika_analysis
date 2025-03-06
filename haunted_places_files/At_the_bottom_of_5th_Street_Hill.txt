@@ -1,0 +1,19 @@
+city: Huntington
+country: United States
+description: a couple was in a wreck on prom night. The girl can be seen standing near the bridge in her prom dress as if waiting for a ride.
+location: At the bottom of 5th Street Hill
+state: West Virginia
+state_abbrev: WV
+city_longitude: -82.44515400000002
+city_latitude: 38.4192496
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

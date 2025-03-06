@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: May 2005 correction: Formerly stated as a Girl Scout Camp. it is Belived to be haunted due to the sounds heard and such but it's not by girl scouts. Now due to trespassing the property is watched by the police. It was the site of an old hunting Club located just outside of Springfield Mo next to the old hwy 65 bridge.March 2008 Update: reports are pointing to this being an urban legend.
+location: Winoka Lodge
+state: Missouri
+state_abbrev: MO
+longitude: -93.225619
+latitude: 37.121616
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

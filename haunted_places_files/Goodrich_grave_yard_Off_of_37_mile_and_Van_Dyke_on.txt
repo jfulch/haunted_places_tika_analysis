@@ -1,0 +1,19 @@
+city: Romeo
+country: United States
+description: The Goodrich grave yard is well kept up in the front section. If you go to the back you can see just as you start in to the wood line there are many abandon graves. Witnesses have taken pictures and report the pictures show orb's and many other apparitions.
+location: Goodrich grave yard Off of 37 mile and Van Dyke on North Kidder road near the campground
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.0129874
+city_latitude: 42.802808
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1869/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

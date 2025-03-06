@@ -1,0 +1,21 @@
+city: Willisburg
+country: United States
+description: The Tathum Springs Hotel was first built as a hot springs resort. A little girl died in the creek that runs round the hotel on three sides. Her ghost has been photographed in the window with an old man standing behind her with his hand on her shoulder. - March 2008 Update: It burnt to the ground in 2006.
+location: Tathum Springs Hotel
+state: Kentucky
+state_abbrev: KY
+longitude: -84.84391
+latitude: 37.776992
+city_longitude: -85.126347
+city_latitude: 37.8097892
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2006/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

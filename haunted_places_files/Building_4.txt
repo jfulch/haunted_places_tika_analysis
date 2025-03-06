@@ -1,0 +1,21 @@
+city: Fort Bliss
+country: United States
+description: Many current and former members of the U.S. Army and Department of the Army civilian employees confirm stories of strange activities in one of the oldest remaining buildings on the Military Installation. One tale tells of an old Army Cavalry soldier seen in the upstairs window of the building on several occasions. Others tell of similar situations in which men and women are seen roaming the halls of the now unoccupied building. Building 4 was once used as a secondary morgue to hold the bodies of slain soldiers.
+location: Building 4
+state: Texas
+state_abbrev: TX
+longitude: -106.4341504
+latitude: 31.81134549999999
+city_longitude: -106.4213208
+city_latitude: 31.812438
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1775/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: War
+witness_count: 1

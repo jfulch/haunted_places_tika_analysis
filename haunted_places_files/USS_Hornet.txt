@@ -1,0 +1,21 @@
+city: Alameda
+country: United States
+description: Many ghosts reported being seen by those who are caretakers of the old aircraft carrier. Ghosts of sailors who perished on board are well documented.
+location: USS Hornet
+state: California
+state_abbrev: CA
+longitude: -122.3025322
+latitude: 37.7726482
+city_longitude: -122.2416355
+city_latitude: 37.7652065
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

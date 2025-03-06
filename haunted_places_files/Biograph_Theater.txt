@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: the ghost of John Dillinger is seen running in the alley behind this building where he was killed.
+location: Biograph Theater
+state: Illinois
+state_abbrev: IL
+longitude: -87.6497878
+latitude: 41.9263426
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: South Whitley
+country: United States
+description: When Whitko High School was being built, directly behind a cemetery off of SR 14, a construction worker was confronted by an old woman. She told him that every year the school was open at least one student would die. When the construction worker turned around, the old woman disappeared. So far this has held to be true. Rumor is one student has died every year since the school was built.
+location: Whitko High School
+state: Indiana
+state_abbrev: IN
+longitude: -85.63544209999999
+latitude: 41.0829323
+city_longitude: -85.62803810000001
+city_latitude: 41.0847677
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2023/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

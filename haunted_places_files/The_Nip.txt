@@ -1,0 +1,21 @@
+city: Bridgewater
+country: United States
+description: Stories say an old man was fishing and his boat drowned. If you go to the nip on some nights and down that street, you will see the man fishing in his boat.
+location: The Nip
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0393766
+latitude: 41.9688303
+city_longitude: -70.9750541
+city_latitude: 41.9903519
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

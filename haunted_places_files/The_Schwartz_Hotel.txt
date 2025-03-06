@@ -1,0 +1,20 @@
+city: Alma
+country: United States
+description: People have reported seeing strange lights and experiencing an eerie feeling as they walk by this hotel. Legend states that a father and son had a dispute during the 1800's and shot each other. They are now believed to haunt the place. They even frightened one lady so horribly that she hanged herself from the upper balcony. Witnesses have claimed to see her in the upstairs hallway.
+location: The Schwartz Hotel
+state: Colorado
+state_abbrev: CO
+longitude: -106.063728
+latitude: 39.2841653
+city_longitude: -106.0627967
+city_latitude: 39.2838783
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Cerritos
+country: United States
+description: Many janitors have heard strange banging noises in the Girls locker room. Also, it has been said that at night you can see a group of kids near the track, but as you move closer they disappear.
+location: Cerritos High School
+state: California
+state_abbrev: CA
+longitude: -118.0648906
+latitude: 33.8653712
+city_longitude: -118.0647871
+city_latitude: 33.8583483
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

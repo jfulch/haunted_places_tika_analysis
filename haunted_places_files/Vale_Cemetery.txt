@@ -1,0 +1,21 @@
+city: Wilton
+country: United States
+description: "The Blue Lady" - They say that a ghost named Mary haunts the cemetery. People have seen blue lights rise from her grave and then slowly sinks back in. Lots of cold spots and you see a bunch of black shadows and once and a while plasma. - October 2007 Update: Strange noises heard on woods path. mist showed up in picture too.
+location: Vale Cemetery
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.7739398
+latitude: 42.8439838
+city_longitude: -71.7351077
+city_latitude: 42.8433943
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1946/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

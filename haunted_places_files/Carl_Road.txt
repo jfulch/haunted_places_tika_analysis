@@ -1,0 +1,21 @@
+city: Woodburn
+country: United States
+description: If you drive down Carl Road and drive down until you see an orchard and get out of your car, you can feel a strange presence. If you go into the orchard and walk a little ways you'll hear leaves crunching behind you and when you look behind you, you'll see a white shadowy figure walking from one tree to another and then disappear. If you stay longer you can feel something pressing against you.
+location: Carl Road
+state: Oregon
+state_abbrev: OR
+longitude: -122.8015193
+latitude: 45.1615634
+city_longitude: -122.8553724
+city_latitude: 45.143731
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

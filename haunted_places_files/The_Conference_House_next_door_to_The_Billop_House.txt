@@ -1,0 +1,21 @@
+city: Staten Island
+country: United States
+description: It's said that the house is haunted by Redcoats- when walking through it you can feel someone tap your shoulder or you can hear the faint sound of singing.
+location: The Conference House, next-door to The Billop House
+state: New York
+state_abbrev: NY
+longitude: -74.25325099999999
+latitude: 40.5031274
+city_longitude: -74.1502007
+city_latitude: 40.5795317
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1873/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Forest Grove
+country: United States
+description: Knight Hall -which used to be the music programs classroom facility is haunted by two spirits. Activity has been observed by hundreds of faculty and students since the 1940s.
+location: Pacific University
+state: Oregon
+state_abbrev: OR
+longitude: -123.1096408
+latitude: 45.52090279999999
+city_longitude: -123.1106631
+city_latitude: 45.5198364
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1968/04/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

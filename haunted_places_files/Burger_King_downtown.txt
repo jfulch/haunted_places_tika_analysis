@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: Haunted by an unknown entity.
+location: Burger King downtown
+state: Oregon
+state_abbrev: OR
+longitude: -122.6612598
+latitude: 45.5117219
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

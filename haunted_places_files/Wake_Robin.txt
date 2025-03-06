@@ -1,0 +1,21 @@
+city: Shelburne
+country: United States
+description: Wake Robin is a nursing home, and in room 229 there is a ghost there. There was a lady who used to stay in that room. Before she died, she told the nurses that she would come back to haunt them. She said that she would ring the bell and haunt them. There are also two more down stairs. They are a couple who occasionally hit the bell to the elevator and run up and down the hallways.
+location: Wake Robin
+state: Vermont
+state_abbrev: VT
+longitude: -73.248463
+latitude: 44.357969
+city_longitude: -73.227626
+city_latitude: 44.3806065
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

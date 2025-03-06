@@ -1,0 +1,20 @@
+city: Excelsior Springs
+country: United States
+description: there is an old abandon house that is out on an old road. When you pull up you get a sense of chills and shivers. This is the place where the KKK used to hang the African Americans that they tortured. When you walk up to the house you sometimes hear sounds and see things in the house like clothes on a line hanging there.
+location: Wolf Hollow
+state: Missouri
+state_abbrev: MO
+longitude: -94.1711595
+latitude: 39.2971756
+city_longitude: -94.2260559
+city_latitude: 39.3391712
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

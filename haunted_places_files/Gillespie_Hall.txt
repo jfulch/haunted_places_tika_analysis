@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: In a room on the first floor that was numbered 13 has since been painted over that number and replaced with number 19. Things will be moved out of its place, you can hear a girl singing very quietly which seems to be opera, you can hear a violin being played, keys being placed on a desk, pushing on the bottom of the bed, a mysterious foot print on carpeted floor which seems to be wet will not go a way.
+location: Gillespie Hall
+state: Kentucky
+state_abbrev: KY
+longitude: -84.16465749999999
+latitude: 36.738021
+city_longitude: -84.15965609999999
+city_latitude: 36.7434169
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Des Moines
+country: United States
+description: There have been witnesses who have seen a transparent little girl, eyes in pictures following them and many other things. In the middle of the elevator(which is code activated)goes up and down and opens.
+location: Terrace Hill
+state: Iowa
+state_abbrev: IA
+longitude: -93.6492409
+latitude: 41.583273
+city_longitude: -93.6091064
+city_latitude: 41.6005448
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lempster
+country: United States
+description: Horse that got stuck in the pond mud in the dry spring of 1900 haunts this area, has been seen rising from the pond then disappearing.
+location: Hurd pond road
+state: New Hampshire
+state_abbrev: NH
+longitude: -72.1913575
+latitude: 43.2768562
+city_longitude: -72.1771541
+city_latitude: 43.2270143
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

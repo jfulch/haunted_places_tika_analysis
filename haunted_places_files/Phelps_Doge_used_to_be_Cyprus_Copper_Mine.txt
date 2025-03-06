@@ -1,0 +1,19 @@
+city: Miami
+country: United States
+description: There have been countless deaths and mishaps in the mines. There are stories about haunted tunnels and a cyanide plant that had an alarm go off. Some people died and everything in the building is exactly the way they had left it. Lunch boxes are still open and magazines are still on the page they were reading.
+location: Phelps Doge (used to be Cyprus) Copper Mine
+state: Arizona
+state_abbrev: AZ
+city_longitude: -110.8687232
+city_latitude: 33.3992217
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

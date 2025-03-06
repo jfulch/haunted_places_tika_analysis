@@ -1,0 +1,21 @@
+city: Bronx
+country: United States
+description: Rare sighting have been a common thing here. Two ghosts' here are still haunting this store and still have for at least 36 years. A father who worked here was shot and murdered by a robber. They seem to here a weird voice here although no one has seen anything or anyone. The second is the ghost of the father's son. He was also shot and killed a few days later. He was crawling and trying to get help, but he died soon after. Bloodstains and marking have been seen on the sidewalk near the store. To this day, the ghost don't bother anyone in the store, although the father's ghost is STILL looking for the murderer
+location: Old Candy Store on 32nd street
+state: New York
+state_abbrev: NY
+longitude: -73.9049146
+latitude: 40.877332
+city_longitude: -73.8648268
+city_latitude: 40.8447819
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

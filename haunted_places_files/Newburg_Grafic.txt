@@ -1,0 +1,21 @@
+city: Newberg
+country: United States
+description: this small newspaper is housed in a extremely haunted location. Over the years employees have experienced strange time lapses and sightings of many apparitions.
+location: Newburg Grafic
+state: Oregon
+state_abbrev: OR
+longitude: -122.9748309
+latitude: 45.3009806
+city_longitude: -122.9731565
+city_latitude: 45.3001178
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

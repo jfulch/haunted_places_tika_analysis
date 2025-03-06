@@ -1,0 +1,21 @@
+city: West Bloomfield
+country: United States
+description: Little girl that appears on stage, several spirits haunting boiler room. Disappearing faces in A,B, and D hallways. Flying papers in janitorial closet. Many odd and obscure noises. Power failures in all main hallways, especially the main lobbies. Many people have died there and their spirits remain. Over 40 ghosts sightings have been reported. Many missing belongings reported.
+location: Warren W. Abbott Middle School
+state: Michigan
+state_abbrev: MI
+longitude: -83.3502072
+latitude: 42.5998279
+city_longitude: -83.373339
+city_latitude: 42.5678534
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

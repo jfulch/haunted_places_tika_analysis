@@ -1,0 +1,20 @@
+city: Cross Hill
+country: United States
+description: A soldier that served in the Civil War is buried here, it is said that his cross glows about 3 times a year. And the color changes 4 times or so before returning to the normal rust color.
+location: Bethabara Church Cemetery
+state: South Carolina
+state_abbrev: SC
+longitude: -81.9606692
+latitude: 34.2770723
+city_longitude: -81.9828892
+city_latitude: 34.3048489
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 0

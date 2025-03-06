@@ -1,0 +1,19 @@
+city: Jasper
+country: United States
+description: long time ago on these train tracks a bus load of kids got hit by a train, leaving all of them dead but the driver of the bus, so he went crazy and shot himself while standing on the tracks, some say that if you go and park your car on the tracks, put your car in neutral, the kids will push you off the tracks, some have even seen the glowing headless man walking towards their car from the tracks, and then disappear.
+location: Devils Road
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.9311094
+city_latitude: 38.3914418
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.333333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Miamisburg
+country: United States
+description: The girls bathroom by the 4th grade hall are haunted by a young girl who was murdered by one of the workers that had helped build the school, she was supposed to be a 4th grader now, two girls see her every time they go into the bathroom. If you look into the mirror for 5 seconds without blinking you will see blood running down the mirror, and you will see a girl with blond hair. WARNING: DON'T TRY TO TALK TO HER
+location: Medlar View Elementary
+state: Ohio
+state_abbrev: OH
+longitude: -84.2552893
+latitude: 39.6050643
+city_longitude: -84.2866083
+city_latitude: 39.6428362
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

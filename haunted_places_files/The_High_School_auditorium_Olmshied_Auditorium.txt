@@ -1,0 +1,21 @@
+city: St. Helens
+country: United States
+description: Reports of a girl died here and it's uncertain but some say that she actually died when the Forest Grove High School burned down. Reports of hearing a piano playing when there isn’t any pianos around, she messes with the lights, she messes with the sound, and one time she pulled out a stage light gel holder and dropped it rightby someone’s head.
+location: The High School auditorium (Olmshied Auditorium)
+state: Oregon
+state_abbrev: OR
+longitude: -122.8340793
+latitude: 45.8494065
+city_longitude: -122.8158185
+city_latitude: 45.8590111
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

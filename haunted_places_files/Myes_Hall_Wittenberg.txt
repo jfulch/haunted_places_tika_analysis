@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: Myers Hall was a Civil War hospital. A soldier was dying and demanded to see his horse. The horse was brought in but refused to go down the stairs to leave so he was shot. The horse's spirit still roams the halls.
+location: Myes Hall, Wittenberg
+state: Ohio
+state_abbrev: OH
+longitude: -83.8139029
+latitude: 39.9365496
+city_longitude: -83.8088171
+city_latitude: 39.9242266
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Victoria
+country: United States
+description: many construction workers claimed to have seen moving flashes of light out of the corner of their eye. Some of the same construction workers and many courthouse employees have claimed to see "floating balls of light"-orbs and an apparition that appears periodically on the second floor in the SE corner of the building.
+location: Victoria County Courthouse
+state: Texas
+state_abbrev: TX
+longitude: -97.0072365
+latitude: 28.80017879999999
+city_longitude: -97.0035982
+city_latitude: 28.8052674
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

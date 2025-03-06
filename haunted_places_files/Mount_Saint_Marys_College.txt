@@ -1,0 +1,21 @@
+city: Emittsburg
+country: United States
+description: Father John DuBois is sometimes seen walking the campus. Several Ghosts have been seen in dorms Brute and DuBois. This school has a history of ghosts and it is the oldest independent Catholic college in the country. It was founded in 1808.
+location: Mount Saint Mary's College
+state: Maryland
+state_abbrev: MD
+longitude: -77.3490013
+latitude: 39.6807058
+city_longitude: -77.32693069999999
+city_latitude: 39.7045417
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1808/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 16.2
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

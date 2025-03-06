@@ -1,0 +1,20 @@
+city: Englewood
+country: United States
+description: Cold spots - believed to be haunted by drama teacher who died in the mid 70's.
+location: Englewood High School Auditorium
+state: Colorado
+state_abbrev: CO
+longitude: -104.9815464
+latitude: 39.6473657
+city_longitude: -104.9877597
+city_latitude: 39.6477653
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

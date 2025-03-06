@@ -1,0 +1,21 @@
+city: Anaheim
+country: United States
+description: Theatre/Auditorium - Voices have been heard in the auditorium and deep laughter is heard on the balcony. Erratic footsteps have been heard on the roof.
+location: Anaheim High School
+state: California
+state_abbrev: CA
+longitude: -117.9241467
+latitude: 33.8337359
+city_longitude: -117.9143012
+city_latitude: 33.8365932
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

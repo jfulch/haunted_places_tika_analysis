@@ -1,0 +1,20 @@
+city: Montgomery
+country: United States
+description: Fudge Road - Scary Old Road Located Just Outside Of Gratis... On The Road There Is The Site Of A Huge Drug Bust Where 2 Men Died.. They Still Haunt The Road... There is The Dwarf Home.. An old house with everything undersized rooms doors windows etc. The Fudge Best- White Human like beast that's been sighted on road... the drug house has been fenced off u cant get in... The bridge haunted by ghost of baby that was thrown off side by mother & truck driver that has driven off side.
+location: Gratis
+state: Ohio
+state_abbrev: OH
+longitude: -84.52717109999999
+latitude: 39.6478321
+city_longitude: -84.35410619999999
+city_latitude: 39.2281143
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

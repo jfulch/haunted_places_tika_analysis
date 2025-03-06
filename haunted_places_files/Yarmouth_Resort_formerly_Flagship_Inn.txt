@@ -1,0 +1,21 @@
+city: Yarmouth
+country: United States
+description: Reports of sounds of doors slamming within indoor pool area when all doors are locked tight, items moved or placed in reception area within a matter of seconds, no known origins to these events, appearing to be a rather playful spirit, most likely a young little girl (left a baby hairclip on the counter as if to give clue to "what it is") several night-time employees get unnerved catching strange vibes, one house-keeper spotted an image of a small dog in hallway which then seemingly disappeared before her eyes.
+location: Yarmouth Resort (formerly Flagship Inn)
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.2485275
+latitude: 41.6515985
+city_longitude: -70.2286681
+city_latitude: 41.7056291
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

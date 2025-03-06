@@ -1,0 +1,21 @@
+city: Lindale
+country: United States
+description: it is said that while playing basketball in the gym that you can hear kids voices coming from the underground classrooms that haven't been used in many years. also if you go downstairs you could hear the voices even stronger and while leaving the lights will turn on behind you and the dangling light fixture will be shaking around. some have even heard chains rattling.
+location: old grade school gym
+state: Texas
+state_abbrev: TX
+longitude: -95.4035451
+latitude: 32.5083229
+city_longitude: -95.4093998
+city_latitude: 32.5156971
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1854/05/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

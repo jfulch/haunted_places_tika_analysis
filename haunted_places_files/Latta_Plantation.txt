@@ -1,0 +1,21 @@
+city: Charlotte
+country: United States
+description: The Latta Family used to live in the Latta Plantation. It's now a historic site, and is haunted by the family. Frequently during tour, strange things happen, like the tourist would hear kids playing in the attic, running around. One time during a tour, the tour guide had introduced the tourist a cane, that was used by one of the members of the family, and all of a sudden it started moving as if a spirit was walking on it, and it then fell on the ground. Occurrences happened when employees are in the house alone, doors would slam shut. Shadows are seen every now and then as well.
+location: Latta Plantation
+state: North Carolina
+state_abbrev: NC
+longitude: -80.9180086
+latitude: 35.3524488
+city_longitude: -80.8431267
+city_latitude: 35.2270869
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

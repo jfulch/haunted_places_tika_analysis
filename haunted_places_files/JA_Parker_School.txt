@@ -1,0 +1,21 @@
+city: New Bedford
+country: United States
+description: After School hours, students and staff have seen the front upstairs doors shake. After school hours staff puts a chain and lock on the doors, so when they shake (rattling) you will notice. Some people say it is the old principal (Sherman) Who died at the bubbler upstairs near the door. His shadow has been seen walking around the school and you get a weird feeling when you walk around.
+location: J.A. Parker School
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9321001
+latitude: 41.6444422
+city_longitude: -70.93420499999999
+city_latitude: 41.6362152
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2023/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

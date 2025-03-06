@@ -1,0 +1,19 @@
+city: Cheboygan
+country: United States
+description: An old farmer went insane and killed his family and then himself. If you go out to the site at night you feel overwhelmed by fright. And never take a stone from the tomb you will be dealt with in a not so nice matter. 2 people drove over the tomb on purpose and there truck just died for no reason. There friends in a car behind them had the steering wheel jerked and they crashed into a tree.
+location: Hikyes Tomb
+state: Michigan
+state_abbrev: MI
+city_longitude: -84.4744795
+city_latitude: 45.64695630000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

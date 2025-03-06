@@ -1,0 +1,18 @@
+city: Forest City
+country: United States
+description: If you go through Forest City be sure to get on road 330 and then turn on to 660. Bring your level with you. Drive down the road a hundred feet and check the road, it should be perfectly level. Now turn your car around and put it in neutral. Your car will get pulled backwards on a perfectly level road. People also get headaches on this road.
+location: Mystery Road 660
+state: Minnesota
+state_abbrev: MN
+city_longitude: -94.4663558
+city_latitude: 45.2063414
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

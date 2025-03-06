@@ -1,0 +1,21 @@
+city: Fort Sill
+country: United States
+description: Images of Indian Children playing on swing set in the backyard. A solider has been seen walking through the house. Voices and combat boots are heard. Lots of physical contact such as: Hair pulling, poking, kicking the end of the bed, touching shoulders, the list goes on.
+location: Geronimo Acres Housing
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.3946088
+latitude: 34.6563653
+city_longitude: -98.4184224
+city_latitude: 34.5938359
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

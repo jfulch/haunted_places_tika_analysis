@@ -1,0 +1,21 @@
+city: Manteca
+country: United States
+description: The old El Rey theatre in Manteca burned down some decades ago the night "The Towering Inferno" opened, owners renovated it and turned it into the Kelley Brothers Brewing Co. it is said that there are still hot spots from the fire, and ghosts of dead firefighters and movie patrons are said to wander the restaurant looking for a way out.
+location: El Rey Theatre, Brewery
+state: California
+state_abbrev: CA
+longitude: -121.215525
+latitude: 37.797133
+city_longitude: -121.2160526
+city_latitude: 37.7974273
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

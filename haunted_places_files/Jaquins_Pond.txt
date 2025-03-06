@@ -1,0 +1,21 @@
+city: Clymer
+country: United States
+description: Jaquin's Pond is a swamp with a few narrow dirt roads through the woods. There are several stories about this spooky area. There are three bridges supposedly haunted by the ghost of a school bus driver named George, who committed suicide after a boy was killed in an accident involving his bus; if you stop on the third bridge and say his name three times, your car doors will lock and he will appear (there are several variations). The road also forks, diverging into the "Light Path" and the "Dark Path". Apparently the Dark Path has been the site of more than one teenage suicide. Also surrounding the area are several old stone buildings which,may possibily have been used to be some kind of waterworks, now abandoned.
+location: Jaquin's Pond
+state: New York
+state_abbrev: NY
+longitude: -79.5905435
+latitude: 42.013347
+city_longitude: -79.6299617
+city_latitude: 42.0208501
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

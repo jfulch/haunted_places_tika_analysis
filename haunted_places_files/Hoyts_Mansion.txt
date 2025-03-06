@@ -1,0 +1,19 @@
+city: Hyde Park
+country: United States
+description: A mansion that is haunted by the family members whom all killed themselves. The family was very strange, all under ground entrances to their house. Their home is in the middle of the woods in between two of the popular mansions, The Mills Mansion, and the Vanderbilt Mansion.
+location: Hoyts Mansion
+state: New York
+state_abbrev: NY
+city_longitude: -73.9015246
+city_latitude: 41.7667602
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

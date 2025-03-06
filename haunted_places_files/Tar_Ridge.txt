@@ -1,0 +1,21 @@
+city: Frenchburg
+country: United States
+description: Locals call this area of roadway the "devils backbone". Sightings include solders riding house back late into the night. As well as a woman running down the road with blood coming from her mouth where her tongue was removed. An old man walking along holding a lighted lantern and many more. The ghosts also have been said to haunt several of the homes along the roadway.
+location: Tar Ridge
+state: Kentucky
+state_abbrev: KY
+longitude: -83.61904249999999
+latitude: 37.8777447
+city_longitude: -83.62574520000001
+city_latitude: 37.950916
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

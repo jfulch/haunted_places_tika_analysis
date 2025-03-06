@@ -1,0 +1,21 @@
+city: Norwich
+country: United States
+description: There are stories of room twenty being haunted by the ghost of a woman who died in the room. She is also known for her occasional appearances in the dining room. She walks through the room wearing a dark formal dress, without disturbing any customers.
+location: Norwich Inn
+state: Vermont
+state_abbrev: VT
+longitude: -72.3090787
+latitude: 43.7150697
+city_longitude: -72.307869
+city_latitude: 43.7153482
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

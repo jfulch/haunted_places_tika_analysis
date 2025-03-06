@@ -1,0 +1,21 @@
+city: Latrobe
+country: United States
+description: Tales of a spectral monk have been in circulation and documented since the 1800s. Footsteps on the steps of the basilica's bell tower. Shadows and sightings of a monk that was killed in the mill persist to this day...security frequently has to shut off the lights in the building even though no one is there. The ghost of Father Boniface (the founding priest of St. Vincent) is said to come with such frequency that it's a freshman initiation rite. Father Boniface presumably rises from his grave on the day of his death (early December), walks to the basilica to hear mass, then comes back and disappears. Stories also abound of a monk who wanders the area between St. Vincent's and the nearby St. Xavier, which was a nearby convent. His cowl covers his face, and even when one tries to see who it is, one cannot see a face.
+location: St. Vincent's Monastery and College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.4012055
+latitude: 40.2939582
+city_longitude: -79.37948109999999
+city_latitude: 40.3211808
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2013/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

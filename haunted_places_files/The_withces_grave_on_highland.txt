@@ -1,0 +1,19 @@
+city: Mannington
+country: United States
+description: They say a long time ago there was a witch and a warlock buried in the church cemetery and the tombs are turned upside down.  They say if you go up there late at night you will see glowing in the woods and here strange noises.  Many sightings of the witches have been seen.
+location: The withces grave on highland
+state: West Virginia
+state_abbrev: WV
+city_longitude: -80.343418
+city_latitude: 39.5309169
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Rialto
+country: United States
+description: An older man and a young pregnant woman in 20s clothing wanders the office area and pool deck. They have been known to walk straight across the pool (right above the water) and fling papers and chairs around in the office area. Many of the lifeguards and faculty refuse to be there alone after dark.
+location: Rialto Public Pool
+state: California
+state_abbrev: CA
+longitude: -117.3695151
+latitude: 34.0786694
+city_longitude: -117.3703235
+city_latitude: 34.1064001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

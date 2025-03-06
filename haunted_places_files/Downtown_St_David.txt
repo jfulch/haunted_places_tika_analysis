@@ -1,0 +1,21 @@
+city: St. David
+country: United States
+description: Screams, cries, and voices can be heard. Apparitions are seen, and the strange feelings of being watched.
+location: Downtown St. David
+state: Arizona
+state_abbrev: AZ
+longitude: -110.2207883
+latitude: 31.9054198
+city_longitude: -110.2142399
+city_latitude: 31.9042517
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

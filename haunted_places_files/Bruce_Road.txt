@@ -1,0 +1,21 @@
+city: Lockport
+country: United States
+description: On certain nights, some have seen a man's torso float towards you on the right hand side of the road, before you reach the stop sign at the intersection. The image is said only to last a few seconds, and then fade away.
+location: Bruce Road
+state: Illinois
+state_abbrev: IL
+longitude: -88.0300918
+latitude: 41.5686039
+city_longitude: -88.05783699999999
+city_latitude: 41.5894752
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

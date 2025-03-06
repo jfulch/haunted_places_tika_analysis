@@ -1,0 +1,21 @@
+city: Wauwatosa
+country: United States
+description: A mass of unmarked graves can be found in the Milwaukee County Grounds next to the soccer field. These graves belonged to the victims of TB and the residents of the "poor farm" the county ran in the twenties and thirties (possibly earlier). This site is a hot bed for restless spirits, which can be felt as well as seen. Many people have on several occasions seen figures, including children, slowly walking through the fenced off cemetery at odd hours of the night.
+location: Potter's Field
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.86327159999999
+latitude: 42.8874927
+city_longitude: -88.0075875
+city_latitude: 43.0494572
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

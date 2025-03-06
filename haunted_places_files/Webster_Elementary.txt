@@ -1,0 +1,19 @@
+city: Magna
+country: United States
+description: many ghost hunters have been there and seen the ghost on camcorders; they go in classrooms and hear kids laughing, screaming and crying.  This school is abandoned now.- September 2004 update: The school was recently burned down (police suspect vandalism) and was subsequently torn down by demolision crews.
+location: Webster Elementary
+state: Utah
+state_abbrev: UT
+city_longitude: -112.1016088
+city_latitude: 40.7091121
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

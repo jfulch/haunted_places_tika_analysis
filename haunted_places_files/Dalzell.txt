@@ -1,0 +1,20 @@
+city: Sumter
+country: United States
+description: Stamey Livestock Road - Booth's hanging - In the early eighties five Air Force airmen drove down a dirt road after drinking too much and ran into Booth's Pond. Two of them drowned that night. Several weeks later the other three still distraught about what had happened committed suicide in a blue barn/garage at the beginning of the dirt road. Late at night you can see three figures coming down the road and walk into the barn, but never come out.
+location: Dalzell
+state: South Carolina
+state_abbrev: SC
+longitude: -80.4300818
+latitude: 34.0168212
+city_longitude: -80.3414693
+city_latitude: 33.9204354
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2006/09/22
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

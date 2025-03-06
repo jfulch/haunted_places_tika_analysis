@@ -1,0 +1,21 @@
+city: Jefferson City
+country: United States
+description: Old deserted town which was the site of civil war battles and old Indian burial grounds. The most abnormal phenomenon is the old hanging tree where blacks were hung. If you drive to the old hanging tree and flash your high beams at the tree, a fog will roll in and kill your car. After the fog settles, a silhouette of a hung black man will appear.
+location: Jefferson Park
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.5380944
+latitude: 35.3978061
+city_longitude: -97.7906099
+city_latitude: 36.7205853
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: War
+witness_count: 0

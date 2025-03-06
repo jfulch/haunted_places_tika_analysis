@@ -1,0 +1,21 @@
+city: Auburn
+country: United States
+description: Many of the employees of the Fred Meyer in Auburn, WA, have experienced strange activities. They have heard boxes being thrown around while one employee was in the Apparel stock room, but no one else was there, and no mess was left behind. The stock room is connected to the shoe department, where people, employees and customers frequently have shoes thrown at them. While no one has seen an apparition, some events are too weird to be coincidental.
+location: Fred Meyer Shoe Department and Stock room
+state: Washington
+state_abbrev: WA
+longitude: -122.226381
+latitude: 47.3152985
+city_longitude: -122.2284532
+city_latitude: 47.30732279999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

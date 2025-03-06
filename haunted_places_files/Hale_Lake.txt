@@ -1,0 +1,21 @@
+city: Ruidoso Downs
+country: United States
+description: Eyewitnesses report many strange activities in Hale Lake Just outside of Ruidoso Downs. It is said that this is where a Settler, Indian dispute first took place. If you go there at night be sure to take friends. As you drive up the radio the heater and anything electrical will not work on your car. Be prepared to stay the night. If you drive down in the middle of the night the brakes on your car will not work. There is not a lake there, but rather a small pond. Many people have claimed to see faces in their campfires. Other reports include War Paint on their vehicles. Vehicles dieing in the middle of the night, and starting up in the morning with nothing apparently wrong with them. Illuminated Gates have been seen, as well as many reports of a man wearing all leather on horseback that many have thought they run over only to look back as the dust cleared to see him in their rearview mirror. The dreams that people have while camped there are probably the most interesting aspect of the whole place though.
+location: Hale Lake
+state: New Mexico
+state_abbrev: NM
+longitude: -105.3705358
+latitude: 32.8387112
+city_longitude: -105.6044291
+city_latitude: 33.3289733
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

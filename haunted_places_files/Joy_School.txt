@@ -1,0 +1,21 @@
+city: Joy
+country: United States
+description: The wife of a janitor died from injuries sustained by falling down the basement steps. Speculation says that she was pushed, but no one was ever charged for the crime. People have reported getting a strange feeling while in the basement. The school also has several boarded up rooms in the gym and an underground tunnel leading from the actual school building to the gym, full of ancient school equipment, several yards away. Creepy footsteps and strange laughter were often heard there in my school days. Several years ago the place was turned into a pre-school, an extension of the nearby Wynnewood school system.
+location: Joy School
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.3527789
+latitude: 35.49231049999999
+city_longitude: -97.141944
+city_latitude: 34.593611
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

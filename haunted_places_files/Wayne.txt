@@ -1,0 +1,21 @@
+city: St. Charles
+country: United States
+description: Munger Road. -  A haunted road were many car lights have been seen and then disappeared. Also old insane asylum which is haunted.  December Update 2003: the insane asylum has been knocked down. however, the rail road tracks are the big spot. rumors are that weird things happen on those tracks.
+location: Wayne
+state: Illinois
+state_abbrev: IL
+longitude: -88.242369
+latitude: 41.9508336
+city_longitude: -88.3086867
+city_latitude: 41.9141945
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

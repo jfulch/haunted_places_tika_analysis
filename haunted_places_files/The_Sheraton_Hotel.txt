@@ -1,0 +1,21 @@
+city: City of Industry
+country: United States
+description: Please do not attempt to trespass. Security guards that patrol the grounds in the late night hours have reported seeing two shadowy figures running through the golf course. Noises can be heard in the back end of these apartments where a wall separates the complex from the forest.
+location: The Sheraton Hotel
+state: California
+state_abbrev: CA
+longitude: -117.927074
+latitude: 34.020626
+city_longitude: -117.9586754
+city_latitude: 34.0197335
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

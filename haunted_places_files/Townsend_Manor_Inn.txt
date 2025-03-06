@@ -1,0 +1,21 @@
+city: Greenport
+country: United States
+description: Tapping on the window, scratching at the door, the lights flickered and turned off without us turning them off. - February 2004 update / additional info: Be careful not to confuse this haunted house with the Raynham Hall in Norfolk, England. There is a connection though; the Raynham Hall in Oyster Bay was named after the one in England. The Townsend family still holds ownership of Raynham Hall in Norfolk.
+location: Townsend Manor Inn
+state: New York
+state_abbrev: NY
+longitude: -72.3619647
+latitude: 41.1087767
+city_longitude: -72.3592501
+city_latitude: 41.1034326
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1625/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

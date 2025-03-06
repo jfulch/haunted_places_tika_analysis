@@ -1,0 +1,21 @@
+city: Greenville
+country: United States
+description: The fire station was discovered to have been built on an old cemetery. Strange happenings have been documented by firemen and civilians. The occurrences are blamed on a ghost named Mr. Griffen, as it was only part of a name readable on an old tomb stone found in the yard. There are numerous sightings and stories of strange events that several scared to sleep and some even refuse to work at the station all together.
+location: Fire Station #4
+state: Michigan
+state_abbrev: MI
+longitude: -82.8223847
+latitude: 34.67665849999999
+city_longitude: -85.2527987
+city_latitude: 43.1775314
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

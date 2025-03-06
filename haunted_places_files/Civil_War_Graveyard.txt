@@ -1,0 +1,19 @@
+city: Moonville
+country: United States
+description: If you are driving down Lawrence Road as you get into Moonville, you will see a path in the woods to your right that leads to a Civil War graveyard. If you walk through the graveyard at night, you can hear screams, drums playing, loud breathing, and other strange noises.
+location: Civil War Graveyard
+state: Ohio
+state_abbrev: OH
+longitude: -82.3244591
+latitude: 39.3061838
+city_longitude: -82.3224523
+city_latitude: 39.3072804
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1892/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

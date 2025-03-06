@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: The section of the prison (the castle section) this section is the original Lancaster county prison from the 1800's 1900's where the prisoners served life sentences and were chained to the wall. The old cells and chains are still there and are very creepy. Reports of whistling and whispering.
+location: Lancaster County Prison
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.2924592
+latitude: 40.04045430000001
+city_longitude: -76.3055144
+city_latitude: 40.0378755
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Stoneham
+country: United States
+description: There is a ghost of a little girl named Lucy. She died at the age of 8 in the 1800s. When Wiess farm's land spread to the high school there was a forest there and everyday Lucy used to play on this tree. one day her parents put a swing on the tree. She swung on that tree every single day. One day there was a storm, but Lucy still had to play on her tree. It was so windy that she fell off the swing and snapped her neck and died. Her parents buried her under her tree. After she was buried they were so devastated that they sold that land to Stoneham and they then built a school over the forest. Lucy's gravesite is approximately where the auditorium is. The Auditorium is now hunted by her. There have been many cases where people know that Lucy is present.
+location: Stoneham High School ( the auditorium)
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0893321
+latitude: 42.4722844
+city_longitude: -71.0999719
+city_latitude: 42.4802469
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/03/29
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

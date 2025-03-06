@@ -1,0 +1,19 @@
+city: Emmetsburg
+country: United States
+description: it sits alone and people have told stories on hearing noises but nothing there....that means there are ghosts!! it is located by the dough boy
+location: Fraley's mansion
+state: Maryland
+state_abbrev: MD
+city_longitude: -77.32693069999999
+city_latitude: 39.7045417
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 16.333333333333332
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

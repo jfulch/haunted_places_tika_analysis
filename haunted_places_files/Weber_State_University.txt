@@ -1,0 +1,21 @@
+city: Ogden
+country: United States
+description: Student Senate Room  - In 1993 a man pulled a .22 caliber handgun and opened fire. He was subsequently shot by a campus police officer. One witness performing first aid said the gunman bled heavily and when paramedics arrived, stopped breathing. Faint lights have been recorded in the room on a video camera by a local ghost hunting group.
+location: Weber State University
+state: Utah
+state_abbrev: UT
+longitude: -111.9418739
+latitude: 41.1924454
+city_longitude: -111.9738304
+city_latitude: 41.223
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1993/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 26m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

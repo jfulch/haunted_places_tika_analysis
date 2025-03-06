@@ -1,0 +1,21 @@
+city: Cloverdale
+country: United States
+description: Two girls where driving in he cemetery around midnight looking for one of the girls grandparents, the girl driving took the car and put the high beams on the tombstone they noticed there was a casket with a tarp over it waiting to be put in the ground it scared the girls so they turned the lights off so they wouldn't see the casket sitting on the ground, then the driver seen a kerosene lantern it looked like and seen an old man standing over the grave with a black cloak on he looked at the girls and the girls drove away cause they were frightened, but the other girl told the driver to drive back around and when they did he wasn't there.
+location: Cloverdale Cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -86.7938968
+latitude: 39.5147682
+city_longitude: -86.7938968
+city_latitude: 39.5147682
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

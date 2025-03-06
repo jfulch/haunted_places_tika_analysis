@@ -1,0 +1,21 @@
+city: Glenco
+country: United States
+description: The story states that a couple were engaged to be married. The night before the wedding, the man was out having a party with all his buddies at a local bar. The woman's family tradition was to hang the wedding dress in a window the night before the wedding, to let people know they were getting married. The house burnt down that night and killed the woman. You can drive by at night and still see the wedding dress hanging in the top window, but it is gone during the day. The house is on the left side of the road right before the street you turn on to go to Green Valley Speedway (which is on the right side of the road). Cross the railroad tracks and follow that road for about a mile. The house will be standing on the left side of the road. Pull onto the road in front of the house and look in the top left window.
+location: Hanging Wedding Dress
+state: Alabama
+state_abbrev: AL
+longitude: -86.80427399999999
+latitude: 33.5145066
+city_longitude: -85.93246979999999
+city_latitude: 33.957043
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

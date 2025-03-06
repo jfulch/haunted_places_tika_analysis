@@ -1,0 +1,21 @@
+city: Glenmont
+country: United States
+description: Haunted slave house - in the Henry Hudson park, there's a road that will take you to the park rite off of RT9w. if you turn onto that road and follow it down it will bring you to a trail that is marked off no trespassing! The trail is marked with 2 large lion statues. If you walk this trail there is said to be a slave house where the white settlers had dropped off the slaves when they came in from the river. The rumor behind this is that in the 1980's 4 kids went in to look 4 ghosts and they never came back, so 2 cops were sent in to look 4 them and only one came back out, the other was never seen again. Also sometimes you will see the lion statues eyes reflect light like if they were glass, but there cement. This whole area is said to be haunted.
+location: Henry Hudson park
+state: New York
+state_abbrev: NY
+longitude: -73.7613918
+latitude: 42.5454127
+city_longitude: -73.76989449999999
+city_latitude: 42.6052
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

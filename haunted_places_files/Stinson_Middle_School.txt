@@ -1,0 +1,21 @@
+city: Helotes
+country: United States
+description: It's known that during class that kids books will be taken away, lights will go out, or you will here screams. Happens all the time.
+location: Stinson Middle School
+state: Texas
+state_abbrev: TX
+longitude: -98.6502835
+latitude: 29.563636
+city_longitude: -98.6897451
+city_latitude: 29.5780056
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2023/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

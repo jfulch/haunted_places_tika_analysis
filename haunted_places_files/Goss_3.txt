@@ -1,0 +1,19 @@
+city: Taunton
+country: United States
+description: Goss is a very secure building. Five floors, including the basement. While alot of the buildings are abandoned or in repair, they still have plenty of buildings that are in use. One of those buildings is the Goss Building. Connected to the underground tunnels that were used to transport patients before it fell into disrepair, Goss houses two floors of DYS lock up, and on the third floor is an all girl adolensent unit. The fourth floor has been cleared out for many months. Anyway, in the east end halls, doors, which are always locked, are open when the person doing checks goes to check them. If you are in the west end, you tend to see people going into rooms on the east end. In one of the rooms on the west end, towards the window, you always see a man going into the last room on the right. Even though Goss 4 has been empty with no maintainance going up there, you hear furniture and footsteps moving about. You can hear loud voices, and banging too. They  tell the kids it's maintainance, but we know the truth.
+location: Goss 3
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.0897674
+city_latitude: 41.900101
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Tulsa
+country: United States
+description: Reports of the park being in habited by "little people, they are heard talking and moving around, never seen. Also reported, the Dear Lady, said to be half woman and half dear that stands on it's hind legs and is about 8 feet tall.
+location: Mohawk park
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.8933926
+latitude: 36.2211445
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Pittsburg
+country: United States
+description: In the Basement you get creepy feelings. The lights in the Auditorium will sway. Pentagrams will be scratched into the ten-foot tall ceiling. Things will fly across the room. You can see a ghost of a man with dark brown curly hair in a racecar uniform. You can also sometimes see soldiers.
+location: Lakeside School
+state: Kansas
+state_abbrev: KS
+longitude: -94.7108598
+latitude: 37.4019683
+city_longitude: -94.70496
+city_latitude: 37.410884
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

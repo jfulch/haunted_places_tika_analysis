@@ -1,0 +1,21 @@
+city: Lake Charles
+country: United States
+description: This is an old road that is on the outskirts of town. A railroad runs across the road, leading to the rice factories. The story is that a long time ago, in the 1950s, before there were railroad signs there, a family consisting of a mother, father, and two daughters went down that road. Despite the fact of the older girl protesting going down that road due to a bad feeling, the father drove down there anyways and the car got hit by an oncoming train. Reports of seeing orbs and the apparition of the older girl. When you drive down that road, you get a very strong, odd feeling of being suffocated.
+location: Old Railroad
+state: Louisiana
+state_abbrev: LA
+longitude: -93.2171307
+latitude: 30.2381691
+city_longitude: -93.2173758
+city_latitude: 30.2265949
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

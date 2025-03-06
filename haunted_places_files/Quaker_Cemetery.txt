@@ -1,0 +1,21 @@
+city: Newel
+country: United States
+description: Many people claim to have seen and heard ghosts here.
+location: Quaker Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.782102
+latitude: 40.0728467
+city_longitude: -79.8981032
+city_latitude: 40.0756287
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Arcata
+country: United States
+description: The original proprietor of the building (and several others nearby) is known to haunt the pub and periodically cause it to be known. Employees report moving furniture, dishes etc. during their shifts and the ghost is well known to established patrons.
+location: Humboldt Brewery
+state: California
+state_abbrev: CA
+longitude: -124.0871681
+latitude: 40.8702389
+city_longitude: -124.0828396
+city_latitude: 40.8665166
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

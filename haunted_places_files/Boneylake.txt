@@ -1,0 +1,21 @@
+city: Sumner
+country: United States
+description: In this old house has been reported that a women had birth with 5 children and they all died and so had she the same day reporting 6 orbs flying around and night reported about 10:00pm.
+location: Boneylake
+state: Washington
+state_abbrev: WA
+longitude: -122.1865055
+latitude: 47.1770457
+city_longitude: -122.2403966
+city_latitude: 47.2031566
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Frankford
+country: United States
+description: You drive down the road and go behind the grave yard to a brick wall and knock 3 times a evil thing that looks like a man and a cat will come out and start messing with your car when you try to start it the car will not turn over and you will see him walking around the graveyard looking for you.
+location: Catmans Grave Yard
+state: Delaware
+state_abbrev: DE
+longitude: -75.37669439999999
+latitude: 38.5631452
+city_longitude: -75.2349107
+city_latitude: 38.5173356
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

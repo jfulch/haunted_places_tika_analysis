@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: When traveling down this alley, you will be chased out by strange lights. You can also hear noises as if being hit by pounding hands on the tops of your car. -  July 2005 Update – The location of this alley is under scrutiny. If you have the absolute location please email us at Haunted Places.
+location: Jo Jo's Alley
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1416639
+latitude: 33.698716
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Lewistown
+country: United States
+description: 2nd Floor - Another continuous sighting involves an older black man who appears to be dressed in clothing from the late 1800s. He haunts the second floor and seems to stay near the front stairway. He is often heard screaming at the current owner’s dog to "shut up" and is generally unpleasant most of the time. The owner’s reside on the third floor and when they first moved in, were unaware of these presences and called the police on several occasions to someone wondering around in their building.
+location: Green Gables
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.5601563
+latitude: 40.586457
+city_longitude: -77.571382
+city_latitude: 40.5992395
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

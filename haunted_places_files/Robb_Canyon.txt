@@ -1,0 +1,21 @@
+city: Reno
+country: United States
+description: Years after 4 bodies of transients were unearthed in this canyon, just north of I80, ghost hunters from Oregon, Nevada and California have sought out this spot on fall moonless nights to see unexplained lights and occasional sounds of a murder. Since the murders were never solved, some people feel these ghosts are attempting to provide clues to the guilty.
+location: Robb Canyon
+state: Nevada
+state_abbrev: NV
+longitude: -119.8829269
+latitude: 39.5252004
+city_longitude: -119.8138027
+city_latitude: 39.5296329
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

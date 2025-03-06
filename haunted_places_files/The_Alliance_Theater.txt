@@ -1,0 +1,21 @@
+city: Alliance
+country: United States
+description: Believed to be haunted by a female ghost some call "Mary". Mary was an excellent actress, she performed every act with skill. But for one show it was curtain time for the last time. Mary was playing in a love story, she played as the bride. It was near a happy ending for the performance, or so they thought. She walked up to the stage when tragedy struck. One of the light fixtures fell on top of Mary. The angel of death has claimed a victim. She died of the immense weight and electric shock. To this day, after hours, he spirit roams the stage waiting for the applause of her fans. But sadly no one is there.
+location: The Alliance Theater
+state: Nebraska
+state_abbrev: NE
+longitude: -102.8711824
+latitude: 42.0985286
+city_longitude: -102.8702006
+city_latitude: 42.0930235
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

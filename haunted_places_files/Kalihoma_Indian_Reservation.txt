@@ -1,0 +1,21 @@
+city: Ada
+country: United States
+description: Around 1:00 or 2:00 o'clock at night a car with it's headlights will follow you after turning off of highway 48 to Kalihoma Indian Reservation road. Traveling west on this road heading towards highway 1, if you speed up, it will speed up, if you slow down, it will slow down. As you turn onto highway 1, the car will stop, and then turn back to Kalihoma Indian Reservation.
+location: Kalihoma Indian Reservation
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.660735
+latitude: 34.791718
+city_longitude: -96.6783449
+city_latitude: 34.774531
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: Colorado School for the Deaf and the Blind was built in 1874. Sometimes deaf people see ghosts in the dorm, gym, and basement (the most scary place). Hearing people hear strange noises from.
+location: Colorado School for the Deaf and the Blind
+state: Colorado
+state_abbrev: CO
+longitude: -104.804619
+latitude: 38.834379
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1874/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

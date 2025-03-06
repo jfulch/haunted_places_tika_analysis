@@ -1,0 +1,21 @@
+city: Tuscaloosa
+country: United States
+description: Confederate soldiers still roam the grounds.
+location: Maxwell Crossing
+state: Alabama
+state_abbrev: AL
+longitude: -87.5607653
+latitude: 33.0828466
+city_longitude: -87.56917349999999
+city_latitude: 33.2098407
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1861/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Berea
+country: United States
+description: Boone Tavern Hotel - Once a part of the under ground rail road. The basement had several rooms that were used use hide runaway slaves and for other purposes. Voices can sometimes be heard, and on more than one occasion a photograph of a young African American boy was taken. He appeared to be frightened and about 12 years of age. - March 2007 Correction: Construction on the Boone Tavern Hotel began in 1908, long after the Civil War and Railroad. Berea, Ky. as a city wasn't even established until after the Civil War, and during the war Berea College (which owns Boone Tavern) was only a normal school with two buildings. Also, Boone Tavern has no basement, only a sub-basement that houses an office and laundry. The sub-basement was dug out under the building in the 1940s.
+location: Berea College
+state: Kentucky
+state_abbrev: KY
+longitude: -84.2932355
+latitude: 37.5695232
+city_longitude: -84.2963223
+city_latitude: 37.568694
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1908/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Woodland Hills
+country: United States
+description: uneasy feelings in the ladies bathroom. also witnesses feel cold spots in there.
+location: Pizza Cookery
+state: California
+state_abbrev: CA
+longitude: -118.6072181
+latitude: 34.1831078
+city_longitude: -118.6089752
+city_latitude: 34.165357
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

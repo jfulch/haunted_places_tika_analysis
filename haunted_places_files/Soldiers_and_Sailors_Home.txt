@@ -1,0 +1,21 @@
+city: Normal
+country: United States
+description: Used to be where from what i understand, soldiers and sailors left children in times of war.. Though some of the buildings have been renovated for offices, the theatre and select buildings still remain...At night glowing yellow orbs can be seen in buildings. Overwhelming feelings of depression can be felt whilst driving by the old infirmary.. Also if you go into some of the buildings they have been left as they were then. A few years back some friends of mine went into the theatre.... They said that everything is still backstage.
+location: Soldiers and Sailor's Home
+state: Illinois
+state_abbrev: IL
+longitude: -88.9777297
+latitude: 40.5216769
+city_longitude: -88.9906312
+city_latitude: 40.5142026
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

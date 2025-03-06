@@ -1,0 +1,20 @@
+city: Plainfield
+country: United States
+description: A student who was considered to have limitless potential was murdered and now haunts the building. The word "intrinsic" has been written on many objects in the building, most notably the wood doors. It is not confirmed, but the legend states that this student used "intrinsic" as the basis for much of his poetry. Shortness of breath is often reported, and power outages are frequent. -  November 2003 update/correction: Plainfield has HUGE problems with mold in many of the rooms, which is why many students and faculty have problems with shortness of breath. One resident reports having never heard of the rumor that a student was murdered that had immense potential or about any of the weirdo things that supposedly happen there.
+location: Plainfield High School
+state: Connecticut
+state_abbrev: CT
+longitude: -71.9063661
+latitude: 41.7276524
+city_longitude: -71.91507299999999
+city_latitude: 41.6764876
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Kalamazoo
+country: United States
+description: This Area is bordered by three cemeteries. The Riverside Cemetery, The local Jewish Cemetery, and Mt. Olivet Catholic Cemetery. Residents of the area have talked about strange occurrences happening in houses in the area, including a young boy that could see ghosts, and in the same house, blood dripping from a kitchen cupboard.
+location: The South Riverview/Mt. Olivet area
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.5872286
+city_latitude: 42.2917069
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1851/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

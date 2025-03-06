@@ -1,0 +1,21 @@
+city: Canton
+country: United States
+description: It has been reported by a former facilities supervisor that an unknown object has chased employees out of certain areas of the university. Workers report that a large dark shadow chased them. Some employees never returned and others refused to work there alone. The University will not permit any investigating.
+location: St. Lawrence University
+state: New York
+state_abbrev: NY
+longitude: -75.1608814
+latitude: 44.5892119
+city_longitude: -75.1690942
+city_latitude: 44.5956163
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

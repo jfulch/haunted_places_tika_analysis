@@ -1,0 +1,21 @@
+city: Upper Darby
+country: United States
+description: the auditorium used to be where they held the coffins for funerals. the auditorium used to be a chapel, a student claimed to hear music playing at night and a silhouette of a person standing in front of the top floor window. the convent and rectory are also known to be haunted. a man hung himself in the convent and the music teacher died in the convent also. people say they hear the piano that she used to play when she was a live. the principal at the school said she heard someone calling her name when no one was around, the secretary tried to make a phone call but it said someone was using the the phone line, she went to check to see who was using the phone. she found out no one was using it. the girls' bathroom in the gym toilets flushes at times. the house near the rectory was the first house built by two brothers.
+location: Saint Alice
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.28009209999999
+latitude: 39.9667287
+city_longitude: -75.3076883
+city_latitude: 39.957902
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 1

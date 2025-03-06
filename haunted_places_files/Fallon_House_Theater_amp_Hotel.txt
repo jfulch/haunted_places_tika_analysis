@@ -1,0 +1,21 @@
+city: Columbia
+country: United States
+description: Years and years ago it burned down. They rebuilt it into replica of the old one. Now there has been many reports of noises, voices, overwhelming stench of smoke, in one room you can smell whiskey, and in room 9 and 13 a female ghost is seen quite often. In the theater lights go on and off, and shadows of people are seen.
+location: Fallon House Theater &amp; Hotel
+state: California
+state_abbrev: CA
+longitude: -120.4017504
+latitude: 38.0334598
+city_longitude: -120.4013061
+city_latitude: 38.0363119
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

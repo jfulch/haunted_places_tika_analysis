@@ -1,0 +1,20 @@
+city: Blacksburg
+country: United States
+description: Near Kings Mt. St. Park - "White Wolf Hollow"- Two things have happened there. The first is a Klan killing of a black man and his white wife. People have seen the girl in her white dress there. The second is the mysteriaus torching of a man's truck back in the 60's. The man was shot execution stile near the truck. The truck's headlights have been seen as it has driven the road.
+location: White Wolf Road
+state: South Carolina
+state_abbrev: SC
+longitude: -81.3473465
+latitude: 35.097764
+city_longitude: -81.51592459999999
+city_latitude: 35.1212408
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1975/05/03
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Many ghosts have been seen on the grounds of Comanche Park, aka Comanche Look-Out Hill. There have been sightings of old soldiers who were said to have been stationed there. And many people have also reported having seen the forms of Indians there. Another place that ties in with this area is Old Nacogdoches Road. Many people, usually driving down this road during the night hours, have claimed to see Indians, and soldiers walking along side the road. There is also a creek that intersects the road that has been said to be the host for many Indian apparition sightings.
+location: Old Nacogdoches Rd Comanche Park Tower
+state: Texas
+state_abbrev: TX
+longitude: -98.3677224
+latitude: 29.5842547
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

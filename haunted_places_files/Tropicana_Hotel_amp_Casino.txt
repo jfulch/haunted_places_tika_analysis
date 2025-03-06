@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: Over the years visitors to this hotel are greeted at the entrance by a large tiki mask face, and many people have reported getting a terrible purple rash after touching it. And when people take pictures in front of it they report seeing a strange purple hazy cloud of smoke in the picture after they developed the pictures.
+location: Tropicana Hotel &amp; Casino
+state: Nevada
+state_abbrev: NV
+longitude: -74.4453267
+latitude: 39.352442
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

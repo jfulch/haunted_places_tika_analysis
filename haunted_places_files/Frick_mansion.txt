@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: is haunted by Sarah Frick.
+location: Frick mansion
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9023718
+latitude: 40.4466602
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

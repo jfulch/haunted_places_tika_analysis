@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Building two, built next to one of the original Missions, may sit on Indian Burial Ground. Juveniles often wake in the middle of the night screaming about Indians in the room. Some describe burning smells and seeing fire. Detention Officers often smell smoke in Mod 9 and 10 on third shift. (Graveyard shift) Also officers report seeing "something run by the unit window" even though all detainees are locked in rooms. The ghost of a beloved female staff member that died in the cafeteria has also been seen in the windows of the new building late at night. Officers report sightings, then think they saw their own reflections, however, the reflection is clearly wearing a maroon shirt (The old uniform). Not a week goes by without a blood curdling scream from some poor kid in Mod 9. Responding staff report smelling smoke, burning wood, about 8 out of 10 times.
+location: Bexar County Juvenile Detention Center
+state: Texas
+state_abbrev: TX
+longitude: -98.4908441
+latitude: 29.394101
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

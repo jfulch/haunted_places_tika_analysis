@@ -1,0 +1,21 @@
+city: Lincoln Park
+country: United States
+description: Parts of these old streets has a lot of old (fashion) houses, and old hauntings. The activity has definitely calmed down a lot since the time they were first built. The houses were supposedly built on a old cemetery. Some of the houses would experience really strange things like lights going on and off, the doorbell ringing and no one being there, some people would start off thinking to be home alone, and wind up not. Even through all of this you don't see people moving in and out all of the time.
+location: Old Streets
+state: Michigan
+state_abbrev: MI
+longitude: -84.8690475
+latitude: 43.9372364
+city_longitude: -83.1785361
+city_latitude: 42.2505943
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

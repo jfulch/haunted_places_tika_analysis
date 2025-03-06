@@ -1,0 +1,21 @@
+city: Cape May
+country: United States
+description: a young woman seems to make her presence known every so often and an elderly gentleman who climbed in bed with a Psychic!
+location: The Sea Holly Inn
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.91608430000001
+latitude: 38.9319528
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1895/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

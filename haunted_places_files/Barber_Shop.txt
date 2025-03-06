@@ -1,0 +1,21 @@
+city: Silver Lake
+country: United States
+description: Man who was killed "accidentally" while getting a shave is still seen inside the shop.
+location: Barber Shop
+state: Kansas
+state_abbrev: KS
+longitude: -95.7639371
+latitude: 39.0450589
+city_longitude: -95.8585978
+city_latitude: 39.104166
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

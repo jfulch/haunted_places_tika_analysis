@@ -1,0 +1,21 @@
+city: Rockford
+country: United States
+description: it is said that in this house down the road a black man was shot in the basement and now the people that live in that house have seen a black shadow wander around their house during the night.
+location: Blackhawk
+state: Illinois
+state_abbrev: IL
+longitude: -89.04203299999999
+latitude: 42.1946344
+city_longitude: -89.0939952
+city_latitude: 42.2711311
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/07/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: White Oak
+country: United States
+description: There is an old school that was an all black school in the early 1900's. The school was burnt down by the KKK and several black kids died. There are remains of the school still standing and a historical marker in front of it. At night you can hear voices, cries and the air gets cold.
+location: Shilo School
+state: Texas
+state_abbrev: TX
+longitude: -94.8548036
+latitude: 32.5711171
+city_longitude: -94.8613258
+city_latitude: 32.5279235
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

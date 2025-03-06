@@ -1,0 +1,21 @@
+city: Anna
+country: United States
+description: On the second floor of the hospital there is a little boy who died in the 50's and when you go there in the night you see him. In the nursing home there are many people who were once residents there and every now and then you catch a glimpse of them.
+location: Union County Hospital&amp; Nursing home
+state: Illinois
+state_abbrev: IL
+longitude: -89.2461276
+latitude: 37.4649115
+city_longitude: -89.2470282
+city_latitude: 37.4603274
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1921/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

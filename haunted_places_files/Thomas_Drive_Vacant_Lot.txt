@@ -1,0 +1,18 @@
+city: Sumter
+country: United States
+description: Eyewitnesses have claimed to have seen 5 or 6 rag-tag black men doing various activities - from hoeing a long gone garden to silently joining in on New Year's Eve festivities. Dogs incessantly whining and barking at what appears to be an empty lot.
+location: Thomas Drive Vacant Lot
+state: South Carolina
+state_abbrev: SC
+city_longitude: -80.3414693
+city_latitude: 33.9204354
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

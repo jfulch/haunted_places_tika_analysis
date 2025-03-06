@@ -1,0 +1,21 @@
+city: Gatlinburg
+country: United States
+description: At 3:33a.m. a little girl will appear at the edge of the bed and watch the people sleep.
+location: Mount LeCounte
+state: Tennessee
+state_abbrev: TN
+longitude: -83.43682670000001
+latitude: 35.6542611
+city_longitude: -83.5101638
+city_latitude: 35.714259
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

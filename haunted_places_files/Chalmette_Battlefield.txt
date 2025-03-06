@@ -1,0 +1,21 @@
+city: Chalmette
+country: United States
+description: This is the battlefield where the Battle of New Orleans took place. People have said to seen ghost of the soldiers walking around as if they were at camp. There are also accounts of a "head less" ghost that walks the levee at night. The house on the premise "The Beaurgard House" served as an impromptu hospital for the American soldiers. Sounds of guns and cannons have also been heard.
+location: Chalmette Battlefield
+state: Louisiana
+state_abbrev: LA
+longitude: -89.99088019999999
+latitude: 29.9426282
+city_longitude: -89.9635162
+city_latitude: 29.942783
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

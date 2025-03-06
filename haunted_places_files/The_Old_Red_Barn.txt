@@ -1,0 +1,19 @@
+city: Hartsburg
+country: United States
+description: Near Hartsburg in a small wooded area is where cultists used to practice in an old barn. The barn has been burned down, but lights and apparitions can be seen, as well as strange noises can be heard.
+location: The Old Red Barn
+state: Illinois
+state_abbrev: IL
+city_longitude: -89.44093300000002
+city_latitude: 40.2508762
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1883/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

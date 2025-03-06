@@ -1,0 +1,21 @@
+city: Newport
+country: United States
+description: There is a path off of Castle Road that leads to part of a stone castle, which was never finished. The man who was building it was doing it for his wife. She died before he finished it and people have said that they've seen strange things and heard noises at night. Some think it's the ghost of the man, others the women, and some think it's both of them.
+location: Castle Road
+state: New York
+state_abbrev: NY
+longitude: -74.943887
+latitude: 43.1702568
+city_longitude: -75.03775019999999
+city_latitude: 43.1660488
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

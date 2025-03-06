@@ -1,0 +1,20 @@
+city: Englewood
+country: United States
+description: reports of glowing eyes with a great feeling to leave, at least the basement.
+location: formerly the Forney Transportation museum
+state: Colorado
+state_abbrev: CO
+longitude: -104.9706817
+latitude: 39.7777881
+city_longitude: -104.9877597
+city_latitude: 39.6477653
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

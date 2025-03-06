@@ -1,0 +1,21 @@
+city: Stockbridge
+country: United States
+description: There are railroad tracks right beside the school. A group of people was crossing the tracks and their car overheated. They just sat there because nothing was coming and they were waiting for their engine to cool down. Well, they started to hear the sounds of a train. They saw a train approaching and tried to get out of the car. Two of the five people made it out. The train rammed right into the car, blowing the car up and sending it flying into the woods right behind the school. You can see the remains of the burnt car in that patch of woods from the playground. Supposedly, on the night and around the night that the accident happened, you will see a hitchhiker. If you pick them up, they will sit with you and you will stall on the tracks. A 'train' will start coming at you. All of the sudden, the person will disappear and your car will start up and you will drift forward. But if you don't pick them up, you stall on the tracks and the 'train' comes at you and just goes right through you and your car.
+location: Stockbridge Elementary
+state: Georgia
+state_abbrev: GA
+longitude: -84.2311192
+latitude: 33.543043
+city_longitude: -84.23380929999999
+city_latitude: 33.5442781
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.466666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

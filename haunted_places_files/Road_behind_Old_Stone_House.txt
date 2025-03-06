@@ -1,0 +1,21 @@
+city: Slippery rock
+country: United States
+description: is on a road out behind the famous "Old Stone House" There is a story about a woman getting hit by a train and thrown into the nearby creek, drowning. It has been fabled that if you go out there in the dark, that she will appear looking for a ride. . A light has been seen on the straightaway. This is a pretty secluded section of wooded country road.
+location: Road behind Old Stone House
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0021076
+latitude: 41.0116234
+city_longitude: -80.0564468
+city_latitude: 41.0639506
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1776/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Lake Elmo
+country: United States
+description: Monastery at Demontreville - There is a ghostly monk dressed in a brown robe that runs out into the road just in front of the monastery between the hours of midnight and one o'clock a.m. This monk will run right out in front of your car and you think you are going to hit him. Then he will completely disappear in front of your eyes. He is described as being tall, thin and young, perhaps in his 20s or early 30s.
+location: Demontreville
+state: Minnesota
+state_abbrev: MN
+longitude: -92.9353934
+latitude: 45.02430589999999
+city_longitude: -92.8793768
+city_latitude: 44.9957998
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

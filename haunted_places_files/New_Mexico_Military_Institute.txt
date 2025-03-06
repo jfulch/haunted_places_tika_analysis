@@ -1,0 +1,21 @@
+city: Roswell
+country: United States
+description: The New Mexico Military Institute does not use the phonetic alphabet 'J' for Juliet for one of its troops for a very simple reason...it is believed to be cursed. Back in the 1800's when the school was still an all male military school in the frontier Juliet troop was on of the troops to go out and defend the school from Indians and other Wild West characters. After one such excursion, no one from the Juliet troop survived. A tower with a clock was built in their honor and the letter 'J' has not been used since. On some days when the sun is just right if you look up at the tower you can see faces in the rock of the boys who lost their lives looking back at you.
+location: New Mexico Military Institute
+state: New Mexico
+state_abbrev: NM
+longitude: -104.523154
+latitude: 33.4088123
+city_longitude: -104.5230242
+city_latitude: 33.3942655
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1562/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: War
+witness_count: 1

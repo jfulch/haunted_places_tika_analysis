@@ -1,0 +1,21 @@
+city: Cedar Rapids- Linn County
+country: United States
+description: At night when the janitors are working they hear things and footsteps and they feel things touching them and cold spots when no ones around.
+location: Mckinley Middle School
+state: Iowa
+state_abbrev: IA
+longitude: -91.654347
+latitude: 41.97961309999999
+city_longitude: -91.6656232
+city_latitude: 41.9778795
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1991/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

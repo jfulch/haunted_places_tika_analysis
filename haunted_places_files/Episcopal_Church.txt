@@ -1,0 +1,20 @@
+city: Woodbury
+country: United States
+description: The cemetery behind the church harbors an unwanting spirit that doesn't want people to enter the cemetery. It chased several students doing research for a paper out on Halloween night. It is a very strong spirit and projects a feeling of depression along with aggression.
+location: Episcopal Church
+state: Connecticut
+state_abbrev: CT
+longitude: -73.2081413
+latitude: 41.541017
+city_longitude: -73.2090025
+city_latitude: 41.5445404
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

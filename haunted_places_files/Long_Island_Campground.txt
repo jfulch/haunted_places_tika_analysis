@@ -1,0 +1,21 @@
+city: Lake George
+country: United States
+description: It is said that back in the early 60`s a young bride and her newly wed husband went to long island for their honeymoon. During their stay at the island the couple was said to have been brutally murdered in their sleep. It is said that their ghost's still inhabit the island. There have been numerous sightings of a woman in a white wedding dress wandering campsite's searching for her groom.
+location: Long Island Campground
+state: New York
+state_abbrev: NY
+longitude: -73.5781843
+latitude: 43.5804295
+city_longitude: -73.71234079999999
+city_latitude: 43.4261809
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

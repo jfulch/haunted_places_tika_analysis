@@ -1,0 +1,21 @@
+city: Miami
+country: United States
+description: Miami Senior High School is a school made since the 1800's and many people have been killed by gangs or by other things, and now the spirits of that people are haunting the place. One time there was a girl of about 15 years old, she went to the girl's bathroom. When she entered she saw another girl with blood in his face and a knife between her right shoulder and her arm. She was so scared that she had to go to a doctor for attendance. Another day a security camera captured a men with a graduation dress walking on the auditorium at 10:43 PM, when the security went to see if there was somebody there he hear a scream and he found a black spot on the floor. There are too many things that makes this place haunted that I would take hours to explain.
+location: Miami Senior High School
+state: Florida
+state_abbrev: FL
+longitude: -80.2359743
+latitude: 25.7711059
+city_longitude: -80.1917902
+city_latitude: 25.7616798
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1903/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

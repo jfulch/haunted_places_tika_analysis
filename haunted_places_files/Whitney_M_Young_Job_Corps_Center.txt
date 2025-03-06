@@ -1,0 +1,21 @@
+city: Simpsonville
+country: United States
+description: The old dormitory that is now being used as warehouse is haunted by a teenage girl who committed suicide in her room after being raped. Her boyfriend also committed suicide in the hallway. He hung himself and she slit her wrists.
+location: Whitney M. Young Job Corps Center
+state: Kentucky
+state_abbrev: KY
+longitude: -85.3762283
+latitude: 38.2157138
+city_longitude: -85.3552349
+city_latitude: 38.22257
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

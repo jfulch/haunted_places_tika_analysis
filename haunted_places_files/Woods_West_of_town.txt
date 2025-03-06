@@ -1,0 +1,20 @@
+city: Groton
+country: United States
+description: In the woods west of town, there is a hiking trail which winds through the woods. In these woods are numerous Indian dwellings, some still not excavated. Reports of feelings of being watched.
+location: Woods West of town
+state: Connecticut
+state_abbrev: CT
+longitude: -71.9869387
+latitude: 41.3702811
+city_longitude: -72.0790717
+city_latitude: 41.3497456
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

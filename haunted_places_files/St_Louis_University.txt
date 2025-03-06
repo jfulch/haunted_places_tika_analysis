@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: Old residence hall  - locked up now, but there is no electricity to it, yet every night a light shines. Electricians have tried to find a power source, and never have. - May 2004 Update: A graduate from SLU reports to have no recollection or any unused residence halls or buildings on campus. The post may either be outdated or just not true.
+location: St. Louis University
+state: Missouri
+state_abbrev: MO
+longitude: -90.2338232
+latitude: 38.6354598
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

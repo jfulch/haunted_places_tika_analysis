@@ -1,0 +1,19 @@
+city: Clinchco
+country: United States
+description: Located in a hollow in rural southwest Virginia. Locals claim that when the lone grave is visited at night, you can hear the faint sound of a baby's cry.
+location: Low Gap (Baby's Grave)
+state: Virginia
+state_abbrev: VA
+city_longitude: -82.3598688
+city_latitude: 37.1612189
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 0

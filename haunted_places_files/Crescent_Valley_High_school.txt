@@ -1,0 +1,21 @@
+city: Corvallis
+country: United States
+description: The costume room is haunted by a cold, un-welcoming presence. The costumes shift on their own and the ladder creeks as if someone were climbing it. The stage is also haunted. Strange drafts, uneasy feelings of an unknown presence, the curtains shift, and chairs move across the stage as if pushed.
+location: Crescent Valley High school
+state: Oregon
+state_abbrev: OR
+longitude: -123.263791
+latitude: 44.615625
+city_longitude: -123.2620435
+city_latitude: 44.5645659
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 20m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

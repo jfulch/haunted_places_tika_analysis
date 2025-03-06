@@ -1,0 +1,21 @@
+city: Evans Mills
+country: United States
+description: Two or three friendly ghosts who like to welcome new members in the middle of the night when they are alone. An old woman likes to mess with the TV to get your attention, while an older man like to look in on you from the vehicle bay from time to time.
+location: Ambulance Squad
+state: New York
+state_abbrev: NY
+longitude: -75.80997909999999
+latitude: 44.0896517
+city_longitude: -75.8071525
+city_latitude: 44.0881158
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

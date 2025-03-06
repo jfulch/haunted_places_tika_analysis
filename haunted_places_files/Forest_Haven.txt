@@ -1,0 +1,21 @@
+city: Prince George’s County
+country: United States
+description: An old shut down mental hospital and insane asylum, Multiple buildings, Its almost like a full neighborhood, but with institutes everywhere. Some buildings are still in use by the army, which is odd. Many things scattered throughout the buildings, Voices heard, tracks made on floor in water or something wet, dolls hanging from ceilings that are too high to reach. Dead animals, and a strange fog that sometimes you cant even see through until you are a few floors up in the buildings, various other scary things, a famous candy maker occupied this place, This is known due to the tombstone in a cemetery there that lists everyone’s name who died there.
+location: Forest Haven
+state: Maryland
+state_abbrev: MD
+longitude: -76.8875654
+latitude: 38.92253780000001
+city_longitude: -76.8720961
+city_latitude: 38.78492110000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1868/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Vallejo
+country: United States
+description: This started when a man was accidentally shot on Rancho on a Monday night.. Now every Monday Night people here gunshots and the man screaming and yelling for his life... Some times blood is found on driveways that no one knows where it came from.
+location: Rancho
+state: California
+state_abbrev: CA
+longitude: -122.2520734
+latitude: 38.1367589
+city_longitude: -122.2566367
+city_latitude: 38.1040864
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 0

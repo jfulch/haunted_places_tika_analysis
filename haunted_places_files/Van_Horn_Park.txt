@@ -1,0 +1,21 @@
+city: Springfield
+country: United States
+description: In the unused part of the park on the other side of Armory St. the water in the pond was much deeper. In the nineteen twenties two boys drown there. In the summer sometimes you can hear them laughing and splashing, even though nobody is in the water. Some say they have even seen the water move as though some one is swimming in it.
+location: Van Horn Park
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.590661
+latitude: 42.1262461
+city_longitude: -72.589811
+city_latitude: 42.1014831
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1916/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

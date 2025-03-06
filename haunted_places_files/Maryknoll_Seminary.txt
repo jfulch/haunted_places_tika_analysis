@@ -1,0 +1,21 @@
+city: Glen Ellyn
+country: United States
+description: Has been knocked down -It was said that this Maryknoll Seminary is haunted by the ghost of a dead monk who hung himself in the bell tower. The monastery is huge, with hundreds of rooms and no electricity turned on as the place is boarded up and the bell tower sealed off. Reports of fresh blood "bleeding" from the exterior of the bell tower and strange noises are not uncommon, and the place is still used as a secret gathering place for various cults and possibly Satanists, as there are satanic markings and words from ancient languages on some walls. Unfortunately, this seminary has been torn down so it can no longer be seen. There are subdivisions and houses going up in that area now.
+location: Maryknoll Seminary
+state: Illinois
+state_abbrev: IL
+longitude: -88.04923289999999
+latitude: 41.8564184
+city_longitude: -88.0670118
+city_latitude: 41.8775293
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

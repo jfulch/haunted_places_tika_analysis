@@ -1,0 +1,21 @@
+city: Jeffersonville
+country: United States
+description: Warehouses - Late night security have reports of radios turning on, while not plugged in. Boxes of paper have fallen within feet of security staff from as high as 10' (pushed off of a shelf).Supposed holding camp for Germans during WW II, occasionally one can hear German speaking in the warehouses.
+location: Census Bureau
+state: Indiana
+state_abbrev: IN
+longitude: -85.7325159
+latitude: 38.2866695
+city_longitude: -85.7371847
+city_latitude: 38.2775702
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.333333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

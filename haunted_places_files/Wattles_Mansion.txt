@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: There used to be a bus stop right in front of the property, but it had to be moved because there were many complaints of screaming, and mysterious sounds of horses galloping and whinnying all night long. An apparition of a woman has also been seen on the grounds at night.
+location: Wattles Mansion
+state: California
+state_abbrev: CA
+longitude: -118.3546641
+latitude: 34.1043106
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

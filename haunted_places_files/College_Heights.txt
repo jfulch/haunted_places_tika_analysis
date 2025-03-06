@@ -1,0 +1,21 @@
+city: Bellevue
+country: United States
+description: Housing Area(downtown) - a house in that area is known to be buried on a Indian burial ground. Reports of unexplained noises and events. Owner would wake up to see what’s to be a spirit looking at her then would disappear. Things would go crashing to the ground, when owner would be by her self in a different room. History books in fact show area is built near Indian burial sight.
+location: College Heights
+state: Nebraska
+state_abbrev: NE
+longitude: -95.8871644
+latitude: 41.1535715
+city_longitude: -95.9145568
+city_latitude: 41.1543623
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

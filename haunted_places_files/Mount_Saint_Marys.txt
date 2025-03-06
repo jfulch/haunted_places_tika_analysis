@@ -1,0 +1,21 @@
+city: Brentwood
+country: United States
+description: Carondelet dormitory - there are nuns seen walking and doors open mysteriously.
+location: Mount Saint Mary's
+state: California
+state_abbrev: CA
+longitude: -118.4823817
+latitude: 34.085238
+city_longitude: -121.6957863
+city_latitude: 37.931868
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1851/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

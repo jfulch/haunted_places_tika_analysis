@@ -1,0 +1,21 @@
+city: Marcy
+country: United States
+description: The Field - Late at night you can hear a girl screaming from the field in back of the Marcy Elementary School. You can also hear eerie music coming from the field, but if you get closer it will stop, and if you go back it will start again.
+location: Marcy Elementary
+state: New York
+state_abbrev: NY
+longitude: -75.2606338
+latitude: 43.1379936
+city_longitude: -75.2915564
+city_latitude: 43.1706253
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

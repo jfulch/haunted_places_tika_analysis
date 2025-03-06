@@ -1,0 +1,20 @@
+city: Minneapolis
+country: United States
+description: apparition of a blonde woman with a green jacket that has been seen quite often. The staff has seen her on a number of occasions and one poor women has seen her hanging in the 5th stall of the women's bathroom. The DJs have heard strange sounds coming from their headsets and people have been said to see dancing apparitions with no legs.
+location: First Ave. night club
+state: Minnesota
+state_abbrev: MN
+longitude: -93.276081
+latitude: 44.978266
+city_longitude: -93.2650108
+city_latitude: 44.977753
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Macon
+country: United States
+description: Boone Dormitory - On the top floor, one room is locked. The window has been covered so you cannot see into the room.  A young girl committed suicide for some reason.  Some pages to her journal were found.  But its cold up there and sometimes you can see a hanging apparition from outside in the center balcony.
+location: Mercer University
+state: Georgia
+state_abbrev: GA
+longitude: -83.6497765
+latitude: 32.8288194
+city_longitude: -83.6324022
+city_latitude: 32.8406946
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

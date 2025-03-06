@@ -1,0 +1,21 @@
+city: Newnan
+country: United States
+description: Northgate High school was built on the land that was once a plantation. One of the slaves killed his master while he was eating breakfast. Some say that you can smell breakfast like eggs and bacon. Some also say you can here noises in the late evening.
+location: Northgate high school
+state: Georgia
+state_abbrev: GA
+longitude: -84.66599959999999
+latitude: 33.4682004
+city_longitude: -84.79965729999999
+city_latitude: 33.3806716
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

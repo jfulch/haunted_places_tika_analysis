@@ -1,0 +1,20 @@
+city: Columbia
+country: United States
+description: Haunted by a young girl who hitchhikes and asks her benefactor who picks her up to take her to her home and disappears in the car on the way there.
+location: The Congaree River Bridge
+state: South Carolina
+state_abbrev: SC
+longitude: -81.05148179999999
+latitude: 33.9957098
+city_longitude: -81.0348144
+city_latitude: 34.0007104
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

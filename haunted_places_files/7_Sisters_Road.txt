@@ -1,0 +1,19 @@
+city: Nebraska City
+country: United States
+description: Legend is a man hung each one of his sisters on each of the 7 hills. Only about 3 or 4 good hills remain, but there are a lot of strange happenings at night. Cars will stall, headlights will shut off, and screaming can be heard. Also many OLD ghost buildings still exist. The Camp Creek Cemetery is also well know for being haunted. Located in same area, about 3 miles South of Nebraska City.
+location: 7 Sisters Road
+state: Nebraska
+state_abbrev: NE
+city_longitude: -95.8593616
+city_latitude: 40.6765745
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

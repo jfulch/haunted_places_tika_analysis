@@ -1,0 +1,19 @@
+city: St. Cloud
+country: United States
+description: This old cannery was used during W.W.II. The building was burned down a number of years ago and sat empty for quite some time. Recently, a group of school kids started restoring it into a museum. Strange noises and sightings have been reported.
+location: The Old Cannery
+state: Florida
+state_abbrev: FL
+city_longitude: -81.2811801
+city_latitude: 28.2489016
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 1

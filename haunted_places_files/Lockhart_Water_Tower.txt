@@ -1,0 +1,20 @@
+city: Lockhart
+country: United States
+description: This is the legendary story of the lady in white who jumped off the tower in the early 1900's.  It has been said and seen that a woman wearing a white dress with a rose in her mouth stands and guards the water tower.  She has been known to come out only at 12:00 midnight to show off her lovely white dress and to dance around the tower.
+location: Lockhart Water Tower
+state: South Carolina
+state_abbrev: SC
+longitude: -81.4678823
+latitude: 34.7959708
+city_longitude: -81.46204019999999
+city_latitude: 34.7865238
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

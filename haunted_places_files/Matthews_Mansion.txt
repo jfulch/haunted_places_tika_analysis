@@ -1,0 +1,19 @@
+city: Ellettsville
+country: United States
+description: strange noises, smells. Things being thrown. Supposedly there are people in between the walls.
+location: Matthews Mansion
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.6250008
+city_latitude: 39.2339348
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

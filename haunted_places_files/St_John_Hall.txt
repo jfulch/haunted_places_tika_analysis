@@ -1,0 +1,21 @@
+city: Fresno
+country: United States
+description: The basement is haunted By A Nun, who appears a numerous of times.
+location: St. John Hall
+state: California
+state_abbrev: CA
+longitude: -119.783098
+latitude: 36.741181
+city_longitude: -119.7725868
+city_latitude: 36.7468422
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

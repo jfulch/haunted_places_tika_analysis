@@ -1,0 +1,21 @@
+city: Monrovia
+country: United States
+description: janitors and teachers have said that during the night in the second floor of the main hallway you always feel like your being watched and it sounds like someone is sneaking up behind when you are alone.
+location: Monrovia high school
+state: California
+state_abbrev: CA
+longitude: -118.0169951
+latitude: 34.1461408
+city_longitude: -118.0019482
+city_latitude: 34.1442616
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1926/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

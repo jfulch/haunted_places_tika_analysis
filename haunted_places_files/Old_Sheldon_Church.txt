@@ -1,0 +1,20 @@
+city: Sheldon
+country: United States
+description: There was a woman seen dressed in a simple brown dress dated in the Pilgrim era. She stands near a grave of an infant who died. A feeling of sorrow over comes some people.
+location: Old Sheldon Church
+state: South Carolina
+state_abbrev: SC
+longitude: -80.7804393
+latitude: 32.6185261
+city_longitude: -80.79316209999999
+city_latitude: 32.6015723
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

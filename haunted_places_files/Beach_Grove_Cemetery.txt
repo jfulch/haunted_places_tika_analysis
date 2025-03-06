@@ -1,0 +1,20 @@
+city: Corning
+country: United States
+description: Reports of glowing tombstones and bells in the tower are heard - there are no bells in the tower.
+location: Beach Grove Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -85.4059077
+latitude: 40.18589
+city_longitude: -82.0881995
+city_latitude: 39.6025696
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Hamilton
+country: United States
+description: Lockers that have been locked are found open, the scorer's buzzer in the gymnasium buzzes for no reason, lights go out by themselves even in good weather, and on one occasion a stack of papers was blown off a desk when there were no windows open or fans on.
+location: McCorristin Catholic High School
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.7184135
+latitude: 40.2174924
+city_longitude: -74.6796651
+city_latitude: 40.2115109
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

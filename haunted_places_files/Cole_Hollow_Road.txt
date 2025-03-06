@@ -1,0 +1,21 @@
+city: East Peoria
+country: United States
+description: Cole Hollow Road was the site of "Cohomo" (Cole Hollow Road Monster) in the 60's. There were tons of sightings of this monster back then, but there has not been any sitings since then, but strange phenomena such as rocks flying out of nowhere at your car and lights in the woods have been seen.
+location: Cole Hollow Road
+state: Illinois
+state_abbrev: IL
+longitude: -89.56970539999999
+latitude: 40.6157114
+city_longitude: -89.5800978
+city_latitude: 40.666149
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

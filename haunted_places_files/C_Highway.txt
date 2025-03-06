@@ -1,0 +1,20 @@
+city: Plattsburg
+country: United States
+description: This highway is haunted by the ghost of a young boy on crutches. He appears in front of a car, passes through it, then disappears. A ranch house nearby has also had numerous paranormal occurrences such as books flying off shelves and doors opening and slamming.
+location: C Highway
+state: Missouri
+state_abbrev: MO
+longitude: -94.4233999
+latitude: 39.5210683
+city_longitude: -94.4480059
+city_latitude: 39.5655549
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

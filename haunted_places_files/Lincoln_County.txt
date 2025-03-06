@@ -1,0 +1,21 @@
+city: Lincolnton
+country: United States
+description: Boger City - Strange noises coming from the woods behind an old church.
+location: Lincoln County
+state: North Carolina
+state_abbrev: NC
+longitude: -81.2545251
+latitude: 35.473745
+city_longitude: -81.2545251
+city_latitude: 35.473745
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1986/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

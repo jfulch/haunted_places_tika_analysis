@@ -1,0 +1,19 @@
+city: Wilmington
+country: United States
+description: It is said that the upper levels of this old Du Pont home are off limits because of "mysterious occurrences". Chairs being placed in strange formations in dinning rooms when few are in the building. Laughter, screaming, and lights flickering even after the wiring was redone.
+location: Bellevue Mansion
+state: Delaware
+state_abbrev: DE
+longitude: -75.4950243
+latitude: 39.7757957
+city_longitude: -75.5397878
+city_latitude: 39.7390721
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

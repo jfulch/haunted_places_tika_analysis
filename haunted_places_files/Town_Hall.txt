@@ -1,0 +1,21 @@
+city: Tolono
+country: United States
+description: In the basement of the town hall of Tolono, the old owner is said to have committed suicide by slashing his wrists. Witnesses have said that they have seen dark figures walking up and down the steps leading from the main floor to the basement. A group of people once decided to investigate this situation. They left at 7:00 P.M. with 6 people and returned the next day at 9:00 P.M. with only 5 people. When questioned about their experience, they all said that they will "Never go back to that place, and pity anyone who is foolish enough to do so."
+location: Town Hall
+state: Illinois
+state_abbrev: IL
+longitude: -88.2695514
+latitude: 39.98398220000001
+city_longitude: -88.2589387
+city_latitude: 39.9861415
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

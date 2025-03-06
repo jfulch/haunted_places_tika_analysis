@@ -1,0 +1,20 @@
+city: Hilliard
+country: United States
+description: This department store used to be a Big Bear Food Store. A man supposedly killed himself in the store room. It has since been turned into Odd Lots. Employees have claimed that at night when closing, the door will come open when it is locked and strange footsteps can be heard in the store room. There have been reports of cold chills and the ghost actually running through people. Toys have even been known to be off the shelves when opening in the morning.
+location: The Odd Lots Department Store
+state: Ohio
+state_abbrev: OH
+longitude: -83.15179239999999
+latitude: 40.00233619999999
+city_longitude: -83.1582451
+city_latitude: 40.0333961
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

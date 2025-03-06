@@ -1,0 +1,20 @@
+city: Parkville
+country: United States
+description: The Jenkin and Barbara David Theater -  on the Park University campus is haunted by the ghost of Jenkin David. He mostly appears two young girls in the stairwells and hallways, dressed in a gray suit.
+location: Park University
+state: Missouri
+state_abbrev: MO
+longitude: -94.6752707
+latitude: 39.1923383
+city_longitude: -94.6821806
+city_latitude: 39.1950029
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1953/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

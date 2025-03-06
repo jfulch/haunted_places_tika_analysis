@@ -1,0 +1,21 @@
+city: Appleton
+country: United States
+description: It is said by the owners of the club that there is footsteps upstairs constantly being heard. It is also believed that it is the ghost of an old customer. Chairs and glasses have also been known to be knocked over in the pub.
+location: Appleton Curling Club
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.46161289999999
+latitude: 44.26351529999999
+city_longitude: -88.41538469999999
+city_latitude: 44.2619309
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: It is said that the cemetery next to Stinson Municipal Airport (formerly Stinson Field) is haunted by blue lights over certain graves at night, which are in fact visible from the road when you're driving by. One of the old hangars at the Airport itself is also haunted, presumably by a man who was killed while starting his plane... though it's a condemned hangar used for long term storage only. Both of these, interestingly enough, are on the way to the Ghost Tracks of Shane and Villamin roads..
+location: Stinson Field Cemetery and the Stinson Field ghost
+state: Texas
+state_abbrev: TX
+longitude: -98.468016
+latitude: 29.33893789999999
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

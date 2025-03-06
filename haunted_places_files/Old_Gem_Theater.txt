@@ -1,0 +1,19 @@
+city: Athena
+country: United States
+description: Second story of theater is now used as a home and the first floor is the abandoned theater. Reports of hearing foot steps in the hallways, doorknobs turning when there is no one on the other side. A whitish figure wonders about the theater seats.
+location: Old Gem Theater
+state: Oregon
+state_abbrev: OR
+city_longitude: -118.4905251
+city_latitude: 45.8117992
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

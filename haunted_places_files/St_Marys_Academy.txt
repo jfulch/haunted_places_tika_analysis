@@ -1,0 +1,20 @@
+city: Englewood
+country: United States
+description: The students have seen strange lights in the theater and have felt un-naturally cold in the tunnels.
+location: St. Mary's Academy
+state: Colorado
+state_abbrev: CO
+longitude: -104.961009
+latitude: 39.634062
+city_longitude: -104.9877597
+city_latitude: 39.6477653
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

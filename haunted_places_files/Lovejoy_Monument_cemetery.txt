@@ -1,0 +1,21 @@
+city: Alton
+country: United States
+description: In the cemetery is buried a little girl that died suddenly from a mysterious illness and she walks around the cemetery and darts behind the gravestones like she is playing hide and seek. You can also see the ghost of Elijah P. Lovejoy walking around his monument. If you go into the cemetery at night you will constantly walk into chill spots and it could be 90 degrees out.
+location: Lovejoy Monument cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -90.1661782
+latitude: 38.8906615
+city_longitude: -90.1842764
+city_latitude: 38.8906038
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1802/11/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

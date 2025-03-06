@@ -1,0 +1,21 @@
+city: Ferndale
+country: United States
+description: The ghost that haunts Hart Theatre is called Bertha and is often seen late at night. One report claims she takes the form of a phantom cat who strolls down the aisles during performances. Bertha also performs other tricks such as locking the bathroom door from the inside and answering the phone at night when no one is there.
+location: The Hart Theatre
+state: California
+state_abbrev: CA
+longitude: -124.2637555
+latitude: 40.5769861
+city_longitude: -124.2639441
+city_latitude: 40.5762406
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1843/06/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

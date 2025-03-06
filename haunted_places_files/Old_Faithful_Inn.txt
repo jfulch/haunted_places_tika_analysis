@@ -1,0 +1,20 @@
+city: Yellowstone National Park
+country: United States
+description: The hotel is about 95 years old. Various apparitions including a man in a big black hat and a bride that was beheaded on her wedding night by her new husband. There was also an incident where two guests woke in the middle of the night in a steamy hot room with their night clothes completely removed and folded neatly at the foot of their bed. The radiator in their room was stone-cold.
+location: Old Faithful Inn
+state: Wyoming
+state_abbrev: WY
+longitude: -110.8312135
+latitude: 44.4599231
+city_longitude: -110.588455
+city_latitude: 44.427963
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

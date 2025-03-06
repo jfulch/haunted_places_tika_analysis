@@ -1,0 +1,20 @@
+city: Fort Thompson
+country: United States
+description: Apparitions of priests and nuns are seen in the halls.
+location: Crow Creek High School
+state: South Dakota
+state_abbrev: SD
+longitude: -99.3274
+latitude: 44.0658
+city_longitude: -99.4378846
+city_latitude: 44.068601
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

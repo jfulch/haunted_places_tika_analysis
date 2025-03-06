@@ -1,0 +1,21 @@
+city: Pocatello
+country: United States
+description: The Idaho Ghost Hunters say that Ammon Park is haunted by a young girl in a blue dress that swings on the swings late at night.
+location: Ammon Park
+state: Idaho
+state_abbrev: ID
+longitude: -112.4307986
+latitude: 42.8832072
+city_longitude: -112.4455344
+city_latitude: 42.8713032
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Galesburg
+country: United States
+description: Returning from a study group one night, a beautiful coed was bludgeoned with a brick, and left to die on the steps of her dorm. Some say late in the evening, one can smell the essence of perfume in the stairwell, as if the coed keeps a vigil of protection over this dorm.
+location: Knox College
+state: Illinois
+state_abbrev: IL
+longitude: -90.3718673
+latitude: 40.9418892
+city_longitude: -90.3712395
+city_latitude: 40.94781580000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Lewis County
+country: United States
+description: A small cemetery in the middle of nowhere, when entering the cemetery a light in the church will turn on, and if you walk through the center of it, you will be followed by something. the footsteps get louder and faster but don’t run, if you run and you are caught, legend has it that you will never escape the East Fork Cemetery.....
+location: East Fork Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -88.81939729999999
+latitude: 37.8927414
+city_longitude: -83.3789389
+city_latitude: 38.5079686
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1937/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 0

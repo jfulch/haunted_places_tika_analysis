@@ -1,0 +1,21 @@
+city: Clarksburg
+country: United States
+description: This is an old abandoned church that is surrounded by a cemetery. You can still go inside the church, it is not locked. If you go inside at night, you can see a person sitting on the piano stool, and hear them begin to play the very LOW notes on the piano. Also, you can see someone standing in the corner wearing a black cloak, and covering his or her face. You can hear the wood floor creaking as if someone is walking toward you, if you have the courage to STAY that long. As you start to leave you can hear the sounds of "things" running through the woods, leaves rustling, sticks breaking, etc. And you have the feeling of being "watched" the whole time you are there.
+location: Palestine Church
+state: Tennessee
+state_abbrev: TN
+longitude: -88.47832509999999
+latitude: 35.8577112
+city_longitude: -88.3931039
+city_latitude: 35.8717309
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

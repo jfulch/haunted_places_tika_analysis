@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: Its the oldest building in the city, and is so haunted that employees are warned that if they talk about the ghosts to anyone, they will be fired. At random times, you can hear footsteps on the wooden floors on both levels, music from an old scratchy record and you can smell vanilla and old flowers in certain areas. It's open to the public and is across the street from the LPAC.
+location: The Lancaster Hotel
+state: California
+state_abbrev: CA
+longitude: -118.1352675
+latitude: 34.6852268
+city_longitude: -118.1541632
+city_latitude: 34.6867846
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

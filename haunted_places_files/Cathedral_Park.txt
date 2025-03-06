@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: In the summer of 1949, 15 year-old Thelma Taylor was murdered under the St. Johns Bridge, also known as Cathedral Park.  In the present day, disembodied screams can be heard late at night during the summer, and the police have been dispatched numerous times to the area without finding any evidence of foul play.
+location: Cathedral Park
+state: Oregon
+state_abbrev: OR
+longitude: -122.7624777
+latitude: 45.58749
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1933/12/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Oragneville
+country: United States
+description: A slave owner from the 1800's beat one of his slaves to death with a logging chain. The wife of the slave had a local shaman put a curse on the slave owner. The curse was that he would bear the reminder of his murder for eternity. After he was buried, a chain appeared on his tombstone, and every year another link is added. It is located at a church called Bonds Chapel which still holds services. It is actually about five miles south (as the crow flies) from Huron.
+location: Chain grave
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.5602614
+city_latitude: 38.6235601
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

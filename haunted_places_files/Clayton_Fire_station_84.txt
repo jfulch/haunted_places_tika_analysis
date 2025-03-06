@@ -1,0 +1,20 @@
+city: Clayton
+country: United States
+description: There have been sightings of a little boy running up and down the main hall of the fire station. Noises have also been heard in the main bay at Night when only one person is on duty. Upon investigation of the noises, bolts and tools are found lying out. Doors have also been reported opening and closing.
+location: Clayton Fire station 84
+state: Ohio
+state_abbrev: OH
+longitude: -84.3490399
+latitude: 39.8617778
+city_longitude: -84.3605022
+city_latitude: 39.8631101
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

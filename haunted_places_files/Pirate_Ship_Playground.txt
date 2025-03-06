@@ -1,0 +1,21 @@
+city: Morro Bay
+country: United States
+description: Reports of two boys playing on the pirate ship in the playground late at night.
+location: Pirate Ship Playground
+state: California
+state_abbrev: CA
+longitude: -120.8514641
+latitude: 35.3595268
+city_longitude: -120.8499924
+city_latitude: 35.3659445
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

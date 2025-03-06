@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Main Administration Building -  built in 1922, has cold spots and reports of a student's radio dial (non-digital) begin scanning through stations on its own. This same admin building's top (4th) floor was once used as a quarantine for victims of tuberculosis and has seen its share of deaths, which might account for the activity. Additionally, on the 3rd floor of the Admin building, a 5-year-old boy chasing a bouncing ball has been spotted regularly.
+location: University of the Incarnate Word
+state: Texas
+state_abbrev: TX
+longitude: -98.4676217
+latitude: 29.4675939
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1922/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

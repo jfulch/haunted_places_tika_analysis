@@ -1,0 +1,21 @@
+city: Fredericksburg
+country: United States
+description: The apparition of a white lady walks a path on these grounds that has become known as Ghost Walk. Chatham was built in 1771 by William Fitzhugh. He named it after a close friend, William Pitt, the Earl of Chatham. Another English friend of Fitzhugh brought his daughter to live at Chatham in an effort to break up her romance with a commoner. But the man followed her to America, and the two planned to elope from Chatham Manor. He gave her a rope ladder and waited in a small boat in a nearby river. Unfortunately, none other than George Washington, another close friend of Fitzhugh, was staying there at the same time. He learned of their plans from a maid and had his men arrest the suitor. The girl returned to England with her father and later married. But she vowed to return to Chatham Manor to look for her lover. Her ghost was first sighted there on the day she died, June 21, 1790, and returns every seven years on the anniversary of her death to wander along the path to the river, looking for her lost love.
+location: Chatham Manor
+state: Virginia
+state_abbrev: VA
+longitude: -77.455303
+latitude: 38.3087423
+city_longitude: -77.4605399
+city_latitude: 38.3031837
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1790/06/21
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: There is an urban legend of an elderly church-going woman who was murdered by being pushed from a steep staircase, and whose body was later disposed of in the nearby dumpster. It is said that when young girls use the bathroom near the staircase, you can hear her praying. Hail Mary...
+location: CCS Elementary School
+state: California
+state_abbrev: CA
+longitude: -122.4348465
+latitude: 37.7271611
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

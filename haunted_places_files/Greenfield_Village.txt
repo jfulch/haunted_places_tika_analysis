@@ -1,0 +1,21 @@
+city: Dearborn
+country: United States
+description: haunted by many ghosts in most of the homes, the most active are in Firestone Farm, and Webster home. A man committed suicide in the barn at the farm, and Webster is just unhappy.
+location: Greenfield Village
+state: Michigan
+state_abbrev: MI
+longitude: -83.2246496
+latitude: 42.3053156
+city_longitude: -83.17631449999999
+city_latitude: 42.3222599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1989/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

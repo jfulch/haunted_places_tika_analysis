@@ -1,0 +1,19 @@
+city: Plainview
+country: United States
+description: The hotel has been closed down for years, but the place is said to be haunted. Several rooms still have the curtains hanging in the windows that have been seen moving even though no one is in the building. There is also a rumor that the place was broken into by Satanists. They were said to have called forth demons, which are now trapped there. There is even a story about Room 529. It is said to have an open Bible lying in the floor. If you enter the room, the air suddenly turns icy and the pages in the Bible begin to turn.
+location: Old Hilton Hotel
+state: Texas
+state_abbrev: TX
+city_longitude: -101.7068417
+city_latitude: 34.1847936
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.516666666666667
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Mission
+country: United States
+description: This is located on a stretch of gravel road 1 mile north of Mission, This dirt road is believed to be haunted by the spirits of dead Indian women and children who were running for their lives and were slain by pioneers. To this day, it is said that you can see the ghosts and hear their screams and warnings.
+location: "Rock Hill"
+state: South Dakota
+state_abbrev: SD
+longitude: -96.6765314
+latitude: 43.5054845
+city_longitude: -100.6581944
+city_latitude: 43.3058368
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

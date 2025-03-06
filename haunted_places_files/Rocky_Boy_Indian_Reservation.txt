@@ -1,0 +1,21 @@
+city: Rocky Boy
+country: United States
+description: This place contains many occurrences that cannot be explained. There have been numerous reports of ghost hauntings, UFO's, and even Bigfoot. But really strikes me is report of "little people." They are often seen at night all over the reservation, but mainly around the Haystack area.
+location: Rocky Boy Indian Reservation
+state: Montana
+state_abbrev: MT
+longitude: -109.8007576
+latitude: 48.2502654
+city_longitude: -109.8007576
+city_latitude: 48.2502654
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 18m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

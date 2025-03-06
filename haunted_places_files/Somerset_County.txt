@@ -1,0 +1,21 @@
+city: Shanksville
+country: United States
+description: Crash Site of United Flight 93 -  **WARNING - APPROACHING THE CRASH SITE IS NOT ADVISED. GUARDS WILL MAKE YOU TURN AROUND AND GO HOME IMMEDIATELY. GENERALLY, TRESPASSING IS ADVISED AGAINST. BE RESPECTFUL. ** -  Night security guards at the crash sight have reported unexplainable things throughout their night watch there, including what sounds like a large group of people walking and talking. Almost every night, the door to their security trailer was knocked on. They would open the door to find no one there. Recent photos taken at a small memorial set up there revealed SEVERAL orbs. One of the guards heard a man's voice in the cab of his truck ask, "So What now?" This was reported on by Johnstown, PA's news station WJAC.
+location: Somerset County
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.9072458
+latitude: 40.0178571
+city_longitude: -78.9072458
+city_latitude: 40.0178571
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/10/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

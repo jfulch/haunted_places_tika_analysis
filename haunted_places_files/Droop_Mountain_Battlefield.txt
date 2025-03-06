@@ -1,0 +1,21 @@
+city: Pocahontas County
+country: United States
+description: In the battlefield is a replica cannon of the ones they used in battle. On certain nights, sitting on the barrel of the cannon, is a soldier smoking a cigarette.
+location: Droop Mountain Battlefield
+state: West Virginia
+state_abbrev: WV
+longitude: -80.2724928
+latitude: 38.1115838
+city_longitude: -80.0087746
+city_latitude: 38.3101706
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1942/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Elbert County/Bowman
+country: United States
+description: Drums are heard at night coming from deep within the woods. At midnight a banging sound is heard. A ghost with a cape and long, broad hat floats out in the cattle field on late summer nights.
+location: Woods on Ginn Street
+state: Georgia
+state_abbrev: GA
+city_longitude: -83.0307002
+city_latitude: 34.2048295
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1905/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

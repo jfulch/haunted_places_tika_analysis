@@ -1,0 +1,21 @@
+city: DeQueen
+country: United States
+description: If you drop a rock in the well at the middle of the cemetery at night, you can hear a baby cry. It has been said that you can even see and hear the baby’s mother running through the graveyard, near the old burned down church. The story is told of a woman who was near the well drawing out water, before it was a graveyard. She sat the child on the edge of the well, and the baby fell in and drowned.
+location: Avon Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -94.3232846
+latitude: 34.085894
+city_longitude: -94.3413168
+city_latitude: 34.0378916
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1780/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

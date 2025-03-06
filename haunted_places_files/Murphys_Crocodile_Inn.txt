@@ -1,0 +1,21 @@
+city: Neshanic Station
+country: United States
+description: Built in the 1880's, the Crocodile Inn has been subject to many ghostly activities. Lights turn on and off regularly and a dark shadowy figure is often seen in the basement. The inn is located at 102 Woodfern Rd., Neshanic Station by the post office and colorful train station
+location: Murphy's Crocodile Inn
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.7290361
+latitude: 40.507095
+city_longitude: -74.7296815
+city_latitude: 40.5083341
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

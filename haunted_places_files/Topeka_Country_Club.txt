@@ -1,0 +1,21 @@
+city: Topeka
+country: United States
+description: Apparitions have been seen and heard. Employees and security are all afraid to go upstairs alone. Sometimes if you go out late at night alone the lights will be on and loud music playing though no one is there and all was quiet earlier. The building is alarmed so it is impossible for someone to go in and play a joke. Very creepy when you are alone at night.
+location: Topeka Country Club
+state: Kansas
+state_abbrev: KS
+longitude: -95.6928997
+latitude: 39.0199599
+city_longitude: -95.6890185
+city_latitude: 39.0558235
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

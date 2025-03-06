@@ -1,0 +1,21 @@
+city: Roy
+country: United States
+description: There was originally a high school in the town of Roy, Where the elementary school now stands. All that remains of this is the Gym, the rest having burned to ground in the 50's. In the Old Gym, there are many cold spots and an altogether spooky feeling. the old locker room lies frozen in time, un touched since the items were removed when the school burned and you can hear voice and foot steps from the old game viewing area above the court, and the old sealed off storage rooms. - October 2007 Update: The old Gym is being used as a gym again
+location: Old Roy High School Gym
+state: Washington
+state_abbrev: WA
+longitude: -112.0326531
+latitude: 41.1768897
+city_longitude: -122.539846
+city_latitude: 47.0042643
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

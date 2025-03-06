@@ -1,0 +1,21 @@
+city: Taunton
+country: United States
+description: In the cemetery, sits a rocking chair where a little girl is buried. People have reported seeing her sitting in the rocking chair while it glows.
+location: Broadway Street Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.079624
+latitude: 41.9230145
+city_longitude: -71.0897674
+city_latitude: 41.900101
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

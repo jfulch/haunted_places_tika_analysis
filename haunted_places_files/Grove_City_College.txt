@@ -1,0 +1,21 @@
+city: Grove City
+country: United States
+description: Mary Anderson Pew - In the lower levels exists a locked room. Within this room lived a girl who was taken by a demon spirit and persuaded to commit suicide. After her death an exorcism was attempted on the room. However, the demon presence was too powerful to be subdued. The only way the exorcist could keep the demon at bay was to confine it to the room and not allow a new vessel to gain entrance. However, it is now said that if you watch at night you can see the girl walking the hallways. You can feel a presence scratching on the wall, and you can hear noises coming from within the locked room.
+location: Grove City College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.07845019999999
+latitude: 41.1558824
+city_longitude: -80.08867029999999
+city_latitude: 41.15783769999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1954/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

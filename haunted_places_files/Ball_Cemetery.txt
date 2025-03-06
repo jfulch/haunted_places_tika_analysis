@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: Apparitions seen, headstones frequently tip over and then rise back up
+location: Ball Cemetery
+state: Nebraska
+state_abbrev: NE
+longitude: -96.1920089
+latitude: 41.0210248
+city_longitude: -96.1600132
+city_latitude: 41.00444299999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

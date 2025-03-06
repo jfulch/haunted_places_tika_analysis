@@ -1,0 +1,21 @@
+city: Sanbornton
+country: United States
+description: There is a man wandering the halls and offices in the Corporate office. Several people have heard and seen this man. He is heard walking up and down the stairs and seen opening doors and windows. Often he walks through the halls Whistling.
+location: Steele Hill Resort
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.573835
+latitude: 43.550359
+city_longitude: -71.58228369999999
+city_latitude: 43.4897584
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

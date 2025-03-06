@@ -1,0 +1,21 @@
+city: Balch Springs
+country: United States
+description: Haunted by the ghosts of 2 men who died right after leaving here. One was an older man who had a heart attack on his way home. The other died in a motorcycle accident when struck by a car. Both apparently enjoyed the food so much, they decided to spend eternity here.
+location: Dunston's Steak House
+state: Texas
+state_abbrev: TX
+longitude: -96.8196822
+latitude: 32.8515077
+city_longitude: -96.6227714
+city_latitude: 32.7287413
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

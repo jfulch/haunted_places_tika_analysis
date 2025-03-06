@@ -1,0 +1,21 @@
+city: Wickenburg
+country: United States
+description: The mine was founded by Henry Wickenburg, when he found gold there. There are a couple of haunted places. One is the caretaker's house, in which the man and wife heard strange noises. They will openly share their ghost stories. The other haunted spot is the mess hall. There have been smells of food, even though this kitchen has been deserted. It is on the self-guided tour of the mining camp. Also, further down the road, to get to the mine, is the Vulture Mine cemetery. This is where old miners have bee buried. There is said to be a headless Indian horseman. Visitors say that they feel watched, and they can sense death. There are a couple of places on the tour where people have died, such as the hanging tree and a cave that collapsed on miners.
+location: Vulture Mine
+state: Arizona
+state_abbrev: AZ
+longitude: -112.8334477
+latitude: 33.8192639
+city_longitude: -112.7301882
+city_latitude: 33.9697664
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

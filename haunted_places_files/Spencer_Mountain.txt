@@ -1,0 +1,21 @@
+city: Gastonia
+country: United States
+description: Pharr Mansion - There is a mansion located at the end of the road. It was built in the late 1700's. No one has ever lived in the house. This lady that owned Pharr yarns built it for her grandson. He died shortly after she built it. Since he died she said no one could live in it. The town has since tried to make it a haunted house and the proceeds go to the local fire department. Rumor is 2 men and a woman haunt it. People that work upstairs have seen and heard stuff to where they have ran out the house white as a ghost and breathing as though someone was trying to kill them. They have reported seeing a woman upstairs holding a baby's head in one hand and another head in the other. People have been going downstairs and heard someone following them and turned around to see no one. Also reports of pictures in one of the upstairs room just fall off the wall as if someone was knocking them off. - June 2008 Update: it is all boarded up with NO TRESPASSING signs up and the driveway is blocked off. You can see a small parking strip along the main road as you turn "right" off Ranlo-Spencer Rd. Its not even a mansion, its just a two-story house. There is a "bay" window, and a small balcony with a black wrought iron railing. It does look very eerie at night and you will hear sounds outside the place. You will hear wind around the house when there IS NO wind to be detected.
+location: Spencer Mountain
+state: North Carolina
+state_abbrev: NC
+longitude: -81.1106324
+latitude: 35.3062487
+city_longitude: -81.18730049999999
+city_latitude: 35.262082
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Estes Park
+country: United States
+description: Room 407 -  is definitely haunted. Believed to be haunted by Lord Dunraven. He was, of course, run out of town after trying to swindle folks out of their land and money. He mostly stands in the corner of the room near the bathroom door. Witnesses report he turned a light in the opposite corner on and off several times. When it was off, they just told him that they knew he was there and that they would only be staying for two nights and would he please turn the light back on. He did. During their attempted sleeping hours the elevator was constantly making noise. No one was using the elevator! at 2 in the morning.
+location: Stanley Hotel
+state: Colorado
+state_abbrev: CO
+longitude: -105.5191728
+latitude: 40.383371
+city_longitude: -105.5216651
+city_latitude: 40.3772059
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

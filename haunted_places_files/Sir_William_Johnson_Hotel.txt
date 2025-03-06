@@ -1,0 +1,21 @@
+city: Johnstown
+country: United States
+description: Young female spirit breaking dishes, standing in the kitchen of the abandoned hotel in her nightgown. Items being moved by the same female.
+location: Sir William Johnson Hotel
+state: New York
+state_abbrev: NY
+longitude: -74.3824721
+latitude: 43.0152837
+city_longitude: -74.3676356
+city_latitude: 43.0067399
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

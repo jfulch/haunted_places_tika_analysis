@@ -1,0 +1,20 @@
+city: Preston
+country: United States
+description: Captain Grant's Inn is thought to be haunted. Apparently at one time before it was an inn, two sisters who did not get along lived there, and after they died, they did not leave. The New London Day newspaper ran an article on this in 2006.
+location: Captain Grant's Inn
+state: Connecticut
+state_abbrev: CT
+longitude: -72.03958759999999
+latitude: 41.4858017
+city_longitude: -72.01125979999999
+city_latitude: 41.5224785
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2006/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

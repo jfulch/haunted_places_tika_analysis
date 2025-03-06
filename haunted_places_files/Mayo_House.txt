@@ -1,0 +1,19 @@
+city: Tarboro
+country: United States
+description: Old man Mayo supposedly killed his family at the house and then hung himself, if you go to the house you will be chased by a ghost dog to the house, the door will open and Mr. Mayo will invite you in, the door will slam shut and then the family will disappear leaving only a noose hanging from the roof.
+location: Mayo House
+state: North Carolina
+state_abbrev: NC
+city_longitude: -77.5358049
+city_latitude: 35.8968236
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

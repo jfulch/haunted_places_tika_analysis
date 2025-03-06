@@ -1,0 +1,19 @@
+city: Spreckles
+country: United States
+description: usually later at night a ghost can be heard singing and often screaming the source is not known any history on this would greatly help. It sounds like it most coming from an old brick warehouse that has been derelict for a long time
+location: old sugar beat storage silos
+state: California
+state_abbrev: CA
+city_longitude: -121.6461352
+city_latitude: 36.6250909
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1964/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: New Hope
+country: United States
+description: numerous ghosts haunt this place including a glowing light in room 6. But it seems the entire place is haunted. In the late 1800's a couple and their little girl were staying at the inn and while playing near the canal that sits behind the inn, said girl accidentally fell in the water and drowned. According to previous owners records, the ghost of the little girl returns every now and again in search of her parents. Some report seeing an apparition, others hear footsteps running in the halls.
+location: Logan Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.9516505
+latitude: 40.3634227
+city_longitude: -74.9512785
+city_latitude: 40.36427279999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

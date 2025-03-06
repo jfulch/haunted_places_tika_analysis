@@ -1,0 +1,21 @@
+city: Hayward
+country: United States
+description: The theater is haunted by George. He haunts theatre 4 and 5 and the upstairs. - March 2008 update: has been torn down. 3 restaurants have recently been built on that location across from the mall.
+location: General Cinema Southland
+state: California
+state_abbrev: CA
+longitude: -122.0812889
+latitude: 37.6734647
+city_longitude: -122.0807964
+city_latitude: 37.6688205
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

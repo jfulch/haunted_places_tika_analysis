@@ -1,0 +1,20 @@
+city: Storrs
+country: United States
+description: Eddy dorm rm 501(Alumni Quad) - Inability to breath in dorm room, cold breezes when window was closed and hands squeezing shoulder.. tapping, and door rattling when nobody was inside.
+location: University of CT
+state: Connecticut
+state_abbrev: CT
+longitude: -72.2539805
+latitude: 41.8077414
+city_longitude: -72.24952309999999
+city_latitude: 41.8084314
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1892/05/16
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 0

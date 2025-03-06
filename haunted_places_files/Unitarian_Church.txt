@@ -1,0 +1,21 @@
+city: Nantucket
+country: United States
+description: The town's clock tower is reportedly haunted by it's first pastor. Children are scolded by him for being too loud, and can also see him when adults standing nearby can't. There is a portrait of him in Hendrix Hall (the basement) that watches you from all spots in the room. His disembodied hand has been seen in windows waving goodbye to visitors as they leave.
+location: Unitarian Church
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.09907799999999
+latitude: 41.282347
+city_longitude: -70.099451
+city_latitude: 41.2834704
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

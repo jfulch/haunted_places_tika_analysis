@@ -1,0 +1,20 @@
+city: Burnsville
+country: United States
+description: A worker who fell to his death from the scaffolding while the building was being constructed seems to haunt the facility now. Reparts have been made of hearing footsteps on metal steps.
+location: Burnsville Center
+state: Minnesota
+state_abbrev: MN
+longitude: -93.2887621
+latitude: 44.7438707
+city_longitude: -93.2777226
+city_latitude: 44.7677424
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1585/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

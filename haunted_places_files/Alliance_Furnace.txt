@@ -1,0 +1,21 @@
+city: Banning
+country: United States
+description: This was one of the last remaining iron furnaces in the Eastern United States. Legend has it that an old settler, who had gambled away all of his money, came home one night and could not feed his dogs. He took them off on a wild chase in which he lead them to the iron furnace. He then burned them alive. On a clear fall night, one can hear the squealing of dogs by the furnace.
+location: Alliance Furnace
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.72650349999999
+latitude: 40.1031368
+city_longitude: -79.75143109999999
+city_latitude: 40.11951759999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

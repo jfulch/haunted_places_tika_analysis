@@ -1,0 +1,21 @@
+city: Haine's Island
+country: United States
+description: Nancy walks up and down the hill to the ferry in hopes to meet her son and husband that were in the war. She is seen walking with a lantern in one hand and a bucket of water in the other.
+location: Nancy Mountain
+state: Alabama
+state_abbrev: AL
+longitude: -87.4919365
+latitude: 31.7237655
+city_longitude: -87.4919365
+city_latitude: 31.7237655
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1966/02/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 37m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Alton
+country: United States
+description: The owners have an outside annual Halloween bonfire. The house is extremely creepy looking, the owners are trying to restore the mansion. It is now condemned by the city of Alton, so you cannot go inside the mansion. There is a lot of history and unexplained things that go on here. Presences felt, perfume smelled, apparitions, and strange electrical phenomena. Check out the Main Page of the house. McPike Homepage
+location: McPike Mansion
+state: Illinois
+state_abbrev: IL
+longitude: -90.1836127
+latitude: 38.9060616
+city_longitude: -90.1842764
+city_latitude: 38.8906038
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

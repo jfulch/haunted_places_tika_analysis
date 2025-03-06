@@ -1,0 +1,20 @@
+city: Green Springs
+country: United States
+description: AT the only school in Green Springs, Ohio there is herd to be ghosts at the school. In the late 1800's the school burnt down and supposedly there was some high schoolers in it that never got out. In 1939 they rebuilt the school and it's still there today. When your in some classrooms on the 2nd floor like the rooms 6c or 6g in 6c when the door is open & when it's real quiet the door will close for no reason at all. when in 6g once or twice a week everyone will be doing their work when you have a feeling that someone is behind you. your almost positive until you turn around and look but the teacher is not behind you
+location: GS elementary
+state: Ohio
+state_abbrev: OH
+longitude: -83.050736
+latitude: 41.262229
+city_longitude: -83.0515829
+city_latitude: 41.25616489999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1939/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.35
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

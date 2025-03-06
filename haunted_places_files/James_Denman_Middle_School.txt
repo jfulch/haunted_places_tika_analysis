@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: teachers & students have reported to see a dead girl walking up the stairs and haunts the 2nd floor girls bathroom she closes the door to the stalls and flushes the toilet....they say her name is Elizabeth. people also hear someone moving chains on the 3rd floor
+location: James Denman Middle School
+state: California
+state_abbrev: CA
+longitude: -122.4430372
+latitude: 37.7215586
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

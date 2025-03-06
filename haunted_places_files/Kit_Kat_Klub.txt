@@ -1,0 +1,21 @@
+city: Meridian
+country: United States
+description: Workers report seeing apparitions, hearing strange pounding sounds around the moments of the sightings.
+location: Kit Kat Klub
+state: Idaho
+state_abbrev: ID
+longitude: -116.4539452
+latitude: 43.6050464
+city_longitude: -116.3915131
+city_latitude: 43.6121087
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

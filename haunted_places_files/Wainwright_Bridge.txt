@@ -1,0 +1,18 @@
+city: Jefferson City
+country: United States
+description: If you park on Wainwright bridge at midnight and turn your car off, your car will (reportedly) slowly roll of the bridge. Also, odd noises can be heard below the bridge, as if someone is beating on it or scratching the steal support beams. There have been bloody footprints spotted leading out of the water into the mud, only to stop abruptly, as if the person leaving the footprints simply disappeared. A dozen missing persons have been reported as having been last seen near or on the bridge, and no less than three farmer's bodies have been found below it. A car drove off one side of the bridge, and landed a dozen or so yards on the other side.
+location: Wainwright Bridge
+state: Missouri
+state_abbrev: MO
+city_longitude: -92.1735164
+city_latitude: 38.57670170000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1906/03/15
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

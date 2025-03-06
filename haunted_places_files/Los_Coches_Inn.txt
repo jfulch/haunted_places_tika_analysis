@@ -1,0 +1,21 @@
+city: Soledad
+country: United States
+description: People have claimed you can sometimes hear the screams of miners coming from the abandoned well. There have also been eye witness accounts of an eccentric looking lady, wearing black, roaming the inn grounds.
+location: Los Coches Inn
+state: California
+state_abbrev: CA
+longitude: -121.3177674
+latitude: 36.4040495
+city_longitude: -121.3263187
+city_latitude: 36.424687
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

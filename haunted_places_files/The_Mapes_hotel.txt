@@ -1,0 +1,19 @@
+city: Reno
+country: United States
+description: haunted by an unknown spirit. Now torn down and is now an ice rink in the winter months.
+location: The Mapes hotel
+state: Nevada
+state_abbrev: NV
+city_longitude: -119.8138027
+city_latitude: 39.5296329
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 30m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Savoy
+country: United States
+description: this is a camp that may have been up in the 1980's and is haunted by 6 little girls and a crazy women the story is that a camp consular went crazy and hung 3 girls in a barn on the property and drowned 3 more in a tub then she went and killed herself not sure how but she did and if u go to this area in the Windsor state forest you will see things and hear things that will make you believe in ghosts or the paranormal.
+location: Windigo
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.998316
+latitude: 42.5295225
+city_longitude: -73.0287112
+city_latitude: 42.5667512
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

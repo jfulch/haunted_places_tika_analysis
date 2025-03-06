@@ -1,0 +1,21 @@
+city: Anchorage
+country: United States
+description: It is said that when the Dimond center was first built, the grounds under it were sacred burial grounds from thousands of years ago, dating back to when natives first roamed the lands. While digging up the grounds to build the mall, workers came across a few graves, but due the fact they were so old and small, they continued digging. Now the ghosts roam the areas and usually appear in front of lone people in the bathrooms, and smaller hallways in the mall.
+location: Dimond Center
+state: Alaska
+state_abbrev: AK
+longitude: -149.8672911
+latitude: 61.14321899999999
+city_longitude: -149.9002778
+city_latitude: 61.2180556
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 10h 52m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

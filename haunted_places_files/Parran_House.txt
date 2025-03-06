@@ -1,0 +1,19 @@
+city: Bolivar
+country: United States
+description: the ghost in a rocking chair can be seen on the front porch.
+location: Parran House
+state: Tennessee
+state_abbrev: TN
+city_longitude: -88.9878389
+city_latitude: 35.2561937
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

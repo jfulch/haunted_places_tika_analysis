@@ -1,0 +1,21 @@
+city: Alexandria
+country: United States
+description: Alexandria INOVA hospital is built on the site of the Vauxcleus mansion, an ante-bellum plantation mansion.  During the Civil War a Confederate soldier was seen and shot dead by a Union picket while sneaking up the ravine to visit a girl friend in the Vauxcleus mansion.  Since, it is said you can see his ghost moving through the woods on moonlit nights.
+location: Hospital woods
+state: Virginia
+state_abbrev: VA
+longitude: -77.10498869999999
+latitude: 38.8227217
+city_longitude: -77.0469214
+city_latitude: 38.8048355
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

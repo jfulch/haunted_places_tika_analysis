@@ -1,0 +1,21 @@
+city: Allen
+country: United States
+description: It is said that Eagle Stadium is haunted by an ex-football player that died 65 years ago. There has been sightings of a shadow running down the field at midnight, but the ghost has only been seen on Friday nights after a game.
+location: Eagle Stadium
+state: Texas
+state_abbrev: TX
+longitude: -96.6570466
+latitude: 33.1139566
+city_longitude: -96.67055030000002
+city_latitude: 33.1031744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1979/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

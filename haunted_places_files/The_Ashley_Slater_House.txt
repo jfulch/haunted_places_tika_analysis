@@ -1,0 +1,21 @@
+city: Douglas
+country: United States
+description: As the years passed years ago about six people died in the house. It is said that the grandmother died from a disease and the mother died from giving birth to her second son. Later on the father hung himself in the attic. A little while after that both of the children died from a disease. And someone else who moved in died also. If you go into the house it is very cold and it feels like someone is pressing down on your shoulders. And every 4 months you can see all of their spirits in the house.
+location: The Ashley Slater House
+state: Georgia
+state_abbrev: GA
+longitude: -82.8452739
+latitude: 31.5078531
+city_longitude: -82.8498654
+city_latitude: 31.5088073
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

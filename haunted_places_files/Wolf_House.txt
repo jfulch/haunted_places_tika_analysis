@@ -1,0 +1,19 @@
+city: Wishek
+country: United States
+description: It is said that many people go to this location just to see what happens. There have been reports of persons feeling cold hands on there back, hearing voices, and being attacked an apparition. The apparition appears to be that of a young women who was hung in the backyard by her husband. It is said she only leaves marks on men.
+location: Wolf House
+state: North Dakota
+state_abbrev: ND
+city_longitude: -99.5570567
+city_latitude: 46.2569184
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Cortland
+country: United States
+description: 5 roads, all of which have some kind of mysterious things happen. On one road there is a haunted farm house. On Another, people were hung and the ropes are still there. On another, there is an underpass, 2 men got killed because their car had stalled, they went to push the car up the hill through the underpass, the car rolled back on them, crushing them. So now its said if you put your car in Neutral and roll back down the hill, the boys push your car up the hill. For more information check out http://www.forgottenoh.com/Counties/Trumbull/biroshouse.html - June 2008 Update - No longer there.
+location: 5 Points
+state: Ohio
+state_abbrev: OH
+longitude: -80.7350412
+latitude: 41.3150929
+city_longitude: -80.7253575
+city_latitude: 41.3303342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

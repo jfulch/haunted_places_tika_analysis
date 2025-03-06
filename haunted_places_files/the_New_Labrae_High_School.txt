@@ -1,0 +1,20 @@
+city: Leavittsburg
+country: United States
+description: On the opening day of the new complex, a library helper was electrocuted while copying papers. And her ghost has been seen in the library reading. And in the girls restroom humming a melody.3 janitors have quit because of it.
+location: the New Labrae High School
+state: Ohio
+state_abbrev: OH
+longitude: -80.8761969
+latitude: 41.2534171
+city_longitude: -80.87703069999999
+city_latitude: 41.2478344
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

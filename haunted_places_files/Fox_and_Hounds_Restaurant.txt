@@ -1,0 +1,20 @@
+city: Hubertus
+country: United States
+description: Previous owner and painter Ray Fox is said to haunt the restaurant after hours. Many of Ray's paintings are on display. A painting near a fireplace shows hunting dogs with ghosts hidden in the picture. Building is partly original log hunting cabin. Basement bar is always cold and eerie. - June 2008 Update: Has been torn down
+location: Fox and Hounds Restaurant
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.287825
+latitude: 43.235976
+city_longitude: -88.221674
+city_latitude: 43.2364366
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

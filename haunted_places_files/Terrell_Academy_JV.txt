@@ -1,0 +1,21 @@
+city: Dawson
+country: United States
+description: Girls Locker Room Delaney Hall - Witnesses have seen the following in the jr. high girls locker room: Shadows on the ceiling, toilets flushing, showers being turned on, and heater turning on by themselves. Some of the girls will still tell you that they do believe that it is haunted but are still investigating.
+location: Terrell Academy JV
+state: Georgia
+state_abbrev: GA
+longitude: -84.431198
+latitude: 31.762882
+city_longitude: -84.4465826
+city_latitude: 31.7735001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1998/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

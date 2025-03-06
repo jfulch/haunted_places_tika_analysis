@@ -1,0 +1,21 @@
+city: Rosiclare
+country: United States
+description: At night, if you go all the way back to the small creek, you here bells, and the sound of a gate opening and closing. There is a spirit there that haunts the cemetery more than others. The name of the spirit is Ahab Gullet. His tombstone reads: "Friends beware as you pass by, as you are now so once was I. As I am you soon shall be, prepare for death and follow me." If you read this aloud, spirits will appear before you.
+location: Pleasanthill's Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -87.84573549999999
+latitude: 41.9355474
+city_longitude: -88.3461483
+city_latitude: 37.4236626
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

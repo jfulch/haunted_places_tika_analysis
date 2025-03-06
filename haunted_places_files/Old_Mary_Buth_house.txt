@@ -1,0 +1,19 @@
+city: Germantown
+country: United States
+description: A woman dressed in gothic, translucent, white clothing has been seen standing in near the house. Crying sounds coming from the upstairs bedroom have been heard.
+location: Old Mary Buth house
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -88.1103691
+city_latitude: 43.2286174
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

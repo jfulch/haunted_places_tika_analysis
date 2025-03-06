@@ -1,0 +1,18 @@
+city: Putnam
+country: United States
+description: April 2007 Has been removed. There is no evidence that it exists.
+location: Blood cemetery
+state: Connecticut
+state_abbrev: CT
+city_longitude: -71.8689917
+city_latitude: 41.90460119999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

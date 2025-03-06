@@ -1,0 +1,21 @@
+city: Lincoln
+country: United States
+description: What used to be the sight of a small dairy farm, was turned into a skating rink where many of Lincoln's youth came. After numerous accidental deaths, the most famous being of a little boy killed by a group of bully's, the Lake was drained and is now a deep grassy area. But the original tree still stands from the original dairy farm, and on winter nights, reporting of ghost sightings near the creek that once led into the lake have exploded since.
+location: Lake Street Lake
+state: Nebraska
+state_abbrev: NE
+longitude: -96.694988
+latitude: 40.788092
+city_longitude: -96.6851982
+city_latitude: 40.8257625
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1771/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

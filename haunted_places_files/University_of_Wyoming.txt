@@ -1,0 +1,20 @@
+city: Laramie
+country: United States
+description: prep school - elementary to 9th Grade - repots of locker doors slamming, the felling of being watched in the library and felling that you are not alone in the girls bathroom on the second floor.
+location: University of Wyoming
+state: Wyoming
+state_abbrev: WY
+longitude: -105.5665744
+latitude: 41.3148754
+city_longitude: -105.5911007
+city_latitude: 41.3113669
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1786/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

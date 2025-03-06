@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: Witnesses say you can see mist of smoke following you and sometimes they chase you. You can even hear sounds, loud pitch voices almost like a horse but not. Bushes will move trees with slant down.
+location: Grove Point Plantations
+state: Georgia
+state_abbrev: GA
+longitude: -81.2036097
+latitude: 31.9519028
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.466666666666669
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

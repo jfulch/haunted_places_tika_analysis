@@ -1,0 +1,21 @@
+city: Mackinac Island
+country: United States
+description: near Mackinac, is supposed to be haunted. Two British soldiers were supposed to have gone AWOL and were slaughtered by Indians on the island. They had walked across the ice and lit a fire to warm themselves. The post commander had put a price on their heads and some natives had tracked them down and killed them.
+location: Bois Balnc Island
+state: Michigan
+state_abbrev: MI
+longitude: -84.4162484
+latitude: 45.7487574
+city_longitude: -84.6189339
+city_latitude: 45.8491796
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Murder
+witness_count: 0

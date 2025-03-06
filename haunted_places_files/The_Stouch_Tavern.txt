@@ -1,0 +1,21 @@
+city: Womelsdorf
+country: United States
+description: One of the oldest continually operating taverns in the state built in 1785. The owners have had encounters with ringing Christmas bells in the storage area, strewn paper napkins, where there are no paper napkins ever used in the place. Faucets turning off and on, footsteps on the roof, in the attic and across the floor of the tavern itself. Previous owners have named the ghost George.
+location: The Stouch Tavern
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.18595289999999
+latitude: 40.3631938
+city_longitude: -76.1841139
+city_latitude: 40.3617591
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1785/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

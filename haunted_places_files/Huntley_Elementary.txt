@@ -1,0 +1,21 @@
+city: Appleton
+country: United States
+description: There was a kid named "Marky" who worked, or was believed to work for the Mob in the late 20's. He had a screaming fit about the color purple, and has apparently been spotted by early teen's trying to pick them up (girls and guys). There have been stories in the paper about him, nevertheless he remains a ghost to the surrounding city folk because they know of him, and his past. Neighbors won't go near his old house, because he's said to still live in the basement. Every once in a while he's seen at night throwing fits, and convulsing & muttering something about the Mob bosses that he used to work for.
+location: Huntley Elementary
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.3814738
+latitude: 44.2828958
+city_longitude: -88.41538469999999
+city_latitude: 44.2619309
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Schererville
+country: United States
+description: Many years ago when the apartments were first built, a woman was alone with her son one day near the lake feeding the ducks. The boy threw a temper tantrum as they were getting ready to leave and in an angry rage the woman pushed him into the lake. Not being able to swim, the little boy drowned. Residents say you can hear the little boys screams for help in the night, and many have seen a little boy drowning but when they jump into save him, there is no one there.
+location: Scherwood Lake Apartments
+state: Indiana
+state_abbrev: IN
+longitude: -87.471235
+latitude: 41.483233
+city_longitude: -87.4547605
+city_latitude: 41.4789246
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

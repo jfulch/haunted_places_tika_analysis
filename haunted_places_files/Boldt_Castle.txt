@@ -1,0 +1,21 @@
+city: Alexandria Bay
+country: United States
+description: Castle built in early 1900's,which was never completed due to the death of the builder's wife. Heartbroken, he left it, never to return. On many nights, a light can be seen in the uppermost windows of the castle, said to be the ghost of Mrs. Boldt.
+location: Boldt Castle
+state: New York
+state_abbrev: NY
+longitude: -75.92265300000001
+latitude: 44.34434
+city_longitude: -75.9177309
+city_latitude: 44.3358836
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1963/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

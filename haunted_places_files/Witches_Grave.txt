@@ -1,0 +1,19 @@
+city: Liberty Hill
+country: United States
+description: Supposedly in the 17-1800s, a black slave was accused of being a witch. She was hung in a nearby tree (which is still there) and buried in the cemetery. Her grave marker says something like "whoever passes over this grave, shall die as I died"... the words are so worn off that you can hardly read them. On Halloween night, people claim to hear the "witch" and sometimes see her hanging in the tree.
+location: Witches Grave
+state: Texas
+state_abbrev: TX
+city_longitude: -97.9225161
+city_latitude: 30.6649119
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

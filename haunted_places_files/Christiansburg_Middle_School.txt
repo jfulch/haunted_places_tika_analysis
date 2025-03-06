@@ -1,0 +1,21 @@
+city: Christiansburg
+country: United States
+description: Reports of lights coming on at night and go off before the light switch is touched, witnesses see shadows of 3 women, and in the cellar baby’s cries are heard.
+location: Christiansburg Middle School
+state: Virginia
+state_abbrev: VA
+longitude: -80.42561239999999
+latitude: 37.1221918
+city_longitude: -80.4089389
+city_latitude: 37.1298517
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

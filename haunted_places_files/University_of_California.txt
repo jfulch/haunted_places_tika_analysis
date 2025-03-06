@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Dykstra Hall - Dykstra 10th floor showers turn on by themselves. Not a drip, but a full force shower, when no one's in the shower area. Residents will turn them off, and they'll turn back on. RAs have been sent to investigate and the problems were reported to Facilities who didn't find anything wrong with the showers.
+location: University of California
+state: California
+state_abbrev: CA
+longitude: -118.4451811
+latitude: 34.068921
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1525/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

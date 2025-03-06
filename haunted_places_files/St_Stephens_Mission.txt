@@ -1,0 +1,20 @@
+city: St. Stephen's
+country: United States
+description: The Keil Gym - Strange sounds and gym equipment taken out and being thrown all over the gym floor, such as basketballs, soccer balls, etc. Sometimes sightings of ghosts of people who used to go to school there in the early and mid-1900's
+location: St. Stephen's Mission
+state: Wyoming
+state_abbrev: WY
+longitude: -108.4188979
+latitude: 42.9835848
+city_longitude: -108.4164941
+city_latitude: 42.9838485
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

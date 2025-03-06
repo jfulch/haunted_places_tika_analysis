@@ -1,0 +1,21 @@
+city: York
+country: United States
+description: A teacher was once killed here, and you can see her figure walking into her room, turning on the lights, and then sits down and messes up all the paper from that day.
+location: York High School
+state: Nebraska
+state_abbrev: NE
+longitude: -97.5810992
+latitude: 40.8773896
+city_longitude: -97.5920867
+city_latitude: 40.8673915
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

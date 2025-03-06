@@ -1,0 +1,21 @@
+city: Danville
+country: United States
+description: Owned by the first mayor of Danville who then sold it to the seventh mayor. It is the oldest building in Danville. At one point, during or close to the Civil War it served as a children’s clinic. Footsteps can be heard as well as voices. Several people have actually seen apparitions. It now serves as a Law Office and is at 770 Main Street.
+location: Lanier House
+state: Virginia
+state_abbrev: VA
+longitude: -79.42968619999999
+latitude: 36.577749
+city_longitude: -79.39502279999999
+city_latitude: 36.5859718
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

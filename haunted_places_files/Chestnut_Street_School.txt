@@ -1,0 +1,21 @@
+city: Kane
+country: United States
+description: a janitor was killed in the basement by a student in the 1950-1960 some times the elevator goes by it self and you have to use a key to run it it is warm every were except were he was killed in the basement.
+location: Chestnut Street School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.81244989999999
+latitude: 41.6579788
+city_longitude: -78.81114269999999
+city_latitude: 41.6628394
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

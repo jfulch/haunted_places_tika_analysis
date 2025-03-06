@@ -1,0 +1,21 @@
+city: Sioux City
+country: United States
+description: orbs seen on the first floor where children sleep. It also seems that there has been a sighting of a young male there as well. All the activities seem to only be done there in the lower level. The ghost maybe that of a young man who was gunned down on the Morningside loop during the mid 1990's. It use to be Lutheran Social Services at one time.
+location: pre school
+state: Iowa
+state_abbrev: IA
+longitude: -96.3585515
+latitude: 42.44905989999999
+city_longitude: -96.4003069
+city_latitude: 42.4999942
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

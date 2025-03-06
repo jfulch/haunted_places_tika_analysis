@@ -1,0 +1,19 @@
+city: Waurika
+country: United States
+description: the sound of footsteps can be heard as well as voices when all is quiet. An old 1930's type writer up stairs has been known to type out messages during closing hours, and the lights have been known to turn on and off, even without electricity being supplied. Beads used to hang in the doorway to separate the kitchen from the dinning room, and the owner told me one evening they separated and swayed back and forth, as though someone had walked through, but at the time, she was alone. The entire second floor is a chilling experience.
+location: Moneka Antiques and Haunted Tea Room
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -97.997536
+city_latitude: 34.1670371
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Cumberland
+country: United States
+description: Ghost of Civil War soldier who was executed for killing an officer is seen in the church rectory.
+location: St. Patrick's Catholic Church
+state: Maryland
+state_abbrev: MD
+longitude: -78.76441899999999
+latitude: 39.6548239
+city_longitude: -78.7625185
+city_latitude: 39.6528654
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

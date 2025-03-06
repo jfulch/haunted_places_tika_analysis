@@ -1,0 +1,21 @@
+city: Ardmore
+country: United States
+description: it is said that if you go to the cemetery and find the headstone marked Mr. Apple and you walk around it 3 times saying Mr. apple are you home that a bright light will start chasing you and your neck will start to hurt for some reason as soon as you get to somewhere safe and you look at your neck that it looks like some one has scratched you so deep that it will leave scares.
+location: Mr. Apples cemetery
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.1345276
+latitude: 34.1486238
+city_longitude: -97.1436254
+city_latitude: 34.1742611
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

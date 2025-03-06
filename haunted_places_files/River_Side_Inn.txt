@@ -1,0 +1,20 @@
+city: Ozark
+country: United States
+description: Old man, Howard, built the restaurant in the early 1900's. He appears late at night in dark rooms [green glow smoking a cigar]. Also there has been times when glasses were suddenly thrown up against the wall, but no one was around.
+location: River Side Inn
+state: Missouri
+state_abbrev: MO
+longitude: -93.2271306
+latitude: 37.026936
+city_longitude: -93.2060163
+city_latitude: 37.0208865
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

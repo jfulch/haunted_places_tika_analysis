@@ -1,0 +1,21 @@
+city: Edinburg
+country: United States
+description: The Museum of South Texas History was formally the old Edinburg courthouse and jail. In the original part of the building you get an eerie feeling as you walk up the stairs to the tower. The tower was the hanging room, were they would hang the convicted prisoners that were sentenced to death. It is recorded that only one man was executed in the tower, however, some people claim that more than one was executed. You can feel a cold spot in the tower. Some claim that the rope that is still hanging there swings back and forth. Shadows of a man hanging have been seen by some and many people who have passed by the building at night claim to hear voices, sounds, and wails coming from the original part of the building where the tower stands.
+location: Museum of South Texas History
+state: Texas
+state_abbrev: TX
+longitude: -98.1613463
+latitude: 26.3027948
+city_longitude: -98.1633432
+city_latitude: 26.3017374
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

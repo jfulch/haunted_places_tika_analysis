@@ -1,0 +1,21 @@
+city: Troup County
+country: United States
+description: The Cemetery dates bake to the 1800's. a strange stillness is at the cemetery. Reports of hear screams if you knock 3 times on the large marker in the middle of the cemetery. Dogs react violently to the place and apparitions have been reported.
+location: N. Whatley Rd. Cemetery
+state: Georgia
+state_abbrev: GA
+longitude: -85.1866095
+latitude: 33.1026219
+city_longitude: -85.02334599999999
+city_latitude: 33.0698575
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

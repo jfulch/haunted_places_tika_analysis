@@ -1,0 +1,21 @@
+city: Ripon
+country: United States
+description: Rodman Center for the Arts -  A former student recalls being a student at Ripon 1977-1981, rumor was told by several people was: A child was killed in an accident while climbing around inside a church steeple. Years later, the congregation moved to another building, and the college used the church for a performing arts building. When Rodman was built, the spirit moved to the new building. The spirit was called Raphael. There are stories of how the spirit liked to play tricks on people. While s setting up for a performance, making copies of recordings for students, etc. On one occasion, they where in a hallway, and heard very clear footsteps walk right past them, there was no one visible there. The other occasion they where working in the recording booth at the concert hall, when one of the lights over the stage started flickering. They went into the concert hall and yelled "Stop It!", and the flickering stopped.
+location: Ripon College
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.8409595
+latitude: 43.8432217
+city_longitude: -88.8359447
+city_latitude: 43.8422049
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

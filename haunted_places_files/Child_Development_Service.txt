@@ -1,0 +1,21 @@
+city: Fort George G. Mead
+country: United States
+description: Once an ARMY barrack, people have reported seeing a ghost that everyone calls Elizabeth. They describe her as a female with blonde hair in a peach dress.
+location: Child Development Service
+state: Maryland
+state_abbrev: MD
+longitude: -76.72917799999999
+latitude: 39.097893
+city_longitude: -76.7267773
+city_latitude: 39.1137602
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 16.183333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

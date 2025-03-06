@@ -1,0 +1,20 @@
+city: Wooster
+country: United States
+description: The fine dining area of the restaurant, in this former Wayne County Jail in Wooster, used to actually be the cell block. The area is located in the basement of the building. The restaurant is said to be haunted by a man who was the first, and only, person to be hung in Wayne County. He was locked up in a cell on the basement floor, but was hung on the third floor. His actions are noticed most late in the evening and early morning hours. Several restaurant managers have made comments about calls being made to the tavern (a separate building that was once used as the jail garage - now used as "The Olde Jaol Tavern") from the fine dining phone when there is no-one in the fine dining area. Also, flickering lights and banging of steel bars are common occurrences.
+location: The Olde Jaol Restaurant
+state: Ohio
+state_abbrev: OH
+longitude: -81.9418312
+latitude: 40.7994102
+city_longitude: -81.935143
+city_latitude: 40.8050565
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

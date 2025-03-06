@@ -1,0 +1,21 @@
+city: San Diego
+country: United States
+description: Students in the band room have reported instruments in cases being ejected out of lockers (locked with combination locks) And their cases being flung open during private tutoring sessions
+location: Ramona High School
+state: California
+state_abbrev: CA
+longitude: -116.8688937
+latitude: 33.0262922
+city_longitude: -117.1610838
+city_latitude: 32.715738
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

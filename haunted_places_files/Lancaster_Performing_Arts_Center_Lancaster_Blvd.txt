@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: It is said that when the theater was first being built, an elderly woman was standing on the stage during construction, and accidentally stepped back into the orchestra pit. She landed on her head, breaking her neck, dying instantly. Actors who have performed at the theater claim to have seen her ghost downstairs in the green room and stairwell. Many see a black figure, other feel a strange sensation causing them to want to get out of there immediately. No one has ever seen her upstairs, they believe it's because there's nowhere to fall downstairs and she feels safer there.
+location: Lancaster Performing Arts Center (Lancaster Blvd)
+state: California
+state_abbrev: CA
+longitude: -118.1437191
+latitude: 34.6972335
+city_longitude: -118.1541632
+city_latitude: 34.6867846
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1883/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

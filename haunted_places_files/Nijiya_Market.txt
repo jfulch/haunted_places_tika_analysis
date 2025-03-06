@@ -1,0 +1,21 @@
+city: San Diego
+country: United States
+description: In this small Japanese grocery store an elderly customer suffered a heart attack and died in the store. Sometimes objects fall from the shelves on their own and with no explanation; one manager while there in the middle of the night heard strange noises and his name whispered several times.
+location: Nijiya Market
+state: California
+state_abbrev: CA
+longitude: -117.1539653
+latitude: 32.8141393
+city_longitude: -117.1610838
+city_latitude: 32.715738
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2023/11/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 0

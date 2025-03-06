@@ -1,0 +1,21 @@
+city: Cedar Key
+country: United States
+description: There are a lot of presences here; just about every business in town has more than one ghost. Some are from the Seminole war.
+location: the whole island
+state: Florida
+state_abbrev: FL
+longitude: -83.0275044
+latitude: 29.1380525
+city_longitude: -83.03512119999999
+city_latitude: 29.1385785
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

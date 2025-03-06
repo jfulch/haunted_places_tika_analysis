@@ -1,0 +1,21 @@
+city: Waihee
+country: United States
+description: Many campers have spotted a white figure of a woman who roams around the campgrounds. Many believe that she walks up the trail leading from the Makamakaole gulch into the campgrounds. Sometimes she is seen with a dog.
+location: Camp Maluhia
+state: Hawaii
+state_abbrev: HI
+longitude: -156.5343658
+latitude: 20.9547611
+city_longitude: -156.5045315
+city_latitude: 20.9297229
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

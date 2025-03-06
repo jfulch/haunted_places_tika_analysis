@@ -1,0 +1,21 @@
+city: Rugby
+country: United States
+description: This is the home of "The snoring ghost", can only be entered during the tour. This is the house that Thomas Hughes, founder of Rugby, built for his mother, there are at least two. His mother and one they call "the snoring ghost". He likes to pull the blankets back on the bed and evidently you can hear him snoring.
+location: Kingstone Lisle Inn
+state: Tennessee
+state_abbrev: TN
+longitude: -84.7187807
+latitude: 36.3555422
+city_longitude: -84.70077599999999
+city_latitude: 36.3603531
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

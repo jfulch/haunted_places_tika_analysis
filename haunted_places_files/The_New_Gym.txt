@@ -1,0 +1,21 @@
+city: Shoals
+country: United States
+description: The new gym that was built in Shoals, Indiana, is said to be built where there are some bodies buried. They say if you go in there at night you can here the tapping of the people wanting out. Basketballs come bouncing out of some of the doors. Doors slam shut. Sometimes you can even hear popcorn popping in the concession stands.
+location: The New Gym
+state: Indiana
+state_abbrev: IN
+longitude: -86.91332799999999
+latitude: 38.677875
+city_longitude: -86.7911096
+city_latitude: 38.6664401
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

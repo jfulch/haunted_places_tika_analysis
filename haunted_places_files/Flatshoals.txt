@@ -1,0 +1,21 @@
+city: Gainesville
+country: United States
+description: In August of 1987 there was a girl about 11 or 12 years old that was abducted by a sheriff and was taken to Flatshoals. She was raped and murdered, and then thrown over the bluff. You can go up there about 12 midnight and hear her blood-curdling screams for help!
+location: Flatshoals
+state: Georgia
+state_abbrev: GA
+longitude: -84.28361509999999
+latitude: 33.7063238
+city_longitude: -83.8240663
+city_latitude: 34.2978794
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1901/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

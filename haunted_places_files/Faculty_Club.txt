@@ -1,0 +1,21 @@
+city: Berkeley
+country: United States
+description: room 219 is haunted by a ghost of an elderly man.
+location: Faculty Club
+state: California
+state_abbrev: CA
+longitude: -122.2558145
+latitude: 37.8717747
+city_longitude: -122.272747
+city_latitude: 37.8715926
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Pendleton
+country: United States
+description: In 1945 two lovers, Jon and Rachael, were playfully chasing each other across the bridge early one morning. They just spent the whole night together doing what lovers do. As Jon chased her, Rachael tripped on her skirt and fell tragically into the creek hitting her head on one of the rocks, killing her almost instantly. Witnesses say that after Jon dove in after Rachael, it appeared that he was being held under by Rachael's lifeless corps. Ever since that day, some claim they can hear the whole tragedy and others say they see it.
+location: Falls Creek Park
+state: Indiana
+state_abbrev: IN
+longitude: -85.740065
+latitude: 40.00734
+city_longitude: -85.7466439
+city_latitude: 39.9975414
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

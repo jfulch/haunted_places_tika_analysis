@@ -1,0 +1,21 @@
+city: Roseland
+country: United States
+description: Strange noises, such as laughter and a crackling fire, and strange lights accompanied with the feeling of not being alone have been reported.
+location: St. John's church graveyard
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9443254
+latitude: 40.3661481
+city_longitude: -74.2937594
+city_latitude: 40.8206555
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

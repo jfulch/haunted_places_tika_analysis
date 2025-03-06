@@ -1,0 +1,21 @@
+city: Brunswick
+country: United States
+description: There have been three people that have died on BHS grounds. Doors slamming, and moving objects. - May 2008 Update - The old Brunswick high school is reported, but not confirmed as haunted. And there was one death that did not happen in the school. Mimi, the reported spirit, died when the car she was in with her boyfriend backed into a snow bank, filling the exhaust pipe and causing carbon monoxide poisoning. So far the research has not been able to determine there have been no actual deaths within the school itself. Also, this school building is now scheduled for demolition to make way for a new elementary school within the next three years.
+location: The Old Brunswick High School
+state: Maine
+state_abbrev: ME
+longitude: -69.9874892
+latitude: 43.88342340000001
+city_longitude: -69.966996
+city_latitude: 43.9140162
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

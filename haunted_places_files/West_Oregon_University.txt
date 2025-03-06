@@ -1,0 +1,21 @@
+city: Monmouth
+country: United States
+description: Todd Hall- For Halloween they gave a haunted tour of it and explained what has occured there. Apparently when the building was first built it was used as an all girls dorm. The headmistress then, was said to be very protective of her girls. She retired after many years of living and working in Todd Hall. They named the hall after her. On the tour, they said that she has been seen and strange things have occurred there. For example, they once caught a bright light on a surveillience camera. There was no one in the building and it was locked up. Sometimes campus security will get calls that a motion detector of system has been set off, but when they go to check the building out no one is there. There have been other strange occurances as well. It is said that other places on campus have been reported as haunted as well, but Todd hall is the most well known.
+location: West Oregon University
+state: Oregon
+state_abbrev: OR
+longitude: -123.2409798
+latitude: 44.8536068
+city_longitude: -123.2339888
+city_latitude: 44.8484524
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/09/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

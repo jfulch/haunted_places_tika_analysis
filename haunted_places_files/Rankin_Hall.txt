@@ -1,0 +1,20 @@
+city: Tarkio
+country: United States
+description: People have seen mop buckets roll down the hall on their own. Some people have heard scratching coming out of a janitors closet.
+location: Rankin Hall
+state: Missouri
+state_abbrev: MO
+longitude: -95.3918445
+latitude: 40.4419093
+city_longitude: -95.3777586
+city_latitude: 40.4402763
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

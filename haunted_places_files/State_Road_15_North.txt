@@ -1,0 +1,21 @@
+city: Bristol
+country: United States
+description: If you go north on State Road 15 past where the toll road on ramp is, you will see an old house on the left, right before the state line. If you stop and watch the house long enough, you will see the spirit of the owner part the curtains and wave at you
+location: State Road 15 North
+state: Indiana
+state_abbrev: IN
+longitude: -85.8174938
+latitude: 41.7214389
+city_longitude: -85.81749459999999
+city_latitude: 41.7214389
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

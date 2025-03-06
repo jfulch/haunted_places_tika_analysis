@@ -1,0 +1,21 @@
+city: North Platte
+country: United States
+description: So after on of our concerts in North Platte, my band mates decided to go out to the famous Buffalo Bill Codys’ house, looking up at the window we saw a vision of a little girl. The curtains were moving around while there was no wind, perfectly clear night. The little girl looked to be glowing around the edges as she moved her hand around.
+location: Buffalo Bill Codys' House
+state: Nebraska
+state_abbrev: NE
+longitude: -100.7952663
+latitude: 41.1638566
+city_longitude: -100.7601454
+city_latitude: 41.1402759
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

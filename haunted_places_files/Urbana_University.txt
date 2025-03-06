@@ -1,0 +1,20 @@
+city: Urbana
+country: United States
+description: North Hall - train tracks - Haunted by a woman named rose for the smell that accompanies her., and on the train tracks there have been reports of a spectral train.
+location: Urbana University
+state: Ohio
+state_abbrev: OH
+longitude: -83.761111
+latitude: 40.100596
+city_longitude: -83.7524298
+city_latitude: 40.1083912
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1902/12/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

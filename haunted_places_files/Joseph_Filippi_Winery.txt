@@ -1,0 +1,21 @@
+city: Rancho Cucamonga
+country: United States
+description: Has been removed
+location: Joseph Filippi Winery
+state: California
+state_abbrev: CA
+longitude: -117.5323013
+latitude: 34.1213949
+city_longitude: -117.5931084
+city_latitude: 34.10639889999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

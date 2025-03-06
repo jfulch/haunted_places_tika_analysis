@@ -1,0 +1,21 @@
+city: Decatur
+country: United States
+description: Apparitions and footsteps are seen and heard.
+location: Decatur High School
+state: Alabama
+state_abbrev: AL
+longitude: -86.9739962
+latitude: 34.5939327
+city_longitude: -86.9833417
+city_latitude: 34.6059253
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

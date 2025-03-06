@@ -1,0 +1,20 @@
+city: Circleville
+country: United States
+description: located near the west side of town right b4 u get out is the gas station. the owner of the gas stations husband died of a brain aneurysm while working in the beer cooler... at night when your working by yourself it feels as if you’re being watched and when all the lights are off you can see things moving in the cooler.
+location: Jenkins Sunoco
+state: Ohio
+state_abbrev: OH
+longitude: -82.94963059999999
+latitude: 39.6034671
+city_longitude: -82.9460133
+city_latitude: 39.600618
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

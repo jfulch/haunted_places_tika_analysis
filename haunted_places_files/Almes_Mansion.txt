@@ -1,0 +1,19 @@
+city: Cockeysville
+country: United States
+description: Faces seen around house and inside house. voices of a woman, a child and a man heard. Things being thrown and moved.
+location: Almes Mansion
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.6438598
+city_latitude: 39.4812172
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

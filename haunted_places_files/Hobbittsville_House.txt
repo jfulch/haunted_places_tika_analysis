@@ -1,0 +1,19 @@
+city: Lincoln
+country: United States
+description: ghost of a girl who died there haunts the property.
+location: Hobbittsville House
+state: Nebraska
+state_abbrev: NE
+city_longitude: -96.6851982
+city_latitude: 40.8257625
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

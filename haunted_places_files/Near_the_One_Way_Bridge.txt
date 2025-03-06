@@ -1,0 +1,21 @@
+city: Lafayette
+country: United States
+description: Reports of an apparition of a woman in a white gown that sits on the corner, once seen she disappears.
+location: Near the One-Way Bridge
+state: New York
+state_abbrev: NY
+longitude: -78.8717782
+latitude: 42.885346
+city_longitude: -73.9974258
+city_latitude: 40.7219989
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

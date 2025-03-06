@@ -1,0 +1,21 @@
+city: Buena Vista
+country: United States
+description: Cold spots, the sound of children crying, and shadow people have all been reported.
+location: Midtown Cafe
+state: Virginia
+state_abbrev: VA
+longitude: -79.3547073
+latitude: 37.7357422
+city_longitude: -79.35392379999999
+city_latitude: 37.7343004
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

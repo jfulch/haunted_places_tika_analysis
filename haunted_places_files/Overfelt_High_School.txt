@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: There have been sightings of a janitor that pass in early 80s. Students say they hear his cart being pushed around during night time.
+location: Overfelt High School
+state: California
+state_abbrev: CA
+longitude: -121.8294737
+latitude: 37.3319401
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

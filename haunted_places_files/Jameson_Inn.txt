@@ -1,0 +1,21 @@
+city: Crestview
+country: United States
+description: In the year of 2000, a new hotel was built next to Cracker Barrel off of Interstate 10 in Crestview. Within a year, strange happenings were going on. An apparition of a man was seen walking through the hallways of the second floor and frequently hanging around the elevator. Employees that work there claim that the man haunts room 208. There have been complaints from guests that have stayed in the room, about strange smells, Cigars, cigarettes, and other things are mysteriously left there burning out of nowhere. Wet/cold spots.
+location: Jameson Inn
+state: Florida
+state_abbrev: FL
+longitude: -86.571092
+latitude: 30.72362699999999
+city_longitude: -86.5727995
+city_latitude: 30.7541808
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

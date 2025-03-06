@@ -1,0 +1,20 @@
+city: Heidelberg
+country: United States
+description: Reports of lights turning off and on, doors slamming shut, sounds of footsteps when the church is empty at night.
+location: Bogue Homa Reservation
+state: Mississippi
+state_abbrev: MS
+longitude: -88.9897155
+latitude: 31.7954049
+city_longitude: -88.98394189999999
+city_latitude: 31.8868224
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

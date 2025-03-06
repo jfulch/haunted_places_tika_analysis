@@ -1,0 +1,19 @@
+city: Osgood
+country: United States
+description: There is a road that the locals all call Devils Elbow. Legend has it that it is haunted by evil spirits. I was raised close to this road all my life. Over the years I have seen and heard many of things such as, red glowing eyes, a woman in white, a bay crying. and sometimes when you are driving on this road your car will die or if it doesn't die, your headlights will get dim as if something is feeding off the energy. About 15 years ago a man was brutally murdered on that road. It was haunted way before the murder incident. Makes one wonder if an evil spirit provoked the murder.
+location: Devils Elbow
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.29162790000001
+city_latitude: 39.1292199
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Morristown
+country: United States
+description: A long time ago way back in the early 1800's, a young woman (Lady Binn) was supposed to get married in the nearby town called Morristown, but her husband had to leave and she went racing down the hill in her carriage after him, but her veil managed to somehow get caught in the spokes of the wheel, which caused the carriage to wreck, and therefore decapitated her head but the story goes that if the conditions are right, if you go down there at night, you can see her ghost looking for her head!
+location: Lady Binn Hill
+state: Ohio
+state_abbrev: OH
+city_longitude: -81.0742676
+city_latitude: 40.0631256
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2006/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

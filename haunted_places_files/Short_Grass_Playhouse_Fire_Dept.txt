@@ -1,0 +1,21 @@
+city: Hobart
+country: United States
+description: Reports of seeing a man with his face half burned has been seen, and of a painting in the Short Grass playhouse of a girl has been painted over several times and it keeps coming back. There are a lot of other stories about this place.
+location: Short Grass Playhouse/ Fire Dept.
+state: Oklahoma
+state_abbrev: OK
+longitude: -99.0931253
+latitude: 35.0258275
+city_longitude: -99.0931317
+city_latitude: 35.0295009
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lincoln
+country: United States
+description: Very few people have seen the ghost of a 4 year old boy on a big wheel.
+location: Teal Hallow
+state: California
+state_abbrev: CA
+longitude: -121.3301885
+latitude: 38.9037726
+city_longitude: -121.2930079
+city_latitude: 38.891565
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1850/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Lauens
+country: United States
+description: Legend has it that a couple was engaged many years ago.  On the night of their wedding, the young man died in a car crash on this bridge.  If you turn your car off and walk around clockwise it will not start.  There will be a white apparition in the trees.  The local newspaper has done many stories on this.
+location: Ghost Creek Rd
+state: South Carolina
+state_abbrev: SC
+longitude: -82.0329666
+latitude: 34.55365
+city_longitude: -82.0142597
+city_latitude: 34.4990116
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

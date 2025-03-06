@@ -1,0 +1,21 @@
+city: Lacon
+country: United States
+description: old Salem is the oldest cemetery in the area. It has many stories of hauntings and strange happenings. There is said to be a grave of a young girl who died in a fire, and that it is impossible to light a match anywhere near her grave. Also there have been a lot of locals mention of car problems leaving the cemetery.
+location: old Salem cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -89.7670323
+latitude: 39.793027
+city_longitude: -89.4112007
+city_latitude: 41.02475829999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

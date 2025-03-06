@@ -1,0 +1,19 @@
+city: Newton
+country: United States
+description: There used to be an old trolley that ran through this town on it's way to Hampton from MA in the early 1900s. There's nothing left now and houses are being built up on it. Everyone who ever visited commented on how uneasy they felt, as if they were being watched from the woods a few feet away.
+location: old trolley line
+state: New Hampshire
+state_abbrev: NH
+city_longitude: -71.0345018
+city_latitude: 42.8695335
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

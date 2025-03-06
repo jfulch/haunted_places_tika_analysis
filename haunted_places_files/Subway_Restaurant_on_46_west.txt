@@ -1,0 +1,21 @@
+city: Columbus
+country: United States
+description: Workers have seen a shadow figure walk across the back of the store and often heard noises in the back when they where the only ones there.
+location: Subway Restaurant on 46 west
+state: Indiana
+state_abbrev: IN
+longitude: -85.9525597
+latitude: 39.1997182
+city_longitude: -85.9213796
+city_latitude: 39.2014404
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

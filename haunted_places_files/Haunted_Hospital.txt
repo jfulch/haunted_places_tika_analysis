@@ -1,0 +1,21 @@
+city: Moline
+country: United States
+description: Update: Has been torn down - abandoned about five years ago stuff has been occurring such as stuff flying and such. Many have died in here as it is a hospital with its own church and skywalk. located in the basement is caged up. people have heard babies crying and doors slam with no wind nights. - October 2003 Update: has been torn down
+location: haunted hospital
+state: Illinois
+state_abbrev: IL
+longitude: -90.4675909
+latitude: 41.513891
+city_longitude: -90.5151342
+city_latitude: 41.5067003
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

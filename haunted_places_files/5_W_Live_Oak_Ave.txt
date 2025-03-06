@@ -1,0 +1,21 @@
+city: Arcadia
+country: United States
+description: Every Business that is built here starts off good but eventually goes down and they are forced to go out of business! It doesn't matter what business it is, it will go under! The land is small, at the corner of the street, and surrounded by a brick wall all around! The source of the curses power is this brick wall! It is rumored but not proven that the curse will be lifted once the wall comes down!! But no one is certain! There was once a gas station, then a Walgreen’s pharmacy and now a Famima food mart!
+location: 5 W Live Oak Ave
+state: California
+state_abbrev: CA
+longitude: -118.0312724
+latitude: 34.1075953
+city_longitude: -118.0353449
+city_latitude: 34.1397292
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: balls of light, white lady on the stage and the "balcony man". Figures have been seen in one’s peripheral vision and balls of light have been reported. Legend says that at some point in history the balcony collapse and a lot of people died.
+location: Modjeca Theatre
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.9267165
+latitude: 43.0124056
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/09/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

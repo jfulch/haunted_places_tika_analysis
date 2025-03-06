@@ -1,0 +1,21 @@
+city: Prestonsburg
+country: United States
+description: There have been sightings of a woman standing in the window screaming for help
+location: Conley Fork
+state: Kentucky
+state_abbrev: KY
+longitude: -82.82381360000001
+latitude: 37.5999369
+city_longitude: -82.7715486
+city_latitude: 37.6656527
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

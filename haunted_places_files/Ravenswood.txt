@@ -1,0 +1,21 @@
+city: Menlo Park
+country: United States
+description: There is a woman in a trench coat, standing under an old-fashioned street lamp, that can be seen at night waiting for a ride. But if you look back, she disappears along with the street lamp.
+location: Ravenswood
+state: California
+state_abbrev: CA
+longitude: -122.1784711
+latitude: 37.4563951
+city_longitude: -122.1817252
+city_latitude: 37.4529598
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Apple Valley
+country: United States
+description: While being built in the summer of 1995, a construction worker was buried alive in the digging process. He's been reportedly seen late at night walking through the commons, unlocking doors, and moaning. The lights surrounding the school mysteriously go on and off late at night also.
+location: Falcon Ridge Middle School
+state: Minnesota
+state_abbrev: MN
+longitude: -93.18493
+latitude: 44.761781
+city_longitude: -93.21772
+city_latitude: 44.7319094
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

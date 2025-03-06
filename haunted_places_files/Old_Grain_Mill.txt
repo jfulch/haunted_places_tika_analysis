@@ -1,0 +1,20 @@
+city: Clinton
+country: United States
+description: For many years people have heard strange noises coming from the building at night. The noises sound like someone is whispering. Some night’s lights are seen moving from one window to the other.
+location: Old Grain Mill
+state: Missouri
+state_abbrev: MO
+longitude: -93.7726566
+latitude: 38.3855415
+city_longitude: -93.7782689
+city_latitude: 38.3686324
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

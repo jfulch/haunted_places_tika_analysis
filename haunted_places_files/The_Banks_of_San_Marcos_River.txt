@@ -1,0 +1,21 @@
+city: Luling
+country: United States
+description: An invisible "thing" haunts the marsh and surrounding woods in this vicinity. Hunters and fisherman have had numerous terrifying encounters with this entity. It is not visible to the human eye, but makes its presence known by weird sounds and the disturbance or "pressing down" of nearby foliage. Ghost? Elemental? No one really knows what this frightening creature is that haunts the desolate swamp and nearby woods on the San Marcos.
+location: The Banks of San Marcos River
+state: Texas
+state_abbrev: TX
+longitude: -97.6986336
+latitude: 29.6914692
+city_longitude: -97.647498
+city_latitude: 29.68050659999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

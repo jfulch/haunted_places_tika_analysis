@@ -1,0 +1,21 @@
+city: Oakly Township
+country: United States
+description: Glowing dots have been seen floating in mid air, wolfs howling, and sounds of feet running and when you look there isn't anything there. -  There is a NO TRESPASSING here.You MUST have permission. You could get shoot. so absolutly DO NOT GO AT NIGHT.
+location: Pecks Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.76758629999999
+latitude: 39.9260858
+city_longitude: -88.79747929999999
+city_latitude: 39.8825563
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Cleves
+country: United States
+description: A tall shadow person was reportedly sighted in low-beam headlights crossing the road at the listed point. Nothing showed in high beams, and when the car was switched back to low-beams the apparition had continued its travel across the road and was now on other side.
+location: Bridgetown Road past Zion Rd in the direction of Cleves
+state: Ohio
+state_abbrev: OH
+city_longitude: -84.74911499999999
+city_latitude: 39.16172419999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Camden
+country: United States
+description: Sites of seeing a male figure behind the auditorium curtains while your back there you can hear the sound of chains rattling it is also to been said that 3 people had died there when you are on the steps on the 3rd floor you may be pushed even near the basement there is a site of a young girl.
+location: H. H. Davis Elementary School
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.0766611
+latitude: 39.9529334
+city_longitude: -75.1196199
+city_latitude: 39.9259463
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1907/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

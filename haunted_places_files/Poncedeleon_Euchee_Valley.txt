@@ -1,0 +1,19 @@
+city: Holmes
+country: United States
+description: Euchee Valley Presbyterian Cemetery - A shadowy figure appears and comes after any one in the graveyard at that time.
+location: Poncedeleon / Euchee Valley
+state: Florida
+state_abbrev: FL
+city_longitude: -85.80766
+city_latitude: 30.8740806
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1845/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

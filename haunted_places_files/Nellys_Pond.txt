@@ -1,0 +1,18 @@
+city: Delanco
+country: United States
+description: Back in the days of the Revolutionary War, it is said that a messenger on horseback drowned in a small pond. His horse's name was Nelly, thus the name Nelly's Pond came about. Even though today most of the pond is dried up, it is believed that while wandering in the woods near the pond, you can still hear the drowning horse crying out.
+location: Nelly's Pond
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.9535016
+city_latitude: 40.0506669
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1802/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

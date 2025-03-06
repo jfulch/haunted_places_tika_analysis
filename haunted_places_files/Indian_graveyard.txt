@@ -1,0 +1,21 @@
+city: Tahlequah
+country: United States
+description: The old Indian cemetery in Tahlequah is a constant source of strange occurrences, sightings of apparitions, and just plain spooky feelings. Tahlequah is the capital of the Cherokee nation, in the foothills of the Ozark Mountains, and is where the sad trail of tears episode in American history finished up...where a quarter of the displaced Native Americans died on the forced march. In the cemetery you immediately feel you are being observed, weird unfilled graves will appear and be gone, sobbing and strange winds are common, and for some reason a dark man dressed in 1930's clothes will sometimes be seen...at times angry and giving chase to visitors at night.
+location: Indian graveyard
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.998096
+latitude: 35.9101331
+city_longitude: -94.969956
+city_latitude: 35.91537
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1930/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

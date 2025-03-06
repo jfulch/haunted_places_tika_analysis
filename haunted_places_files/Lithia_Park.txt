@@ -1,0 +1,21 @@
+city: Ashland
+country: United States
+description: Story of a ghost of a girl who was raped and murdered there in the late 1800's. As witnesses passed a duck pond, they noticed a glowing blue mist floating directly over the center of the pond. They watched it for about thirty seconds, at which point it flickered and vanished like a flame being blown out.
+location: Lithia Park
+state: Oregon
+state_abbrev: OR
+longitude: -122.7160251
+latitude: 42.188697
+city_longitude: -122.7094767
+city_latitude: 42.1945758
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

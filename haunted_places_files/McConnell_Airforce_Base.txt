@@ -1,0 +1,21 @@
+city: Wichita
+country: United States
+description: People have been known to hear strange sounds while performing maintenance on the aircraft, and lights going on and off without any explanation. They say on Halloween night if it is foggy out, a WW2 aircraft with appear to land on the runway then disappear into the fog.
+location: McConnell Airforce Base
+state: Kansas
+state_abbrev: KS
+longitude: -97.24696360000002
+latitude: 37.6410754
+city_longitude: -97.330053
+city_latitude: 37.68717609999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bellevue
+country: United States
+description: During the night (and sometimes during the day) you can feel see and hear the entities of a old man and a little girl. The girl is about 10 and has dark brown hair parted in the middle and roundish glasses that look big for her face. Most don’t get a real good look at her, but the see her in their peripheral vision. The man has been seen crouching down over books, but his face has never been seen. Employees report feeling poking on their back when there's never anyone or anything there to explain it.
+location: John Rice Library
+state: Nebraska
+state_abbrev: NE
+longitude: -95.9069581
+latitude: 41.1501938
+city_longitude: -95.9145568
+city_latitude: 41.1543623
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

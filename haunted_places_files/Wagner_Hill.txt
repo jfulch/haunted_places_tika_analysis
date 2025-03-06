@@ -1,0 +1,21 @@
+city: Mounds
+country: United States
+description: The tombstones glow, there is often an figure of a woman in white seen floating around. It is said it is the ghost of Mrs. Wagner. She killed her husband after he was caught cheating on her. If she catches someone there it is said that she will throw heads at you. If they hit you, it will kill you instantly and the next person that ventures in there will see your body hanging from nearby trees by a rope.
+location: Wagner Hill
+state: Illinois
+state_abbrev: IL
+longitude: -90.2930472
+latitude: 38.67048339999999
+city_longitude: -89.197853
+city_latitude: 37.1142176
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 26m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

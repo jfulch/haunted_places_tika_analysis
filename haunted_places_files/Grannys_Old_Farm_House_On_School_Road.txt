@@ -1,0 +1,18 @@
+city: Whitley City
+country: United States
+description: In 1940's two young men was shot to their death on the stairway while trying to escape from law officials. The old house burned but a new house was built in it's place. In this new house you sometimes see balls of light, hear footsteps, and door slamming late at night.
+location: Granny's Old Farm House On School Road
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.47049419999999
+city_latitude: 36.7234118
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1940/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

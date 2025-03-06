@@ -1,0 +1,21 @@
+city: Marion
+country: United States
+description: Kirtley Hall - Room 313 is haunted by two different ghosts. One is Anne Kirtley herself, and the other is a girl who supposedly killed herself in that room. The doors and windows shake, there are cold spots and more often than not, the entire room is a "cold spot".
+location: Judson College
+state: Alabama
+state_abbrev: AL
+longitude: -87.3149694
+latitude: 32.6298869
+city_longitude: -87.3191655
+city_latitude: 32.6323536
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1625/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

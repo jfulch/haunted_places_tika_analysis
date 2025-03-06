@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: The family began to see objects moving above them at night, heard loud thumps in their attic, and every time the husband would come near his wife he'd feel an odd force pushing him away. They went around looking for old historical facts and information about their house. They found out that's in 1985 a little girl named Doan was abused by her uncle and was raped by her cousin. She was later murdered by her uncle for telling her mother about it so now the family believes that she hovers around protecting any girl that is touched by a male.
+location: Harris Park
+state: Texas
+state_abbrev: TX
+longitude: -97.7315334
+latitude: 30.2920712
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

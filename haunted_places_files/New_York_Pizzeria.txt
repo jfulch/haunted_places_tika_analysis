@@ -1,0 +1,21 @@
+city: Lowville
+country: United States
+description: On the third floor of the building that the New York Pizzeria is in there is old apartment. There one of the rooms has a strange feel to it, and it is hard to breath when you walk in. There have also been reports of voices, and people being pushed down.
+location: New York Pizzeria
+state: New York
+state_abbrev: NY
+longitude: -75.4918428
+latitude: 43.7863715
+city_longitude: -75.4918505
+city_latitude: 43.786736
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

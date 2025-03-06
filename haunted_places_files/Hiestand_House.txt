@@ -1,0 +1,21 @@
+city: Campbellsville
+country: United States
+description: This house is haunted by the Hiestand family.
+location: Hiestand House
+state: Kentucky
+state_abbrev: KY
+longitude: -85.3750464
+latitude: 37.3503093
+city_longitude: -85.3419069
+city_latitude: 37.3433974
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

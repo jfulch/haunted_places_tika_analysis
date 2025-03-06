@@ -1,0 +1,21 @@
+city: Dearborn Heights
+country: United States
+description: The Pool area was torn down this past summer, 2002 - There is a closed pool were a girl dove in and crack her head open and died and people reported that they saw her roaming the halls and her in the pool area. Also they heard her say student's names. Couple people claim they saw her in the pool area wearing blonde hair that is shoulder length with blue eyes.
+location: Riverside Middle School
+state: Michigan
+state_abbrev: MI
+longitude: -83.2941007
+latitude: 42.3422737
+city_longitude: -83.27326269999999
+city_latitude: 42.3369816
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: Haunted Condo - There are many haunting stories. You will turn lights off and they come on the next time you enter the room. Happens with most electronics in the house. Doors will open and close. Tons of footsteps when no one is around. Feel a dramatic presence. Toilets will flush. As well as faucets turning on right before you. There have even been cases of apparitions. Recently there was a sitting held and the ghost appears to be a 17 year old female named Emily who supposedly committed suicide.
+location: McCord
+state: Ohio
+state_abbrev: OH
+longitude: -83.7029337
+latitude: 41.6727546
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Boston
+country: United States
+description: has been know to be the site of two ghostly women, dressed in nineteenth century tea dresses, who smile at passers-by kindly, but vanish when approached.
+location: The Boston Common
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0654886
+latitude: 42.3549544
+city_longitude: -71.0588801
+city_latitude: 42.3600825
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/07/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Pemberton
+country: United States
+description: PTHS Auditorium - Having been a member of the technical stage crew for 3 years, I have often been in the auditorium late at night with a few others, and the chairs move on their own, creaking of the chairs can be heard, and sometimes voices. The curtain often moves on it's own as well (as if there were a breeze in the room- even when the a/c is off) The janitors clean the auditorium as quickly as possible and try to make sure there's more than one of them doing the job at a time. reports that the lighting queues sometimes change or clear themselves as well.
+location: Pemberton Township High School Auditorium
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.6861902
+latitude: 39.9923773
+city_longitude: -74.6829363
+city_latitude: 39.97205779999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

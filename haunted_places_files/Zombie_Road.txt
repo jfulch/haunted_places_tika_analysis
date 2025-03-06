@@ -1,0 +1,18 @@
+city: Ellisville
+country: United States
+description: In the mid 1980's a man was walking along the railroad tracks from one town to another when he was hit by a train. >From time to time people see the man walking by the tracks and being hit.
+location: Zombie Road
+state: Missouri
+state_abbrev: MO
+city_longitude: -90.5870686
+city_latitude: 38.5925532
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1783/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

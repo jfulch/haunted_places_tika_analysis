@@ -1,0 +1,19 @@
+city: Princeton
+country: United States
+description: This is an old bridge located on back roads heading east out of Princeton, the bridge has been host to many suicides, the favorite way was hanging. A man was also found there dead in his car, doors locked, windows up. This was in the middle of the summer when temperatures reached well into the upper 90's. When they found him he was already decomposing. The place is supposedly haunted by these people who hung themselves or were found dead, cold spots are often felt and in the summer you can see your breath like you do in the winter. Growling in the corn fields has also been reported.
+location: Bulldog Bridge
+state: Indiana
+state_abbrev: IN
+city_longitude: -87.5675222
+city_latitude: 38.3553236
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

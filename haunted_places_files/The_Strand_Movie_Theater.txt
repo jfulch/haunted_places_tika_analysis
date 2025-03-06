@@ -1,0 +1,21 @@
+city: Kendallville
+country: United States
+description: The Strand is said to be haunted by one of it's previous owners. There have been multiple sightings of the man. First there was a woman cleaning the theater one day with her 3 and 5 year old children running around. As she was cleaning one of the theater's she heared her children screaming. She went to see what was going on and they both told her that there was a man at the top of the stairs (the stairs that led to the balcony). The woman called one of the workers in and he asked the kids what the man looked like. They gave him a very elaborate description. A few days later that same worker was closing up after the shows and was making sure the emergency exits were closed. As he walked out of the hallway to the one exit he looked up to the projection room and saw a man duck his head really quickly. The man fit the same description the 3 and 5 year old children gave just days before. He ran immediately upstairs; the only way to get to the projection room and there was noone to be found. About a week later a man came along and bought The Strand and the worker noticed this man looked very familiar. He talked to the man and found out that the man's father used to own The Strand as well and killed himself in the projection room years before. I heard this story from one of the workers at the theater now; the same man who saw the ghost when he was a teen working at the theater. The ghost has since been spotted watching people through the projection room window, but ducks immediately upon being spotted.
+location: The Strand Movie Theater
+state: Indiana
+state_abbrev: IN
+longitude: -85.264837
+latitude: 41.4419619
+city_longitude: -85.2649754
+city_latitude: 41.4414384
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

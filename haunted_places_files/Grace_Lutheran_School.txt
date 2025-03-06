@@ -1,0 +1,21 @@
+city: Menomonee Falls
+country: United States
+description: There are presences in the the area that once was a stage, strange noises are heard there. -  November 2005 update: Grace has purchased new property and will be building a new Church and School in Germantown.
+location: Grace Lutheran School
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.11121
+latitude: 43.176723
+city_longitude: -88.1173132
+city_latitude: 43.1788967
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

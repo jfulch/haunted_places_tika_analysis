@@ -1,0 +1,21 @@
+city: Baltimore
+country: United States
+description: Robert Long House - Reports of weird feelings are felt on the first floor, which has been restored. The 2nd floor is where noises were heard. The 3rd floor, which still had smoke damage from a fire. This was a very cold place that had worse feelings.
+location: Fells Point
+state: Maryland
+state_abbrev: MD
+longitude: -76.593611
+latitude: 39.2842097
+city_longitude: -76.6121893
+city_latitude: 39.2903848
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1765/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

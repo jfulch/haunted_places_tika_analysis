@@ -1,0 +1,21 @@
+city: Sioux City
+country: United States
+description: People taking pictures, hunting for orbs, experience slight disorientation, and cameras stop functioning until you leave the premises.
+location: Graceland Park Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -96.3478677
+latitude: 42.4574798
+city_longitude: -96.4003069
+city_latitude: 42.4999942
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

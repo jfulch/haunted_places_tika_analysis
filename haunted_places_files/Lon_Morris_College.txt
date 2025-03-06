@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: Craven-Wilson Dorm - The dorm is haunted by a supposedly female ghost and each year she chooses a resident to live with. Sources say the ghost is apparently the former dorm director Ms. Brown who died of cancer before her term as director was completed. Sources say her spirit feels the need to complete her stay as the dorm director. Harmless activities are noticed by residents in the chosen room such as: things being moved on shelves, drawers being opened, electronics turning on and off, radio stations changing on their own, noises being heard from the room while the occupants were away for the weekend, clothes moving in closet, dishes being re-arranged, items jumping off shelves as if pushed from behind, unexplained steaming water from the cold water pipes, and the shower curtain would be pushed in with great force towards the occupant while showering.
+location: Lon Morris College
+state: Texas
+state_abbrev: TX
+longitude: -95.27713740000002
+latitude: 31.9550499
+city_longitude: -95.2705042
+city_latitude: 31.963778
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

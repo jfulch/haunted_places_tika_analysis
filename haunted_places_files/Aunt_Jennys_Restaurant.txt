@@ -1,0 +1,20 @@
+city: Ocean Springs
+country: United States
+description: In the upstairs part of the restaurant, it has been seen by many people strange things happen such as items being misplaced on the table and noises being heard when no one was upstairs.
+location: Aunt Jenny's Restaurant
+state: Mississippi
+state_abbrev: MS
+longitude: -88.82824300000001
+latitude: 30.418387
+city_longitude: -88.8278057
+city_latitude: 30.4113097
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Goldfield
+country: United States
+description: The former owner of the hotel got a prostitute pregnant. When it started to show he tied her to a radiator in one of the rooms. When she had the baby the owner killed them both. It is said she still haunts the hotel to this day.
+location: Goldfield Hotel
+state: Nevada
+state_abbrev: NV
+longitude: -117.2356831
+latitude: 37.7080514
+city_longitude: -117.2357131
+city_latitude: 37.7084481
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

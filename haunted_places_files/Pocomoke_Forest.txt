@@ -1,0 +1,21 @@
+city: Pocomoke
+country: United States
+description: Slaves are said to haunt the entire forest and surrounding swamp. 1000's of stories I have herd about the swamp. lots about slaves been beaten to death. About slave masters having affairs with slaves and then drowning the off spring.
+location: Pocomoke Forest
+state: Maryland
+state_abbrev: MD
+longitude: -75.4985521
+latitude: 38.1923486
+city_longitude: -75.56798049999999
+city_latitude: 38.0756773
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1981/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

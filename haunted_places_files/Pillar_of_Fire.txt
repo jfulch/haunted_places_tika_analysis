@@ -1,0 +1,20 @@
+city: Westminster
+country: United States
+description: Is haunted by the victims of a murder that happened years ago, the hauntings consist of faces being seen in the tower windows ghost mist around in the cemetery.
+location: Pillar of Fire
+state: Colorado
+state_abbrev: CO
+longitude: -105.0320914
+latitude: 39.8472373
+city_longitude: -105.0372046
+city_latitude: 39.8366528
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1939/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

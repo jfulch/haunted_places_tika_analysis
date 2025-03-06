@@ -1,0 +1,21 @@
+city: Millstadt
+country: United States
+description: This road is between Millstadt and Belleville off State Route 163. There are many stories about this road, such as a bridge where someone hung themselves and if you drive by there on the anniversary of this occurrence you can see them hanging from the bridge. Another one is of a house where when you drive by a ghost truck chases you. Another one that is of a house where supposedly a witch lived, that has since been torn down. -  WARNING: If you go on this road, be very careful, it is full of curves and hills. In fact, on the first hill and curve of the road, a car hit the tree just before the bridge and a girl was killed.
+location: Zingg Road
+state: Illinois
+state_abbrev: IL
+longitude: -90.1123056
+latitude: 38.4845543
+city_longitude: -90.0917755
+city_latitude: 38.4614404
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Crystal Lake
+country: United States
+description: An old woman who died had willed her property to a church, specifying that the property was to used for a school. Barnes & Noble (along with a couple other stores) now occupies this property. Employees have witnessed book carts moving by themselves, and have reported items being moved around. Some claim to have seen the old lady in the back storeroom.
+location: Barnes &amp; Noble bookstore
+state: Illinois
+state_abbrev: IL
+longitude: -95.9180191
+latitude: 36.1054233
+city_longitude: -88.31619649999999
+city_latitude: 42.2411344
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

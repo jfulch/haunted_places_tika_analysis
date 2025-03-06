@@ -1,0 +1,21 @@
+city: Lebanon
+country: United States
+description: Things fly off the walls out of the blue during the night, They're Christmas photos showed up with blotches of "fog", and at night they turn the heat up VERY high because it get extremely cold!
+location: The Caldwell House
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7635359
+latitude: 38.2291269
+city_longitude: -85.2527381
+city_latitude: 37.5697868
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

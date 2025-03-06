@@ -1,0 +1,21 @@
+city: Chehalis
+country: United States
+description: years ago this place was a school house for little kids until one day a man burnt it down with the kids stuck inside...if you go there you will see a little boy playing with the wagon occasionally he will come up and dance around you.
+location: the steps
+state: Washington
+state_abbrev: WA
+longitude: -122.9591759
+latitude: 46.6824397
+city_longitude: -122.9640175
+city_latitude: 46.6620478
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

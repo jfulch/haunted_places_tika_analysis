@@ -1,0 +1,21 @@
+city: Stafford
+country: United States
+description: Many Believe a curse haunts this creek for its furious common winds. Holds an urban legend of a man who haunts the creek with his slaves often heard singing from local children- many fear. Local Carlstrom/Mackey children have heard often curse stories and many don’t believe in it.
+location: Silverthorn Creek
+state: Virginia
+state_abbrev: VA
+longitude: -77.44850799999999
+latitude: 38.4555208
+city_longitude: -77.4242972
+city_latitude: 38.4334566
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1857/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

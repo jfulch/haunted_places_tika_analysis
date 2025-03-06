@@ -1,0 +1,21 @@
+city: Rockford
+country: United States
+description: It is said that several stores in this mall are to be haunted. Several mall employees have reported being followed through the mall by unseen forces after mall hours, things moving on their own, hangers swinging around, clothes mysteriously falling off racks, strange voices, bathroom doors being held shut when no one was there, and occasionally a store would be rather messy the next morning when it was cleaned quite well the night before.
+location: Cherryvalle Mall
+state: Illinois
+state_abbrev: IL
+longitude: -88.975647
+latitude: 42.245826
+city_longitude: -89.0939952
+city_latitude: 42.2711311
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Atlanta
+country: United States
+description: The old cabin located on Camp 8 road is haunted by three young ghosts all sisters died during the flu epidemic in the upstairs bedroom. Reports of crying and screaming have been herd throughout the house. And pictures taken by visitors have shown more than just the three ghosts. Young children, orbs and a demon have also shown up in this film. - March 2008 Update: This is private property. No Trespassing.
+location: Camp 8 Cabin
+state: Michigan
+state_abbrev: MI
+longitude: -84.2878159
+latitude: 44.84782939999999
+city_longitude: -84.1438927
+city_latitude: 45.00473059999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

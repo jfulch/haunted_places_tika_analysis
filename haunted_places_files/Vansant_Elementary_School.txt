@@ -1,0 +1,21 @@
+city: Grundy
+country: United States
+description: Along the old hall ways, lights flicker without electricity, foot steps are heard by people living around it, and a friendly ghost walks the girls bathroom at night.
+location: Vansant Elementary School
+state: Virginia
+state_abbrev: VA
+longitude: -82.1943892
+latitude: 37.2113606
+city_longitude: -82.0990223
+city_latitude: 37.2778886
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/07/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

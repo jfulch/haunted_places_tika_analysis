@@ -1,0 +1,21 @@
+city: Lake Delton
+country: United States
+description: On Ringling Road there is a trail that leads to a well, sources have seen a white image of a woman visit this well every night between 12 and 3 a.m. A few yards back there is a shack, inside is a stool that a man used to hang himself. This shack has been reported haunted.
+location: Ringling Road
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.74084510000002
+latitude: 43.5900295
+city_longitude: -89.7937357
+city_latitude: 43.6010909
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1986/05/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

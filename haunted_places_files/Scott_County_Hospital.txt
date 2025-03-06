@@ -1,0 +1,21 @@
+city: Scott County
+country: United States
+description: The ghost of a hospital psychiatric patient who dove off the end of a bed and killed herself is said to ride the elevators to the nursery to see the newborn babies. Her name is Cora and she opens doors and knocks items off of shelves. There was a report of someone seeing a woman walking onto the elevator near the nursery. They yelled for her to hold the elevator doors and when they walked into the elevator there was no one there.
+location: Scott County Hospital
+state: Tennessee
+state_abbrev: TN
+longitude: -84.51539489999999
+latitude: 36.5043495
+city_longitude: -84.5222189
+city_latitude: 36.3976209
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

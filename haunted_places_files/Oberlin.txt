@@ -1,0 +1,20 @@
+city: Lorain
+country: United States
+description: New Union Center for the Arts - strange voices when building is empty, ghost appear from thin air, objects moving from one room to another. There are all just some of the things that happen in this old building.
+location: Oberlin
+state: Ohio
+state_abbrev: OH
+longitude: -82.1852868
+latitude: 41.443393
+city_longitude: -82.1823746
+city_latitude: 41.452819
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

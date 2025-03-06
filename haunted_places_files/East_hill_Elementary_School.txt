@@ -1,0 +1,21 @@
+city: Kent
+country: United States
+description: a man committed suicide by hanging himself from the stairs. the school children and staff have admitted to seeing an apparition of a man hanging from the stairs. they have also heard him moaning and choking. when walking near the stairs some people report feeling like their throats have been constricted and they suddenly feel chills up their spines. some other children say they can hear him whispering
+location: East hill Elementary School
+state: Washington
+state_abbrev: WA
+longitude: -122.2081824
+latitude: 47.38606799999999
+city_longitude: -122.2348432
+city_latitude: 47.3809335
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1895/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Crestview
+country: United States
+description: On a normal basis, this cemetery is haunted by a ghost that walks among the grave at about 1:24 A.M. AS the story goes this ghost is a man late 80's ; retired officer looking for his wife. He appears mostly in Feb. - January 2007 additional information: The road is between a gas station on highway 90 and a hairdressing place. Keep going past the church, a ways. This road is mostly paved. It's on the left hand side on a dirt road - it’s very narrow (ie, you can't turn around in it till your in the cemetery) KKK apparitions, ghosts of the lynched and a wondering man. There seem to be a lot of white flashes, like a sheet running and then it's gone.
+location: Cobb Cemetery
+state: Florida
+state_abbrev: FL
+longitude: -86.62843439999999
+latitude: 30.8165249
+city_longitude: -86.5727995
+city_latitude: 30.7541808
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1981/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

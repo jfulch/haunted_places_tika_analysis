@@ -1,0 +1,21 @@
+city: Gainesville
+country: United States
+description: the school is in Wyoming County and was built back in the early 1900's. There is an unsolved myth that the school was built where Native Americans used to live. Many of the students have had experiences. Students have had doors and lockers slam on them. Lights mysteriously go on and off. A mysterious fog, an apparition of a child have been reported.
+location: Letchworth Central School
+state: New York
+state_abbrev: NY
+longitude: -78.11649969999999
+latitude: 42.6292602
+city_longitude: -78.13363799999999
+city_latitude: 42.6542217
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1867/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

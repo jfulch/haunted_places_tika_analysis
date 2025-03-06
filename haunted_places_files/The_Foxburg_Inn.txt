@@ -1,0 +1,21 @@
+city: St. Benedict
+country: United States
+description: In the dining area, the first booth to your right has a table cloth. The table is supposedly haunted and the table cloth has been seen just flying off of the table, with no one sitting there, knocking off even the ash tray.
+location: The Foxburg Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.678945
+latitude: 41.140101
+city_longitude: -78.72946929999999
+city_latitude: 40.6275682
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

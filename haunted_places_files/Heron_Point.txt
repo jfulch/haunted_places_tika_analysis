@@ -1,0 +1,21 @@
+city: Longview
+country: United States
+description: This place was supposedly built on an old Indian burial ground. Some people have reported seeing Indians walking the streets at night and that they just disappear. Another ghostly sighting has been a tall man dressed in all black with a black hood and a long kind of satin like material than drags down to the ground. People usually see him in the back of the park, walking up and down the old driveways and he likes to scare people at night by appearing behind them and whispering something. Then he would disappear when they turn around. My friends and I have seen him in the early morning while walking to the bus stop and we also see him on the grounds of the bus stop too. The Indians have been reported in houses too.
+location: Heron Point
+state: Washington
+state_abbrev: WA
+longitude: -123.0229966
+latitude: 46.17370589999999
+city_longitude: -122.9381672
+city_latitude: 46.1381676
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

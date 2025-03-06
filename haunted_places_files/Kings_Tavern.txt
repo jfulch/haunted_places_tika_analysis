@@ -1,0 +1,20 @@
+city: Natchez
+country: United States
+description: Madeline haunts this building and has been witnessed by 100's.
+location: King's Tavern
+state: Mississippi
+state_abbrev: MS
+longitude: -91.399107
+latitude: 31.560312
+city_longitude: -91.403171
+city_latitude: 31.5604442
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1939/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

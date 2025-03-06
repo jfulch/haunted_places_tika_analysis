@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: there ones was a little girl that died of an illness. There has been rumors that you can here her in the room. There will be imprints in the bed sheets and ones there was a little boy came to stay with his mother and at night a little girl was playing with his toys saying "want to play with me" so the little boy screamed and it went away
+location: The House of Blues
+state: Illinois
+state_abbrev: IL
+longitude: -87.62912999999999
+latitude: 41.888233
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

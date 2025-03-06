@@ -1,0 +1,21 @@
+city: Kearney
+country: United States
+description: The basement of the Children's Museum in Kearney is very heavily haunted. It is full of strange equipment, and has very odd-colored stains on the walls. Sudden temperature drop, hairs all over standing on end and a generally very, very bad feeling were experienced.
+location: Kearney Area Children's Museum
+state: Nebraska
+state_abbrev: NE
+longitude: -99.0861987
+latitude: 40.7312289
+city_longitude: -99.0816784
+city_latitude: 40.69933030000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Latonia
+country: United States
+description: The store is haunted by a man who died in the store in December of 2006. He had worked there for 30 years and he can be seen wandering in the back of the store by where the house wares and toy department is. He has also been seen walking around on the back dock in the early morning.
+location: Value City Department Store
+state: Kentucky
+state_abbrev: KY
+longitude: -84.65038779999999
+latitude: 39.0042739
+city_longitude: -84.50966210000001
+city_latitude: 39.0514185
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

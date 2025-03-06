@@ -1,0 +1,21 @@
+city: Clinton
+country: United States
+description: This library is haunted by ghosts that roam around in daylight or night. You can hear them whispering and footsteps walking. Sometimes even books fall out of the bookshelves without anyone near them. There is a up stairs, and up there you can hear footsteps coming up and down the stairs.
+location: Clinton Library
+state: New York
+state_abbrev: NY
+longitude: -75.38427399999999
+latitude: 43.047749
+city_longitude: -75.3785034
+city_latitude: 43.0484029
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

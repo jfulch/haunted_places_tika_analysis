@@ -1,0 +1,19 @@
+city: Midland Park
+country: United States
+description: haunted by many ghosts, including a ghost cat.
+location: Crayhay Mansion
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.1406988
+city_latitude: 40.98926429999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

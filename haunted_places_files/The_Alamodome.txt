@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Before the Alamodome was built, existed a bad neighborhood where a lady got raped and killed. She has been seen walking around the parking lot, as if to be lost. Years passed and the neighborhood was demolished and the dome was built. While constructing the dome, a worker was walking on a high beam and made a wrong step and fell to his death. He is seen walking the long halls of the dome. Last but not least, a famous daredevil died while performing a stunt. It is reported, that you are sure to hear footsteps, screams, mumbling, moans and see shadows walking along about their business.
+location: The Alamodome
+state: Texas
+state_abbrev: TX
+longitude: -98.4788143
+latitude: 29.4169834
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

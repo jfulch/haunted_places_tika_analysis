@@ -1,0 +1,21 @@
+city: Windham
+country: United States
+description: In the early morning hours sometimes the locals claim to see two young girls playing in front of the old chute road cemetery. Legend has it that there are two sisters who have tombstones there but are not buried there because their bodies were never found. They believe the girls might have died in an old well or mine shaft.
+location: The Chute Road Cemetery
+state: Maine
+state_abbrev: ME
+longitude: -70.4163341
+latitude: 43.7396341
+city_longitude: -70.39870599999999
+city_latitude: 43.7588577
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,18 @@
+city: St. Joseph
+country: United States
+description: It's the house of the resident C.W. Farquhar. It has been known by many people that have stayed in the basement long enough. The doors will lock. The lights will turn a light red color. Screams of many young girls. And full figured ghosts seen laying on the ground screaming. In 1975 a man brought many young girls to the basement and slowly killed them.
+location: The Death Cellar
+state: Missouri
+state_abbrev: MO
+city_longitude: -94.846681
+city_latitude: 39.7674578
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1975/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

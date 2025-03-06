@@ -1,0 +1,19 @@
+city: Jacksonville
+country: United States
+description: 2 crying ghosts dwell here, and old lady and a young girl.
+location: Herman Helms House
+state: Oregon
+state_abbrev: OR
+city_longitude: -122.9669865
+city_latitude: 42.31345839999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: South Hills Bowl - White misty apparition. - March 2008 Update: The bowling alley is now closed.
+location: Baldwin
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9369121
+latitude: 40.3790308
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

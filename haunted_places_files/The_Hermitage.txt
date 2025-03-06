@@ -1,0 +1,21 @@
+city: Nashville
+country: United States
+description: Home to President Andrew Jackson.  Several Caretakers have reported seeing slaves gathered on the front balcony of the mansion in front of Jackson's bedroom window.
+location: The Hermitage
+state: Tennessee
+state_abbrev: TN
+longitude: -86.61294939999999
+latitude: 36.2150124
+city_longitude: -86.7816016
+city_latitude: 36.1626638
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

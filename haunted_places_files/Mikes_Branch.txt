@@ -1,0 +1,21 @@
+city: Pikeville
+country: United States
+description: Late at night an image of a rail road worker can be seen carrying and swinging a lantern back and forth. It has been told that the man was killed while trying to warn a child to stay off the tracks while the train had been worked on, only he was caught and pinned by the train when he fell and knocked himself unconscious. Being crushed to death.
+location: Mikes Branch
+state: Kentucky
+state_abbrev: KY
+longitude: -82.4815545
+latitude: 37.566784
+city_longitude: -82.5187629
+city_latitude: 37.4792672
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

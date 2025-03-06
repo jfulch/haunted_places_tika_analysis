@@ -1,0 +1,21 @@
+city: Lily Dale
+country: United States
+description: many people have reported seeing a man  with a full beard and glasses, dressed in Victorian garb, walking across the podium there.
+location: Assembly Hall
+state: New York
+state_abbrev: NY
+longitude: -79.3259044
+latitude: 42.35072090000001
+city_longitude: -79.3242113
+city_latitude: 42.3517246
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 1

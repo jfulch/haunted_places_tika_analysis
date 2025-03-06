@@ -1,0 +1,21 @@
+city: Ocala
+country: United States
+description: Rich socialite from NY would spend summers here and would have parties during prohibition. During one such party, a fire started (reason unknown) and several people died including the woman and her 2 dogs. To this day you can here the sounds of that party in her room and also the sounds of people running into the hall and down the stairwell trying to escape the fire.
+location: Ritz Historical Inn
+state: Florida
+state_abbrev: FL
+longitude: -82.1233323
+latitude: 29.187371
+city_longitude: -82.14009229999999
+city_latitude: 29.1871986
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

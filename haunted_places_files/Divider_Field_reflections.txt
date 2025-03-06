@@ -1,0 +1,19 @@
+city: Lake Elsinore
+country: United States
+description: Supposedly, 3 or 4 workers plowing out the area for construction, were accidentally killed by some of the machinery. Strange hot and cold spots have been recorded.
+location: Divider Field (reflections)
+state: California
+state_abbrev: CA
+city_longitude: -117.3272615
+city_latitude: 33.6680772
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

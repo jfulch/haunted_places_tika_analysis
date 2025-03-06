@@ -1,0 +1,21 @@
+city: Luling
+country: United States
+description: the ghost of the man who created the hospital (same name) nurses and doctors have reports about doors opening and closing medicine being knocked on the ground when only 1 person in the room
+location: Edgar B. Davis Hospital
+state: Texas
+state_abbrev: TX
+longitude: -97.654459
+latitude: 29.673084
+city_longitude: -97.647498
+city_latitude: 29.68050659999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2017/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

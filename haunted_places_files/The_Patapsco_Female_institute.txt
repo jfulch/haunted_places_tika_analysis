@@ -1,0 +1,21 @@
+city: Ellicott City
+country: United States
+description: Is one of the most haunted in the area. Reports of screams and there is a cold spot at the top of the huge stairs.
+location: The Patapsco Female institute
+state: Maryland
+state_abbrev: MD
+longitude: -76.797033
+latitude: 39.2708634
+city_longitude: -76.7983067
+city_latitude: 39.2673283
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.483333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

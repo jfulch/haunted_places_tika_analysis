@@ -1,0 +1,21 @@
+city: Sault Ste Marie
+country: United States
+description: In the Corp of Engineers park in Sault Ste Marie by the Soo Locks, it is said to be haunted by numerous spirits of deceased Irishmen who where worked to death building the original locks, figures are seen at night as well as transparent figures.
+location: Corp of Engineers Park
+state: Michigan
+state_abbrev: MI
+longitude: -84.33892759999999
+latitude: 46.5041886
+city_longitude: -84.3453169
+city_latitude: 46.4952996
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/03/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Jerome
+country: United States
+description: This motel was once a hospital/insane asylum. It has had many different occurrences from the lights turning on with no electricity, to the presence of hounds that are about five feet tall.
+location: The Grand Motel
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1148375
+latitude: 34.7477558
+city_longitude: -112.1137716
+city_latitude: 34.7489107
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

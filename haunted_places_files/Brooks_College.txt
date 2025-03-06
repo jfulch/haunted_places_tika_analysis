@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: The college was built on the site of an old Navy hospital that existed during WWII. The hospital took in all the soldiers that were wounded in the Pacific. The hospital was torn down and the dorms for Cal State Long Beach were built. Many students report seeing men in Navy garb. A man in a Doctor's coat is also reported.
+location: Brooks College
+state: California
+state_abbrev: CA
+longitude: -118.1431022
+latitude: 33.7898243
+city_longitude: -118.1937395
+city_latitude: 33.7700504
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

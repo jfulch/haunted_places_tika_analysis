@@ -1,0 +1,21 @@
+city: Muhlenburg
+country: United States
+description: A boy coming out of gym class was said to have collapsed and died from a heart problem. Now students and teachers that are in the building at night have said to have seen him in the hallways.
+location: Muhlenburg High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.9254567
+latitude: 40.3929657
+city_longitude: -76.1590963
+city_latitude: 41.2289714
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

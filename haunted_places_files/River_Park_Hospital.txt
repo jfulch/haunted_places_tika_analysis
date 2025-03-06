@@ -1,0 +1,21 @@
+city: Huntington
+country: United States
+description: The ghost of a nurse, seemingly still going about her duties, has been seen for many years by the living staff of this one-time crippled children’s hospital.
+location: River Park Hospital
+state: West Virginia
+state_abbrev: WV
+longitude: -82.43686249999999
+latitude: 38.4195346
+city_longitude: -82.44515400000002
+city_latitude: 38.4192496
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: North Haven
+country: United States
+description: Ghost of deceased fire fighter Albert Brunelle is said to be seen sitting in the back of Emergency 1 smoking a cigar. Upon second glance, witnesses stated seeing nothing but a quick fog followed by a small pigeon flying by the firehouse.
+location: Fire Headquarters
+state: Connecticut
+state_abbrev: CT
+longitude: -72.8619449
+latitude: 41.38842289999999
+city_longitude: -72.8595447
+city_latitude: 41.39091390000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

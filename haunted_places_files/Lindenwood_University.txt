@@ -1,0 +1,20 @@
+city: St. Charles
+country: United States
+description: Sibley hall -  students on the top floor have reported to wake up in mid-air with their mattress below them. There is one hallway that no students are allowed to enter, because it is haunted. It has been boarded shut.
+location: Lindenwood University
+state: Missouri
+state_abbrev: MO
+longitude: -90.503717
+latitude: 38.787519
+city_longitude: -90.4974359
+city_latitude: 38.7881062
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1948/02/08
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

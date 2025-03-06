@@ -1,0 +1,21 @@
+city: Grand Island
+country: United States
+description: There are several sighting of Ghosts walking around w/ limbs missing. Their are reports of screams of "help there’s a gator". I would warn any one not to go in the lakes looking for their golf balls.
+location: Wedgewood's Golf place
+state: Florida
+state_abbrev: FL
+longitude: -81.7493911
+latitude: 28.8789692
+city_longitude: -81.7289657
+city_latitude: 28.8824885
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

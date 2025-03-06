@@ -1,0 +1,21 @@
+city: Birmingham
+country: United States
+description: This used to be the Old Iron Plant, but is now a popular location for concerts. The ghost of a worker who was killed at the plant has been seen walking around the catwalks above the main floor, where the concerts are held.
+location: Sloss Furnace
+state: Alabama
+state_abbrev: AL
+longitude: -86.7910608
+latitude: 33.5206505
+city_longitude: -86.80248999999999
+city_latitude: 33.5206608
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

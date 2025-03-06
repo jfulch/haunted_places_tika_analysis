@@ -1,0 +1,19 @@
+city: Peru
+country: United States
+description: where the old pizza hut used to be. Near highway 31,and if you take that road all the way back till you see a trailer court you found it! There have been seen strange creatures and very strange noises back there. There’s a cemetery on the side dating back to the 1800s and there been dry lighting hitting it for some time now (worth a look).
+location: Kings Courts
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.0688811
+city_latitude: 40.7536528
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

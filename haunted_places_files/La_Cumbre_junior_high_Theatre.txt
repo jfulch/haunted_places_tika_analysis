@@ -1,0 +1,21 @@
+city: Santa Barbara
+country: United States
+description: A student by the name of Edwin was killed in the theatre in the 1950s when a counterweight sand bag fell from the cat walk and broke his neck. Students have sited him in the theatre and in the upper cat walk. The sand bag that killed him still exists but is not used anymore.
+location: La Cumbre junior high Theatre
+state: California
+state_abbrev: CA
+longitude: -119.7285183
+latitude: 34.4238703
+city_longitude: -119.6981901
+city_latitude: 34.4208305
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1947/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Montevallo
+country: United States
+description: Main Hall - Early in the 20th century, a student was cooking fudge, but she knocked over a bottle of alcohol that she and her roommate were using. The alcohol spilled on her nightgown, which got caught in the flame. Her roommate tried to use a rug to put out the fire, but it fell off of her as she ran out into the hallway and burned to death. You can still see her in the halls in a flaming nightgown. She was 16 years old.
+location: University of Montevallo
+state: Alabama
+state_abbrev: AL
+longitude: -86.86541679999999
+latitude: 33.1067187
+city_longitude: -86.86415579999999
+city_latitude: 33.1006746
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

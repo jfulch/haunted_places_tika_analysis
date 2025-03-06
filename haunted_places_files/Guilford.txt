@@ -1,0 +1,21 @@
+city: Sunman
+country: United States
+description: on a bridge going across the creek to the Guilford park you can sometimes here a woman screaming and a train. It is said that the woman was hit and knocked into the creek next to the train tracks and the creek carried her down to the bridge were her body was then found. they never found out who the woman was because when the police were investigating the body it started raining and the creek rose and washed the body away.
+location: Guilford
+state: Indiana
+state_abbrev: IN
+longitude: -84.97384050000001
+latitude: 39.2781869
+city_longitude: -85.0946809
+city_latitude: 39.2369971
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

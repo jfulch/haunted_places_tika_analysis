@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: An apparition of a man is to be seen at night dragging himself from section to section trying to get out of the store.
+location: H.E.B. Guadalupe
+state: Texas
+state_abbrev: TX
+longitude: -99.483037
+latitude: 27.506117
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

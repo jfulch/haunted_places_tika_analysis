@@ -1,0 +1,21 @@
+city: Livingston
+country: United States
+description: Lights from inside can sometimes be seen through the cracks along the edge of the doors and windows, even though there is no one there, and the doors are padlocked from the outside. Piano playing can also sometimes been heard.
+location: Old Union Church
+state: Tennessee
+state_abbrev: TN
+longitude: -85.4261923
+latitude: 36.3863945
+city_longitude: -85.3230221
+city_latitude: 36.3833961
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

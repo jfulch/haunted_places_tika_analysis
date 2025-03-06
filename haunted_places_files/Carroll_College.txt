@@ -1,0 +1,21 @@
+city: Helena
+country: United States
+description: Legend has it that a priest committed suicide by jumping from the fourth floor bathroom window of Saint Charles Hall, which is one of the dormitories on campus. Not long after the suicide, a varsity basketball player who lived on that floor slipped and cracked his head open in the same bathroom. Needless to say, he died from the injury. The school closed the bathroom after that. Years later, there were reports of blood flowing from the sink in that bathroom, even though the pipes were disconnected from the wall. The bathroom is still locked up to this day.
+location: Carroll College
+state: Montana
+state_abbrev: MT
+longitude: -112.03888
+latitude: 46.600734
+city_longitude: -112.0245054
+city_latitude: 46.5883707
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

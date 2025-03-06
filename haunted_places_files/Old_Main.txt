@@ -1,0 +1,21 @@
+city: San Marcos
+country: United States
+description: The building called "Old Main" has two reputed ghosts, one a blatant fake, but the other seemingly real. The fake is that the ghost of LBJ roams the halls. The other stems from a time before the building was renovated. Before renovation (as it can be seen in the movie D.O.A. with Meg Ryan) the three-story building was open from the roof to the ground. Legend has it that a young student fell (jumped or was pushed) from the third floor and died on impact. Today, custodial staff has reported seeing the girl, still dressed as she was then, clutching her books, trying to get to class.
+location: Old Main
+state: Texas
+state_abbrev: TX
+longitude: -97.9389417
+latitude: 29.8893758
+city_longitude: -97.9413941
+city_latitude: 29.8832749
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

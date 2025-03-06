@@ -1,0 +1,21 @@
+city: San Bernardino
+country: United States
+description: Reports of a presence felt and seeing movement in your peripheral vision.
+location: California Theater
+state: California
+state_abbrev: CA
+longitude: -117.2954707
+latitude: 34.1065707
+city_longitude: -117.2897652
+city_latitude: 34.1083449
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

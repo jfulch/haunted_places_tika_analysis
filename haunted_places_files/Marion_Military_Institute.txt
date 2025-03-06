@@ -1,0 +1,21 @@
+city: Marion
+country: United States
+description: Built in the early 1800's, Marion Military Institute was used for other purposes besides schooling. During the civil war, battle victims were taken to the Chapel on campus, which was turned into a hospice. The ones that didn't survive were buried directly behind the chapel. Since then, cadets have had experiences with objects in their room being moved, unusual noises in the hallways and rooms, and experiences with paranormal activity. Some believe that the spirits that live on campus, due to their extreme mood changes, possess some of the cadets. There have been no cases of violent ghosts or apparitions, but there have been several reports made about cadets having been alone and then having a sudden rush of a presence being in the room.
+location: Marion Military Institute
+state: Alabama
+state_abbrev: AL
+longitude: -87.322018
+latitude: 32.623738
+city_longitude: -87.3191655
+city_latitude: 32.6323536
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

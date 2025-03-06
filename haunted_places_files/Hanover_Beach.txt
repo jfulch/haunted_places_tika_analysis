@@ -1,0 +1,21 @@
+city: Hanover
+country: United States
+description: A preacher drowned while swimming to shore to find help for victims of a sinking riverboat. Usually appears around 2 am when it is real foggy.
+location: Hanover Beach
+state: Indiana
+state_abbrev: IN
+longitude: -85.4735707
+latitude: 38.7142263
+city_longitude: -85.4735707
+city_latitude: 38.7142263
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

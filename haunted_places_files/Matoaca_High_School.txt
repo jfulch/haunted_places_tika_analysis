@@ -1,0 +1,21 @@
+city: Matoaca
+country: United States
+description: At the old high school it is known to be haunted in the theater. Lights move and cut off, doors shake and you hear many noises. There is also a cold chill when you call upon the ghosts. Also, banging noises on the door.
+location: Matoaca High School
+state: Virginia
+state_abbrev: VA
+longitude: -77.468062
+latitude: 37.2771769
+city_longitude: -77.47748539999999
+city_latitude: 37.2304283
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1987/04/11
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

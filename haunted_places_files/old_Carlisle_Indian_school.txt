@@ -1,0 +1,21 @@
+city: Carlisle
+country: United States
+description: A young Indian girl named Lucy Pretty Eagle. After her death at the school, reports of things moving and possibly sightings of her. When the told her father, he said that she had died the year before and came back. So it is possible that she wasn't dead when she was buried in the school cemetery. There could be other hauntings there; she is just the best known. You can still visit the cemetery and se her grave as well as many, many, others.
+location: old Carlisle Indian school
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.1910987
+latitude: 40.2022372
+city_longitude: -77.20027449999999
+city_latitude: 40.2010241
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

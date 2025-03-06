@@ -1,0 +1,21 @@
+city: Coahoma
+country: United States
+description: The Junior High Of Coahoma is supposedly built on Indian burial grounds. People have reported opening and shutting of doors. Footsteps and mysterious voices.
+location: Coahoma Junior High
+state: Texas
+state_abbrev: TX
+longitude: -101.3037622
+latitude: 32.3018951
+city_longitude: -101.3062329
+city_latitude: 32.2965085
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

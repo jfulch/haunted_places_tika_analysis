@@ -1,0 +1,19 @@
+city: Rawlins
+country: United States
+description: There is a 2-3 acre area, including RMS, which is supposedly an Indian burial ground and passage of an old pioneer trail. Almost all of the houses in this area have reported sightings, both of Indians and old-fashioned people. A janitor at the Middle School was working one night when a short, well-dressed man approached her. She asked him his name, and he bolted. She chased after him, and as he turned a corner, she could see that he no longer had a head. All of the janitors that have worked there have similar experiences, including strange noises and moving objects. In two houses in particular, about 2 blocks away from RMS, the activity is especially bad. They have reported apparitions, moving objects, and have even recorded clear voices on a cassette tape hidden in an upstairs bedroom while the family was away.
+location: Rawlins Middle School
+state: Wyoming
+state_abbrev: WY
+longitude: -107.2267776
+latitude: 41.8026955
+city_longitude: -107.2386627
+city_latitude: 41.7910697
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

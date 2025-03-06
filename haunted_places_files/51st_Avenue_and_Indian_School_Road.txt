@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: Strange sightings of a woman walking in the road and getting hit by a car. People claim to here screams, and say that she goes in people’s houses and knocks their stuff to the ground. At night, they see her on their couch.
+location: 51st Avenue and Indian School Road
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1689492
+latitude: 33.4948819
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

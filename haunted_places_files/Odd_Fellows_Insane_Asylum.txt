@@ -1,0 +1,20 @@
+city: Liberty
+country: United States
+description: This is an old insane asylum, hospital, and old folks home operating since the early 1900's. Witnesses have seen bloody handprints on bathtubs and bathroom walls, and heard old bed's squeaking. They have also claimed to have a video tape with evidence of a ghost running in front of the camera.
+location: Odd Fellows Insane Asylum
+state: Missouri
+state_abbrev: MO
+longitude: -94.407577
+latitude: 39.227823
+city_longitude: -94.4191177
+city_latitude: 39.2461138
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

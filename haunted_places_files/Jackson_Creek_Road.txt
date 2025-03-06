@@ -1,0 +1,21 @@
+city: Denton
+country: United States
+description: There is an old field in the woods along this road. In this field there is a house that has been abandoned for many years. The reason the house was abandoned was because many years ago there was a murder committed in it. A man came home one day and for some reason he had gone crazy. The man shot his wife outside of the house then went upstairs and shot himself. The blood was washed up outside the house and upstairs where the man committed suicide. After the blood was cleaned up it reappeared the next day and to this day it can't be cleaned. The room upstairs in the house where the man committed suicide has been blocked off so that nobody can go in and see the horrible scene. The blood outside is still there and cannot be removed. It is said that the place is haunted to this very day by those troubled souls.
+location: Jackson Creek Road
+state: North Carolina
+state_abbrev: NC
+longitude: -79.99839589999999
+latitude: 35.6928815
+city_longitude: -80.1158813
+city_latitude: 35.6334712
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

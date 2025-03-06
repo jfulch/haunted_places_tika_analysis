@@ -1,0 +1,21 @@
+city: Dallas
+country: United States
+description: The lights turn on and off , strange sounds reported.
+location: Rylie Academy
+state: Texas
+state_abbrev: TX
+longitude: -96.6444012
+latitude: 32.691563
+city_longitude: -96.7969879
+city_latitude: 32.7766642
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

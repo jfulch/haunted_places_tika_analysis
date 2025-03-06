@@ -1,0 +1,21 @@
+city: Vancouver
+country: United States
+description: Dark Park - It is said that two little boys haunt the park late at night in the wooded area. No one will go down there alone night or day. Even during the day there is the feeling of not being alone and wanting to leave
+location: Hazel Dell
+state: Washington
+state_abbrev: WA
+longitude: -122.65443
+latitude: 45.67626660000001
+city_longitude: -122.6716063
+city_latitude: 45.6318397
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1989/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

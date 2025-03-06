@@ -1,0 +1,20 @@
+city: Honolulu
+country: United States
+description: The Pali Highway - There is an old belief that if you are traveling on the Pali Highway, in the day or night, that you must not have pork in your car. It is believed that your car will stall and will not start again until the pork is taken out of your car. Some locals believe that is the menehune (meh-neh-hoo-neh), mischievous, elflike creatures, that stops you. Others believe it is because Kamapua'a(kah-mah-po-ah-ah), the giant, nine-eyed boar god who lives in the forests of Kaneohe, won't allow you to pass until the pork is taken out of your car. And this means going in either direction- from Honolulu to Kaneohe or Kaneohe to Honolulu. Many locals, to this day, practice this custom whether they believe or not.
+location: Nu'uanu
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8271717
+latitude: 21.3417501
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

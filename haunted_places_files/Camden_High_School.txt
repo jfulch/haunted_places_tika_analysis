@@ -1,0 +1,21 @@
+city: Camden
+country: United States
+description: Many years ago, a man who worked at the high school was fixing the lights in the auditorium. By some freak accident, he fell to his death. There were bloodstains on the carpet. To this day, the auditorium will become wicked cold without anybody touching the thermostat, and also lights will go on and off by themselves. Kids who have meetings in the room often complain about feeling someone hit them in the head, or someone poking them, and to come to find nothing is to be found. Once it was even said that during a play that was taking place, a man was interrupted by feeling his sneakers and socks getting wet because of some red liquid type on the floor. Come to find out that's where the man's bloodstain was. The incident was never solved and people still don't know how or what the red stuff was. Early in the morning, you can here a man screaming and a loud thump when you walk past the auditorium, to find nothing and nobody there. The death of the man was covered up, but it sounds like he is coming back and making people aware that he is there.
+location: Camden High School
+state: New York
+state_abbrev: NY
+longitude: -75.7559138
+latitude: 43.3462305
+city_longitude: -75.78365889999999
+city_latitude: 43.33873639999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 0

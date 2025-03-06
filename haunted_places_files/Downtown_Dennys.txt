@@ -1,0 +1,21 @@
+city: Billings
+country: United States
+description: This downtown restaurant was built atop old railroad tracks, that can still be see behind the restaurant in the parking lot. Stories from employees, are said that late at night shadows can be seen, and strange voices are heard when no one is around.
+location: Downtown Denny's
+state: Montana
+state_abbrev: MT
+longitude: -108.5075627
+latitude: 45.7863637
+city_longitude: -108.5006904
+city_latitude: 45.7832856
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 18m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

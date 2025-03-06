@@ -1,0 +1,21 @@
+city: Flagstaff
+country: United States
+description: North Morton Hall -This is one of the most notorious haunts in Flagstaff. A girl killed herself in the dormitory many years ago before Christmas break and it seems she never left. Lights turn on and off, there are odors, and even sightings. She likes to pull blankets off of people that stay on the floor she lived on. She also likes to lock girls in the girls' bathroom, but there is no lock on the door.
+location: Northern Arizona University
+state: Arizona
+state_abbrev: AZ
+longitude: -111.6547075
+latitude: 35.1851895
+city_longitude: -111.651302
+city_latitude: 35.1982836
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fontana
+country: United States
+description: Sounds of construction work at the school. Rumor is that a construction worker died when it was built.
+location: Tokay Elementary
+state: California
+state_abbrev: CA
+longitude: -117.4564188
+latitude: 34.1109121
+city_longitude: -117.435048
+city_latitude: 34.0922335
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

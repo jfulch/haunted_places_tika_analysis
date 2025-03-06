@@ -1,0 +1,21 @@
+city: Des Moines
+country: United States
+description: Be hind the bowling alley lanes there is an upstairs that is rumored to have been used to be used for illegal gambling in the 1920's. Well if you go up stairs, down the hallway, and into this room up there and wait a few minutes you can hear noises. Some of them are alot of people talking, or you can hear dice rolling. you could hear your name being called.
+location: Air Lanes
+state: Iowa
+state_abbrev: IA
+longitude: -93.645514
+latitude: 41.5457931
+city_longitude: -93.6091064
+city_latitude: 41.6005448
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

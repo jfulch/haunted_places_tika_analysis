@@ -1,0 +1,21 @@
+city: Oak Ridge
+country: United States
+description: It has been said for many years that the old Wheat Church is haunted. There have been many stories told on the church and what happened there, but the one I have heard to be true is this one. The church is a very small one with a small cemetery right beside it. Not a lot of folks went to the church even when it was still open to the public back in the 1940's. It was said that the minister of the church went mad, and hung himself by the bell tower. If you were to go there on Halloween it was said you could still see the rope swinging, and blood dripping from it. No Trespassing
+location: Wheat Community Church
+state: Tennessee
+state_abbrev: TN
+longitude: -84.372427
+latitude: 35.9384103
+city_longitude: -84.26964490000002
+city_latitude: 36.0103561
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1869/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

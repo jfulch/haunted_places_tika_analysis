@@ -1,0 +1,21 @@
+city: Bowie
+country: United States
+description: Believed to be haunted by girl who was abducted, killed and dumped on Daisy Lane in Bowie, Maryland.  the articles about it dated from 1995 in The Washington Post. Just in case you're interested... APPARENT ABDUCTION, SLAYING END TEENAGER'S PROMISE Jon Jeter Washington Post Staff Writer March 22, 1995; Page B1 Section: METRO Word Count: 840 AND ALSO... POLICE SEEKING CAR POSSIBLY USED IN ABDUCTION-SLAYING – any info, please contact the police.
+location: Daisy Lane
+state: Maryland
+state_abbrev: MD
+longitude: -76.80054299999999
+latitude: 38.9783887
+city_longitude: -76.77913649999999
+city_latitude: 39.0067768
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1995/03/22
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Murder
+witness_count: 1

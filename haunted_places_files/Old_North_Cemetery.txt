@@ -1,0 +1,20 @@
+city: Nantucket
+country: United States
+description: The second oldest cemetery on the island it is haunted by a small child named Mary Abby. She has interacted with children and told them she was looking for her father. In the early 80's, the town cleared away some brush around the perimeter of the graveyard and did uncover a small headstone for a 3 year old girl named Mary Abby.
+location: Old North Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.1096712
+latitude: 41.2856145
+city_longitude: -70.099451
+city_latitude: 41.2834704
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1980/06/02
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

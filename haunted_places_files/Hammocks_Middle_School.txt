@@ -1,0 +1,21 @@
+city: Miami
+country: United States
+description: It is said that the auditorium of Hammocks is haunted by 2 ghosts... It is said people have seen 2 shadows around and the curtains opening and closing and flickering lights.
+location: Hammocks Middle School
+state: Florida
+state_abbrev: FL
+longitude: -80.44184899999999
+latitude: 25.674481
+city_longitude: -80.1917902
+city_latitude: 25.7616798
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

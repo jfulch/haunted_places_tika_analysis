@@ -1,0 +1,21 @@
+city: Jonesboro
+country: United States
+description: Wilson Hall - People say that at night a ghost comes out in this hall. When it first opened, a girl died from an error in the construction of the stairs. The stairs collapsed. It is said that she roams the halls, making sure the building is safe.
+location: Arkansas State University
+state: Arkansas
+state_abbrev: AR
+longitude: -90.6748589
+latitude: 35.8430861
+city_longitude: -90.704279
+city_latitude: 35.84229670000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1848/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Kenai
+country: United States
+description: There are several spirits here. One is an older, heavyset woman who goes by the name Marie. There is also an older gentleman by the name of Arthur Johnson. He has been spotted maintaining his gravesite, plus the graves of others who are buried there. In the back part of the cemetery are several unmarked graves that contain the remains of servants brought up here to help dig for gold. But when the gold ran dry, it was too expensive to feed them, so they were killed and buried in graves outside the main cemetery.
+location: Kenai Cemetery
+state: Alaska
+state_abbrev: AK
+longitude: -151.1529963
+latitude: 60.48367619999999
+city_longitude: -151.2583333
+city_latitude: 60.55444439999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 10h 52m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

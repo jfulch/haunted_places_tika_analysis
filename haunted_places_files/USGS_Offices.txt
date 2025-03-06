@@ -1,0 +1,21 @@
+city: Flagstaff
+country: United States
+description: Building 1 - The sound of hands clapping is heard, doors open and close spontaneously, and lights flicker.
+location: USGS Offices
+state: Arizona
+state_abbrev: AZ
+longitude: -111.6341424
+latitude: 35.2149611
+city_longitude: -111.651302
+city_latitude: 35.1982836
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

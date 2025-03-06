@@ -1,0 +1,21 @@
+city: Whiting
+country: United States
+description: If you go there at night, there is a small patch of woods that overlook the beach. There you can see ghostly outlines of old sail boats and people dressed in old time bathing suits swimming and in inner-tubes. You can also hear splashing and laughing.
+location: Wahaula Beach
+state: Indiana
+state_abbrev: IN
+longitude: -87.49737879999999
+latitude: 41.6875994
+city_longitude: -87.4944873
+city_latitude: 41.6797578
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

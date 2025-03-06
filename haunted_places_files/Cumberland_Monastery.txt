@@ -1,0 +1,19 @@
+city: Cumberland
+country: United States
+description: The ghost of a monk who has been known to move books or close books when people get up to do something. along the back trail has a phantom horse rider which will come upon you out of nowhere. A third apparition is of a child has been seen running in the swamp area and along some of the back trails.
+location: Cumberland Monastery
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.40355819999999
+latitude: 41.93469169999999
+city_longitude: -71.4061876
+city_latitude: 41.9721816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

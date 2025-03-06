@@ -1,0 +1,20 @@
+city: Cayce
+country: United States
+description: In the early 19th century, the land currently occupied by the Riverside Estates Apartment Complex was a plantation adjacent to the Congaree River. Documentation states that the plantation owner would discard unwanted slave babies into the outhouses and as a result, they would die from in suffocation in human excrement. Today, many of the residents claim to hear babies crying in their toilets. Some claim to see faces in their toilet water and others even claim that these phenomena have caused their toilets to clog periodically.
+location: Riverside Estates
+state: South Carolina
+state_abbrev: SC
+longitude: -81.05307
+latitude: 33.9877041
+city_longitude: -81.0739827
+city_latitude: 33.96570910000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1872/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

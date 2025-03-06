@@ -1,0 +1,19 @@
+city: Duluth
+country: United States
+description: Loud knocking of outside backdoors. Then suddenly stops for a few seconds and then begins knocking.
+location: Abandoned Theatre
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.1446376
+city_latitude: 34.0028786
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1802/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Yakima
+country: United States
+description: Reported to be haunted recently by a young Hispanic male who was murdered there and an elderly man with gray hair and beard that committed suicide in the same area (area is about two miles north of the roza recreation area on the left)
+location: Yakima canyon
+state: Washington
+state_abbrev: WA
+longitude: -120.4801719
+latitude: 46.6772195
+city_longitude: -120.5058987
+city_latitude: 46.6020711
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

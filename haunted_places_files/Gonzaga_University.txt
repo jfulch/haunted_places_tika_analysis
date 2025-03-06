@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: Monaghan Hall -  Monaghan Hall is the music building for Gonzaga University. The structure used to be the private residence for James Monaghan, who was brutally murdered in the structure. Many strange occurrences have happened here including the organ being played when no one is there and various musical instruments playing by themselves. People hear the haunting music all the time. The culprit is believed to be the ghost of Mr. Monaghan himself. Strangely enough, the music heard by witnesses is the song that was played at Monaghan's funeral. Growling noises and other unseen forces also make themselves known to unsuspecting individuals. In the 1970’s, Father Leedale even performed an exorcism. It was obviously done in vain because the hauntings still occur.
+location: Gonzaga University
+state: Washington
+state_abbrev: WA
+longitude: -117.4023849
+latitude: 47.667189
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1976/03/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

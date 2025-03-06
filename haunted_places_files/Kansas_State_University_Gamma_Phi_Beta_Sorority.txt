@@ -1,0 +1,21 @@
+city: Manhattan
+country: United States
+description: Founded at Kansas State in 1957 the Gamma Phi’s are haunted by an old house mom who was murdered by the cook in jealous affair. it is said that when chicken nuggets are cooked inside the house blood curdling screams can be heard. needless to say, chicken nuggets are served very rarely. girls are warned to take heed and caution when entering the kitchen alone and at night during a quarter moon.
+location: Kansas State University -Gamma Phi Beta Sorority
+state: Kansas
+state_abbrev: KS
+longitude: -96.5847249
+latitude: 39.1974437
+city_longitude: -96.5716694
+city_latitude: 39.18360819999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1957/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

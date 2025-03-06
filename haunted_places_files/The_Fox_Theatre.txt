@@ -1,0 +1,21 @@
+city: Redlands
+country: United States
+description: The Fox Theatre is very haunted. The presence that resides there is sometimes violent. It's been boarded up for about 10 years and now it's is being renovated. The building it's connected to was once an opera house when Redlands was first founded. Maybe one of the jealous actresses is still wandering?
+location: The Fox Theatre
+state: California
+state_abbrev: CA
+longitude: -117.1815252
+latitude: 34.054253
+city_longitude: -117.1825381
+city_latitude: 34.0555693
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

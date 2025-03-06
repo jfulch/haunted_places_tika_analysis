@@ -1,0 +1,21 @@
+city: Shillington
+country: United States
+description: A former employee reported seeing a teenage girl hanging and gutted at the top of the staircase. The basement is now closed off.
+location: VanS'sandwich shop
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.9536268
+latitude: 40.30986840000001
+city_longitude: -75.9654896
+city_latitude: 40.3078702
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

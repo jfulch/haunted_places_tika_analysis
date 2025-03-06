@@ -1,0 +1,20 @@
+city: Brownsville
+country: United States
+description: University of Texas at Brownsville - there was a war at Brownsville, also known as Fort Brown. the date is not really positive yet. Some rumors were reported to have said you'd hear bombs exploding, men screaming all over the place. And some sighting of ghost. A witness claims to have seen some soldiers by the side of her car though they didn't seem to pay any attention to her. The sighting and noises are heard at night past 10.
+location: Fort Brown
+state: Texas
+state_abbrev: TX
+longitude: -97.4916265
+latitude: 25.8984584
+city_longitude: -97.4974838
+city_latitude: 25.9017472
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1846/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

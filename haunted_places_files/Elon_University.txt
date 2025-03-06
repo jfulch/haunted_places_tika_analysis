@@ -1,0 +1,21 @@
+city: Elon
+country: United States
+description: West Dorm - In the fire of 1923, a young student named Mary tried to escape the fire and jump from a third story window. Undoubtedly, she died. Mary now haunts West dorm, with such activities such as the chandelier in the parlor swinging back and forth, and the lights flickering on and off. One night, a boy was sleeping in his girlfriend's dorm and he woke up to find Mary looking at him, and his girlfriend was talking to Mary in her sleep. Mary also plays pranks on the residents, such as pushing them over in the halls or messing with their things, such as their computers.
+location: Elon University
+state: North Carolina
+state_abbrev: NC
+longitude: -79.50235669999999
+latitude: 36.1027527
+city_longitude: -79.5115433
+city_latitude: 36.09827620000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

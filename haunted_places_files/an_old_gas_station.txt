@@ -1,0 +1,20 @@
+city: Wallingford
+country: United States
+description: a gas station was built over the foundation of a house that burned down. It was later shut down due to some paranormal activities. For instance, two girls went in there to use the bathroom when suddenly they heard banging on the door and on the wall behind them. And it was so loud and hard, the mirror in there was shaking. Other encounters and sightings have also been reported.
+location: an old gas station
+state: Connecticut
+state_abbrev: CT
+longitude: -72.8275003
+latitude: 41.4497302
+city_longitude: -72.8230736
+city_latitude: 41.4570108
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

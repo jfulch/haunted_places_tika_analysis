@@ -1,0 +1,21 @@
+city: Keatchie
+country: United States
+description: There is an old women's college in Keatchie down Highway 172. During the Civil War the college was turned into a hospital for the wounded. It is said that if you go to the second floor (which was turned into the morgue during the war) you can feel cold spots and hear the moans of the departed. To get there go either down Hwy 5 from Logansport, Louisiana and turn left onto Hwy. 172 when you get into Keatchie or from Shreveport go down 171 get onto 172 and go through Keatchie and its not less than 200 yards past the old white building.
+location: Keatchi Women's College
+state: Louisiana
+state_abbrev: LA
+longitude: -93.7042912
+latitude: 32.4285844
+city_longitude: -93.9113634
+city_latitude: 32.1881071
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1848/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 0

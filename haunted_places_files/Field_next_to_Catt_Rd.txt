@@ -1,0 +1,19 @@
+city: Wildomar
+country: United States
+description: a car crash here in 1983 killed a man and woman and on warm full moon nights these spirits can be seen roaming the land
+location: Field next to Catt Rd
+state: California
+state_abbrev: CA
+city_longitude: -117.2800372
+city_latitude: 33.5989126
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1983/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

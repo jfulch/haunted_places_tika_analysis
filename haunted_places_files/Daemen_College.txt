@@ -1,0 +1,21 @@
+city: Amherst
+country: United States
+description: Curtis Hall - It is said that two brothers had gotten into a fight, and had hung themselves at the same time on separate sides of their home in Curtis Hall. People have felt the presence of these two brothers, and say that the brothers have tried to play tricks on the people who visit and work in Curtis Hall. They will move chairs around, and tie knots in your shoelaces.
+location: Daemen College
+state: New York
+state_abbrev: NY
+longitude: -78.78843839999999
+latitude: 42.9648902
+city_longitude: -78.792272
+city_latitude: 42.97900670000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/09/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

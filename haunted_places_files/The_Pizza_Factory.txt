@@ -1,0 +1,21 @@
+city: Palatine
+country: United States
+description: It has been said that a very tall boy lurks around the pizza factory at night. He disappears if you approach him. There's an apartment complex across the street where supposedly a boy fitting his description died years earlier.
+location: The Pizza Factory
+state: Illinois
+state_abbrev: IL
+longitude: -88.0771163
+latitude: 42.1796072
+city_longitude: -88.03424000000001
+city_latitude: 42.1103041
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Newark
+country: United States
+description: In the early 70's a runaway girl was taken into the woods and killed here. The killer was never caught but sometimes a pleading high pitched voice and muffled screams can be heard from the woods just off the Swamp Forest hiking trail which goes around Lums Pond.
+location: Lums Pond State Park
+state: Delaware
+state_abbrev: DE
+longitude: -75.718211
+latitude: 39.5486205
+city_longitude: -75.74965720000002
+city_latitude: 39.6837226
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

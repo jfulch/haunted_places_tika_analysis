@@ -1,0 +1,21 @@
+city: Harrodsburg
+country: United States
+description: Unwanted children were once reportedly thrown into a pond by the Shakers. This was verified generations later when the pond was drained, revealing scores of baby skeletons. It is said that sometimes at night, one can hear the babies crying.
+location: Shaker Village
+state: Kentucky
+state_abbrev: KY
+longitude: -84.7406048
+latitude: 37.81674599999999
+city_longitude: -84.8432852
+city_latitude: 37.762298
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 9.3
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

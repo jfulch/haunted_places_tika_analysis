@@ -1,0 +1,21 @@
+city: Fernandina
+country: United States
+description: Fort Clinch is an old Union Civil War fort that was never finished due to of lack of funding from the government. During construction, the fort was ambushed quite a few times by Confederate troops. Several of the Union men died in the process. One incident included a man who was shot after promising his wife in a letter that he would not die until seeing her again. He is said to haunt the fort today. Re-enactors that volunteer at the fort often see his ghost in the courtyard along with several of his comrades. Perhaps he is searching for his wife? Fort Clinch Experience
+location: Fort Clinch
+state: Florida
+state_abbrev: FL
+longitude: -81.43463799999999
+latitude: 30.670071
+city_longitude: -81.46259189999999
+city_latitude: 30.6696818
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

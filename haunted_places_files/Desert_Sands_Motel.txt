@@ -1,0 +1,21 @@
+city: Albuquerque
+country: United States
+description: Located at 5000 Central Ave SE it's a cheap and easy place to stay when you're headed west on I40. Visitors got the corner room of the center building on the first floor. Immediately things began. There were cold spots, voices in the bathroom, the water ran by itself, the TV kept turning on and off on it's own, changing channels by itself, and the door kept unlocking.
+location: Desert Sands Motel
+state: New Mexico
+state_abbrev: NM
+longitude: -106.5884708
+latitude: 35.0776518
+city_longitude: -106.6055534
+city_latitude: 35.0853336
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 0

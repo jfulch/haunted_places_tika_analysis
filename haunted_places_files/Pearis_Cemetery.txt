@@ -1,0 +1,21 @@
+city: Pearisburg
+country: United States
+description: Apparitions in the dark near the center of the cemetery, Strange sounds like someone having a conversation, feeling of being followed.
+location: Pearis Cemetery
+state: Virginia
+state_abbrev: VA
+longitude: -80.7096602
+latitude: 37.3258012
+city_longitude: -80.7350711
+city_latitude: 37.3265112
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

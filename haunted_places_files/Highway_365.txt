@@ -1,0 +1,21 @@
+city: Woodson
+country: United States
+description: A few people have reported picking up a female hitchhiker on a stormy night. She asks them to drive her to her house. When they get to the house, the driver turns to say goodbye, and the girl is gone. The driver will go up to the house and ask the owner of the house about it. The owner will reply that this happens all of the time, since her daughter was killed in a car accident close to home.
+location: Highway 365
+state: Arkansas
+state_abbrev: AR
+longitude: -92.2109887
+latitude: 34.5293443
+city_longitude: -92.2109816
+city_latitude: 34.5292609
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

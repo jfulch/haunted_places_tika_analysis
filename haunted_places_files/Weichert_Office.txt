@@ -1,0 +1,21 @@
+city: Blue Bell
+country: United States
+description: There has been sitings of a woman roming the last floor of this previous home made into a realistate office, there has also been noises and open doors seen but no one has been hurt.
+location: Weichert Office
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.2647712
+latitude: 40.1518209
+city_longitude: -75.26628900000001
+city_latitude: 40.1523309
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

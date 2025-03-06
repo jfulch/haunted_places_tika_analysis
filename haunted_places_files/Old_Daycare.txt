@@ -1,0 +1,21 @@
+city: Temple
+country: United States
+description: Old daycare on main road. The people who ran it murdered the children and buried them in the basement. Haunted by the spirits of the murdered children.
+location: Old Daycare
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.7364493
+latitude: 42.8221582
+city_longitude: -71.8513418
+city_latitude: 42.8188308
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Berryville
+country: United States
+description: The gym is haunted by some children. Many people are afraid to go into the building. Odd sounds have been heard throughout the gym.
+location: Berryville High School
+state: Arkansas
+state_abbrev: AR
+longitude: -93.5750515
+latitude: 36.368713
+city_longitude: -93.5679667
+city_latitude: 36.364792
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

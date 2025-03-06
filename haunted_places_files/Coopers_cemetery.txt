@@ -1,0 +1,20 @@
+city: Stanberry
+country: United States
+description: babies crying, an old man appearing out of no where by the forest line coming towards you swinging a lantern, then disappearing. Sticks breaking in the woods constantly like someone is walking out in the woods.
+location: Coopers cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -94.5500323
+latitude: 40.1876088
+city_longitude: -94.5382939
+city_latitude: 40.217771
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: War
+witness_count: 0

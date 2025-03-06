@@ -1,0 +1,21 @@
+city: Sampson County
+country: United States
+description: If you go to the Jackson plot just off highway 13 in Goodwin there is a coffin in a tree if you try to get it out of the tree it will get dark and if you turn your head and look back the coffin will be gone. Some say that hurricane Fran pulled the coffin others say someone pulled it out.
+location: Jackson Cemetery
+state: North Carolina
+state_abbrev: NC
+longitude: -78.587642
+latitude: 35.1725939
+city_longitude: -78.3842227
+city_latitude: 34.9197548
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1998/10/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

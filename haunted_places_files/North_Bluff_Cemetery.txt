@@ -1,0 +1,21 @@
+city: Gladstone
+country: United States
+description: It has been seen by numerous people that a woman in a wedding dress has been seen walking through the cemetery searching for the people who murdered her husband, Raymond Visnaw. It has said that she has actually came towards people and disappeared.
+location: North Bluff Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -87.05011119999999
+latitude: 45.8416449
+city_longitude: -87.02180489999999
+city_latitude: 45.8527435
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1908/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

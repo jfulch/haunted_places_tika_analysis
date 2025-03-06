@@ -1,0 +1,21 @@
+city: Kerman
+country: United States
+description: In this small town there is a historical place called Kerney Mansion. Built around 100 years ago Mr. Kerneys mansion is surrounded by trees. Railroad tracks near this mansion are definitely haunted. Seen by many eye witnesses, if you cross over these railroad tracks at night you will definitely see the Kerney witch who lives near by wearing all white pleading for the cars to stop. Legend has it that she will follow your car or you as you pass her, and if you look into her eyes, you'll die.
+location: Kerney Mansion
+state: California
+state_abbrev: CA
+longitude: -119.919426
+latitude: 36.7237575
+city_longitude: -120.059879
+city_latitude: 36.72355719999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1797/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

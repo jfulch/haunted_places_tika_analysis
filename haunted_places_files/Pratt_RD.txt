@@ -1,0 +1,21 @@
+city: Gleason
+country: United States
+description: When driving down the road at night you can witness a large black figure moving into the ditch or two white eyes at the end of your head lights the eyes appear to blink twice then are gone. Also after leaving the long dirt road clean streaks were found on the back window of the vehicle
+location: Pratt RD
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.37508
+latitude: 45.2481954
+city_longitude: -89.4965979
+city_latitude: 45.3090511
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

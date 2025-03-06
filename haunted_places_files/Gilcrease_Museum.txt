@@ -1,0 +1,21 @@
+city: Tulsa
+country: United States
+description: According to many workers, a ghost roams the halls of the Gilcrease museum. Several night security guards have experienced this phenomenon. Alas, the turnover rate for night security is unusually high for such an easy job.
+location: Gilcrease Museum
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.0206134
+latitude: 36.1739715
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

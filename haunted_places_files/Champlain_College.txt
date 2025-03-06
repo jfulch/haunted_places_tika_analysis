@@ -1,0 +1,21 @@
+city: Burlington
+country: United States
+description: Aiken Hall(Dorm) - Throughout the whole dorm an uneasy feeling is common. In an upstairs bedroom noises have been heard and the television randomly turns off on it's own. People have been touched by the spirit, one girl felt her hair being played with, while another girl felt hands on her shoulders. Cold spots are common. Noises throughout the room have kept people awake at night. Hauntings are still occurring today, in 2003.
+location: Champlain College
+state: Vermont
+state_abbrev: VT
+longitude: -73.2041352
+latitude: 44.4731165
+city_longitude: -73.21207199999999
+city_latitude: 44.4758825
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2003/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

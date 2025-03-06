@@ -1,0 +1,21 @@
+city: Peachtree Industrial
+country: United States
+description: A woman wearing an older nurse outfit is said to roam the hallways and sometimes crack the doors of patients rooms. It is believes she makes sure the patients are okay. Cold spots are felt when you're in the gymnasium, kid's room, and conference rooms. Sounds of children laughing can be heard in the kid's room and in the outdoor courtyard at night.
+location: Peachford Mental Hospital
+state: Georgia
+state_abbrev: GA
+longitude: -84.3006
+latitude: 33.928705
+city_longitude: -84.1524388
+city_latitude: 34.0226127
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.45
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

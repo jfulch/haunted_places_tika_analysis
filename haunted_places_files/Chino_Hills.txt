@@ -1,0 +1,21 @@
+city: Chino
+country: United States
+description: Story is a man who escaped prison stalked a family killing the mother, father and sister and just cut the boy's ears. They say if you go to the house you will see blood prints and the ghosts of the family. - July 2005 Update: recently the sole survivor made a statement recounting the murder. You can read it here http://lang.dailybulletin.com/projects/cooperwatch/news/042305_joshua_statement.asp Warning this article is a bit graphic.
+location: Chino Hills
+state: California
+state_abbrev: CA
+longitude: -117.686945
+latitude: 33.9598379
+city_longitude: -117.688944
+city_latitude: 34.0122346
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

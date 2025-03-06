@@ -1,0 +1,21 @@
+city: St. Pauls
+country: United States
+description: people say they have seen lights on in the house and it has been abandoned for more than ten years. Also there have been sightings of a soldier in the attic window. Citizens of St. Pauls claim they sometimes hear gunshots and sounds of horses when near the house.
+location: Civil War House
+state: North Carolina
+state_abbrev: NC
+longitude: -78.9768508
+latitude: 34.8147005
+city_longitude: -78.9711406
+city_latitude: 34.8065528
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

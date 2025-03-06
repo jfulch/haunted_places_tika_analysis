@@ -1,0 +1,21 @@
+city: Rolling Prairie
+country: United States
+description: ghostly sightings and cold spots have bean reported the legend behind lambs chapel is said to have a beautiful young lady running through the cemetery at 12\00 on the dot it is said that she was driving by lambs chapel and her car broke down so she got out and she saw a man he chased her through the cemetery and you drive by your car might just brake down
+location: Lambs Chapel
+state: Indiana
+state_abbrev: IN
+longitude: -86.6811341
+latitude: 41.6942096
+city_longitude: -86.6158538
+city_latitude: 41.67087710000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1937/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

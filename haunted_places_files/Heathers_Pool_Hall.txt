@@ -1,0 +1,19 @@
+city: Beaverdale
+country: United States
+description: not to long ago a girl was raped and murdered on the steps of the pool hall because of drugs and if you walk up those steps you will get a cold chill and you will walk away high.
+location: Heathers Pool Hall
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -78.6994326
+city_latitude: 40.3210883
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

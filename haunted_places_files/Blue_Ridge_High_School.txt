@@ -1,0 +1,21 @@
+city: Lakeside
+country: United States
+description: In the 1970's, there was a janitor that had been shot in the senior commons because no one liked him. It is said that you can see the janitor roaming the hallways whenever you are alone in the hallways.
+location: Blue-Ridge High School
+state: Arizona
+state_abbrev: AZ
+longitude: -109.9741959
+latitude: 34.168161
+city_longitude: -109.9603843
+city_latitude: 34.1425438
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

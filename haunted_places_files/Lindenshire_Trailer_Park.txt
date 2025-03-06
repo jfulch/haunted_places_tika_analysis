@@ -1,0 +1,21 @@
+city: Exeter
+country: United States
+description: There is an old pilot who said there used to be a graveyard on the land where the trailer park now rests. On the eastern half of the trailer park, there have been ghost sightings and other weird occurrences. There was a bleeding light bulb, with real blood dripping from it, and there are reports of eyes floating in a nearby stretch of woods called the Hobo Jungle which there have also been reports of satanic activity in.
+location: Lindenshire Trailer Park
+state: New Hampshire
+state_abbrev: NH
+longitude: -70.96552299999999
+latitude: 42.9673305
+city_longitude: -70.9477546
+city_latitude: 42.9814292
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

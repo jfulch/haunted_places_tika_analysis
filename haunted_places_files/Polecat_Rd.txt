@@ -1,0 +1,20 @@
+city: Troy
+country: United States
+description: This old country road is the sight where a motorcycle accident occurred years ago. A man not wearing a helmet was killed when he veered off the road and hit a tree. On the same road about mile down there is an old roped off trail where KKK members supposedly had meetings and sometimes hangings. Driving the road at night you can sometimes see a small green glowing orb off to the side of the road in the trees.
+location: Polecat Rd.
+state: Ohio
+state_abbrev: OH
+longitude: -84.1747572
+latitude: 40.0761482
+city_longitude: -84.20327669999999
+city_latitude: 40.0394982
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

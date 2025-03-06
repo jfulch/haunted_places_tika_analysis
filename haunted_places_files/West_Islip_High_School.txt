@@ -1,0 +1,21 @@
+city: West Islip
+country: United States
+description: In the gym at night you can hear childrens voices. They are laughing and playing with each other. Also, a boy is said to haunt the school who was killed there. He now roams the hallways.
+location: West Islip High School
+state: New York
+state_abbrev: NY
+longitude: -73.3020581
+latitude: 40.7013985
+city_longitude: -73.3062302
+city_latitude: 40.7062104
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bronx
+country: United States
+description: School used to be a parish for nuns and the nuns reportedly died of unknown reasons in the top floor. Many people have heard some noises upstairs and once found blood on one of the abandoned bathroom sinks.
+location: Holy Spirit School
+state: New York
+state_abbrev: NY
+longitude: -73.9120578
+latitude: 40.8535516
+city_longitude: -73.8648268
+city_latitude: 40.8447819
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: White County
+country: United States
+description: This old dirt road in Sautee is supposed to be haunted by a headless specter that glides along side your car late at night. There is also a house on that road, where red eyes can be seen staring out at the road.
+location: Lynch Mountain
+state: Georgia
+state_abbrev: GA
+longitude: -83.6457308
+latitude: 34.6920396
+city_longitude: -83.7199136
+city_latitude: 34.6567728
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

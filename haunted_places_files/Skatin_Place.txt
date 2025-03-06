@@ -1,0 +1,20 @@
+city: St. Cloud
+country: United States
+description: Legend says that the skating rink was built over an old pond where a boy had drown. Lots of unusual things happening in the building have been reported.
+location: Skatin' Place
+state: Minnesota
+state_abbrev: MN
+longitude: -94.162917
+latitude: 45.514442
+city_longitude: -94.1632404
+city_latitude: 45.5579451
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

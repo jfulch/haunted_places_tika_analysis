@@ -1,0 +1,21 @@
+city: Cedar Rapids
+country: United States
+description: There is a gravestone with a carving of a face here and when you go there at night, you can see the face cry and his eyes are wet!!
+location: Parkers Grove
+state: Iowa
+state_abbrev: IA
+longitude: -91.9035128
+latitude: 42.0553383
+city_longitude: -91.6656232
+city_latitude: 41.9778795
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

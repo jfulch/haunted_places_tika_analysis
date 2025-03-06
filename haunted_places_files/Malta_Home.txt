@@ -1,0 +1,21 @@
+city: Granville
+country: United States
+description: it is said that back in the 1880's a maintenance worker killed all of the residents on the fourth floor and hid the bodies in the attic. now it is said that you can hear the residents roaming the grounds around the surrounding village of Granville moaning and searching for families that once lived in the surrounding homes.
+location: Malta Home
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.6215926
+latitude: 40.55067
+city_longitude: -77.6192447
+city_latitude: 40.5634631
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1890/05/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

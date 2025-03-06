@@ -1,0 +1,21 @@
+city: Plainwell
+country: United States
+description: a lot of strange things have happened there. Reports of children playing hide and seek in laundry room down in the canteen room. Dark shadows roaming the area. Footprints appearing and disappearing. Some people have reported hearing noised in their rooms at night when no one else is there. Also noises in the bathrooms, the feeling of being watched, a mysterious force touching you, objects moving on their own, ghostly figures standing over beds, and occasionally voices of people who aren't there.
+location: Michigan Career and Technical Institute
+state: Michigan
+state_abbrev: MI
+longitude: -85.517707
+latitude: 42.50444
+city_longitude: -85.6489035
+city_latitude: 42.4400357
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

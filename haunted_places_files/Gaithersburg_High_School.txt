@@ -1,0 +1,21 @@
+city: Gaithersburg
+country: United States
+description: C Hall - There is a hall named C-Hall in the school but little does anyone know there is a lower C-Hall, in 1976 there was a chemical spill and 9 students including one teacher died. It is said the hall was blocked off, at night you can hear the screams of those 9 people.
+location: Gaithersburg High School
+state: Maryland
+state_abbrev: MD
+longitude: -77.19469400000001
+latitude: 39.13547800000001
+city_longitude: -77.2013705
+city_latitude: 39.1434406
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1976/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

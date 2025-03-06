@@ -1,0 +1,21 @@
+city: Fayetteville
+country: United States
+description: back in the early 1900's a young woman decided for a unknown reason to take her life and her baby’s life in the pond. THE white lady comes back looking for her baby at night. there are stories of her riding on the back of cars and trucks late at night. In 2002 a unknown guy was coming home late at night. He went by pond bank and the white lady stepped in front of the car causing him to have an accident. When the cops arrived the guy told them about the white lady. Most cops didn’t believe him, But one did, the same happened to him 9 years before.
+location: pond bank
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.542525
+latitude: 39.873277
+city_longitude: -77.5499888
+city_latitude: 39.9112028
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

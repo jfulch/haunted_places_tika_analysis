@@ -1,0 +1,21 @@
+city: Fort Pierce
+country: United States
+description: STRONG feeling of being watched all the time,unsetteling feeling when alone. Frequent noises and sounds of footsteps running up and down stairs almost nightly. Reports of phantom scratches appearing on residents. Windows opening on their own, even after they where sealed shut.
+location: Battered Womens Shelter
+state: Florida
+state_abbrev: FL
+longitude: -80.32959799999999
+latitude: 27.454972
+city_longitude: -80.3256056
+city_latitude: 27.4467056
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2015/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

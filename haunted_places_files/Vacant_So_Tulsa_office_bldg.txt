@@ -1,0 +1,19 @@
+city: Tulsa
+country: United States
+description: An office building, now vacant, on Yale Ave. in south Tulsa. A construction worker was supposedly killed during the construction of the building years earlier. A building engineer on the night shift and other "skeleton crew" workers reported hearing footsteps on vacant floors, or seeing a man in construction worker's gear, who never spoke, walking on the top floor and roof. One worker refused to go up on the roof after repeatedly hearing footsteps and finding no one there. At one point the building was supposed to be totally empty and the security guard, while making night rounds in the parking lot, observed someone walking around on the upper floors of the building. The Engineer also observed several strange things, including desk drawers in the cubicle next to his that would be found open again and again after he closed them.
+location: Vacant So. Tulsa office bldg
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1929/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

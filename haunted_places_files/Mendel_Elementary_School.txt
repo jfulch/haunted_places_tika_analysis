@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: The school is said to be built on top of an old graveyard. Footsteps and whispers can be heard in the halls and in the restrooms faucets turn on and off and stall doors open and shut on their own.
+location: Mendel Elementary School
+state: Texas
+state_abbrev: TX
+longitude: -95.3295771
+latitude: 29.8574021
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

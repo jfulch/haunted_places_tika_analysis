@@ -1,0 +1,19 @@
+city: Clarkston
+country: United States
+description: In the ward house the chapel is upstairs. It has been reported that after hearing the organ playing, a man ran upstairs to see who it was because he should have been the only one in the building. He could not see a body, but organ was being played right in front of his eyes, keys and floor pedals. Soon the playing stopped and he saw a silhouette of a old woman drifting away from the organ.
+location: Town Church
+state: Utah
+state_abbrev: UT
+city_longitude: -112.0499536
+city_latitude: 41.9202033
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/10/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: War
+witness_count: 1

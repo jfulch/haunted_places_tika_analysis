@@ -1,0 +1,19 @@
+city: Albany
+country: United States
+description: The ghost is of the owner who was accidentally killed in his establishment by police. He is known for flipping hats off of employees, turning wall pictures upside down and sideways, turning non-burning table candles upside down, and sending everything on tables to the floor. - June 2008 This restaurant has since been torn down, and as of yet, the site is still just a vacant piece of land.
+location: Herford Steer Restaurant
+state: Oregon
+state_abbrev: OR
+city_longitude: -123.1059282
+city_latitude: 44.6365107
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

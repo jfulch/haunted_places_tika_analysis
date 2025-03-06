@@ -1,0 +1,19 @@
+city: Fayetteville
+country: United States
+description: A young woman in black appears on the steps here.
+location: Slocomb House
+state: North Carolina
+state_abbrev: NC
+city_longitude: -78.87835849999999
+city_latitude: 35.0526641
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Rye Cove
+country: United States
+description: located next to the Rye Cove High School in Rye Cove, the Rye Cove Elementary School located up the road where a tornado destroyed the school and killed many students http://www.blueridgeinstitute.org/ballads/ryecove.htmland the old Carter home place (200+ year old white house with red roof down the road from the High School) are all sites of ghostly hauntings.)
+location: The Moore Cemetery
+state: Virginia
+state_abbrev: VA
+longitude: -82.691344
+latitude: 36.735492
+city_longitude: -82.6962702
+city_latitude: 36.7253755
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1929/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Harlan
+country: United States
+description: Watts creek - there are several hauntings in the small community one that most people in this community has experienced is a old coal miner who died in a explosion he still walks the old path from his mines to his home and is seen quite often .
+location: Wallins creek
+state: Kentucky
+state_abbrev: KY
+longitude: -83.416853
+latitude: 36.8311984
+city_longitude: -83.321848
+city_latitude: 36.8431441
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1926/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

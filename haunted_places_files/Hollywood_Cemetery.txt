@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: Besides the fact that the cemetery is very old with many local "celebrities" (mostly governors, senators, and a president or two) there is one tomb, Poole's, that is known as the Vampire Tomb. Supposedly the man enclosed in the building was a vampire and has been known to stalk visitors, and even attack a few, in the cemetery late at night.
+location: Hollywood Cemetery
+state: Virginia
+state_abbrev: VA
+longitude: -77.4552198
+latitude: 37.5377122
+city_longitude: -77.4360481
+city_latitude: 37.5407246
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

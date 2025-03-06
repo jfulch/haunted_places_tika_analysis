@@ -1,0 +1,20 @@
+city: Ringwood
+country: United States
+description: Shadows are seen and voices are heard in the century old family cemetery. Above ground tombs have bricks that are continually missing or chipped away, but all evidence shows that this action is coming from within the tomb rather than vandalism from outside. Walk through the " Gates to Nowhere” and follow the path along the pond.. Cemetery will begin on your left and continue in spots for 1/2 mile.
+location: Ringwood Manor Cemetery
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2553089
+latitude: 41.1389661
+city_longitude: -74.2454254
+city_latitude: 41.1134289
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

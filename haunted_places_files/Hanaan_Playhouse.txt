@@ -1,0 +1,19 @@
+city: Raymond
+country: United States
+description: The playhouse is supposedly haunted by one of the people who built the playhouse. It is said that you will see a black cat walking across the stage or a dark figure in the window of the control room.
+location: Hanaan Playhouse
+state: Washington
+state_abbrev: WA
+city_longitude: -123.7329386
+city_latitude: 46.6864887
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

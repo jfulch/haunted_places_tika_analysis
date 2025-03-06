@@ -1,0 +1,21 @@
+city: Boulder Junction
+country: United States
+description: Stevenson Creek is located far in the woods in which you can walk or bike to. All that is left of the building that once stood is a 40 ft stone chimney and the cement walls of the basement. The building that once stood in the 1920's was three stories high and was used as a bed and breakfast. One day, everybody who had been staying there, even the owners, disappeared and the house was abandoned. Nobody knows what happened to the people staying in that house. People who have paid a visit to this place have said that you can still see people walking into the basement, kids playing by the creek, sometimes running in the tall grass, and windy spots around people when everything else is calm.
+location: Stevenson Creek
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.6356761
+latitude: 46.06468530000001
+city_longitude: -89.66899839999999
+city_latitude: 46.1130997
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

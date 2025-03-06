@@ -1,0 +1,21 @@
+city: Bristol
+country: United States
+description: The ghost is reported to be the ex-king of Spain looking for his long lost girl that is missing. People have seen this ghost on a rowboat with a lantern in his hand calling out to his long lost girl. In 1960 before the Grundy Memorial Library was built. There was a house, which lived a women who said that she has been seeing a strange figure on a rowboat row by here house calling out to some strange name.
+location: Behind the Grundy Memorial Library in the Delaware River
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.849724
+latitude: 40.097926
+city_longitude: -74.8518311
+city_latitude: 40.1006661
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

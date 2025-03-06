@@ -1,0 +1,21 @@
+city: Everett
+country: United States
+description: The story goes that when the building was being built a construction worker fell and was killed. Many people have seen him in the school and the grounds.
+location: Everett High School Auditorium
+state: Washington
+state_abbrev: WA
+longitude: -122.209213
+latitude: 47.9852279
+city_longitude: -122.2020795
+city_latitude: 47.9789848
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fabens
+country: United States
+description: There is a ghostly man in white can be seen. This is between the city of Clint and Fabens. It appears he is running towards cars.
+location: Alemeda road
+state: Texas
+state_abbrev: TX
+longitude: -106.1523972
+latitude: 31.4970002
+city_longitude: -106.1585867
+city_latitude: 31.50234
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

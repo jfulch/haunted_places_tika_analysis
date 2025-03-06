@@ -1,0 +1,21 @@
+city: Great Falls
+country: United States
+description: there is said to be the wandering ghost of a Native American. Many people have claimed to see him. One eyewitness' account includes the story of a woman that was driving out of Great Falls one evening. She saw someone in the road and heard a thump. The woman had thought for sure to hit the person, but when she got out of the car, no one was there. Once she got back into her car and started to drive away, she looked in the rear view mirror and saw him walking along the road again.
+location: On the highway from Great Falls to Fort Benton
+state: Montana
+state_abbrev: MT
+longitude: -111.2390903
+latitude: 47.5189107
+city_longitude: -111.2833449
+city_latitude: 47.4941836
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

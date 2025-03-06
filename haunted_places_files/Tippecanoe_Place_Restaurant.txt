@@ -1,0 +1,21 @@
+city: South Bend
+country: United States
+description: This is the mansion home of Clement Studebaker, one of the original brothers who was of the Studebaker dynasty. It has been many things since being inhabited, a home for deaf children and now a fancy restaurant. There was a fire in the nurserey in the early 1900's and a nanny and child were severely burned, and Mr. Studebaker committed suicide after the Studebaker empire was crumbling (although it's disputed as to whether or not he actually killed himself in this house). According to bartenders, especially at night late, they feel chills, see things move out of the corner of their eyes, one of the workers says, his room mate, also a worker, was speaking to patrons about the "legends" and mentioned that he personally did not believe it ghosts...as soon as he said it an expensive bottle of liquor flew off of a top shelf about 8 ft off the ground and crashed right behind him. The very top floor is a ballroom and was used for dances when it was lived in, and appears to have the most activity, as well as the floor directly below it, which is where the nursery was, now where the bar is.
+location: Tippecanoe Place Restaurant
+state: Indiana
+state_abbrev: IN
+longitude: -86.25785929999999
+latitude: 41.6756565
+city_longitude: -86.25198979999999
+city_latitude: 41.6763545
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1600/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

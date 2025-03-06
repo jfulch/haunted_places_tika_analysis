@@ -1,0 +1,21 @@
+city: Augusta
+country: United States
+description: Benet House - Footsteps upstairs, strange sights in mirrors and the sounds of rocking chairs and doors slamming by themselves.
+location: Augusta State University
+state: Georgia
+state_abbrev: GA
+longitude: -82.0229739
+latitude: 33.4758562
+city_longitude: -82.0105148
+city_latitude: 33.4734978
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/08/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

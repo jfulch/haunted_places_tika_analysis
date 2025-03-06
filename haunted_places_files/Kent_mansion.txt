@@ -1,0 +1,20 @@
+city: Suffield
+country: United States
+description: The abandoned mansion has been seen with lights on and with shadows in the windows. Even in the carriage house. Update - The Carriage house has since been torn down. It is believed to be haunted by its past benefactor Sidney Albert Kent. Many occurrences of a mischievous conduct take place. Pictures fall and break. Light fixtures fall. Dogs scared of certain areas only at certain times. Lights mysteriously go on when they were known to be checked as off. Back hall too second floor has cold chilling sensation at times.
+location: Kent mansion
+state: Connecticut
+state_abbrev: CT
+longitude: -72.65043779999999
+latitude: 41.98204
+city_longitude: -72.7017741
+city_latitude: 41.9915062
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

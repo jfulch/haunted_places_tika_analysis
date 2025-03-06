@@ -1,0 +1,20 @@
+city: Yellow springs
+country: United States
+description: There have been reports of many sightings there from Indians to a woman named Helen whom her father named after the park when she died.
+location: Glen Helen
+state: Ohio
+state_abbrev: OH
+longitude: -83.8850876
+latitude: 39.8009891
+city_longitude: -83.88687399999999
+city_latitude: 39.8064486
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

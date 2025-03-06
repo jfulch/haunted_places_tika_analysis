@@ -1,0 +1,21 @@
+city: Jefferson's Island
+country: United States
+description: This mansion is haunted by Joseph Jefferson's (the founder of Jefferson's Island) ghost. Green balls of light fly through the air and chairs slide down the halls, even footsteps can be heard.
+location: Joseph Jefferson's Mansion
+state: Louisiana
+state_abbrev: LA
+longitude: -91.972598
+latitude: 29.973817
+city_longitude: -91.9756768
+city_latitude: 29.9727048
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

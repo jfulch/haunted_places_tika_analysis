@@ -1,0 +1,21 @@
+city: Moro
+country: United States
+description: On this road are many stories. The stories begin with the bridges on the road. First bridge: A woman had thrown her baby into the creek. Sometimes if you stop and look over the bridge you can hear a baby cry. Around the same area, a woman had hung herself in the trees. You can see her ghostly figure by the trees hanging from a rope. - November 2003 update:The bridges have all been taken down, and the church is gone as well.
+location: Snake Road
+state: Illinois
+state_abbrev: IL
+longitude: -90.03010080000001
+latitude: 38.9917978
+city_longitude: -90.02204909999999
+city_latitude: 38.924769
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

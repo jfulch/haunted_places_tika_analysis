@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: Boy's dorm - many years ago 3 kids went down to the basement and were mysteriously killed. A black figure has been sighted by many students at a certain time on certain nights. A doll was found that appeared to be possessed. Ghosts have been seen in both the girl's and boy's dorms. - March 2008 Update/Correction: A former student states, there are no reports of anyone murdered. There were No basements existed back then *AND* there were NO dorms back then. They were in SAME building as the school building back then.
+location: Oregon school for the deaf
+state: Oregon
+state_abbrev: OR
+longitude: -123.0238796
+latitude: 44.9666834
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

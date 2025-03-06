@@ -1,0 +1,21 @@
+city: Edison
+country: United States
+description: shadowy figures seen walking down darken halls in all four of the dorms figer have been know to attack female student in a sexual manner stranger unearthly smells have been experience in the Roseay Parkes dorm and the business tech class stranger creature have seen near the smell.
+location: Edison job corps academy
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.4171337
+latitude: 40.5257992
+city_longitude: -74.4120953
+city_latitude: 40.5187154
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1600/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

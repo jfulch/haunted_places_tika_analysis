@@ -1,0 +1,21 @@
+city: Utica
+country: United States
+description: The Weaver House (torn down)  Get on Trenton road and head towards Deerfield. Go past willow dr., and less than an 1/8 of a mile there will be a traffic light and on the left will be a red broken down house with spray paint on it. This is the house lost in a fire owned by the Weavers. The fire killed some members of the family and their graves are on top of a hill past the house on the left. Look hard and you'll find it. A ghost has been seen walking with a lamp into the woods and up to the grave sight.
+location: Trenton Road Ave
+state: New York
+state_abbrev: NY
+longitude: -75.21066669999999
+latitude: 43.1515454
+city_longitude: -75.232664
+city_latitude: 43.100903
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1992/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

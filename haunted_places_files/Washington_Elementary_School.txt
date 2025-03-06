@@ -1,0 +1,20 @@
+city: Eastlake
+country: United States
+description: Late at night when the janitors are gone, little boys and girls from the school come out of the cracks like ghosts. They dance around and go to gym.
+location: Washington Elementary School
+state: Ohio
+state_abbrev: OH
+longitude: -81.4446478
+latitude: 41.660849
+city_longitude: -81.4503924
+city_latitude: 41.65393590000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

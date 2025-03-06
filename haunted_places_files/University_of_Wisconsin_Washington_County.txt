@@ -1,0 +1,21 @@
+city: West Bend
+country: United States
+description: Working as a custodian one would hear doors slam and things fall and upon investigating one found nothing, but the talk was that the place was haunted at night.  Lights in the library are constantly turning on. Even hearing the switch click. Also reports that witnesses could hear the desks sliding across the floor slamming into the walls and each other.
+location: University of Wisconsin Washington County
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.2120503
+latitude: 43.4184685
+city_longitude: -88.1834277
+city_latitude: 43.4252776
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Safety Harbor
+country: United States
+description: Several housekeepers tell of hearing their name called from the woman's bath area of the spa-and nobody is there. During a renovation in the mid-90's, the front desk would receive phone calls from empty guestrooms in the dead of night. When security would investigate, they could hear voices in the totally empty building.
+location: The Safety Harbor Spa Resort
+state: Florida
+state_abbrev: FL
+longitude: -82.68744099999999
+latitude: 27.990771
+city_longitude: -82.6931553
+city_latitude: 27.9908529
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Ashippun
+country: United States
+description: closed school in Ashipunn, Wisconsin on Hwy O. School had an eerie feel when going by and playground had creepy feel as well. Was curious if any known activity at this School.
+location: Ashippun School
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.4590862
+latitude: 43.2181528
+city_longitude: -88.51513539999999
+city_latitude: 43.21281219999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Clovis
+country: United States
+description: Ghosts have not been seen first hand here, but have been photographed. Phantoms include: a group young men who were photographed in the living quarters of the old studios (now a museum) and strange orange lights in the same location. Sensitive visitors have wanted to cry for no reason.
+location: Norman Petty Studios
+state: New Mexico
+state_abbrev: NM
+longitude: -103.2212116
+latitude: 34.4044097
+city_longitude: -103.2052272
+city_latitude: 34.4047987
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

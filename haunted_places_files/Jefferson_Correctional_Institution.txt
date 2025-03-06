@@ -1,0 +1,21 @@
+city: Tallahassee
+country: United States
+description: Inmates and guards all report late at night you can see in the dorms kids playing and, One night a girl thought that the officer was tapping her to get up and then when she looked up there was no one there this went on for a month or so. Found out it happened to others in the dorm as well. Another inmate also saw a big 8 foot angel in dorm g. officers said they heard keys hit the bars in lock up when there was no one there and a little girl haunts lock up crows sits outside. Reports of a man on a horse outside at night. The prison was built on a graveyard.
+location: Jefferson Correctional Institution
+state: Florida
+state_abbrev: FL
+longitude: -83.79830869999999
+latitude: 30.51004
+city_longitude: -84.28073289999999
+city_latitude: 30.4382559
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

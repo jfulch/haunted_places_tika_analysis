@@ -1,0 +1,20 @@
+city: Bloomfield
+country: United States
+description: The grounds of St. Thomas seminary which at one time spanned a far greater area then they currently do, have had a few reports among local people. much of the original grounds have been over grown or sold off to businesses but the seminary it self is still actively used by the church of Hartford as well as the University of Hartford located down the street, as dorms. at night several people have seen shadowy figures walking through the fields. the gym has many cold spots in the old locker/shower rooms and in the basement, which is the lower gym. the ghosts are believed to be those of former priest residents and students at the seminary.
+location: St. Thomas
+state: Connecticut
+state_abbrev: CT
+longitude: -72.73370589999999
+latitude: 41.8067662
+city_longitude: -72.73009449999999
+city_latitude: 41.826488
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1635/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

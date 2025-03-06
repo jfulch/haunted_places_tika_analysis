@@ -1,0 +1,20 @@
+city: Geauga
+country: United States
+description: International Restaurant, above the main entrance to the park is haunted by the ghost of a former chef who killed himself with a knife while working by himself late one night at the restaurant. International Restaurant has not been opened for years, apparently for financial reasons. However, despite its inactivity, lights are still seen in the back of the restaurant late at nights after close, witnesses have seen silhouettes of some human moving about in the faint light. The silhouette is unusually tall and carries something in his hand, which we are attributing to a chef's hat and the knife he killed himself with.
+location: Kings Island
+state: Ohio
+state_abbrev: OH
+longitude: -84.2691423
+latitude: 39.3451798
+city_longitude: -81.20781640000001
+city_latitude: 41.4641521
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

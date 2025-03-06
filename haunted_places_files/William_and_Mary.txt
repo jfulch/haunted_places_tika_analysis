@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: Tucker Hall - In 1980, a girl committed suicide in this academic building, and her ghost is rumored to appear throughout the semesters.
+location: William and Mary
+state: Virginia
+state_abbrev: VA
+longitude: -76.71337799999999
+latitude: 37.271674
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

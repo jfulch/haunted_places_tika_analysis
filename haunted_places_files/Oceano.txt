@@ -1,0 +1,21 @@
+city: San Luis Obisbo
+country: United States
+description: Black Lake -Reports of an Old Spanish lady in a Black ruffled dress that walks around the lake at night. Witnesses report she has no face just a white glowing light.
+location: Oceano
+state: California
+state_abbrev: CA
+longitude: -120.612393
+latitude: 35.0988648
+city_longitude: -120.6596156
+city_latitude: 35.2827524
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1832/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

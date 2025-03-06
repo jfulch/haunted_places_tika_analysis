@@ -1,0 +1,21 @@
+city: Zoar
+country: United States
+description: On the Northeast corner of Zoar is a church. Behind the church in the woods is an Indian Cemetery. An ambulance was running lights and siren past the cemetery and the whole ambulance shut down but kept moving. After it passed the cemetery, it started back up again. There have been reports of a man with no face walking on the highway.
+location: STH 47
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.9007547
+latitude: 45.0145399
+city_longitude: -88.8989969
+city_latitude: 45.0149721
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

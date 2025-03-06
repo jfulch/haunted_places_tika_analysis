@@ -1,0 +1,21 @@
+city: Arkadelphia
+country: United States
+description: Arkansas Hall - A ghost named Simon haunts the theater. He is particularly fond of the balcony section, where he flips seats, giggles, and makes footsteps. He is also known to drop harmless objects, such as newspapers, onto the stage from the ceiling. Also, a girl haunts the dorms at night, searching for her lost love. After he left her, she just wasted away.
+location: Henderson State University
+state: Arkansas
+state_abbrev: AR
+longitude: -93.0591234
+latitude: 34.1308101
+city_longitude: -93.0537839
+city_latitude: 34.1209292
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Barton Brook
+country: United States
+description: There are several hauntings at this location. They all circulate around an old home from the 1800's in the mountains of northern Pennsylvania. One ghost is of someone who has ethnic features, somewhat of a servant looking, perhaps a black servant, not sure. This is a torso / head apparition. The living residents of a house heard a party going on downstairs. Wishing to investigate, they head down stairs. This house had a sealed up staircase (It had its own room). When they got to the door, they could hear people talking and smell coffee. As they opened the door, the smell and sound disappeared. It reappeared when they returned to their beds.
+location: Benson home
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -76.3871532
+city_latitude: 42.0937601
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

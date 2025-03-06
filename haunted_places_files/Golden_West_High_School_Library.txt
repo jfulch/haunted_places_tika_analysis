@@ -1,0 +1,21 @@
+city: Visalia
+country: United States
+description: Footprints will appear in any dust, and when your alone you can hear children laughing, and when your downstairs you can see a little girl walking across the railing up top. Site is very close to Indian burial site.
+location: Golden West High School Library
+state: California
+state_abbrev: CA
+longitude: -119.2521246
+latitude: 36.3431198
+city_longitude: -119.2920585
+city_latitude: 36.3302284
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

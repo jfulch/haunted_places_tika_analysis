@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: In the auditorium of the former Portland High School a janitor was fixing a light bulb over the stage on a tall ladder with someone holding it at the bottom.  The janitor lost balance and fell, colliding with the man at the bottom.  It didn't break his fall though, and was instantly killed from a broken neck.  Since then there have been reports of a weird cold breezes in the auditorium at night, and sometimes a sighting of the dead janitor.  The Portland High school was turned into the junior high when a new high school was built, and then torn down in 2002.
+location: Old Portland High School
+state: Indiana
+state_abbrev: IN
+longitude: -85.0237727
+latitude: 40.4297071
+city_longitude: -84.9777455
+city_latitude: 40.43448950000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Frankfort
+country: United States
+description: was a spectral Green Light that haunted the area of an old road near the state capitol and off of 421 (Leestown Road). it was Believed to be the specter of an old railway worker who lost his head in a train accident and now haunts the area looking for it. She claims that she didn't make this tale up and that she's heard others speak of it.
+location: Old Road near Capitol (unsure of name of road)
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.87328350000001
+city_latitude: 38.2009055
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2017/03/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

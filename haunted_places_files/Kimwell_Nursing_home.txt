@@ -1,0 +1,21 @@
+city: Fall River
+country: United States
+description: An old man dressed in a black suit and black top hat has been seen by most of the elderly living there, lights in basement have been known to go on and off by themselves. And also a young blond haired nurse has been seen by the residents, she is known to make them feel better then after days of seeing her they pass away.
+location: Kimwell Nursing home
+state: Maryland
+state_abbrev: MD
+longitude: -71.136628
+latitude: 41.709134
+city_longitude: -77.1890161
+city_latitude: 39.0395669
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1975/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 16.183333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

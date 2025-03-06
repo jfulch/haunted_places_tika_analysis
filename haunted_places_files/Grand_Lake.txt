@@ -1,0 +1,20 @@
+city: Grand Lake
+country: United States
+description: Way back in the day, the Ute Indians were suddenly attacked by the Cheyenne. Fearing for their women and children, the Ute braves loaded them on rafts and shoved the rafts into the lake for safety. As the battle with the Cheyenne raged among the trees and along the lakeshore, a fearful storm came up, blowing the rafts far out onto the 400 ft. deep lake. The rafts overturned and all the women and children drowned. Legend says that if you go out to the lake on a stormy night after a balmy day, you can see a ghostly mist rise above the lake and drift across the waters. You can even hear the cries of the ones who died there.
+location: Grand Lake
+state: Colorado
+state_abbrev: CO
+longitude: -105.8230671
+latitude: 40.25220729999999
+city_longitude: -105.8230671
+city_latitude: 40.25220729999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1625/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

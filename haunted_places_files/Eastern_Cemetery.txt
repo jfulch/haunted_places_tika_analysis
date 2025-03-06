@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: his cemetery has graves dating back to the eighteenth century. It is now in horrible condition. It is said that some of the dead haunt it, angry that the cemetery is in such bad shape. There is supposedly a ghost of a woman that takes care of the babies, who have their own section in the back.
+location: Eastern Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7276852
+latitude: 38.2448023
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Sources say they have seen ghost of the men that were stationed at the fort. They also have reported that they have seen Indians there.
+location: Commanche Look-out Hill
+state: Texas
+state_abbrev: TX
+longitude: -98.3769877
+latitude: 29.5744196
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

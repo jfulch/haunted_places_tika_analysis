@@ -1,0 +1,21 @@
+city: Frisco
+country: United States
+description: The subdivision was built in the late 90's on top of what few people knew was an old settler's cemetery.  Residents have reported hearing crying babies, seeing settler women and men roaming their halls and odd things like randomly falling pictures in several of the homes that are built in the community.  Additionally, every year in early February a faint apparition appears and floats throughout the neighborhood. In 2006 as they were building the Dallas North Parkway just east of the area, several bodies were uncovered in unmarked graves.
+location: The Trails of West Frisco Community
+state: Texas
+state_abbrev: TX
+longitude: -96.8766722
+latitude: 33.1638864
+city_longitude: -96.8236116
+city_latitude: 33.1506744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2006/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

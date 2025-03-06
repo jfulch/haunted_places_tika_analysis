@@ -1,0 +1,21 @@
+city: Southgate
+country: United States
+description: A boy is believed to have drowned when the pool was first built. He has been seen there, almost trying to ward anyone off from the same fate.
+location: Anderson high
+state: Michigan
+state_abbrev: MI
+longitude: -83.212549
+latitude: 42.189834
+city_longitude: -83.19381469999999
+city_latitude: 42.2139284
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

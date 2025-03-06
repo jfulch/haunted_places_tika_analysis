@@ -1,0 +1,20 @@
+city: Norwich
+country: United States
+description: While visiting this place recently you can walk thru patients rooms and still hear a woman sobbing. If you go into one building on the 3rd floor...which used to be used to perform lobotomy's years ago you can hear beeping sounds. while walking on the grounds no matter what building you are near you hear bellowing. - February 2007 Update: WARNING: No Trespassing This area is patrolled by guards that will call the police.
+location: Norwich State Psychiatric Hospital
+state: Connecticut
+state_abbrev: CT
+longitude: -72.0926945
+latitude: 41.5326809
+city_longitude: -72.07591049999999
+city_latitude: 41.5242649
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 0

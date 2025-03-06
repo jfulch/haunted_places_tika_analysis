@@ -1,0 +1,20 @@
+city: Raliegh
+country: United States
+description: Sounds of doors shutting and often doors will reopen that you have recently shut.
+location: Leith Blvd. &amp; Capitol Blvd
+state: North Carolina
+state_abbrev: NC
+longitude: -78.58021289999999
+latitude: 35.860701
+city_longitude: -78.6381787
+city_latitude: 35.7795897
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

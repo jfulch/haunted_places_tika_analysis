@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: Maintenance workers report seeing the ghost of a young woman in the attic, which has been out of use for years due to students not wanting to live in it.
+location: Lausanne Hall University Dormitory
+state: Oregon
+state_abbrev: OR
+longitude: -123.0318598
+latitude: 44.9359709
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

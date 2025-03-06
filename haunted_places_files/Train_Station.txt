@@ -1,0 +1,20 @@
+city: Haugen
+country: United States
+description: In the early 1900's their was a great fire, it issaid that many people died from the great fire in the train station. So whenever you walk by you may feel a cold chill. And when you go inside you can hear the screams and cry's of people that died in the fire.
+location: Train Station
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.7775338
+latitude: 43.6266317
+city_longitude: -91.774893
+city_latitude: 45.6088426
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

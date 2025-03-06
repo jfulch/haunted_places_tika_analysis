@@ -1,0 +1,21 @@
+city: Alva
+country: United States
+description: It was once a hospital. All of the rooms on the second and third floors have been bricked up, save for the surgery, on the second floor. Several people have seen something in that room from outside the museum at night, and there have been several accounts of people breaking in at night and seeing something.
+location: Cherokee Strip Museum
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.6799126
+latitude: 36.7987528
+city_longitude: -98.6664737
+city_latitude: 36.8050308
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

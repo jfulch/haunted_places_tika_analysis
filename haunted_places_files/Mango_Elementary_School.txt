@@ -1,0 +1,21 @@
+city: Fontana
+country: United States
+description: They say in back of the school there was a little girl who would go on a tree(it supposedly had a tree house before) and would go on top of the tree when her parents would fight. That tree they said she would call her best friend until one day it was a windy day and she fell to her death. They say at night you can hear her crying for help and sometimes you can see her fall of the tree. She wears a little white dress and straight hair.
+location: Mango Elementary School
+state: California
+state_abbrev: CA
+longitude: -117.4321585
+latitude: 34.1185382
+city_longitude: -117.435048
+city_latitude: 34.0922335
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

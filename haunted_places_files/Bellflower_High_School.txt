@@ -1,0 +1,21 @@
+city: Bellflower
+country: United States
+description: Theater - A girl killed herself because her boyfriend broke up with her and she didn't make the play she tried out for. She hung herself over the stage. A prop phone would ring when unplugged. When students are rehearsing spotlights would flicker on and off. When the radio would be unplugged it would turn on, but the station would be changed.
+location: Bellflower High School
+state: California
+state_abbrev: CA
+longitude: -118.1134665
+latitude: 33.8948738
+city_longitude: -118.1170117
+city_latitude: 33.8816818
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

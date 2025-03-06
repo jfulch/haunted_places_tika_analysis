@@ -1,0 +1,21 @@
+city: Columbia
+country: United States
+description: Horton Hall - Horton Hall is one of the many old buildings on the college campus.  It is Located between the Soccer Field and the Gym.  Most of the horrific sightings have been spotted in the dorm rooms on the 2nd Floor.  There has been many encounters late at night and mostly on the weekends of Dark Figures pulling up and shaking the ceiling tiles.  Others have reported that if you lay really still without any movement at all that the Dark figures will slowly Creep down into your room.  If you do let things get this far do not startle the shadow looking spirits.  Once reported that loud screams would come from the spirits if they seen any type of human life in the room.  These spirits have no history to the area but just seem to appear random time during the course of the year.
+location: Lindsey Wilson College
+state: Kentucky
+state_abbrev: KY
+longitude: -85.3015101
+latitude: 37.1027852
+city_longitude: -85.3063504
+city_latitude: 37.102841
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1985/12/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

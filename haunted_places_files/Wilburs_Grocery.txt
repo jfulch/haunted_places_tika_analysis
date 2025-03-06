@@ -1,0 +1,21 @@
+city: Towanda
+country: United States
+description: It is said that this grocery used to be an orphanage and also a home for wayward woman. Truckers used to sleep in the basement of the building. This is one of the oldest buildings in Towanda. Many of the women that worked at the grocery have said to see potato chips, grocery carts moving on their own, the smell of fresh coffee, and cold air coming from no where. One lady that was closing up for the evening had put up all of the mops and brooms on hangers for the night and also checked the freezer to make sure it was closed up tight. The next morning when she opened the store the freezer door was wide open and all of the brooms and mops were lying on the floor in one little pile. Another Lady said to have something come up and touch her on her head and play with her hair. Something was always untying their aprons. Each time a person could feel the cold chill in the air and the hair rise on their arms.
+location: Wilburs Grocery
+state: Kansas
+state_abbrev: KS
+longitude: -97.0193417
+latitude: 37.938657
+city_longitude: -96.999758
+city_latitude: 37.797517
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

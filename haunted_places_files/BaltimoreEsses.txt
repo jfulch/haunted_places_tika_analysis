@@ -1,0 +1,21 @@
+city: Baltimore County
+country: United States
+description: Ballestone Manor - Figures seen, objects being moved, footsteps, odd things happen in the slave's quarters in the back. George Washington stayed at this house. Family graveyard on site. Give ghost tours and Christmas tour.
+location: Baltimore/Esses
+state: Maryland
+state_abbrev: MD
+longitude: -76.47496199999999
+latitude: 39.30927430000001
+city_longitude: -76.7336521
+city_latitude: 39.4647665
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1728/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

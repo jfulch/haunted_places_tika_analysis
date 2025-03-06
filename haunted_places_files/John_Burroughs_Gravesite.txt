@@ -1,0 +1,21 @@
+city: Raxbury
+country: United States
+description: The place is in the middle of a forest, Roxbury is the closest town to it. At Burroughs gravesite there is his grave, which is covered with grass. (He was a famous naturalist) and a rock nearby on which he sat and thought about his discoveries. If you sit directly in the center, you will feel a cold spot.
+location: John Burroughs Gravesite
+state: New York
+state_abbrev: NY
+longitude: -74.5835611
+latitude: 42.296322
+city_longitude: -74.5697617
+city_latitude: 42.3001868
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

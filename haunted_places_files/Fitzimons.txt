@@ -1,0 +1,20 @@
+city: Aurora
+country: United States
+description: Fitzimons used to be an old military base, now it is a hospital. There are still the old buildings there, if you drive in there go towards the back, many spooky buildings, even in the day. If you are brave you will park your car and walk around the old army buildings, they are all abandoned. One in particular is a white 4-story building, if you go up the stairs outside and pear down the window on the door, it is reported that you can see and feel many war victims trying to get out the door.
+location: Fitzimons
+state: Colorado
+state_abbrev: CO
+longitude: -104.8367063
+latitude: 39.7452765
+city_longitude: -104.8319195
+city_latitude: 39.7294319
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1971/04/11
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

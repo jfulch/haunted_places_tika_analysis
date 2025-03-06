@@ -1,0 +1,20 @@
+city: Dodge City
+country: United States
+description: (Now Soul Intermediate Center) - An old high school built in the 1800's. The true nature of the haunting has been lost in legend and lies, but one thing still holds true, there are ghosts in the halls in the basement of the school and the library. Several spirits reside within the school, not all of them friendly. There are several passageways that have been blocked off underground the school, legend says a young man was exploring down there after hours, knocked himself out and died shortly there after. Workers were tearing down the set. One of the tear down procedures was two or three of them would walk around the school and take down the flyers promoting the play. they descended to the lowest level where the basement hallways connect with the commons area and the library. While walking into an unlit area they heard the door to the library open and slam and then a laugh. They all sprinted towards the doors, only to find them locked with no one in sight and no one in the library. All of a sudden one of the other people came around the corner, the flyer had been ripper from her hand and torn twice. Now the halls have been revamped and children attend school there, but time will only tell if that has scared away the ghosts of Dodge City Senior High School.
+location: Old Dodge City High School
+state: Kansas
+state_abbrev: KS
+longitude: -100.0447332
+latitude: 37.78254880000001
+city_longitude: -100.0170787
+city_latitude: 37.7527982
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

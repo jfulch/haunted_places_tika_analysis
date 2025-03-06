@@ -1,0 +1,21 @@
+city: Dunn
+country: United States
+description: In about the 1820's on a Halloween day this church was having sermon and the preacher flipped out and killed every one in there and now if you go to the church and you read the big stone memorial and walk up to the doors and read the sign and do what it tells you to than you will see a man holding a lantern and he will wave you on.
+location: Old Bluff Church
+state: North Carolina
+state_abbrev: NC
+longitude: -78.734095
+latitude: 35.1621189
+city_longitude: -78.6089028
+city_latitude: 35.3062743
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/10/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

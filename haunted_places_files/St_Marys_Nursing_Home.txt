@@ -1,0 +1,21 @@
+city: Manitowoc
+country: United States
+description: It is said that this home for the elderly is built on what used to be a orphanage back in the early 1900's. There are many witnesses of children seen running through the towers and sounds of children playing and screaming. Also a man has been seeing walking his dog in the building, when asked what he is doing there, he vanishes. Many of our residents complain about the barking dog and to tell the children to settle down.
+location: St. Mary's Nursing Home
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.6730836
+latitude: 44.07921349999999
+city_longitude: -87.657584
+city_latitude: 44.0886059
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

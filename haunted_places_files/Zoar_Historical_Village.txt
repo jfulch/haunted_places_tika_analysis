@@ -1,0 +1,20 @@
+city: Zoar
+country: United States
+description: Several ghosts have been reported in this historic village, our hunt turned up a portal type haunting in an old Nursing Home where the elderly were abused by the matrons hired to look after them.
+location: Zoar Historical Village
+state: Ohio
+state_abbrev: OH
+longitude: -81.4225259
+latitude: 40.6132892
+city_longitude: -81.42233750000001
+city_latitude: 40.6142285
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

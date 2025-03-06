@@ -1,0 +1,21 @@
+city: Taunton
+country: United States
+description: strange lights and cries for help reported. Apparition on a boy between the ages of 13 and 15.
+location: Paul Dever Developmental Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1206067
+latitude: 41.9445373
+city_longitude: -71.0897674
+city_latitude: 41.900101
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1531/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

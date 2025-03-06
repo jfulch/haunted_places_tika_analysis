@@ -1,0 +1,20 @@
+city: Alliance
+country: United States
+description: William Morgan built the Castle at Alliance Ohio in 1902 and 1903.Today The Glamorgan Castle is haunted the ghosts is William H. Morgan have been seen to this day.
+location: Glamorgan castle­
+state: Ohio
+state_abbrev: OH
+longitude: -81.1089341
+latitude: 40.9113341
+city_longitude: -81.10593089999999
+city_latitude: 40.9153362
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1902/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

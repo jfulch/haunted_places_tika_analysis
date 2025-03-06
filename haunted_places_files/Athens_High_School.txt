@@ -1,0 +1,21 @@
+city: Troy
+country: United States
+description: About 10 years ago a student was driving into the parking lot, but did not see that the gates were closed. The student was driving with such force that he drove straight through the gates, taking off the roof of his car and his head. Late at night people claim to see a white Dodge Spirit driving around the parking lot screaming loudly and honking the horn. - October 2005 Correction: While this event did happen, the student was NEARLY decapitated. There was no death & he is alive and well.
+location: Athens High School
+state: Michigan
+state_abbrev: MI
+longitude: -83.11195029999999
+latitude: 42.5819665
+city_longitude: -83.1497751
+city_latitude: 42.6064095
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

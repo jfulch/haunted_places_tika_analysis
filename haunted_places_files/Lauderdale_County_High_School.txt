@@ -1,0 +1,21 @@
+city: Rogersville
+country: United States
+description: March 2005 Correction - No children died in the fire. - In 1959, the elementary building caught fire and a third grade class was trapped inside and burned to death.
+location: Lauderdale County High School
+state: Alabama
+state_abbrev: AL
+longitude: -87.2895739
+latitude: 34.8286364
+city_longitude: -87.2947417
+city_latitude: 34.8256425
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1959/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

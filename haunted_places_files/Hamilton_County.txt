@@ -1,0 +1,20 @@
+city: Cincinnati
+country: United States
+description: Cincinnati Museum Center - In the early 1990s, the Museum Center was experiencing theft. Apparently, computers were being stolen, and the only security guard to catch them was Shirley. Shirley caught them on the 4th floor, but was shot dead on the spot. Her body was later dumped in Northern Kentucky. She still roams the halls of Union Terminal. Many house keeping women will not walk alone after closing. Doors can be heard locking and footsteps are heard in hallways, when no one is there. One piece of the collection in the Cincinnati History Museum is an airplane from WWII. A pilot is seen inside the plane at night. People crying or welcoming back soldiers can also be heard on the train tracks. (Since Union Terminal was a great railroad station during WWII)
+location: Hamilton County
+state: Ohio
+state_abbrev: OH
+longitude: -84.5120196
+latitude: 39.1031182
+city_longitude: -84.5120196
+city_latitude: 39.1031182
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1924/11/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

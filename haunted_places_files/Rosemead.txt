@@ -1,0 +1,21 @@
+city: Montebello
+country: United States
+description: Whittier Narrows Park - The figure of a Spanish conquistador on horseback can be seen occasionally around the intersection of San Gabriel Blvd and Lincoln Ave. It is said he drowned here looking for his gold buried near the river's beach. Mysterious fogs roll in and out here a lot as well.
+location: Rosemead
+state: California
+state_abbrev: CA
+longitude: -118.0816847
+latitude: 34.0376
+city_longitude: -118.1137535
+city_latitude: 34.0165053
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1771/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lexington
+country: United States
+description: This historical building was once used as a house. A teenager named Gretta lived in it. It is now a restaurant, but employees always warn people about the blue room. It was Gretta's when she lived there. One night she hung herself in her room because a guy had stood her up or turned her down for a date. Visitors claim in the blue room (her room) and every so often the lights and candles would flicker and you'd feel a cold breeze go across your legs, even though there were no vents. A few other people also noticed it too. Then if someone made her mad, Gretta would slam the shutters on the windows and sway the chandeliers a bit
+location: The Mansion-Griffin Gate
+state: Kentucky
+state_abbrev: KY
+longitude: -84.4850671
+latitude: 38.0918056
+city_longitude: -84.5037164
+city_latitude: 38.0405837
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2007/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

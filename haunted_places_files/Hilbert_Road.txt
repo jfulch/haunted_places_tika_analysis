@@ -1,0 +1,20 @@
+city: Hilbert
+country: United States
+description: Reports of a man with a lantern in his hand and he only has one side of his face he will try stopping you and asking you if you see his daughter cause she was killed on that road in like the 1900's and then when driving down the road on the right side of the road there is a tree standing all alone there is a person standing under that tree and when u put light on tree it goes away but u have to drive down this road at night and has to be from 12:00am -5:00am.
+location: Hilbert Road
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.1238118
+latitude: 44.1175935
+city_longitude: -88.1639909
+city_latitude: 44.14026810000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

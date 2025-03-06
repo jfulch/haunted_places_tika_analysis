@@ -1,0 +1,21 @@
+city: Society Hill
+country: United States
+description: Lots of strange noises can be heard. If you take pictures, nine times out of ten you will see strange and unexplained things. If you leave a tape recorder, you can almost always hear someone singing.
+location: Holt Cemetery
+state: Alabama
+state_abbrev: AL
+longitude: -85.4490813
+latitude: 32.4633239
+city_longitude: -85.4452245
+city_latitude: 32.4265296
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

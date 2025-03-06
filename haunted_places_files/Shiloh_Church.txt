@@ -1,0 +1,21 @@
+city: Jasper
+country: United States
+description: Many people died due to a fire and now the church is haunted by them.
+location: Shiloh Church
+state: Indiana
+state_abbrev: IN
+longitude: -86.9687914
+latitude: 38.400507
+city_longitude: -86.9311094
+city_latitude: 38.3914418
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.333333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Douglas County
+country: United States
+description: Legend is a large area of land northwest of Oakland and southeast of Tuscola of a girl who runs out in front of cars and gets hit. Everyone in the car felt the impact, but when they stop the car and try to find the girl she is gone.
+location: The Lost Forties
+state: Illinois
+state_abbrev: IL
+longitude: -87.79310819999999
+latitude: 41.95377149999999
+city_longitude: -88.2071598
+city_latitude: 39.7617631
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Central Point
+country: United States
+description: Central Point Elementary was rebuilt in 1908 after a fire was the cause of death fro many teachers and students. Stories tell of many different hauntings. A janitor was working the late shift, when he heard what sounded like the laughs of children, but upon turning to investigate, no one was there. He continues walking and hears the laughing again. The janitors employers found his body torched as if it had been set on fire. Another story was also about a janitor, supposedly himself or someone had hung him from the pull rope of the old bell in the tower, Stories of every night at midnight the bell would ring, this was before the timer was installed, when the bell was rang at recess by the sixth graders. Students have heard footsteps behind them while alone in the bathroom.
+location: Central Point Elementary
+state: Oregon
+state_abbrev: OR
+longitude: -122.9117818
+latitude: 42.37197889999999
+city_longitude: -122.9164307
+city_latitude: 42.3759586
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1908/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: In the 7th grade hall,room 28, janitors have reported hearing voices at night. There has also been reports of hearing children laughing and playing in the room. In some cases the computers have turned on and off and lights have flickerd.
+location: Clark Middle School
+state: Texas
+state_abbrev: TX
+longitude: -99.4981512
+latitude: 27.5493305
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

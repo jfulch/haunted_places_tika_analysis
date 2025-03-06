@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: On a visit to New Orleans we stayed in the Pontchartrain Hotel in the Garden District. Cold spots have been felt, and the elevators stops at different floors all on its own.
+location: Pontchartrain Hotel
+state: Louisiana
+state_abbrev: LA
+longitude: -90.0796763
+latitude: 29.93499199999999
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1718/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

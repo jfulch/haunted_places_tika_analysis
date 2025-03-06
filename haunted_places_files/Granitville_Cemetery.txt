@@ -1,0 +1,20 @@
+city: Aiken
+country: United States
+description: there has been reported sightings of a witch ghost late at night who walks through the cemetery putting flowers on little kids graves. also there has been reports of screams coming from the back of the cemetery where unmarked graves are and if you walk though and step on one the spirit of the person you step on will grab your feet. everything from gunshots to screams and laughter can be heard on cold full moon nights.
+location: Granitville Cemetery
+state: South Carolina
+state_abbrev: SC
+longitude: -81.79476369999999
+latitude: 33.568624
+city_longitude: -81.7195533
+city_latitude: 33.5604168
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1944/07/06
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

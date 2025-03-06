@@ -1,0 +1,20 @@
+city: Valley View
+country: United States
+description: On tinkers creek road there is a hidden cemetery located up a long hill that leads to a lake and fields. Its impossible to see from the road, unless someone takes you there you would never have know it existed. Feelings of being watched and hearing things like children laughing and branches breaking.
+location: Hidden cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -83.9949268
+latitude: 39.6932514
+city_longitude: -81.6045685
+city_latitude: 41.3878312
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Davenport
+country: United States
+description: Bell Tower - When the station was first built the guards used to hang prisoners in the bell tower so no one could hear or see what they were doing. If you go east behind the police station at night and look up to the bell tower you can see a man still hanging in the first window.
+location: police station
+state: Iowa
+state_abbrev: IA
+longitude: -90.5777854
+latitude: 41.5238852
+city_longitude: -90.5776367
+city_latitude: 41.5236437
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

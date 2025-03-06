@@ -1,0 +1,21 @@
+city: Logan
+country: United States
+description: The ghost of Mame Thurman, a lady killed on June 22,1932 by a still unknown killer, has been seen walking the woods where she was killed. Mamie Thurman
+location: 22 Mine Road
+state: West Virginia
+state_abbrev: WV
+longitude: -82.1013969
+latitude: 37.7877979
+city_longitude: -81.9934581
+city_latitude: 37.8487147
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

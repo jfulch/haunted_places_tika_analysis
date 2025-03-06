@@ -1,0 +1,21 @@
+city: Notasulga
+country: United States
+description: Tuskegee Army Airfield - During WWII, the army built Sharpe Field in 1941 to train the black pilots of America. Many of you may know the story of the Tuskegee Air Men, and that many lives were lost while training. At night, the faint sound of an explosion can be heard. Also, certain parts of the now abandoned airfield are haunted with the screams of the pilots, and voices can be heard as well. WARNING! NO TRESPASSING!!! An exclusive hunting club now owns the property. Signs are posted that read, "Anyone found here at night will be found here in the morning."
+location: Tuskegee Area of Macon County
+state: Alabama
+state_abbrev: AL
+longitude: -85.6890208
+latitude: 32.4545645
+city_longitude: -85.6724538
+city_latitude: 32.5606908
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1941/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

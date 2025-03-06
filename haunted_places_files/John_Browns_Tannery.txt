@@ -1,0 +1,21 @@
+city: Meadville
+country: United States
+description: It is said to be haunted and soldiers are buried in and around the tannery in shallow graves.
+location: John Browns Tannery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -73.9715789
+latitude: 44.2519318
+city_longitude: -80.15144839999999
+city_latitude: 41.6414438
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 0

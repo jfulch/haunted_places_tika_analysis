@@ -1,0 +1,21 @@
+city: Binger
+country: United States
+description: In the old part of the school by the gym at night you can hear kids talking and laughing and in the basement you can hear footsteps and talking.
+location: Binger School
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.3435523
+latitude: 35.3057808
+city_longitude: -98.3420014
+city_latitude: 35.3089454
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

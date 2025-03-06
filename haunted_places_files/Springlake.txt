@@ -1,0 +1,21 @@
+city: Earth
+country: United States
+description: Earth High School - Many Students that have attended the high school have been killed over the years in car accidents. It is believed that some of them, possibly along with a teacher that was killed in a car wreck, may haunt the gym, the auditorium, and the band hall. If you go into the gym alone, you can hear people talking in the girls' locker room. No one wants to go into the auditorium alone, because the janitors have reported hearing the same ghostly sounds every day while cleaning. It's so bad that they now turn a radio up full blast just so they won't have to hear it.
+location: Springlake
+state: Texas
+state_abbrev: TX
+longitude: -102.3594802
+latitude: 34.259418
+city_longitude: -102.4107493
+city_latitude: 34.2331373
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1975/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

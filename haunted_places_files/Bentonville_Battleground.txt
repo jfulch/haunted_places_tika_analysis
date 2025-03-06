@@ -1,0 +1,21 @@
+city: Bentonville
+country: United States
+description: Gunfire and shouting can be heard on the battleground and around the trenches at night, and there are countless stories of the plantation house being haunted by those who died there - including a little girl who died of tuberculosis and is said to still haunt one of the upstairs rooms.
+location: Bentonville Battleground
+state: North Carolina
+state_abbrev: NC
+longitude: -78.322304
+latitude: 35.302229
+city_longitude: -78.2969437
+city_latitude: 35.3487741
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

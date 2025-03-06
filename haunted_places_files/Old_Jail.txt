@@ -1,0 +1,20 @@
+city: Nevada
+country: United States
+description: It is said that there are at least 2 ghosts haunting the old Jail. One is of the sheriff's young bride often seen wearing a white dress and holding a lit candle near the 2nd story window facing Main Street. The other is of a black man who was lynched on the side lawn facing onto Walnut Street. You can hear weeping even outside the building and often you can hear the wood from the gallows creaking. There are often weird and unusual lights moving around inside the building.
+location: Old Jail
+state: Missouri
+state_abbrev: MO
+longitude: -94.358247
+latitude: 37.839479
+city_longitude: -94.3546719
+city_latitude: 37.83920519999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1955/05/30
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

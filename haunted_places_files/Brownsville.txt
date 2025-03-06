@@ -1,0 +1,21 @@
+city: Cameron
+country: United States
+description: Perkins Middle School - the lockers in the girls locker room open by themselves. janitors say you see a black figure roaming the halls.
+location: Brownsville
+state: Texas
+state_abbrev: TX
+longitude: -97.4974838
+latitude: 25.9017472
+city_longitude: -96.9769304
+city_latitude: 30.8532454
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Helena
+country: United States
+description: Judge Brantly haunts his former home.
+location: Brantly House
+state: Montana
+state_abbrev: MT
+city_longitude: -112.0245054
+city_latitude: 46.5883707
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1966/07/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 18m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

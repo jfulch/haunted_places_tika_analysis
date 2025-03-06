@@ -1,0 +1,21 @@
+city: Kerrville
+country: United States
+description: Delaney Hall - Most in Kerrville already know that Delaney Hall on the campus of Schreiner University is haunted by 8 spirits. Rumor has it this school suffered several freak accidents in the 1950's and 1960's.The Deaths include: One kid who killed himself and yet another who suffered a fall down the steps of Delaney hall in which he died instantly from a broken neck. Recently the students of Delaney hall tried to reach a spirit using a ouija board. This is how the students learned of the other 6 spirits as one of the spirits told of the news. Many strange occurrences have gone on in Delaney Hall such as apparitions of kids are seen late at night. Once when the building was empty the security on the campus of Schreiner witnessed a light being turned on and off. When the Kerrville police department arrived nobody was in the building. Delaney Hall is also full of cold spots. Students are also awakened by their televisions and radios being turned on and off by themselves.
+location: Schreiner University
+state: Texas
+state_abbrev: TX
+longitude: -99.1293846
+latitude: 30.0316696
+city_longitude: -99.1403189
+city_latitude: 30.0474332
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

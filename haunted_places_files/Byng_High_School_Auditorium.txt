@@ -1,0 +1,21 @@
+city: Byng
+country: United States
+description: There are actually two ghost stories that have made their way into the Byng auditorium. One is of the little girl that fell off the back of one of the modules. The little girl is said to sing, "I dropped my dolly in the dirt" near the back of the auditorium. The other is of Sally Engels who was a senior at Byng. She was a drama queen and when she graduated, she when to be an actress. She committed suicide because she was a perfectionist and could never get her body to look like she wanted it to. Lights have been known to flash, things have been known to drop out of the ceiling, and a certain doll has been known to move throughout the auditorium. Module doors that are locked have been opened and "Sally" has made several appearances.
+location: Byng High School Auditorium
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.6654503
+latitude: 34.8615999
+city_longitude: -96.6655688
+city_latitude: 34.8611959
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

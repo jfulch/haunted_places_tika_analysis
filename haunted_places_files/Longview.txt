@@ -1,0 +1,21 @@
+city: Gregg
+country: United States
+description: Old Caddo Indian museum - Museum off Farmed Market road also known as loop 1845 has been closed down for many years. The museum displayed artifacts that were found in burial sites in East Texas. Several people have seen a little ghost girl standing beside the road or in front of the museum during the night and strange sounds can sometimes be heard while driving down the street in front of the museum late in the evenings. The ghost girl is said to be that of a little Indian girl that was killed from a head injury. Her skeleton was on display in a glass case for many years.
+location: Longview
+state: Texas
+state_abbrev: TX
+longitude: -94.7404891
+latitude: 32.5007037
+city_longitude: -94.8520636
+city_latitude: 32.4892547
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1829/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lineville/Barfield
+country: United States
+description: In the 1990's, a man was robbed and thrown in the freezer of a service station. In 2001, he was murdered at his home. Now it seems as though he's still at the service station, because at times you can hear voices and screams at night. The service station is up for sale, yet no one will buy it to this day.
+location: Quick Stop Service Station
+state: Alabama
+state_abbrev: AL
+longitude: -85.71650629999999
+latitude: 33.3583702
+city_longitude: -85.7544051
+city_latitude: 33.3106696
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2001/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

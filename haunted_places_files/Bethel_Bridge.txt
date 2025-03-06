@@ -1,0 +1,21 @@
+city: Wadesboro
+country: United States
+description: It is an old tale about a carriage that wrecked and went off of the bridge, it is said if you walk over the bridge you'll hear the carriage in the distance.
+location: Bethel Bridge
+state: North Carolina
+state_abbrev: NC
+longitude: -80.1144444
+latitude: 34.8980923
+city_longitude: -80.0767266
+city_latitude: 34.9682097
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

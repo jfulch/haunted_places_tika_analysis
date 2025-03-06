@@ -1,0 +1,21 @@
+city: Steuben
+country: United States
+description: Many strange noises are heard and occasionally you can see a lantern in the cemetery and high beams from a car that isn't really there.
+location: Potato Hill
+state: New York
+state_abbrev: NY
+longitude: -75.27545959999999
+latitude: 43.3457184
+city_longitude: -75.2829465
+city_latitude: 43.3200694
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

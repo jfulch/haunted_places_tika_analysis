@@ -1,0 +1,21 @@
+city: Storm Lake
+country: United States
+description: McAllister Cottage - This location on College Ave, has been the home of six Buena Vista University Students who repeatedly saw, from their back porch, the spirit of a woman. Strange occurrences of lights turning on and off, as well as strange smells and hot musty drafts have also been encountered. The second McAllister cottage has since been demolished and made a parking lot.
+location: Buena Vista University
+state: Iowa
+state_abbrev: IA
+longitude: -95.20981220000002
+latitude: 42.6410826
+city_longitude: -95.2019399
+city_latitude: 42.6430359
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

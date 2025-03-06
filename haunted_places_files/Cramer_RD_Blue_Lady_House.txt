@@ -1,0 +1,19 @@
+city: Little Falls
+country: United States
+description: Old farm house built in late 1800's is haunted by a women wearing a blue dress. Activity have been seen and photographed throughout the house, especially in upstairs bedrooms. Woman was believed to have hanged herself in the second bedroom to the right going up the stairs. Reports of activity dating back to 1949. warning!:Farm house is partially torn down and condemned. Be careful!
+location: Cramer RD, Blue Lady House
+state: New York
+state_abbrev: NY
+city_longitude: -74.8595957
+city_latitude: 43.0434039
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

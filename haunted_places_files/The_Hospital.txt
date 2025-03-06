@@ -1,0 +1,21 @@
+city: Memphis
+country: United States
+description: This old hospital was once a Baptist hospital but then turned into a Veterans hospital. It is said that the people that died in the operating rooms have stayed and personal accounts and pictures tell the story as well. This place has a fence around it but is not owned by anyone. The morgue in the basement is said to be the most haunted place in Memphis. The Hospital is located on Lamar.
+location: THE HOSPITAL
+state: Tennessee
+state_abbrev: TN
+longitude: -89.8593899
+latitude: 35.1288553
+city_longitude: -90.0489801
+city_latitude: 35.1495343
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 1

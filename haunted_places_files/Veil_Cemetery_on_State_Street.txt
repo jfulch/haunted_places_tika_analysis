@@ -1,0 +1,21 @@
+city: Schenectady
+country: United States
+description: Several of the statues bleed from their eyes and tops of their heads, and sometimes "cry out" at night. Apparitions, both white and black, have been sighted roaming through the graves and sitting up in trees. The old church on the site houses many apparitions. Strange lights can be seen in the windows, and an eerie "singing" can be heard just beyond the front doors.
+location: Veil Cemetery on State Street
+state: New York
+state_abbrev: NY
+longitude: -73.9325995
+latitude: 42.8058168
+city_longitude: -73.9395687
+city_latitude: 42.8142432
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

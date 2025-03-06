@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: McDonalds - Currently during business hours employees had reported hearing children scream as if they are being killed, along with children playing around the fryers. It is said at night during closing hours an Indian chief has been known to shut off lights, push people and move things. Along with things opening closing and starting by themselves.
+location: Rockrimmon
+state: Colorado
+state_abbrev: CO
+longitude: -104.8304807
+latitude: 38.9327867
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

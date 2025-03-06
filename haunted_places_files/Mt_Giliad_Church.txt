@@ -1,0 +1,21 @@
+city: Pendleton
+country: United States
+description: If you run around this church 10 times prior to going to Main Street Graveyard and Crybaby bridge(see Anderson and Markleville listings) you will conjure up spirits which will make your evening trip a little more interesting. Take SR 38 east out of Pendleton to County Road 50 West. Then turn south about 3 miles to Mt. Giliad Church. After running go south about 2 more miles and you will cross the county line and then turn right on Hancock County road 675. It is there you will then find Crybaby Bridge and Main Street Graveyard a little beyond that. The lane to the graveyard is blocked by boulders.
+location: Mt. Giliad Church
+state: Indiana
+state_abbrev: IN
+longitude: -86.3199626
+latitude: 39.5860546
+city_longitude: -85.7466439
+city_latitude: 39.9975414
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

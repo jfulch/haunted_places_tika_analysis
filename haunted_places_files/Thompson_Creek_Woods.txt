@@ -1,0 +1,19 @@
+city: Claremont
+country: United States
+description: reports of, "levitating boulders, invisible walls, short hideous visions of violence, and flying people that follow you until you leave." Also reported, There is also strange symbols on the trees and cabin which are said to bleed, and there are even reports of invisible walls which sometimes block entrance to certain parts of the forest.
+location: Thompson Creek Woods
+state: California
+state_abbrev: CA
+city_longitude: -117.7197785
+city_latitude: 34.0966764
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

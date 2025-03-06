@@ -1,0 +1,21 @@
+city: Sheldon
+country: United States
+description: It is said that if you walk into the graveyard at 12:00 midnight you can see a white shadowy ghost floating in the air.
+location: 9th Street Graveyard
+state: Iowa
+state_abbrev: IA
+longitude: -95.855146
+latitude: 43.181045
+city_longitude: -95.8569539
+city_latitude: 43.1812107
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1839/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

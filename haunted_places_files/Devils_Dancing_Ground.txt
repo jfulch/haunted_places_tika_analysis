@@ -1,0 +1,19 @@
+city: Forsyth
+country: United States
+description: Ghost Native Americans have been seen dancing & chanting. Strange feelings of foreboding are also felt.
+location: Devil's Dancing Ground
+state: Montana
+state_abbrev: MT
+city_longitude: -106.6819793
+city_latitude: 46.2630502
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1889/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

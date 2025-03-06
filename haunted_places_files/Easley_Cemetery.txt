@@ -1,0 +1,21 @@
+city: Townley
+country: United States
+description: Some say a ball of fire is seen floating through the air, and it comes up the road towards you.
+location: Easley Cemetery
+state: Alabama
+state_abbrev: AL
+longitude: -87.4139452
+latitude: 33.8362573
+city_longitude: -87.431675
+city_latitude: 33.8289975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 37m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

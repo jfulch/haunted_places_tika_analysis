@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: Formerly listed as Claremont Hotel - Employees have reported sounds as of a violent, riotous party from the 1920's and the Prohibition era complete with period jazz music and the sounds of breaking glass. A worker fell to her death from the hotel's upper floors in the 1960's, possibly adding to the ghostly air of the place. Visitors have experienced a levitating paperweight, which crashed back to the glass-covered top of the desk. The staff has become painfully aware of the manifestations, and most have started to notice them. Complaints about the noise are common among hotel guests, but, as one former employee put it, "How do you turn off a ghost?". When staff members investigate the disturbances, which seem to come largely from the 9th floor, the noise abruptly stops, only to start up again later.
+location: Hotel Andra
+state: Washington
+state_abbrev: WA
+longitude: -122.340053
+latitude: 47.613312
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

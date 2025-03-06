@@ -1,0 +1,21 @@
+city: St. Simon's Island
+country: United States
+description: before it was enclosed by a wall visitors would make midnight trips to see the flickering light of a candle above one of the tombstones, the car had to be driven slowly on the left side of the road with the lights dimmed, the story is that a woman who lived on the island was so afraid of the dark that she always slept with a lit candle by her bed, when she died her husband was distressed at the thought of his wife in the dark, so every night of his life he put a candle on the top of her tombstone.
+location: Christ Church
+state: Georgia
+state_abbrev: GA
+longitude: -81.38795840000002
+latitude: 31.2202966
+city_longitude: -81.3885517
+city_latitude: 31.1595905
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

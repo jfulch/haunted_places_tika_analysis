@@ -1,0 +1,20 @@
+city: Boulder
+country: United States
+description: Macky Auditorium - There is reputedly a brown-clad man who haunts one of the building's towers. He seems to be harmless, but there is a bit of local legend connecting him with some documented murders in the building.
+location: University of Colorado
+state: Colorado
+state_abbrev: CO
+longitude: -105.2659417
+latitude: 40.00758099999999
+city_longitude: -105.2705456
+city_latitude: 40.0149856
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1876/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

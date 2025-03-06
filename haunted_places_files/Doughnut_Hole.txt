@@ -1,0 +1,21 @@
+city: Roscommon
+country: United States
+description: There is said to be many suicides in the woods behind this bakery. The baker, who works the night shift reports of a small girl standing by the entrance door, or by the bathrooms. Workers have reported seeing a figure as well, they also report of things being moved. The napkin holders have been moved to certain places, and it would appear that the ghostly figure has their own wanting of where things go.
+location: Doughnut Hole
+state: Michigan
+state_abbrev: MI
+longitude: -83.0296898
+latitude: 42.5320379
+city_longitude: -84.5919682
+city_latitude: 44.4983504
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

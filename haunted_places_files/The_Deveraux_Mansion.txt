@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: There has been sightings of an eight year old little girl who you can see in the upstairs window. People say you can hear her humming, singing, or even talking to herself sometimes. Others say that she can be seen in pictures taken by visitors and they say she looks like pictures on the walls that were taken in the 1850's. They say that when she gets mad she throws things on the ground and she even shuts doors when they are left open. Workers say they feel cold spots sometimes when they walk in certain places.
+location: The Deveraux Mansion
+state: Utah
+state_abbrev: UT
+longitude: -111.890415
+latitude: 40.774036
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

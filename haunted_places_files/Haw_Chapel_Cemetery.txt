@@ -1,0 +1,20 @@
+city: Wilmington
+country: United States
+description: Outside of Wilmington, Ohio on Haw Chapel Road a small cemetery has a tombstone that glows from the road. Standing underneath a grove of trees and looking back at the cemetery a distinct light emanates from one of the tombstones close to the road.
+location: Haw Chapel Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -83.7710068
+latitude: 39.4975121
+city_longitude: -83.8285375
+city_latitude: 39.4453393
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

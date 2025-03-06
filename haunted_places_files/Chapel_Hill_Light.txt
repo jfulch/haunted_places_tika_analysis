@@ -1,0 +1,21 @@
+city: Chapel Hill
+country: United States
+description: There is a railroad crossing where many people have reported a strange, unexplainable light on the tracks. Supposedly a railroad worker was killed, becoming decapitated, many years ago. The light is said to be him swinging a lantern looking for his head. Police don't allow people to park around the tracks anymore though, you will need permission to visit.
+location: Chapel Hill Light
+state: Tennessee
+state_abbrev: TN
+longitude: -86.831367
+latitude: 36.439387
+city_longitude: -86.6933305
+city_latitude: 35.6264581
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

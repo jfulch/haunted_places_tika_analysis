@@ -1,0 +1,21 @@
+city: Brooksville
+country: United States
+description: Many things have happened in this house, including hearing a child cry when no child was around, and seeing orbs and mists on digital cameras.  Lights have also been seen at night when it is closed and people on tours have felt cold drafts pass by their bodies.
+location: Hernando Heritage Museum
+state: Florida
+state_abbrev: FL
+longitude: -82.3811718
+latitude: 28.5559606
+city_longitude: -82.3878709
+city_latitude: 28.5552719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Manitowoc
+country: United States
+description: Lounge -  sometimes you can see people from the early 1900's dancing and eating. If you are on the elevator it will stop on unexpected floors.
+location: Evergreen Inn Hotel
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.6579974
+latitude: 44.0939719
+city_longitude: -87.657584
+city_latitude: 44.0886059
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/06/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

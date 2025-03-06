@@ -1,0 +1,19 @@
+city: Barrington
+country: United States
+description: In the building McVickar it is said the old headmaster haunts it supposedly. He wears a red cape; he is seen walking around the building. You can feel a cold breeze and presence before you are able to see him. Many students as well as faculty members have claimed to have sighted him.
+location: Saint Andrews School
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.323825
+latitude: 41.748982
+city_longitude: -71.30860899999999
+city_latitude: 41.7406798
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

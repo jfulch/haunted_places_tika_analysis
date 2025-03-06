@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: In the late 70's a father and his 2 sons where playing baseball on the far left diamond when there mother came up drunk and depressed with the fathers shotgun and killed them all including herself. Witnesses report seeing a blue orb.
+location: Weigand Park (Toepher)
+state: Michigan
+state_abbrev: MI
+longitude: -83.0165255
+latitude: 42.454257
+city_longitude: -83.01465259999999
+city_latitude: 42.5144566
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

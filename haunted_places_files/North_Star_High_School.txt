@@ -1,0 +1,21 @@
+city: Boswell
+country: United States
+description: October 2007 Submission Removed
+location: North Star High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.029399
+latitude: 40.159175
+city_longitude: -79.02891609999999
+city_latitude: 40.1614651
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

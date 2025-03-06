@@ -1,0 +1,21 @@
+city: Santa Barbara
+country: United States
+description: Lompoc Furniture on H St - The second floor of the building was the town morgue. A woman has been seen by many store patrons walking on the second floor landing. There are a series of furniture showrooms beyond the stairway landing on the second floor. The area is accessible; the back room to the right of the landing has spots, which are very cold.
+location: Lompoc
+state: California
+state_abbrev: CA
+longitude: -120.4579409
+latitude: 34.6391501
+city_longitude: -119.6981901
+city_latitude: 34.4208305
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

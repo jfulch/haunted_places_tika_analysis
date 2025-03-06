@@ -1,0 +1,20 @@
+city: Highlands Ranch
+country: United States
+description: laughter, crying, and talking can be heard in the halls of the school. In the bathroom behind the stage, you can hear laughing, and crying in the bathroom stalls. The lights flicker, and the hand-dryers and the water turn on by themselves. The elevator lights flicker and stalls, and then stops. Then it will stop up again. the light and sound control panel’s switches it’s setting when closed. In the stairs by the gym, you can hear laughing and balls from the playground equipment bin fall out.
+location: Ranch View Middle School
+state: Colorado
+state_abbrev: CO
+longitude: -105.0082582
+latitude: 39.5326854
+city_longitude: -104.9739333
+city_latitude: 39.5480789
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

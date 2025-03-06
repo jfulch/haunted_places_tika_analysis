@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: Sightings of ghosts by staff members.
+location: Maple Bluff Country Club
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.3699041
+latitude: 43.1141884
+city_longitude: -89.4012302
+city_latitude: 43.0730517
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

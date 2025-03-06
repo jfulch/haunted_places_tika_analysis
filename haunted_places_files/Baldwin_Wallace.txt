@@ -1,0 +1,20 @@
+city: Berea
+country: United States
+description: Kohler Hall - A current dormitory for Baldwin-Wallace College, this building was built in the mid 1800s, and used as a hospital during the civil war. It has been (among other things), a part of the Underground Railroad, a psychiatric institution, an orphanage, and a morgue. The basement is where the most people have died, as it was where the most critical soldiers were taken, slaves hid, and then bodies were taken to the morgue in later years. The college has blocked off an old tunnel connecting the basement to the college chapel, due to 'student complaints', and the door to that section of the basement has been locked. Noises have been heard by most residents, along with footsteps. The doors also open occasionally, for no apparent reason.
+location: Baldwin-Wallace
+state: Ohio
+state_abbrev: OH
+longitude: -81.8478088
+latitude: 41.37111650000001
+city_longitude: -81.8543026
+city_latitude: 41.3661614
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1939/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

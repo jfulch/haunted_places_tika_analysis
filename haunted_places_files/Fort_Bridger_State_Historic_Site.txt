@@ -1,0 +1,20 @@
+city: Fort Bridger
+country: United States
+description: Ghosts in almost every standing historic structure. One in the museum building that likes to play with copiers. One or more animal ghosts, particularly that of a dog that was decorated for heroism for saving a young boy. Most ghosts seem to be rather harmless. Most are soldiers that died while stationed at the site in the mid to late 1800's.
+location: Fort Bridger State Historic Site
+state: Wyoming
+state_abbrev: WY
+longitude: -110.388601
+latitude: 41.318473
+city_longitude: -110.3843251
+city_latitude: 41.3166168
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

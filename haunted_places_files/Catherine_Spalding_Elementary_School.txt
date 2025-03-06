@@ -1,0 +1,19 @@
+city: Owensboro
+country: United States
+description: In 1896 when the school was first built, it was made mostly of farmer's daughters because the boys never went to school. In 1899 the school was destroyed by a small tremor from the fault in Missouri. Two girls died when the school fell to the ground. In 1901 they rebuilt the school but over top of the old school (because it was so small) they built an art building. Still today the art building is haunted by the two girls who at night have been known to mess up the art room and when morning comes the room is a mess.
+location: Catherine Spalding Elementary School
+state: Kentucky
+state_abbrev: KY
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1896/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

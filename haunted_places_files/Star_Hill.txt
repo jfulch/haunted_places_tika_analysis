@@ -1,0 +1,21 @@
+city: Rome
+country: United States
+description: Legend has it that an old man used to live in a small house by a graveyard and that he had a rocking chair he would sit in. Later, the old man would die and his rocking chair would be left alone and guarded by his spirit. It is said that sometimes if you look, and see his rocking chair there, everything is okay, but if it not there, then the spirit is very mad and that you better leave.
+location: Star Hill
+state: New York
+state_abbrev: NY
+longitude: -75.2334276
+latitude: 43.3351159
+city_longitude: -75.4557303
+city_latitude: 43.2128473
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

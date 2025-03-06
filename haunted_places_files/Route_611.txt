@@ -1,0 +1,21 @@
+city: Tobyhanna
+country: United States
+description: Back in the 70s a man was walking home from a bar on a foggy night. Just before the railroad overpass he was hit by one of my mothers friends. Now on late foggy nights you can see him walking around the overpass.
+location: Route 611
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.4211492
+latitude: 41.1748527
+city_longitude: -75.4178994
+city_latitude: 41.1797865
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

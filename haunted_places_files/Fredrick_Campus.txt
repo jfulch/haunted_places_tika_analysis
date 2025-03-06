@@ -1,0 +1,21 @@
+city: Frederick
+country: United States
+description: Maryland School for the Deaf - the school was founded in 1868. There is an old barracks that was once used during the Revolutionary War to house captured Hessian soldiers and it still is there on campus -- its an old stone built building and has been converted into a museum of sorts and is not opened to the public regularly -- anyway -- story has it that you would see the spirits of those wounded in combat in the barracks moaning and the hospital equipment from that era is still in the bldg as is the furniture and such.
+location: Fredrick Campus
+state: Maryland
+state_abbrev: MD
+longitude: -77.4002193
+latitude: 39.4543011
+city_longitude: -77.4105409
+city_latitude: 39.41426879999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1868/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 14.533333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

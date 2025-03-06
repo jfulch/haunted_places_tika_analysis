@@ -1,0 +1,21 @@
+city: San Diego
+country: United States
+description: Floating lights can be seen late at night in the football stadium .Witnesses have heard screaming and then saw balls of floating lights came towards them. chasing them until they got to the front of school near the main office. Reports of voices in the bathrooms as well.
+location: Montgomery High School
+state: California
+state_abbrev: CA
+longitude: -117.0647042
+latitude: 32.5855988
+city_longitude: -117.1610838
+city_latitude: 32.715738
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1975/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

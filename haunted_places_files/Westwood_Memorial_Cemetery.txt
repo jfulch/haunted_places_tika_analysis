@@ -1,0 +1,21 @@
+city: Westwood
+country: United States
+description: Marilyn Monroe's ghost has been spotted hovering near her tomb.
+location: Westwood Memorial Cemetery
+state: California
+state_abbrev: CA
+longitude: -118.4412291
+latitude: 34.0583515
+city_longitude: -121.0057931
+city_latitude: 40.3059999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1956/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,18 @@
+city: MoonValley
+country: United States
+description: It is said when you go to MoonValley at night (around midnight) you'll see a light coming down the railroad track. Its not a train, nobody has ever seen what it was. OH
+location: Railroad Crossing
+state: Mississippi
+state_abbrev: MS
+city_longitude: -88.7492643
+city_latitude: 33.6047998
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

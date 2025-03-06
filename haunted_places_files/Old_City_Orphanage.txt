@@ -1,0 +1,21 @@
+city: Marquette
+country: United States
+description: there is an old orphanage on fisher street that is haunted, it is said that children were beaten and killed in this orphanage also a nun once beat a boy so badly that he died and a funeral service was held for him in the basement only for the children and faculty. The nun did not want to be punished for killing the boy so she had him buried in the nearby cemetery, if you go into the basement late at night you can see the boy laying in the coffin and a green light around it.
+location: Old City Orphanage
+state: Michigan
+state_abbrev: MI
+longitude: -87.40418489999999
+latitude: 46.53997560000001
+city_longitude: -87.39559539999999
+city_latitude: 46.5475825
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1998/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

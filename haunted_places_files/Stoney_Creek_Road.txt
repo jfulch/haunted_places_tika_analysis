@@ -1,0 +1,20 @@
+city: Urbana
+country: United States
+description: Reports of seeing 2 people flying towards cars at a high rate of speed, also screaming and talking have been heard
+location: Stoney Creek Road
+state: Ohio
+state_abbrev: OH
+longitude: -83.8482294
+latitude: 40.0516093
+city_longitude: -83.7524298
+city_latitude: 40.1083912
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

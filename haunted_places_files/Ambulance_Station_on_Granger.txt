@@ -1,0 +1,21 @@
+city: Modesto
+country: United States
+description: The building that now houses workers of a local 24 hour ambulance service also holds the ghosts of former residents. It is said that back in the 60's two parents killed their three children in the house. Also, as recently as the early 90's, an old Indian man died in the house alone while praying to a religious alter. This room, where the old man died is avoided by the current occupants due to cold and ominous feelings of dread. The employees of the ambulance service have witnessed; doors and windows opening and closing at will, objects moving across the room, the shower turning off and on, the sound of voices and children playing in the house, the sound of footsteps, and recently while one employee showered she heard a voice yell "Get out!" This sent the employee out of the bathroom, out of the house, and onto the front lawn where she stood trembling under a wet towel. The house is not hard to find, it's at the corner of McHenry and Granger right next door to a skateboard shop.
+location: Ambulance Station on Granger
+state: California
+state_abbrev: CA
+longitude: -121.0096324
+latitude: 37.6898312
+city_longitude: -120.9968782
+city_latitude: 37.63909719999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Manassas
+country: United States
+description: Signal Hill Hospital - Once used as a hospital for Confederate wounded during the Civil War, this building has been the site of many strange occurrences; large floating balls of light in the second building of the house, doors slamming shut, and a feeling of presence in the basement. The Signal Hill hospital is located opposite the fork in Signal Hill Rd.
+location: Signal Hill
+state: Virginia
+state_abbrev: VA
+longitude: -77.4362757
+latitude: 38.743736
+city_longitude: -77.47526669999999
+city_latitude: 38.7509488
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1901/12/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 30m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

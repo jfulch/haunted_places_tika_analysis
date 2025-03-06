@@ -1,0 +1,21 @@
+city: Greenbelt
+country: United States
+description: This used to be an old folks home. Now it is abandoned. Every night there are new lights either turned on or off. This place is said to be haunted by the head doctor in charge. He was said to have beaten and tourtured patients. People have said they heard voices and ghosts of people still laying in their beds.
+location: Greenbelt Nursing &amp; Rehabilitation Center
+state: Maryland
+state_abbrev: MD
+longitude: -76.8338085
+latitude: 38.9904775
+city_longitude: -76.87552819999999
+city_latitude: 39.0045544
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

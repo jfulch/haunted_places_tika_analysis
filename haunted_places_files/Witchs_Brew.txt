@@ -1,0 +1,19 @@
+city: Naples
+country: United States
+description: Witch's Brew is a nightclub, reports of a dark shadowlike figure has been seen and lights flickering on and off, my dad has also come back to find all the cables to his music equipment rearranged and unplugged and such. - October 2005 Update: The building has been torn down. Office buildings are going to be built.
+location: Witch's Brew
+state: Florida
+state_abbrev: FL
+city_longitude: -81.7948103
+city_latitude: 26.1420358
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

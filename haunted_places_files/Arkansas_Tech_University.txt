@@ -1,0 +1,21 @@
+city: Russellville
+country: United States
+description: Witherspoon Hall On the third floor at night, a piano plays by itself in the practice room. It is said to be the ghost of a former student.
+location: Arkansas Tech University
+state: Arkansas
+state_abbrev: AR
+longitude: -93.1362663
+latitude: 35.2944535
+city_longitude: -93.1337856
+city_latitude: 35.2784173
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1976/03/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

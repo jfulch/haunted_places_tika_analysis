@@ -1,0 +1,21 @@
+city: Dinuba
+country: United States
+description: teachers have heard doors closing by themselves lights turn on and off by themselves, being watched while walking down the halls, and feelings of being forced down stairs. Stories have been told that a janitor had been electrocuted many years ago.
+location: Dinuba high school -auditorium
+state: California
+state_abbrev: CA
+longitude: -119.3856671
+latitude: 36.541105
+city_longitude: -119.3870656
+city_latitude: 36.5432837
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

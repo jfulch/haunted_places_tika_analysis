@@ -1,0 +1,20 @@
+city: Akron
+country: United States
+description: The new art rooms, tutoring center and admissions office and the school was built in the remodeled building were the old Brothers dormitories had been (The school is run by the Brothers Of Holy Cross) and it has been reported that on the feast of St. Joseph (the Brothers patron saint) a line of men in dark priest robe can be seen walking through out the wing of the school looking for their old rooms. They have never been seen anywhere else in the school. The men’s locker rooms are haunted by a boy believed to have played basketball for the school, but was killed in a car crash in the late 1980's.
+location: Archbishop Hoban High School
+state: Ohio
+state_abbrev: OH
+longitude: -81.4956164
+latitude: 41.0618639
+city_longitude: -81.51900529999999
+city_latitude: 41.0814447
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

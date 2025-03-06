@@ -1,0 +1,21 @@
+city: Elenville
+country: United States
+description: Greenfield Rd - In mid 1980s Greenfield Rd, near what appears to be a small pond at the T intersection where a paved road leads toward Route 52 two ghosts were sighted. Both dressed in 1800s era clothes. Both blonde children looked like siblings a boy about 10 year old. And a girl with curly hair about 6. Appeared out of nowhere were visible for a few seconds and then disappeared.
+location: Ulster County Greenfield
+state: New York
+state_abbrev: NY
+longitude: -74.410107
+latitude: 41.7259969
+city_longitude: -74.3957099
+city_latitude: 41.7170379
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

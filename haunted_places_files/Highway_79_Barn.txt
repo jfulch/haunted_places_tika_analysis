@@ -1,0 +1,21 @@
+city: Wichita Falls
+country: United States
+description: There was three men who raped and killed a woman and got hanged for doing it. If you go to the barn it is said you can see the woman and the three men wandering around. -  Febuary 2005 Update: This place is reported to no longer exist.
+location: Highway 79 Barn
+state: Texas
+state_abbrev: TX
+longitude: -98.5397758
+latitude: 33.82074370000001
+city_longitude: -98.4933873
+city_latitude: 33.9137085
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

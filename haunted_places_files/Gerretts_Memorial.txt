@@ -1,0 +1,21 @@
+city: Bluffs Point
+country: United States
+description: orbs of light, green glows, feeling of being grabbed...when checked upside down blood cross was revealed. Story has it that a young boy, priest, and a woman haunt this chapel. Also a child screams can be heard.
+location: Gerretts Memorial
+state: New York
+state_abbrev: NY
+longitude: -77.1313029
+latitude: 42.5077062
+city_longitude: -77.10358219999999
+city_latitude: 42.6142362
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: St. Paul
+country: United States
+description: The music hall upstairs in the "Old Main" building has a portrait of the man the hall was named for. At night he gets out of the painting and wanders the hall, sometimes playing the piano.
+location: Hamline University
+state: Minnesota
+state_abbrev: MN
+longitude: -93.1648051
+latitude: 44.9659651
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

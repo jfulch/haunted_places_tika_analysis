@@ -1,0 +1,21 @@
+city: Paso Robles
+country: United States
+description: Adelaide cemetery - it's been said that a young woman walks the cemetery looking for her children. All of them died after first settling in the area. Her husband then died later. Supposedly every Friday night around midnight a glowing figure walks the cemetery crying out for her child, and after about 15 minutes vanishes into the darkness.
+location: Adelaide
+state: California
+state_abbrev: CA
+longitude: -120.6869026
+latitude: 35.6422375
+city_longitude: -120.6545022
+city_latitude: 35.6368759
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1836/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Syracuse
+country: United States
+description: An apparition known as the "lady in white" has been seen by numerous people over many decades. She is usually seen lingering quietly in the balcony of the theater.
+location: The Landmark Theatre
+state: New York
+state_abbrev: NY
+longitude: -76.1529242
+latitude: 43.0473001
+city_longitude: -76.14742439999999
+city_latitude: 43.0481221
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1911/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Elwood
+country: United States
+description: There is an unkept grave marked the year 1870, but once a year there will be a single fresh rose laid upon it.
+location: Allphin Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -95.8258503
+latitude: 31.0441065
+city_longitude: -96.0738675
+city_latitude: 33.8117667
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

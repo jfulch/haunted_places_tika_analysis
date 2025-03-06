@@ -1,0 +1,21 @@
+city: Gatlinburg
+country: United States
+description: Formerly Known as Hauntings this place is haunted by several ghosts. Especially one of a former manager who ran the operation in the early eighties. -  February 2004 update/correction: a visitor to our site states, “These Stories are very true. However the room 413 has not been in operation since the events of the evening in your story the room was removed from operation.” They claim to have been associated with this facility for many years and the stories and events are well beyond what has been mentioned here. Of course they realize these are events reported by persons directly involved but they are very surprised there isn’t allot more of them.
+location: Terror on the Parkway
+state: Tennessee
+state_abbrev: TN
+longitude: -83.5165368
+latitude: 35.7121301
+city_longitude: -83.5101638
+city_latitude: 35.714259
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.666666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

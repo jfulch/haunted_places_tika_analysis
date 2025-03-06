@@ -1,0 +1,21 @@
+city: West Chester
+country: United States
+description: Employees report that a young girl choked and died years ago when the building was under different ownership. There are reports of moving objects and lights being turned on and off.
+location: Ground Round restaurant
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.8772863
+latitude: 40.1820683
+city_longitude: -75.6054882
+city_latitude: 39.9606643
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

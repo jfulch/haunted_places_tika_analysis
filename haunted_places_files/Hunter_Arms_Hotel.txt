@@ -1,0 +1,21 @@
+city: St. Cloud
+country: United States
+description: This hotel believed to be haunted by 'Vivian.' If you ask the owner of the hotel, she could probably tell you more about Vivian. Guests staying in it have reported strange noises, sudden coldness, and doors slamming and water turning on, if my memory recalls correctly.
+location: Hunter Arms Hotel
+state: Florida
+state_abbrev: FL
+longitude: -81.28325199999999
+latitude: 28.248282
+city_longitude: -81.2811801
+city_latitude: 28.2489016
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1960/08/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 42m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

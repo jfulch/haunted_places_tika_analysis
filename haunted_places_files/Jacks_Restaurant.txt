@@ -1,0 +1,21 @@
+city: Parrish
+country: United States
+description: There is a tale of an old Indian ghost that has been named, "Mary". She'll knock things off the shelves, slam oven doors open and then slam them closed. You could be really hot and then all of a sudden, your freezing. Also, the night crew will turn off all the grills, and in the morning they're all back on. There are constant strange whispers over the drive thru speakers and in the bathrooms. It is a true story. Not one person who works or has worked there can tell you that one day has passed without something totally creepy occurring!
+location: Jacks Restaurant
+state: Alabama
+state_abbrev: AL
+longitude: -87.268852
+latitude: 33.7423162
+city_longitude: -87.2844473
+city_latitude: 33.7306642
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

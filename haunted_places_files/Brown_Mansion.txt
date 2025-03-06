@@ -1,0 +1,21 @@
+city: Coffeyville
+country: United States
+description: This is a turn of the 20th century mansion that has had more than its share of tragedy. Despite his wealth, Mr. Brown lost all of his children but one in childhood. In the basement, employees tell of hearing bowling balls striking pins where the alley used to be. In the 3rd story ballroom, cherry tobacco smoke can sometimes be smelled in the old smoking room, as well as partygoers being heard. A dashing man in a smoking jacket is sometimes seen upstairs as well.
+location: Brown Mansion
+state: Kansas
+state_abbrev: KS
+longitude: -95.6144971
+latitude: 37.0199234
+city_longitude: -95.6163665
+city_latitude: 37.0373005
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

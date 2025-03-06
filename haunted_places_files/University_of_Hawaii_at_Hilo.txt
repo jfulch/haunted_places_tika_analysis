@@ -1,0 +1,21 @@
+city: Hilo
+country: United States
+description: Hale Kanilehua - It was said that a house once stood where the dorm is now. During the demolition of the house, a boy was playing in the area and died. On the girl's side of dorm, the little boy was sighted on the ground floor. Sounds of the little boy walking up and down the hall, sounds of him talking and laughing, and the sound of his ball bouncing down the hall can be heard. There is a sound of whistling wind whipping through an unoccupied room, almost sounding like that of someone in agony, the feeling of being watched, toilets flushing by themselves, water turning on and off by themselves, things being moved, and sound of someone walking up and down hallway.
+location: University of Hawaii at Hilo
+state: Hawaii
+state_abbrev: HI
+longitude: -155.0814688
+latitude: 19.701015
+city_longitude: -155.0884869
+city_latitude: 19.7070942
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

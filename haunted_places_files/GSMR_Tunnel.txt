@@ -1,0 +1,21 @@
+city: Dillsboro
+country: United States
+description: When Norfolk-Southern began expansion into the southwest mountains of North Carolina, it was difficult for the company to find men able to do the hard work required. Convicts were brought in to complete work on a tunnel right outside of Dillsboro. To get to the site, the men had to cross a section of the Tuckaseegee River on raft. One day, the raft flipped over in the rain-swollen river and all of the convicts died (except one) because they were chained together. The men were buried on the mountain above the tunnel. Sometimes, especially after a big rain, people report hearing chains rattling and the echoes of men splashing in water yelling for help. **Interesting fact about this tunnel** This is the same tunnel Harrison Ford walks into in the movie 'The Fugitive'.
+location: GSMR Tunnel
+state: North Carolina
+state_abbrev: NC
+longitude: -83.44771399999999
+latitude: 35.429769
+city_longitude: -83.2523705
+city_latitude: 35.3692665
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1670/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Emmett
+country: United States
+description: A former music teacher has, supposedly, manifested himself several times in various parts of the school.
+location: Emmett Middle School
+state: Idaho
+state_abbrev: ID
+longitude: -116.4969581
+latitude: 43.8714989
+city_longitude: -116.4993012
+city_latitude: 43.8734978
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

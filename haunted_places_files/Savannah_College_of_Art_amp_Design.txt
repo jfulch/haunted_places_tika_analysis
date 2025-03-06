@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: Oglethorpe House - Residents saw on numerous occasions the ghost of a little girl, who they believed to be the famous Gracie Watkins of Bonaventure Cemetery because of it's similar appearance to the statue. The ghost was seen at night running away & down a hall & turning a corner, and move out of sight; she has been seen entering rooms & and has been spotted looking at the resident's clothes in the closet. They also report hearing whispers, & seeing the transparent girl kneeling beside their bed.
+location: Savannah College of Art &amp; Design
+state: Georgia
+state_abbrev: GA
+longitude: -81.0940516
+latitude: 32.0729232
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1902/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

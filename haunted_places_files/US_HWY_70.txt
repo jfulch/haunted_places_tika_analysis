@@ -1,0 +1,20 @@
+city: Matador
+country: United States
+description: Though much of it unconfirmed highway 70 between Matador and Paduca, TX has a lot of deadly history. Many car accidents have occurred here. The nearest hospital being over 80 miles away many accident victims do not survive. Driving through at night can give you a complete sense of dread. Some drivers claim that on the highway the became very agitated wondering if what they were feeling was real. Wondering if they were alive or dead. Paranoia is the strongest emotion felt here. Many have claimed to see lights and refractions coming from the Matador Cemetery. This desolate highway has very little to offer in the way of peace. It however has much to offer in the way of death.
+location: US HWY 70
+state: Texas
+state_abbrev: TX
+longitude: -100.8220795
+latitude: 34.0122056
+city_longitude: -100.8220785
+city_latitude: 34.01202110000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

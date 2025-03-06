@@ -1,0 +1,21 @@
+city: Rome
+country: United States
+description: A Revolutionary War fort rebuilt on its original site. Many soldiers in period dress have been sighted in various places through out the fort. Around sunrise you can sometimes hear drums and fifes, a lady crying for her sick child can be heard also. A one legged man has also been spotted by employees as well as tourists sitting in one of the barracks. At all hours of the day and night you can hear footsteps, voices, sounds of someone sweeping a floor, chopping wood, and such antics as lights going on and off by themselves, doorknobs turning, and the security alarm system being tripped.
+location: Fort Stanwix
+state: New York
+state_abbrev: NY
+longitude: -75.455292
+latitude: 43.210587
+city_longitude: -75.4557303
+city_latitude: 43.2128473
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1763/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

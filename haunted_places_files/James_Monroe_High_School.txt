@@ -1,0 +1,20 @@
+city: North Hills
+country: United States
+description: Witnesses have heard loud footsteps and opening and closing of doors when the halls are lonely. The girls gym room is haunted students have heard lockers open and close when no one is present.
+location: James Monroe High School
+state: California
+state_abbrev: CA
+longitude: -118.4769293
+latitude: 34.2383746
+city_longitude: -118.4849365
+city_latitude: 34.235822
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Rock Hill
+country: United States
+description: Built over one hundred years ago, by Ben Tillman, namesake of the campus' main building. In the initial phases of construction on the campus, he suffered a riding accident and consequently lost the use of one side of his torso. Embittered by the accident, he grew ever more cruel, whipping and sometimes bludgeoning the prisoners and slaves who worked to construct the college. Acquiring the nickname "Pitchfork Ben," he died an angry old man, and is still said to haunt the upper two floors of Tillman Hall. Since closed by the University, and deemed unacceptable for class or administrative use, on the right day, you may see a shadowy figure glaring at you from the front portico.
+location: Winthrop University
+state: South Carolina
+state_abbrev: SC
+longitude: -81.0316204
+latitude: 34.9395142
+city_longitude: -81.02507840000001
+city_latitude: 34.9248667
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

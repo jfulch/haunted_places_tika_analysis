@@ -1,0 +1,19 @@
+city: Bristol
+country: United States
+description: Disturbed by some kind of disgruntled spirit. Loud, very clear sounds of someone walking around are heard in both the day and the night. The house is said to have a very unnatural influence on many people. There have been reported sounds of guns being fired in the backyard, but no one being present. Also very faint whispers have been heard when being alone in the house.
+location: Arnett Home
+state: Tennessee
+state_abbrev: TN
+city_longitude: -82.18874439999999
+city_latitude: 36.5951059
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1994/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

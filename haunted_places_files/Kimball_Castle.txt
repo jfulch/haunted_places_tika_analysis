@@ -1,0 +1,21 @@
+city: Gilford
+country: United States
+description: Witnesses report a strong feeling of a presence, & seeing a ghost in the kitchen of the carriage house, and this happened quite often. The caretaker reports he would leave the heavy mahogany door open for light and all of a sudden, the door was shut. The door is very heavy, not even wind could move it. He also said that the light in Mrs. Kimball's sewing room would mysteriously go on and the a while later it would go off.
+location: Kimball Castle
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.3793768
+latitude: 43.5836576
+city_longitude: -71.4067385
+city_latitude: 43.5475771
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

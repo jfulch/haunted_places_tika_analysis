@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: Weatherly Hall - There have been reported instances of footsteps, message boards being torn off doors and flung down the hall, moving furniture in locked rooms, and something playing with people's clocks. - June 2008 Update: was torn down a few years ago.
+location: Jacksonville State University
+state: Alabama
+state_abbrev: AL
+longitude: -85.7681082
+latitude: 33.8230593
+city_longitude: -85.76135359999999
+city_latitude: 33.8137125
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1968/07/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

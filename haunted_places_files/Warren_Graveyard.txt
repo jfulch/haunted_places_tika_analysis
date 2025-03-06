@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: There is the Warren Graveyard at the intersection of Mountain Blvd. and Mt. Bethel Rd. It is supposed that you see Sir Isaac warren in the corner by the church with his to grandchildren who died with him in a car wreck nearby. They are usually only seen on Memorial weekend and Halloween!
+location: Warren Graveyard
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.495057
+latitude: 40.618783
+city_longitude: -74.50047959999999
+city_latitude: 40.6342489
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

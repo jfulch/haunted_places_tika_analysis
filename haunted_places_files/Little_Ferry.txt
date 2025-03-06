@@ -1,0 +1,21 @@
+city: Bergen County
+country: United States
+description: Old Protestant Church - The ghost of a man who was shot inside the church is seen peeking out the front doors late at night.
+location: Little Ferry
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.0420848
+latitude: 40.8528777
+city_longitude: -74.07701
+city_latitude: 40.9262762
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

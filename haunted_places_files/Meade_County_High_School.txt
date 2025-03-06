@@ -1,0 +1,21 @@
+city: Brandenburg
+country: United States
+description: behind the football - field of the school is a graveyard, and people have their own opinions as to why the school is haunted. Also, April 7, 1974, The gym was used for a funeral.
+location: Meade County High School
+state: Kentucky
+state_abbrev: KY
+longitude: -86.1730453
+latitude: 37.9939031
+city_longitude: -86.1694143
+city_latitude: 37.9989592
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1974/04/07
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

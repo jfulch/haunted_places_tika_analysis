@@ -1,0 +1,21 @@
+city: Oquawka
+country: United States
+description: In the old days when slaves were being traded, Alexis Phelps kept slaves hidden from traders. It is said that slaves walk around the lower levels and crawlspaces of the house. Alexis Phelps is said to be walking around the entire house.
+location: Alexis Phelps House
+state: Illinois
+state_abbrev: IL
+longitude: -90.9544917
+latitude: 40.9382805
+city_longitude: -90.9470863
+city_latitude: 40.931982
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1828/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

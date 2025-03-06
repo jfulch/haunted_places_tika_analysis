@@ -1,0 +1,21 @@
+city: Mechanicsburg
+country: United States
+description: in the back part of the park towards the football feild theres a stone type memorial detacated to a young man. There has been some weird sightings of an apperition of the young man by the woods, his neck is bent to the side posibly because of the injury that he got by falling from the steel jungle gym. thats how he died. The park officals have torn down jungle gym since other kids have been injured by falling from it.
+location: soilders and sailors park
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.0185786
+latitude: 40.2143779
+city_longitude: -77.0085876
+city_latitude: 40.2142565
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: War
+witness_count: 1

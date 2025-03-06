@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: Built in 1935 and opened as an 800 seat movie theatre in 1936. Nine entities have been documented since August of 1997. Six children, an adult female and two adult males. Entities are extremely active and communicative. allegedly including one particular spirit identified as "Fritz," a projectionist at the theater, who died in the projection booth. Other ghosts here include a maintenance engineer, as well as a school teacher and her students who were killed almost a century ago when Prospect Elementary School (which used to stand on the site) burned down. The Vogue has been featured on numerous network TV broadcasts, and it is claimed that most film crews have had paranormal experiences inside the Vogue. (6675 Hollywood Blvd., east of Highland.)
+location: Vogue Theater
+state: California
+state_abbrev: CA
+longitude: -122.4467064
+latitude: 37.7883349
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1935/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

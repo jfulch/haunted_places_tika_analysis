@@ -1,0 +1,21 @@
+city: Elizabeth
+country: United States
+description: In the early 1980's the diocese of Pittsburgh ordered the church padlocked at 3:00 AM without any warning to the parishioners. The only explanation the diocese would give is that the floor of the 125 year old church was too weak and in danger of collapse. Since that time strange changes to the church have taken place. While the rest of the colored panes of glass in the windows have retained their color the faces of the saints have turned black. Inside the church the walls have peeled and cracked, the pews are filthy with bird droppings and dead birds, yet the area around the altar and the altar itself, which is draped a 100 year old altar cloth from Ireland, is in pristine condition. As if it were ready for Sunday mass. There is a statue of Saint Michael the Archangel above the main entrance to the church posed with lance and shield. Over the years the statue's shield looks as if it is battle worn and covered with dried blood.
+location: St. Michael's Church
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.8377276
+latitude: 40.2700478
+city_longitude: -79.8897706
+city_latitude: 40.2692367
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 0

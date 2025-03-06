@@ -1,0 +1,21 @@
+city: Lake Station
+country: United States
+description: noises heard in the gym where it is said a little boy died.
+location: River Forest Junior High
+state: Indiana
+state_abbrev: IN
+longitude: -87.27979080000001
+latitude: 41.5589266
+city_longitude: -87.23892459999999
+city_latitude: 41.5750369
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 0

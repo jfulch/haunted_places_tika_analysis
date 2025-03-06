@@ -1,0 +1,21 @@
+city: Hancock
+country: United States
+description: This graveyard has had numerous occurrences including blood, on graves which all date back too mid 1800's. The ground is always soft no matter the weather, noises from the woods than seem too get closer the longer you stay. Two gigantic rocks which set in front of the path that leads you in are moved in a different spot every time you visit
+location: Thomas Road
+state: Indiana
+state_abbrev: IN
+longitude: -85.6777444
+latitude: 39.9228618
+city_longitude: -85.84862360000001
+city_latitude: 39.8249915
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Sanger
+country: United States
+description: This is a popular place during Halloween when they have the haunted forest, hay rides, and haunted house tours. some people have seen real ghosts lurking around during the activities on Halloween. It seems the ghosts come out during the perfect time! If you decide to go to these activities during Halloween, make sure it's a real person or a ghost that's pulling tricks on you.
+location: Hobbs Grove
+state: California
+state_abbrev: CA
+longitude: -119.5348946
+latitude: 36.6638943
+city_longitude: -119.5559652
+city_latitude: 36.708006
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/10/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

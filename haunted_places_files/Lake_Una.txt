@@ -1,0 +1,21 @@
+city: Palmdale
+country: United States
+description: Sierra Highway and Ave S - Ghost of a fisherman has been reported to lash out, slurring viciously, ordering them to leave, also tales of black figures climbing into the trees and vanishing.
+location: Lake Una
+state: California
+state_abbrev: CA
+longitude: -118.1109877
+latitude: 34.550057
+city_longitude: -118.1164613
+city_latitude: 34.5794343
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

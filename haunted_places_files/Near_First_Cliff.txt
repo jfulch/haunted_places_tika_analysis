@@ -1,0 +1,21 @@
+city: Scituate
+country: United States
+description: in the spring a ghost ship is seen. It starts out robust and luxurious but right before your eyes it's sails become all torn.
+location: Near First Cliff
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.7161516
+latitude: 42.1995458
+city_longitude: -70.7258633
+city_latitude: 42.195929
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

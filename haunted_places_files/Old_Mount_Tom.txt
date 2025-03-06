@@ -1,0 +1,20 @@
+city: Litchfield
+country: United States
+description: On the trail of Mount Tom, there is a strangely old foundation that is boarded with creaky old stair wells and when you get to the top, you can hear moaning from the floors below. Some people gave reported seeing strange semi transparent images though the images are not clear. The ghost is said to be a high school kid who died while on the trail. The name is unknown, and some people have even had communications with this "ghost."
+location: Old Mount Tom
+state: Connecticut
+state_abbrev: CT
+longitude: -73.2814289
+latitude: 41.7133669
+city_longitude: -73.1887165
+city_latitude: 41.7472642
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1939/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

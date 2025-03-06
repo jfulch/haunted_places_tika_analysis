@@ -1,0 +1,20 @@
+city: Nantucket
+country: United States
+description: An elderly man sits in a rocking chair by the fire place.
+location: Coffin House
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.100752
+latitude: 41.2850804
+city_longitude: -70.099451
+city_latitude: 41.2834704
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

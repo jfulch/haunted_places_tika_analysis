@@ -1,0 +1,21 @@
+city: Delhi
+country: United States
+description: Long ago a newlywed bride was wearing her wedding dress and riding a white horse. The horse went wild and the woman fell off and she died after her head hit a rock laying on the ground. Today, you can see her riding around on a white horse late at night still in her wedding dress.
+location: Octagon Farms
+state: New York
+state_abbrev: NY
+longitude: -75.017517
+latitude: 42.181706
+city_longitude: -74.91599459999999
+city_latitude: 42.27814009999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

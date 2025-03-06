@@ -1,0 +1,21 @@
+city: McAllen
+country: United States
+description: the third floor is extremely haunted. If you have more info, please email us at Haunted Places
+location: La Casa de Palmas
+state: Texas
+state_abbrev: TX
+longitude: -98.234794
+latitude: 26.20511
+city_longitude: -98.2300124
+city_latitude: 26.2034071
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

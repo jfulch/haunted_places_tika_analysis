@@ -1,0 +1,20 @@
+city: Pueblo
+country: United States
+description: the pioneer cemetery is located in pueblo co. there are very noticeable cold spots and temperature changes. the pioneer cemetery has graves from the 1800's and there are some new ones too. it is attached to an old Jewish cemetery as well. intense feeling of dread, bad odors, and visible black mist.
+location: Pioneer Cemetery
+state: Colorado
+state_abbrev: CO
+longitude: -104.6210248
+latitude: 38.2870061
+city_longitude: -104.6091409
+city_latitude: 38.2544472
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/04/06
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Pratt
+country: United States
+description: a man parked his car on the south end of the park and committed suicide, several kids were involved in a fatal car accident on the same end of the park, and satanic worship goes on in the woods on the south end of the park. the park is haunted, and VERY creepy at night!
+location: Lemon's Park
+state: Kansas
+state_abbrev: KS
+longitude: -98.7336628
+latitude: 37.6356457
+city_longitude: -98.7375911
+city_latitude: 37.6439071
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

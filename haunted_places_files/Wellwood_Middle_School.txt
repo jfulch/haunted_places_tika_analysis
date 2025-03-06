@@ -1,0 +1,21 @@
+city: Fayetteville
+country: United States
+description: It is said that a child that died in a skiing accident is now roaming the hallways, slamming doors.
+location: Wellwood Middle School
+state: New York
+state_abbrev: NY
+longitude: -76.0011827
+latitude: 43.0227378
+city_longitude: -76.00436429999999
+city_latitude: 43.0297887
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1597/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

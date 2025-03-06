@@ -1,0 +1,21 @@
+city: Lebanon
+country: United States
+description: Chapel - There is something in the chapel. A night security guard at the college in the early and mid 1980's, relayed plenty of stories of how he would hear organ or piano music being played in the sanctuary, which is on the secondfloor. By the time he would get there to check it out, the music had fadedaway. He would also hear sounds as if someone were running down the center of the sanctuary floor. This was odd since there is no middle aisle.
+location: McKendree College
+state: Illinois
+state_abbrev: IL
+longitude: -89.81443440000001
+latitude: 38.60841610000001
+city_longitude: -89.80731949999999
+city_latitude: 38.6039375
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

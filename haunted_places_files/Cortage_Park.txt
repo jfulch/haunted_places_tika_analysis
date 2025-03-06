@@ -1,0 +1,21 @@
+city: Plymouth
+country: United States
+description: Cortage park is an almost empty mall. It once was an Old Rope Factory. Strange music has been heard. The elevator operates by itself. Footsteps and moving objects. Supposedly the spirits of 2 workers who died there haunt the place.
+location: Cortage Park
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.691113
+latitude: 41.9796838
+city_longitude: -70.6672621
+city_latitude: 41.9584457
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

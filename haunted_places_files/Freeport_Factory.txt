@@ -1,0 +1,21 @@
+city: Sacramento
+country: United States
+description: It is said that the Freeport Factory is Haunted by workers that died on the job. If you are able to open a door into the factory make sure you hold on or the door will swing shut and lock on its own. You can also hear the laughter of little children as if they were playing in a playground.
+location: Freeport Factory
+state: California
+state_abbrev: CA
+longitude: -121.4891251
+latitude: 38.5509893
+city_longitude: -121.4943996
+city_latitude: 38.5815719
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1858/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Hickman
+country: United States
+description: Many years ago a little girl was murdered and decapitated there. Her body was thrown off the hill. At night if you park your car there and flash your headlights three times the little girl will come walking up the hill with her head in her arms.
+location: Wilson Hill
+state: Kentucky
+state_abbrev: KY
+longitude: -88.828302
+latitude: 36.7231335
+city_longitude: -89.18617909999999
+city_latitude: 36.5711721
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

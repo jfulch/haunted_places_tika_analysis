@@ -1,0 +1,21 @@
+city: Grafton
+country: United States
+description: footsteps following you in the basement, music playing upstairs when no one else is around, cabinets open and shut by themselves, reports of ghostly figures in the basement.
+location: Ferrantes Grafton Hotel
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.92395309999999
+latitude: 43.20686509999999
+city_longitude: -87.9534226
+city_latitude: 43.3197265
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

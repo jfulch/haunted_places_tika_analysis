@@ -1,0 +1,21 @@
+city: Waltham
+country: United States
+description: Waverley Hall - Lights going on and off in abandoned building, noises of metal hitting metal, feeling of someone watching you, voices heard, feelings of going numb and hearing screams. Rumors of room on second floor to be covered in blood from ceiling to floor. VERY Dangerous place, most spirits to be very evil and mad.
+location: Fernald School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.20514109999999
+latitude: 42.3930494
+city_longitude: -71.2356113
+city_latitude: 42.3764852
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1771/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

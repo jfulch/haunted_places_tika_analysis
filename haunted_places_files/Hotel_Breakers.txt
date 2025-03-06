@@ -1,0 +1,20 @@
+city: Sandusky
+country: United States
+description: To get the story straight on Hotel Breakers (it was probably a seasonal employee making something up about Fridays) There are two known reoccurring instances of hauntings in Hotel Breakers. Hotel Breakers has now four sections all of which were built at different places in time, the oldest and still central being of the hotel is "The Rotunda" which is named so for its circular five floored circular structure of which live it's majority of rooms. "The Lobby" is a two story structure in which contain offices and old meeting rooms on the first floor of such, second floor has rooms that were once guest rooms, now employee dwellings. this is that which we are most interested in for in one of the two second floor hallways is room #169. The very room in which during the early 1900's when the park was still just a beach resort, a guest by the name of Mary hung herself in dismay (supposed to that of a lover), hung herself in her room. Since then, Employee and guest alike have had odd occurrences, disturbances, violent unseen actions, noises, problems with electronics occur. The third oldest portion of the hotel "Breakers East" Which in itself wasn't built until the mid 90's and is portioned into three and four floors. The occurrences in this section were sightings of "Faceless apparitions" in a small combination of number. All other sightings and instances are not known as re-occurring and random. The whole park is rumored to be haunted, and also rumored to have been built on a native burial ground.
+location: "Hotel Breakers
+state: Ohio
+state_abbrev: OH
+longitude: -82.6833609
+latitude: 41.4845944
+city_longitude: -82.7079605
+city_latitude: 41.4489396
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1895/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Midland
+country: United States
+description: There are reports of toilets flushing, people seen sitting in seats after hours, strange noises, and a man with a beard and overalls has been reported.
+location: Midland Cinemas
+state: Michigan
+state_abbrev: MI
+longitude: -84.23322859999999
+latitude: 43.6568712
+city_longitude: -84.2472116
+city_latitude: 43.6155825
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

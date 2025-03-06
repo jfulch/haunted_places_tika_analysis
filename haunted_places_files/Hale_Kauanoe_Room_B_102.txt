@@ -1,0 +1,21 @@
+city: Kilo
+country: United States
+description: This is a dormitory located on campus.  The dormitory in the 1980-1990s had a hard time placing resident students in this particular room.  For some reason they keep complaining of disturbances, with the wind blowing through the windows even when the windows were closed shut.  One time in 1992-1993 a girl was shown to the room and was accompanied by the Resident Assistant and her grandmother. Once left to settle in to her room, the grandmother quickly repacked the girl's stuff and left the room.  The grandmother them scolded the Resident Assistant for placing her granddaughter in an evil room.  Room B-102 has been difficult to find someone to occupy the room for the whole semester. Hale Kauanoe is located near Hale Kanilehua, which also has its stories.
+location: Hale Kauanoe Room B-102
+state: Hawaii
+state_abbrev: HI
+longitude: -155.0821042
+latitude: 19.7018258
+city_longitude: -155.0884869
+city_latitude: 19.7070942
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1992/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

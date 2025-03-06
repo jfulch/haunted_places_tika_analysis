@@ -1,0 +1,19 @@
+city: Christian
+country: United States
+description: not far from Anderson cemetery there is a stone cabin that has figures that appear in it. It was said that a man, wife and there kids lived in the cabin. One day the man killed his family then hung himself on the bridge near by. - January 2007 Update: the stone cabin has been torn down.
+location: Palmer – Stone Cabin
+state: Illinois
+state_abbrev: IL
+city_longitude: -89.3226954
+city_latitude: 39.5672183
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1993/09/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Blackrock
+country: United States
+description: Twin ponds joined together a large tree resides in the middle of the joining of the ponds. A glowing sword is seen in the top of the tree where it was struck by lightning many years ago. It is said that if you turn your back on the sword you'll die a horrible death later that year.
+location: Twin Ponds
+state: Florida
+state_abbrev: FL
+city_longitude: -80.03805919999999
+city_latitude: 26.7060044
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/04/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

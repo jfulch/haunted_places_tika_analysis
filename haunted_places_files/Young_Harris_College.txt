@@ -1,0 +1,21 @@
+city: Young Harris
+country: United States
+description: Dobbs Theatre - the early 1990's there was a janitor named Jesse who loved the theatre and would participate when a particular role called for someone who had visible age. He one day was driving home and wrapped his car around a tree; his ghost has haunted the Blackbox ever since. In the storage room, the noise of moving chairs and other items can often be heard. In the classroom, the motion sensor light turns on when the door is locked and nobody is in there. Footsteps up the steps and around the building are common. Movement upstairs and in the catwalks is also very common. While Charlie in the Clegg building usually causes commotion at night, Jesse seems to be around 24 hours a day- even while there are large groups and classes in the theatre.
+location: Young Harris College
+state: Georgia
+state_abbrev: GA
+longitude: -83.84682
+latitude: 34.932492
+city_longitude: -83.8471223
+city_latitude: 34.9331453
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/04/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.466666666666669
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

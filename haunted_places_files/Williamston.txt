@@ -1,0 +1,21 @@
+city: Martin County
+country: United States
+description: The Screaming Bridge - This haunting is on your way toward Little Washington you go down some back roads and you will come to a bridge and an area where it is quiet. The legend t is that a woman in a cat costume with red contacts was on her way from a Halloween party to pick up her baby and after she picked up her baby she was on her way home and she was tuning the radio and ran off the bridge into the river. You can hear her screaming for her baby if your lucky. Reports of flashes of light felt a cold presence felt.
+location: Williamston
+state: North Carolina
+state_abbrev: NC
+longitude: -77.0555114
+latitude: 35.8546039
+city_longitude: -77.1485163
+city_latitude: 35.8733053
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1996/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

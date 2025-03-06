@@ -1,0 +1,21 @@
+city: Edinboro
+country: United States
+description: The basement of Reeder Hall (which currently houses the university's administration and President as well as the Honor's Dorm) is haunted.  Reeder Hall was closed for several years during which time séances were held in the basement and a witch's coven set up meetings there.  If you sit in the basement at night, the temperature drops and there is a cold breeze even though the windows and doors are closed.  You get a very uneasy feeling there and the lights have been known to go out for no reason at all.
+location: Reeder Hall
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.127636
+latitude: 41.8696517
+city_longitude: -80.1317236
+city_latitude: 41.87422249999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1946/11/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

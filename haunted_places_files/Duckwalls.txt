@@ -1,0 +1,19 @@
+city: Buffalo
+country: United States
+description: The employees have fondly named the "spirit" Bob. Bob loves leaving all kinds of merchandise on the floor, has a fondness for making noises with a variety of things. Must have liked the other kind of "spirits" as a few of us have gotten whiffs of him when there has been no one around. He keeps things interesting!
+location: Duckwalls
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -99.6303972
+city_latitude: 36.8355869
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

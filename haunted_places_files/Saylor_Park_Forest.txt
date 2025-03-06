@@ -1,0 +1,20 @@
+city: Woodland Park
+country: United States
+description: Cadets from the Air Force Academy participating in Survival training have reported feeling presences, seeing glowing figures among the trees. Night vision goggles reveal pulsing lights near various scattered granite monoliths between 1am-3am.
+location: Saylor Park Forest
+state: Colorado
+state_abbrev: CO
+longitude: -105.022763
+latitude: 39.1166582
+city_longitude: -105.0569301
+city_latitude: 38.9938808
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

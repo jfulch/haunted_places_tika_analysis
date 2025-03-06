@@ -1,0 +1,19 @@
+city: Rochester
+country: United States
+description: This graveyard is off of St Rd 25 on 300 south. Take a tape recorder out there on any night of the week and just have normal conversations. Nothing eerie happens...until you listen to the tape! You will hear the raspy, whispery voice of what we believe might be a 3-year-old boy named Earl. This is an old graveyard...we believe that he may be telling us something about the tree next to his grave. Listen VERY CLOSELY to the recording however, you may mistake his voice for one of your own!
+location: Earl's Tree Cemetery
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.2158331
+city_latitude: 41.0647645
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

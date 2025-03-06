@@ -1,0 +1,21 @@
+city: Bloomington
+country: United States
+description: When this place was a restaurant, people claimed to see a little girl's face in the bathroom mirror. Customers also complained of hearing children laughing and playing upstairs while in the dining room below.
+location: Porticos
+state: Indiana
+state_abbrev: IN
+longitude: -86.53731959999999
+latitude: 39.1495231
+city_longitude: -86.52638569999999
+city_latitude: 39.165325
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

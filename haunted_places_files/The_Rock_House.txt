@@ -1,0 +1,20 @@
+city: Pevely
+country: United States
+description: It is said that slaves were taken through an underground tunnel to that house. The house sits on top of a hill, and it is rumored that the slaves were buried at the bottom of the hill. Now homes sit at the bottom of the hill, and weird noises and incidents occur in some of those homes.
+location: The Rock House
+state: Missouri
+state_abbrev: MO
+longitude: -90.196397
+latitude: 38.615266
+city_longitude: -90.3951204
+city_latitude: 38.2833879
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

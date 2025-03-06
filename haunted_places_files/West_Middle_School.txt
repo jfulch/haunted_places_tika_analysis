@@ -1,0 +1,21 @@
+city: Downey
+country: United States
+description: Noises heard in boys locker room. You can hear locker doors slamming when all the boys leave to physical education, and showers turning on and off. Every once in a while you can hear the bathroom stalls flushing when no one is a round.
+location: West Middle School
+state: California
+state_abbrev: CA
+longitude: -118.1560776
+latitude: 33.9388508
+city_longitude: -118.1331593
+city_latitude: 33.9401088
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: around 10:30 some say they see a little girl walking around she has a doll on her right hand and they heard her crying for her mom they say her clothing is about the mid 1900´.
+location: Laredo Mall
+state: Texas
+state_abbrev: TX
+longitude: -99.5116101
+latitude: 27.5018194
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1783/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

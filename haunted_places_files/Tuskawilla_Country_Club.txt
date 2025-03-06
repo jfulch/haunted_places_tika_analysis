@@ -1,0 +1,20 @@
+city: Winter Springs
+country: United States
+description: Every Last Friday of the month, there is a young male, about 22 years old who can be seen cleaning the bar table. No one knows who he could have been, or why he was there. But there have been witnesses that say he tries to attack the people that see him.
+location: Tuskawilla Country Club
+state: Florida
+state_abbrev: FL
+longitude: -81.25351839999999
+latitude: 28.6771373
+city_longitude: -81.30812259999999
+city_latitude: 28.6988853
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Prescott
+country: United States
+description: footsteps, toilets flushing, and voices heard when the building is otherwise empty.
+location: Elks Opera House
+state: Arizona
+state_abbrev: AZ
+longitude: -112.4678225
+latitude: 34.541727
+city_longitude: -112.4685025
+city_latitude: 34.5400242
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: Everyone that moves into these homes asks if anyone knows about people dying there. People see shadows, and hear sounds. If they go to sleep with dirty dishes, when they wake up, the dishes are clean. It has been said that an abusive husband lived there, who wouldn't allow his wife to go to sleep without first having the entire house cleaned.
+location: The Vistas
+state: Arizona
+state_abbrev: AZ
+longitude: -111.9988256
+latitude: 33.6358879
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

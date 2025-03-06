@@ -1,0 +1,21 @@
+city: Shelby
+country: United States
+description: River Road -  Apparition of a man has been seen and cries for help are heard.
+location: Waldron
+state: Indiana
+state_abbrev: IN
+longitude: -85.6669589
+latitude: 39.45345570000001
+city_longitude: -87.3479261
+city_latitude: 41.1953592
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1938/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

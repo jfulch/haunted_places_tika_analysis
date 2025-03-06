@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: The Band Room is haunted by two band students that had passed away years ago. The doors open by themselves and random percussion instruments, especially the wind chimes are heard, although no one is playing them.
+location: North Pulaski High School
+state: Arkansas
+state_abbrev: AR
+longitude: -92.1582244
+latitude: 34.8836823
+city_longitude: -92.1101458
+city_latitude: 34.8662005
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1996/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,18 @@
+city: Corning
+country: United States
+description: A group of KKK members killed many people in the cave can hear them screaming.
+location: Weaver Cave
+state: Ohio
+state_abbrev: OH
+city_longitude: -82.0881995
+city_latitude: 39.6025696
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

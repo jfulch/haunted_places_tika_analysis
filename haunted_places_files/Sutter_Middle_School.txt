@@ -1,0 +1,21 @@
+city: Sacramento
+country: United States
+description: Sometimes at night there have been reports of doors slamming and items being moved around. It was built on top of an Indian burial ground.
+location: Sutter Middle School
+state: California
+state_abbrev: CA
+longitude: -121.4637055
+latitude: 38.573344
+city_longitude: -121.4943996
+city_latitude: 38.5815719
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

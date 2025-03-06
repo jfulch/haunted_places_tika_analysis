@@ -1,0 +1,21 @@
+city: Grand Canyon National Park
+country: United States
+description: In the middle of the U shaped parking lot in front of the hotel, there is a marked grave hiding in a patch of land next to the stop sign. The grave is that of a former Harvey Girl that worked for the Fred Harvey Company. The ghost of a black-caped figure has been seen walking along the pathway leading up from the steps, just to the right of the El Tovar Hotel all along the path. It passes the grave and disappears behind the Hopi House. Although most visitors are unaware, the El Tovar, built in the very early 1900's, is home to more then a few spirits. They say that Fred Harvey appears on the third floor during the holidays and invites people to the annual Christmas gathering held in the hotel. The third floor and the kitchen are the haunted hot spots at the El Tovar Hotel.
+location: El Tovar Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1375779
+latitude: 36.0574162
+city_longitude: -112.1129972
+city_latitude: 36.1069652
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1905/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

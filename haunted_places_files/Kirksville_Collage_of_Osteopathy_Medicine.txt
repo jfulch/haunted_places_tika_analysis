@@ -1,0 +1,20 @@
+city: Kirksville
+country: United States
+description: The Ghost of A.T. Still is reputed to walk the halls of the Collage and the Hospital it is connected to.
+location: Kirksville Collage of Osteopathy Medicine
+state: Missouri
+state_abbrev: MO
+longitude: -92.5880749
+latitude: 40.1934247
+city_longitude: -92.5832496
+city_latitude: 40.19475389999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

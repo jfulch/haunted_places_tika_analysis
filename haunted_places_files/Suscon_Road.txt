@@ -1,0 +1,21 @@
+city: Pittston
+country: United States
+description: Road where woman and child were killed on their way to a hospital. Said to be haunted by the mother. 18 Streetlights are on this road, however there are constantly 11 out, but never the same 11.
+location: Suscon Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.7047461
+latitude: 41.2822869
+city_longitude: -75.78936039999999
+city_latitude: 41.3259134
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1996/07/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

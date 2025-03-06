@@ -1,0 +1,21 @@
+city: Bensalem
+country: United States
+description: this is Ben Franklin’s cousins house. Story goes that he tested his kite here a few times. Sightings have been seen of Ben flying his kite. Also in the woods is a trench from a war. If you go back in the trench late at night you can hear battle noises.
+location: Grouden Manor
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.9533453
+latitude: 40.0641807
+city_longitude: -74.9325683
+city_latitude: 40.09944249999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1705/01/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

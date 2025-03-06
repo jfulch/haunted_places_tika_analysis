@@ -1,0 +1,21 @@
+city: Chandler
+country: United States
+description: This is one of the oldest schools in Arizona, going back before Arizona became a state. The oldest building still standing is called, “Old Main”. A few of the custodians and teachers who have been at the school for many years, or have long since retired, tell of sightings and voices on the second floor of Old Main’s north wing. In fact, one custodian, after experiencing a particularly frightful event, refused to clean that area of the building.
+location: Chandler High School
+state: Arizona
+state_abbrev: AZ
+longitude: -111.842131
+latitude: 33.308875
+city_longitude: -111.8412502
+city_latitude: 33.3061605
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 1

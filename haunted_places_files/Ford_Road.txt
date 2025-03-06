@@ -1,0 +1,21 @@
+city: Canton
+country: United States
+description: Old Frank's Nursery & Crafts - Employees of this store were said to hear moaning after closing, along with merchandise falling off shelves. Other employees even said to be pushed by the spirit.
+location: Ford Road
+state: Michigan
+state_abbrev: MI
+longitude: -83.4895295
+latitude: 42.3218667
+city_longitude: -83.48211599999999
+city_latitude: 42.3086444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

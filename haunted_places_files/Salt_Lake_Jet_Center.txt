@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: All faucets in bathrooms will turn on automatically when no one is in there, All the toilets in men's bathroom flush at same time. Hallway lights will go out when you walk down them. Noises like people whispering behind you in hangars. Cold spots, weird activity
+location: Salt Lake Jet Center
+state: Utah
+state_abbrev: UT
+longitude: -111.9819374
+latitude: 40.7869197
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

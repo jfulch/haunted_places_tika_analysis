@@ -1,0 +1,19 @@
+city: New Mount Pleasant
+country: United States
+description: Behind the jay county conservation club down a short lane in the woods is a cemetery dating back to the early to late 1800's. In this cemetery is a gravestone marked Cinderella this is supposed to be the name of the boy buried there. Go in at night and when you count the headstones one way there are 13. When you go and count them back the opposite way there are only 11.
+location: Cinderella's grave
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.0649687
+city_latitude: 40.3558775
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1685/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

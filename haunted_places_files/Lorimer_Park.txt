@@ -1,0 +1,21 @@
+city: Montgomery County
+country: United States
+description: Many apparitions have been seen here, especially in the winter months. There is stone pyramid set deep in the woods that is said to glow red on certain nights. There was once a mansions set on the property that burned down in the late 1800s and every now and then you can hear screams coming from the part of the park and smell an intense smoke.
+location: Lorimer Park
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.0736507
+latitude: 40.0969929
+city_longitude: -75.3878525
+city_latitude: 40.2290075
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

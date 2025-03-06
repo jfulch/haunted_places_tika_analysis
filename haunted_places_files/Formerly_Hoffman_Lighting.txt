@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: Later River City Lighting - Owned by two men one of which killed the other in the showroom. The accused killer was found not guilty. A manager at the showroom from 1979-81 would come in before anyone else to do some work. Very distinct footsteps could be heard in the warehouse above my office. Many people heard this ghost at different times.
+location: Formerly Hoffman Lighting
+state: Kentucky
+state_abbrev: KY
+longitude: -85.606948
+latitude: 38.25937
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1979/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Sylvan
+country: United States
+description: Reports of noises like cars slamming there brakes or even worse
+location: Gibbs bridge
+state: Ohio
+state_abbrev: OH
+longitude: -83.802134
+latitude: 41.7225059
+city_longitude: -81.605817
+city_latitude: 41.126828
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

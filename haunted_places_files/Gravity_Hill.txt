@@ -1,0 +1,18 @@
+city: Silverstreet
+country: United States
+description: Back in December, 1946 a school bus was hit by a Southern train killing 12 children and the driver, Richard Sanders. According to newspaper accounts the accident was horrible and even described in some detail about finding a child's body on the cow catcher of the train. Although I have never heard of anyone experiencing anything in this location, I stopped on the tracks and literally had my truck pushed across the tracks. The road that crosses the track goes uphill. I have also taken photos of the area and in the woods surrounding the track you can make out what appears to be children.
+location: Gravity HIll
+state: South Carolina
+state_abbrev: SC
+city_longitude: -81.71538699999999
+city_latitude: 34.2179142
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Accident
+witness_count: 1

@@ -1,0 +1,21 @@
+city: St. Augustine
+country: United States
+description: The night watchman of the fort has witnessed a young woman in a white dress wandering about the fort grounds and vanishing behind trees and walls. Young Spanish soldier also spotted looking for a ring on the outer grounds of the fort. History tells of him being killed by a cannon ball while searching for this ring.
+location: Fort Castillo De San Marco
+state: Florida
+state_abbrev: FL
+longitude: -81.31151870000001
+latitude: 29.89786179999999
+city_longitude: -81.31243409999999
+city_latitude: 29.9012437
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Murder
+witness_count: 1

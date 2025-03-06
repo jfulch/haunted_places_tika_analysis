@@ -1,0 +1,20 @@
+city: Cincinnati
+country: United States
+description: A while back a janitor was working in a small room between two science classrooms on a ladder. Alone. The man suddenly had a heart attack and was found by the secretary the next morning when she called for him and no reply she went up and found him....now during class there are doors opening and closing with no one nearby and at night janitors recall doors all being opened perfectly at 90 degree angle Also when the schools pool was first put in, a student wandered down there without even hearing about it yet talking on the cell phone tripped, and right into the pool drowning. Now when you go into the boys locker rooms you can hear toilets flush by themselves and splashing in the pool even when it’s not filled.
+location: Taylor High School
+state: Ohio
+state_abbrev: OH
+longitude: -84.75180139999999
+latitude: 39.1704264
+city_longitude: -84.5120196
+city_latitude: 39.1031182
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: Reports of 5 Ghosts in this Building. Two Children, a brother and sister who were killed during the building of the structure. A woman who is believed to be the mother of Children. A Pioneer Judge and an old Mayor of Salt Lake. The Building is 5 floors and the Ghosts haunt all floors.
+location: City County Building
+state: Utah
+state_abbrev: UT
+longitude: -111.886826
+latitude: 40.759622
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

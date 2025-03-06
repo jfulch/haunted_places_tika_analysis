@@ -1,0 +1,21 @@
+city: Knoxville
+country: United States
+description: Rumors has it that this theater located in the middle of the city is haunted by a man. The theater was once some kind of army hospital way back when. It gained publicity by local radio station...Voices and even sightings have been heard there.
+location: Bijou Theater
+state: Tennessee
+state_abbrev: TN
+longitude: -83.9170961
+latitude: 35.9623478
+city_longitude: -83.9207392
+city_latitude: 35.9606384
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

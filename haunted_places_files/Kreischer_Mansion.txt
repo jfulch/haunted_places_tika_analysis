@@ -1,0 +1,21 @@
+city: Staten Island
+country: United States
+description: It's said that a girl mysteriously got pushed in to and locked in a closet that would not open and someone had to break the door down. There are mysterious banging noises, doors slamming on their own, and apparitions in the mirrors. Cold winds have swept through the basement area.
+location: Kreischer Mansion
+state: New York
+state_abbrev: NY
+longitude: -74.238256
+latitude: 40.5325407
+city_longitude: -74.1502007
+city_latitude: 40.5795317
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

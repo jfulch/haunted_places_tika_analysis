@@ -1,0 +1,18 @@
+city: Kettering
+country: United States
+description: there’s a huge open field there but if you go across the field and up the hill at the end of the field there’s a creek and supposedly sometime in the 50's some kids slept over by the creek and never were seen again and when the parents went to go get them they found no campsite except for a still going fire, and the legend is that the "boggy creek monster" ate them and that boggy creek which by the way has no end or start and that it comes from the creek and takes you back down in the creek with you before it eats you so that you suffer. Reports of noises like something big and fast moving through the brush as if chasing something or someone.
+location: Boggy Creek
+state: Ohio
+state_abbrev: OH
+city_longitude: -84.1688274
+city_latitude: 39.68950359999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

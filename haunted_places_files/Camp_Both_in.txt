@@ -1,0 +1,21 @@
+city: Fairfax
+country: United States
+description: It used to be an Indian reservation, then early in the 1920s, became a hospital for tuberculosis patients. Now it is used as a Girl Scout camp, but it still has the original sinks from the hospital. You can hear a ghost of a nurse pushing her cart up and down the halls, moaning, screaming, appearances and disappearances and some ancient Indians spirits too.
+location: Camp Both in
+state: California
+state_abbrev: CA
+longitude: -122.6202658
+latitude: 38.0039005
+city_longitude: -122.5888686
+city_latitude: 37.9871454
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

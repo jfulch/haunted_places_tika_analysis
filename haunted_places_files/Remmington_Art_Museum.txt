@@ -1,0 +1,21 @@
+city: Ogdensburg
+country: United States
+description: Located at 300 Washington Street. It is an old tale of the ghost of Madame Vespucci who appears sometimes in the museum. At times people visiting the museum on the upper level can hear her talking on the other side of a wall. It is believed that she lived at this address at one time.
+location: Remmington Art Museum
+state: New York
+state_abbrev: NY
+longitude: -75.493189
+latitude: 44.698484
+city_longitude: -75.48633640000001
+city_latitude: 44.6942291
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

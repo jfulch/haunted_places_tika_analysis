@@ -1,0 +1,21 @@
+city: Northampton
+country: United States
+description: Hexankopf Rock - The ghost of a headless hunter, ghosts of witches, strange lights & sounds have all been reported there.
+location: Raubsville
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.1929533
+latitude: 40.6356554
+city_longitude: -75.4968501
+city_latitude: 40.6862075
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

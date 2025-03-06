@@ -1,0 +1,18 @@
+city: Encampment
+country: United States
+description: There is an area between Encampment and the old mining ghost town of Battle known as Slaughterhouse Gulch. An explosion in a mine near the area killed a miner. There wasn't enough of him left to bury properly. So it was said he walked and roamed through Slaughterhouse Gulch. Dorothy Peryam and her first husband, Horace Quivey, her brother John and his wife, Eda, were camped in the area in 1918. The men were marking timber there for the Forestry Service. It was dusk and they had made their campfire. Dorothy and John were standing close to the road when they heard a hollow cough and looked up to see a man walking down the road toward them. He walked past them, not looking to the right or left, or at them. They could not hear his footsteps as he walked by. It was very peculiar in those days for a stranger to be alone in the mountains at dark without a horse or supplies. He would have approached the fire to talk. But this person acted as though they weren't there. Charles M. Scribner ran a stage line between Battle and Encampment. One of his drivers quit because on one occasion a man approached his team of six horses, walked right between them and disappeared. The horses reared and bolted and it was all the driver could do to control them. He was sure it was the "Ghost of Slaughterhouse Gulch."
+location: Battle Lake/Slaughterhouse Gulch
+state: Wyoming
+state_abbrev: WY
+city_longitude: -106.8001396
+city_latitude: 41.2060709
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1918/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Tucson
+country: United States
+description: There are a number of different experiences, including people seeing someone walking into an elevator and then disappearing, elevators opening into strange places, strange people riding on the elevators with staff, etc. But the majority of the stories revolve around a nun on the fourth floor. One night, one of the nursing staff was looking down the 4 North Hallway, and saw a nun standing in the middle of the hall, pointing into a room. The staff member went to see what was going on, but when she got there, the nun had disappeared. In the room that she was pointing at, there was a female patient who was suicidal and was attempting to take her life. The nun was warning the staff. It is, presumably, the same nun that walks with staff along the hallway going from the North halls to the West halls. Staff has seen her reflection in the glass windows at night. She follows them as they walk the halls.
+location: St. Mary's Hospital
+state: Arizona
+state_abbrev: AZ
+longitude: -111.0003538
+latitude: 32.2280654
+city_longitude: -110.926479
+city_latitude: 32.2217429
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

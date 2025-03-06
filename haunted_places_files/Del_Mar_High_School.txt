@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: in 1942 a boy was murdered by his best friend many people say At approx. 3:15am it is said that you can hear a boy screaming help in the football field where he was murdered. some people say you can even see him running down the bleachers.
+location: Del Mar High School
+state: California
+state_abbrev: CA
+longitude: -121.9295999
+latitude: 37.3039885
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1942/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

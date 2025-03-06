@@ -1,0 +1,21 @@
+city: Springfield
+country: United States
+description: Strange noises, a baby crying, and a girl screaming can be heard.
+location: Old Iron Bridge
+state: Arkansas
+state_abbrev: AR
+longitude: -92.5127336
+latitude: 35.2526928
+city_longitude: -92.5576595
+city_latitude: 35.2675809
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

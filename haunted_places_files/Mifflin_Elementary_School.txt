@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: but there has been 3 sightings of a green floating man in the music room. Also, during extra-curricular activities, a floating face has been seen. Strange lights, noises, and glowing have also been seen.
+location: Mifflin Elementary School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9148975
+latitude: 40.3698549
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 3

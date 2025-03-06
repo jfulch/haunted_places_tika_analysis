@@ -1,0 +1,21 @@
+city: Lenox
+country: United States
+description: An eleven year old girl, whose last name is Sloane died from a disease in a hotel room there. The building on the right, which is right next to Sloane's Tavern. A open diner place. They say people have heard squeaks, as apposed to be her own language. Even my dad did. He works as a carpenter there.
+location: Cranewell Resort
+state: Massachusetts
+state_abbrev: MA
+longitude: -73.2672359
+latitude: 42.341822
+city_longitude: -73.2848762
+city_latitude: 42.35646089999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1968/07/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

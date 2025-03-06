@@ -1,0 +1,21 @@
+city: Morganton
+country: United States
+description: At night when the house supervisors make their rounds through the parts of the hospital that no longer house patients each one has reported seeing various ghost. Tunnels and dark corridors have been sealed due to these reports. Often these ghost can be heard screaming in supposedly unoccupied wards. Hear doors slamming on T and U Wards during the night but after checking all patients were sleeping.
+location: Broughton Hospital
+state: North Carolina
+state_abbrev: NC
+longitude: -81.6744542
+latitude: 35.7307531
+city_longitude: -81.6848188
+city_latitude: 35.7454071
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

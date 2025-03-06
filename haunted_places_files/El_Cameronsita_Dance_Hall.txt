@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: There is a dance hall that is said to be haunted by a guy who is very handsome and he has hoof feet. It is said, he saw a beautiful women to dance with. She was in a trance with his good looks that she danced with him. Everyone around watched in horror, because he was not human (normal).
+location: El Cameronsita Dance Hall
+state: Texas
+state_abbrev: TX
+longitude: -98.5684251
+latitude: 29.428341
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

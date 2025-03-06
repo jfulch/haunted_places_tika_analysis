@@ -1,0 +1,21 @@
+city: Lenoir
+country: United States
+description: has two ghosts. One is from a guy who was building the elevator and he fell. The elevator goes up and down late at night when the accident happened. The elevator opens and closes and goes up and down for or five times at night. Also the theater has a ghost that was a student but she died when she was rehearsing for a play. Now before opening night of any play she causes allot of mischief with the set, lights, and props. She has caused allot of black outs and such right before opening night.
+location: South Caldwell High School
+state: North Carolina
+state_abbrev: NC
+longitude: -81.45240059999999
+latitude: 35.8213323
+city_longitude: -81.5389849
+city_latitude: 35.9140196
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

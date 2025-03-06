@@ -1,0 +1,21 @@
+city: Memphis
+country: United States
+description: The "Rose Room" is haunted by Molly Woodruff whose bedroom it once was. Her picture is on the wall and she wanders the house, makes a depression in the bedclothes as if she slept there, and there are cold areas. Her most famous appearance was the day the house museum opened in the 1960's when a docent saw a woman in the bedroom who said, "My bed doesn't go there." That was the first of many such stories. Strange odars like cigar smoke have also been in evidence on the house's third floor from an unnamed visitor.
+location: Woodruff-Fontaine House
+state: Tennessee
+state_abbrev: TN
+longitude: -90.03782319999999
+latitude: 35.1449246
+city_longitude: -90.0489801
+city_latitude: 35.1495343
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

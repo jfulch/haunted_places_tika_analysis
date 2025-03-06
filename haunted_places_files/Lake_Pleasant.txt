@@ -1,0 +1,21 @@
+city: Peoria
+country: United States
+description: In the back of Lake Pleasant there have been many deaths due to drowning and cliff jumps. It is said that when you camp there, you can hear weird sounds and whispers as if people are watching you. There have also been reports that around 3AM, you can see what looks like Indians on the cliffs.
+location: Lake Pleasant
+state: Arizona
+state_abbrev: AZ
+longitude: -112.280129
+latitude: 33.8886967
+city_longitude: -112.2373779
+city_latitude: 33.5805955
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

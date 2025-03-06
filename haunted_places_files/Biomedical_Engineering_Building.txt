@@ -1,0 +1,21 @@
+city: Ruston
+country: United States
+description: the old hospital - There is a presence that inhabits the 4th floor (which used to be where the operating room was). The elevator continuously travels to the 4th floor although no offices are located there. It goes from the 1st floor (the old morgue) to the 4th floor, although another floor has been selected. Noises have also been heard on the 3rd floor when no one is around.
+location: Biomedical Engineering Building
+state: Louisiana
+state_abbrev: LA
+longitude: -92.6497714
+latitude: 32.5238216
+city_longitude: -92.637927
+city_latitude: 32.5232053
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

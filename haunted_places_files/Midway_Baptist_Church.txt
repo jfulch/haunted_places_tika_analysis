@@ -1,0 +1,21 @@
+city: Midway
+country: United States
+description: On Highway 84 near Evergreen, lays Midway Baptist Church. On certain nights you may see balls of light come from the cemetery and go across the highway. They have been known to follow people.
+location: Midway Baptist Church
+state: Alabama
+state_abbrev: AL
+longitude: -85.072937
+latitude: 32.5082484
+city_longitude: -85.5221667
+city_latitude: 32.0770977
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

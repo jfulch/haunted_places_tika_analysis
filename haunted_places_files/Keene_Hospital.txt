@@ -1,0 +1,21 @@
+city: Keene
+country: United States
+description: The old abandoned hospital can be found off dirt roads in the back of the small town of Keene. It was once a huge TB hospital that housed so many victims that it was eventually forced to close. Legend has it, that in the children's ward you can hear kids laughing and talking. In the rest of the building, strange voices and noises can be heard.
+location: Keene Hospital
+state: California
+state_abbrev: CA
+longitude: -72.291882
+latitude: 42.948954
+city_longitude: -118.5623117
+city_latitude: 35.2235728
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

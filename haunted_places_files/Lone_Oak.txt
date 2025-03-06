@@ -1,0 +1,21 @@
+city: Paducah
+country: United States
+description: German Cemetery - This is an old Catholic cemetery located directly across the road from St Johns Catholic Church. There have been many sightings here of unexplained supernatural phenomenon. Such events include but are not limited to sightings of a "werewolf" type creature that charges up the hill at you, a female apparition that is not fond of males, and a strange light that seems to hover over one of the graves in the lower portion of the cemetery. Late at night during certain events, even the crickets are silenced.
+location: Lone Oak
+state: Kentucky
+state_abbrev: KY
+longitude: -88.6623493
+latitude: 37.0379114
+city_longitude: -88.6000478
+city_latitude: 37.0833893
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1956/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

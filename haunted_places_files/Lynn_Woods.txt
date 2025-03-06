@@ -1,0 +1,20 @@
+city: Lynn
+country: United States
+description: Vast woods that surrounds the city of Lynn. Legend has it that if you walk through these woods you will hear voices and hear the breaking of sticks right next to you. The woods are completely dark, so you might want to take a flashlight and a friend. There is a tree that looks like a man was sucked into it. The tree appears to have an arm and a face can be visibly seen on the side. Also there is Dungeon rock, this where cults went to sacrifice people wandering alone in the woods. Its said if you go there alone at night the ghosts of these cults can be seen. That is why they lock the door of dungeon rock.
+location: Lynn Woods
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9865063
+latitude: 42.4771281
+city_longitude: -70.9494938
+city_latitude: 42.46676300000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/08/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

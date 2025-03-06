@@ -1,0 +1,21 @@
+city: Calloway
+country: United States
+description: Hill - There is a hill that is almost perfectly dome-shaped, like someone took a bowl of dirt and turned it over. Witnesses report they had seen it light up at night, heard strange sounds, and that it was haunted.
+location: Dexter
+state: Kentucky
+state_abbrev: KY
+longitude: -88.2955145
+latitude: 36.74168239999999
+city_longitude: -88.28504199999999
+city_latitude: 36.6402766
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1760/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

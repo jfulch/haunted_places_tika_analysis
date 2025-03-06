@@ -1,0 +1,20 @@
+city: Burlington
+country: United States
+description: cell 5 on the 3rd floor is haunted by Joseph Clough who spent his last days chained in this cell.
+location: Burlington County Prison
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.7894047
+latitude: 39.9968603
+city_longitude: -74.86488729999999
+city_latitude: 40.071222
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Munford
+country: United States
+description: It’s said that if you drive by the cemetery late at night, you'll see a yellow orb of light floating in the cemetery and across McElderry Road. Also, drive around the church three times, park in front facing the church, turn off your lights and the window blinds will rise up by themselves.
+location: Bethlehem Methodist Church
+state: Alabama
+state_abbrev: AL
+longitude: -85.9573248
+latitude: 33.5009337
+city_longitude: -85.95080050000001
+city_latitude: 33.5298282
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/07/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

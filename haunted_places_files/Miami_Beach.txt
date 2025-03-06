@@ -1,0 +1,21 @@
+city: Miami
+country: United States
+description: Colony Theater - Footsteps and ghost has been seen back stage and other unexplained events.
+location: Miami Beach
+state: Florida
+state_abbrev: FL
+longitude: -80.1300455
+latitude: 25.790654
+city_longitude: -80.1917902
+city_latitude: 25.7616798
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1675/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Orlando
+country: United States
+description: Its an old historic house from the early 1900's. A former employee states People that had worked there for awhile would talk of strange noises like someone running though the hallways when no one was there. One employee got a call from an inside line only to hear static and a sound of a little girl playing on the phone. Problem was everybody was out to lunch.
+location: Miller Sellen
+state: Florida
+state_abbrev: FL
+longitude: -81.3990568
+latitude: 28.6252916
+city_longitude: -81.3792365
+city_latitude: 28.5383355
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

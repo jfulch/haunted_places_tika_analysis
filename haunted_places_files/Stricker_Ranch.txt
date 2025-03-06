@@ -1,0 +1,21 @@
+city: Kimberly
+country: United States
+description: Stricker Ranch was at one time part of the Oregon Trail where many people died because of the long journey. There is still today this day a small cemetery out in an open field. Where at certain times of the night people have sited ghosts running through the field. There is a particular cabin that people have sited the doors open and lights flickering inside. As soon as you are on the property you can immediately feel the presence of the people that once died there.
+location: Stricker Ranch
+state: Idaho
+state_abbrev: ID
+longitude: -114.3230567
+latitude: 42.46046399999999
+city_longitude: -114.3647561
+city_latitude: 42.5338019
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

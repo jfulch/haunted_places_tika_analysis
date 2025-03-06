@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: Noises heard near the employees locker room, flickering lights. People believe it to be the spirit of a worker that hung himself in the early 1900's.
+location: Hollywood Mann's Chinese Theatre
+state: California
+state_abbrev: CA
+longitude: -118.3409712
+latitude: 34.1020231
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

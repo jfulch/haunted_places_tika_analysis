@@ -1,0 +1,21 @@
+city: Crown Point
+country: United States
+description: Reports that at night the lights go on and off in the gym, and the basketball cart moves out from the office, and the balls bounce on the floor, making a tremendous noise, since it has a wood floor, when someone comes, it disappears. The high school auditorium’s catwalks are supposedly haunted by a spirit. Students have reported hearing strange noises and seeing images of people walking along them. - September 2005 Update: Was torn down last year.
+location: Crown Point High School
+state: Indiana
+state_abbrev: IN
+longitude: -87.3612677
+latitude: 41.3897616
+city_longitude: -87.3653135
+city_latitude: 41.4169806
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

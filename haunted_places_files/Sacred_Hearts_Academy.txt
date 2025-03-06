@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: The Gym - the gym is known for having a child spirit playing inside the building. She takes out balls and bounces them around. Teachers that have entered the school grounds at night claim to have heard the bouncing of balls echoing in the gym. When you open the doors balls are scattered around the room.
+location: Sacred Hearts Academy
+state: Hawaii
+state_abbrev: HI
+longitude: -157.806603
+latitude: 21.285976
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

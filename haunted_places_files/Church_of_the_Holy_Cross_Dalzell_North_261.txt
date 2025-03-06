@@ -1,0 +1,20 @@
+city: Sumter
+country: United States
+description: Church Cemetery is haunted by a Confederate Soldier that apparently had an untimely death. Eyewitnesses see him strolling through the cemetery, and disappearing before they can approach him. There has also been a woman sitting in a low-lying tree, with her legs crossed. This is a genuinely haunted cemetery.
+location: Church of the Holy Cross- Dalzell, North 261
+state: South Carolina
+state_abbrev: SC
+longitude: -80.532116
+latitude: 33.953319
+city_longitude: -80.3414693
+city_latitude: 33.9204354
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1766/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: Tyler Road Cemetery - Witnesses have reported seeing a young girl standing by the tree w/her head looking towards the ground by a grave stone that said our little Janie on it and disappeared.
+location: Belleville
+state: Michigan
+state_abbrev: MI
+longitude: -83.4852133
+latitude: 42.2047619
+city_longitude: -83.3863214
+city_latitude: 42.2814269
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1801/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

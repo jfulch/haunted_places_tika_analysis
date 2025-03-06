@@ -1,0 +1,21 @@
+city: Andersonville
+country: United States
+description: Camp Sumter - Re enactors experienced a fog, shadows, and a feeling of welcoming (the Re enactors were in Federal, or Union uniform) also cold spots by Providence Spring and Stockade Creek
+location: Andersonville Prison
+state: Georgia
+state_abbrev: GA
+longitude: -84.1303207
+latitude: 32.2002948
+city_longitude: -84.1303207
+city_latitude: 32.2002948
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1864/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

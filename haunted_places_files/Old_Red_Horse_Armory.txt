@@ -1,0 +1,19 @@
+city: Des Moines
+country: United States
+description: Was an old Cavalry armory. It is now the city school bus barn. When the National Guard was in the building soldiers who worked full time and were in there after hours reported hearing the clip clop of horses hooves and the jingle of harnesses off the small drill floor where the stables were. They also would catch glimpses of an older man dressed in an old cavalry uniform in the long back hall that only had a small light bulb at each end of it. They were not fanciful people who seen and heard these things. They were hardworking soldiers with their heads on straight who would never in a million years make up things like that.
+location: Old Red Horse Armory
+state: Iowa
+state_abbrev: IA
+city_longitude: -93.6091064
+city_latitude: 41.6005448
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

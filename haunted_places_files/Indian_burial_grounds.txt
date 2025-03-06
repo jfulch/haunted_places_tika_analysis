@@ -1,0 +1,21 @@
+city: Valley Center
+country: United States
+description: Dead Indians can be seen chasing buffalo with spears. have been heard as well.
+location: Indian burial grounds
+state: California
+state_abbrev: CA
+longitude: -116.9472169
+latitude: 33.2786835
+city_longitude: -117.0341967
+city_latitude: 33.2183701
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1894/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

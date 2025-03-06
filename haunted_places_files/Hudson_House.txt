@@ -1,0 +1,19 @@
+city: Ashland
+country: United States
+description: It's an old house in the middle of nowhere. It is said to be haunted by a lot of ghosts. When you walk around the house, you can hear voices and footsteps, and you can even hear dogs panting. If you stand in front of the house, you can feel someone tap you on the shoulder. There is even a creepy dark figure that runs on top of the roof.
+location: Hudson House
+state: Alabama
+state_abbrev: AL
+city_longitude: -85.83607409999999
+city_latitude: 33.2737256
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

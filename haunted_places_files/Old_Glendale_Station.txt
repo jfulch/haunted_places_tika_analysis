@@ -1,0 +1,18 @@
+city: Penrose
+country: United States
+description: This two story stage stop was built in 1861. A woman in a white wedding dress haunts the front porch of the ruined stone building. She is the ghost of Kathleen Cooper, who still waits for her husband-to-be. The gold miner she waits for was killed in a holdup on his way to the wedding. She most commonly appears to people on horseback but occasionally is seen by people on foot.
+location: Old Glendale Station
+state: Colorado
+state_abbrev: CO
+city_longitude: -105.0227624
+city_latitude: 38.4250001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1861/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

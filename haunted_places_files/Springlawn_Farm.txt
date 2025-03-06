@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: aka - Albino Farm Bridge - March 2008 has been removed.
+location: Springlawn Farm
+state: Missouri
+state_abbrev: MO
+longitude: -93.2728153
+latitude: 37.2708709
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

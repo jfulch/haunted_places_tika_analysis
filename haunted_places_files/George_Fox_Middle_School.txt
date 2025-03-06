@@ -1,0 +1,21 @@
+city: Anne Arundel County
+country: United States
+description: It has been said that at night you can see a women walking up and down the halls of the middle school, a former principle. Sometimes she is walking by herself and sometimes she is pulling a student by his ear along with her. None of the students liked her cause she was a very mean principle. She was said to have died (year unknown) during the school year and was buried under the school because that was the only place where she liked to be. Now she still acts as the Principle while walking the school at night.
+location: George Fox Middle School
+state: Maryland
+state_abbrev: MD
+longitude: -76.5490289
+latitude: 39.1322328
+city_longitude: -76.5488232
+city_latitude: 38.9530109
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

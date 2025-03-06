@@ -1,0 +1,21 @@
+city: Soda Springs
+country: United States
+description: The hotel is very old but has had at least 4 million dollars put in for remodeling and such. Many go to the hotel not knowing of it's haunting history, but some people experience and others don't! The thing about the place is that there was a prostitute murdered in room 207... (women don't leave your husbands alone!), they say she wanders the halls at night looking for single men. And there is also a MEAN!!! ghost in the basement... NO BODY GOES IN THE BASEMENT!!! They say he was also murdered.
+location: Enders Hotel
+state: Idaho
+state_abbrev: ID
+longitude: -111.6040388
+latitude: 42.6573572
+city_longitude: -111.6046687
+city_latitude: 42.6543652
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

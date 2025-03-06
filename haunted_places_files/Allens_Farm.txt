@@ -1,0 +1,19 @@
+city: Uniontown
+country: United States
+description: Allen's farm has an annual "Allen's Haunted Hayrides". Every year they take people through and at the very end everyone goes through a barn. The barn is very old, like a few hundred years. The barn stands on top of the hill at the farm. Apparently the barn has been haunted for centuries. There have been numerous sightings. They have had a radio station from Pittsburgh stay overnight there and they have had experiences. One year all of the people that work at the haunted hayride left the barn completely claiming that something had happened. Til this very day the owner Rick Allen will claim that his old barn is very much indeed haunted.
+location: Allen's Farm
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -79.71643259999999
+city_latitude: 39.900076
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/04/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Tewksbury
+country: United States
+description: As you turn onto North Street from East Street late at night, you can see a white apparition on the corner. As you drive further down, you will notice a little boy walking down the road. As you approach the train tracks there is a blue energy on the right side of the road.
+location: North Street
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.2308086
+latitude: 42.6288124
+city_longitude: -71.23422479999999
+city_latitude: 42.6106478
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2006/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Pinson
+country: United States
+description: At night, in the cemetery behind the church, an apparition of a woman can be seen sweeping the graves with a broom.
+location: Pinson United Methodist Church
+state: Alabama
+state_abbrev: AL
+longitude: -86.67705199999999
+latitude: 33.693408
+city_longitude: -86.6833228
+city_latitude: 33.6889908
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Jerome
+country: United States
+description: A woman in white roams the halls, a nurse with a clipboard was seen in a room, and a child runs through the bar area looking for his mother late at night. Also screaming is heard and apparitions are seen on a regular basis.
+location: Jerome Grand Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1148375
+latitude: 34.7477558
+city_longitude: -112.1137716
+city_latitude: 34.7489107
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

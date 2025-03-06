@@ -1,0 +1,21 @@
+city: Mesa
+country: United States
+description: During the World War II, the military used the base to train pilots. The building (which is now the VA hospital) on the far west side of the base was a hospital. Many people have reported a male ghost who haunts what used to be the new baby viewing area and the old operating room area. People also report voices in what used to be the old Officers Club.
+location: Williams Air Force Base
+state: Arizona
+state_abbrev: AZ
+longitude: -111.681736
+latitude: 33.3107603
+city_longitude: -111.8314724
+city_latitude: 33.4151843
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Frankfort
+country: United States
+description: Back in the 20's people beleive a school bus of children went down the road and some how went off the road killing ther driver and the children. Well now if you go out to the road and put your vehicle in neutral and turn your lights out the children push you up the hill and suposivly in to the river below to meet the same fate as them. We've found that if you cover your car in flour you can see hand prints of little children pushing and looking in through the windows at you.
+location: Farmers gravel Rd.
+state: Indiana
+state_abbrev: IN
+longitude: -86.56274549999999
+latitude: 40.3098099
+city_longitude: -86.5108355
+city_latitude: 40.2794809
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

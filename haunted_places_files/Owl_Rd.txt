@@ -1,0 +1,20 @@
+city: Neosho
+country: United States
+description: Small Cemetery on Owl Rd at night you many wondering ghost and if listen closely in far you here the baby cry. The baby grave was or still is marked baby girl. But be careful what lurk at the ground keeper's shack.
+location: Owl Rd
+state: Missouri
+state_abbrev: MO
+longitude: -94.3245022
+latitude: 36.79555630000001
+city_longitude: -94.367996
+city_latitude: 36.8689554
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/16
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

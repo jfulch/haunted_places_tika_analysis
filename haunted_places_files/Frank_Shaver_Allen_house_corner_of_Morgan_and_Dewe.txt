@@ -1,0 +1,19 @@
+city: Joliet
+country: United States
+description: The Frank Shaver Allen house haunting was well-documented in the local press in the late 1970's after a team of psychics and a Joliet newspaperwoman investigated it. The family then living there cooperated in the investigation after having experienced very dramatic paranormal events for over a decade. The house was built for wealthy Frank Shaver Allen in the latter half of the 19th century. He is believed to be one of the lingering spirits there. Also, reported are an elderly woman, believed to be someone who died from a terminal illness in the house; a former nanny and her charge, a young boy; and other spirits not identified. Many, many sightings of spirits and other strange events have occurred at the residence and have been witnessed by occupants, visitors, the psychics and reporter and others such as gas meter readers, etc. A boy who lived there experienced repeated visits from the ghostly nanny and boy who repeatedly invited him to join the ghost boy forever as his playmate. Unexplained, illusory fires have been seen there. A renovation/redecoration of the house inspired a wave of supernatural occurrences. The usual door slamming, odors, shadow-figures, unexplained voices and screams abound.
+location: Frank Shaver Allen house, corner of Morgan and Dewey streets
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.0817251
+city_latitude: 41.525031
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

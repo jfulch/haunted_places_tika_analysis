@@ -1,0 +1,21 @@
+city: Placerville
+country: United States
+description: the Cary House Hotel is one of Placervilles most haunted sites where visitors often come to investigate the supernatural. Room 212 is said to be the most haunted.
+location: Cary House Hotel
+state: California
+state_abbrev: CA
+longitude: -120.8025664
+latitude: 38.7281519
+city_longitude: -120.798546
+city_latitude: 38.7296252
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1855/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

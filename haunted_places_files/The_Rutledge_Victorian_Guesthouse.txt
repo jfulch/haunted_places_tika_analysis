@@ -1,0 +1,20 @@
+city: Charleston
+country: United States
+description: A young girl died in a fire many years ago and they rebuilt the house in the 80's. The girl is known to turn lights on and off and people have seen her eyes peering in from a window above the stairs. They say you can occasionally smell smoke from the girl carrying the scent through the house.
+location: The Rutledge Victorian Guesthouse
+state: South Carolina
+state_abbrev: SC
+longitude: -79.9430756
+latitude: 32.7826
+city_longitude: -79.93105120000001
+city_latitude: 32.7764749
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1825/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

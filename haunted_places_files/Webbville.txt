@@ -1,0 +1,21 @@
+city: Lawrence
+country: United States
+description: Diamond Ridge - Irish Creek - For years many of the local people have reported a noise in the woods. If you walk down a particular stretch of the road you can hear something walking with you. A very religious lady, not from the area, said it is the devil himself. She says he walks the ridge. This area has a unusual amount of murders and suicides reported in and near it.
+location: Webbville
+state: Kentucky
+state_abbrev: KY
+longitude: -82.871276
+latitude: 38.1795289
+city_longitude: -82.7778579
+city_latitude: 38.05267500000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1802/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

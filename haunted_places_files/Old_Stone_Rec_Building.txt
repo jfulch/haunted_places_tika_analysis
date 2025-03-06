@@ -1,0 +1,21 @@
+city: Keller
+country: United States
+description: Footsteps have said to been heard by the nightshift janitors. Also, sounds of splashing water are around but the pool is empty...
+location: Old Stone Rec Building
+state: Texas
+state_abbrev: TX
+longitude: -97.227137
+latitude: 32.9296991
+city_longitude: -97.229298
+city_latitude: 32.9341893
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

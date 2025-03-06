@@ -1,0 +1,21 @@
+city: Georgetown
+country: United States
+description: Woman who lost her lover committed suicide in the miner days and jumped from the upstairs balcony. She is still reported to be seen in the upstairs rooms.
+location: Georgetown Hotel
+state: California
+state_abbrev: CA
+longitude: -120.8390114
+latitude: 38.9058837
+city_longitude: -120.8385462
+city_latitude: 38.9068445
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

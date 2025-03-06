@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: It was reported once that a security guard at one of the gates to Barber's Point once saw a yellow Volkswagen parked off to the side of the road. He went to check out the car and found a young woman sleeping in the car. He tried to wake her but she wouldn't respond. He called in the license plate number and found out that the woman had died several years ago in that car near there. He was told that her ghost appears to greet new security guards.
+location: Barber's Point
+state: Hawaii
+state_abbrev: HI
+longitude: -158.0812864
+latitude: 21.3209005
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

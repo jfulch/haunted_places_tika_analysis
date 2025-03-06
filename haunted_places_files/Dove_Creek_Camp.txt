@@ -1,0 +1,21 @@
+city: Brigham City
+country: United States
+description: This abandoned labor camp was once used for Chinese immigrant workers that were used for laying the first transcontinental railroad tracks. It is haunted by the sounds and voices of the Chinese workers who lived and died there, ghostly lights have also been reported.
+location: Dove Creek Camp
+state: Utah
+state_abbrev: UT
+longitude: -112.040831
+latitude: 41.445146
+city_longitude: -112.0155015
+city_latitude: 41.5102129
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1845/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

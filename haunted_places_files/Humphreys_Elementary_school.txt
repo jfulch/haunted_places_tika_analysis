@@ -1,0 +1,21 @@
+city: East Los Angeles
+country: United States
+description: in the lunch are restrooms in the second floor when you are in the restroom alone you can hear the toilet in the left corner flush by itself the when you look at the toilet to see blood coming out of the toilet an then the lights go off and on, and then you look again and there's nothing there - like if it never happen.
+location: Humphreys Elementary school
+state: California
+state_abbrev: CA
+longitude: -118.1707962
+latitude: 34.0289081
+city_longitude: -118.1669736
+city_latitude: 34.0224417
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

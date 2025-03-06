@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: The place in the school that is haunted is the boys restroom on the second floor by a boy named Johnny. The story is that he was a bad kid that loved to pick on students until one day he asked to go to the bathroom and when he didn't come back they sent someone up there to look. He wasn't there. It is said that if you are alone in the hall you can hear a knocking on the bathroom door. The teachers keep the bathroom door locked. and no one is allowed to go in.
+location: Martin Luther King Middle School
+state: California
+state_abbrev: CA
+longitude: -122.4058424
+latitude: 37.7277189
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

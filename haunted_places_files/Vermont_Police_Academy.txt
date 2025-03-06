@@ -1,0 +1,21 @@
+city: Pittsford
+country: United States
+description: Years ago, the Vermont Police Academy was a state hospital for Tuberculosis patients.  The academy, to this day, is haunted by a nurse who worked at the hospital and while there, contracted the disease herself.  All of the old call buttons are still in the recruits' rooms, and it is said that if pushed, the friendly ghost of the nurse, Mary, will pay a visit during the night.
+location: Vermont Police Academy
+state: Vermont
+state_abbrev: VT
+longitude: -73.0176242
+latitude: 43.7143998
+city_longitude: -73.02816469999999
+city_latitude: 43.7067329
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

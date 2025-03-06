@@ -1,0 +1,20 @@
+city: Minneapolis
+country: United States
+description: You can hear knocking on doors at 3am, and no body is there, televisions, water faucets turn on by themselves, cold spots and a host of other things. You can feel it the minute you walk in the door! Weird things happened in all the rooms with a 6; like 116, 216.
+location: Ascension Place
+state: Minnesota
+state_abbrev: MN
+longitude: -93.29141
+latitude: 44.997724
+city_longitude: -93.2650108
+city_latitude: 44.977753
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

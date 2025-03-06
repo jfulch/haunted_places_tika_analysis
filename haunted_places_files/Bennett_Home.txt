@@ -1,0 +1,19 @@
+city: Glendora
+country: United States
+description: It belongs to the Daughters of the American Revolution and after having purchased the residence in 1982 at their first monthly tea, they all reported having seen the apparition of a lady whom was a former resident, in the early 1910s'.
+location: Bennett Home
+state: California
+state_abbrev: CA
+city_longitude: -117.865339
+city_latitude: 34.1361187
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

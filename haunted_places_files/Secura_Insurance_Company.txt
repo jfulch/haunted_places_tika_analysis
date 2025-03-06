@@ -1,0 +1,21 @@
+city: Appleton
+country: United States
+description: about 150 years ago or longer, before the Secura Building was on their current land there was a pond and in the pond they were installing narrow pipes to filter the water. Well stories say that a little girl who was with her parents on a picnic fell into the pond got stuck in one of the pipes and drowned. People say that to this very day on certain nights if you walk by the pond where the little girl drowned you can hear her cries and her parent’s frantic screams.
+location: Secura Insurance Company
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.42202809999999
+latitude: 44.23832489999999
+city_longitude: -88.41538469999999
+city_latitude: 44.2619309
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

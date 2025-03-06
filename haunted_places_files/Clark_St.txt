@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: a tall dark figure of a man walking down the street. (the street is a dead end)The man stops at the end and turns to Look @ whom ever is looking back--and he proceeds to point then turn back and disappear.
+location: Clark St.
+state: Michigan
+state_abbrev: MI
+longitude: -83.3909523
+latitude: 42.28376799999999
+city_longitude: -83.3863214
+city_latitude: 42.2814269
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

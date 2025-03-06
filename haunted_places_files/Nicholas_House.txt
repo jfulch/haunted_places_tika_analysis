@@ -1,0 +1,19 @@
+city: Fairhaven
+country: United States
+description: formerly listed as Fairhaven Nursing Home - It is said that a women who was staying in this nurisng home one day ran out of the buildng and got struck by a car and died. She loved classical music but the nursing home usually played rock. When you pass by this nursing home in your car have ( which is still in use today) have the rock station 102.9 on and it will automatically change to a classical station when you are in fromt of the building and when you pass it it changes back to rock music.
+location: Nicholas House
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -70.90364869999999
+city_latitude: 41.6376043
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1956/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Wooster
+country: United States
+description: Freedlander Theatre - People dressed in clothes from the early 20th century have been seen sitting in several rows of the theatre seemingly waiting for a show begin. They could not be heard, but looked as if they were laughing and talking.
+location: College of Wooster
+state: Ohio
+state_abbrev: OH
+longitude: -81.9336187
+latitude: 40.8110501
+city_longitude: -81.935143
+city_latitude: 40.8050565
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1866/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

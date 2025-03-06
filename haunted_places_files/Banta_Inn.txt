@@ -1,0 +1,21 @@
+city: Tracy
+country: United States
+description: this is a very old restaurant and bar where the workers claim at night after closing time the money in the cash register is found neatly stacked one night an ash tray was hurled through the air almost hitting a worker who was alone in there cleaning up and some say they have heard a woman's laughter. This is all after closing time and the place is clear of people other then the person cleaning up.
+location: Banta Inn
+state: California
+state_abbrev: CA
+longitude: -121.372701
+latitude: 37.7535582
+city_longitude: -121.4252227
+city_latitude: 37.7396513
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 0

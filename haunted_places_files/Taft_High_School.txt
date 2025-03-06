@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: In the Taft High School Auditorium there was a guy name Jimmy who use to work in the catwalk in the auditorium .One day he fell out of the catwalk his body hit these two chairs that are now missing today. People say that when your locked in the auditorium and it is easy to get locked in the auditorium.
+location: Taft High School
+state: Texas
+state_abbrev: TX
+longitude: -98.721713
+latitude: 29.4976355
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.516666666666667
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Wilmington
+country: United States
+description: An apparition of a blond blue-eyed man has been seen by maintenance staff and visitors. The ghost was a victim of cholera or yellow fever and was a patient there during the Civil War. The young man appears to be confused and wanders aimlessly before vanishing.
+location: Drum Barracks
+state: California
+state_abbrev: CA
+longitude: -118.25757
+latitude: 33.784471
+city_longitude: -118.2643567
+city_latitude: 33.7857948
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

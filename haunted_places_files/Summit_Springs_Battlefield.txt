@@ -1,0 +1,18 @@
+city: South of Sterling
+country: United States
+description: Battle between US Calvary and Cheyenne dog soldiers. The Cheyenne had abducted a frontier woman in Wyoming. with the Calvary not far behind ,they finally met at Summit Springs. The woman was killed and her grave overlooks the battlefield, many Calvary and Warriors died here. The Dog Soldier leader killing his own prized war pony, by cutting the horses throat in full view of the Calvary, so as not to let it fall into their hands. It is a very remote location, with whispers in the grass, hoof beats at night, and a visible mist that moves across the prairie and returns back to where it came from, the marker of the frontier woman's grave.
+location: Summit Springs Battlefield
+state: Colorado
+state_abbrev: CO
+city_longitude: -103.207709
+city_latitude: 40.6255415
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

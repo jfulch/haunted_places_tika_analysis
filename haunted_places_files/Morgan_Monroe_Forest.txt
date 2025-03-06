@@ -1,0 +1,21 @@
+city: Martinsville
+country: United States
+description: Stepp Cemetery - A lady appears sitting upon a tree stump at the east end of the cemetery. Sometimes you can hear her humming. When she was alive she had a baby who died. After her death she still sits and hums to her baby. This story can be found in the local libraries. Many people can be seen at night in the cemetery waiting for her appearance.
+location: Morgan Monroe Forest
+state: Indiana
+state_abbrev: IN
+longitude: -86.4248085
+latitude: 39.346339
+city_longitude: -86.4283279
+city_latitude: 39.42782529999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2017/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

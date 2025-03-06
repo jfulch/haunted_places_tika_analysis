@@ -1,0 +1,19 @@
+city: Fort Lewis
+country: United States
+description: A former housekeeper reports, doors slamming & cleaning carts moving on their own.
+location: North Fort Old Barracks
+state: Washington
+state_abbrev: WA
+city_longitude: -122.4857321
+city_latitude: 47.1342432
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 16m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

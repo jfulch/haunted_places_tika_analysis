@@ -1,0 +1,21 @@
+city: Bayou La Batre
+country: United States
+description: Late at night while everyone is quiet and still, a ghostly figure can be seen leaving the cell in the middle of the jail. Also, you can hear the toilet flushing, even though no one is ever in that cell. The legend has it that the cell served as a "drunk tank" and the cops hung a man there in the early 1980s.
+location: Bayou La Batre Jail
+state: Alabama
+state_abbrev: AL
+longitude: -88.247001
+latitude: 30.39353
+city_longitude: -88.26071879999999
+city_latitude: 30.4069515
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

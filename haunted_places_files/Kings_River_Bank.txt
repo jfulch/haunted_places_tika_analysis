@@ -1,0 +1,21 @@
+city: Hanford
+country: United States
+description: A ghost has been seen by the workers.
+location: Kings River Bank
+state: California
+state_abbrev: CA
+longitude: -119.639839
+latitude: 36.370953
+city_longitude: -119.6456844
+city_latitude: 36.3274502
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

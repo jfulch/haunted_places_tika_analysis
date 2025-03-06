@@ -1,0 +1,21 @@
+city: Corsicana
+country: United States
+description: The building is now torn down, but it is said that the area is extremely haunted because of the many lives that were lost there. You can still here voices and other hospital noises if you sit, close your eyes, and listen for a while.
+location: the old Navarro Regional Hospital
+state: Texas
+state_abbrev: TX
+longitude: -96.503762
+latitude: 32.085086
+city_longitude: -96.4688727
+city_latitude: 32.0954304
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

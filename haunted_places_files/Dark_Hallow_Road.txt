@@ -1,0 +1,21 @@
+city: Bucks County
+country: United States
+description: The remains of a physically abusive school teacher were found in the school house a hundred years after his death. The entire road is haunted. Mysterious lights have been reported flickering and moving around.
+location: Dark Hallow Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.052739
+latitude: 40.2635705
+city_longitude: -75.2479061
+city_latitude: 40.4107964
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

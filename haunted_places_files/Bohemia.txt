@@ -1,0 +1,21 @@
+city: Long Island
+country: United States
+description: Haunted by a young female named Maria who was strangled to death in the back bedroom when the inn was a speakeasy over 60 years ago. Bare footprints appear on the carpeting even in wintertime, shadowy figures in the kitchen, and unidentified bones appear in the basement. The inn has been investigated many times by mediums and psychics and is currently under investigation by Candice Isralow of Mt. Sinai. Current owner has been there for over 20 years.
+location: Bohemia
+state: New York
+state_abbrev: NY
+longitude: -73.1151117
+latitude: 40.7692649
+city_longitude: -73.13496099999999
+city_latitude: 40.789142
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

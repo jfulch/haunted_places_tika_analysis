@@ -1,0 +1,21 @@
+city: Des Moines
+country: United States
+description: The Farmer -  Construction began in 1932 over family farmland on the south side of the city that was owned by a family (buried in a small, private cemetary on SW 31st St) who lost their land against their will. Since the basement was constructed, shadows and the image of a malicious looking middle aged man in farm attire. have been witnessed by various individuals. Moans, foot steps and stomping, shadows, images and cold spots are his style.
+location: Des Moines International Airport
+state: Iowa
+state_abbrev: IA
+longitude: -93.6587958
+latitude: 41.5341333
+city_longitude: -93.6091064
+city_latitude: 41.6005448
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1932/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

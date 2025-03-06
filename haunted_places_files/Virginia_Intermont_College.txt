@@ -1,0 +1,21 @@
+city: Bristol
+country: United States
+description: Every time the room has been remodeled, it has suffered an electrical fire and a ghostly presences felt
+location: Virginia Intermont College
+state: Virginia
+state_abbrev: VA
+longitude: -82.17633380000001
+latitude: 36.6048746
+city_longitude: -82.1888089
+city_latitude: 36.595141
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Boulder
+country: United States
+description: The College Inn is a building circa 1970, which is currently used as a conference center/hotel, though in recent years it has also served as a dormitory. Haunted by at least one entity of unknown origin. The building director of eight years knows of no death in the building during his time here. The activity centers on the third floor, particularly the south side of the building. Phenomena range from rummaging sounds coming from bathrooms, elevator doors opening and closing when people walk by, smoke-like apparitions, reddish stains appearing on walls and voices that have been heard by nearly every staff member. There is a globe style lamp in the hallway that leads to the bathroom in every unit of the hotel. One night in July of 1999 every single one fell to the floor while the hotel was between conferences and vacant, it took two days to put them back up.
+location: College Inn
+state: Colorado
+state_abbrev: CO
+longitude: -105.27186
+latitude: 40.0128877
+city_longitude: -105.2705456
+city_latitude: 40.0149856
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1970/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

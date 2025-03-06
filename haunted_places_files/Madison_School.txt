@@ -1,0 +1,21 @@
+city: Quincy
+country: United States
+description: In the early 1900's, a house stood in the place where the school is today. A woman, living alone was murdered, and the killers were never found. It is told that she was dragged down the large staircase, then stabbed until her screams stopped. They then hid her body in the closet at the base of the stairs. The bloodstains were never able to be removed completely.
+location: Madison School
+state: Illinois
+state_abbrev: IL
+longitude: -91.3761663
+latitude: 39.9322149
+city_longitude: -91.4098726
+city_latitude: 39.9356016
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

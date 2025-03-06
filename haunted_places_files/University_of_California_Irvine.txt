@@ -1,0 +1,21 @@
+city: Irvine
+country: United States
+description: Campus Dr. - when driving alone at night your car will stall and a woman will stand at your window. she asks you for help to find her daughter but for some odd reason, her mouth doesn't move, you just hear her subconsciously. you cant refuse because well, she ends up in the passenger seat anyway. the story behind it is that a woman was looking for her child after being kidnapped and she found out that her daughter was raped and killed. she was in denial about it so she kept looking for her. she was walking along campus dr. and went down to the ditch and never came back up.
+location: University of California Irvine
+state: California
+state_abbrev: CA
+longitude: -117.8442962
+latitude: 33.6404952
+city_longitude: -117.8265049
+city_latitude: 33.6845673
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1947/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

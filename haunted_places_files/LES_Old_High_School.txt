@@ -1,0 +1,21 @@
+city: Lansingburgh
+country: United States
+description: It is said that in the early 1900's a teacher went crazy and killed many students with an ax in room 243. People have reported that at night you can see him walking around and waving an ax, and that if you listen closely, you can hear the kids running and screaming.
+location: L.E.S (Old High School)
+state: New York
+state_abbrev: NY
+longitude: -73.6742792
+latitude: 42.7631614
+city_longitude: -73.66956239999999
+city_latitude: 42.7845222
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Ogallala
+country: United States
+description: Boot hill is a cemetery for old cowboys. Many people have seen the ghost of pioneers, and cowboys roaming around the grave stones at night.
+location: Boot Hill
+state: Nebraska
+state_abbrev: NE
+longitude: -101.7257041
+latitude: 41.1323187
+city_longitude: -101.7203993
+city_latitude: 41.12821780000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

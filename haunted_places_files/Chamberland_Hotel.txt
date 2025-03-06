@@ -1,0 +1,21 @@
+city: Hampton
+country: United States
+description: This hotel is on Fort Monroe. Apparently, when the original hotel burnt down, a young teenage girl went with it by accident. She was looking for her father (who evacuated already). Employees on the seventh floor on where she died claim that they can still hear her banging on the walls, or catch her looking out the window.
+location: Chamberland Hotel
+state: Virginia
+state_abbrev: VA
+longitude: -76.313107
+latitude: 37.001097
+city_longitude: -76.34522179999999
+city_latitude: 37.0298687
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 0

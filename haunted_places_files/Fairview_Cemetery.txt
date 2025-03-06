@@ -1,0 +1,21 @@
+city: Council Bluffs
+country: United States
+description: This cemetery is home of the "Black Angel." Dodge's wife died and in her remembrance they made a statue of the angel that she dreamt of before she died and put it in the front of the cemetery. The statue is known as The Black Angel. Her eyes follow you no matter what direction you go. Whoever is "blessed" by her is on the sickly side from then on. Small lights have been seen in the trees behind the older grave sites. Feelings of someone walking on the heels of visitors.
+location: Fairview Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -95.8495613
+latitude: 41.26944
+city_longitude: -95.8608333
+city_latitude: 41.2619444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

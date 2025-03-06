@@ -1,0 +1,21 @@
+city: Owensboro
+country: United States
+description: In 1809 this theater was a Baptist church. A young priest lived there with his family. His daughter was dating a young man who her father disapproved of. Late one night the daughter came to her father with dreadful news. She told her father she was pregnant. He was so disappointed in her, he told her he never wanted to see her again and sent her away. So the story goes that night she was out of her mind, she ran up to the bell tower and hung herself. Her father was so sad he to killed himself in the basement. With what nobody knows. To this day lights are said to go on and off constantly, the bell rings when there isn't a bell anymore, coldness out of nowhere surrounds you, and if your not careful while standing in front of the basement you just might get pushes as many have before.
+location: The Old Theater Workshop
+state: Kentucky
+state_abbrev: KY
+longitude: -87.114639
+latitude: 37.771655
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1809/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

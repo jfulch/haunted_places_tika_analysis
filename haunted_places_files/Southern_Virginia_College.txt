@@ -1,0 +1,21 @@
+city: Buena Vista
+country: United States
+description: The Tower Room - it has a closet door in the room that when you open it it's like another room! It's a huge closet. Strange noises have been heard from this locked room.
+location: Southern Virginia College
+state: Virginia
+state_abbrev: VA
+longitude: -79.345959
+latitude: 37.7415843
+city_longitude: -79.35392379999999
+city_latitude: 37.7343004
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

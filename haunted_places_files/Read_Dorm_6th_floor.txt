@@ -1,0 +1,21 @@
+city: Bloomington
+country: United States
+description: Many years ago a young woman named Paula, (an R.A) was believed to have been over stressed and worked, so she flung herself down the stairs head first killing herself on impact. Late at night on December 12th, you can still hear her scream as she plunged to her death.
+location: Read Dorm, 6th floor
+state: Indiana
+state_abbrev: IN
+longitude: -86.51489219999999
+latitude: 39.1660559
+city_longitude: -86.52638569999999
+city_latitude: 39.165325
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

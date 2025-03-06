@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: When inside the gates you get the feeling you are being watched. you hear things move and nothing is there. The grim reaper has been seen there. in the seventies there were three girls savagely cult murdered there.
+location: Henderson
+state: Indiana
+state_abbrev: IN
+longitude: -86.1971105
+latitude: 38.60725619999999
+city_longitude: -86.101089
+city_latitude: 38.6056131
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

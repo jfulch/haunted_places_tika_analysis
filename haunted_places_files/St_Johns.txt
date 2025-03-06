@@ -1,0 +1,21 @@
+city: Clinton County
+country: United States
+description: R.B.W. (Rodney B. Wilson) - People have said to hear a noise from the hall ways like a drum beating after closing hours when only the janitors are there.
+location: St. Johns
+state: Michigan
+state_abbrev: MI
+longitude: -84.55915209999999
+latitude: 43.001143
+city_longitude: -84.5222189
+city_latitude: 42.9663458
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1817/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

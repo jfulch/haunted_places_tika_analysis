@@ -1,0 +1,20 @@
+city: Brooklyn Center
+country: United States
+description: Man fell while the theatre was being bilt from the roof near theatre 10. Managers and workers have said they heard foot steeps and loud noises up stairs where they play the movies. When they have these experences they are compleatly alone.
+location: Regal Cinemas
+state: Minnesota
+state_abbrev: MN
+longitude: -93.288577
+latitude: 45.071912
+city_longitude: -93.3327283
+city_latitude: 45.076076
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

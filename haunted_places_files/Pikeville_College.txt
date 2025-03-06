@@ -1,0 +1,21 @@
+city: Pikeville
+country: United States
+description: Wickham hall - has been haunted for many years now. People have been reported saying that in the early hours of the morning that there is a young child that roams the third floor halls of Wickham. Many say that the child can be seen jumping off of the stairs of the third floor. Other times people have seen the child in the corners of the hall crying for its parents.
+location: Pikeville College
+state: Kentucky
+state_abbrev: KY
+longitude: -82.5209983
+latitude: 37.4791788
+city_longitude: -82.5187629
+city_latitude: 37.4792672
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

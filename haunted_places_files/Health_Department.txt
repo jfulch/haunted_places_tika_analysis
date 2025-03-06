@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: There are apparitions of people, figures more than actually people, who walk around once the offices close. Lights flicker on and off, and the janitors often walk into cold spots, left with eerie feelings and find that their cleaning supplies move without anyone being around.
+location: Health Department
+state: Texas
+state_abbrev: TX
+longitude: -99.4905224
+latitude: 27.5200679
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

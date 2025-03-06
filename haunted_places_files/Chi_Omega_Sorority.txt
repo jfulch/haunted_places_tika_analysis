@@ -1,0 +1,19 @@
+city: Kingston
+country: United States
+description: A woman has appeared standing near the fire escape at the end of the third floor. Doors and windows have been known to open and close on the third floor. And the house father heard his name being called when no-one was home. The resident spirit is unknown.
+location: Chi Omega Sorority
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.53373660000001
+latitude: 41.4831918
+city_longitude: -71.52255980000001
+city_latitude: 41.48037910000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

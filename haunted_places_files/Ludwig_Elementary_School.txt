@@ -1,0 +1,21 @@
+city: Lockport
+country: United States
+description: In the boys locker room next to the gymnasium, students have seen showers turning on by themselves. Also some people have heard screams and have seen ghosts of what appears to be mice. People actually have seen these things, but it's rumored to be a tall tale that the older students tell the new students.
+location: Ludwig Elementary School
+state: Illinois
+state_abbrev: IL
+longitude: -88.0479995
+latitude: 41.6048611
+city_longitude: -88.05783699999999
+city_latitude: 41.5894752
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

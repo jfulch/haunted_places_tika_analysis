@@ -1,0 +1,21 @@
+city: Montague
+country: United States
+description: The oldest Cemetery in the area. Orbs and other figures have turned out in pictures.
+location: Mouth Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -86.4232388
+latitude: 43.3848517
+city_longitude: -86.357013
+city_latitude: 43.4166772
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

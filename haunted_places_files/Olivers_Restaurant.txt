@@ -1,0 +1,21 @@
+city: Gallatin
+country: United States
+description: January 2007 Update – formerly listed on this site as "Loco Lupes" - It was built in the 1800's and before it was a restaurant in was the Sumner County Jail. If your in the restaurant late at night. Upstairs you can hear voices, knocking on walls, and slamming door's also you can hear someone walking on the stair's. If your downstairs you can hear the toilets flush and the water faucet will turn off and on.
+location: Oliver’s Restaurant
+state: Tennessee
+state_abbrev: TN
+longitude: -86.4475739
+latitude: 36.3892147
+city_longitude: -86.4466599
+city_latitude: 36.3883809
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

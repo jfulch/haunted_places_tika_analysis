@@ -1,0 +1,21 @@
+city: Pawnee
+country: United States
+description: On the night that Pawnee Bill died, his shadow appeared in a painting located in the stairway. If you walk by the water tower, you will feel a cold chill. His son hanged himself there.
+location: Pawnee Bill's Ranch
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.8160751
+latitude: 36.3330586
+city_longitude: -96.8039232
+city_latitude: 36.3378321
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 0

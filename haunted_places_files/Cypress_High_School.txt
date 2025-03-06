@@ -1,0 +1,21 @@
+city: Cypress
+country: United States
+description: Performing Arts Building - In the Performing Arts building in the attic use to be where they stored the play outfits. It was said that a high school student was up there getting something and fell through the floor boards to her death.(which was not a very big fall). Whenever you went up there you could feel that someone is watching you. There was also a prop that was use in most of out plays and whenever you looked into it you could see her. She would look at you like she was mad. Because of what was going on up there they had to move everything down to another room and sealed off the attic so no one else can go up there. There was a time that someone was pushed and almost fell down the ladder (which was used to get up to the attic) and cause of this no one likes to be left alone in the Performing arts building.
+location: Cypress High School
+state: California
+state_abbrev: CA
+longitude: -118.0289283
+latitude: 33.820078
+city_longitude: -118.0368507
+city_latitude: 33.8169366
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

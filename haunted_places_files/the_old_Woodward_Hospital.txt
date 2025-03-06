@@ -1,0 +1,21 @@
+city: Woodward
+country: United States
+description: Apparitions, Sightings, &voices.
+location: the old Woodward Hospital
+state: Oklahoma
+state_abbrev: OK
+longitude: -99.4000292
+latitude: 36.4377816
+city_longitude: -99.3903862
+city_latitude: 36.4336481
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

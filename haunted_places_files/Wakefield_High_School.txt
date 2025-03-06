@@ -1,0 +1,21 @@
+city: Arlington
+country: United States
+description: theatre- Haunting in this location will occur if you sit in the balcony seats alone.  If no one else is in the theatre, you may hear the sound of someone playing the piano, even if the piano is in sight and no one can be seen near it.  You may also see twin spotlights shining on the stage.  If you continue to watch them, they will swing out and begin to scan the theatre, pointing in directions that wouldn't be possible from the lighting booth, and, eventually, resting on your location in the balcony. There have also been reports of the figure of a young man walking back and forth along the catwalk over the stage.  If you go up to the catwalk, you will find no one there.  It is rumored that a member of the theatre crew died during a performance by falling from the catwalk sometime during the early sixties.
+location: Wakefield High School
+state: Virginia
+state_abbrev: VA
+longitude: -77.1117173
+latitude: 38.8477401
+city_longitude: -77.09098089999999
+city_latitude: 38.8816208
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

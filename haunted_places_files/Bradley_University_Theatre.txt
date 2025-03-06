@@ -1,0 +1,21 @@
+city: Peoria
+country: United States
+description: An apparition of a man in a brown suit has been seen, companied with the smell of cigar smoke and cologne.
+location: Bradley University Theatre
+state: Illinois
+state_abbrev: IL
+longitude: -89.6153484
+latitude: 40.6977743
+city_longitude: -89.5889864
+city_latitude: 40.6936488
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

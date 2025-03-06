@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: in the playground the "rings" they move while no one is on them and they're too heavy to be moved by the wind. It is said that a kid in 3rd grade died because he fell off and broke his head. Also in the cafeteria the trays move without anyone touching them. The benches move with a full load of kids. They say that a girl fell from the stairs and a boy was killed there by getting into a fight and the other kid had a weapon. These were from the years 1973-1984.
+location: McKinley Elementary School
+state: New York
+state_abbrev: NY
+longitude: -118.1594449
+latitude: 33.8788222
+city_longitude: -73.65790799999999
+city_latitude: 40.5884373
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Ellicott City
+country: United States
+description: Lilburn - It has been called the most haunted location in Maryland. Instant creepy feelings even when just looking at the place.
+location: Hazelhurst
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.7983067
+city_latitude: 39.2673283
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.45
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

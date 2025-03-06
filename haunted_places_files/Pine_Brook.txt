@@ -1,0 +1,21 @@
+city: Montville
+country: United States
+description: Hilltop Care Center - It is an old abandoned nursing home that had to be evacuated immediately for some reason unknown. All of the patient's files, clothes, pictures, card, and all of their belongings are still left in their old rooms. When you walk in and out of these rooms, your flashlights will flicker on and off. There is only one door in the whole place that cannot be opened. There is a room that is known to be haunted and when to door was opened, it stopped and then' started to vibrate rapidly. Now there is a NO TRESPASSING -  December 2006 Update/Correction: Formerly listed in Parsippany, Was burned down several months ago.
+location: Pine Brook
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.3440842
+latitude: 40.8674879
+city_longitude: -74.383763
+city_latitude: 40.9148209
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

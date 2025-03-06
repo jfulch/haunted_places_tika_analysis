@@ -1,0 +1,21 @@
+city: Melbourne
+country: United States
+description: was once Doc Sloan's House. Doc Sloan was a bootlegger during prohibition and the rich guy in town. He built a fancy Mediterranean style house on what was then the edge of town. His three year old daughter caught herself on fire and died on the second floor of the structure. Since that time people have heard a child screaming, sometimes a child crying and many times things move about with no explanation. - November 2003 Update: This Structure has been torn down and has become a cvs/pharmacy
+location: Miquels Mexican Restaurant
+state: Florida
+state_abbrev: FL
+longitude: -82.4930388
+latitude: 27.9449486
+city_longitude: -80.60810889999999
+city_latitude: 28.0836269
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1898/11/29
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

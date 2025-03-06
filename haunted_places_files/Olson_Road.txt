@@ -1,0 +1,21 @@
+city: Rochester
+country: United States
+description: There is an old slaughterhouse on Olson Road between Old and New 31. It is off of the river. If you drive by, sometimes you can see it and sometimes you can't. It's huge when you do see it, so you know that when it's gone...it's really gone! If you get out of your car and try to walk to it, you can't get to it.
+location: Olson Road
+state: Indiana
+state_abbrev: IN
+longitude: -86.37603059999999
+latitude: 41.1172375
+city_longitude: -86.2158331
+city_latitude: 41.0647645
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

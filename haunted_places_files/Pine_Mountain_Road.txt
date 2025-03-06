@@ -1,0 +1,21 @@
+city: Kingsford
+country: United States
+description: U.P. Investigators has, after doing several investigations of the area,as well as checking city and county records, determined that this one is a hoax. Also, it should be noted that the area in question is located in Iron Mountain, Mi., which is right next to Kingsford. Another thing one should make note of is that these are two relatively small communities, and it is curious that
+location: Pine Mountain Road
+state: Michigan
+state_abbrev: MI
+longitude: -88.0917838
+latitude: 45.8463043
+city_longitude: -88.0720706
+city_latitude: 45.7949561
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

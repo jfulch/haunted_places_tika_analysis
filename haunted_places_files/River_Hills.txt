@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: Milwaukee Country Club - Spirit pats people on the shoulder at times yet is no where to be seen.
+location: River Hills
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.9242537
+latitude: 43.1741758
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1929/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

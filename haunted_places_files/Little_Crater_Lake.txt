@@ -1,0 +1,21 @@
+city: Mount Hood National Forest
+country: United States
+description: Lots of people camp at Little Crater Lake Campground. Some have reported hearing crying at night and white cat that disappears every time you go close to it. People hiking by the lake have seen 3 teenagers swimming, yet no living people could handle water that cold. They say that there is one girl and two boys that reach there hands out of the water as if asking you to save them.
+location: Little Crater Lake
+state: Oregon
+state_abbrev: OR
+longitude: -121.7508622
+latitude: 45.148255
+city_longitude: -121.7094038
+city_latitude: 45.332175
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

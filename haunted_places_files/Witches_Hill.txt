@@ -1,0 +1,20 @@
+city: Olmsted Falls
+country: United States
+description: There is a cemetery in Olmsted Falls that is said to be haunted every Halloween by people who were accused of being witches and put to death. supposedly they come out after dark.
+location: Witches' Hill
+state: Ohio
+state_abbrev: OH
+longitude: -81.8960341
+latitude: 41.3767921
+city_longitude: -81.9081937
+city_latitude: 41.375049
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

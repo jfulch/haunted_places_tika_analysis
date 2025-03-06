@@ -1,0 +1,21 @@
+city: Farmington
+country: United States
+description: This bridge was one of many that was built during the Braddock Expedition to take Ft. Duquesne in 1755.It is said that the ghost of one of General Braddock's Grenadiers will accompany anyone traveling over the bridge until they are safely across.
+location: Braddock's Run Bridge
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.60002589999999
+latitude: 39.8315597
+city_longitude: -79.5655972
+city_latitude: 39.8072982
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1755/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

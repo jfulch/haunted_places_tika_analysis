@@ -1,0 +1,21 @@
+city: Hay Springs
+country: United States
+description: a presence of a male has been felt.
+location: Hay Springs High School
+state: Nebraska
+state_abbrev: NE
+longitude: -102.6881092
+latitude: 42.6874935
+city_longitude: -102.6899007
+city_latitude: 42.6838618
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

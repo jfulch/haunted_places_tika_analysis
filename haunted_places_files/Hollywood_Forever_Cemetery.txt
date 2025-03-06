@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: This cemetery is mainly used to bury old stars of the silver screen. One such star, Valentino, is visited by a "lady in black." She has been reported to take Valentino, the heartthrob actor of the silent 20's era, exactly 2 long-stemmed red roses. She is never disturbed and walks into the mausoleum at night, every night. This is one ghost that can be counted upon to be seen.
+location: Hollywood Forever Cemetery
+state: California
+state_abbrev: CA
+longitude: -118.3205651
+latitude: 34.0904405
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

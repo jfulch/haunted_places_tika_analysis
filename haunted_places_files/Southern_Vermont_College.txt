@@ -1,0 +1,21 @@
+city: Bennington
+country: United States
+description: The old carriage house  is now one of the computer labs. Doors lock and computers shut off by themselves. It is said that you can see a man in period dress roaming around the main building.
+location: Southern Vermont College
+state: Vermont
+state_abbrev: VT
+longitude: -73.21852860000001
+latitude: 42.8677544
+city_longitude: -73.1967741
+city_latitude: 42.8781345
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

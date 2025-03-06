@@ -1,0 +1,20 @@
+city: Bolivar
+country: United States
+description: Go south of Bolivar on 13Hwy turn right onto highway when you get to the tower with blinking lights you'll be at the cemetery. It's a pretty new cemetery cut into a hill but it's haunted by a black figure.
+location: Catholic Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -93.4162958
+latitude: 37.61874
+city_longitude: -93.4104749
+city_latitude: 37.6144838
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1783/07/24
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Rockland
+country: United States
+description: House built in 1873 by Joshua Stetson Gray, former town treasurer. Numerous sightings of prior occupants frequent the house and voices can be heard. Josh Grey there was said to have been murderer of a young infant and the death of the builder. Sights of a mysterious guy have been spotted. Light sometimes turn off and on. Reports of beds bouncing up and down by themselves, and strange things happening in the babies bedroom.
+location: House Built by Former Town Treasurer
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9156921
+latitude: 42.1287298
+city_longitude: -70.9161551
+city_latitude: 42.1306563
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1873/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

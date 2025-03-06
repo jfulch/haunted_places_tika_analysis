@@ -1,0 +1,21 @@
+city: Tampa
+country: United States
+description: Built in 1950. A witness reports seeing a woman who was 6 feet tall walk in the door. She had long dark hair and as she walked in, she was looking down at the floor. The witness turned to look at her, but when they did she vanished.
+location: Fun Lan Drive-in theater
+state: Florida
+state_abbrev: FL
+longitude: -82.4332486
+latitude: 27.997644
+city_longitude: -82.4571776
+city_latitude: 27.950575
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1950/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

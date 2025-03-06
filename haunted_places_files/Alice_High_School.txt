@@ -1,0 +1,21 @@
+city: Alice
+country: United States
+description: little theater - is said to be haunted by a man who died while building the theater. Theater students claim to hear strange noises, some sights of the ghost mainly in the catwalk, and up stairs costume room. And an incident happened where red and yellow feathers fell from nowhere during rehearsals.
+location: Alice High School
+state: Texas
+state_abbrev: TX
+longitude: -98.0511229
+latitude: 27.7550748
+city_longitude: -98.0697249
+city_latitude: 27.7522487
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

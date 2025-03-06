@@ -1,0 +1,21 @@
+city: Billings
+country: United States
+description: People have seen the little girl that died there and the family. Doors open at night and there are very strange sounds.
+location: Moss Mansion
+state: Montana
+state_abbrev: MT
+longitude: -108.516024
+latitude: 45.77965
+city_longitude: -108.5006904
+city_latitude: 45.7832856
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 18m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

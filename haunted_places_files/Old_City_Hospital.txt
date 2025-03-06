@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: Has been closed since the 1985. Reports of people in the non-boarded windows. Reports of screams nearby. Feelings of being watched.WARNING - No Trespassing - The building is being renovated into codos the name will be The Georgian Condominiums.
+location: Old City Hospital
+state: Missouri
+state_abbrev: MO
+longitude: -90.2641782
+latitude: 38.6368763
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

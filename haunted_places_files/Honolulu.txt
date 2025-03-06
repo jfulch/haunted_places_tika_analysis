@@ -1,0 +1,21 @@
+city: O'ahu
+country: United States
+description: Kapolei - Honokahale - Ihilani Resort - It has been heard The 17th floor of the Ihilani Resort is haunted by a ghost who got sick on her vacation while staying there on the 17th floor, she shows up when your asleep, slide doors open & shuts, movement of her floating over you well you are sleeping in any room of the 17th floor.
+location: Honolulu
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8583333
+latitude: 21.3069444
+city_longitude: -158.0000565
+city_latitude: 21.4389123
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

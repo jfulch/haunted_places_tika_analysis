@@ -1,0 +1,21 @@
+city: Combes
+country: United States
+description: a long time ago on Orphanage Rd. there used to be a orphanage with little kids, well it burned down and now if you pass by late at night you can hear the screams and cries of the little kids that died in the fire.
+location: Orphanage Rd.
+state: Texas
+state_abbrev: TX
+longitude: -97.7747132
+latitude: 26.2941904
+city_longitude: -97.7338816
+city_latitude: 26.2486851
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1858/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

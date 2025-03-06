@@ -1,0 +1,18 @@
+city: Elmore
+country: United States
+description: There is a place just outside of Elmore, where a man lost his live after wrecking into a small ravine on his motorcycle. A light will appear behind you and chase you down the road, when you reach the end of the road, you hit the brakes and the light disappears!
+location: "Spook Light"
+state: Ohio
+state_abbrev: OH
+city_longitude: -83.2957584
+city_latitude: 41.4761621
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

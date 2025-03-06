@@ -1,0 +1,19 @@
+city: Simpson
+country: United States
+description: The place is closed and deserted now, but when the factory was opened, one worker killed another worker who was in a wheelchair in the basement of this place. When you are in there at night you can hear things moving around and for some reason there is a wheelchair at the bottom of the stairway to the basement, and it seems to be in a different place every time you look away and turn back.
+location: The Industrial Smokestacks
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -75.4851836
+city_latitude: 41.5917495
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

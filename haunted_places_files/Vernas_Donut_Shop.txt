@@ -1,0 +1,21 @@
+city: Cambridge
+country: United States
+description: Verna's donut shop has a basement which stores supplies for both the shop and the adjacent cake decorating store. Several employees and a few customers have reported seeing shadowy figures crouching behind boxes. The granddaughter of Verna, who recently passed away, refuses to go unescorted to the basement level bathroom.
+location: Verna's Donut Shop
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.12902
+latitude: 42.3959741
+city_longitude: -71.10973349999999
+city_latitude: 42.3736158
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/04/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

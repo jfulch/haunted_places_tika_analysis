@@ -1,0 +1,19 @@
+city: Billings
+country: United States
+description: the ghost of a girl who died here on Christmas Eve haunts this home.
+location: Beverly's House
+state: Montana
+state_abbrev: MT
+city_longitude: -108.5006904
+city_latitude: 45.7832856
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 18m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

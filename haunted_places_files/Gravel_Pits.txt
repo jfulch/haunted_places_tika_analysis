@@ -1,0 +1,21 @@
+city: Disko
+country: United States
+description: In the local gravel pits near the town of Disko a woman clad in purple rags is said to roam the local gravel pits. She has been reported on numerous occasions by local citizens.
+location: Gravel Pits
+state: Indiana
+state_abbrev: IN
+longitude: -85.9468373
+latitude: 41.0075736
+city_longitude: -85.944436
+city_latitude: 41.0022659
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

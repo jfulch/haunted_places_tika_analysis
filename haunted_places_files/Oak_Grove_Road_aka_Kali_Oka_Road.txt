@@ -1,0 +1,19 @@
+city: Saraland
+country: United States
+description: Formerly listed in Mobile, Satsuma - This is less than a mile from the Plantation listed above. The real road the Plantation is on is Oak Grove Road as I have been there many times. The story of Crybaby bridge is a woman killed her young child by drowning it in the creek below. It is said that you can hear the sound of a baby crying late at night.
+location: Oak Grove Road – a.k.a. Kali Oka Road
+state: Alabama
+state_abbrev: AL
+city_longitude: -88.07055559999999
+city_latitude: 30.820742
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

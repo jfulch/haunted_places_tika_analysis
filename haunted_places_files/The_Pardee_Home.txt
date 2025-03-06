@@ -1,0 +1,21 @@
+city: Oakland
+country: United States
+description: located in California's Preservation Park Historic District. This house was home to California's Governor (George Pardee 1903-1907).Pictures showing orb's have been taken, but no naked eye sightings. The rest of the park is also haunted with orb's having been photographed. Pictures coming soon in the gallery courtesy of Tim Dennehy ("Specter" Ghost Hunting Society)
+location: The Pardee Home
+state: California
+state_abbrev: CA
+longitude: -122.2778923
+latitude: 37.8047477
+city_longitude: -122.2711137
+city_latitude: 37.8043637
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

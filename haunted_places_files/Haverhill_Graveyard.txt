@@ -1,0 +1,21 @@
+city: Haverhill
+country: United States
+description: There is a graveyard in Haverhill, MA that houses the grave of Lydia Ayer. She is called "The Woman in White" and supposedly floats around the graveyard and surrounding areas.
+location: Haverhill Graveyard
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0652771
+latitude: 42.7722484
+city_longitude: -71.0772796
+city_latitude: 42.7762015
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: McFarland
+country: United States
+description: Several reports of screams and cries being heard from the old bridge. There have been reports of cars seen hanging off of the bridge and then suddenly vanishing. Also, reports of as an old black car that suddenly appears behind your car as you are driving, quickly pulls up close to you, as if it is going to ram you, and then suddenly disappears.
+location: Dyreson Road
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.2879241
+latitude: 42.9749029
+city_longitude: -89.2898397
+city_latitude: 43.0124984
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

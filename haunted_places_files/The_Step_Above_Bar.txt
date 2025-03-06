@@ -1,0 +1,20 @@
+city: Geneva
+country: United States
+description: This bar is located on the second floor of a restaurant. At nine the restaurant is closed for business but the bar remains open until late at night. Many patrons have seen shadows of people in the restaurant part of the building late at night, when no one should have been down there, even though all entrances to the restaurant are locked after closing.
+location: The Step Above Bar
+state: Ohio
+state_abbrev: OH
+longitude: -80.9289934
+latitude: 41.8635667
+city_longitude: -80.94814889999999
+city_latitude: 41.8050539
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.783333333333331
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Natural Disaster
+witness_count: 1

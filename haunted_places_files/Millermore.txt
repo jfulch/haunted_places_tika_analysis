@@ -1,0 +1,21 @@
+city: Dallas
+country: United States
+description: A two story Greek revival home completed in 1861, is currently the center piece of Old City Park Museum. Over the last 30 years there have been continual stories of a haunting in the house. Many unrelated individuals (museum guests, volunteers, and staff) have sensed the presence of a female spirit in the house. The activity seems to center around the former nursery and master bedroom on the second floor.
+location: Millermore
+state: Texas
+state_abbrev: TX
+longitude: -96.7839614
+latitude: 32.718924
+city_longitude: -96.7969879
+city_latitude: 32.7766642
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1861/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

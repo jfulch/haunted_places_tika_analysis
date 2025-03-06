@@ -1,0 +1,21 @@
+city: Windham
+country: United States
+description: March 2008 – formerly listed as Numero's Mexican Restaurant - Reports of footsteps in the attic, apparitions on the second floor, the lights will turn on and off & silverware jumps off the table inexplicably. - March 2008 Update: Has been renovated. No hauntings have been reported since.
+location: J. Michael's Sports Pub
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.252248
+latitude: 42.819547
+city_longitude: -71.30422899999999
+city_latitude: 42.8006441
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

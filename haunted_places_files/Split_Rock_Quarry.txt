@@ -1,0 +1,21 @@
+city: Syracuse
+country: United States
+description: On July 12, 1918, a munitions plant exploded at Split Rock Quarry, west of Syracuse. It took the lives of 50 men with it. 15 were never identified and buried in a common grave. More than 80 years after the plant blew up, the spirits of the dead still roam the ledges or stand on the ruined rock crusher of the old quarry. They glow in shades of green and yellow, a ghostly after-image of the effects of picric acid, the bitter, and toxic explosive that once stained miners' skin yellow-green. - August 2004 additional information: at split rock quarry in syracuse, new york it is said that there is a vortex by the munitions plant and you disappear for a half an hour and end up on the bottom of a hill...also the rock crusher that is there makes a humming noise like it is still running...in a tunnel that is behind the rock crusher there are stalagmites {i think thats what they are called} that actually still have blood on the end of them {it is supposedly blood but it looks like paint}...just thought you might like some extra information on things that happen there.
+location: Split Rock Quarry
+state: New York
+state_abbrev: NY
+longitude: -76.22326
+latitude: 43.0242329
+city_longitude: -76.14742439999999
+city_latitude: 43.0481221
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1918/07/12
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

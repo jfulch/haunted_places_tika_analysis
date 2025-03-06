@@ -1,0 +1,19 @@
+city: Lakehurst
+country: United States
+description: Based at Lakehurst, our compound is the supposed burial site of the remains of the Hindenburg which crashed there, there have been many reports of sightings, doors closing, and many other things that can not be explained that have happened there.
+location: Lakehurst Naval Mobile Construction Battalion 21
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.3112574
+city_latitude: 40.014561
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1934/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

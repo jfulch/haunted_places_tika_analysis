@@ -1,0 +1,21 @@
+city: Boston
+country: United States
+description: Shelton Hall, -  which is now a residence hall, was once a Sheraton Hotel. Playwright Eugene O'Neill lived in room 401 and supposedly died in his room in 1953 and now haunts that floor. The floor is now reserved for students majoring in writing.
+location: Boston University
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1053991
+latitude: 42.3504997
+city_longitude: -71.0588801
+city_latitude: 42.3600825
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1953/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

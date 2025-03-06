@@ -1,0 +1,19 @@
+city: Hartselle
+country: United States
+description: People claim that a woman was driving over this narrow bridge and wrecked her car. She lived, but the baby in her car died. Now, when you drive over that bridge at night, stop and sit there until you hear a baby crying. Leave candy on the bridge. Come back a couple of minutes later, and a piece of the candy is gone.
+location: Cry Baby Holler
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.9352842
+city_latitude: 34.4434282
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

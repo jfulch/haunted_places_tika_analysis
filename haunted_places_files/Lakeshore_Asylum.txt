@@ -1,0 +1,21 @@
+city: Knoxville
+country: United States
+description: The original structure burned down in the 1920's, but the gutted ruins remain. People have reported hearing the screams of patients being beaten and shackles being thrown around.
+location: Lakeshore Asylum
+state: Tennessee
+state_abbrev: TN
+longitude: -83.9945661
+latitude: 35.9189211
+city_longitude: -83.9207392
+city_latitude: 35.9606384
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

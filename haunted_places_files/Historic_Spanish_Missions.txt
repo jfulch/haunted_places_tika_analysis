@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: In an area of town known for its historic Spanish missions, there is a RR track that was the scene of a train and bus accident. The bus was carrying children home from school when it got stuck on the tracks. The train hit it and all children were killed. Now if you put your car in neutral about 100 yards from the track, it will begin to roll uphill, over the tracks. It is said that the ghosts of the children push you over the tracks. There is a heavy Satanic presence in this same area...it can almost be felt.
+location: Historic Spanish Missions
+state: Texas
+state_abbrev: TX
+longitude: -98.478431
+latitude: 29.361157
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1763/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Accident
+witness_count: 1

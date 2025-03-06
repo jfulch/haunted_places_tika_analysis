@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: A smell of flowers or bubble gum can be smelt around the grounds. Unexplainable shadows and lights seen by security guards. The sounds of foot steps can also be heard. - August 2004 update: (The smell of the bubble gum is actually the blossoms from a tree that grows in the area. In fact, the bubble gum smell isn't just limited to the Iolani Palace grounds, but you can also smell the "bubble gum" over a block away)
+location: 'Iolani Palace
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8587697
+latitude: 21.3067572
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1906/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

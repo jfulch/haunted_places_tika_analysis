@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: It is a house that was owned Sarah Winchester. It is believed to be haunted by Sarah and the spirits of those who were killed by Winchester's guns. Cold spots felt, an impression of someone lying in Sarah's bed, apparitions, rocking chairs rocking, being pushed by unseen hands, disembodied talking & laughing.
+location: Winchester House
+state: California
+state_abbrev: CA
+longitude: -121.9510491
+latitude: 37.3183318
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2006/02/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

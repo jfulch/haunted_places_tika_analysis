@@ -1,0 +1,21 @@
+city: Manhattan
+country: United States
+description: Brittany Residence Hall - Corner of East 10th and Broadway, Phantom music and lights, people hearing unknown footsteps in the rooms and feeling presences "watching" them. Reports of the basement being rather labyrinth like.
+location: New York University
+state: New York
+state_abbrev: NY
+longitude: -73.9964609
+latitude: 40.72951339999999
+city_longitude: -73.9712488
+city_latitude: 40.7830603
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/07/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

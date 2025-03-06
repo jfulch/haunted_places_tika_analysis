@@ -1,0 +1,21 @@
+city: Buckhannon
+country: United States
+description: When you go under a train bridge in a very sharp turn. It is very dark there & gives off a very weird vibe. Many people have died in that turn because you cannot see the turn until you are in it. A ghost is seen there in the road, which looks like a thin strip of fog, but there is no other fog anywhere in the area.
+location: Macedonia Road
+state: West Virginia
+state_abbrev: WV
+longitude: -80.1722576
+latitude: 39.0322568
+city_longitude: -80.2320276
+city_latitude: 38.9939872
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Lumber Baron Inn - June 2005 Correction: previously listed in Boulder- In the 1970's this house was converted into apartments. A young run away girl, 17 years old, lived in one apartment. She was raped and murdered one night. A friend of hers stumbled upon the murder and was also killed. The house is now a bed and breakfast. There have been several haunting incidences, including a sighting of a girl in a flapper dress. Footsteps have been heard and seen on the squeaky steps. www.lumberbaron.com
+location: North Denver
+state: Colorado
+state_abbrev: CO
+longitude: -104.9602793
+latitude: 39.7642309
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Rehoboth
+country: United States
+description: Feelings of being unwanted. Haunted by an old man that screams and pounds on your car windows as they sped out of the cemetery. While he terrorizes visitors, calling them Catherine. A girl’s laugh was heard toward the Woods on the right.
+location: Cemetery off route 44
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.2610644
+latitude: 41.8408039
+city_longitude: -71.2393933
+city_latitude: 41.8470056
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

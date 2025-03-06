@@ -1,0 +1,21 @@
+city: Lewistown
+country: United States
+description: Caves in the woods - There were two men shot to death and hidden in one cave a long time ago and they are supposed to haunt it, the `ther one is on the other side of town and is said to be haunted by a boy who was hit by a car riding his bike and was hid in there.
+location: Burnham
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.5847706
+latitude: 40.6283112
+city_longitude: -77.571382
+city_latitude: 40.5992395
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

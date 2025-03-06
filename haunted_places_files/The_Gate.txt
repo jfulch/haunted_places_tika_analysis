@@ -1,0 +1,21 @@
+city: Gurnee
+country: United States
+description: January 2007 Has been removed. False submission.
+location: The Gate
+state: Illinois
+state_abbrev: IL
+longitude: -87.9441512
+latitude: 42.3239327
+city_longitude: -87.90201859999999
+city_latitude: 42.3702996
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

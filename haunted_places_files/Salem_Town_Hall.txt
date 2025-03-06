@@ -1,0 +1,20 @@
+city: Salem
+country: United States
+description: The Salem Town Hall is haunted by the spirit of a man who hanged himself on the radio tower. The ghost walks the hallways, slams doors, shuts off lights, locks doors, and walks up the old steps, which have been removed. Barometers rise and cold spots have been reported.
+location: Salem Town Hall
+state: Connecticut
+state_abbrev: CT
+longitude: -72.2766263
+latitude: 41.4927583
+city_longitude: -72.275359
+city_latitude: 41.4903761
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

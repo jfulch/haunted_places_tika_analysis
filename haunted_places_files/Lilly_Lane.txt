@@ -1,0 +1,21 @@
+city: Hueytown
+country: United States
+description: Residents of the entire street have reported seeing an old man walking up and down the street late at night. He always wears jeans and a white shirt. He has even been seen in some people's houses. He has been spotted in the neighborhood for many years, and believed to be a protector spirit.
+location: Lilly Lane
+state: Alabama
+state_abbrev: AL
+longitude: -87.03997079999999
+latitude: 33.4651655
+city_longitude: -86.9966606
+city_latitude: 33.4512197
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

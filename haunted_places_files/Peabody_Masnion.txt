@@ -1,0 +1,21 @@
+city: Oakbrook
+country: United States
+description: Right off of 83 there is this massive gothic looking structure, thats quite creepy, this massive structure is peabodys mansion, peabody repordetly died of a heart attack and shortly after that his family moved out of the house, the place is truly creepy and locals often see apparitions.
+location: Peabody Masnion
+state: Illinois
+state_abbrev: IL
+longitude: -87.9612851
+latitude: 41.8284901
+city_longitude: -87.95355339999999
+city_latitude: 41.8397865
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Georgetown
+country: United States
+description: Everyone called her the nine o'clock ghost. A little girl was killed on the play ground by her own mother because she could not take care of her. Now every night if you drive by with your lights off and windows down you can see one of the swings moving back and fourth and you can hear a small sweet voice sing "ring around the rosy pockets full of poses ashes ashes will you come and play with me please!"
+location: Annie Pearl Elementary School
+state: Texas
+state_abbrev: TX
+longitude: -97.6661432
+latitude: 30.627444
+city_longitude: -97.6779842
+city_latitude: 30.6332618
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

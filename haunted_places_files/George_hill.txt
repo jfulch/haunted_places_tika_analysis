@@ -1,0 +1,21 @@
+city: Lancaster
+country: United States
+description: You must go up the hill to the top. Typically if you come down the hill you will be chased by some mad man with and axe. When you look back the guy typically will disappear. Or in some cases you will only hear some kids screaming and the sound of and axe. Also if you go onto the Road George Hill Rd. on the right on the side of the road you will see a Stone with a Massacre written on the stone.
+location: George hill
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.6897195
+latitude: 42.447575
+city_longitude: -71.6731242
+city_latitude: 42.4556452
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

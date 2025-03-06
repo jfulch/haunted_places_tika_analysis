@@ -1,0 +1,21 @@
+city: Poteau
+country: United States
+description: One night in 1974, a girl was raped and murdered in the Baseball Dorms. A girl is still said to roam around this place screaming every Saturday in November. You can still sometimes hear her yell. "No, Don't Stop!"
+location: Carl Albert State College
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.6341417
+latitude: 35.0393506
+city_longitude: -94.6235579
+city_latitude: 35.0537094
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1974/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

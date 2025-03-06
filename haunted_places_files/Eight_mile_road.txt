@@ -1,0 +1,21 @@
+city: Stockton
+country: United States
+description: On the east side of highway 99. At night alone drivers will see women dressed all in white standing on the side of the road and sometimes the same women will be seen through the rear view mirror seating in the back seat of your car. Also in the same area and the streets that cross it during the day a young Indian girl with lots jewelry has been seen walking on just of the road and then disappearing.
+location: Eight mile road
+state: California
+state_abbrev: CA
+longitude: -121.40716
+latitude: 38.057984
+city_longitude: -121.2907796
+city_latitude: 37.9577016
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

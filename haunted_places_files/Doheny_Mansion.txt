@@ -1,0 +1,21 @@
+city: Beverly Hills
+country: United States
+description: Night-shift groundskeepers will not stay employed, due to sounds, and screams inside the house. There are some sections that are gated and padlocked that have not been kept up in the home due to this.
+location: Doheny Mansion
+state: California
+state_abbrev: CA
+longitude: -118.4012377
+latitude: 34.0922819
+city_longitude: -118.4003563
+city_latitude: 34.0736204
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

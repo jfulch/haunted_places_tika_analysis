@@ -1,0 +1,21 @@
+city: Naples
+country: United States
+description: In the mid 1990's in the freezer some employees were tied up and gagged and then had their throats slit Their killers are now on death row. As a former employee when we would go in the walk in freezer and adjacent cooler the dim lights have power surges and the cool air blowing in does strange things. You get a feeling of being watched even when you are in one of the coolers alone. It has also been reported by morning shift workers that the ghost(s) like to move things around in the front store as a joke.
+location: Cracker Barrel on 951
+state: Florida
+state_abbrev: FL
+longitude: -81.685428
+latitude: 26.156888
+city_longitude: -81.7948103
+city_latitude: 26.1420358
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

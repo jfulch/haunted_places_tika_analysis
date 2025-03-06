@@ -1,0 +1,21 @@
+city: Watertown
+country: United States
+description: Apparent Time vortex/ portal which sends individuals through a lapse of time and or location. www.hauntedny.com has more information on a related case.
+location: Thompson Park
+state: New York
+state_abbrev: NY
+longitude: -75.8919166
+latitude: 43.96209289999999
+city_longitude: -75.91075649999999
+city_latitude: 43.9747838
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Cohoes
+country: United States
+description: haunted by several different spirits, in particular by one in the balcony. Many people have seen her, she appears as a woman dressed in 1930's or 40's type clothing(a black dress).She is said to have a very angry look in her eyes. At one point this ghost has been seen in reflections in mirrors. Believed to be an actress by the name of Eva Tangue. Other ghosts seen include the Black Lady, a shadowy, female figure seen and heard in the balcony. There is another ghost, male, who has been heard and seen both onstage and in the wings; this is apparently the specter of a stage manager who was crushed by a sandbag.
+location: Cohoes Music Hall
+state: New York
+state_abbrev: NY
+longitude: -73.701707
+latitude: 42.775654
+city_longitude: -73.70011869999999
+city_latitude: 42.7742446
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

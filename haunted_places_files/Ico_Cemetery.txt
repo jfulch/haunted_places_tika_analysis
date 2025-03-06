@@ -1,0 +1,19 @@
+city: Grant County
+country: United States
+description: The cemetery is located off of Grant 58 in Ico. There are reports of lights, gravestones being relocated, a feeling of being chased from the cemetery, and ghost cars following you back down 58, towards the highway.
+location: Ico Cemetery
+state: Arkansas
+state_abbrev: AR
+city_longitude: -92.4208713
+city_latitude: 34.2628015
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

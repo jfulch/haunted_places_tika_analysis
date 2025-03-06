@@ -1,0 +1,21 @@
+city: Grand Ledge
+country: United States
+description: There are three floors at Sawdon High School, The classes use to be on the second floor until a student overdosed, on acid on the second floor, so they moved classes and lockers to the third floor, It is said that if you go on the second floor of Sawdon you will hear lockers open and slam shut, and toilets flush, and someone running through the hall screaming.
+location: Sawdon High School
+state: Michigan
+state_abbrev: MI
+longitude: -84.74839229999999
+latitude: 42.749665
+city_longitude: -84.7463757
+city_latitude: 42.7533685
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

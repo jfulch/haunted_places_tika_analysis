@@ -1,0 +1,19 @@
+city: Malden
+country: United States
+description: A former patron of this Irish Pub who died in a slip down the basement stairs is rumored to be seen sitting in his regular stool. The former patron was called Uncle Buck for his resemblance to John Candy's character in said movie.
+location: Jimmy O'Keefe's Restaurant
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.6512829
+city_latitude: 39.3330908
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1611/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

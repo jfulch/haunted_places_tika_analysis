@@ -1,0 +1,21 @@
+city: Annapolis
+country: United States
+description: several reports of screams and cries being heard from the old bridge. There have been reports of cars seen hanging off of the bridge and then suddenly vanishing. Also, reports of as an old black car that suddenly appears behind your car as you are driving, quickly pulls up close to you, as if it is going to ram you, and then suddenly disappears.
+location: Governor's Bridge Road
+state: Maryland
+state_abbrev: MD
+longitude: -76.658761
+latitude: 38.9482381
+city_longitude: -76.4921829
+city_latitude: 38.9784453
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

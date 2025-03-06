@@ -1,0 +1,21 @@
+city: St. Clair
+country: United States
+description: Puttygut Bridge - The story is that a man was drinking and drove his truck in to the flooded bridge. They never found his truck. If you go there around 2 or 3 in the mourning and roll down all your windows, shut off your car, and put your keys on top of you car, your suppose to hear a splash and see him walk in front of your car.
+location: Marine City
+state: Michigan
+state_abbrev: MI
+longitude: -82.492132
+latitude: 42.7194778
+city_longitude: -82.486024
+city_latitude: 42.8208653
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1785/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

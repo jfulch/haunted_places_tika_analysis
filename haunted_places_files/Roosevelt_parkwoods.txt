@@ -1,0 +1,21 @@
+city: Magnolia
+country: United States
+description: whispers, clothing pulled at, wailing, people not acting like themselves (particularly guys). Blood showing on skin and disappearing.
+location: Roosevelt park/woods
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9865063
+latitude: 42.4771281
+city_longitude: -70.7106005
+city_latitude: 42.5737067
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 0

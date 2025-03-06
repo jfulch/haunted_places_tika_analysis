@@ -1,0 +1,20 @@
+city: Somers
+country: United States
+description: Several reportings from employees say that when alone in the back banquet hall, or back kitchens, lights will flicker on and off by themselves and tables and chairs will move. Some report feelings of freight and chills when in the back by themselves. Many employees refuse to go back there alone. Some swear they have seen faint figures in reflections in the banquet hall mirrors, and swear they feel someone tapping them on the shoulder only to turn around and see nothing.
+location: 145 Main ST
+state: Connecticut
+state_abbrev: CT
+longitude: -72.48665179999999
+latitude: 41.9861317
+city_longitude: -72.44607979999999
+city_latitude: 41.9851929
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

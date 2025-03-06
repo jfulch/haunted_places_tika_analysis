@@ -1,0 +1,19 @@
+city: Providence
+country: United States
+description: Dore Hall -  This dormitory used to be an infirmary for the fatally ill with a morgue in the basement. Strange figures have often been seen roaming the halls.
+location: Providence College
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.4381653
+latitude: 41.8440925
+city_longitude: -71.4128343
+city_latitude: 41.8239891
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

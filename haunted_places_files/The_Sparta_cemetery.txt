@@ -1,0 +1,21 @@
+city: Scarborough
+country: United States
+description: on the Scarborough / Ossining border is haunted by a number of spirits unknown as of this date. People have reported inexplicable mists and voices late at night in the fall at or around this old cemetery.
+location: The Sparta cemetery
+state: New York
+state_abbrev: NY
+longitude: -73.86157039999999
+latitude: 41.13697060000001
+city_longitude: -73.8584688
+city_latitude: 41.135929
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1963/04/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.783333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

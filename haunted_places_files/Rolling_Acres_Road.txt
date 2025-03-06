@@ -1,0 +1,21 @@
+city: Lady Lake
+country: United States
+description: Loud roars, yells, and screams in the surrounding woods throughout the whole road. A very bright, white, flowing entity walks up and down the road. Said to be a woman by the name of Julia that was murdered by an unidentified man while waiting for her soon-to-be husband. A man that was not permitted to see the woman because her parents despised him.
+location: Rolling Acres Road
+state: Florida
+state_abbrev: FL
+longitude: -81.936858
+latitude: 28.9124945
+city_longitude: -81.92286039999999
+city_latitude: 28.9174855
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1802/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

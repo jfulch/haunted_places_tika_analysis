@@ -1,0 +1,19 @@
+city: Colesville
+country: United States
+description: The townhouses around this area have been reported to have noises on levels of homes where nobody is. Noises, thumps, and shadows moving from room to room have been reported by many residents in different houses. The houses are relatively new, were built in late 1980s to early 1990s and we don't know what was there before. If you have any info, please update on this paranormal mystery.
+location: Oak Springs Neighborhood
+state: Maryland
+state_abbrev: MD
+city_longitude: -77.0019212
+city_latitude: 39.0756643
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

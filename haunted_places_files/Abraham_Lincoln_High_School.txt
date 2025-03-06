@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: late at night, toilet paper can be heard unraveling in the girl's bathroom by the main office. also, in the girl's bathroom by the band room, feet can be seen in the stall when no one else is there and someone whispering "hi". And the room by the cafeteria is locked and no one is allowed in there because a girl was raped and murdered in that room.
+location: Abraham Lincoln High School
+state: California
+state_abbrev: CA
+longitude: -122.4799819
+latitude: 37.746907
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1912/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

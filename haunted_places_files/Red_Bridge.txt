@@ -1,0 +1,21 @@
+city: Stevens Point
+country: United States
+description: A gravel road leads you to Red Bridge. Even though the bridge was recently rebuilt it is still said to be haunted. At midnight if you park on the bridge and turn off your headlights a ghost of a woman appears.
+location: Red Bridge
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.6337918
+latitude: 44.5695865
+city_longitude: -89.574563
+city_latitude: 44.52357920000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

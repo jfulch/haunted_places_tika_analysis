@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: Gillespie (Johnson) Hall - CC is a small school...everyone knows everyone else (1700 students). The freshman girls dorm has had several incidences on the third floor where they see a girl who does not live there. Sometimes the girl is crying and sometimes she just stares. Other times she is there and disappears. Doors close and open, TV’s and stereos come on and off, radios and computers turn on. Padlocked doors are opened and then when you walk back by (minutes later) it will be locked. Some days it is locked and you can see lights from underneath the door leading up to the attic. It is rumored that she was a cheerleader who got pregnant by a football player and instead of leaving school (strict place here) she killed herself in the attic. She supposedly lived on the third floor in 316. One girl who lived in that room was engaged and at night she would take her ring off and put it on the desk and every morning she would wake up to find it in the garbage.
+location: Cumberland College
+state: Kentucky
+state_abbrev: KY
+longitude: -84.1635883
+latitude: 36.736731
+city_longitude: -84.15965609999999
+city_latitude: 36.7434169
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1982/09/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Hazel Green
+country: United States
+description: A woman supposedly killed six of her husbands here. On stormy nights, you can hear men screaming. There is a family plot where her father, the first settler of DeKalb County, is buried. Teenagers have destroyed the cemetery. It’s on private property, so no trespassing!
+location: Dale Mansion Site
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.57193830000001
+city_latitude: 34.9323102
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

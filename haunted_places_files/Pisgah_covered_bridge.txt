@@ -1,0 +1,21 @@
+city: Pisgah
+country: United States
+description: near Asheboro - Apparitions of what seems to be a woman hanging from the rafters.
+location: Pisgah covered bridge
+state: North Carolina
+state_abbrev: NC
+longitude: -79.8938467
+latitude: 35.5420996
+city_longitude: -82.75679559999999
+city_latitude: 35.4259427
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

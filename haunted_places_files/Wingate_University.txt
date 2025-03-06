@@ -1,0 +1,21 @@
+city: Wingate
+country: United States
+description: Alumni Hall - A girl supposedly hung herself in the basement area next to the laundry room in the 80's.  People have reported doors opening and closing by themselves throughout the whole complex, things being moved, and the room where the girl hung herself is always cold.
+location: Wingate University
+state: North Carolina
+state_abbrev: NC
+longitude: -80.44449709999999
+latitude: 34.9869013
+city_longitude: -80.4492319
+city_latitude: 34.9843176
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1955/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

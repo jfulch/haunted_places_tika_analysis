@@ -1,0 +1,21 @@
+city: Wheeling
+country: United States
+description: The Capitol Music Hall, dtwn Wheeling has been around abt a century. I began as a movie theater. There is said to be ghost coffins in the beatiful building. Ghosts are said to haunt the theater at night, when it is pitch black. Someday, at early morning, the bldg. will probably be gone. Just remember to BEWARE!!!
+location: Capitol Music Hall
+state: West Virginia
+state_abbrev: WV
+longitude: -80.7242792
+latitude: 40.0700391
+city_longitude: -80.7209149
+city_latitude: 40.0639616
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

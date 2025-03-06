@@ -1,0 +1,21 @@
+city: Fallbrook
+country: United States
+description: Back in 1962, in the press room, a sick daughter of one of the press workers was pushed into the presses by an unknown force. To this day an apparition of a small girl will pull on your pants if you get to close to the presses.
+location: The Enterprise Newspaper Press Room
+state: California
+state_abbrev: CA
+longitude: -117.24896
+latitude: 33.364083
+city_longitude: -117.2511466
+city_latitude: 33.3764196
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1962/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

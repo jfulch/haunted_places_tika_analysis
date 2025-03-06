@@ -1,0 +1,21 @@
+city: Davenport
+country: United States
+description: There has been many circumstances of seeing a lady roaming the halls wearing a red or blue evening gown. There has also been instances of pianos playing in the main ballroom misc. disturbances with employees. Acter Cary Grant also died on the 8th floor and has been seen walking the halls.
+location: Blackhawk Hotel
+state: Iowa
+state_abbrev: IA
+longitude: -90.572202
+latitude: 41.522724
+city_longitude: -90.5776367
+city_latitude: 41.5236437
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

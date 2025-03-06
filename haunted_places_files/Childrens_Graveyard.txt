@@ -1,0 +1,20 @@
+city: Greenville
+country: United States
+description: A graveyard behind Hickory Point gas station near Furman U., mainly for children. Tombstones range from the late 1700's to late 1800's. Lights, laughter, running sounds. - May 2008 Additional Info - If you drive just past it there is a short unmarked road. The trail leading into the graveyard is at the end of this road to the right. A visitor did not observed any "No Trespassing" signs, however there is some sort of police station not a hundred yards down the road. This location is haunted, but there are dangerous things in there that are not paranormal. There have been bobcats seen out there, so a fare warning to anyone that goes, be alert.
+location: Children's Graveyard
+state: South Carolina
+state_abbrev: SC
+longitude: -82.394604
+latitude: 34.854822
+city_longitude: -82.3940104
+city_latitude: 34.85261759999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1856/02/14
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

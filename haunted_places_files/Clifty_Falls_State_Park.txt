@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: Reports of moaning coming from the tree right next to the walkway going down into the falls.
+location: Clifty Falls State Park
+state: Indiana
+state_abbrev: IN
+longitude: -85.421217
+latitude: 38.7551126
+city_longitude: -85.37995769999999
+city_latitude: 38.7358933
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

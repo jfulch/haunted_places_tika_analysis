@@ -1,0 +1,20 @@
+city: Plymouth
+country: United States
+description: Reports of an apparition of a little girl. She moves things around to tell you that she is there.
+location: Spooner House Museum
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.6675278
+latitude: 41.9601204
+city_longitude: -70.6672621
+city_latitude: 41.9584457
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

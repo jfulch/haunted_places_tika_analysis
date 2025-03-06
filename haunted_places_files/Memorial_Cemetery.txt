@@ -1,0 +1,21 @@
+city: Tulsa
+country: United States
+description: voices heard.
+location: Memorial Cemetery
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.8853044
+latitude: 36.0886776
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

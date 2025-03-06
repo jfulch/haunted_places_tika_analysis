@@ -1,0 +1,21 @@
+city: Tooele
+country: United States
+description: things are moved around, doors and cupboards open and close, five cameras were set during a wedding and there was an orb on all of them.
+location: Kirk Hotel
+state: Utah
+state_abbrev: UT
+longitude: -112.3001908
+latitude: 40.5303964
+city_longitude: -112.29828
+city_latitude: 40.53077760000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

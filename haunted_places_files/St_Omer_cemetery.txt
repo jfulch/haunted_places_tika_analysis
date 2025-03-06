@@ -1,0 +1,21 @@
+city: Ashmore
+country: United States
+description: A large gravestone with a crystal ball said to be that of witch, the date of death on the tombstone is Feb 31, 18??. Many have tried to take pictures but they never turn out. Sometimes there is strange glow coming from the tombstone. - March 2005 Update - We have a picture of the grave site. you can see the picture  here.
+location: St. Omer cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.0309589
+latitude: 39.5685523
+city_longitude: -88.0222582
+city_latitude: 39.5330909
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1981/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

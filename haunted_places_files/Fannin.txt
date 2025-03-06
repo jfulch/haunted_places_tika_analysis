@@ -1,0 +1,21 @@
+city: Blue Ridge
+country: United States
+description: Tilly Bend Church - Very old church & graveyard on a dirt road off Aska Rd. A large number of young children are buried here. Strange lights have appeared hovering over tombstones late at night.
+location: Fannin
+state: Georgia
+state_abbrev: GA
+longitude: -84.32408699999999
+latitude: 34.8639719
+city_longitude: -84.32408699999999
+city_latitude: 34.8639719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/08/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

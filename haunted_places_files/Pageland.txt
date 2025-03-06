@@ -1,0 +1,20 @@
+city: Chesterfield
+country: United States
+description: Capt. John Blakeney Cemetery - It's said that at night you can see the ghost of the Blakeney family, this family is from the Civil War era.
+location: Pageland
+state: South Carolina
+state_abbrev: SC
+longitude: -80.39173149999999
+latitude: 34.7732102
+city_longitude: -80.0881194
+city_latitude: 34.7359889
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1775/07/23
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

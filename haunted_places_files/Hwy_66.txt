@@ -1,0 +1,21 @@
+city: Stevens Point
+country: United States
+description: The Bloody Bride. On the night of their wedding a bride was killed in an auto accident. It is said that when you travel down this road you can see the bloody bride still in her wedding dress. A police officer was driving down the road and saw the bride in the middle of the road and was not able to stop in time and hit the figure. he stopped and looked behind him to see if there was anything in the road and the bloody bride figure was sitting in the back seat of his vehicle.
+location: Hwy 66
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.5745616
+latitude: 44.52347150000001
+city_longitude: -89.574563
+city_latitude: 44.52357920000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1818/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

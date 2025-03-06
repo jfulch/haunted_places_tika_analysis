@@ -1,0 +1,21 @@
+city: Valparaiso
+country: United States
+description: Alumni Hall - two young children run up and down the halls at about 2:00 in the morning- they talk to some of the residents and say that they are playing tag. They are 8 or 9 years old and wearing jogging pants
+location: Valparaiso University
+state: Indiana
+state_abbrev: IN
+longitude: -87.0438894
+latitude: 41.4639394
+city_longitude: -87.0611412
+city_latitude: 41.4730948
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1955/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Nashville
+country: United States
+description: The old Donelson Hospital was one of the oldest hospitals in Nashville until it closed down over a decade ago. It is now used for storage for current hospitals and doctor's offices. It has been reported by various people who have had to enter the hospital for supplies that at anytime, day or night, once the doors close behind you numerous screams and moans can be heard as well as footsteps and clanging on the walls. Once you get closer to the old psych ward high energy can be felt and extreme chills even in the middle of summer with no air conditioning running throughout the building.
+location: Old Donelson Hospital
+state: Tennessee
+state_abbrev: TN
+longitude: -86.67279189999999
+latitude: 36.1702819
+city_longitude: -86.7816016
+city_latitude: 36.1626638
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

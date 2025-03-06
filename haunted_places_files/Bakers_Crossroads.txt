@@ -1,0 +1,19 @@
+city: Patton
+country: United States
+description: it is known that outside going towards Bakers Crossroads there has been an experience of a ghostly vision which seems to be that of a young girl known to have died in a car crash near the red barn on that road. Late at night is when she makes her presence known to people passing by.
+location: Bakers Crossroads
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -78.6503006
+city_latitude: 40.6339561
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/07/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

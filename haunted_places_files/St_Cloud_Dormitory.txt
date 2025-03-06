@@ -1,0 +1,21 @@
+city: Mackinac Island
+country: United States
+description: A little girl haunts the building, along with possibly an old man who (might have) killed her. SHe taps on pipes, and her presence is especially noted in room 33. People who live there and felt her touch them, and change their alarm clocks. One man had his bed sheets all fly off the bed and land in a pile in the middle of the room.
+location: St. Cloud Dormitory
+state: Michigan
+state_abbrev: MI
+longitude: -84.6179923
+latitude: 45.8492622
+city_longitude: -84.6189339
+city_latitude: 45.8491796
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

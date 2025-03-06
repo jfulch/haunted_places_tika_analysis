@@ -1,0 +1,19 @@
+city: Cambridge
+country: United States
+description: The Cator House is said to be haunted by the Spirit of it's original owner, Emily Cator, who built the house as an inn for travelers. It is now a restaurant and employees have claimed to have actually heard and felt her presence.
+location: The Cator House
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.0788292
+city_latitude: 38.5631744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1924/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: In the small town of Beverly located in Chicago's Southside, there is a castle that an Irish man named Givins built for his wife while she still resided in Ireland. She died before she got to live in her castle. She lives there now and can sometimes be seen walking up the hill that leads to the castle door.
+location: The Givins Castle
+state: Illinois
+state_abbrev: IL
+longitude: -87.67134
+latitude: 41.7069127
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1828/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

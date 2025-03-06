@@ -1,0 +1,21 @@
+city: South Bend
+country: United States
+description: Primrose Rd. - January 2007 Update: Submissions have been removed at request of the property owners.
+location: St. Joseph
+state: Indiana
+state_abbrev: IN
+longitude: -86.25198979999999
+latitude: 41.6763545
+city_longitude: -86.25198979999999
+city_latitude: 41.6763545
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1882/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

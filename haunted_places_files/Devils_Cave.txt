@@ -1,0 +1,19 @@
+city: McMinnville
+country: United States
+description: It has been reported that there is a cave in Blue's Hill, that is called "Devil's Cave”. There are stories that there was 2 men going caving at Devil's Cave. One of the men hoisted the other down in the cave. After a few minutes The man at the top heard a blood curdling scream, he started shaking with fear as he was pulling his friend back up, by some unknown reason the man's hair was white as snow and his skin was icy, they said he never spoke any word of what he saw, but when you see something that horrific and it turns your hair white it had to have been something very scary.
+location: Devil's Cave
+state: Tennessee
+state_abbrev: TN
+city_longitude: -85.7801453
+city_latitude: 35.6865889
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

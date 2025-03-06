@@ -1,0 +1,21 @@
+city: Romulus
+country: United States
+description: Various deaths for no apparent reasons... sightings of ghost wandering streets past the midnight hour on The street north maple a little Girl walks Around at night searching for revenge on her death....
+location: Metro commons trailer park
+state: Michigan
+state_abbrev: MI
+longitude: -83.321396
+latitude: 42.265742
+city_longitude: -83.39659940000001
+city_latitude: 42.2222614
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

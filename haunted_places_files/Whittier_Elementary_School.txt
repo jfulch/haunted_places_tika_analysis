@@ -1,0 +1,21 @@
+city: Waukesha
+country: United States
+description: At this school sightings have been seen clocks stop and odors in libraries and classrooms swing open and water fountains spray water onto the floor. People have seen a little girl about 8 years old who had a heart attack in the girls bathroom in 1991, a 12 year old boy who drowned in freezing water in 2001, and a boy who was about 10 years old when he got hit by car when running out into the street to get his ball! Lots of spooky things happen at this school.
+location: Whittier Elementary School
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.22618690000002
+latitude: 42.9922783
+city_longitude: -88.2314813
+city_latitude: 43.0116784
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1991/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

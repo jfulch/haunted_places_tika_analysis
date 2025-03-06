@@ -1,0 +1,21 @@
+city: Eugene
+country: United States
+description: A young boy was shot on the playground. And whenever any one goes there after 12:00 they are approached by a ghost child, Who warns people to stay away.
+location: Woodland Park
+state: Oregon
+state_abbrev: OR
+longitude: -123.1838276
+latitude: 44.0811786
+city_longitude: -123.0867536
+city_latitude: 44.0520691
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/06/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

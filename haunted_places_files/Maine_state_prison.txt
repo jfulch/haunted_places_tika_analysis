@@ -1,0 +1,21 @@
+city: Warren
+country: United States
+description: Correction officers have seen spirits of inmates in the industries building. Most of the equipment came from the old prison in Thomaston, which is had a lot of spirits. A lot of ghost stories have been reported there before it was torn down. People feel very uneasy in the industries building at night. Feel like there is someone there even though you are alone.
+location: Maine state prison
+state: Maine
+state_abbrev: ME
+longitude: -69.2300588
+latitude: 44.0655401
+city_longitude: -69.25314639999999
+city_latitude: 44.116967
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1926/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 21m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

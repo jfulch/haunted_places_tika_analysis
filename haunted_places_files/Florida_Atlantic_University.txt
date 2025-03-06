@@ -1,0 +1,21 @@
+city: Boca Raton
+country: United States
+description: Humanities Bldg -  has a ghost that has been spotted by employees on night shifts. She was seen at the top of the amphitheatre crying, when approached, she vanished. When locking building up at night, one person started on the third floor, checking & locking all the classroom doors. When he got to the second floor, he radioed in that there was someone on the third floor running through the halls slamming the doors. He and another unit went to the third floors from opposite ends and found all the doors locked, nothing out of place, and no one in the building.
+location: Florida Atlantic University
+state: Florida
+state_abbrev: FL
+longitude: -80.10221779999999
+latitude: 26.373528
+city_longitude: -80.1289321
+city_latitude: 26.3683064
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

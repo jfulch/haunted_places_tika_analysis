@@ -1,0 +1,21 @@
+city: Fond du Lac
+country: United States
+description: It is said that this seminary is haunted by a former nun and her baby. When she delivered a still born baby in the elevator she killed herself with her cross. And to this day you can sometimes hear her baby crying through the seminary at dark.
+location: St. Mary's Springs Seminary
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.3844559
+latitude: 43.7866074
+city_longitude: -88.4470508
+city_latitude: 43.7730448
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Georgetown
+country: United States
+description: Comet Lodge Cemetery - Apparitions and shadows seen.
+location: Beacon Hill
+state: Washington
+state_abbrev: WA
+longitude: -77.0409983
+latitude: 38.9041065
+city_longitude: -77.06535650000001
+city_latitude: 38.9097057
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

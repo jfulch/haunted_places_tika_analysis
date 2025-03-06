@@ -1,0 +1,21 @@
+city: Ontario
+country: United States
+description: When in the auditorium the lights go on an off by themselves and if you are going under the auditorium in the old bomb shelters where props are kept a green light is following you. It is said that it is a student who one night was in the auditorium on the stage and fell into the pit. Also up in the light room a girl haunts after committing suicide in the auditorium off the balcony.
+location: Chaffey High School
+state: California
+state_abbrev: CA
+longitude: -117.6525556
+latitude: 34.0799599
+city_longitude: -117.6508876
+city_latitude: 34.0633443
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

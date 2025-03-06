@@ -1,0 +1,21 @@
+city: Prescott
+country: United States
+description: Not to much is told about the hotel, but there is a lady that haunts it. Footsteps are heard in the halls and the feeling of being watched is everywhere. I even have a picture of an orb in one of the rooms.
+location: St. Michaels Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -112.4703287
+latitude: 34.5417283
+city_longitude: -112.4685025
+city_latitude: 34.5400242
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

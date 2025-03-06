@@ -1,0 +1,21 @@
+city: Fort Madison
+country: United States
+description: Built in the 1800's. Solitary confinement area: Guards refuse to go to the end of the corridor at night. Inmates have experienced cold spots, heard unexplainable moaning and chains clanking, seen apparitions and have been choked or physically attacked while alone in their 8x5(or smaller) locked cell.
+location: Iowa State Penitentiary
+state: Iowa
+state_abbrev: IA
+longitude: -91.3030573
+latitude: 40.6536507
+city_longitude: -91.314535
+city_latitude: 40.6297634
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

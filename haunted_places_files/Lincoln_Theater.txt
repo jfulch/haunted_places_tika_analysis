@@ -1,0 +1,21 @@
+city: Decatur
+country: United States
+description: A ghost called one-armed red is seen and heard here.
+location: Lincoln Theater
+state: Illinois
+state_abbrev: IL
+longitude: -88.956288
+latitude: 39.841939
+city_longitude: -88.9548001
+city_latitude: 39.8403147
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

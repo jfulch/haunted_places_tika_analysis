@@ -1,0 +1,21 @@
+city: Horatio
+country: United States
+description: There is a hill at the exit of the rest stop. If you stop at the stop sign and put your car in neutral, you get pulled UP the hill. -  June 2005 Update: The rest stop between Horatio and De Queen is an optical illusion. While the area is on a different angle than the road, it is still on a downhill grade. Therefore, your car appears to roll UP hill. The area has been graded, and is now a driveway leading to a property.
+location: Rest Stop In Between DeQueen &amp; Horatio
+state: Arkansas
+state_abbrev: AR
+longitude: -93.2496947
+latitude: 33.9393524
+city_longitude: -94.3571494
+city_latitude: 33.9384482
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Unknown
+witness_count: 0

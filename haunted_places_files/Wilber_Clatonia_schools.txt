@@ -1,0 +1,21 @@
+city: Wilber
+country: United States
+description: a kid a while back fell off a ladder and died in the gym. and ever since the gym has been the coldest place in the school and people still see him walking around the gym with the ladder he fell off of.
+location: Wilber-Clatonia schools
+state: Nebraska
+state_abbrev: NE
+longitude: -96.9683385
+latitude: 40.4755654
+city_longitude: -96.9605686
+city_latitude: 40.4813257
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

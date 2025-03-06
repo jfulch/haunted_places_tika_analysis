@@ -1,0 +1,20 @@
+city: Fairfield
+country: United States
+description: The 2nd floor, which is the Call Center. Typing can be heard, but if the desk at which it types is brought into view, it stops abruptly. Numerous people have heard it for years in this building. It usually occurs when one half of the Call Center is dark. Although the sound is sometimes rather faint/slow typing. Others times it's fast and very noticeable. As a note to anyone interested in hearing it for themselves:: The Call Center is NOT open to the public, only to employees.
+location: Hammacher Schlemmer
+state: Ohio
+state_abbrev: OH
+longitude: -84.47648939999999
+latitude: 39.3267057
+city_longitude: -84.5603187
+city_latitude: 39.3454673
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Buford
+country: United States
+description: Has been mistaken for the Old Buford Hospital. This place has not yet been found. though there are rumors it is now a private residence.
+location: Antebellum Asylum
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.0043513
+city_latitude: 34.1206564
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

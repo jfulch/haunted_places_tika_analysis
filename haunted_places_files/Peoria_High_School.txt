@@ -1,0 +1,21 @@
+city: Peoria
+country: United States
+description: It is said that a student fell off of the catwalk of the school's Performing Arts Center. She has been heard and seen wandering around the stage and catwalk.
+location: Peoria High School
+state: Arizona
+state_abbrev: AZ
+longitude: -112.239422
+latitude: 33.5873645
+city_longitude: -112.2373779
+city_latitude: 33.5805955
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1958/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

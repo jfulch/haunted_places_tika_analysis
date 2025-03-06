@@ -1,0 +1,21 @@
+city: Kingsville
+country: United States
+description: In turner hall on the second floor in restroom to the north side. It is said that late at night you can see in the corner of your eye a passing black shadow flowing from the last toilet near the window to east exit. Also while showing you can see a passing shadow on the cretin.
+location: Turner Hall
+state: Texas
+state_abbrev: TX
+longitude: -97.8849594
+latitude: 27.5257665
+city_longitude: -97.856109
+city_latitude: 27.5158689
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Natural Disaster
+witness_count: 1

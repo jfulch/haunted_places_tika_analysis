@@ -1,0 +1,21 @@
+city: Gatlinburg
+country: United States
+description: At the Greenbrier Restaurant the ghost of a young woman who committed suicide in the restaurant can sometimes be seen.
+location: Greenbrier Restaurant
+state: Tennessee
+state_abbrev: TN
+longitude: -83.4845656
+latitude: 35.7247961
+city_longitude: -83.5101638
+city_latitude: 35.714259
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1778/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Nashville
+country: United States
+description: An old lady named Marie came into the store daily. After she passed away, odd things began to happen. Employees reported odd feelings when in the back room by the cooler; the remote control Christmas lights changing rotation only on second shift and once, a stack of paperwork slid off a shelf, sat in the air momentarily, and then fell to the floor. A customer and two employees once witnessed a loud scream. Customers outside pumping gas heard nothing. The old Han-Dee Mart building was sold and is being converted to an office building.
+location: The Old Han-Dee Mart Building
+state: Illinois
+state_abbrev: IL
+city_longitude: -89.3806398
+city_latitude: 38.3436612
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1955/05/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

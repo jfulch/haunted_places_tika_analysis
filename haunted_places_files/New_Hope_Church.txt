@@ -1,0 +1,21 @@
+city: New Hope
+country: United States
+description: A Civil War solder can be seen at the battle trenches across the road from the church. Other sightings have occurred behind the graveyard in New Hope. Phantom lights and distant moans and groans of pain from the two thousand solders killed on the place referred to as the "Hell Hole" just before storms occur.
+location: New Hope Church
+state: Georgia
+state_abbrev: GA
+longitude: -83.9174941
+latitude: 33.9241907
+city_longitude: -84.5088899
+city_latitude: 34.7275
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

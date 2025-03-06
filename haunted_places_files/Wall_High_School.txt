@@ -1,0 +1,20 @@
+city: Wall
+country: United States
+description: There is sometimes footsteps heard from the roof (which is three stories up and has no stairwell leading to it). Then the footsteps stop and a soft thud is heard. This happens every year at 11:30 at night on December the twenty forth. Some call it the Santa Claus Ghost. But others believe that it was a principal that died in a freak electrical fire and was burned to death in 1930.
+location: Wall High School
+state: South Dakota
+state_abbrev: SD
+longitude: -102.2477733
+latitude: 43.9901699
+city_longitude: -102.2415477
+city_latitude: 43.9924889
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1930/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

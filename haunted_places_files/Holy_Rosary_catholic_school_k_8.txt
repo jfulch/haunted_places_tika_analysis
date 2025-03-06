@@ -1,0 +1,20 @@
+city: San Bernardino
+country: United States
+description: Only one teacher opens up in the morning at 6am, because of the sightings of nuns walking the halls going to classrooms, school is really old, and back then we couldn't get much out of the teacher that opened the place up because she wouldn't tell anyone, but she told a few of the mature kids
+location: Holy Rosary catholic school k-8
+state: California
+state_abbrev: CA
+longitude: -117.2900186
+latitude: 34.139938
+city_longitude: -117.2897652
+city_latitude: 34.1083449
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

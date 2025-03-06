@@ -1,0 +1,21 @@
+city: Coral Gables
+country: United States
+description: 13th Floor - IT has been recorded that the 13th floor of this world- renowned hotel is haunted by the ghosts of soldiers that were treated there during the WWII era. Unexplained noises and lights are seen here. Here is a history on that Biltmore hotel. It was served at a hotel in the early twenties and then they used it as a hospital during WWII and many people died in that place. In 1968 they chose to turn it back into a hotel and in 1983 they spent over 55 million to restore the hotel.
+location: Biltmore Hotel
+state: Florida
+state_abbrev: FL
+longitude: -80.27867859999999
+latitude: 25.7408089
+city_longitude: -80.2683838
+city_latitude: 25.72149
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1968/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

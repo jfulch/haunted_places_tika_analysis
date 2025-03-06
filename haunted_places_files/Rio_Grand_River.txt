@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: the river is hunted by a women name Maria who pushed her 3 children off a cliff and later took her own life the same way the next day. But she hunts the river till this day every night you could here crying and calling out her children name along the river they say if u see her she will come after thinking that you are one of her children
+location: Rio Grand river
+state: Texas
+state_abbrev: TX
+longitude: -99.4803241
+latitude: 27.5305671
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1935/09/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

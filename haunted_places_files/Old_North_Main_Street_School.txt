@@ -1,0 +1,21 @@
+city: Orange
+country: United States
+description: This building now serves as an adult education center. At one time it was a school, then courthouse with holding cells in the basement. It has been reported by people being held at night in the basement to hear noises all night. The courthouse was moved.
+location: Old North Main Street School
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.3027537
+latitude: 42.574286
+city_longitude: -72.3097914
+city_latitude: 42.590354
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

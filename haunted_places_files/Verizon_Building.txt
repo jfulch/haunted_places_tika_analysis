@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: In 1977, during the construction of additions to the then GTE Hawaiian Tel headquarters, a worker fell down the elevator shaft and died. Since then, the elevators act erratically, taking you on "rides". Other ghosts have been seen and heard by operators on the 10th floor.
+location: Verizon Building
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8424552
+latitude: 21.2937729
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Natural Disaster
+witness_count: 1

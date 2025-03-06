@@ -1,0 +1,21 @@
+city: Collinsville
+country: United States
+description: Gates of Hell - On a lonely road called Lebanon road there are a series of concrete tunnels (gates). If you drive out there and park under any of them and turn out your lights, the spirits will send hellhounds out to bring back your soul. Legend around here says that if you drive through all of the gates without driving through one twice, at the stroke of midnight as you drive through the last gate, you will be plucked out of the night and taken to hell.
+location: Lebanon Rd.
+state: Illinois
+state_abbrev: IL
+longitude: -89.9275581
+latitude: 38.6688189
+city_longitude: -89.9845476
+city_latitude: 38.6703266
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

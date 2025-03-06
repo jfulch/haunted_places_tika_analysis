@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: Strange lights can be seen and a strange shadow occupying the windows.
+location: Dey Mansion
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2330759
+latitude: 40.9156697
+city_longitude: -74.2765441
+city_latitude: 40.92537249999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

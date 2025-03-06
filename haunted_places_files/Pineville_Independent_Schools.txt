@@ -1,0 +1,21 @@
+city: Pineville
+country: United States
+description: Many believe the girls bathroom is haunted by a girl named Connie. The lights will flicker; the water will turn on by its self. Toilets will flush by them selves. She will walk to your style and open the door. She will scream and yell.
+location: Pineville Independent Schools
+state: Kentucky
+state_abbrev: KY
+longitude: -83.6983152
+latitude: 36.7631394
+city_longitude: -83.6949176
+city_latitude: 36.76203
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

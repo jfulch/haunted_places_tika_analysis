@@ -1,0 +1,21 @@
+city: Dunwoody
+country: United States
+description: You will walk in rooms with no windows and feel a cool breeze come across your body. There is a morgue in the basement and at sometimes you can see dead ghosts lying in the morgue trays. You hear footsteps walking down the 3-floor building steps, and can feel presence behind you. This is the all-time best place to go to if you want to be frightened.
+location: Insane Asylum
+state: Georgia
+state_abbrev: GA
+longitude: -84.2952821
+latitude: 33.9346142
+city_longitude: -84.3346473
+city_latitude: 33.9462125
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Idaho Falls
+country: United States
+description: both right next to each other and part of one building more than 100 years old. The basement of the Eagle's Lounge was a mortuary and the very top floor was once a ballroom many many years ago. Many people claim that very strange things happen in both the theater and the ballroom.
+location: Eagle's Lounge and Rio theater
+state: Idaho
+state_abbrev: ID
+city_longitude: -112.0339645
+city_latitude: 43.49165139999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1995/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Becket
+country: United States
+description: Over 200 people died there in the early 1900s when it was being built. Sensation of being watched and feelings of someone brushing up against you have been felt. Flashlights will go dead and then will work again once you’re at the bottom. One person reported being chased out of there by a ghost.
+location: Becket Quarry
+state: Massachusetts
+state_abbrev: MA
+longitude: -73.02015209999999
+latitude: 42.2511401
+city_longitude: -73.0829366
+city_latitude: 42.3319904
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: Once a thriving woolen mill, it is now a museum and home to businesses such as the Salem Art Center. Also on the grounds you can find the original home of Jason Lee, the founder of Salem, and several other historical buildings that were transplanted to the grounds. Employees have had experiences of a young woman running across the bridge (from her spouse; she was rumored to have been murdered on the bridge), meetings with Wayne the groundskeeper (who, after death, is still caring and watching over the grounds), and can sense extreme anger and pain from the turbine room, where a male employee lost his life while maintaining a turbine - while it was still on. Some people can also feel the vibrations of the old machinery running and weaving wool on the top floor of the museum; a room void of machinery and often rented for parties and receptions.
+location: Mission Mill
+state: Oregon
+state_abbrev: OR
+longitude: -123.026427
+latitude: 44.934461
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 20m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

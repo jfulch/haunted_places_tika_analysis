@@ -1,0 +1,21 @@
+city: Westland
+country: United States
+description: In Febuary of 2003, a young man who attended John Glenn High School on Marquette road commited suicide he was a senior, he has been seen roaming the halls of the school during the day, sitting in the audiotorium during the plays, playing with the doors opening and closing them freely and even having converstation with a few students who were close to him. He is usually seen in his tyed dyed shirt and blue jeans. He walks freely around acting as if he is still attending the school, ironicly enough he was also seen by a number of people at Graduation at EMU, not in a graduation cap and gown but in that same tye dyed shirt and those jeans.
+location: John Glenn HS
+state: Michigan
+state_abbrev: MI
+longitude: -83.3963223
+latitude: 42.3161303
+city_longitude: -83.400211
+city_latitude: 42.32420399999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/07
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

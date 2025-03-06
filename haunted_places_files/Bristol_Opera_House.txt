@@ -1,0 +1,21 @@
+city: Bristol
+country: United States
+description: There is a ghost named "Percy" that haunts the costume room and stage. It is said that he hides in the curtains and brushes up against the actors. He does not like musicals and has apparently moved things on stage during a production. He likes to scare the ladies in particular. A lady that makes the costumes and was there late at night when she felt strange things around her and tapping on her shoulder. No one is sure why he is there or where he came from. He might have been one of the deceased actors or people that worked there.
+location: Bristol Opera House
+state: Indiana
+state_abbrev: IN
+longitude: -85.8157341
+latitude: 41.7217369
+city_longitude: -85.81749459999999
+city_latitude: 41.7214389
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

@@ -1,0 +1,20 @@
+city: St. Paul
+country: United States
+description: St. Mary’s Hall – 2nd Floor - there is a lady in gray that appears in the doorways of different dorms watching over students. There are also reports of people feeling cold fingers on the back of their necks and being tapped awake right before their alarm goes off. Other times, there is the sound of a lady rushing down certain dorm hallways. Although these things happen, none are threatening.
+location: College of St. Catherine
+state: Minnesota
+state_abbrev: MN
+longitude: -93.182822
+latitude: 44.925308
+city_longitude: -93.0899578
+city_latitude: 44.9537029
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

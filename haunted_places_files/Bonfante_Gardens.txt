@@ -1,0 +1,21 @@
+city: Gilroy
+country: United States
+description: At night after the park is closed, workers have seen a small carousel in Claudia's Garden turn on all by itself. Lights, music, everything.
+location: Bonfante Gardens
+state: California
+state_abbrev: CA
+longitude: -121.6290606
+latitude: 37.0049962
+city_longitude: -121.5682751
+city_latitude: 37.0057816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1962/06/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

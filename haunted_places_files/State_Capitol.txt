@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: The fourth floor of the south wing is said to be haunted. When members of the messenger staff have been up their completely alone doors have opened by themselves and strange footsteps have been heard.
+location: State Capitol
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.3843732
+latitude: 43.0747126
+city_longitude: -89.4012302
+city_latitude: 43.0730517
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

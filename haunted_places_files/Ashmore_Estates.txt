@@ -1,0 +1,21 @@
+city: Ashmore
+country: United States
+description: West of Ashmore - Ashmore Estates was an old insane asylum, legend has it that the government stopped the funding and all the employees left the patients. With no where to go and the inability it help themselves. The patients all died of starvation and dehydration. Illegal as it may be, when people venture into the building, strange voices are heard, and when leaving people have reported loud banging noises, and when looking back they saw the trunk of their car dent in and out as if being pounded on.- March 2005 Update - The patients where not left there. It was closed down due to the fact there were not enough patients. - November 2006 Update: The building was recently purchased by different owners and turned into a haunted house.
+location: Ashmore Estates
+state: Illinois
+state_abbrev: IL
+longitude: -88.05111269999999
+latitude: 39.5294263
+city_longitude: -88.0222582
+city_latitude: 39.5330909
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1935/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

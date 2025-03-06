@@ -1,0 +1,21 @@
+city: Silverhill
+country: United States
+description: Reports of fires starting by themselves. A tall black figure is seen in one of the barns, with red lit eyes. Things also move on their own. The well in the deep part of the property had two children thrown into it over 50 years ago. There’s a faint smell of blood in the old dairy. A child can be heard running through the hallways. Sometimes it makes its exit by busting through a window while someone is in the room. Other footsteps are heard in the house, candles and precious things go missing, and animals turn up dead.
+location: Woodhaven Dairy
+state: Alabama
+state_abbrev: AL
+longitude: -87.8000445
+latitude: 30.4895209
+city_longitude: -87.75165590000002
+city_latitude: 30.5454715
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

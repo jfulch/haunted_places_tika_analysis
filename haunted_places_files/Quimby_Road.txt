@@ -1,0 +1,21 @@
+city: East San Jose
+country: United States
+description: This road is haunted by the Quimby Jogger. He is said to be the ghost of a jogger that only runs at midnight.
+location: Quimby Road
+state: California
+state_abbrev: CA
+longitude: -121.77684
+latitude: 37.3253157
+city_longitude: -121.8202035
+city_latitude: 37.3262122
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

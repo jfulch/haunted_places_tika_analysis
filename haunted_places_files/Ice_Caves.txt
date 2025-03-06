@@ -1,0 +1,21 @@
+city: Shoshoni
+country: United States
+description: Employees and tourists have heard strange voices and footsteps inside the caves.
+location: Ice Caves
+state: Idaho
+state_abbrev: ID
+longitude: -114.3407839
+latitude: 43.1666037
+city_longitude: -114.4058752
+city_latitude: 42.9360165
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Newark
+country: United States
+description: Anchor Blue - There is a ghost in the stockroom; it used to harass one of the female employees. It would push things over when she was in there alone. When in the office, we would hear loud crashes in the stock room, but when we would look on the camera, no one would be there. When in the stock room, you can hear the fitting room doors slamming shut when the area is empty. In the mornings, we would come in to hear the sensors beeping in the jean wall; we would dig through the piles, find the pair of jeans, and then turn the sensor off. Later on, the beeping would start up again, but in a completely different place on the wall.
+location: Newpark Mall
+state: California
+state_abbrev: CA
+longitude: -122.000631
+latitude: 37.526336
+city_longitude: -122.0402399
+city_latitude: 37.5296593
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

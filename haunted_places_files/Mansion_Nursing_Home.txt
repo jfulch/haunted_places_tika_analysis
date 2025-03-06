@@ -1,0 +1,19 @@
+city: Central Falls
+country: United States
+description: Report of a little girl spirit sighting. Staff, patients seeing shadows, hearing noises, reports of being touch and slapped when no one is around. Patients who normally don't speak French, are speaking French to a little girl. Nurses who walk in and ask the patient who they are speaking to and they claim a little girl, but the nurses don't see a little girl and three days later the patient would die.
+location: Mansion Nursing Home
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.38982399999999
+latitude: 41.883212
+city_longitude: -71.3922785
+city_latitude: 41.8906553
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1793/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

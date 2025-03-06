@@ -1,0 +1,21 @@
+city: Cordova
+country: United States
+description: The cemetery is very old due to the graves dating back to the early 1800's. Flashing lights can be seen from the trees at night when no source of light is even visible. And at a certain grave whose name is "Susan" reveals the shadow of a face and orbs when photographed.
+location: Old Town Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -89.8124546
+latitude: 35.1880861
+city_longitude: -89.761545
+city_latitude: 35.1598391
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

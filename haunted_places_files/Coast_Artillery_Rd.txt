@@ -1,0 +1,21 @@
+city: Fort Story
+country: United States
+description: On the coldest, wettest nights There has been at least two sightings by soldiers who regularly patrol the base of a mysterious ghostly being who allegedly disappears into the wetlands of this area. It has been said that this may be the ghost of a soldier who was stationed here who committed suicide by hanging himself about 5 years ago.
+location: Coast Artillery Rd.
+state: Virginia
+state_abbrev: VA
+longitude: -75.9956658
+latitude: 36.918815
+city_longitude: -76.0173549
+city_latitude: 36.9231796
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 2

@@ -1,0 +1,21 @@
+city: Garden Grove
+country: United States
+description: E Building - Believed to be haunted by Lizzy. Reports say she has turned on the alarms and has also tripped and pushed people down the hall. When they opened up the trap door underneath the building, they could see foot prints in the 2 inch thick dust walking into the dark. After the earthquake it's now just a 1 story building. Where the 2 former stairwells used to be are just blacked out skylights. Rumor is that the bottom halves or the original doors are still attached too.
+location: Garden Grove High School
+state: California
+state_abbrev: CA
+longitude: -117.9354265
+latitude: 33.7783402
+city_longitude: -117.9379952
+city_latitude: 33.7742692
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

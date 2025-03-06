@@ -1,0 +1,21 @@
+city: Clarksdale
+country: United States
+description: It is said that late at night if you go over the Sunflower Bridge...turn off your car and roll down your windows that the cries of help and people yelling could be heard.
+location: Sunflower Bridge
+state: Michigan
+state_abbrev: MI
+longitude: -83.3426114
+latitude: 42.7150605
+city_longitude: -83.4192941
+city_latitude: 42.7351196
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1987/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

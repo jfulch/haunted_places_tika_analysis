@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: Sometimes you can smell cigarette smoke over near the projector, but you can't smell it anywhere else. There is a room at the end of the hall which is very cold. You can see shadows moving fast out of the corner of your eye. One time there was a person reflected in the window, standing next to the projector, but no one was there. Someone had keys on a clip hanging from their pocket at hip level, and these keys somehow came unclipped, flipped around, and clipped on a wire, while this person was standing there. A little while later, they realized they were missing and after searching everywhere, found them hanging on this knee level wire. (There are at least 15 keys on this key ring, so you would have heard them if they fell off.) Another time the light upstairs was shut off, and the only way to get up there is if you have a key, someone with a key turned it back on, and then 5 minutes later when they went upstairs, the light was off again. The lights upstairs are always kept on.
+location: Patriot Cinemas
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.893118
+latitude: 42.522611
+city_longitude: -70.8967155
+city_latitude: 42.51954
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

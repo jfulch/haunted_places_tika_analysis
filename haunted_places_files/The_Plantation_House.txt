@@ -1,0 +1,21 @@
+city: Prattville
+country: United States
+description: Haunted by the ghost of the former owner, Mr. Davis. He killed himself in the early 1920's. The ghost flirts with women mostly by blowing in their ears and touching their backs.
+location: The Plantation House
+state: Alabama
+state_abbrev: AL
+longitude: -86.36936659999999
+latitude: 32.4788184
+city_longitude: -86.4596966
+city_latitude: 32.4640245
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

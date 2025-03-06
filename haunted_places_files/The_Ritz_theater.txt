@@ -1,0 +1,21 @@
+city: Oaklyn
+country: United States
+description: many orbs have been spooted around and insite the site.
+location: The Ritz theater
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.0752966
+latitude: 39.9006469
+city_longitude: -75.0846179
+city_latitude: 39.9009465
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

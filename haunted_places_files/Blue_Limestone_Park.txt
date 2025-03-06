@@ -1,0 +1,20 @@
+city: Delaware
+country: United States
+description: The back two quarries and especially the tunnel leading to them are home to literally dozens of ghosts/spirits. The place is know for cult activity and violent deaths, and supposedly during the 20's was the site of a railroad accident.
+location: Blue Limestone Park
+state: Ohio
+state_abbrev: OH
+longitude: -83.0810991
+latitude: 40.3015636
+city_longitude: -83.067965
+city_latitude: 40.2986724
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

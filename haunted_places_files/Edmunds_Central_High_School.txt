@@ -1,0 +1,20 @@
+city: Roscoe
+country: United States
+description: There have been weird sightings reported from teachers at EC high school. One included a door opening on it's own. Another one was one time a whole room was messed up, and knows one had broken in, because the door was still locked, and at night teachers have heard footsteps walking up and down the stairs. They think the janitor Harold haunts the school, he was a previous janitor.
+location: Edmunds Central High School
+state: South Dakota
+state_abbrev: SD
+longitude: -99.3377217
+latitude: 45.4528429
+city_longitude: -99.3387279
+city_latitude: 45.4485879
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

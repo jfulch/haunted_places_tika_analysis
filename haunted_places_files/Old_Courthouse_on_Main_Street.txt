@@ -1,0 +1,21 @@
+city: Columbiana
+country: United States
+description: Reporters have investigated and it’s said to be haunted by a ghost that occupies the top floor. It was an old courthouse, but now it’s just a museum to artifacts of a variety of old things. The blinds open and shut by themselves, and knocking can be heard in the upstairs kitchen and bathroom. A door was sealed off in the bathroom and the knocking usually comes from outside the door, only outside the door is nothing but the world. A wall was built behind the door and the knocking, noises and movement have yet to be explained.
+location: Old Courthouse on Main Street
+state: Alabama
+state_abbrev: AL
+longitude: -86.6072045
+latitude: 33.1771482
+city_longitude: -86.6072054
+city_latitude: 33.1781718
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1922/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

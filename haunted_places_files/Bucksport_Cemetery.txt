@@ -1,0 +1,21 @@
+city: Bucksport
+country: United States
+description: The grave of Jonathon Buck has a footprint cracked into the tombstone. The tombstone has been replaced many times but the foot always reappears a short time later. Jonathon Buck ordered the death of his mistress, claiming she was a witch. She promised to return and dance on his grave. It is believed to be her foot (and leg) that continues to appear on the tombstone.
+location: Bucksport Cemetery
+state: Maine
+state_abbrev: ME
+longitude: -68.710336
+latitude: 44.6313981
+city_longitude: -68.77012239999999
+city_latitude: 44.6289696
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

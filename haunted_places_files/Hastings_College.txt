@@ -1,0 +1,21 @@
+city: Hastings
+country: United States
+description: Altman Hall of Hastings College - Altman hall is said to be haunted by Clara Altman. She is a good ghost who protects the students staying there. You hear knocking on doors lights turn on and off and radios turned on in the middle of the night.
+location: Hastings College
+state: Nebraska
+state_abbrev: NE
+longitude: -98.3732874
+latitude: 40.5904193
+city_longitude: -98.3898726
+city_latitude: 40.5862583
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2023/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

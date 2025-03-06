@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: Off of Green St. Located right under suicide bridge. people have reported hearing voices, seeing orbs, and feelings of anger and feel very unwelcome. Doors have been reported to move on their own. Woman rumored to have killed herself unable to handle the voices after being at the asylum.
+location: abandoned asylum
+state: California
+state_abbrev: CA
+longitude: -118.152018
+latitude: 34.1338745
+city_longitude: -118.1445155
+city_latitude: 34.1477849
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

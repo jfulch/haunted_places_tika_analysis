@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: The footlocker in Salem center, used to be a parking lot where a little girl was killed, and now employees say that they have heard and seen her ghost back in the shoe room.
+location: Footlocker Downtown
+state: Oregon
+state_abbrev: OR
+longitude: -123.0363038
+latitude: 44.9436758
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

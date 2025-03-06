@@ -1,0 +1,21 @@
+city: Loundonville
+country: United States
+description: The ghost of Abraham Lincoln has been seen in this house, which was owned by the woman who was sitting next to Lincoln when he was shot.
+location: Loudon Cottage
+state: New York
+state_abbrev: NY
+longitude: -73.7626855
+latitude: 42.7025364
+city_longitude: -73.7548424
+city_latitude: 42.7048009
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

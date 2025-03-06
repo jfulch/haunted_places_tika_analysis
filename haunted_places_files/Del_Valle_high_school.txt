@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: It's been known that in this school three young guys killed band members from there. And now it's been known that at night you can hear the screaming of the killed band members, screaming for their lives.
+location: Del Valle high school
+state: Texas
+state_abbrev: TX
+longitude: -106.2965325
+latitude: 31.69278589999999
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.4
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Gunnison
+country: United States
+description: Roubidoux Hall - 3rd Floor - Third Floor Roubidoux is haunted by the ghost of at least one spirit.  He had died from smoke inhalation when the building caught on fire some 20 years ago.  Those who live in the boys old room where he died have seen ghostly apparitions over the side of the bed while sleeping.  The doors have also been known to lock people within the room as he was trapped inside his room when he realized there really was a fire.
+location: Western State College
+state: Colorado
+state_abbrev: CO
+longitude: -106.917763
+latitude: 38.54754
+city_longitude: -106.9253207
+city_latitude: 38.5458246
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1931/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

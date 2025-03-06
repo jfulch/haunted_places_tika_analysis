@@ -1,0 +1,21 @@
+city: Boston
+country: United States
+description: footsteps ,slamming doors, audible voices, missing items, doors mysteriously not unlocking then flying open, used to be a hospital in the 1800's
+location: Boston Conservatory Dorms
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0900107
+latitude: 42.3462021
+city_longitude: -71.0588801
+city_latitude: 42.3600825
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

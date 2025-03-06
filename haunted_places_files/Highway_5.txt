@@ -1,0 +1,21 @@
+city: Nauvoo
+country: United States
+description: A woman was hit by a truck and killed. Now her ghost is said to jump on top of trucks to see if the trucker is the one that killed her.
+location: Highway 5
+state: Alabama
+state_abbrev: AL
+longitude: -87.48115519999999
+latitude: 33.9921118
+city_longitude: -87.4889033
+city_latitude: 33.9895503
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

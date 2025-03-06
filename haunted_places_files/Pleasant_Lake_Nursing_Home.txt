@@ -1,0 +1,20 @@
+city: Parma
+country: United States
+description: Reported by residents and staff of a little girl in rooms and the hallways. Apparently in the lake behind the building a 7-year-old girl drowned.
+location: Pleasant Lake Nursing Home
+state: Ohio
+state_abbrev: OH
+longitude: -81.7391777
+latitude: 41.36872
+city_longitude: -81.7229086
+city_latitude: 41.4047742
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

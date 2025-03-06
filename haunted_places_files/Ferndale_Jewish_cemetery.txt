@@ -1,0 +1,21 @@
+city: Ferndale
+country: United States
+description: In the cemetery at midnight on Woodward between 8 mile and Marshall till 3 in the morning you can hear bells and screaming from in the park behind the cemetery. The history is that the people in the cemetery are in need of deep rest and wont stop till they get it.
+location: Ferndale Jewish cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -83.1307222
+latitude: 42.452461
+city_longitude: -83.1346478
+city_latitude: 42.4605917
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1925/09/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 0

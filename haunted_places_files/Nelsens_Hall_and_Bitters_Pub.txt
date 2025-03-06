@@ -1,0 +1,21 @@
+city: Washington Island
+country: United States
+description: As the oldest continuously operating Tavern In the US, This place seems to be haunted by Its founder Tom Nelsen. Objects disappear and reappear in different places. A hotel guest cut short a stay after an encounter in the back ladies bathroom, and a former employee was tapped on the shoulder when building shelves in the hand dug basement. I was alone at the time, so there is no explanation for the tapping.
+location: Nelsens Hall and Bitters Pub
+state: Wisconsin
+state_abbrev: WI
+longitude: -86.930936
+latitude: 45.372875
+city_longitude: -86.90730239999999
+city_latitude: 45.3798154
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1765/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

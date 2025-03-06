@@ -1,0 +1,21 @@
+city: Fulton
+country: United States
+description: lights turn on and off, doors shut by themselves, kids can hear voices in the hallway during classes and they look around and find no one, the toilets flush by themselves. it is scary
+location: Fulton junior high school
+state: New York
+state_abbrev: NY
+longitude: -76.4201083
+latitude: 43.3019992
+city_longitude: -76.4171585
+city_latitude: 43.3228462
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1999/04/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

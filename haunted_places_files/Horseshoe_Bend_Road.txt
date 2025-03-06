@@ -1,0 +1,20 @@
+city: West Milton
+country: United States
+description: On night there were a few children playing hide and go seek out in the woods located by the river of this road. When the others were searching for this boy they found him hung. As the legend believes, if you are out on this road at night, stop your car on the bridge and get out peering over the side, you will see the figure of this boy coming out of the water and will come towards you.
+location: Horseshoe Bend Road
+state: Ohio
+state_abbrev: OH
+longitude: -84.3174858
+latitude: 40.00848190000001
+city_longitude: -84.3280022
+city_latitude: 39.9625534
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

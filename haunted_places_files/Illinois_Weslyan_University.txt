@@ -1,0 +1,21 @@
+city: Bloomington
+country: United States
+description: International House - The International House is a huge mansion-sized house on the Illinois Weslyan Campus in Bloomington, IL. Since it's first days as a private residence it has since been converted into co-ed dormitories. There was an old elevator that used to be in service in the house and has since been sealed up. Apparently there was a young man who was stuck in the elevator and died when it fell. People still claim to hear the squeals of the elevator gears as it falls. There is also rumored to be the spirit of a young girl who walks around the 3rd floor. She was supposed to be the niece of the President of the University. She died in the house and still wanders the halls. The boys who live on the top floor can sometimes hear the laugh of the little girl.
+location: Illinois Weslyan University
+state: Illinois
+state_abbrev: IL
+longitude: -88.9906541
+latitude: 40.4908892
+city_longitude: -88.99368729999999
+city_latitude: 40.4842027
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Lisle
+country: United States
+description: used to be St. Joseph's Orphanage. The two halls, Benet and Joseph made up this orphanage. Many teachers believe that this place is haunted. There are many claims to orphan sightings. Also, on 4th floor Joseph hall there have been sightings of a nun who watches over the grounds. By the way, this floor is used as a closet to put all the old theater props and has many statues in it. Some have claimed that the statues move. The tunnels are said to be under Benet hall and that they lead to St. Procopius Abbey across the intersection. Some believe in the tunnels and ghosts some don't.
+location: Benet Academy
+state: Illinois
+state_abbrev: IL
+longitude: -88.0946506
+latitude: 41.7843513
+city_longitude: -88.0747875
+city_latitude: 41.801141
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

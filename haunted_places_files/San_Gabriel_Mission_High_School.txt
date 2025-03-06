@@ -1,0 +1,21 @@
+city: San Gabriel
+country: United States
+description: Bathroom towel dispensers are heard being used and a girl is seeing dangling that had hung her self off of the library balcony.
+location: San Gabriel Mission High School
+state: California
+state_abbrev: CA
+longitude: -118.10701
+latitude: 34.0987638
+city_longitude: -118.1058333
+city_latitude: 34.09611110000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

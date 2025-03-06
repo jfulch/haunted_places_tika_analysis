@@ -1,0 +1,19 @@
+city: Weeping Water
+country: United States
+description: It is said that many years ago this witch hung herself from the bridge known as Witch's bridge. It is said that if you go out there on an odd night at an odd hour with an odd number of people and hang your head and top half of your body over the edge of the bridge you will see yourself hanging or she will pull you under the bridge.
+location: Witch's Bridge
+state: Nebraska
+state_abbrev: NE
+city_longitude: -96.139972
+city_latitude: 40.8699301
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

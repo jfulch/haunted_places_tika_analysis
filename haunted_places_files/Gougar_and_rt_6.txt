@@ -1,0 +1,21 @@
+city: New Lenox
+country: United States
+description: some have said to have seen a headless ghost walking on the north side of Gougar Rd. the story has it that the man lived in the farmhouse on Gougar Rd., he committed suicide in the barn by hanging.
+location: Gougar and rt. 6
+state: Illinois
+state_abbrev: IL
+longitude: -88.0055641
+latitude: 41.5476739
+city_longitude: -87.9656098
+city_latitude: 41.5119761
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

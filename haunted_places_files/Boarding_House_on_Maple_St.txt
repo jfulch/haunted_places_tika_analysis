@@ -1,0 +1,20 @@
+city: Marlborough
+country: United States
+description: Cold spots felt, apparitions seen, slamming doors heard. A dresser that was impossible to move by ones self was moved far away from the wall, drawers where open.
+location: Boarding House on Maple St.
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.5421879
+latitude: 42.3362375
+city_longitude: -71.5522874
+city_latitude: 42.3459271
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

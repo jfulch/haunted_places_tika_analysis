@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: During the building of the Catwalk, a man fell and landed on the seats, breaking his back. He suffered a long death. During shows he will occasionally turn off/on one or two lights. If you sit on the stage in the dark you will head footsteps on the catwalk then the sound of something falling.
+location: Liberty High School Auditorium
+state: Colorado
+state_abbrev: CO
+longitude: -104.7362991
+latitude: 38.9591037
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

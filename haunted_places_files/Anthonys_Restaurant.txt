@@ -1,0 +1,21 @@
+city: Atlanta/Fulton
+country: United States
+description: Old mansion, now high-class restaurant. Dishware flying across the restaurant has been reported. Large orbs can be seen on film. People that "were never there" play tricks on the surrounding grounds. Voices heard when you're alone. The feelings of cold sensations when you pass through doorways, and hand on your back are strong.
+location: Anthony's Restaurant
+state: Georgia
+state_abbrev: GA
+longitude: -84.30895579999999
+latitude: 33.8673253
+city_longitude: -84.3879824
+city_latitude: 33.7489954
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

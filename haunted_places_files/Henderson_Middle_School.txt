@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Reports of six students which went to the place at night and heart footsteps in back of them and herd someone screaming on the dark hall.
+location: Henderson Middle School
+state: Texas
+state_abbrev: TX
+longitude: -106.425612
+latitude: 31.764269
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

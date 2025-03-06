@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: Workers staying late at the office building often hear footsteps, elevators open as you pass them, things move, disappear and appear in strange places.
+location: Office Building 1011-South Highway 6
+state: Texas
+state_abbrev: TX
+longitude: -95.642305
+latitude: 29.7684808
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

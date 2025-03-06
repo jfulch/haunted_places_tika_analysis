@@ -1,0 +1,21 @@
+city: Phoenixville
+country: United States
+description: There are several spirits that have been sited on the grounds. The spirit of a young boy has been seen in an upstairs dinning room (formerly a guest room of the inn). The spirit of a middle age man has been seen on several occasions, always looking down the second floor stair well. He is believed to be a former owner who in his old age had fallen to his death in this stair well while supervising the cleaning ladies. The most prominent spirit is that of a woman who had hung her self in the third floor attic.
+location: Historical Seven Stars Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.5962347
+latitude: 40.1638725
+city_longitude: -75.51491279999999
+city_latitude: 40.1303822
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

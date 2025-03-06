@@ -1,0 +1,21 @@
+city: Kokomo
+country: United States
+description: There is an old house sitting on the north - east corner, where once known an old man and his mother lived. Later she died, and he left the house because of the spirit of her. Reports of something knocking on cars, apparitions and orbs seen around the house and in the windows.
+location: Carter Rd. &amp; 400 North
+state: Indiana
+state_abbrev: IN
+longitude: -120.9397408
+latitude: 37.8867475
+city_longitude: -86.13360329999999
+city_latitude: 40.486427
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

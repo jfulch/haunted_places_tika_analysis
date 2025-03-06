@@ -1,0 +1,21 @@
+city: Davis City
+country: United States
+description: can be seen shooting across the cemetary very late at night. Animal sacrifices have also been known to be practiced in the early nineties. As you enter the cemetary a sudden feeling of pressure is often felt.
+location: Cemetary
+state: Iowa
+state_abbrev: IA
+longitude: -93.8187845
+latitude: 40.6411793
+city_longitude: -93.8116131
+city_latitude: 40.6391684
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1758/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

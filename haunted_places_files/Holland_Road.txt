@@ -1,0 +1,21 @@
+city: Central Kitsap
+country: United States
+description: So the story goes, an older man had just gotten back from a vacation late in the night and went out to his mailbox to grab his mail. A group of inebriated teenagers were driving along the road with their lights off, and they struck the man as he got his mail, killing him. The story goes that if you drive down the road slowly with your lights off, you'll see shadows and whatnot. Another Story is that a couple of guys were driving slowly with their lights off, and all of the sudden a big horse was in front of them. When they turned their lights on, there was nothing there.
+location: Holland Road
+state: Washington
+state_abbrev: WA
+longitude: -122.6527773
+latitude: 47.624555
+city_longitude: -122.7967863
+city_latitude: 47.6199023
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

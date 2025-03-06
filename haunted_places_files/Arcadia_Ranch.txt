@@ -1,0 +1,21 @@
+city: Oracle
+country: United States
+description: This used to be a hospital for TB patients. Several of them died. One of the ghosts is a nurse who contracted the disease and died. She is still trying to take care of people. There is another ghost there that dislikes things hung on the north wall of the main room. There used to be artwork hung on the wall. In the evening, when the caretaker left, it would be on the wall. In the morning, it would be set on the floor.
+location: Arcadia Ranch
+state: Arizona
+state_abbrev: AZ
+longitude: -110.765003
+latitude: 32.6094549
+city_longitude: -110.7709348
+city_latitude: 32.6109054
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: French Quarter-this is haunted for vampire hauntings by some people in the French quarter at night in this one ally where he killed all of his victims. When the cops found them there was no blood left in there bodies. He comes after female victims of all hours of the night. He has long, curly, brown hair. With 1800's clothing style so beware and attempt with caution.
+location: The French Quarter
+state: Louisiana
+state_abbrev: LA
+longitude: -90.0644107
+latitude: 29.9584426
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1718/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

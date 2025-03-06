@@ -1,0 +1,19 @@
+city: Redkey
+country: United States
+description: First the shoetree has many pairs of sneakers in it all tied together and flung in there. The story goes that a man was killed and then had his shoes thrown up in the tree. He now haunts this place and if you go there at night and get out of your car he will murder you and thrgw your shoes up there with his. A half a mile down the road is Crybaby Bridge. Supposedly a school bus full of girl scouts went over and now you can hear them crying down there. If you stop on the bridge and turn off your car it might not start again.
+location: Shoetree and Crybaby bridge
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.14996959999999
+city_latitude: 40.3489327
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

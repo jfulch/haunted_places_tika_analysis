@@ -1,0 +1,20 @@
+city: Sedalia
+country: United States
+description: I stayed there with a friend and heard knocking on our door multiple times...each time we checked and nothing was there. Spoke with the staff and they said only one floor is haunted and that was the one we were staying on. Other stories of doors slamming and knocking have been reported we are told.
+location: Bothwell Hotel
+state: Missouri
+state_abbrev: MO
+longitude: -93.228022
+latitude: 38.707913
+city_longitude: -93.2282613
+city_latitude: 38.7044609
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

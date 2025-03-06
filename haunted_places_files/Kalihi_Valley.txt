@@ -1,0 +1,20 @@
+city: Honolulu
+country: United States
+description: There has been reported that if you drive past the bridge entering the forest that you can here a soft sound saying "come here" constantly. while driving you will see a red cross burning while driving at night. It has also been reported your gear in your vehicle will be in neutral while returning.
+location: Kalihi Valley
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8420751
+latitude: 21.3635455
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

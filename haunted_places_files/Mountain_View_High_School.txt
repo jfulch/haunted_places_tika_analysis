@@ -1,0 +1,21 @@
+city: El Monte
+country: United States
+description: Late at night people see shadowy figures running the track, and playing football and if you look carefully their is a figure hanging from the goal post in the football field.
+location: Mountain View High School
+state: California
+state_abbrev: CA
+longitude: -118.011564
+latitude: 34.05399
+city_longitude: -118.0275667
+city_latitude: 34.0686206
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

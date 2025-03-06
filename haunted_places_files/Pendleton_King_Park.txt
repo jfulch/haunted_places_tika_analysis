@@ -1,0 +1,21 @@
+city: Augusta
+country: United States
+description: Small cemetery in the park belongs to the Bugg family. The park is the former site of the Bugg Plantation, purchased pre-1842 by Judge John P. King and donated to the city by his son, Henry King, upon his death. Reports have been made for years involving a white figure that darts in and out of the trees surrounding the brick walled cemetery, and in and out of the cemetery itself. There are also tales of a Camellia bush that grew beside the old mansion (now burned down), it would bloom profusely in warning of the coming death of one of the King family.
+location: Pendleton King Park
+state: Georgia
+state_abbrev: GA
+longitude: -82.012639
+latitude: 33.4588712
+city_longitude: -82.0105148
+city_latitude: 33.4734978
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1974/06/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

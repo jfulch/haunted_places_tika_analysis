@@ -1,0 +1,21 @@
+city: Glendora
+country: United States
+description: a boy student in the mid 90's left a suicide note to his parents early in the morning and he brought a gun with him. On a foggy morning the boy shot him self on the black top straight across from the boys locker room where the portable class rooms are. One teacher who used to teach in one of those class rooms said from the corner of his eye he saw a boy sitting in the desks and when he looked up the boy was not there. When the teacher went on brake the teacher who was in the class next to his asked, "what was all that banging in your class room?" after that the teacher knew that something was up and found out his old class room is on the location were the boy shot him self.
+location: Glendora High School
+state: California
+state_abbrev: CA
+longitude: -117.835489
+latitude: 34.1343
+city_longitude: -117.865339
+city_latitude: 34.1361187
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

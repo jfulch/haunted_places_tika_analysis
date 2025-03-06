@@ -1,0 +1,19 @@
+city: Uxbridge
+country: United States
+description: house is 350 years old and many people have died in it. People have seen figures of an old woman and things tend to turn on and off by themselves. There is an old family burial ground in the back yard. Tenants often move in and out of this house frequently. The house is currently occupied.
+location: Montville House
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.6302532
+city_latitude: 42.07724289999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

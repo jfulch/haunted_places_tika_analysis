@@ -1,0 +1,21 @@
+city: Temecula
+country: United States
+description: A black spirit has been seen in the embalming room of this funeral home. Many other strange experiences have occurred such as lights turning on and off, knockings at doors and ghostly whispering.
+location: Stout Family Funeral Home
+state: California
+state_abbrev: CA
+longitude: -117.1690768
+latitude: 33.5286933
+city_longitude: -117.1483648
+city_latitude: 33.4936391
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Santa Ana
+country: United States
+description: A young teenage actress, named Alice, died in the auditorium before the opening Act. She was in the balcony looking to see if her parents were there, when she fell over to the first floor and died. It is said that if you go to the Attic of the auditorium you could here someone inside knocking and walking around. Once you go in there is no one there. Lead actors and actresses have also said that when an opening Act is about to start there is A "good luck " sign carved on the floor, once the play it's over the carving isn't there anymore.
+location: Santa Ana High School
+state: California
+state_abbrev: CA
+longitude: -117.8740904
+latitude: 33.7436228
+city_longitude: -117.867653
+city_latitude: 33.7454725
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

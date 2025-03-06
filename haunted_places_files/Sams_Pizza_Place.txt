@@ -1,0 +1,20 @@
+city: Newton Falls
+country: United States
+description: In the upstairs part of the pizza place or the attic employees say they hear voices and unexplained sounds when no one else is working. Also telephone constantly ringing and no one talks. It is said that it is haunted by the ghost of a 13 year old boy who past away on the premises before it was a pizza shop.
+location: Sam's Pizza Place
+state: Ohio
+state_abbrev: OH
+longitude: -80.982153
+latitude: 41.182865
+city_longitude: -80.97814679999999
+city_latitude: 41.18839
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

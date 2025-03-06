@@ -1,0 +1,21 @@
+city: San Diego
+country: United States
+description: The school was built in the early 50's. There was a girl that once went to the school in the 60's who died by bumping her head during a PE class. Ever since people have said of strange noises from behind them only to see that no one is there.
+location: Muirlans Middle School
+state: California
+state_abbrev: CA
+longitude: -117.2688734
+latitude: 32.8323834
+city_longitude: -117.1610838
+city_latitude: 32.715738
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

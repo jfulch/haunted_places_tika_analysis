@@ -1,0 +1,21 @@
+city: Visalia
+country: United States
+description: Supposedly... people jogging on the river trail would sometimes see an Indian man in on the side of the trail walking with a horse.
+location: St. Johns River
+state: California
+state_abbrev: CA
+longitude: -119.2555944
+latitude: 36.3480949
+city_longitude: -119.2920585
+city_latitude: 36.3302284
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

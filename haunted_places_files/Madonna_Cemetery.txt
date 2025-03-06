@@ -1,0 +1,21 @@
+city: New Castle
+country: United States
+description: A tombstone lies here with a picture of a man who has, one white hand and one Black Hand on it. Legend states that if you put a white sheet over the top of the headstone on All Hollow's Eve (October 30), at midnight and knock 3 times, the man will appear behind you.
+location: Madonna Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.3773478
+latitude: 40.9941408
+city_longitude: -80.34700900000001
+city_latitude: 41.0036719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1832/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

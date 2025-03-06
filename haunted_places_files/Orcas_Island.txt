@@ -1,0 +1,21 @@
+city: Rosario Resort
+country: United States
+description: Some people who were long time workers for the resort have seen the deceased wife of the man who originally owned the resort before it became one. Common story will be seeing her on the 2nd or 3rd floor wearing a Red dress of the 1930's and believe it or not, she will be driving through the 2nd floor on her old favorite motorcycle.
+location: Orcas Island
+state: Washington
+state_abbrev: WA
+longitude: -122.873301
+latitude: 48.6446687
+city_longitude: -122.873301
+city_latitude: 48.6446687
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

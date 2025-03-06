@@ -1,0 +1,21 @@
+city: Keshena
+country: United States
+description: Surveillance cameras seen 3 children running around in a restricted area of the hotel and when security got there the children were still there playing tag it looked like, running around the security guard the only thing was the security guard could not see them, the cameras caught them but the man who was standing right there could not.
+location: Menominee Casino Bingo and Hotel
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.63002399999999
+latitude: 44.863129
+city_longitude: -88.6337152
+city_latitude: 44.88387119999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.8
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

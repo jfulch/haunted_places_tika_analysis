@@ -1,0 +1,21 @@
+city: Omer
+country: United States
+description: Witnesses report a small yeti type creature. Fowl smell, followed by the feeling of being watched and hearing screams. Also seeing large eyes all around and creatures that stand taller than cars, but only at night.
+location: Omer Plains
+state: Michigan
+state_abbrev: MI
+longitude: -83.91332400000002
+latitude: 44.063631
+city_longitude: -83.8544333
+city_latitude: 44.0475198
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

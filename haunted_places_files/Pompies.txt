@@ -1,0 +1,21 @@
+city: Reed City
+country: United States
+description: this is a pizza place. Chairs move away from the tables by themselves. Pinball machines play by themselves and ghostly figures are seen in the alley outside between 9 and 12.
+location: Pompie's
+state: Michigan
+state_abbrev: MI
+longitude: -85.5101383
+latitude: 43.8754929
+city_longitude: -85.5100498
+city_latitude: 43.8750174
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

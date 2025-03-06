@@ -1,0 +1,21 @@
+city: Couer D'Alene
+country: United States
+description: This is haunted by a strange apparition that haunt the auditorium of the school right before we turn out the lights for a play. After clean up from a production and right before; at the back of the auditorium is a ghostly figure that walks paces behind the last row of seats. The next day storage room doors are open and things are strewn about.
+location: Couer D' Alene High school
+state: Idaho
+state_abbrev: ID
+longitude: -116.7774239
+latitude: 47.7211708
+city_longitude: -116.7804664
+city_latitude: 47.6776832
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bridgewater
+country: United States
+description: An old Indian summer-time camp and burial ground. It is said that after King Phillip was caught by Myles Standish his body was drawn and quartered. His remains were scattered throughout Massachusetts so that his spirit could not go on to the after life. On quiet fall nights it is said that if you listen carefully what sound like leaves rustling is actually his remains crawling to get back together. Also, more recently, Camp Titticut was a boys camp in the 1930's through 1950's. It had a huge building used as a cafeteria, two story and three-story house as well as about eight cabins. A boy drowned in the small pond in the center of the camp in the 1940's and his ghost has been seen and heard wandering the woods for the past 60 years. Most of the buildings were burned down in the late 1980's so the town tore the rest of them down.
+location: Camp Titticut
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9989314
+latitude: 41.9334344
+city_longitude: -70.9750541
+city_latitude: 41.9903519
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

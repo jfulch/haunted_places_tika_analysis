@@ -1,0 +1,21 @@
+city: Seward
+country: United States
+description: Janitors report of several weird things happening in this school. They said that you can hear and see kids walking up and down the hall ways at night and one of the ghosts actually talks to one of the janitors. The janitor said that there was a day care center that burned down killing everyone in it, and the new addition of the school was built on that. In the girls locker rooms, the showers have been seen turning on and off by themselves, the janitors will turn off the lights and find them back on later that night.
+location: Seward Middle School
+state: Nebraska
+state_abbrev: NE
+longitude: -97.0868946
+latitude: 40.9287802
+city_longitude: -97.0984927
+city_latitude: 40.9078784
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: Lawrence Hall -  A student at living in Lawrence Hall on the 10th floor was said to be smoking a cigarette in her room and fell asleep with the cigarette left lit by her side. The room caught on fire trapping her in her room and killing her. Workers at the college cleaned and repainted the room. A new student moved in and 2 weeks the walls turned chard as if nobody ever painted them. Every year the walls are repainted and they continuously turn chard again. The room is no longer used.
+location: Point Park College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0012691
+latitude: 40.43850279999999
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/12/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Kansas City
+country: United States
+description: Grave yard near Metro North Mall - towards the back lot were the oldest graves are. Cold spots felt, feeling something moving around you, seeing a sort of movement all around you, Apparitions seen.
+location: Berry Road
+state: Missouri
+state_abbrev: MO
+longitude: -94.4951649
+latitude: 39.2454726
+city_longitude: -94.5785667
+city_latitude: 39.0997265
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/06/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 1

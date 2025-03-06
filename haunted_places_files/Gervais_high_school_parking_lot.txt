@@ -1,0 +1,21 @@
+city: Gervais
+country: United States
+description: once, back in the late 1800's the place where the school used to be was where the native Americans buried their dead. if you go there at night, when the moon is full, there are reports of Indians yelling, and a group of Indians will crowd around you, scratching you. the school is built right on top of the site. another haunting is of the parking lot, at night, a priest was murdered while getting into his car. you can still hear him scream, but only on certain nights.
+location: Gervais high school parking lot
+state: Oregon
+state_abbrev: OR
+longitude: -122.8940122
+latitude: 45.1040155
+city_longitude: -122.8975952
+city_latitude: 45.1081752
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

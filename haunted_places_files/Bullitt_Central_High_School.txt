@@ -1,0 +1,21 @@
+city: Shepherdsville
+country: United States
+description: When this small town was founded in the late 1700's, the town built houses for the county's and town's officials (judges, clerks, sheriff, etc.). This was on the site of present day Bullitt Central High. Legend has it many executions took place on the site of the gym before proper law had been established. Many eye-witnesses have given reports of strange occurrences at the school late at night including but not limited to: Outside doors suddenly opening, lights turning on, footsteps, and voices throughout the large gym.
+location: Bullitt Central High School
+state: Kentucky
+state_abbrev: KY
+longitude: -85.6978869
+latitude: 37.9997433
+city_longitude: -85.7157924
+city_latitude: 37.9883991
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

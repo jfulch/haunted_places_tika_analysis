@@ -1,0 +1,21 @@
+city: St. Albans
+country: United States
+description: What is now a movie theater had had several encounters. The movie theater which used to be a jail has had several strange and unexplained encounters. Several times the projection booths have been a spot of mystery. Movies have started by them selves and voices can be heard in the old booths. The basement, which still has the remains of old jail cells, has the feeling of being watched. An old man with a white sweater has been seen walking around the basement. He is said to be an old homeless person who years ago moved into the basement and lived there. The basement door also has been know to fly open even when latched. Doors that say alarm will sound when opened have opened with out the alarm going off. Overall the theater has a very uneasy feeling to it.
+location: Welden Theatre
+state: Vermont
+state_abbrev: VT
+longitude: -73.0831457
+latitude: 44.8134681
+city_longitude: -73.0835582
+city_latitude: 44.8107132
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1771/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

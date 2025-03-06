@@ -1,0 +1,21 @@
+city: Edmonds
+country: United States
+description: The building, before its renovation, was built at the turn of the century. Witnesses claim to have seen a glowing figure of a man floating down the isle inside the theater. The apparition was shadowy with sort of a glowing aura surrounding him.
+location: Edmonds Theater
+state: Washington
+state_abbrev: WA
+longitude: -122.3776966
+latitude: 47.8109502
+city_longitude: -122.3773551
+city_latitude: 47.8106521
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 16m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

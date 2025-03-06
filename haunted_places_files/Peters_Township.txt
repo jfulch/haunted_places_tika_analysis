@@ -1,0 +1,21 @@
+city: Cecil
+country: United States
+description: Montour Trail "HELL" - Reports of unexplained lights that don’t shine. A short figure that has green eyes and a white hand on its left side. A little girl in a white dress that follows people. Strange noises, feeling of being followed. Outside one tunnel always rocks falling from the road, even thought the road is paved. There was supposedly a train wreck in the late 1800’s or early 1900’s where the trail is now located.
+location: Peters Township
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.09800369999999
+latitude: 40.3016082
+city_longitude: -80.1986649
+city_latitude: 40.3099159
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

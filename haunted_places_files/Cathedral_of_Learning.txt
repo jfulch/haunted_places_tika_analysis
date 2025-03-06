@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: Unknown spirits haunt this building. This is mainly on the top floor of it.
+location: Cathedral of Learning
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.953239
+latitude: 40.4442526
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

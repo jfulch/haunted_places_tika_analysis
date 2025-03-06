@@ -1,0 +1,20 @@
+city: Manfields
+country: United States
+description: An abandoned asylum for the feeble minded or mentaly retarded. Part of it is apparently used for storage for old UCONN stuff but other parts have a very weird vibe to them. Many pictures have been taken with "orbs", especially outside and in the basement.
+location: Mansfield Training Center
+state: Connecticut
+state_abbrev: CT
+longitude: -72.1986412
+latitude: 41.7333118
+city_longitude: -72.2292913
+city_latitude: 41.788489
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Danbury
+country: United States
+description: Fairfield Hall -  3rd floor haunted by soul of young girl who had committed suicide in the tower on the top of the hall. She is know for apparitions in windows n mirrors.... running showers and showing up in photographs. She is known for making mirrors become never ending ...and making screaming sounds all through the night...is she waiting to be let free...or is she just haunting the students who live there.
+location: Western Connecticut State University
+state: Connecticut
+state_abbrev: CT
+longitude: -73.4449401
+latitude: 41.4007198
+city_longitude: -73.4540111
+city_latitude: 41.394817
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1962/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Raytown
+country: United States
+description: Update: The Asylum as been torn down and it is very dangerous! No Trespassing - Old burnt down building. Claims to have heard footsteps and moaning inside the building. Also blood has been seen on the floor. An elderly man is said to haunt the place.
+location: The Insane Asylum
+state: Missouri
+state_abbrev: MO
+longitude: -94.467658
+latitude: 39.02994
+city_longitude: -94.4635638
+city_latitude: 39.0086171
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

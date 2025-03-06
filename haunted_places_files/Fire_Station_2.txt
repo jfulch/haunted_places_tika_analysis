@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: Believed to be an old grave site before the station was built. And haunted by a firefighter by the name of Lupito. Firefighters feel their legs being pulled off the bed while they try to sleep. Furniture shaking and moving, and reports of actual levitation.
+location: Fire Station #2
+state: Texas
+state_abbrev: TX
+longitude: -82.8223847
+latitude: 34.67665849999999
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

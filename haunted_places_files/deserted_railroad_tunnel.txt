@@ -1,0 +1,20 @@
+city: Moonville
+country: United States
+description: was once a life for people living in the sparsely populated area of southeastern Ohio; legend has it that a railway worker was having an affair with the engineer's wife, he found out about it and ran the railroad worker over, decapitating him; you can see a headless figure walking where the tracks used to be, at night carrying a lantern, looking for his head (also be careful not to go out there by yourself, the locals do not want you around and may be aggressive in protecting their area)
+location: deserted railroad tunnel
+state: Ohio
+state_abbrev: OH
+longitude: -82.3224523
+latitude: 39.3072804
+city_longitude: -82.3224523
+city_latitude: 39.3072804
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

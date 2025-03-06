@@ -1,0 +1,21 @@
+city: Clearfield
+country: United States
+description: In auditorium there are reports by night crews that the old music teacher smokes vanilla pipe tobacco and plays the piano.
+location: Clearfield Middle school
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.4824871
+latitude: 40.9926903
+city_longitude: -78.4391876
+city_latitude: 41.0272796
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

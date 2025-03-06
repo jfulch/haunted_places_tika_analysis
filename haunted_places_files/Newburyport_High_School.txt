@@ -1,0 +1,21 @@
+city: Newburyport
+country: United States
+description: An unknown ghost haunts the halls of the third floor in Newburyport High school. Janitors have reported the sounds of footsteps passing right by them late at night when no one else occupies the building. They have also reported smelling a faint scent of pipe smoke in the hall. It is believed that the ghost is friendly, possibly a former teacher or alum from NHS.
+location: Newburyport High School
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8862475
+latitude: 42.8131417
+city_longitude: -70.87727509999999
+city_latitude: 42.8125913
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

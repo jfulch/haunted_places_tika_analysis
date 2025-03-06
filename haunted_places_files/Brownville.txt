@@ -1,0 +1,21 @@
+city: Northport
+country: United States
+description: Brownville was a town back in the 20s. Not much remains there anymore except for the old church house. It is said that on some nights, you can hear children laughing that were in an old nursery that used to be in the church.
+location: Brownville
+state: Alabama
+state_abbrev: AL
+longitude: -87.710578
+latitude: 33.39729
+city_longitude: -87.5772293
+city_latitude: 33.229007
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1939/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

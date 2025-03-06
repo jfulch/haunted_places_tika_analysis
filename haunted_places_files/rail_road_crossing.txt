@@ -1,0 +1,21 @@
+city: Glen Ellen
+country: United States
+description: It's said that in Glen Helen by the rail road tracks if you put your car in neutral with your car not facing the rail road tracks and wait two through three minutes it is said that the ghosts of six kids will start to push your car slowly at first, then with a rapid speed they will try to get you to the tracks, if you try to stop, it is difficult if they have gained their full speed! You can verify this by driving to the nearest gas station and if you look closely you can see their little hand prints!
+location: rail road crossing
+state: California
+state_abbrev: CA
+longitude: -122.5120208
+latitude: 38.3501481
+city_longitude: -122.5241487
+city_latitude: 38.3640795
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1989/05/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

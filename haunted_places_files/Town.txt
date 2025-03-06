@@ -1,0 +1,20 @@
+city: McLaughlin
+country: United States
+description: The entire town seems to be haunted; the roads have a different story to tell about them, at least 40 years ago, a man was driving on the road and he got into a car wreck. The man was decapitated, and they found his head in a cow-drinking pond, to this very day, it is said that the man is looking for his head. numerous houses are haunted here
+location: Town
+state: South Dakota
+state_abbrev: SD
+longitude: -100.8104113
+latitude: 45.8144431
+city_longitude: -100.8104113
+city_latitude: 45.8144431
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

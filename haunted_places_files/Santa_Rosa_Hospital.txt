@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Many people do not like to work the night shift at Santa Rosa Hospital because they have either seen or heard about a headless nun who glides around. Many people have admitted to seeing the nun.
+location: Santa Rosa Hospital
+state: Texas
+state_abbrev: TX
+longitude: -98.589833
+latitude: 29.51288509999999
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

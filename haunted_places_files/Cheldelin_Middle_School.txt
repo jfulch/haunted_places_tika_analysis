@@ -1,0 +1,21 @@
+city: Corvallis
+country: United States
+description: A janitor died from a heart attack in the upstairs gym. When the doors are shut and locked, he can be heard whistling, pushing his broom, the sound of his keys jingling as he walks. The lights mysteriously turn on by themselves.
+location: Cheldelin Middle School
+state: Oregon
+state_abbrev: OR
+longitude: -123.2373389
+latitude: 44.601108
+city_longitude: -123.2620435
+city_latitude: 44.5645659
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

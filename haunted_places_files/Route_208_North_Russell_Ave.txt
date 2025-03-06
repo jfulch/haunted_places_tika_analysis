@@ -1,0 +1,19 @@
+city: Wycoff
+country: United States
+description: Wyckoff Exit - The legend is, there was a girl who was killed by a hit and run, and her father roams the streets (only on Russell Ave) every night from 12:00 a.m. to 6:00 a.m. looking for her killer. He is also blind. You can ride around all you want before 12:00am and you will not see him, but he seems to appear right at 12:00am. He will stop and stare at every car that drives by, so you will hardly ever see him walking, but yet you drive 1 block and turn around and he has already walked 5 blocks down.
+location: Route 208 North, Russell Ave.
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.1729106
+city_latitude: 41.0095316
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1927/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

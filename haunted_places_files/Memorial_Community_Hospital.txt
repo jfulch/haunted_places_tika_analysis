@@ -1,0 +1,21 @@
+city: Edgerton
+country: United States
+description: For years, second and third shift workers occasionally see a former nurse in the older part of the hospital "checking" on patients. Many believe it is the spirit of an R.N. who died in the hospital.
+location: Memorial Community Hospital
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.0791333
+latitude: 42.84021329999999
+city_longitude: -89.0676125
+city_latitude: 42.8352835
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

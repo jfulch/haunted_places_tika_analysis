@@ -1,0 +1,21 @@
+city: Middlesex County
+country: United States
+description: (A local theater group in Middlesex County) - They often boast to be the most haunted theater in New Jersey.
+location: Circle Players
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.4576635
+latitude: 40.5819645
+city_longitude: -74.35874729999999
+city_latitude: 40.4111363
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1675/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

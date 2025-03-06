@@ -1,0 +1,20 @@
+city: J.S.
+country: United States
+description: Sometimes at night lights come out of the grave, and dance around. If you are in the cemetery when it comes out they will dance around you, but if you are just entering it when they are already out they will force or scare you out.
+location: Sauls Valley Cemetery
+state: Mississippi
+state_abbrev: MS
+longitude: -90.0619772
+latitude: 31.3732668
+city_longitude: -90.2059233
+city_latitude: 31.3648962
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Capitol Hill
+country: United States
+description: June 2008 Removed. Private property. No Tresspassing. Tresspassers will be prosecuted.
+location: Behind the Capitol building
+state: Utah
+state_abbrev: UT
+longitude: -111.8881773
+latitude: 40.7774076
+city_longitude: -111.8931957
+city_latitude: 40.7783435
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

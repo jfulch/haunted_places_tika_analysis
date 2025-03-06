@@ -1,0 +1,21 @@
+city: Hancock
+country: United States
+description: Phi Kappa Tau House - In our 102 year history of the house, it has been a hospital, hotel, doctors office, and now a fraternity house. One of the brothers fell off the fire escape 20-30 years ago and died. Strange things happen such as faucets turning on, lights going on and off, and doors will open and close. In addition their dog will not go into ROOM 1. She will stand outside the door and watch something or someone go around the room. There has also been sightings of miners and other strange people in the house. The basement was a morgue, and every now and then when down there it will go from being warm to ice cold even though it may be 70 degrees outside.
+location: Finlandia University
+state: Michigan
+state_abbrev: MI
+longitude: -88.5891047
+latitude: 47.1265521
+city_longitude: -88.5809563
+city_latitude: 47.1268714
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1906/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

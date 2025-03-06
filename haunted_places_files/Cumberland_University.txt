@@ -1,0 +1,21 @@
+city: Lebanon
+country: United States
+description: Memorial Hall - Memorial hall is said to be haunted by several different ghosts. A boy waiting for his class to begin was sitting on the window sill of the third floor. He leaned back on the window and the window gave way, and tragically he fell to his death. It is said that the boy wonders the third floor slamming the doors as he makes his way through the hall. Also, many years ago a science teacher who's class was on the third floor was leaving for the night. He was making his way down the many flights of stairs when he began experiencing signs of a heart attack. He drove home and died there. Rumor has it that When walking down the stairs at night you will feel someone pushing you and hurrying you down the steps.
+location: Cumberland University
+state: Tennessee
+state_abbrev: TN
+longitude: -86.2994004
+latitude: 36.2042605
+city_longitude: -86.2911024
+city_latitude: 36.2081098
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

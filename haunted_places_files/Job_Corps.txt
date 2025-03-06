@@ -1,0 +1,21 @@
+city: San Marcos
+country: United States
+description: the graveyard shift has lots of stories of ghostly apparitions, lady in white that was murdered. Lots of ghosts seen by the kids in barracks as well as the house aides, it was formerly an Air Force base. There are to many stories to even begin to tell. Just go ask anyone that works or lives there!
+location: Job Corps
+state: Texas
+state_abbrev: TX
+longitude: -97.8894763
+latitude: 29.885154
+city_longitude: -97.9413941
+city_latitude: 29.8832749
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

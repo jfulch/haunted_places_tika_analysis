@@ -1,0 +1,19 @@
+city: Agoura
+country: United States
+description: Young man killed by drunk driver on that road. Driver was convicted and committed suicide. Accident appears to recreate itself, most strongly on the anniversary of the accident. CHP has had reports of accidents at that area, caused by people swerving to miss the white car, although later investigations show that the white car was never there.
+location: 101 Freeway Near Las Virgines Road
+state: California
+state_abbrev: CA
+city_longitude: -118.7616764
+city_latitude: 34.1533395
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

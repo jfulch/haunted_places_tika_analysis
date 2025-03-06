@@ -1,0 +1,18 @@
+city: Shelby
+country: United States
+description: known as the sugar shack, they tapped trees for maple syrup, one day 3 people went out there into the woods in the middle of the night looking for mischief, and never returned, if you travel down shelby ganges, and pass the stop sign, you will find the s curve surrounded by woods, if you st`p your car on the side of the road, follow the screams and you will find the sugar shack, as it was in the early 1800's, but if you go in the day, the only thing standing is the foundation, which once was the site of a bloody massacre.
+location: The Sugar Shack
+state: Ohio
+state_abbrev: OH
+city_longitude: -82.6618424
+city_latitude: 40.88144519999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

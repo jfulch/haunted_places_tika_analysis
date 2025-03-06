@@ -1,0 +1,21 @@
+city: Novi
+country: United States
+description: Back before the extensions were built to expand the high schools, tunnels and walkways were built under the old school creating a maze of disjointed paths underground. Strange occurrences happen as equipment in these halls frequently malfunction, causing temperature changes throughout the school. The hatches leading to these places vibrate periodically and growling noises as well as anything near the entrances to the tunnels get sucked under when even slightly open.
+location: Novi High School
+state: Michigan
+state_abbrev: MI
+longitude: -83.492317
+latitude: 42.463106
+city_longitude: -83.4754913
+city_latitude: 42.48059
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

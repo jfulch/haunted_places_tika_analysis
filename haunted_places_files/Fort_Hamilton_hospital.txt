@@ -1,0 +1,20 @@
+city: Hamilton
+country: United States
+description: it was been said that Mr. Hughs the man the hospital is named after walks the floor of the hospital. Nurses report seeing a image of the man in the monitors of the hospital. Also reported that one night a man was looking in the icu doors and a nurse stated hi to the man the man then turned away and when the nurse looked back he was gone. Also in the icu linen rooms it was stated that when a cna entered the room she heard a man moaning very loud, came out noticing that there was no man in the unit or on staff that night it frightened her.  she went back into room to hear it again and left the hospital never to return back to work there.
+location: Fort Hamilton hospital
+state: Ohio
+state_abbrev: OH
+longitude: -84.57262999999999
+latitude: 39.415506
+city_longitude: -84.5613355
+city_latitude: 39.3995008
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

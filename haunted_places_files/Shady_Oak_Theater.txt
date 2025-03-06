@@ -1,0 +1,18 @@
+city: Clayton
+country: United States
+description: as the story goes, a man killed himself on the grounds before the theater was built. Film has been seen un-winding while sitting on the shelf the lobby speaker has shot off its hook only to be found 15 ft away in the middle of the floor. People cleaning up after hours have felt a weird, uneasy feeling of being watched from the curtains at either side of the stage. Balcony lights have dimmed, only to slowly gain light again. Posters in the lobby have been found off their hooks or turned around when the theater opens in the morning. Cold spots have been felt & even someone saying "tisk,tisk,tisk", sneering & even faint moaning from behind the curtains that lead to the back when no one is around. Not a place you want to be alone in after it closes.
+location: Shady Oak Theater
+state: Missouri
+state_abbrev: MO
+city_longitude: -90.3237263
+city_latitude: 38.6425518
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2005/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

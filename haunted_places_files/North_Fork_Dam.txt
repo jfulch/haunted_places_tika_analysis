@@ -1,0 +1,21 @@
+city: Johnstown
+country: United States
+description: There have been many sightings of ghosts behind the dam where the graveyard is. People have been hung and shot in this deep, wooded area. Always makes your hair stand on end when you're around.
+location: North Fork Dam
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.0030828
+latitude: 40.2700748
+city_longitude: -78.9219698
+city_latitude: 40.32674069999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

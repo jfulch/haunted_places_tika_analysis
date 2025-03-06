@@ -1,0 +1,18 @@
+city: West Plains
+country: United States
+description: Now an abandoned school building, sounds have been reported and the area around the building is surrounded by a cold spot.
+location: Old D.W. Reese Primary School
+state: Missouri
+state_abbrev: MO
+city_longitude: -91.8523711
+city_latitude: 36.7281154
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

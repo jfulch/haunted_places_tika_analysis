@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: Footsteps coming down the stairs and across the Saloon. White-colored flashes in mirrors. Taproom area is extremely old, and has cold spots in air when otherwise warm. Objects get moved, disappear for a while, then show back up in the same place. All this happens when no one else is around to have caused it.
+location: Phoenix Hill Tavern
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7280933
+latitude: 38.2445513
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

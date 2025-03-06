@@ -1,0 +1,21 @@
+city: Whittier
+country: United States
+description: A section of the road Pushes your vehicle uphill when put in neutral and sometimes you hear a knocking noise under the vehicle or see human like shadows in the bushes. Satanic cults have been spotted there as well as UFO sightings. Cause is unknown.
+location: Turnbull Canyon Road
+state: California
+state_abbrev: CA
+longitude: -118.017622
+latitude: 33.9921663
+city_longitude: -118.032844
+city_latitude: 33.9791793
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Bradfordsville
+country: United States
+description: The house has been known for sounds heard when no one is there. Lucille Pendergraft told of a washing pot left unattended would turn itself over and water would be over the floor.
+location: Willard Rakes's Home
+state: Kentucky
+state_abbrev: KY
+city_longitude: -85.1488483
+city_latitude: 37.4942356
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 0

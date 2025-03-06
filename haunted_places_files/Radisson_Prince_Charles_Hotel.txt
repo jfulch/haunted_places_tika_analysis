@@ -1,0 +1,21 @@
+city: Fayetteville
+country: United States
+description: In the early 1900a, a young woman named Charlotte leaped to her death from an eighth floor window on her wedding day when she found her new husband in bed with a bridesmaid in the honeymoon/presidential suite on the seventh floor. A veteran housekeeper knows that she sometimes plays tricks with the locks on the doors to the guestrooms; supposedly she rides the elevator to the eighth floor at midnight but has been felt at other locations in the hotel.
+location: Radisson Prince Charles Hotel
+state: North Carolina
+state_abbrev: NC
+longitude: -78.8833288
+latitude: 35.0544108
+city_longitude: -78.87835849999999
+city_latitude: 35.0526641
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

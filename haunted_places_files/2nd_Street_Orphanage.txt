@@ -1,0 +1,19 @@
+city: Berry
+country: United States
+description: In this small town there was a fire that engulfed the town in the early eighteen hundreds. An orphanage, on what is now 2nd street was one of the first houses to go up the first night. The house was evacuated yet four kids were lost in the smoke and flame. Upon several endeavors; some during the day, most at night; You can here movement in the cellar during the day, with voices, cries and much activity at night.
+location: 2nd Street Orphanage
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.38438289999999
+city_latitude: 38.5206283
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

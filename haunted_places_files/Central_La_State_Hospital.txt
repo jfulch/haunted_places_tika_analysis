@@ -1,0 +1,21 @@
+city: Pineville
+country: United States
+description: A hospital for the mentally disturbed. Opened in the early 1900's. Several original buildings remain standing and in use. Unit 2 has an elevator that operates by itself during the night. Also doors are heard slamming during the night and when investigated all doors remain locked as they are usually kept. A huge graveyard of unmarked graves exist. Unit 7 when reoccupied in 1999 experienced several sightings and unusual events. Chairs were flipped over and electrical appliances would come on and go off by themselves. Voices were heard in unoccupied offices. A mist was seen and witnessed to move as if it had purpose.
+location: Central La State Hospital
+state: Louisiana
+state_abbrev: LA
+longitude: -92.4347307
+latitude: 31.3221989
+city_longitude: -92.4343035
+city_latitude: 31.3224044
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1999/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

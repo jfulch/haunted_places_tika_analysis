@@ -1,0 +1,21 @@
+city: Mount Vernon -Walker Valley
+country: United States
+description: Reports of flash lights stop working, only to work when away from the site and footsteps heard down the stairs.
+location: Big Lake
+state: Washington
+state_abbrev: WA
+longitude: -122.2218295
+latitude: 48.3814552
+city_longitude: -122.3086072
+city_latitude: 48.4382193
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

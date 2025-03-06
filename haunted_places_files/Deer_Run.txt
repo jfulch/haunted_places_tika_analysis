@@ -1,0 +1,21 @@
+city: Harrisonburg
+country: United States
+description: Building A - They have even been herd walking up the steps late at night yelling there death chant.
+location: Deer Run
+state: Virginia
+state_abbrev: VA
+longitude: -78.8734781
+latitude: 38.4207494
+city_longitude: -78.8689155
+city_latitude: 38.4495688
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Tylertown
+country: United States
+description: Picture of Jesus cries blood, old woman sits on bridge at 12:00 a.m., things appear and disappear, and you can hear the tractor of Jack Kook who got run over by his own tractor years ago.
+location: China Grove Church
+state: Mississippi
+state_abbrev: MS
+longitude: -90.05803689999999
+latitude: 31.2086038
+city_longitude: -90.1420331
+city_latitude: 31.1160119
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

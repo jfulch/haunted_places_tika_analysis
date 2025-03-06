@@ -1,0 +1,21 @@
+city: East Hanover
+country: United States
+description: Ominous noises about within the few delapidated buildings there, especially a blue painted house and the abandoned hospital behind the house. Rumors of many there abnormalities such as shadows and footstep noises. Shouts and cries from within the hospital.
+location: Nike Drive
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.3649229
+latitude: 40.808331
+city_longitude: -74.3647247
+city_latitude: 40.8200623
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1725/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

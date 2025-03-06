@@ -1,0 +1,21 @@
+city: Cranberry
+country: United States
+description: The present barn is a replacement, the original one having burnt down during a punk rock show in the early 1990s. Police have responded to many calls from nearby residents claiming to hear a loud party going on at the site, some even seeing cars parked all around the barn. Every time the police arrive, though, the barn is empty and silent.
+location: Knob Hill Barn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.11817060000001
+latitude: 40.6608427
+city_longitude: -80.1071379
+city_latitude: 40.6849626
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

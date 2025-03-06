@@ -1,0 +1,21 @@
+city: Macomb
+country: United States
+description: formerly old Lamoine Hotel - There are local ghost tours there and one room on the third floor is called the Satan room because people have reported evil shadows, voices and knocks there.
+location: Macomb Journal Newspaper Offices
+state: Illinois
+state_abbrev: IL
+longitude: -90.6720791
+latitude: 40.4585586
+city_longitude: -90.6717971
+city_latitude: 40.4592076
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1967/02/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

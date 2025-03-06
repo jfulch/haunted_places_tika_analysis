@@ -1,0 +1,20 @@
+city: Voluntown
+country: United States
+description: guard appears randomly walking back and forth at a bend in Breakneck Hill Road. It’s a soldier from the Narragansett wars of the late 1600s and early 1700s a tattered colonial soldier carries a long musket over his right shoulder marching across the road.
+location: Breakneck Hill Road. Breakneck Hill
+state: Connecticut
+state_abbrev: CT
+longitude: -71.8925455
+latitude: 41.6136343
+city_longitude: -71.8683346
+city_latitude: 41.5725461
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1683/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 0

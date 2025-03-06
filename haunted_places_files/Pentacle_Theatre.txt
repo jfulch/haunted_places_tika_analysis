@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: A ghost called "Shelia" roams this theatre. She seems to be benevolent, and there is some disscussion as to wether or not she was one of the founders of the theatre.
+location: Pentacle Theatre
+state: Oregon
+state_abbrev: OR
+longitude: -123.1360775
+latitude: 44.9364477
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1887/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

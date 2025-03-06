@@ -1,0 +1,21 @@
+city: Fredericksburg
+country: United States
+description: the ghost of a woman killed there has been seen in the belfry.
+location: Aquia Church
+state: Virginia
+state_abbrev: VA
+longitude: -77.40305699999999
+latitude: 38.464625
+city_longitude: -77.4605399
+city_latitude: 38.3031837
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

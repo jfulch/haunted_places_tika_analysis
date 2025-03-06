@@ -1,0 +1,21 @@
+city: Elliotsburg
+country: United States
+description: It is reported that one summer a janitor mysteriously died while preparing the school for the next school year. While he was washing the window, the glass broke and he fell though died. This supposedly happened in room 118 of the school. Sometimes when it is real quit you can hear the squeaking of the window being cleaned then hear glass break and the sound of a man screaming. The janitor can also sometimes be seen in room 118 and wandering the halls.
+location: West Perry High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.299775
+latitude: 40.3836204
+city_longitude: -77.28887399999999
+city_latitude: 40.3889725
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Ford City
+country: United States
+description: Reports of a ghost that often appears as a white stallion with flaming, red eyes.
+location: Rueben's Grave
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -79.5297673
+city_latitude: 40.7722865
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

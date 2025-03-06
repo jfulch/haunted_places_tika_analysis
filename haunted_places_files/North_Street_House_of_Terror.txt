@@ -1,0 +1,18 @@
+city: Prospect
+country: United States
+description: Feelings of being watched from the street. A witness reports seeing a face pressed against the second story window of the house. Although the face seemed somewhat darkened and hard to make out, the eyes appeared to be bleeding and the blood was running down the inside of the window. Locals say that a boy named Christopher was attacked by an unknown perpetrator and murdered. Christopher's eyes were said to have been found ripped out of the sockets.
+location: North Street House of Terror
+state: Ohio
+state_abbrev: OH
+city_longitude: -83.1885257
+city_latitude: 40.4503374
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

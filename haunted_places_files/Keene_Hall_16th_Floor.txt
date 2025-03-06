@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: An apparition haunts the 16th floor of Keene hall at Eastern Kentucky University. A student in his early twenties, late teens, committed suicide from the top floor of the University's dorm hall over a distraught fight with his girlfriend. Feelings of being watched, girls would wake up in the middle of the night and see a man in the room, then they would look twice then nothing was there, weird sounds. Very creepy if you're up there alone.
+location: Keene Hall 16th Floor
+state: Kentucky
+state_abbrev: KY
+longitude: -84.3045954
+latitude: 37.7351902
+city_longitude: -84.2946539
+city_latitude: 37.7478572
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1794/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Higginsville
+country: United States
+description: 10 years ago a young women died in a car accident when she ran of the road into a light pole. It is across the street from a sign that tells you what highway you are on. The light while sitting under it will go off and as you move out from under it, It will turn on. The city has repaired the light pool many times changing the whole electrical but cant find a problem. Some say that if you stand or sit in your car under it for period of time it will turn on and you will see her figure on the side of the ride, she will then walk to your car window.
+location: Hwy Old 213
+state: Missouri
+state_abbrev: MO
+city_longitude: -93.7171621
+city_latitude: 39.0725121
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

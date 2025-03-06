@@ -1,0 +1,21 @@
+city: Blooming Grove
+country: United States
+description: down on the old dirt road, there is a small cemetery located about 2 miles down the road. I have encountered with these strange noises myself. Late at night you will here whisperings and here the barbed wire near the cemetery flick.
+location: Lone Oak Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -96.8473486
+latitude: 32.10911240000001
+city_longitude: -96.715825
+city_latitude: 32.0920967
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

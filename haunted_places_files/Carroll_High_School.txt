@@ -1,0 +1,21 @@
+city: Fort Wayne
+country: United States
+description: It is believed that Carroll High School is cursed and haunted. Every year a junior student dies surprisingly, and eventually the student comes back to haunt and be known. One example,(not mentioning the name), a girl who died, came back to be remembered. A day after her death, in class, a boy took her original seat and fell off. To everyone's surprise, they asked him if he was alright. He then replied, in a shocked look, "No, not really." The teacher asked why. He replied back "I didn't fall, I was pushed."
+location: Carroll High School
+state: Indiana
+state_abbrev: IN
+longitude: -85.1925191
+latitude: 41.1903467
+city_longitude: -85.1393513
+city_latitude: 41.079273
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1501/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

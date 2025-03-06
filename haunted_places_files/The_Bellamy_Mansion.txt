@@ -1,0 +1,21 @@
+city: Wilmington
+country: United States
+description: the spirits of an unidentified elderly couple have been seen in the second floor windows. Reports of a woman laughing have been heard. Occasionally, there are sightings of smiling children peering from all corners of the house. They are believed to be the ghost of the Bellamy children, who once live in this charming home.
+location: The Bellamy Mansion
+state: North Carolina
+state_abbrev: NC
+longitude: -77.94299199999999
+latitude: 34.236141
+city_longitude: -77.9447102
+city_latitude: 34.2257255
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

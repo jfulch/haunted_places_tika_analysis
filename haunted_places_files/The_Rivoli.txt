@@ -1,0 +1,19 @@
+city: Seattle
+country: United States
+description: a turn of century building where the spirit of a young Eskimo girl who came to Seattle to start a new life has been felt and seen. Her mentally ill Cuban boyfriend stabbed her to death and her body was hidden behind a Murphy bed. The door to her apt. was padlocked and she wasn't discovered for several weeks until her neighbor noticed a strange smell.
+location: The Rivoli
+state: Washington
+state_abbrev: WA
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1657/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

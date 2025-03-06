@@ -1,0 +1,21 @@
+city: Alden
+country: United States
+description: The third floor is said to be haunted. Workers there have heard noises upstairs even though it is now vacant on that floor. From outside you can see a man standing in the window sometimes. Lights have been seen on even though there is no electricity running on that floor.
+location: Erie County Home and Infirmary
+state: New York
+state_abbrev: NY
+longitude: -78.554699
+latitude: 42.93873900000001
+city_longitude: -78.4919671
+city_latitude: 42.9000596
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

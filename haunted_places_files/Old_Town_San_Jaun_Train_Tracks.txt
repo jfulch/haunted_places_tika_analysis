@@ -1,0 +1,21 @@
+city: San Juan Capistrano
+country: United States
+description: Woman in White.  Seen in park setting near a lone drinking fountain. It has been a personal experience of mine to see her kneeling and praying facing the fountain. She then rises slowly and advances towards you with a sense of urgency, flowing like a white handkerchief in the wind, even when there is no wind. She then dissipates.
+location: Old Town San Jaun / Train Tracks
+state: California
+state_abbrev: CA
+longitude: -117.6639534
+latitude: 33.5015647
+city_longitude: -117.6627655
+city_latitude: 33.5019027
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

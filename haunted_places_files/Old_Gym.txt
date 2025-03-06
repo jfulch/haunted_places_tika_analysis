@@ -1,0 +1,19 @@
+city: Bigolow
+country: United States
+description: There was a little boy who was playing basketball. He threw the ball up and it broke the glass. He went up to get it and a piece of glass cut into him deeply. If you go to the attic, you can hear a boy screaming. If you listen closely, you can also hear a piano playing.
+location: Old Gym
+state: Arkansas
+state_abbrev: AR
+city_longitude: -92.6298847
+city_latitude: 35.0011986
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

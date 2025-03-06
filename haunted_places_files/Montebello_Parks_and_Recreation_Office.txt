@@ -1,0 +1,21 @@
+city: Montebello
+country: United States
+description: Anytime of the day or night, you can hear footsteps and voices coming from the hallways and men's restroom. Many employees claim when they are working at the office late into the evening, they hear voices and footsteps, the problem is that they are the only ones at the office. Park Rangers have reported hearing voices coming from the men's restroom. The source of the haunting has not been determined, but two parks and recreation employees have passed away in the last 10 years. The office was once home to a doctors office. Do not attempt to trespass, you will be arrested.
+location: Montebello Parks and Recreation Office
+state: California
+state_abbrev: CA
+longitude: -118.1154682
+latitude: 34.0207615
+city_longitude: -118.1137535
+city_latitude: 34.0165053
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1983/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

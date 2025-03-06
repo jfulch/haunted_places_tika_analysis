@@ -1,0 +1,20 @@
+city: Crystal City
+country: United States
+description: Over the years many things have happened in the parking lot at Kmart. People have been shot, robbed, Kidnapped, and even murdered.  The employees have to walk to the far end of the parking lot after leaving the closed store and say that weird and unusual events have occurred.  They say they hear gunshots, a screaming girl, and that they see headlights shining on their car.  Generally this happens late at night, and Kmart suggest that the workers there have a "walking buddy" going out to there car.
+location: K-Mart
+state: Missouri
+state_abbrev: MO
+longitude: -90.3884717
+latitude: 38.2162607
+city_longitude: -90.3790094
+city_latitude: 38.2211656
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1899/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

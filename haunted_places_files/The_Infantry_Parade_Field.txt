@@ -1,0 +1,20 @@
+city: Fort Riley
+country: United States
+description: used to be the polo field is haunted by two gentleman on horseback playing Polo and they aren't exactly the most congenial of gentlemen they get upset when they are interrupted.
+location: The Infantry Parade Field
+state: Kansas
+state_abbrev: KS
+longitude: -96.8099772
+latitude: 39.110058
+city_longitude: -96.8099772
+city_latitude: 39.110058
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1904/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

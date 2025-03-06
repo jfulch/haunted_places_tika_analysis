@@ -1,0 +1,21 @@
+city: Drumright
+country: United States
+description: Back in the day Drumright High School used to be a bomb shelter. Late at night or during a bad storm when lights go out you can see a ghostly figure of a soldier walking up and down the hallways.  If you stare at the soldier long enough he will turn and look at you and disappear.  There are many places in the school that is now blocked off and the school will not say why. There are still tunnels that are under the school that lead to many other places in town, but they have been closed off. Nobody will explain the mysterious things that happen in the school.
+location: Drumright High School
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.6124462
+latitude: 35.9835222
+city_longitude: -96.6011294
+city_latitude: 35.9884013
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

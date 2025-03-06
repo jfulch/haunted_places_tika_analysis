@@ -1,0 +1,17 @@
+city: Fort Defiance
+country: United States
+description: The school gym is haunted by several children who had died in a fire. The girls' locker room is a very active place. Benches move, lockers open and close violently, and showers, faucets, and toilets turn on and off. You can also hear giggles and voices.
+location: Tse Ho Tso Middle School
+state: Alabama
+state_abbrev: AL
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

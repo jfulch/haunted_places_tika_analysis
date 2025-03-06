@@ -1,0 +1,21 @@
+city: Omaha
+country: United States
+description: "The Regular" Bill Wolcott was an older gentleman who, for years, dined at Brother Sebastian's almost every evening. Wolcott had his peculiarities: he often dressed in a formal smoking jacket complete with an ascot tie; he always dined in the lounge, always at the same seat. Unfortunately, Wolcott was stricken with cancer. Although treatments were painful he continued to dine at Brother Sebastian's, even while he was hospitalized. When Wolcott became so ill that he could no longer swallow solid food, the kitchen staff pureed his meals for him. At some point during this time Wolcott began draping a towel over his head while he was in public; but for some reason he was drawn to his favorite dining spot. Wolcott, it appears, felt so comfortable at Brother Sebastian's that he continues to frequent the restaurant even after his death. The last report of Wolcott's ghost occurred on the night of the restaurant’s grand re-opening. A woman seated in one of the back dining rooms complained that someone was staring at her and making her uncomfortable. The "Someone" to whom she referred was the face of an old man that the woman claimed was in the stones that make up the wall of the room. Two of the staff also witnessed, late one night after the restaurant was closed and all the doors were locked. They were the only people inside, they saw a swinging door at the rear of the bar open fully, stopped moving as if someone were walking through the threshold, and closed. Anyone who has been inside the building knows that a random wind breezing through to swing doors open and closed is unlikely: Just like the original building (before the 1995 fire), the new structure has no windows. Sometimes in restaurants an employee closes the establishment one night and opens the business the following morning. More than one server has stated that a candle that they knew was snuffed out the previous night was burning the next morning.
+location: Brother Sebastian's
+state: Nebraska
+state_abbrev: NE
+longitude: -96.0990745
+latitude: 41.2458333
+city_longitude: -95.9979883
+city_latitude: 41.2523634
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1915/11/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

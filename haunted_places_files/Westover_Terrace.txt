@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: Westover Mansion - Feelings of ghostly presences while walking from the back to the house. also some people talk about hearing voices. There are also stories told of people being chased out of the basement. There is talk about a tunnel that leads from the house to four mile road (some think that it's in the basement) most think that its just talk.
+location: Westover Terrace
+state: Kentucky
+state_abbrev: KY
+longitude: -84.3082592
+latitude: 37.7532406
+city_longitude: -84.2946539
+city_latitude: 37.7478572
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

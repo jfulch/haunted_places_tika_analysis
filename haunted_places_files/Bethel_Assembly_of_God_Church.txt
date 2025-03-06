@@ -1,0 +1,21 @@
+city: Atoka
+country: United States
+description: The church has a large and fairly old cemetery (est. in the 1850's) on its grounds, these grounds are said to house a very unfriendly spirit. The spirit is said to have a dog like head, lion sized body with the coarse mane like hair, and deep red eyes. I have been told of two incidents when it was sighted and chased people out of the cemetery. On one occasion as the people cleared the fence to get away it hit the fence so hard that it shook, but it did not pursue them after they had left.
+location: Bethel Assembly of God Church
+state: Tennessee
+state_abbrev: TN
+longitude: -89.79872259999999
+latitude: 35.4076913
+city_longitude: -89.78491269999999
+city_latitude: 35.423208
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

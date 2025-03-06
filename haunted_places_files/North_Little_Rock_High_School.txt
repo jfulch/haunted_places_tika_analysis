@@ -1,0 +1,21 @@
+city: North Little Rock
+country: United States
+description: West Campus/Ole Main - Auditorium - If you stand on the stage in the auditorium and look up into the lighting area used by technical theatre students, you sometimes can see a faint outline of what appears to be a young female, walking very quickly back and forth.
+location: North Little Rock High School
+state: Arkansas
+state_abbrev: AR
+longitude: -92.2680571
+latitude: 34.7760588
+city_longitude: -92.2670941
+city_latitude: 34.769536
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1986/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

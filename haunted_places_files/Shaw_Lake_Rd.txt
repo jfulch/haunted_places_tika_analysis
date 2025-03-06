@@ -1,0 +1,21 @@
+city: Middleville
+country: United States
+description: A young girl about 13 years old is said to be walking along the road and is to be searching for something she has lost. She has been said to died 20 years ago.
+location: Shaw Lake Rd.
+state: Michigan
+state_abbrev: MI
+longitude: -85.4815854
+latitude: 42.6752607
+city_longitude: -85.4619599
+city_latitude: 42.7130889
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2007/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 0

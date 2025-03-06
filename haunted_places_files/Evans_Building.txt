@@ -1,0 +1,20 @@
+city: Spartanburg
+country: United States
+description: The Evans Building was originally a black high school, and later was turned into an office building. There is still a basketball court there, where from the upper balcony you can hear the squeaks of tennis shoes and the sound of dribbling late at night. Footsteps have also been heard in the hallways.
+location: Evans Building
+state: South Carolina
+state_abbrev: SC
+longitude: -81.92679679999999
+latitude: 34.9492733
+city_longitude: -81.9320482
+city_latitude: 34.9495672
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1876/03/07
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

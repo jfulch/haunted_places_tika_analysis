@@ -1,0 +1,21 @@
+city: Alta Vista
+country: United States
+description: a ghost name "George'' haunts the classrooms. doors open by there selves and closed. wind blinds go up with no one doing it.
+location: Alta Vista middle school
+state: Virginia
+state_abbrev: VA
+longitude: -79.29594209999999
+latitude: 37.10955120000001
+city_longitude: -79.285579
+city_latitude: 37.1118094
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

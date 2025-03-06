@@ -1,0 +1,21 @@
+city: Daytona
+country: United States
+description: Two people haunt the playhouse. Their names are unknown but we know it is a man and woman. The man died fighting a war in Spain and when the woman could wait no longer for him to return, she committed suicide. She was pregnant. She dove into the Halifax River killing her and her unborn child.
+location: Daytona Playhouse
+state: Florida
+state_abbrev: FL
+longitude: -81.02090799999999
+latitude: 29.238215
+city_longitude: -81.0228331
+city_latitude: 29.2108147
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

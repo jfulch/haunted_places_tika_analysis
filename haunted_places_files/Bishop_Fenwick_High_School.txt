@@ -1,0 +1,20 @@
+city: Peabody
+country: United States
+description: It has been said that the third floor is haunted by the ghost of a teacher who on her way home was killed in a car accident. People have heard footsteps and as it get later in the night you can feel her presence.
+location: Bishop Fenwick High School
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.91763949999999
+latitude: 42.53986039999999
+city_longitude: -70.9286609
+city_latitude: 42.5278731
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

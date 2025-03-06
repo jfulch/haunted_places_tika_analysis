@@ -1,0 +1,21 @@
+city: Banta (Tracy)
+country: United States
+description: Haunted by the former owner who died of a heart attack behind the bar in 1967. He likes to knock things off walls, stack the coins inside the cash register, open and close doors.
+location: The Banta Inn
+state: California
+state_abbrev: CA
+longitude: -121.372701
+latitude: 37.7535582
+city_longitude: -121.379934
+city_latitude: 37.7252749
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1967/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

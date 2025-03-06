@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Many employees have reported seeing Indians and also a lady dressed in white. While opening the museum doors for the public one morning, we witnessed a very tall Indian man dressed like a chief staring at us from inside the exhibit hall, and then he disappeared instantly. The elevator sometimes goes up and down by itself and exhibits seem to turn off and on randomly by themselves, too. There is an eerie feeling of not being alone at night.
+location: Insights El Paso Science Museum
+state: Texas
+state_abbrev: TX
+longitude: -106.476649
+latitude: 31.756348
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

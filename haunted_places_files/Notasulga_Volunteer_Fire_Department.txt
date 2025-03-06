@@ -1,0 +1,21 @@
+city: Notasulga
+country: United States
+description: Now the site of a new larger station, for years the fire and police station sat side-by-side here. But in 1997, a young man driving home from a late night party fell asleep at the wheel. When he rounded the curb, he crashed into the fire and police stations, sending the two up in flames. Today, strange noises can be heard, footsteps up stairs, and even someone at the front door has been seen, but when approached he disappears.
+location: Notasulga Volunteer Fire Department
+state: Alabama
+state_abbrev: AL
+longitude: -85.6713667
+latitude: 32.5605073
+city_longitude: -85.6724538
+city_latitude: 32.5606908
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1997/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fort Edward
+country: United States
+description: It was built back in the revolutionary war period in the town of Fort Edward. The town played a strategic part in winning the war. The story goes that Jane Mcree was hunted down by a band of Indians and scalped in a closet in this house. People who have lived in the house experience lights turning on and off, footsteps coming from the attic. The occupants will turn all the lights off when they leave at night and come home to have all the lights in the house turned on. Also in the closet were Jane had been scalped you will get a cool draft and screams can sometimes be heard from it during the night.
+location: Jane Mcrea House
+state: New York
+state_abbrev: NY
+longitude: -73.5852537
+latitude: 43.2674368
+city_longitude: -73.5476338
+city_latitude: 43.2310452
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1975/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

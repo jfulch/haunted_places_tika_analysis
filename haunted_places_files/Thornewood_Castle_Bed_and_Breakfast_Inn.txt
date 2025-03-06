@@ -1,0 +1,21 @@
+city: Lakewood
+country: United States
+description: This is the building that Stephen King filmed the movie Rose Red, but other real life things have been found there. Orbs and Ectoplasm are the most that they have found yet.
+location: Thornewood Castle Bed and Breakfast Inn
+state: Washington
+state_abbrev: WA
+longitude: -122.551233
+latitude: 47.130346
+city_longitude: -122.518458
+city_latitude: 47.1717649
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

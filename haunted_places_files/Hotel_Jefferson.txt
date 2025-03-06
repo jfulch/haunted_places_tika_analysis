@@ -1,0 +1,21 @@
+city: Jefferson
+country: United States
+description: is occupied by a few ghosts. A maid has claimed to hear voices coming out of room 19 when not occupied. Some occupants had been known not to stay in room 19 due to the feeling of being watched.
+location: Hotel Jefferson
+state: Texas
+state_abbrev: TX
+longitude: -94.3448478
+latitude: 32.7559692
+city_longitude: -94.3451926
+city_latitude: 32.7573626
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

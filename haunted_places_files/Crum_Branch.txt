@@ -1,0 +1,21 @@
+city: Martin
+country: United States
+description: a lady has been seen walking around in a white dress with no head and asking the people she sees for their head.
+location: Crum Branch
+state: Kentucky
+state_abbrev: KY
+longitude: -82.7277165
+latitude: 37.550276
+city_longitude: -82.752659
+city_latitude: 37.5728764
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Eastpointe
+country: United States
+description: The high school's auditorium is said to be haunted. Shadows have been seen on the walls when the auditorium is dimly lit. There are also stories of apparitions being spotted. Cold spots are felt on the stage as well as a strange presence being felt from time to time. Occurrences only seem to happen when there are a few people in the auditorium. When there is a crowd nobody notices anything.
+location: East Detroit High School
+state: Michigan
+state_abbrev: MI
+longitude: -82.961991
+latitude: 42.463516
+city_longitude: -82.9554746
+city_latitude: 42.4683698
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

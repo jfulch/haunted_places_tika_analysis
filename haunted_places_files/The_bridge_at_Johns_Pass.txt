@@ -1,0 +1,20 @@
+city: Treasure Island
+country: United States
+description: reported to be haunted by the spirits of two farmers who were pro-union during the Civil War. They were murdered by local rebel militiamen and buried on the south end at the mouth of the pass. On nights of the new moon, some have seen the two walking near the bridge or even silently sailing by in their boat trying to return home, some say the rotten stench of decaying flesh accompanies the apparitions.
+location: The bridge at John's Pass
+state: Florida
+state_abbrev: FL
+longitude: -82.781547
+latitude: 27.780114
+city_longitude: -82.7689906
+city_latitude: 27.7691937
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

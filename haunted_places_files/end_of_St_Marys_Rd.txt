@@ -1,0 +1,20 @@
+city: Jefferson City
+country: United States
+description: the sound of a horse and buggy driving by, noise would repeat three to five times. you would hear the horse hooves with metal shoes hitting what sounded like stone and the wheels going around bumping and squeaking coming toward you going past and then down the road.
+location: end of St. Mary’s Rd
+state: Missouri
+state_abbrev: MO
+longitude: -92.1943158
+latitude: 38.5817906
+city_longitude: -92.1735164
+city_latitude: 38.57670170000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

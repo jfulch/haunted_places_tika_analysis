@@ -1,0 +1,21 @@
+city: Foster
+country: United States
+description: Many people have been killed, died accidental and committed suicide at this location. If you go you can always feel the presence of somebody who has died there.
+location: Foster Dam
+state: Kentucky
+state_abbrev: KY
+longitude: -84.17308829999999
+latitude: 38.7901862
+city_longitude: -84.2129899
+city_latitude: 38.7992355
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

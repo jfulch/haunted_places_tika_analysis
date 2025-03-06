@@ -1,0 +1,21 @@
+city: The Woodlands
+country: United States
+description: The store is haunted by the ghost of John Cedars, a manager who was killed execution style during a robbery in 1996. Though it wasn't at the time, the location is now 24 hours and employees say that at nights Mr. Cedars can be heard walking the store or playing jokes (he likes to knock over the stacks of diapers like he did when he was alive). Several people have reported incidents while alone in the stockroom at night, such as toys turning themselves on and off. Occasionally things have been known to fly off shelves and break without anyone nearby. The activity calmed after the convictions of the perpetrators in 1998, but he is still a presence in the store.
+location: Walgreen's, 485 Sawdust Rd
+state: Texas
+state_abbrev: TX
+longitude: -95.4489705
+latitude: 30.126243
+city_longitude: -95.4612625
+city_latitude: 30.1658207
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

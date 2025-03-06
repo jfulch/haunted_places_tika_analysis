@@ -1,0 +1,21 @@
+city: Gakona
+country: United States
+description: Footsteps and voices are heard, as well as the smell of tobacco smoke.
+location: Gakona Lodge and Trading Post
+state: Alaska
+state_abbrev: AK
+longitude: -145.303799
+latitude: 62.301926
+city_longitude: -145.3019445
+city_latitude: 62.3019444
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 10h 52m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

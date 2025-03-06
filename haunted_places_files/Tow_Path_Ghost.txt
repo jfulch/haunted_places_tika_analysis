@@ -1,0 +1,21 @@
+city: Camillus
+country: United States
+description: A drunken Canalman is said to have fallen in the water near the aqueduct. He was caught in his own line and dragged to death by his mule. A dark figure can be seen pacing the path leaving behind wet footprints.
+location: Tow Path Ghost
+state: New York
+state_abbrev: NY
+longitude: -76.2791465
+latitude: 43.053037
+city_longitude: -76.3040965
+city_latitude: 43.039233
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Carson
+country: United States
+description: Has known to have a ghost in an upstairs room and up the staircase you'll feel the presents as a cold chill moves past you, and not a window or door are open. It is said to be a former owner.
+location: Carson Hotsprings
+state: Washington
+state_abbrev: WA
+longitude: -121.797703
+latitude: 45.729094
+city_longitude: -121.90639
+city_latitude: 45.80833
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 16m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

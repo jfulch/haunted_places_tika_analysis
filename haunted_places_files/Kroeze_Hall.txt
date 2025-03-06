@@ -1,0 +1,21 @@
+city: Jamestown
+country: United States
+description: It is said that if you go to room D15 late at nights you can hear the rhythmic sounds of a click. There was a college student that use to live in this dorm room that had obsessive compulsive disorder with Rubik's Cubes. When sent to the state hospital after attacking a fellow dorm mate for stealing his Cube, he killed himself but still haunts the room for his toy of joy.
+location: Kroeze Hall
+state: North Dakota
+state_abbrev: ND
+longitude: -98.6974232
+latitude: 46.9149378
+city_longitude: -98.7084357
+city_latitude: 46.9105438
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: Oldest part of the hospital. Noises and people talking are heard, and some have seen things.
+location: Allegheny General Hospital South Tower
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.0033567
+latitude: 40.4570975
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1776/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

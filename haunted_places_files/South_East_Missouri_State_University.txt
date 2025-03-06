@@ -1,0 +1,20 @@
+city: Cape Girardeau
+country: United States
+description: The Rose Theatre -  is haunted by the jilted wife of a French trader who murdered him on the grounds before the theatre was built. "Mary" (as we fondly referred to her) is very temperamental and causes mischief whenever a play with a violent theme is produced. There has also been an old man seen sitting in the house when the theatre is empty as well as an unexplainable, un-removable bloodstain on the concrete in the house.
+location: South East Missouri State University
+state: Missouri
+state_abbrev: MO
+longitude: -89.52804379999999
+latitude: 37.3148783
+city_longitude: -89.51814759999999
+city_latitude: 37.3058839
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1567/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

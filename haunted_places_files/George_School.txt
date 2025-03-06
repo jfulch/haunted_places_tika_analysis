@@ -1,0 +1,21 @@
+city: Newtown
+country: United States
+description: a ghost of a Hessian soldier in the basement of the Tate house haunts the basement since he was buried in the basement of the school.
+location: George School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -74.9352384
+latitude: 40.2122551
+city_longitude: -74.9322596
+city_latitude: 40.2283371
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 0

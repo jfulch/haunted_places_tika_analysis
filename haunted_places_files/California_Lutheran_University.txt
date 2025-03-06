@@ -1,0 +1,21 @@
+city: Thousand Oaks
+country: United States
+description: Mount Clef Dorm - Mount Clef dorm is haunted by entities, of which one of them is a young boy who is often seen wandering the hall upstairs in the 300 side. Residents find doors, which were confirmed, to be closed and locked at night when they wake in the morning. Mud has mysteriously appeared and then disappeared in beds. Pillows have been thrown across rooms in the middle of the night, after being yanked out from underneath sleeping residents. Cries and whimpering have been heard shortly after the pillow incidents. It is rumored that the dorm is built on the site of an old hotel where a little boy was murdered.
+location: California Lutheran University
+state: California
+state_abbrev: CA
+longitude: -118.8788537
+latitude: 34.2250167
+city_longitude: -118.8375937
+city_latitude: 34.1705609
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

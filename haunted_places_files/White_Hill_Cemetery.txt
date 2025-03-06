@@ -1,0 +1,20 @@
+city: Shelton
+country: United States
+description: while walking through the cemetery you hear footsteps behind you but when you turn around there’s no one there. also if you stay long you can see a white figure running around in the back of the cemetery. on your way out you can hear someone say bye see you again!
+location: White Hill Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -73.1383413
+latitude: 41.3272071
+city_longitude: -73.0931641
+city_latitude: 41.3164856
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1838/05/10
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

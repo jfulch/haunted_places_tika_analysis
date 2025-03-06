@@ -1,0 +1,21 @@
+city: Canoga Park
+country: United States
+description: Reports of a ghost who messes with the lights and audience.
+location: Canoga High School
+state: California
+state_abbrev: CA
+longitude: -118.6055177
+latitude: 34.1954222
+city_longitude: -118.6058609
+city_latitude: 34.208254
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

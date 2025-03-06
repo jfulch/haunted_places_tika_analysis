@@ -1,0 +1,21 @@
+city: Providence
+country: United States
+description: the park used to have a house that set there on the lands of the park. the house caught on fire and the man burned alive in the house. Witnesses report of the sounds they would hear in the house before the house was torn down.
+location: Providence Public Park
+state: Kentucky
+state_abbrev: KY
+longitude: -87.7615936
+latitude: 37.3994856
+city_longitude: -87.7627897
+city_latitude: 37.397545
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

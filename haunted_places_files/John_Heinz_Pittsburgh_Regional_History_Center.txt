@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: This building, in the Stripped District of Pittsburgh, was once site of the Chautauqua Lake Ice Co, which exploded due to fire on February 9, 1898. The building has since been renovated and now houses the John Heinz History Center. Several staff members, including night security guards, have witnessed strange sights and sounds there. Most activity seems to center around the 5th floor (used as storage/archives) and the loading dock area. Spirits have been known to occupy and interact with the exhibits there. The History Center is open to the public 7 days a week from 10AM to 5PM (holidays excluded).
+location: John Heinz Pittsburgh Regional History Center
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.992179
+latitude: 40.446562
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1898/02/09
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

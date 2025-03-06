@@ -1,0 +1,21 @@
+city: Allegany
+country: United States
+description: speak-easy down the road from the Ski resort, which Al Capone visited, people were killed there in the 30s.  Very freaky swamp surrounding it, and faces can be seen in the windows.
+location: Wing Hollow/Ski Wing Resort – Speak Easy
+state: New York
+state_abbrev: NY
+longitude: -78.5091894
+latitude: 42.1264537
+city_longitude: -78.4941887
+city_latitude: 42.0900647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

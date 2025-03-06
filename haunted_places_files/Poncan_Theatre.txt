@@ -1,0 +1,21 @@
+city: Ponca City
+country: United States
+description: This theatre is one of the oldest buildings in Ponca City. People have reported hearing footsteps when nobody else is present, seeing people who disappear quickly afterwards, and classic ghost stuff like that. In the basement, some people have reported hearing the beating of an Indian drum nearby. Also, there is a stain in the ceiling that closely resembles blood. People have made every effort to remove it: washing it, painting over it, etc. But it always comes back after a few days.
+location: Poncan Theatre
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.0834616
+latitude: 36.70336450000001
+city_longitude: -97.0855948
+city_latitude: 36.706981
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

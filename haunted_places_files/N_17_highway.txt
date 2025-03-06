@@ -1,0 +1,20 @@
+city: West Plains
+country: United States
+description: A small bridge located north of West Plains is said to be haunted. If crossing the bridge at night during a rainstorm you stop your car and turn off your lights a child's head will appear next to your car asking for help to find his mother. Another place would be the Haunted Stop sign, said to have been the place of death for a young girl who had gotten in a argument with her boyfriend and was told to get out of the car and walk home, but as she crossed the street was struck by an oncoming truck and killed. On Halloween she is spotted crossing the same part of the road that she died on.
+location: N. 17 highway
+state: Missouri
+state_abbrev: MO
+longitude: -91.7875227
+latitude: 36.7550892
+city_longitude: -91.8523711
+city_latitude: 36.7281154
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

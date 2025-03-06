@@ -1,0 +1,18 @@
+city: West Haven
+country: United States
+description: A young lady known as "Darcy" seen in a pale yellow dress is known to haunt this area. She walks along the beach on foggy nights and disappears into the fog, also reported cold spots and hearing her sobs. - June 2008 Correction: The woman whose body washed ashore name was Jennie Cramer. In some newspapers from the time the two suspects that were charged were said to be brothers, in other papers they were said to be cousins, James Malley & Walter Malley.
+location: Savin Rock near the old "Casino" restaurant
+state: Connecticut
+state_abbrev: CT
+city_longitude: -72.9469711
+city_latitude: 41.2705484
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1813/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

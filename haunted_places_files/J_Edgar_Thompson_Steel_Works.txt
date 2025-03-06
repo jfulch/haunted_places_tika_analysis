@@ -1,0 +1,21 @@
+city: Braddock
+country: United States
+description: This site (across the river from Kennywood Park) is haunted by the ghosts of British soldiers who were killed by the French & Indians during General Braddock's Campaign of 1755.George Washington observed many of the unfortunate wretches when he organized the retreat of the survivors.
+location: J. Edgar Thompson Steel Works
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.8639055
+latitude: 40.3969679
+city_longitude: -79.8683824
+city_latitude: 40.4034024
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

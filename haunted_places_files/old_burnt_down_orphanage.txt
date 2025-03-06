@@ -1,0 +1,19 @@
+city: Tullahoma
+country: United States
+description: If visiting the orphanage or nearby lake, desperate cries for help are believed to be heard by the children who were either burnt or drown to death.
+location: old burnt down orphanage
+state: Tennessee
+state_abbrev: TN
+city_longitude: -86.20943419999999
+city_latitude: 35.3620235
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

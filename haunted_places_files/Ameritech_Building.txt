@@ -1,0 +1,21 @@
+city: Grand Rapids
+country: United States
+description: Formerly Michigan Bell Telephone Company -  on the corner of Fountain and Division. haunted by the Randall's , whose home stood on the ground where this building is today.
+location: Ameritech Building
+state: Michigan
+state_abbrev: MI
+longitude: -85.671432
+latitude: 42.9662104
+city_longitude: -85.6680863
+city_latitude: 42.9633599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

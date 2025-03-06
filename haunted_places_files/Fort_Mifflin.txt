@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: Three ghosts are here. A women in the ruins of the commanders house, she is called the screaming woman. Another one of a Civil war soldier, confederate in the casemates and another soldier without a face sewing in the casemates.
+location: Fort Mifflin
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.2131962
+latitude: 39.8751747
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 0

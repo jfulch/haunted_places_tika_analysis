@@ -1,0 +1,19 @@
+city: Onset
+country: United States
+description: Ghostly shadows have been seen. The sound of shattering glass is often heard at night though all of the windows are broken and the houses are completely empty. A large pentagram is drawn in the center of the largest house, this indicating paranormal activity.
+location: abandoned houses behind Lopes playground
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -70.6578104
+city_latitude: 41.7417714
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

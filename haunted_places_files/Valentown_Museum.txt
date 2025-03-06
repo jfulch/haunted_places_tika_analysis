@@ -1,0 +1,21 @@
+city: Victor
+country: United States
+description: History says there was a murder in the ballroom back long ago. When a TV show was investigating they had many personal experiences like hearing music softly playing, seeing shadows, etc. They lost the audio that they had of apparitions while doing their investigation. Noting concrete was proven but there is a deep history of the property.
+location: Valentown Museum
+state: New York
+state_abbrev: NY
+longitude: -77.436401
+latitude: 43.0261
+city_longitude: -77.4088794
+city_latitude: 42.9825633
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Easthampton
+country: United States
+description: sounds of footsteps walking when no one is there. also sounds of children's laughter has been reported. also people have claimed to see a board on a boarded up window moving all by itself with no wind at all outside.
+location: Parsons Academy
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.6524896
+latitude: 42.2733671
+city_longitude: -72.66897999999999
+city_latitude: 42.266757
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Park City
+country: United States
+description: A spirit of the cave is a Southern lady named Melissa, who brought her Yankee lover to the cave in 1843. She took the man deep within the cave to Purgatory Point and left him there as a prank. The man was never seen again, and Melissa's ghost still searches the area known as Echo River. The ghost of Floyd Collins, who died after being trapped for sixteen days in nearby Crystal Cave, is also said to wander the grounds. The case became so popular that in 1926, Collins's body was removed from his family plot and displayed in a glass coffin at the entrance to Crystal Cave. The grisly tourist attraction proved very profitable, until someone stole the corpse. It was finally returned to the cave; however, for some reason the body was missing its left leg. In recent years, tourists have reported the unidentified ghost of a man dressed in an old-fashioned cummerbund. Others have witnessed a disembodied pair of legs running down the hill near the main visitors' center. The legs were wearing denim overalls and work shoes. With over 150 sightings of ghosts reported.
+location: Mamoth Cave
+state: Kentucky
+state_abbrev: KY
+longitude: -86.100528
+latitude: 37.1869978
+city_longitude: -86.04636699999999
+city_latitude: 37.0939375
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1843/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

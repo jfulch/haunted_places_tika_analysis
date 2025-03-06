@@ -1,0 +1,21 @@
+city: Storey
+country: United States
+description: Gold Hill Hotel - Hatel is haunted by several apparitions who appear on second floor hallway and bathroom. Hotel is renowned locally as a haven for supernatural occurrences, and many people have seen strange thing while staying there.
+location: Gold Hill
+state: Nevada
+state_abbrev: NV
+longitude: -119.6574011
+latitude: 39.29046779999999
+city_longitude: -119.5571677
+city_latitude: 39.4089847
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1859/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

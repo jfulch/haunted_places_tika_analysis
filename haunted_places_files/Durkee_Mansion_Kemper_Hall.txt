@@ -1,0 +1,21 @@
+city: Kenosha
+country: United States
+description: Sightings of nuns peering out from behind the windows. In the late 1800 and early 1900 this was used as a school for girls - which was run by the nuns.
+location: Durkee Mansion / Kemper Hall
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.81378
+latitude: 42.5759898
+city_longitude: -87.82118539999999
+city_latitude: 42.5847425
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.833333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

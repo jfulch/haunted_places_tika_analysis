@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: In the old section of the Hotel there are ghosts wandering about. I have a picture of ghosts in the room that my daughter took when staying there, on the 11th floor, in July, 2001.
+location: The Fairview Hotel
+state: Louisiana
+state_abbrev: LA
+longitude: -90.0726076
+latitude: 29.9512035
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

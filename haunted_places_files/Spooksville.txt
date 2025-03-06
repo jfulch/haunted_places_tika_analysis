@@ -1,0 +1,20 @@
+city: Portland
+country: United States
+description: There used to be an old Insane asylum there, if you go there the building no longer stands But you can still see the layout of the building. And some say that you can here the screams of the old patients. There is also an old bombsite there where they used to make and test bombs. -  December update/correction: It was and old NIKE missile site that was built in the late 50's and early 60's that protected large cities like Hartford from Russian bomber strikes coming over from Russia via the north pole. There never was an insane asylum and there are two sites. The abandoned structure is the control center and the lower site is the magazine/launch area where the missiles were stored and launched.
+location: Spooksville
+state: Connecticut
+state_abbrev: CT
+longitude: -72.54478449999999
+latitude: 41.6386993
+city_longitude: -72.6408139
+city_latitude: 41.5726229
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

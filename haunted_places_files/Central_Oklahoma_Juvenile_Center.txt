@@ -1,0 +1,21 @@
+city: Tecumseh
+country: United States
+description: staff and residents claim to have seen apparitions appearing as former residents on some of the units, heard footsteps in the gymnasium, and had other eerie feelings or occurrences around the facility.
+location: Central Oklahoma Juvenile Center
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.944378
+latitude: 35.24965
+city_longitude: -96.9366888
+city_latitude: 35.2578498
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1790/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: San Diego
+country: United States
+description: In the suburb of Lakeside, at the end of Willow Road, there is a narrow dirt road, down this road some distance (and after passing a slaughterhouse of some sort) there is a clearing with a tree, supposedly if one blasts one's car horn three times a ghost of a girl will start screaming. Mostly this area is a hangout for dubious characters so it may not be a good idea to go alone.
+location: Screaming Tree
+state: California
+state_abbrev: CA
+city_longitude: -117.1610838
+city_latitude: 32.715738
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

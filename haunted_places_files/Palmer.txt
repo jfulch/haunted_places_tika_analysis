@@ -1,0 +1,20 @@
+city: Palmer
+country: United States
+description: an old civil war town that is haunted by the palmer ghost she died in the 1850 supposedly if you say her name three times she will appear and terrorize you.
+location: Palmer
+state: Missouri
+state_abbrev: MO
+longitude: -90.9959667
+latitude: 37.8394904
+city_longitude: -90.9959667
+city_latitude: 37.8394904
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1830/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

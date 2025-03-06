@@ -1,0 +1,21 @@
+city: Houma
+country: United States
+description: Eerie figures seen wondering around the old metal sheds off in the distance of the grazing fields. Be careful driving, a foggy figure may run past your car causing an accident.
+location: Coteau Road
+state: Louisiana
+state_abbrev: LA
+longitude: -90.708011
+latitude: 29.633821
+city_longitude: -90.7195348
+city_latitude: 29.5957696
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

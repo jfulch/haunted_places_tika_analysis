@@ -1,0 +1,20 @@
+city: Rawlins
+country: United States
+description: A.K.A - The Old Pen - The "Old Pen", as it is affectionately called by citizens of Rawlins, was put out of use in the early 1980's. Now the Old Pen is a tourist attraction, a historical site, and the subject of many tales of paranormal activity. Members of tour groups often report hearing strange voices in cells, seeing people disappear around corners, and feeling hostile or tense presences. Employees have also reported apparitions and sounds. There was recently an investigation by a group of paranormal experts, but specifics were not revealed except in vague terms. There are several hotbeds of activity in the prison, including the showers, Death Row, the Gas Chamber, and the Hold (isolation area), and certain specific cells, including one filled with the artwork of an inmate. Only recently restored were the Chapel and women's facility, also suspected of paranormal activity. Public functions are now held in the prison, including bazaars and Halloween "haunted house" tours. During the bazaars, booths were set up on ground level, near the shower area. The shower area was always inexplicably cold, with a sense of malice. Many inmates were attacked in the shower area. There are also tales of an inmate being unsuccessfully hanged a first time by fellow prisoners, and having to be thrown off the rails again. there's a book called Ghosts on the Range, or something of the like, which includes a more complete set of experiences.
+location: Old Wyoming State Penitentiary
+state: Wyoming
+state_abbrev: WY
+longitude: -107.2425625
+latitude: 41.7926146
+city_longitude: -107.2386627
+city_latitude: 41.7910697
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

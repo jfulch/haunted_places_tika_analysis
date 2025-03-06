@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: Williamsburg's first serial killer stashed his young victim's bodies here, and it is said to be haunted by them.
+location: The Mill
+state: Virginia
+state_abbrev: VA
+longitude: -76.6649158
+latitude: 37.2267867
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1632/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Beaverton
+country: United States
+description: A shadowy figure has been reported lurking in the upstairs projector room that was formerly a living quarters. When chased, the shadowy figure vanishes down a hallway that leads to double-doors that never opened. - June 2005 Update – Act III shut it down a couple of years ago, and it sits empty now. They are going to build a new cinema in the newer, "Hipper", part of town. - March 2008 Was torn down over a year ago.
+location: Westgate Cinema
+state: Oregon
+state_abbrev: OR
+longitude: -122.8120476
+latitude: 45.4977904
+city_longitude: -122.8037102
+city_latitude: 45.48706199999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1916/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

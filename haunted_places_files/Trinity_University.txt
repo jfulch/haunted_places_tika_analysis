@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: The Chapman Graduate Center and the Holt Center -  are known places for things that are unexplained. At the Graduate center bottom floor you walk-by and you feel a feeling that you need to get out of there fast. Nasty feeling to feel. Many housekeeping and Officers feel the same feeling. At the Holt center, some members of the housekeeping will not enter there alone or/and at night. Police officers have felt that same feeling, to include supervisors.
+location: Trinity University
+state: Texas
+state_abbrev: TX
+longitude: -98.4831622
+latitude: 29.4618444
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1861/03/04
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

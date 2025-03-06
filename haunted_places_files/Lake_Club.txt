@@ -1,0 +1,21 @@
+city: Springfield
+country: United States
+description: 1930's building that was used by the mafia.  Allegedly people were killed there by Al Capone and his gang.  Doors close, you can hear footsteps but see no one, there is also visions of a man and woman that were murdered there by a jealous husband.  They did a show on this bldg. it burned down in 2004.
+location: Lake Club
+state: Illinois
+state_abbrev: IL
+longitude: -89.6271531
+latitude: 39.70343829999999
+city_longitude: -89.6501481
+city_latitude: 39.78172130000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2004/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

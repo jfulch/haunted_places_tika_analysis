@@ -1,0 +1,21 @@
+city: Alton
+country: United States
+description: Many reports of ghostly walking, doors opening and closing, on their own, lights going on and off, and objects being projected across the floors. It is believed that the school is partially located on Indian burial grounds. There have also been ghostly sightings and the scent of strong perfume.
+location: Lovejoy School
+state: Illinois
+state_abbrev: IL
+longitude: -90.1678298
+latitude: 38.9053056
+city_longitude: -90.1842764
+city_latitude: 38.8906038
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

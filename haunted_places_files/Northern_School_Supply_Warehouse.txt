@@ -1,0 +1,21 @@
+city: Fargo
+country: United States
+description: This building, built around 1910, is haunted by the ghost of a small boy who fell down the elevator shaft many years ago. People working there late at night have reported hearing a child crying from inside the elevator shaft, sounds of running feet, and the apparition of a small boy who will appear and stand there staring at you.
+location: Northern School Supply Warehouse
+state: North Dakota
+state_abbrev: ND
+longitude: -96.7904648
+latitude: 46.8755599
+city_longitude: -96.7898034
+city_latitude: 46.8771863
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

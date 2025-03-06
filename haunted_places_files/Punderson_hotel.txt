@@ -1,0 +1,20 @@
+city: Cleveland
+country: United States
+description: Reports of hauntings on the third floor blasting music from empty rooms, the second floor loud bangs on the door , an apparition of an old maid.
+location: Punderson hotel
+state: Ohio
+state_abbrev: OH
+longitude: -81.2075302
+latitude: 41.4510562
+city_longitude: -81.6943605
+city_latitude: 41.49932
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

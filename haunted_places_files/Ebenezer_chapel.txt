@@ -1,0 +1,21 @@
+city: Dayton
+country: United States
+description: Sightings of spirits in the cemetery and chapel. Very odd things go on there.
+location: Ebenezer chapel
+state: Oregon
+state_abbrev: OR
+longitude: -123.0959475
+latitude: 45.1476507
+city_longitude: -123.0762134
+city_latitude: 45.2206728
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Torrington
+country: United States
+description: A ghost haunts this early 1900's theater in the town of Torrington, Connecticut. The ghost is said to be named Murph, and he was a homeless guy who was trying to break into the theater to spend the night. He was drunk and fell down the stairs leading to the basement. People have felt cold wind in the middle of summer with no air conditioning and performers have seen things on the balcony during rehearsals only. The lights also go on and off when no one is touching them. There is also a story of a huge control lever that controls all of the lights in the building. It takes two or three people to pull it down. One day, there were two people at the theater and they were away from the lever and all of a sudden the lights went out. They came back and the lever was switched off.
+location: The Warner Theater
+state: Connecticut
+state_abbrev: CT
+longitude: -73.121074
+latitude: 41.801793
+city_longitude: -73.1211715
+city_latitude: 41.8003049
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

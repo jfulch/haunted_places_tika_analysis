@@ -1,0 +1,21 @@
+city: Des Plaines
+country: United States
+description: Back in the 1930's when the Academy was used as a Catholic orphanage, there was evidence that the girls' dormitory was haunted by the spirit of a nun. There were sounds of footsteps, swishing of skirts, and the sound of the rosary beads clicking, but the nun herself was invisible.
+location: Maryville Academy
+state: Illinois
+state_abbrev: IL
+longitude: -87.89752899999999
+latitude: 42.06682929999999
+city_longitude: -87.88339909999999
+city_latitude: 42.0333623
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

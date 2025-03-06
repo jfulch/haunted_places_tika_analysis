@@ -1,0 +1,21 @@
+city: Kilgore
+country: United States
+description: In the 1800's and old lady named Annie lived deep in the woods off the river bank. She was accused of being a witch. A group of men went to her small shack one night to kill her. They drug her outside, chained her to a tree and beat her to death. If you can find the remains of the old shack, you can hear chains dragging across the floor, screaming, and the sounds of whips.
+location: Sabine River
+state: Texas
+state_abbrev: TX
+longitude: -94.8763135
+latitude: 32.4548697
+city_longitude: -94.8757709
+city_latitude: 32.3862619
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1514/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

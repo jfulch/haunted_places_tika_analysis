@@ -1,0 +1,21 @@
+city: Thibodaux
+country: United States
+description: Its been told that you can see lights go on in the old plantation houses, and see people walking around jus' like in the olden days when they had the slaves back there
+location: Laural Valley Plantation Rd.
+state: Louisiana
+state_abbrev: LA
+longitude: -90.7867328
+latitude: 29.78992
+city_longitude: -90.822871
+city_latitude: 29.7957633
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

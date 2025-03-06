@@ -1,0 +1,20 @@
+city: Napoleon
+country: United States
+description: When ever it's quiet in the store you can hear the beer cooler doors in the front by the registers open and close but the door never actually moves, or at least has never been seen moving. You can be standing right next to it and hear it, but not see a thing.
+location: Bernickes Grocery on Woodlawn
+state: Ohio
+state_abbrev: OH
+longitude: -84.13342689999999
+latitude: 41.3979826
+city_longitude: -84.1252243
+city_latitude: 41.3922726
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lubbock
+country: United States
+description: There is a sort of strip shopping center that has a couple of bars and a few stores. The building was a hotel at the turn of the century, and there are several restless spirits.
+location: Broadway Ave
+state: Texas
+state_abbrev: TX
+longitude: -101.8558954
+latitude: 33.5844575
+city_longitude: -101.8551665
+city_latitude: 33.5778631
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

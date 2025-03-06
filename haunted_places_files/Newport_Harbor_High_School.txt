@@ -1,0 +1,21 @@
+city: Newport Beach
+country: United States
+description: Robins Hall - In Robins hall the voice of two boys is sometimes heard if someone is there at night calling "where is he? is he here?" ten years ago three boys snuck into robins hall at night while they were drunk, three of the boys went on the stage and two of them fell off and were killed by landing on their heads. The third boy left without telling anyone and the police found the other two boys a week later. One can experience cold winds when the windows are shut and voice heard.
+location: Newport Harbor High School
+state: California
+state_abbrev: CA
+longitude: -117.910863
+latitude: 33.622969
+city_longitude: -117.9298493
+city_latitude: 33.6188829
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1959/03/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

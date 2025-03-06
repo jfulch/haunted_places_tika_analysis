@@ -1,0 +1,21 @@
+city: Sealy
+country: United States
+description: football field and track - There was a senior track star coming home from a track meet. He fell asleep behind the wheel and somehow cut himself. When they found him he had bled to death. It is said that if you go to the track at midnight you can see him running around the track.
+location: Sealy high school
+state: Texas
+state_abbrev: TX
+longitude: -96.174422
+latitude: 29.76214
+city_longitude: -96.1571833
+city_latitude: 29.7807878
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

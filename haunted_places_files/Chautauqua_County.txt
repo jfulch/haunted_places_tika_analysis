@@ -1,0 +1,21 @@
+city: Cummings
+country: United States
+description: Round Mound Cemetery - A witch haunts this old cemetery, the wind does not blow at the cemetery even though its on top of a round hill. This place even made TIME magazine years ago as one of the most haunted places on earth. If you go there late enough you can hear the dead scream from there graves.
+location: Chautauqua County
+state: Kansas
+state_abbrev: KS
+longitude: -96.1868274
+latitude: 37.1280891
+city_longitude: -95.2448179
+city_latitude: 39.4626642
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: New Haven
+country: United States
+description: Rosary Hall -  Rosary is an antique elevator that is no longer in use. Several students, faculty members, and staff have reported an evil presence around it, as well as freezing cold blasts of air and moaning sounds.
+location: Albertus Magnus College
+state: Connecticut
+state_abbrev: CT
+longitude: -72.9226957
+latitude: 41.3316093
+city_longitude: -72.9278835
+city_latitude: 41.308274
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

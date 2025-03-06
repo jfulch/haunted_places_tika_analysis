@@ -1,0 +1,21 @@
+city: Wauwatosa
+country: United States
+description: In the mid 70's Wauwatosa West High school was being rebuilt on a new location. The school was more than 90 % finished, when two teenagers were messing around on the roof, while drinking, and lit the school on fire. The entire school burned down.  It was reported that an immigrant worker by the name of Hans from a European country, was in the now theatre working. Hans perished in the blaze. He never worked in shoes, and is said to haunt the theatre and he always has no shoes on. You are considered to be in most dangerous to be in the theatre without shoes on. On numerous occasions while faculty has been working in the stage, lights have gone off, stage doors slamming, guest seats creaking, and stage props disappearing.
+location: Wauwatosa West High School
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.055452
+latitude: 43.0683607
+city_longitude: -88.0075875
+city_latitude: 43.0494572
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

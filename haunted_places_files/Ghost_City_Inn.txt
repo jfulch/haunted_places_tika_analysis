@@ -1,0 +1,21 @@
+city: Jerome
+country: United States
+description: A female spirit has shown herself to visitors in the Cleopatra Room. The innkeepers have experienced this before. Built in 1890, this building had many uses, including being used as a funeral home.
+location: Ghost City Inn
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1145004
+latitude: 34.7489484
+city_longitude: -112.1137716
+city_latitude: 34.7489107
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1890/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

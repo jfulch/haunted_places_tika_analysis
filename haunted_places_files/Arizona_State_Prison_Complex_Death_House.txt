@@ -1,0 +1,21 @@
+city: Florence
+country: United States
+description: It is said that the ghosts of condemned prisoners haunt the death house at the state prison in Florence. Several guards have reported hearing screams and other strange sounds.
+location: Arizona State Prison Complex Death House
+state: Arizona
+state_abbrev: AZ
+longitude: -112.0997258
+latitude: 33.4467878
+city_longitude: -111.3873431
+city_latitude: 33.0314508
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

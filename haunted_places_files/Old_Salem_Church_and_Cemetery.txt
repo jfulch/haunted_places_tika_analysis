@@ -1,0 +1,20 @@
+city: Farmington
+country: United States
+description: It is reported that there used to be a furnace in the middle of the church and one of the servers slept in the church and the church had burned to the ground that night. The boy's body was never found but they put up a tombstone up for him in the cemetery across the bridge anyway. If you go to the fence to look at night the sky gets very hazy and you can see people walking around and when you go to leave there will be a male ghost standing at the fence watching you and your tires will get stuck on the gravel road.*The church was rebuilt in around the 30's and is now off limits because it is slanting, but it is still said to be haunted.
+location: Old Salem Church and Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -90.4054007
+latitude: 37.8825521
+city_longitude: -90.4217895
+city_latitude: 37.7808846
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/10/17
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

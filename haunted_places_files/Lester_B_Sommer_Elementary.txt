@@ -1,0 +1,21 @@
+city: Wayne Town
+country: United States
+description: Some people say that a little girl lived there when Sommer was not built yet. She was tortured and abused by her father. Then one night, she tried to run away and her dad came chasing after her. He grabbed his gun, and shot her and she fell and died. To this day she is buried under Sommer, at night you can go in the rest room and the lights will flicker and you can look under the stall and see her sneaker and boot.
+location: Lester B. Sommer Elementary
+state: Indiana
+state_abbrev: IN
+longitude: -86.9762384
+latitude: 40.0684975
+city_longitude: -87.0597307
+city_latitude: 40.0875413
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/02/29
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

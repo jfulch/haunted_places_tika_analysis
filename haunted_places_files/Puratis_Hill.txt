@@ -1,0 +1,20 @@
+city: Cleveland
+country: United States
+description: In the 1960's, a roller coaster at Puritas Amusement Park derailed, killing everyone on the ride. At night, when driving up the hill, the screams of the dead can be heard. The local apartment complex also complains about strange noises that sound like a roller coaster.
+location: Puratis Hill
+state: Ohio
+state_abbrev: OH
+longitude: -81.81291619999999
+latitude: 41.4339223
+city_longitude: -81.6943605
+city_latitude: 41.49932
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1958/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

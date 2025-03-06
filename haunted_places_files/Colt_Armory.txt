@@ -1,0 +1,20 @@
+city: Hartford
+country: United States
+description: Throughout the years tenants on every floor have reported hearing a bolder drop and then roll over on floor above them...event those who live on the top floor.
+location: Colt Armory
+state: Connecticut
+state_abbrev: CT
+longitude: -72.66283659999999
+latitude: 41.7556818
+city_longitude: -72.6850932
+city_latitude: 41.76371109999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

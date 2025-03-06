@@ -1,0 +1,21 @@
+city: Chittenango
+country: United States
+description: Creek road is a spooky back road in Chittenango. you must veer off to the left. look in the trees to see a ghostly white image. very creepy!!!! seen 6 times with own eyes don't know what to explain it as.
+location: Creek Road
+state: New York
+state_abbrev: NY
+longitude: -75.833817
+latitude: 43.0433615
+city_longitude: -75.86658
+city_latitude: 43.0450671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

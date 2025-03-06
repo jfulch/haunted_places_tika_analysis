@@ -1,0 +1,21 @@
+city: Idaho Falls
+country: United States
+description: Many believe that it is a girl but after visiting the location several times in the last six months, there is no doubt that that is a boy in the tree. If you stop the car or get out you are not able to see him. But if you drive slow enough he will wave at you and sometimes get out of the tree and run up to the fence. We have never seen him past the fence. Legend has it that the ghost of a little girl haunts a tree in the cemetery. This tree is close to her grave and is a perfect climbing tree. The little girl reportedly sits in the tree and waves to passers-by. The little girl was an avid tree-climber and loved to play with the neighborhood kids before her death. Most accounts list her cause of death a drowning. Many people speculate that since she was so open and friendly in life, and her death was such a lonely one, she feels lonely and tries to make friends of the people who drive past on their way to or from the hills surrounding the town.
+location: Ammon Cemetery
+state: Idaho
+state_abbrev: ID
+longitude: -111.9307333
+latitude: 43.4660167
+city_longitude: -112.0339645
+city_latitude: 43.49165139999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

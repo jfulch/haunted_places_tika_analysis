@@ -1,0 +1,20 @@
+city: Portage
+country: United States
+description: Stairway to Heaven Cemetery - The cemetery off Waterloo rd is said to be haunted. If you walk up the long old stairway Right at the top something will surprise you. when you reach the top close your eyes and turn around and then see what followed you up.
+location: Suffield
+state: Ohio
+state_abbrev: OH
+longitude: -81.36194019999999
+latitude: 41.0171487
+city_longitude: -83.6507668
+city_latitude: 41.3267189
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

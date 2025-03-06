@@ -1,0 +1,20 @@
+city: Blacksburg
+country: United States
+description: There is an old tale of the history of Rock House Rd. The road runs alongside the King's Mountain Battle Ground. Rock House Rd. got its name from a rock house that was constructed in the early 1800's.  This house is still standing and can be viewed only one day a year.  The legend is, is there was a family that lived in the house.  A happy family but they had a mentally impaired daughter.  She was to stay in the house cellar because she was an embarrassment.  Her father made her stay in the cellar all day but at night he would give her a candle and let her venture outside.  One night the daughter decided to go out further than usual.  Her candle however blew out.  The girl was lost.  She tried to find her way in the darkness but she was unsuccessful.  She later died.  It is said that anyone who lives on Rock House Rd.  Can light a candle and hold it to the window and the girls face will appear.
+location: Rock House Rd.
+state: South Carolina
+state_abbrev: SC
+longitude: -81.411334
+latitude: 35.147185
+city_longitude: -81.51592459999999
+city_latitude: 35.1212408
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

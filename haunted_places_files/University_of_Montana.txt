@@ -1,0 +1,21 @@
+city: Missoula
+country: United States
+description: The University Theater - is haunted by a spectral dog, as well as a murdered girl and a theatergoer.
+location: University of Montana
+state: Montana
+state_abbrev: MT
+longitude: -113.9852081
+latitude: 46.8600672
+city_longitude: -113.996586
+city_latitude: 46.87871759999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1983/08/03
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

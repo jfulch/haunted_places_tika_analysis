@@ -1,0 +1,20 @@
+city: Hauppauge
+country: United States
+description: When You Go To The Down Stairs Bathroom You hear freaky music and then when You come out you will see a still unidentified man in a long black cloak.
+location: Hauppauge High School
+state: New York
+state_abbrev: NY
+longitude: -73.2011529
+latitude: 40.823113
+city_longitude: -73.2026138
+city_latitude: 40.8256536
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1976/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Spanish Fork
+country: United States
+description: The Spanish Fork High School "Little Theater" is known to be haunted by a custodian that used to work their.  After the school was first built, and the little theater was finished, the custodian was standing on the catwalk above the stage installing the light bulbs for the spot lighting.  When he slipped and fell, since he was alone at the time, he died soon after falling.  It is said that you should never go alone into that theater, only in groups of five or more.  The Drama teachers still practice this.  If you are in their by yourself, it’s said that the curtains will rise or fall by themselves.  The sound effects will start playing.  But more commonly the stage lights will begin to flicker on and off.
+location: Spanish Fork High School
+state: Utah
+state_abbrev: UT
+longitude: -111.6604898
+latitude: 40.1110631
+city_longitude: -111.654923
+city_latitude: 40.114955
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2017/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

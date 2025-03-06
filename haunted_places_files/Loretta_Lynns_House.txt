@@ -1,0 +1,21 @@
+city: Hurricane Mills
+country: United States
+description: This old estate had been the scene of a civil war battle. several confederate soldiers were buried here and the original owner of the house is also buried here. witness reports of people standing by a bed and doors that open and close by themselves. Sounds of footsteps and chains being dragged across the porch.
+location: Loretta Lynn's House
+state: Tennessee
+state_abbrev: TN
+longitude: -87.76702709999999
+latitude: 35.9761585
+city_longitude: -87.781969
+city_latitude: 35.9711736
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Fairplay
+country: United States
+description: Ghost seen singing and dancing in hallways, especially in mid- to late-October.
+location: Fairplay Hotel
+state: Colorado
+state_abbrev: CO
+longitude: -106.0016004
+latitude: 39.2246126
+city_longitude: -106.0019618
+city_latitude: 39.2247125
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

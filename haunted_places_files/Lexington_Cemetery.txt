@@ -1,0 +1,20 @@
+city: Lexington
+country: United States
+description: The tomb has the feel of anger and often a large black blob can be seen in the back of the mausoleum.
+location: Lexington Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -84.510421
+latitude: 38.06074
+city_longitude: -84.5037164
+city_latitude: 38.0405837
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

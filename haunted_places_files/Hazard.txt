@@ -1,0 +1,21 @@
+city: Perry County
+country: United States
+description: Western Sizzler Stake house - not used any more for any thing. a woman seen what she thought was a man trying to get in the old restaurant. Her and some man close by went to look. No one was around. Then movement inside was heard. They called the police. The officer to heard the sounds, but the doors was chained, and locked. The windows boarded up. No one could have got in side.
+location: Hazard
+state: Kentucky
+state_abbrev: KY
+longitude: -83.1932284
+latitude: 37.24954
+city_longitude: -83.2077645
+city_latitude: 37.3160706
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

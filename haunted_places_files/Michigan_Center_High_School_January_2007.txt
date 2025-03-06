@@ -1,0 +1,21 @@
+city: Jackson
+country: United States
+description: So far there is no proof that there was a death here - IT is said that a girl was hung in the auditorium of the Michigan center high school some people have said that when the are practicing playing the instruments or singing the lights will go on and off and you will hear strange moans.-  WARNING – You MUST sign in to be on premises, if you are caught you could be arrested.
+location: Michigan Center High School- January 2007
+state: Michigan
+state_abbrev: MI
+longitude: -84.34089580000001
+latitude: 42.2586637
+city_longitude: -84.40134619999999
+city_latitude: 42.245869
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1762/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

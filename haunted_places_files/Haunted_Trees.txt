@@ -1,0 +1,21 @@
+city: Stratford
+country: United States
+description: On King Avenue between 18th and 17th avenue there are a group of trees that are isolated by a canal. Long time ago, the farmer that used to farm out there had a awful accident, the farmer was disking the ground and he fell off the tractor and got chopped up by the disc. To this day if anyone goes into those trees at night, you hear sounds of footsteps behind you and branches start breaking by themselves.
+location: Haunted Trees
+state: California
+state_abbrev: CA
+longitude: -119.2683702
+latitude: 36.3266055
+city_longitude: -119.8231877
+city_latitude: 36.1893956
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1929/01/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

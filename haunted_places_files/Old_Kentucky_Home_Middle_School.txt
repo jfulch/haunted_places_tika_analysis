@@ -1,0 +1,21 @@
+city: Bardstown
+country: United States
+description: During the Civil War the school was used as a hospital. The Morgue was in the basemebt. The floors and the ceilings have been said to bleed. The schools art room(which is also located in the basement.) smells of rotting flesh. It has been said that this room was used for holding of decomposing bodies. They painted the basement walls white and blood red spots bled back through.
+location: Old Kentucky Home Middle School
+state: Kentucky
+state_abbrev: KY
+longitude: -85.42752019999999
+latitude: 37.8311411
+city_longitude: -85.46690249999999
+city_latitude: 37.8092279
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 0

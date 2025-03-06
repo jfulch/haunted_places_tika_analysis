@@ -1,0 +1,20 @@
+city: Kirkwood
+country: United States
+description: Residents suffering from dementia and Alzheimer's sometimes complain to staff about a little boy playing in their room at night, disturbing their sleep.  It's rumored this is the spirit of a little boy who was killed in the 1950's or 60's on the nearby railroad tracks.   These sightings occur in clusters.  Nothing will be mentioned for quite awhile; then several residents in their beds, upstairs and down, will mention seeing him on the same night.  These people are NOT alert and oriented, and most assuredly not capable of coordinating among themselves a hoax or trick upon the staff. While working midnight shift on second floor A nurse reports seeing from the hallway, a 'dark shadow' leaning over a residents' bed, smoothing the bedcovers.  Assuming it was an aide giving care, they flipped on the light, and it was gone.
+location: Manor Grove Nursing Home
+state: Missouri
+state_abbrev: MO
+longitude: -90.407748
+latitude: 38.571174
+city_longitude: -90.406785
+city_latitude: 38.5833862
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

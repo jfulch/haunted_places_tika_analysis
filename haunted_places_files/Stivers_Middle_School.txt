@@ -1,0 +1,20 @@
+city: Dayton
+country: United States
+description: Stivers Middle School is said to be haunted by a teacher who had an affair with one of her students. The teacher mysteriously disappeared one day along with the student. The following day, the teacher was found floating dead in the swimming pool. The boy was never seen again. A while later, the pool was shut down and a new classroom was built over the site. People have claimed that the television turns on by itself along with doors shutting and lights cutting off.
+location: Stivers Middle School
+state: Ohio
+state_abbrev: OH
+longitude: -84.175196
+latitude: 39.759123
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1976/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

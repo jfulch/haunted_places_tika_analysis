@@ -1,0 +1,21 @@
+city: Roberts
+country: United States
+description: Numerous spirits evidently inhabit this old building that once was a hotel. The building was flooded and abandoned after the Teton Flood of 1976. It was purchased and renovated in the 1980's and now houses a Cajun restaurant, bar, and residence of the owners. The owners report seeing and hearing evidence of haunting all of the time. They report the appearance of the spirit of a young girl, and the spirit of an old gentleman, possibly in a uniform.
+location: B.J.'S Bayou Restaurant
+state: Idaho
+state_abbrev: ID
+longitude: -112.126856
+latitude: 43.721025
+city_longitude: -112.1263628
+city_latitude: 43.720188
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

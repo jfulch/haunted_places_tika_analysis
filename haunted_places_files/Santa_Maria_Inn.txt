@@ -1,0 +1,21 @@
+city: Santa Maria
+country: United States
+description: In the historical section of the hotel scents of women's perfumes were smelled in a room at night. Also, the door mysteriously locked a guest out. Several items in room were moved around. Also reports of the elevator going to a certain floor and stopping for 15 minutes and starting up again, always at the same time of day.
+location: Santa Maria Inn
+state: California
+state_abbrev: CA
+longitude: -120.436744
+latitude: 34.94381
+city_longitude: -120.4357191
+city_latitude: 34.9530337
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

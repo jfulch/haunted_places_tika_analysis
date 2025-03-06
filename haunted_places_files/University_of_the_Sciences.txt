@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: Osol Hall - was originally a Psychiatric Institute. Legend goes, that a girl who was admitted there, went crazy because of mistreatment, and ended up killing herself on the 6th floor. Several years later, the Institute became a dormitory/apartment- like suites for students at USP. Several residents have heard strange noises, seen bathroom doors propped open after insuring they were closed shut while toilet seats would be put down if a resident was sure he left it up. Many resident's have gotten strange sensations and weird feelings.
+location: University of the Sciences
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.2070979
+latitude: 39.9468299
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

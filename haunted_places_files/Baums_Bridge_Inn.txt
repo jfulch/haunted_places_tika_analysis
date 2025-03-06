@@ -1,0 +1,21 @@
+city: Kouts
+country: United States
+description: there is a old inn. There is a window that is not boarded that you can look in. If you go there around midnight there is a man in the distance with a very dim light around him. If you look long enough he will get mad and get right in front of you and it will only take a split second for him to get in front of you. It will scare the crap out you.
+location: Baums Bridge Inn
+state: Indiana
+state_abbrev: IN
+longitude: -87.0721782
+latitude: 41.2756075
+city_longitude: -87.0258594
+city_latitude: 41.3167058
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Brattleboro
+country: United States
+description: Workers describe hearing voices above the dinning area of the country club. None of the waitresses like to close alone. Reports of footsteps walking overhead and other various sounds. To date, do not believe any paranormal studies have been done. No one claims to know who the ghost or ghosts are.
+location: The Country Club
+state: Vermont
+state_abbrev: VT
+longitude: -72.58161799999999
+latitude: 42.8733779
+city_longitude: -72.5578678
+city_latitude: 42.8509152
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

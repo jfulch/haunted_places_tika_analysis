@@ -1,0 +1,21 @@
+city: Shingle Springs
+country: United States
+description: There is a strange mist that hovers at times, no matter the climate (no hot-springs present). Sounds of Native American drumming can be heard late at night or early in the morning (there are grinding stones in the area). My neighbor personally saw what looked like a ghostly form of a mountain lion enter the mist, and what looked to be the ghostly form of a Native American Warrior exit on the opposite side of the mist.
+location: La Casa Dr.
+state: California
+state_abbrev: CA
+longitude: -120.9438162
+latitude: 38.6306466
+city_longitude: -120.9359987
+city_latitude: 38.6691362
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

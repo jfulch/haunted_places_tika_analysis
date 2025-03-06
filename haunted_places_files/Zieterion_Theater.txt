@@ -1,0 +1,21 @@
+city: New Bedford
+country: United States
+description: The original owner of the "Z" hanged himself in the projection booth of the Theater in the 1920s. He is never seen but his presence is known. There is an overpowering feeling of dejavu, and feeling of people watching you. There are also hallways and rooms that were built with no entry, and doors that do not lead to anywhere. No one, not even that staff, are allowed to go down to the basement by themselves.
+location: Zieterion Theater
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.92515399999999
+latitude: 41.633224
+city_longitude: -70.93420499999999
+city_latitude: 41.6362152
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

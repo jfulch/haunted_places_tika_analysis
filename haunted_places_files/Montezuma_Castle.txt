@@ -1,0 +1,21 @@
+city: Montezuma
+country: United States
+description: 60 miles east of Santa Fe, The Evil was filmed there. Ever since, people have seen some sort of woman in the castle towers at night. No one wants to go in there at night. It is currently being renovated.
+location: Montezuma Castle
+state: New Mexico
+state_abbrev: NM
+longitude: -111.8349854
+latitude: 34.6115755
+city_longitude: -105.2766154
+city_latitude: 35.6521842
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2015/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

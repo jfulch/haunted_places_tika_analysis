@@ -1,0 +1,20 @@
+city: Elyria
+country: United States
+description: They say at night if you go up in the rocks you can see fire and people around it. You can hear howling and screaming by the falls. They have reported a shadow figure on the swings.
+location: Cascade
+state: Ohio
+state_abbrev: OH
+longitude: -82.109645
+latitude: 41.372619
+city_longitude: -82.10764859999999
+city_latitude: 41.3683798
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Cañon City
+country: United States
+description: Guests of the hotel have reported seeing strange figures, never unsettling, just a bit surprising. complaints of a young child playing with her ball in the halls of the hotel and disappearing potpourri. the St. Cloud Ghosts enjoy playing games, hiding things from the housekeepers and turning off lights and televisions. stacking furniture and startling guests and employees, the St. Cloud Hotel is both charming and spooky.
+location: St. Cloud Hotel
+state: Colorado
+state_abbrev: CO
+longitude: -105.2385344
+latitude: 38.4419612
+city_longitude: -105.2253316
+city_latitude: 38.4494063
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1948/02/05
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Evening
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

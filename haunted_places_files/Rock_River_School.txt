@@ -1,0 +1,21 @@
+city: Rockford
+country: United States
+description: Witnesses have seen an apparition of a male figure in a white shirt and sweater standing in the stairway of the gym area watching them. Many teachers would not go near that area of the building after hours. The building was built in 1911 as a county school and later made one of the Rockford Public Schools and then sold around 2003. Building still standing on Kishwaukee Street, south of Harrison road.
+location: Rock River School
+state: Illinois
+state_abbrev: IL
+longitude: -89.091012
+latitude: 42.27648200000001
+city_longitude: -89.0939952
+city_latitude: 42.2711311
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1911/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

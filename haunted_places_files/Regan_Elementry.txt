@@ -1,0 +1,21 @@
+city: San Angelo
+country: United States
+description: It is haunted by 2 chearleaders in the girls bathroom.they were brutily killed one had their heads cut off and the other hung. Female janitors conserned yet scared run out screaming.
+location: Regan Elementry
+state: Texas
+state_abbrev: TX
+longitude: -100.4443663
+latitude: 31.4780528
+city_longitude: -100.4370375
+city_latitude: 31.4637723
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1588/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

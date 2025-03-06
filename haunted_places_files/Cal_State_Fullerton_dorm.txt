@@ -1,0 +1,21 @@
+city: Fullerton
+country: United States
+description: Saw small green glowing balls around 2am sometimes. Heard tapping on the wall adjoining to the room next door when everyone in the apartment was gone. Heard noises (such as dishes clattering, taps/knocks, "voices") when nobody else was home. Always had the feeling that someone was watching you from behind but nobody was ever there.
+location: Cal State Fullerton dorm
+state: California
+state_abbrev: CA
+longitude: -117.885577
+latitude: 33.888913
+city_longitude: -117.9242123
+city_latitude: 33.8703645
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

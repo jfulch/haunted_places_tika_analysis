@@ -1,0 +1,20 @@
+city: Macon
+country: United States
+description: The armory used to be an Insane Asylum, and soldiers who have had to stay there say they here foot steps down the halls, here doors slamming and often times here faint moans and cries.
+location: National Guard Armory
+state: Missouri
+state_abbrev: MO
+longitude: -92.4653564
+latitude: 39.7218895
+city_longitude: -92.4726859
+city_latitude: 39.74225610000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 0

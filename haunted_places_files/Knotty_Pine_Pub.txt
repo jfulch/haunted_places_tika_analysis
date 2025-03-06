@@ -1,0 +1,21 @@
+city: Wharton
+country: United States
+description: Strange sounds can be heard coming from attic. Sounds are similar to moving objects and footsteps. Legend has the owners deceased mother is the bar caretaker.
+location: Knotty Pine Pub
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.572002
+latitude: 40.906951
+city_longitude: -74.5818254
+city_latitude: 40.8931546
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Rochester
+country: United States
+description: Library - The old stacks of the library are said to be haunted by a workman who fell during the construction of the library in 1929. Numerous sightings have been reported over the years as documented by the Campus Time newspaper.
+location: University of Rochester
+state: New York
+state_abbrev: NY
+longitude: -77.6260033
+latitude: 43.1305531
+city_longitude: -77.6109219
+city_latitude: 43.16103
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1929/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

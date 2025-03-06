@@ -1,0 +1,21 @@
+city: Oakland
+country: United States
+description: North Oakland Medical Center - used to be called Pontiac General Hospital - Apparition of an elderly white lady dressed in a patient gown seen on the 7th floor, seen by myself and at least one other employee. Also televisions turning on by themselves, TV. volumes being turned up. Cold spots and breezes, overhead cupboard doors slamming shut in the kitchen while only one person was in the room. Other instances such as being touched, an employee hearing a voice with no one else in the room, and rumors of a sensitive saying there were many spirits all over the building.
+location: Pontiac
+state: Michigan
+state_abbrev: MI
+longitude: -83.29104679999999
+latitude: 42.6389216
+city_longitude: -83.1434573
+city_latitude: 42.7561109
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1942/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Kingsport
+country: United States
+description: Sometime back, a women lived in this house, and was looking for a husband. When she found one, he drowned on a fishing trip at Holston River on the wedding day. This happened several times to this girl, and soon she murdered herself. Now on foggy, full moon nights, people have reported 2 things. 1, they said they saw a women in a wedding dress in her room window, crying. 2, they saw a women in a wedding dress rushing down Holston River.
+location: Rotherwood Mansion
+state: Tennessee
+state_abbrev: TN
+longitude: -82.6164434
+latitude: 36.5487071
+city_longitude: -82.5618186
+city_latitude: 36.548434
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

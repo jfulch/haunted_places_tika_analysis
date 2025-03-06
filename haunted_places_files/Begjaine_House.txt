@@ -1,0 +1,21 @@
+city: Hauppauge
+country: United States
+description: The Begjaines (long dead) Have haunted this old house for over 215 years. It all started in 1778 when Mr. Begjaine was killed at fort Ticonderoga. Mrs. Begjaine moved her three kids to a mansion in Hauppauge. Shortly after the move a man with an English accent came to the front door saying he wanted to sell some hats. When Mrs. Begjaine let him in he pulled out a gun and killed the whole family. To this day the cops are still investigating the crime. Neighbors complain of strange noises and gunshots coming from the old abandoned house at night. Most of the cops go in but few have lived to come out.
+location: Begjaine House
+state: New York
+state_abbrev: NY
+longitude: -73.20812699999999
+latitude: 40.8213604
+city_longitude: -73.2026138
+city_latitude: 40.8256536
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1778/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

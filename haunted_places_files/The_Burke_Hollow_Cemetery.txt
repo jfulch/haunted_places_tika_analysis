@@ -1,0 +1,21 @@
+city: East Burke
+country: United States
+description: When you drive by it at night or walk past it seems as though there is something watching you from the tree lines and movement through out the cemetery at night.
+location: The Burke Hollow Cemetery
+state: Vermont
+state_abbrev: VT
+longitude: -71.94041760000002
+latitude: 44.6151635
+city_longitude: -71.94045539999999
+city_latitude: 44.589071
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

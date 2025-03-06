@@ -1,0 +1,21 @@
+city: Catoosa
+country: United States
+description: When you go into the Cherokee elementary old gym by the cafeteria theirs a huge bathroom. It is said to be haunted because some girl attempted suicide at a school dance. She hung herself now when your in their alone you can hear lockers slam and the toilets flush and the showers always turn on all the time!!!
+location: Cherokee Elementary
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.7488071
+latitude: 36.1821335
+city_longitude: -95.74581700000002
+city_latitude: 36.188987
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Grace Mont
+country: United States
+description: screams of a woman can be heard at night. One witness even said she seen the woman walking in the woods at night.
+location: screaming woman woods
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -98.2606085
+city_latitude: 35.188393
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

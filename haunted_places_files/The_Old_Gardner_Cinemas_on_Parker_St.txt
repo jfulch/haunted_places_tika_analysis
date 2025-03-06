@@ -1,0 +1,21 @@
+city: Gardner
+country: United States
+description: When the building was a play theater, there was a girl named Alice who died by having a sand bag fall on her. She has been seen roaming the lobby of the theater late at night by patrol officers and also have been seen sitting on the staircase that connects the theater to the other building next to it. This has been the ghost story of the Cinema employees for years...some of the employees that have seen traces of her still work at the new Cinema location.
+location: The Old Gardner Cinemas (on Parker St.)
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.99713059999999
+latitude: 42.57576700000001
+city_longitude: -71.998133
+city_latitude: 42.5750883
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

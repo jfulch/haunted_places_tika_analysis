@@ -1,0 +1,21 @@
+city: Aztalan
+country: United States
+description: Aztalan State park - This is a very active spirit place. Many people have a very uneasy feeling here, like they are being stalked or hunted. Many divers have had strange things happen when they are in the area of these mounds. There is a book out on the stories of the divers who looked for the pyramids on the bottom of the lake.
+location: (Lake Mills)
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.91177420000001
+latitude: 43.0813888
+city_longitude: -88.8587853
+city_latitude: 43.0688499
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

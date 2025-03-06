@@ -1,0 +1,21 @@
+city: Edinburgh
+country: United States
+description: Strange sounds and footsteps have been heard in the different areas of the campus. People have seen yellow glowing eyes in the woods.
+location: Atterbury Job Corps Center
+state: Indiana
+state_abbrev: IN
+longitude: -86.04419229999999
+latitude: 39.3646576
+city_longitude: -85.96665770000001
+city_latitude: 39.3542176
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

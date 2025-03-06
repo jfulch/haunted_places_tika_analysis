@@ -1,0 +1,21 @@
+city: Palmyra
+country: United States
+description: Owned by Mr. & Mrs. Phelps & daughter Sybil. The parents passed away & Sybil was never married. She went into Spiritualism, with her two friends The Fox Sisters. It is said she haunts her house on Market St. Things fly off walls ,people have seen her.
+location: Phelps Museum on Market St.
+state: New York
+state_abbrev: NY
+longitude: -77.22954690000002
+latitude: 43.06489879999999
+city_longitude: -77.17152279999999
+city_latitude: 43.0869045
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1903/09/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Mount Vernon
+country: United States
+description: A strong sweet odor when you walk near the English boxwoods. It is believed to be Nelly Custis, George Washington's granddaughter taking a walk. She seems to be a very welcoming spirit.
+location: Woodlawn Plantation
+state: Virginia
+state_abbrev: VA
+longitude: -77.1373345
+latitude: 38.717459
+city_longitude: -77.0861753
+city_latitude: 38.707982
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

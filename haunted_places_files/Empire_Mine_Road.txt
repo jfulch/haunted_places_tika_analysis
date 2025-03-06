@@ -1,0 +1,21 @@
+city: Antioch
+country: United States
+description: Slaughterhouse -Fair warning - no trespassing you will get fined or arrested. - An old slaughterhouse stands in the corner of the road after the first bend. It is haunted by an old man who walks the grounds and makes sure that everything is ok, and that no one gets hurt while there. Strange noises are heard inside the first building where they chopped up the meat. Clanking inside of the circle figured tubes towards the back of the property. Chains clank all around and you can hear footsteps behind you like someone is watching over you. Just remember to watch your step!
+location: Empire Mine Road
+state: California
+state_abbrev: CA
+longitude: -121.7966315
+latitude: 37.9368191
+city_longitude: -121.805789
+city_latitude: 38.0049214
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

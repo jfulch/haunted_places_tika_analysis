@@ -1,0 +1,21 @@
+city: Morristown
+country: United States
+description: In a dense wooded area, it is believed you can hear & see the spirits of George Washington & his troops marching through the woods or a woman wearing a long white dress carrying an lamp.
+location: Jockey Hollow
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.47669379999999
+latitude: 40.7943124
+city_longitude: -74.4815438
+city_latitude: 40.79676670000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

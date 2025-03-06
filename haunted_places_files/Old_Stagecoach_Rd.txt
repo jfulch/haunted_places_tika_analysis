@@ -1,0 +1,21 @@
+city: Carnsville
+country: United States
+description: People call it "Red Eyes" but a lot of people who has been down there after midnight (hunting or whatever) see a woman-like body, slightly glowing...she will be at the woods line her back facing you...then she will turn around and have big brightly glowing red eyes. There is also and old rundown house on that same road that is said to be haunted. there is no power connected to the house and many people have seen lights in the windows.
+location: Old Stagecoach Rd.
+state: Georgia
+state_abbrev: GA
+longitude: -83.2681815
+latitude: 34.3947325
+city_longitude: -83.23515499999999
+city_latitude: 34.3698266
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

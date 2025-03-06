@@ -1,0 +1,21 @@
+city: Clearfield
+country: United States
+description: There have been many drowning of children at Stede's Pond over the years. Cries for help can be heard there and occasionally at night a sinister whispering of "come here." Also, whispering can be heard at the train tracks by the pond. People have heard crying along the tracks and have felt trains go by when non e have been there. More people have been run over by trains in this location than any other in Utah.
+location: Stede's Pond/Train Tracks
+state: Utah
+state_abbrev: UT
+longitude: -112.0437938
+latitude: 41.1226166
+city_longitude: -112.0260538
+city_latitude: 41.1107771
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

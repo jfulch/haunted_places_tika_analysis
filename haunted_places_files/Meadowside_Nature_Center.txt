@@ -1,0 +1,21 @@
+city: Rockville
+country: United States
+description: Strange presence felt & EVPs recorded.
+location: Meadowside Nature Center
+state: Maryland
+state_abbrev: MD
+longitude: -77.10667099999999
+latitude: 39.1123439
+city_longitude: -77.1527578
+city_latitude: 39.0839973
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Traffic noise is a factor but how do you explain sounds of children playing and laughing at two in the morning. There is a section of the cemetery were score of children were buried after they died during a small pox epidemic. You can hear the hoof beats of Calvary soldiers, and just general conversation, but never really understanding the words just recognizing the human voices.
+location: Concordia Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -106.4467775
+latitude: 31.7799682
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1971/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

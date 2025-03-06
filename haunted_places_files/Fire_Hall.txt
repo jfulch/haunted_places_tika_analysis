@@ -1,0 +1,21 @@
+city: Hollsopple
+country: United States
+description: A volunteer fireman was killed in the basement of the fire hall but no one can quite figure out how he died. Other firemen have complained of hearing doors aspen and close with no one inside, fire gear being misplaced. It is believed that the phantom of the dead fireman haunts the fire hall.
+location: Fire Hall
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.9274952
+latitude: 40.2089688
+city_longitude: -78.92780259999999
+city_latitude: 40.2084096
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

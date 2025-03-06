@@ -1,0 +1,21 @@
+city: Santa Paula
+country: United States
+description: employees report feeling uneasy in the theatre while cleaning and when the lights are off in the theatre the darkness in theatre seems more dark then a normal dark. There are also reports of a man spotted sitting in one of the seats in number 6 and then he vanishes and reports of seeing apparitions appear in the projection booths upstairs especially near the projection booth to theater 6. As well as the sweet smell of perfume in the theatre.
+location: Wallace Theatres / Santa Paula 7 theaters Theater #6
+state: California
+state_abbrev: CA
+longitude: -119.0817421
+latitude: 34.3464778
+city_longitude: -119.0592705
+city_latitude: 34.3541659
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

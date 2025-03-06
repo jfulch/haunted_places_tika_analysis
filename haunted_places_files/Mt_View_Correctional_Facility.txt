@@ -1,0 +1,21 @@
+city: Gatesville
+country: United States
+description: This is now a women's prison but was once State School for boys. When you first start to work there the prisoners will tell you that there are little boys haunting the dorms. I witnessed this first hand more then once. One night while working 3rd shift I was standing at the sink area of the dorm and was looking in the mirror when I saw someone walking in the dayroom area. I went to investigate and were I saw the movement there was no one there. Also during a 3rd shift watch one of the female guards was making her rounds when something ran out from one of the small cubical in front of her causing her to scream and wake up the prisoners. She quit not soon after that.
+location: Mt. View Correctional Facility
+state: Texas
+state_abbrev: TX
+longitude: -97.7292681
+latitude: 31.4855155
+city_longitude: -97.743911
+city_latitude: 31.4351645
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

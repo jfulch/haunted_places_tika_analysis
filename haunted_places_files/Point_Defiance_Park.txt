@@ -1,0 +1,21 @@
+city: Tacoma
+country: United States
+description: The Pagoda - The Pagoda used to be the trolley terminus at Point Defiance in the early part of the 20th century. The building was remodeled and is now rented out for weddings/parties. Visitors, workers, and the Police have reported hearing footsteps made with hard soled shoes walking around the building after dark. The footsteps seem to be walking down the stairs on the east side of the building, then abruptly stop. Sighing can be heard at other times and there are cold spots in the storage area below the building. A tale has been told about a young newlywed couple during the 1920's. The husband and wife would catch the trolley to Point Defiance and the husband would see his wife off for the day to visit her parents on Vashon Island. Small groups of boats would shuttle people to the island for a fee. The husband would return in the evening to meet his wife. As the small launch she was riding in approached the Boathouse area, it took on water. Many people were thrown overboard in the confusion and the husband observed with his pocket spyglass his wife flailing in the water in her heavy period clothes as she went under. Overcome with grief, he walked down the stairs to the marbled restroom, pulled out a small pocket pistol and shot himself in the head. It is said it is his ghost that haunts the Pagoda.
+location: Point Defiance Park
+state: Washington
+state_abbrev: WA
+longitude: -122.5327736
+latitude: 47.3083123
+city_longitude: -122.4442906
+city_latitude: 47.2528768
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

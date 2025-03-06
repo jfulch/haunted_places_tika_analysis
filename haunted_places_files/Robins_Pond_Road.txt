@@ -1,0 +1,21 @@
+city: Paulding
+country: United States
+description: Dogmeadow lights - A mysterious light appears in the distance along old railroad tracks and power lines. Also, cold spots have been felt by visitors along the viewing hill. Every clear night on this road all you have to do is look for parked cars. Over the next hill as soon as the sun goes down you will see a red orb hovering in the air. After a few seconds it will turn white and disappear. This has gone on every night for many years. A lot of speculation has gone on but with no definite answers. One story is the light is from the lantern of a railroad switchman who fell asleep on duty and was killed, but there are many more.
+location: Robins Pond Road
+state: Michigan
+state_abbrev: MI
+longitude: -89.2284689
+latitude: 46.3809283
+city_longitude: -89.17971999999999
+city_latitude: 46.40139
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

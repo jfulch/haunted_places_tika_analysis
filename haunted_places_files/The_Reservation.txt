@@ -1,0 +1,20 @@
+city: Wind River Indian Reservation
+country: United States
+description: The A little black Ghost or spirit appears to follow you at night when you are by yourself or `outside at night. Sometimes things whisper your name or bother you.
+location: The Reservation
+state: Wyoming
+state_abbrev: WY
+longitude: -108.8340103
+latitude: 43.2832906
+city_longitude: -108.8340103
+city_latitude: 43.2832906
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

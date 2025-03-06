@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: Two people have committed suicide of the Hollywood sign and there have been many sightings of weird looking figures and lights by the sign late at night. From the Griffith observatory, you can see the sign very well and employees there have reported sightings of ghosts by the sign.
+location: Hollywood sign and Griffith observatory
+state: California
+state_abbrev: CA
+longitude: -118.3003935
+latitude: 34.1184341
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

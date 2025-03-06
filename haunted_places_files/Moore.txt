@@ -1,0 +1,21 @@
+city: Oklahoma City
+country: United States
+description: Berg Anatomy - this is a classroom that’s filled with spirits of dead cats that the old witch Berg has killed for "the sake of science" many have said this place is the second home of Satan where he likes to kick it with Ms. Berg.....Some say you can still see ms berg today roaming the anatomy room...when you walk into the room you may smell something awful some say its bergs breath. but beware don’t stay too long or she will give you a failing grade for the rest of your life
+location: Moore
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.4867028
+latitude: 35.3395079
+city_longitude: -97.5164276
+city_latitude: 35.4675602
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1773/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

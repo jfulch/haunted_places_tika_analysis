@@ -1,0 +1,21 @@
+city: Thousand Oaks
+country: United States
+description: A little boy haunts theater number 5 who was killed back in the '70's during a freak construction accident. Employees have heard footsteps behind them when no one is there, banging from the walls and exit door, blue flashes of lights by the exit door, laughter when no one else is there, and there has been one incident when 2 employees went to clean the theater and they heard a little boy say HI but when they turned around, the theater was empty. Some of the managers have also reported that the projector area for theater 5 is also haunted. Laughter, cold spots, flickering lights, and moved film has been reported.
+location: United Artists Theaters 5
+state: California
+state_abbrev: CA
+longitude: -118.8793381
+latitude: 34.1829213
+city_longitude: -118.8375937
+city_latitude: 34.1705609
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Dane
+country: United States
+description: Apparitions seen and strange feelings.
+location: Springfield hill
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.5023767
+latitude: 43.116995
+city_longitude: -89.5015088
+city_latitude: 43.2505472
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

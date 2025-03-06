@@ -1,0 +1,19 @@
+city: Prince Georges County
+country: United States
+description: Cedar knolls - Reports of pools of blood are in rooms, doors lock behind you, children scream, very cold spots, animal bodies, visions, and other random scary stuff happens.
+location: Annapolis junction
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.8720961
+city_latitude: 38.78492110000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

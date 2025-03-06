@@ -1,0 +1,21 @@
+city: Crescent Township
+country: United States
+description: The railroad on McGovern blvd. Is now haunted by a young mans spirit, in 2004 this young man was playing the game called "chicken" with some of his buddies near the tracks and stood right in front of the tracks as a train was fast coming down the tracks, of course the train could not stop but the boy did move out of the way, he did not move far enough though, and unfortunately the train hit him.
+location: Railroad on McGovern Blvd.
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.23344
+latitude: 40.5690714
+city_longitude: -80.22422639999999
+city_latitude: 40.55978959999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

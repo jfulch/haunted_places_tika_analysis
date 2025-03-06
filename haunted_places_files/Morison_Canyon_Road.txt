@@ -1,0 +1,21 @@
+city: Fremont
+country: United States
+description: When you go down The Canyon road you will find an off ramp that will lead you down to a creek... That is if you can drive all the way down the road... As you go down the road you begin to hear knocking and at about half way down the road you will start to hear a small boy laughing... Story tells that a young boy was killed in the basement of a cottage at the end of the road...he was found by his parents hanging from the rafters, when his parents called the cops they told them that there was no body in the house but mass amounts of blood washing up at the creek banks... Legend tells that if you make it down the canyon you can still see blood washing up on the creek banks and hear a young boy laughing...No Trespassing
+location: Morison Canyon Road
+state: California
+state_abbrev: CA
+longitude: -121.9429366
+latitude: 37.57065619999999
+city_longitude: -121.9885719
+city_latitude: 37.5482697
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Sperry
+country: United States
+description: around the school and the main street there are always sounds heard of different things and a boy was killed in a near by field people say that u can see him walking around the field.
+location: the school
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.9966022
+latitude: 36.2981988
+city_longitude: -95.991386
+city_latitude: 36.2973134
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

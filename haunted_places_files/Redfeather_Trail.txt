@@ -1,0 +1,21 @@
+city: Browns Mills
+country: United States
+description: Supposedly there is a man that walks Redfeather Trail every night that sings a song and when you look at him he disappears into the night.
+location: Redfeather Trail
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.5441342
+latitude: 39.9428135
+city_longitude: -74.58293309999999
+city_latitude: 39.9726147
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

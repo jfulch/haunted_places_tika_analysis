@@ -1,0 +1,21 @@
+city: Byron
+country: United States
+description: You can hear people in the weight room when investigated, it is always emoty. It is rumored someone hung themselves up there. Typing in the typing room has been heard and in the library there is a feeling of being watched.
+location: Rocky Mountain High School
+state: Utah
+state_abbrev: UT
+longitude: -108.4644083
+latitude: 44.8760749
+city_longitude: -111.8921503
+city_latitude: 40.7631125
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

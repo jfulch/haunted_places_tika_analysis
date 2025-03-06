@@ -1,0 +1,21 @@
+city: Altoona
+country: United States
+description: At the completion of the roller coaster a Maintenance worker was killed by a coaster car during a test run. To this day people say they see him working on the track while they are riding the roller coaster.
+location: Lakemont park
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.395828
+latitude: 40.471383
+city_longitude: -78.3947359
+city_latitude: 40.5186809
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Vermilion
+country: United States
+description: There is this old bridge in Vermilion. It's abandoned and dangerous to use. But, at night, if you drive your car across it, your car will stall, then you'll see a blinding blue light. Then, you here a booming sound, like a heartbeat. After about 5 minutes, it disappears and then your car will start up like nothing happen.
+location: Devil's Heart Beat
+state: Ohio
+state_abbrev: OH
+city_longitude: -82.36460679999999
+city_latitude: 41.4219889
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Tuckerman
+country: United States
+description: On stormy nights, just before and right after a storm, it is said that a swinging lantern crosses the back end of the field. During the Civil War, a very wealthy family lived there. The father of the family received warning that a band of bushwhackers were in the territory, so he took all of his gold and buried it in the woods. When he returned to his home, the bushwhackers had killed his wife and children. He knew that they died because of his greed, so he is doomed to repeat his mistake forever. His ghost goes to and from his house to rebury the gold.
+location: Battleaxe
+state: Arkansas
+state_abbrev: AR
+city_longitude: -91.1984601
+city_latitude: 35.7306327
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

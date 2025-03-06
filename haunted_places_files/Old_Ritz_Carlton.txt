@@ -1,0 +1,21 @@
+city: Long Boat key
+country: United States
+description: In the early 1920's, John Ringling of circus fame purchased considerable acreage on the south end of the island. Ringling constructed a golf course He also began construction of a luxurious hotel, the Ritz-Carlton on New Pass. The hotel was never completed. The story goes that a worker brought his young son to the job site one day and showed him around. the worker got distracted or called to do something and had to leave his son for a while. some how the young boy fell down the unfinished elevator shaft and was killed. the site was abandoned after and the hotel was never completed. currently a shopping center and a chart house resturant are on the site. staff at the chart house often report seeing a small boy playing in the mens room with a ball or in the seating area after close. often times a faint scream is heard.
+location: Old Ritz Carlton
+state: Florida
+state_abbrev: FL
+longitude: -82.5714852
+latitude: 27.305978
+city_longitude: -82.6589881
+city_latitude: 27.4125417
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1866/05/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

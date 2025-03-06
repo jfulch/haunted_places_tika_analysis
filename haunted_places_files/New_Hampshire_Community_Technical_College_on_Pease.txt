@@ -1,0 +1,21 @@
+city: Portsmouth
+country: United States
+description: Pease International Trade port used to be Pease Air Force Base, and they converted an old hospital into the Community Technical College. Reports are that the upper two floors are haunted. They aren't used for classes, and the elevator stops to them have been disabled, but there have been reports of lights being turned on and off, footsteps being heard, and apparitions being seen on the rare occasion that someone does go up there.
+location: New Hampshire Community Technical College on Pease
+state: New Hampshire
+state_abbrev: NH
+longitude: -70.7988767
+latitude: 43.0721068
+city_longitude: -70.7625532
+city_latitude: 43.0717552
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1986/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

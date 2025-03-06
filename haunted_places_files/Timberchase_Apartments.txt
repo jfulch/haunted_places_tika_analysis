@@ -1,0 +1,21 @@
+city: Sarasota
+country: United States
+description: In 1992 a young woman was stabbed to death in her apartment on N. Briggs (Timberchase). A neighbor who lived directly across from the victim was leaving and noticed her friend’s front door slightly opened. The neighbor thought her friend accidentally left her door open so she went over to confirm. She found her friend on the floor stabbed multiple times. To this day there is not a suspect. Reports of eerie feelings & apparitions of a young woman. -  May 2005 update: The Ringling Towers where demolished in 2003 and the Ritz Carlton now stands in this spot.
+location: Timberchase Apartments
+state: Florida
+state_abbrev: FL
+longitude: -82.517104
+latitude: 27.3405281
+city_longitude: -82.53065269999999
+city_latitude: 27.3364347
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1992/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

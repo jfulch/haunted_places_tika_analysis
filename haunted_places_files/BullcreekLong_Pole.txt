@@ -1,0 +1,19 @@
+city: Panther/Iaeger
+country: United States
+description: There was an old woman seen killing her husband on the side of the road...late at night you can drive by the road and see her with blood all over her body....and if you catch her at jus the right time she'll start screaming at you and running after you!! BEWARE!!
+location: Bullcreek/Long Pole
+state: West Virginia
+state_abbrev: WV
+city_longitude: -81.855328
+city_latitude: 37.51196789999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

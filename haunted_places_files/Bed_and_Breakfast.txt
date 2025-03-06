@@ -1,0 +1,21 @@
+city: Stanardsville
+country: United States
+description: It is said that there is a bloodstain in the foyer from a confederate soldier who killed himself after learning of his wife being unfaithful with a Yankee soldier during the battle of Stanardsville. Even though it has been scrubbed away at night each morning it returns. It is also said that he still wanders the halls with a pistol looking for the Yankee soldier.
+location: Bed and Breakfast
+state: Virginia
+state_abbrev: VA
+longitude: -78.4391423
+latitude: 38.2972898
+city_longitude: -78.44000989999999
+city_latitude: 38.2973519
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Murder
+witness_count: 0

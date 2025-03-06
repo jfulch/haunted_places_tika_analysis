@@ -1,0 +1,20 @@
+city: Pine Ridge Reservation
+country: United States
+description: At the sight of the old hospital housing there is said to be ghosts of little children. They run around the streets and go into the basements of the houses and bother the residents. When the hospital was being used(we now have a new one)janitors who cleaned the morgue area heard voices and were screamed at by spirits.
+location: Old hospital
+state: South Dakota
+state_abbrev: SD
+longitude: -102.5677964
+latitude: 43.0641152
+city_longitude: -102.7445233
+city_latitude: 43.27309
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

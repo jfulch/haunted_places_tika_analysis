@@ -1,0 +1,19 @@
+city: Rowletts
+country: United States
+description: Witnesses have seen ghosts on different occasions, heard things being moved when no one else is here. Reports of being tapped on the shoulder and he turned around and no one was there. Apparitions of a slave walking across the field, & heard music playing and a baby cry or children playing. The latest thing that has occurred is ghosts and orbs appearing in pictures. This home is on record at the Hart County Historical Museum.
+location: The Old Coats Plantation
+state: Kentucky
+state_abbrev: KY
+city_longitude: -85.8941384
+city_latitude: 37.2408856
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

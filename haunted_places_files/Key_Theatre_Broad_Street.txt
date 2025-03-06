@@ -1,0 +1,21 @@
+city: Hazleton
+country: United States
+description: Three ghosts are dressed n early 1900 attire. One man haunts the projector room. Sometimes you may see the projector turn on itself. Or hear old music playing, and before you can reach the door, its gone. The second ghost seems to like the concession stand. The last ghost is the most frequently seen in the ticket booth.
+location: Key Theatre, Broad Street
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.9949109
+latitude: 40.9590836
+city_longitude: -75.97464719999999
+city_latitude: 40.9584181
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

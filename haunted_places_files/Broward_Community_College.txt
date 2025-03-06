@@ -1,0 +1,21 @@
+city: Davie
+country: United States
+description: Central - Two years ago, a guy went psycho and shot his ex-girlfriend in the back of the head between classes. He then killed himself. Both died between Building 5 and another building. Students exiting their night classes report seeing white figures and strange smells from that corner. Also, a permanent blood stain still remains on the ground.
+location: Broward Community College
+state: Florida
+state_abbrev: FL
+longitude: -80.3943067
+latitude: 26.0681177
+city_longitude: -80.25211569999999
+city_latitude: 26.0764783
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

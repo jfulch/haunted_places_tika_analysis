@@ -1,0 +1,19 @@
+city: Coventry
+country: United States
+description: This fire station was built in 1887 and was used for a village meeting place as well as a fire department. Many gatherings where held within the station such as weddings and wakes in the early 1900s. Numerous people who work at this station as well as visitors have seen aberrations passing through the entrance to the stairwell on the first floor. Voices are often heard but never understood. People will often say they have the feeling of not being alone when in the dayroom. Personnel within the station openly speak of this haunting but can't say for certain who it may be.
+location: Phoenix (Harris) Fire Station
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.5354826
+latitude: 41.72511550000001
+city_longitude: -71.5642076
+city_latitude: 41.6885978
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1887/01/01
+date_source: description
+date_confidence: high
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

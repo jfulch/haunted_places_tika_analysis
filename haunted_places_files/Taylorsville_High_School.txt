@@ -1,0 +1,21 @@
+city: Taylorsville
+country: United States
+description: In September or Oct. 2001, a senior shot himself at school. Students have reported seeing strange things and feeling cold in certain spots of the school. Is it the ghost of the senior, or some other apparition?
+location: Taylorsville High School
+state: Utah
+state_abbrev: UT
+longitude: -111.9369719
+latitude: 40.6553949
+city_longitude: -111.9388258
+city_latitude: 40.66772479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

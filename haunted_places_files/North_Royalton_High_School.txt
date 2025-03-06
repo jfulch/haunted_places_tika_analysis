@@ -1,0 +1,20 @@
+city: North Royalton
+country: United States
+description: At 4:25 every Friday in the hallway near the old gym, you can hear the sounds of a boy coming down the hall dribbling a basketball. Shortly following you can hear the screams of the boy and banging on the lockers as if being attacked. Legend has it that in the 1970's a 9th grader was killed there before a big football game against rival Brecksville as a prank by 2 seniors.
+location: North Royalton High School
+state: Ohio
+state_abbrev: OH
+longitude: -81.7331318
+latitude: 41.30915299999999
+city_longitude: -81.7245739
+city_latitude: 41.3136644
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

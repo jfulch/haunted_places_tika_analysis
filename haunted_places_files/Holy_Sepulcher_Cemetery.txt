@@ -1,0 +1,21 @@
+city: Worth
+country: United States
+description: a grave sight of a young girl that omits the smell of roses even though there are no rose bushes to be found anywhere near the grave sight. The grave sight is said to have supernatural powers of healing and occurrences.
+location: Holy Sepulcher Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -87.76899209999999
+latitude: 41.6868947
+city_longitude: -87.79727539999999
+city_latitude: 41.6897548
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1755/04/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

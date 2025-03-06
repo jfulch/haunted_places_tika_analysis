@@ -1,0 +1,21 @@
+city: Bannerman Island
+country: United States
+description: built by a wealthy Arms dealer that was destroyed in a fire caused by a lightning strike. You can hear bells, horses and strange lights. - August 2005 Additional Information: the castle was a strong hold storing munitions, gun powder & other explosives. Reports are that it is not safe to go ashore due to the fact there may still be explosives there.
+location: Ruins of a replica of Scottish castle
+state: New York
+state_abbrev: NY
+longitude: -73.9890837
+latitude: 41.4551278
+city_longitude: -73.9890837
+city_latitude: 41.4551278
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

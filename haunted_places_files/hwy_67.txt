@@ -1,0 +1,21 @@
+city: Bangs
+country: United States
+description: On Christmas Eve their is said to be a yellow glare coming through the door you can drive by and see it the story was that a man not very long ago killed is wife and kids and then set the house on fire it didn't completely burn down but you can see the damage drive by on Christmas eve and you will see!
+location: hwy 67
+state: Texas
+state_abbrev: TX
+longitude: -99.1265872
+latitude: 31.7183459
+city_longitude: -99.1325528
+city_latitude: 31.7170958
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

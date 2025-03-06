@@ -1,0 +1,21 @@
+city: Coloma
+country: United States
+description: On June 24, 1848 James Marshall found 2 nuggets. They were caught in the tailrace of the waterwheel at the logging Mill operated by him and his partner John Sutter. It was the beginning of the California Gold Rush. Between 1847 & 1860, the population of Ca. grew from 15,000 to 380,000 largely because of that single event. Fanatical gold seekers followed Marshall wherever he went, thinking that he had a magical gift for finding gold. He died broken and destitute August 10, 1885 and was buried here. His restless ghost has been seen as an indistinct shadow following visitors to his monument.
+location: Marshall's Monument
+state: California
+state_abbrev: CA
+longitude: -120.8923266
+latitude: 38.8003795
+city_longitude: -120.8902916
+city_latitude: 38.7999214
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1848/06/24
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

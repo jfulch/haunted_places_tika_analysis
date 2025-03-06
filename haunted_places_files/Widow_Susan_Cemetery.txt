@@ -1,0 +1,21 @@
+city: Amsterdam
+country: United States
+description: To start off, the story goes that at the top of the hill before the cemetery you are supposed to turn off your car head lights and as your coasting down the hill, you chant Widow Susan three times then turn on your lights and turn into the cemetery. Reports of cars not starting, something trying to open car doors from the outside. Words being written cars have also been reported.
+location: Widow Susan Cemetery
+state: New York
+state_abbrev: NY
+longitude: -74.1849134
+latitude: 42.9380462
+city_longitude: -74.190356
+city_latitude: 42.9377453
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1956/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

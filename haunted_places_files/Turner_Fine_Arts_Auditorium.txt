@@ -1,0 +1,21 @@
+city: Nacogdoches
+country: United States
+description: "Chester" haunts the theater building on the Stephen F. Austin University campus. Reputed to be the ghost of the architect who died before the building's completion--some think the blueprints were misinterpreted and the building was erected backwards. Other people believe that "Chester" is the ghost of a former drama student. He has been seen as a face on a stage curtain and even once appeared onstage as an extra ghost in a play in the 1960's. Students have reported cold spots and strange noises in the halls of the building.  November 2003 update/correction: Chester was the architect of the building. When learning his plans were set backwards, he killed himself in disgrace. Chester was seen originally in a photo of the original theatre cast of Hamlet. With the actor playing the "ghost" in Hamlet sick, the director found the only person who knew the lines. When the cast picture was taken that night, only a faint glow comes from where the ghost portraying the character was standing. Members were dumbfounded. Also, a spiritual team has done readings within the building and found a mediocre feeling within the halls but a strong feeling within the theatre itself.
+location: Turner Fine Arts Auditorium
+state: Texas
+state_abbrev: TX
+longitude: -94.6520175
+latitude: 31.6217577
+city_longitude: -94.6554874
+city_latitude: 31.6035129
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1829/10/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

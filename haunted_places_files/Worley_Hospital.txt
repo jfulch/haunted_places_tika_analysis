@@ -1,0 +1,21 @@
+city: Pampa
+country: United States
+description: Worley hospital was abandoned many years ago. It lies in the middle of downtown Pampa. It has been broken into several times, and graffiti covers the wall. There is an incinerator on the third floor that shakes violently when opened. There is usually a distant female scream immediately after opening it. The eeriest room in the building is the nursery. It is extremely cold, and is the only room that has not been touched by vandals. Several other noises are usually heard too.
+location: Worley Hospital
+state: Texas
+state_abbrev: TX
+longitude: -100.9659608
+latitude: 35.5365305
+city_longitude: -100.9598709
+city_latitude: 35.5361559
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

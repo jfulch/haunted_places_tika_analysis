@@ -1,0 +1,21 @@
+city: Dorchester
+country: United States
+description: A kid once locked himself down in the boiler room and died. Janitors her someone yelling during the night and they go down there and don't see any one.
+location: High School boiler room
+state: Nebraska
+state_abbrev: NE
+longitude: -97.1193661
+latitude: 40.6493137
+city_longitude: -97.116426
+city_latitude: 40.6458388
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

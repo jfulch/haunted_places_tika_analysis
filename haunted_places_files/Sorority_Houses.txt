@@ -1,0 +1,21 @@
+city: University of Kent
+country: United States
+description: A glowing "help me" can be read clearly on the ceiling of the treasurers bedroom and also the whistle of a past house mother who died in the house, can be heard. She would wear the whistle at Monday night dinner and blow it to give a lesson in etiquette...we can still hear the whistle being blown in the house.
+location: Sorority Houses
+state: Kentucky
+state_abbrev: KY
+longitude: -84.5039697
+latitude: 38.0306511
+city_longitude: -85.7614177
+city_latitude: 38.2161875
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: West Seattle
+country: United States
+description: The place is a big Japanese garden and at night you can supposedly hear ghosts whispering at night. Strange howls of winds could also be heard as you go down the path nearing the house.
+location: Kabuta Garden
+state: Washington
+state_abbrev: WA
+longitude: -122.26628
+latitude: 47.513156
+city_longitude: -122.3867537
+city_latitude: 47.5666668
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

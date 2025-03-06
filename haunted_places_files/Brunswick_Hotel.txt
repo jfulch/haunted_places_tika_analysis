@@ -1,0 +1,21 @@
+city: Kingman
+country: United States
+description: Noises in Hallway, items being moved. Whispered voices. On our Visit, a member of our party used the  downstairs mens restroom, he walked forward into the first stall, when he tried to come out the trash can had been moved in front of the stall door.. he was the only person in the room, and up until that point not a believer of the paranormal.
+location: Brunswick Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -114.0539149
+latitude: 35.18892230000001
+city_longitude: -114.0530065
+city_latitude: 35.189443
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Russellville
+country: United States
+description: This house shares ground with a neighboring cemetery, and thus has some tie to the graveyard. Several years ago a girl was struck by lightning in the tower. On stormy nights her shadow appears inside the window when the lightning shines against it. Because it drew so many onlookers over the years the windows were painted over. But that didn't stop people from coming. Nor did it stop the girl’s ghost from appearing inside the window on stormy nights.
+location: The Sexton House
+state: Kentucky
+state_abbrev: KY
+city_longitude: -86.887219
+city_latitude: 36.8453199
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

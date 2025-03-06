@@ -1,0 +1,21 @@
+city: Sioux city
+country: United States
+description: Reports of orb, moans and screams on the runway. United Flight 232 crashed there on July 19, 1989, and 112 of the 376 on board died.
+location: Airport
+state: Iowa
+state_abbrev: IA
+longitude: -96.384167
+latitude: 42.4025
+city_longitude: -96.4003069
+city_latitude: 42.4999942
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1989/07/19
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

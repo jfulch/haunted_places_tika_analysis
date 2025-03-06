@@ -1,0 +1,21 @@
+city: Corpus Christy
+country: United States
+description: The Center Theatre was opened in 1942. The story is her husband murdered a woman as she walked out of the upstairs women's bathroom. But there are seats up stairs, looking over the stage, and if you go to the top of those stairs, where it is said she and her husband were sitting, you can feel her standing there. Its almost like she doesn't want you there at all. She'll try to make you move, and it gets really cold standing there. At times, if you "bother" her during a show, she will find ways to shut you up. My boyfriend was on his cell phone, and she turned it off and pushed him down the steps.
+location: Center Theatre
+state: Texas
+state_abbrev: TX
+longitude: -97.3225443
+latitude: 27.714343
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1942/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

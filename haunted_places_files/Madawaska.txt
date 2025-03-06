@@ -1,0 +1,21 @@
+city: Madawaska
+country: United States
+description: Their have been sightings of lights in the shape of a human figure. Brooms, and janitorial objects have been seen moving on their own. People have said that a janitor died in front of the stage area. No one knows for sure what the weird sightings are though.
+location: Madawaska
+state: Maine
+state_abbrev: ME
+longitude: -68.32170839999999
+latitude: 47.35531779999999
+city_longitude: -68.3217027
+city_latitude: 47.35531539999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

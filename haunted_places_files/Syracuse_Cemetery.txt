@@ -1,0 +1,21 @@
+city: Syracuse
+country: United States
+description: It has been known that if you visit the cemetery on December 12, around 1:00 am you can see the ghost of a 13 year old boy that was Murdered.
+location: Syracuse Cemetery
+state: Utah
+state_abbrev: UT
+longitude: -112.0453119
+latitude: 41.0954157
+city_longitude: -112.0646657
+city_latitude: 41.0893878
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Thomasville
+country: United States
+description: A murderer of women was lynched and hanged from a tall tree in the grove. Before he was hanged, he cursed the mob. At night you can hear the killer's ghost laughing.
+location: The Lynching Grove
+state: Georgia
+state_abbrev: GA
+city_longitude: -83.9787808
+city_latitude: 30.8365815
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

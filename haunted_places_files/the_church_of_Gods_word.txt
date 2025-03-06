@@ -1,0 +1,21 @@
+city: Arcadia
+country: United States
+description: When in this church day or night you can see shadows of people things come on when they are not plugged in and the lights come on by there self
+location: the church of Gods word
+state: Kansas
+state_abbrev: KS
+longitude: -95.4680869
+latitude: 37.6677732
+city_longitude: -94.6238481
+city_latitude: 37.6419893
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

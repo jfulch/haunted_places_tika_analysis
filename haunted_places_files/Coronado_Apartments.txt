@@ -1,0 +1,21 @@
+city: Newport Beach
+country: United States
+description: An apartment on the first floor of the M building is haunted by the spirit of a woman. Muffled voices are heard, phantom music emanating from the kitchen, lights turned on and off, cabinet doors opened, and she has appeared as a full apparition. Apparently there was a death in the apartment that could contribute to this, but the woman's apparel seems to be from a time predating the apartment complex's construction.
+location: Coronado Apartments
+state: California
+state_abbrev: CA
+longitude: -117.9100803
+latitude: 33.6265672
+city_longitude: -117.9298493
+city_latitude: 33.6188829
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

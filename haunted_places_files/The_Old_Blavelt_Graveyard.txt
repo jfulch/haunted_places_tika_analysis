@@ -1,0 +1,18 @@
+city: Harrington Park
+country: United States
+description: Down the road by the Grammar school, there is an old graveyard on a hill that dates back to the 1700's. Shadows have come up in photographs, orbs and mists. There also is a very distinct sound of a clock ticking when you listen closely.
+location: The Old Blavelt Graveyard
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -73.9798601
+city_latitude: 40.9837089
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

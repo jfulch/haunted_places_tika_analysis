@@ -1,0 +1,17 @@
+city: Diphtheria Hill
+country: United States
+description: An old cemetery on a hill near Clay Center where people with diphtheria were buried alive. If you go out there and listen real carefully, you can hear babies crying and children playing.
+location: Clay Center
+state: Kansas
+state_abbrev: KS
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

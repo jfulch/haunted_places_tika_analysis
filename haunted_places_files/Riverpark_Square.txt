@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: In 2003 a man jumped off the top escalator to fall to his death on top the painted map of Inland Washington Lakes. Now when you ride the escalator here a man whispering into your ear but you can’t make out what he says. If you stare at the painted map long enough you can see visions of blood and skull pieces.
+location: Riverpark Square
+state: Washington
+state_abbrev: WA
+longitude: -117.423538
+latitude: 47.659499
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2003/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

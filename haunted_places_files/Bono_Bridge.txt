@@ -1,0 +1,21 @@
+city: Bono
+country: United States
+description: If you stand on the bridge and look down the railroad tracks underneath it, the train supposedly looks as if it is about to hit you before it goes under the bridge. Also, there are many rumors of satanic rituals being preformed there, spawning apparitions and unknown noises at night.
+location: Bono Bridge
+state: Arkansas
+state_abbrev: AR
+longitude: -90.7921251
+latitude: 35.908788
+city_longitude: -90.8026153
+city_latitude: 35.9086842
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

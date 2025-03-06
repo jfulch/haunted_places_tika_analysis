@@ -1,0 +1,21 @@
+city: Greenville
+country: United States
+description: a former worker used to work here doing post mortem care and the west hall has a nurse on duty 27-7 her picture is on the wall there and she is seen ALOT walking around the end of west hall she died 23 years ago.
+location: Metron nursing home
+state: Michigan
+state_abbrev: MI
+longitude: -85.2387967
+latitude: 43.1771189
+city_longitude: -85.2527987
+city_latitude: 43.1775314
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1916/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

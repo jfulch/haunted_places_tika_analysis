@@ -1,0 +1,21 @@
+city: Upper Darby
+country: United States
+description: There is a spirit haunting the Performing Arts Center Theatre which is said to be of a young boy who hanged himself because he was tormented by evil spirits which live in the attic of the theatre. Actors and theatre technicians there have witnessed a hanging body in the shadows and have encountered many strange things like moving boxes and hearing noises. Lamps in storage tend to smash for no reason.
+location: Upper Darby High School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.28473939999999
+latitude: 39.9560726
+city_longitude: -75.3076883
+city_latitude: 39.957902
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

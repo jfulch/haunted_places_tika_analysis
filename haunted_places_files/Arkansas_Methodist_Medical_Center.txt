@@ -1,0 +1,21 @@
+city: Paragould
+country: United States
+description: The most frequent sighting is the ghost of a little blond haired boy on the fourth floor. No one knows who he is, but he is about 5 or 6 and wears white pajamas. He is usually spotted by patients who know nothing of the ghost. He is usually playing or looking for a kitten. Sometimes there is more than one child. They have been seen on the fourth floor, the garden, and in one of the stairwells. Another ghost sighting occurred in room 321. A very alert and oriented patient looked up from reading to see the room in blood red. A man in a confederate uniform was standing in the room. He said he didn’t do anything for a few minutes. Then, when he called the nurse station, the man disappeared and the room went back to normal. The fifth floor is supposed to host the ghost of an elderly female. And the ICU is also supposed to have had strange events happen.
+location: Arkansas Methodist Medical Center
+state: Arkansas
+state_abbrev: AR
+longitude: -90.4985428
+latitude: 36.0516946
+city_longitude: -90.4973286
+city_latitude: 36.0584021
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Marin
+country: United States
+description: The camp used to be an old tuberculosis Hospital and an Indian residence before it was made into a girl scout camp. It is said that at night you can hear and see the ghost of a nurse pushing her cart down the hallways and patients who died there moaning and groaning. It is also been said that Indian spirits have made appearances.
+location: Camp Bothin
+state: California
+state_abbrev: CA
+longitude: -122.6202658
+latitude: 38.0039005
+city_longitude: -122.7633036
+city_latitude: 38.083403
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

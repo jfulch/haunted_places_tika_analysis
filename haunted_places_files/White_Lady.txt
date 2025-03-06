@@ -1,0 +1,21 @@
+city: Santa Cruz
+country: United States
+description: In the back woods off of Grahm Hill Rd. Very creepy. Voices of a old woman. Sometimes see a white lady walking around.
+location: White Lady
+state: California
+state_abbrev: CA
+longitude: -122.0277401
+latitude: 36.9883794
+city_longitude: -122.0307963
+city_latitude: 36.9741171
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1948/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

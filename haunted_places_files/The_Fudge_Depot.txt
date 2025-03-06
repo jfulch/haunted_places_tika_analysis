@@ -1,0 +1,19 @@
+city: Medora
+country: United States
+description: It is supposed to be haunted by a person (possibly a woman) who haunts only once a year. Her birthday. Even though it is an ice cream shop it is unnaturally cold in there, even in the 100-degree plus heat. The whole town is full of ghosts, ask a local and they will tell you where to look.
+location: The Fudge Depot
+state: North Dakota
+state_abbrev: ND
+city_longitude: -103.5243536
+city_latitude: 46.9139028
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

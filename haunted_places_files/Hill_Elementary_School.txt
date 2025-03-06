@@ -1,0 +1,21 @@
+city: Munford
+country: United States
+description: The former principal and founder of the school, Ophilia S. Hill, haunts the school. She died outside the school by being struck by lightning. Some think she stays there to guard the school from any harm.
+location: Hill Elementary School
+state: Alabama
+state_abbrev: AL
+longitude: -85.9449673
+latitude: 33.5459389
+city_longitude: -85.95080050000001
+city_latitude: 33.5298282
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

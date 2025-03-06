@@ -1,0 +1,21 @@
+city: Conroe
+country: United States
+description: They even wrote a book about this one. So it was during volleyball try outs possibly in the sixties (the book has the facts)and a girl was hung in the stair well to the lighting room of the theatre stage. The black janitor was accused of murder while many believe she may have committed suicide. There is a long black stairwell and walk long planks to the lighting room in the theater. You can feel a definite cold spot in the are she died in. They say if you are in there alone you can hear her crying.
+location: Conroe High school
+state: Texas
+state_abbrev: TX
+longitude: -95.4849174
+latitude: 30.321586
+city_longitude: -95.4560512
+city_latitude: 30.3118769
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Ada
+country: United States
+description: It is said that many years ago, a group of members of an occult would meet here and sacrifice animals and humans. Late at night, it is still said that you can hear odd sounds, and see abnormal lights and shadowy figures.
+location: Petrified Tree
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.6537897
+latitude: 34.7628652
+city_longitude: -96.6783449
+city_latitude: 34.774531
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

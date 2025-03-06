@@ -1,0 +1,21 @@
+city: Orlando
+country: United States
+description: St. Luke’s cemetery - In the small building in the center of the cemetery the corner to the right of the door you feel an odd and almost threatening presence. Upon entering the corner it is reported some feel it is hard to breath, hands tingle as well as some reports of marks appearing on their necks.
+location: Oviedo
+state: Florida
+state_abbrev: FL
+longitude: -81.20812029999999
+latitude: 28.669997
+city_longitude: -81.3792365
+city_latitude: 28.5383355
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2007/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

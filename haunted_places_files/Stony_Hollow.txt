@@ -1,0 +1,21 @@
+city: Burlington
+country: United States
+description: Urban Legend - It is said that if you go to that bluff and say the ghosts name 3 times she will appear and if she drops a rose you will die the next day. It is said that a boy did it and died the next day.
+location: Stony Hollow
+state: Iowa
+state_abbrev: IA
+longitude: -91.1115311
+latitude: 40.9174079
+city_longitude: -91.1128901
+city_latitude: 40.8076529
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

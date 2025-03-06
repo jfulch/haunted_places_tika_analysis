@@ -1,0 +1,21 @@
+city: Rhinebeck
+country: United States
+description: A women can be heard humming. Raps on the walls and feelings of a presence. This ghost has lived peacefully with every new family that has moved in. In fact, when the property is sold, they state that it comes with a ghost. They believe it to be Mrs. Wildey, who lived there from the late 1700's to early 1800's.
+location: Wildey Farm
+state: New York
+state_abbrev: NY
+longitude: -73.91318249999999
+latitude: 41.9279397
+city_longitude: -73.90743719999999
+city_latitude: 41.9318294
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fayette County
+country: United States
+description: A woman murdered in the park by her preacher husband haunts the location.
+location: Babcock State Park
+state: West Virginia
+state_abbrev: WV
+longitude: -80.98295279999999
+latitude: 37.9931248
+city_longitude: -81.0754657
+city_latitude: 38.0615913
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2019/12/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

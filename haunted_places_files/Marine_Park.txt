@@ -1,0 +1,21 @@
+city: Brooklyn
+country: United States
+description: A little girl was brutally raped, tortured, sodomized and killed there. the guy who killed her shot himself after. Every body who has lived there have claimed to see what the killer and the little girl look like. Witnesses also report footsteps, screaming and rape noises. it was said that you hear horrible noises and the smell of death is there.(stench of death.)
+location: Marine Park
+state: New York
+state_abbrev: NY
+longitude: -73.93304289999999
+latitude: 40.6119911
+city_longitude: -73.9441579
+city_latitude: 40.6781784
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

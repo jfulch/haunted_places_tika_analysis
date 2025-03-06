@@ -1,0 +1,21 @@
+city: Lacey
+country: United States
+description: A picture taken showed an orb in the "7b" hallway. Rumored to be the spirit of a kid who attended the school in the 80's who died while he attended. There's a plaque commemorating him in the front-left of the school near the bus lane.
+location: Nisqually Middle School
+state: Washington
+state_abbrev: WA
+longitude: -122.7667761
+latitude: 47.0477492
+city_longitude: -122.8231915
+city_latitude: 47.03426289999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

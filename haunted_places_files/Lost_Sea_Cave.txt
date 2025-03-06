@@ -1,0 +1,21 @@
+city: Sweetwater
+country: United States
+description: Here is said to be a Ghost of a union Soldier who was killed while spying on Confederates in the cave, another is a jaguar ghost, people have felt its tail brush against them.
+location: Lost Sea Cave
+state: Tennessee
+state_abbrev: TN
+longitude: -84.43103839999999
+latitude: 35.5356294
+city_longitude: -84.46103939999999
+city_latitude: 35.6014636
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2015/11/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

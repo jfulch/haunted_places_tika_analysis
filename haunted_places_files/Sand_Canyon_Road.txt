@@ -1,0 +1,21 @@
+city: Santa Clarita
+country: United States
+description: In the mid 80's a car load of kids going to prom wrecked their car at the intersection of Sand Canyon Road & Warm Springs Road. Reports of a young woman signaling for help, and then vanishing.
+location: Sand Canyon Road
+state: California
+state_abbrev: CA
+longitude: -118.4170442
+latitude: 34.4008441
+city_longitude: -118.542586
+city_latitude: 34.3916641
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/12/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Wolfeboro
+country: United States
+description: Voices and footsteps heard at night. Doors closing and the piano in the main lobby playing by it self. (It is not a "player" piano.)
+location: The Tuc Me Inn
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.21986079999999
+latitude: 43.5869096
+city_longitude: -71.20947989999999
+city_latitude: 43.5852069
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Caryville
+country: United States
+description: There is a good 10 mile stretch in which several paranormal sightings have occurred.  Witnesses report a red half human, half goat figure that was nearly 8 feet tall with a pentagram in it's forehead. As they sped away, they had to cross a set of railroad tracks. Directly in front of them, there was a strange blue light that was hovering over the railroad tracks. It was about 10 feet wide.
+location: Red Ash Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -84.23154300000002
+latitude: 36.305687
+city_longitude: -84.2232612
+city_latitude: 36.2989682
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

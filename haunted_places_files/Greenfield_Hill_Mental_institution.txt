@@ -1,0 +1,20 @@
+city: Fairfield
+country: United States
+description: in the small Connecticut town of Newtown lies an enormous field containing more than 100 large abandoned buildings that once housed more than 4000 crazy people. Featured as the location on what is said to be the most scary episode of MTV's fear Ghostwatcherz.com, Fairfield Hills' buildings range from the shock treatment building to the center for the criminally insane. The institution had a history of unauthorized lobotomies and mysterious deaths. The unique thing about Fairfield Hills is that it has an interconnected system of underground tunnels connecting most of the buildings to each other. WARNING: Although it has been abandoned since the mid-90's, proceed with EXTREME caution as there is almost always a cop or two there and at least 4 squad cars are guarding the location around Halloween. November 2003 Update - there are 4 heavily armed police cars circling the buildings. They attempted to interrogate any intruders and have been known to nearly arrest them. They even said that they caught people in the underground tunnels. - "Heavily guarded do not even bother attempting to enter"
+location: Greenfield Hill Mental institution
+state: Connecticut
+state_abbrev: CT
+longitude: -73.2850983
+latitude: 41.4012227
+city_longitude: -73.2612615
+city_latitude: 41.1408363
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1963/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

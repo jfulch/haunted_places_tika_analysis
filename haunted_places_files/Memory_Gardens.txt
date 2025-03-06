@@ -1,0 +1,21 @@
+city: Rensselaer
+country: United States
+description: This is a cemetary that has a statue of a saint in the back. it is said that if you go there at night and walk by the statue, it will move. It will move as if it was following or staring at you. Its arms move from their original position when you come in. and its head also moves as if it were watching your every move. - DO NOT TRESPASS HERE! You WILL be arrested.
+location: Memory Gardens
+state: Indiana
+state_abbrev: IN
+longitude: -87.20801349999999
+latitude: 40.9398273
+city_longitude: -87.15085619999999
+city_latitude: 40.9367045
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

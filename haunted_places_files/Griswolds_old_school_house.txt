@@ -1,0 +1,21 @@
+city: Claremont
+country: United States
+description: there are several ghosts that haunt this old school house, several people have heard children's voices when no one is around and others have seen a white mist walking around. Doors fly open by themselves. Also there is always a feeling of being watched.
+location: Griswold's old school house
+state: California
+state_abbrev: CA
+longitude: -117.7196917
+latitude: 34.1023892
+city_longitude: -117.7197785
+city_latitude: 34.0966764
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

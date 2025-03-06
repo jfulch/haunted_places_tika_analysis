@@ -1,0 +1,20 @@
+city: Anderson
+country: United States
+description: Reports of an apparition of a woman wearing a white old timing gown dress.
+location: crybaby bridge
+state: South Carolina
+state_abbrev: SC
+longitude: -82.6022721
+latitude: 34.4472607
+city_longitude: -82.6501332
+city_latitude: 34.5034394
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

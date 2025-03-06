@@ -1,0 +1,21 @@
+city: Magnolia
+country: United States
+description: Horton Theater  - It is said that there is a ghost in the theater. - November 2004 Update/ additional information: The story goes that the ghost is that of a girl that was to star in a production one night. On her way there, she was killed by a train. She never made it there, physically. People have said that sometimes you can see someone walking along the catwalk during some of the performances. A person who is in drama and also the photographer for the yearbook, paper, etc. stated that one night, he was in the lighting control booth, going through the checks for the production the next night. He stated that he was the only person there. He looked down onto the stage, and a rocking chair was rocking by itself. Being the photographer that he was, he always had his camera with him. He picked up his camera and took a picture. Later, when the roll was developed, all the pictures came out perfectly. That is, except for the one of the rocking chair. It was blurry.
+location: Southern Arkansas University
+state: Arkansas
+state_abbrev: AR
+longitude: -93.2318879
+latitude: 33.2932863
+city_longitude: -93.239334
+city_latitude: 33.2670725
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1906/01/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

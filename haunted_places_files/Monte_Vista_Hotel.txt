@@ -1,0 +1,21 @@
+city: Flagstaff
+country: United States
+description: The ghosts of a phantom bellboy and a female ghost are seen.
+location: Monte Vista Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -111.6474131
+latitude: 35.1982233
+city_longitude: -111.651302
+city_latitude: 35.1982836
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

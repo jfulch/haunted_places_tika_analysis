@@ -1,0 +1,21 @@
+city: Pitcairn
+country: United States
+description: Located behind the old baseball fields in Pitcairn there is a large stretch of woods where there are many trails. This entire area is haunted by railroad workers of the late 1800's who died in various accidents in service to the railroad.
+location: The Trails
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.77113899999999
+latitude: 40.417929
+city_longitude: -79.77810199999999
+city_latitude: 40.4031244
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

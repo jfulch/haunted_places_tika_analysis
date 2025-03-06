@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: Reports of seeing the ghost of Christopher covered in blood screaming and shouting.
+location: Christopher Rd.
+state: Missouri
+state_abbrev: MO
+longitude: -90.307935
+latitude: 38.4300375
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

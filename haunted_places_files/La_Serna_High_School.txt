@@ -1,0 +1,21 @@
+city: Whittier
+country: United States
+description: When in the wrestling room, sometimes heard the noise of basketball being played in the adjacent small (women's) gymnasium. Sounds include: sneakers squeaking on gym floor, basketballs bouncing, shouting. Also footsteps above... on the roof?
+location: La Serna High School
+state: California
+state_abbrev: CA
+longitude: -117.9960501
+latitude: 33.9548257
+city_longitude: -118.032844
+city_latitude: 33.9791793
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

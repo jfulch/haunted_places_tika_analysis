@@ -1,0 +1,21 @@
+city: Niagara Falls
+country: United States
+description: Devils hole - Down by devils hole, just underneath the famous hauntings of Clet Castle, Niagara University, there are mysterious apparitions, foreign language cants, and sometimes the feeling that someone is watching you or simply just brushed you gently as they passed you by. The light never really does seem to shine fully on this long decent of stairs. and many locals will not go down there at night, not because of crime, because people here are very trusting. It is just a given knowledge. you don't want to go there. A few summers ago a couple of fishermen found bones of a young Indian warrior (perhaps), or from a young Indian boy thrown down to the gorge, possibly for sacrifice.
+location: Niagara gorge
+state: New York
+state_abbrev: NY
+longitude: -79.0621663
+latitude: 43.093505
+city_longitude: -79.0377388
+city_latitude: 43.0962143
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

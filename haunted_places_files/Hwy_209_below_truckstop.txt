@@ -1,0 +1,19 @@
+city: Clyde
+country: United States
+description: There is said to be a ghost on hwy 209 which runs alongside the pigeon river. They say if you are driving by this certain spot around midnight, you will pass the spot where a woman was struck by a car and killed. if after you pass here, you look in your rearview mirror, you will see her in your backseat or behind your car.
+location: Hwy 209 below truckstop
+state: North Carolina
+state_abbrev: NC
+city_longitude: -82.910691
+city_latitude: 35.5334379
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

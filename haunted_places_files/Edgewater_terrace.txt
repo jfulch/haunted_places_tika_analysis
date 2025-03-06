@@ -1,0 +1,21 @@
+city: Silverlake
+country: United States
+description: sightings of a little girl crying behind a bush at really late hours of the night! Also the ghost of the midnight jogger has been seen around this area and next to the lake!
+location: Edgewater terrace
+state: California
+state_abbrev: CA
+longitude: -118.2601961
+latitude: 34.099288
+city_longitude: -118.2702036
+city_latitude: 34.0869409
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

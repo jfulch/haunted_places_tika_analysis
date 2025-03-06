@@ -1,0 +1,20 @@
+city: Casper
+country: United States
+description: A junior who attended NCHS in the 1940's rumored to haunt NCHS auditorium. There are many stories of her death-most popular is she was auditioning for a play one night and forgot her bag on stage so she crawled thru a window to get it...not knowing how high it was she fell and broke her back and died. There have been many many experiences. The most eerie is a certain chair in the front row center, which is always down. The chair has been replaced many times, they've changed the springs, anything possible but it always goes down. Its rumored if someone sits in her chair during a performance something goes wrong in the performance. She has been known to lock doors, laugh, and apparitions are seen up on the balcony by the lighting booth.
+location: Natrona County High school
+state: Wyoming
+state_abbrev: WY
+longitude: -106.3299554
+latitude: 42.841008
+city_longitude: -106.313081
+city_latitude: 42.866632
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

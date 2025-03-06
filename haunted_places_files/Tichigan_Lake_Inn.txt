@@ -1,0 +1,21 @@
+city: Waterford
+country: United States
+description: This bar/restaurant is located in a resort lake area and is know to be haunted. Long time residents have been telling us about ghostly happenings since we bought this establishment seven years ago. We ourselves have witnessed apparitions and poltergeist-like activities with customers present--margarita glasses flying horizontally off a glass rack before crashing to the floor, beer tapers all turning on at once with no one nearby, blender turning on by itself and then off by itself just as the bartender is reaching to turn it off, bell in the kitchen ringing while no one is in the kitchen, footsteps heard to the upstairs followed by an apparition of a previous regular who is no longer living, etc. This establishment was erected in the 1920's and was a known Speakeasy and place for the Chicago "bosses" to wait while barrels of whiskey were hauled by horse and wagon from their still to Highway 164 at the top of the hill for shipment to Chicago. These walls do talk! The goings-on seem playful in nature but still frightening especially if one is spending the night here alone.
+location: Tichigan Lake Inn
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.2092454
+latitude: 42.8093879
+city_longitude: -88.2142563
+city_latitude: 42.7630722
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

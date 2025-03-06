@@ -1,0 +1,21 @@
+city: Adairsville
+country: United States
+description: The Rice House - In the Rice House there have been reports of doors opening and closing and a man in a suit and top hat has been seen by a few people with his arms crossed and staring at you. In a couple of the cottages that were moved in from other locations there have been many ghostly phenomena that occurred and reported by guests. - The property is patrolled by security at night and any chance of investigating would have to be approved by the people at Barnsley.
+location: Barnsley Gardens
+state: Georgia
+state_abbrev: GA
+longitude: -84.9860916
+latitude: 34.2974243
+city_longitude: -84.9341093
+city_latitude: 34.3687021
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1954/11/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: District of Columbia
+country: United States
+description: Building 21 - This is the building where John Wilkes Booth was hung (even though he was already dead). He was hung in the attic of the building. he wasn't the only person to be hanged there. One of the companies carrying out renovations to this old building report: All of the tradesmen on the job start very early in the morning (when it's still dark outside). The carpenters there have reported hearing footsteps in the attic and they have had something follow very close behind him up the cellar stairs, close enough to him to cause him to RUN the rest of the stairs to the first floor. They were also working in two of the three rooms in the attic when they noticed what looked like a fly flying around in all three rooms. The only thing is that there were no flys in any of the rooms (the rooms are small and wide open, so a fly could not hide from site).
+location: Fort McNair
+state: Washington DC
+state_abbrev: DC
+longitude: -77.014524
+latitude: 38.8661266
+city_longitude: -77.0368707
+city_latitude: 38.9071923
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

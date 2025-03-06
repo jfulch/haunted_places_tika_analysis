@@ -1,0 +1,21 @@
+city: Reidsville
+country: United States
+description: Classroom 111 - There was said to be a student overdose during lunch hours. The students died and have haunted the school ever since. It is said if you go into room 111 and turn the lights off you can see the students sitting in the desk right before they died. During lunch hours if you go into that hallways in front of the classroom you can hear them laughing and talking. Then you hear someone scream and then someone shout "I think he’s dead now!" After that you can’t hear anything for a while until you hear three more screams and then silence. Once you hear the silence is once they had died from the overdose.
+location: Rockingham Middle School
+state: North Carolina
+state_abbrev: NC
+longitude: -79.7353431
+latitude: 36.3856259
+city_longitude: -79.6644747
+city_latitude: 36.3548586
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

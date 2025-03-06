@@ -1,0 +1,20 @@
+city: Ninety Six
+country: United States
+description: Near back of park by the Fort you can hear something follow you in the woods. Some say it's the ghost of a Cherokee Indians who used to trade there. Some say its a Revolutionary soldier who fought and died there. Others say its the slaves who were forced to dig the Fort by the British.
+location: Star Fort National Park
+state: South Carolina
+state_abbrev: SC
+longitude: -82.0235684
+latitude: 34.1467219
+city_longitude: -82.024007
+city_latitude: 34.1751267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1754/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

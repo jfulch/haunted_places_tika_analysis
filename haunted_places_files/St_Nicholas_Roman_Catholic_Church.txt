@@ -1,0 +1,21 @@
+city: Millvale
+country: United States
+description: This church is said to be haunted by a former priest. Witnesses have seen him tending the altar and church.
+location: St. Nicholas Roman Catholic Church
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.96960779999999
+latitude: 40.4770174
+city_longitude: -79.9783862
+city_latitude: 40.480069
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

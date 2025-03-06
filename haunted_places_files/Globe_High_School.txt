@@ -1,0 +1,21 @@
+city: Globe
+country: United States
+description: Floor boards creak, and voices are heard at this school. There used to be a haunted bathroom, where the toilet would violently shake on its own. The top floor is haunted as well.
+location: Globe High School
+state: Arizona
+state_abbrev: AZ
+longitude: -110.7812063
+latitude: 33.3935608
+city_longitude: -110.7864984
+city_latitude: 33.3942223
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

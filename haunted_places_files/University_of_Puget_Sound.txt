@@ -1,0 +1,21 @@
+city: Tacoma
+country: United States
+description: Inside Theatre - The Inside Theatre (the name may have changed in the past few years)is haunted by an unseen, but essentially benign presence. The ghost does not appear physically, but manifests itself by shifting scenery, turning on and off lights, slamming doors, rattling paint cans, etc. There is one case in which a student was leaning over the catwalk to change a light and lost her balance. She felt an unseen force jerk her backwards onto the catwalk, ostensibly preventing her from falling..
+location: University of Puget Sound
+state: Washington
+state_abbrev: WA
+longitude: -122.481455
+latitude: 47.261764
+city_longitude: -122.4442906
+city_latitude: 47.2528768
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1948/04/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Crosby
+country: United States
+description: It is believed to have become haunted after a great tragedy when the mine flooded and killed 41 people and then the mine later reopened and men started to quit without giving reasons and few years later after that they closed it and now its just sits there.
+location: Milford Magneses Mine
+state: Minnesota
+state_abbrev: MN
+longitude: -93.9707716
+latitude: 46.5347482
+city_longitude: -93.9577611
+city_latitude: 46.4821848
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

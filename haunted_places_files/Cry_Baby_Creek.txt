@@ -1,0 +1,19 @@
+city: DeKalb
+country: United States
+description: It is said that on a clear night you can drive to a bridge outside this small town and hear the screams of an infant. The story states that a mother and her baby had a horrible accident there and the infant drown in near freezing waters. This child's ghost still haunts there.
+location: Cry Baby Creek
+state: Texas
+state_abbrev: TX
+city_longitude: -94.616319
+city_latitude: 33.5087256
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Accident
+witness_count: 0

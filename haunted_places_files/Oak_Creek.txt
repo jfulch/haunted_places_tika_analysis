@@ -1,0 +1,21 @@
+city: Caledona
+country: United States
+description: Bridge on Boarder - In the 1970's when the bridge was being built and littl boy was walking through the woods and drowned in the creek below. It is said that late at night you can still see the little boy walking into the woods. He is not there to hurt anyone or cause trouble he is simply rewalking his final steps before his most tragic death.
+location: Oak Creek
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.8189668
+latitude: 42.8119455
+city_longitude: -87.92424799999999
+city_latitude: 42.8077958
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

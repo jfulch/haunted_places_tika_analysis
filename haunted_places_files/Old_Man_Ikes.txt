@@ -1,0 +1,19 @@
+city: Sellersburg
+country: United States
+description: murders that happened years ago has made this old house haunted. Screams and loud banging can be heard where a man tortured and hung many members of a family. Located behind an old factory out of Sellersburg where Ike worked at
+location: Old Man Ike’s
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.754964
+city_latitude: 38.3981216
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

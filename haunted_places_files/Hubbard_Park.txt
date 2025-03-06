@@ -1,0 +1,20 @@
+city: Meriden
+country: United States
+description: A young girl was said to be kidnapped and brought into some woods at Hubbard Park and now haunts the park. She will save those being kidnapped of killed and kill the ones who are kidnapping or killing. She is said to look like a 7-year-old girl and she will laugh when she kills someone bad.
+location: Hubbard Park
+state: Connecticut
+state_abbrev: CT
+longitude: -72.8350746
+latitude: 41.5476502
+city_longitude: -72.80704349999999
+city_latitude: 41.5381535
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1911/03/13
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

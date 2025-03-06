@@ -1,0 +1,21 @@
+city: White County
+country: United States
+description: Formally known as The Martin House, the mail is supposed to be haunted be two different apparitions. In the second floor, in the room where they keep the antique electronics, radios are supposed to be turned on from out of nowhere by the ghost of a girl that died there. Also, in the third floor (the attic), is supposed be haunted by the ghost of an old woman.
+location: Nacoochee Antique Mall
+state: Georgia
+state_abbrev: GA
+longitude: -83.7118393
+latitude: 34.6896868
+city_longitude: -83.7199136
+city_latitude: 34.6567728
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

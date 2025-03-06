@@ -1,0 +1,21 @@
+city: Waverly
+country: United States
+description: Well in the school that's across from a graveyard there's this little girl wearing a yellow dress that a lot of people have seen people have seen things in that cemetery especially and apparently if you listen & concentrate you can hear the little girl who's name is Mary.
+location: Elm street
+state: New York
+state_abbrev: NY
+longitude: -76.5313729
+latitude: 42.00518599999999
+city_longitude: -76.5271659
+city_latitude: 42.0103519
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

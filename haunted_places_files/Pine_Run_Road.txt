@@ -1,0 +1,21 @@
+city: Wilkes Barre
+country: United States
+description: when you drive on pine run road/nicknamed Babyroad. you can see a woman dressed in 1940's attire is seen walking across the street and when your lights hit her she disappears.
+location: Pine Run Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.8786547
+latitude: 41.2018679
+city_longitude: -75.88130749999999
+city_latitude: 41.2459149
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1940/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

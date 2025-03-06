@@ -1,0 +1,21 @@
+city: Sarasota
+country: United States
+description: There's an abandoned Mental Hospital in Sarasota near the Interstate, there at night you can hear people swimming in the pool but the pool is filled in with rocks, you also hear screaming and sometimes laughter, sometimes people even see shadows and strange things show up when you take pictures. - December 2003 update: The Palms of Sarasota was bulldozed earlier this year! Nothing but a few sewage drains remain on the property.
+location: Palms of Sarasota
+state: Florida
+state_abbrev: FL
+longitude: -82.5467524
+latitude: 27.3786138
+city_longitude: -82.53065269999999
+city_latitude: 27.3364347
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1926/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

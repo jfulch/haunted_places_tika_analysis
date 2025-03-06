@@ -1,0 +1,21 @@
+city: Des Moines
+country: United States
+description: Reports of a purple orb seen.
+location: Dowling high school
+state: Iowa
+state_abbrev: IA
+longitude: -93.7229938
+latitude: 41.5970211
+city_longitude: -93.6091064
+city_latitude: 41.6005448
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

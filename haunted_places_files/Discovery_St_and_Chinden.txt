@@ -1,0 +1,21 @@
+city: Boise
+country: United States
+description: In the area of Joplin Cemetery on Chinden rd, and the surrounding six block radius, there has been supernatural presences seen and felt around that area. some of the specters there may even be related to me. my friend used to work in that area and has also reported odd things happening after 9 o?clock.
+location: Discovery St. and Chinden
+state: Idaho
+state_abbrev: ID
+longitude: -116.3427884
+latitude: 43.6629109
+city_longitude: -116.2146068
+city_latitude: 43.6187102
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1868/11/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

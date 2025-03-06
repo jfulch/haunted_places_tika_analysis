@@ -1,0 +1,19 @@
+city: Dardanelle
+country: United States
+description: It is said that on certain nights, you can see Mr. Hovis sitting on top of his wife's grave, holding the shotgun that he murdered her with. Also, the wooden bridge that you cross to get there his haunted by two young girls that were killed there.
+location: Hovis's Grave
+state: Arizona
+state_abbrev: AZ
+city_longitude: -111.7702475
+city_latitude: 34.8662845
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1942/06/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

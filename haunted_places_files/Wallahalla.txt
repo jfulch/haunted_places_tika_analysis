@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: It's said that years ago [I've heard both the 1800's and the 1960's] a man murdered his wife and daughter in a house on Wallahalla. If you drive down the road at night and go under the bridge, you can see the reflection of the wife and daughter in the water [to the right of the road]. After you go under the bridge, the road very VERY gradually but if you take your foot off of the gas and break, not only do you not slow down, you don’t even keep even. You speed up. -  November 2003 update:In addition to what is already posted, he then committed suicide by hanging himself off the bridge, and supposedly, if you drive under the bridge at midnight, you'll see the shadow or apparition of his ghost swinging from the bridge.
+location: Wallahalla
+state: Ohio
+state_abbrev: OH
+longitude: -83.0060531
+latitude: 40.0271965
+city_longitude: -82.99879419999999
+city_latitude: 39.9611755
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

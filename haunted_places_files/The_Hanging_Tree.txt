@@ -1,0 +1,21 @@
+city: Newton
+country: United States
+description: During the Civil War, one of the soldiers left the war and went to visit his family. He was later found by members of the community and hanged for desertion. He was a tall man, so they had to dig out a hole so his feet would not touch the ground. To this day, no debris of any sort will remain inside the hole. People have filled up the hole, only to find it completely cleaned out upon their return.
+location: The Hanging Tree
+state: Alabama
+state_abbrev: AL
+longitude: -85.6135958
+latitude: 31.3440987
+city_longitude: -85.6052133
+city_latitude: 31.3351716
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 0

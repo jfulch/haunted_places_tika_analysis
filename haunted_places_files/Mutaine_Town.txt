@@ -1,0 +1,19 @@
+city: Penninsula
+country: United States
+description: A small area on the outskirts of the small town is reportedly haunted in many places. Among some of it's famous sights are Crybaby Bridge, the ghost train, the haunted cemetery, a haunted church, The Edge of the World, and the haunted slaughterhouse.
+location: Mutaine Town
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -73.9753899
+city_latitude: 40.7616669
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Rural Hall
+country: United States
+description: The Rural Hall Fire Department was originated back in the late 1930's. Its current location is said to be haunted by one of the original Fire Chiefs. The current building as it stands was an addition remodel of one of the original buildings. But whether it be day or night it is not uncommon for you to hear doors open and close through out the building hear footsteps throughout the building and have even been some that have said they have heard the drink machine dispenses drinks without any one there. Once the FD went to a 24 hours staff it is said that you can hear footsteps in the upstairs sleeping areas while you are trying to sleep.
+location: Rural Hall Fire and Rescue
+state: North Carolina
+state_abbrev: NC
+longitude: -80.2919294
+latitude: 36.2412873
+city_longitude: -80.2933838
+city_latitude: 36.2404158
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

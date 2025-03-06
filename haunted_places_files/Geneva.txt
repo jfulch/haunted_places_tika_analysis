@@ -1,0 +1,21 @@
+city: Decatur
+country: United States
+description: Ceylon - Covered Bridge - It is said that many years ago, a group of young teenagers, were at the bridge performing a séance of some kind, when suddenly a man or apparition, feel from the ceiling to the floor, leaving a gigantic blood stain near the pentagram they drew on the floor. This apparently had opened some kind of door, and now even today, strange and unusual things happen inside the bridge. Even during the day, while walking through or just visiting the bridge, there is a feeling of oddness.
+location: Geneva
+state: Indiana
+state_abbrev: IN
+longitude: -84.936206
+latitude: 40.817924
+city_longitude: -84.9291329
+city_latitude: 40.830603
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1948/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

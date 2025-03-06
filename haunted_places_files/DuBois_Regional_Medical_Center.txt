@@ -1,0 +1,21 @@
+city: DuBois
+country: United States
+description: Transcription Department - What used to be the old convent is the transcription department for DRMC in the back of the Home Health department. When employee's work at night up there by themselves the prayer bell will ring, and when someone else comes in it will stop. There are also times when radios in other offices will turn on by themselves. Sometimes if you put your feet on the back of the desk you feel something pushing on your foot. No matter what time of day it is you can feel them there, but they don’t act until someone is there by themselves during the night.
+location: DuBois Regional Medical Center
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.775151
+latitude: 41.11492000000001
+city_longitude: -78.7583257
+city_latitude: 41.1210115
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

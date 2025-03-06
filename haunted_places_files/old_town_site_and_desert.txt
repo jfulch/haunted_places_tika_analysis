@@ -1,0 +1,19 @@
+city: Kimama
+country: United States
+description: Late spring, summer and fall, when in the desert, you can sometimes hear whistling and singing. It sounds Russian. The desert is very quiet there. Watch out for snakes!! The old town was a water stop for Russian-Germans coming from South Dakota at the turn of the last century.
+location: old town site and desert
+state: Idaho
+state_abbrev: ID
+city_longitude: -113.795575
+city_latitude: 42.8379632
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1889/11/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

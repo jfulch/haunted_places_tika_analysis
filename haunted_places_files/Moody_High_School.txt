@@ -1,0 +1,21 @@
+city: Moody
+country: United States
+description: The new High School going towards Temple is "said" to have been built on an Indian burial ground. Teachers would tell of times they would be up there at night alone, and would hear lockers slam or glass break.
+location: Moody High School
+state: Texas
+state_abbrev: TX
+longitude: -97.3687574
+latitude: 31.286443
+city_longitude: -97.3613977
+city_latitude: 31.3082273
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

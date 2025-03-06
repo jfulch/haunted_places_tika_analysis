@@ -1,0 +1,20 @@
+city: Olive Hill
+country: United States
+description: Two things are rumored to happen there. One legend is never pass the old church on a Saturday night when it is drizzling. They say a woman is walking on the side of the road and if you pick her up she will disappear after a few miles. If you don't pick her up she will welcome herself into your backseat. The other one is to go to the church on Friday the 13th and look into the windows the locals say you will see the scariest thing in your life. Although no one has yet to describe what is in there nobody will go out to the church on Friday the 13th.
+location: Bethel Hill
+state: Kentucky
+state_abbrev: KY
+longitude: -83.1935112
+latitude: 38.3764688
+city_longitude: -83.17406539999999
+city_latitude: 38.3000809
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

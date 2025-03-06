@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: K-Mart - There have been reports of displays being knocked over and strange noises back in the Garden Shop. Employees who have had to open the Garden Shop early in the mornings have reported cold spots and the feeling of someone brushing against them as they've gone through the aisles. The occurrences have been attributed to a former manager there by the name of Carl who passed away in 1998.
+location: Chapel Hills
+state: Colorado
+state_abbrev: CO
+longitude: -104.794477
+latitude: 38.9476978
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1998/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

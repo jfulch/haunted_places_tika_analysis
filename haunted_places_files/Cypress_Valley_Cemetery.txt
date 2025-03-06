@@ -1,0 +1,21 @@
+city: Vilonia
+country: United States
+description: At night, if you park your car on the other side of the road in front of the cemetery, you will see the grim reaper on the big oak tree in the middle of the cemetery. There is a huge knot on the trunk of the tree, but above this you can see strange orbs.
+location: Cypress Valley Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -92.1612946
+latitude: 35.0715933
+city_longitude: -92.2079277
+city_latitude: 35.083975
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

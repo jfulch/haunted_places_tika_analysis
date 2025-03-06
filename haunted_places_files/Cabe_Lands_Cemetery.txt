@@ -1,0 +1,21 @@
+city: Durham
+country: United States
+description: Long abandoned cemetery about 200 yards off of the Cabe Lands Trail by the Eno River. Visitgrs to the site have reported hearing faint yet distinctive voices in the area. One couple reports, "My husband and I have visited the site several times and never heard voices, until our last visit when we both hear a definite voice. This time we went out there just after sunset. We definitely heard a man's voice and all we could make out were the words: noise, of about, miller, flags, and years. It was an amazing experience, but I would never go back there alone or after dark again."
+location: Cabe Lands Cemetery
+state: North Carolina
+state_abbrev: NC
+longitude: -78.99061309999999
+latitude: 36.0413728
+city_longitude: -78.898619
+city_latitude: 35.9940329
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

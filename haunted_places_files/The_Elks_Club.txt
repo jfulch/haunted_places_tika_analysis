@@ -1,0 +1,20 @@
+city: Grand Junction
+country: United States
+description: reports of 3 to 4 different shadows have been reported to have been seen in the building by members and employees. One shadow is said to have been a woman who died of unnatural causes in the building. Employees have reported trashcans that were left on the tables after mopping were thrown across the room, doors closing on their own, and voices have been heard.
+location: The Elks Club
+state: Colorado
+state_abbrev: CO
+longitude: -108.566981
+latitude: 39.06563999999999
+city_longitude: -108.5506486
+city_latitude: 39.0638705
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

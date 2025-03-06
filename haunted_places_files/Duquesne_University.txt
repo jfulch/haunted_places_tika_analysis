@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: St. Ann's Living Learning Center - Room 409 - A boy walks into the room and throws things around the room.
+location: Duquesne University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9901728
+latitude: 40.4372949
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1514/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

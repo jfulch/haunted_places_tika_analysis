@@ -1,0 +1,19 @@
+city: Wilmington
+country: United States
+description: This tavern is a very old building (200 years or so) and has had many waiters/waitresses complain of dishes being thrown at them, screaming, dominoes floating from the game boards in the recreation room, and other poltergeis-like incidents and activity, all supposedly related to the ghost of a former customer who was a big prankster (circa 1950's) named lemonade Mullery, who ended up having the last laugh as he slipped in a puddle of urine in the men's room and broke his neck in the late 60's. An odd but true tale, and a strange presence can fairly easily be felt in Dead President's, even by non-psychic individuals.
+location: Dead President's Tavern
+state: Delaware
+state_abbrev: DE
+longitude: -75.5713887
+latitude: 39.7511665
+city_longitude: -75.5397878
+city_latitude: 39.7390721
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/01/01
+date_source: description
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

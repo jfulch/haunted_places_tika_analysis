@@ -1,0 +1,21 @@
+city: Oswego
+country: United States
+description: An old bum is said to have died in the basement and his ghost haunts the area where the dressing rooms are. Things are moved from where they were left. Doors open and close by themselves. A friend who was alone in the women's dressing room saw a hanger on the door begin to swing and abruptly stop.
+location: Oswego Players Theater
+state: New York
+state_abbrev: NY
+longitude: -76.5061927
+latitude: 43.4632572
+city_longitude: -76.5104973
+city_latitude: 43.4553461
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.85
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

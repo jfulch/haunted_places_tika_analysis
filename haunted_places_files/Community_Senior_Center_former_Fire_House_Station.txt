@@ -1,0 +1,21 @@
+city: Syracuse
+country: United States
+description: Located on Seneca Turnpike (Rt. 173) south of the city b/n Salina and Midland Aves, this former fire station is host to a spirit that walks the stairs and upper floor.
+location: Community Senior Center (former Fire House Station)
+state: New York
+state_abbrev: NY
+longitude: -76.0741067
+latitude: 43.0855009
+city_longitude: -76.14742439999999
+city_latitude: 43.0481221
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Springfield
+country: United States
+description: Wilhoit Theatre - Light flickered at night. Some said it was the ghost of "Bob". Strangely the theatre was dedicated to Bob Wilhoit
+location: Drury University
+state: Missouri
+state_abbrev: MO
+longitude: -93.2856103
+latitude: 37.2202833
+city_longitude: -93.2922989
+city_latitude: 37.2089572
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1963/11/25
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

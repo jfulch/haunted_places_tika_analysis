@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: Episcopal High has expanded greatly in its 20 year existence, however, many other schools have stood in its place before. The Convent, the oldest building on the campus, has four stories, but students are only allowed on the first three because one of the nuns living in the convent almost a century ago hung herself on the fourth floor. The Catholic church would not perform a service for her funeral, and out of respect, no classes of Episcopal High School are held on the floor where she supposedly still resides.
+location: Episcopal High School
+state: Texas
+state_abbrev: TX
+longitude: -95.4575821
+latitude: 29.714783
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1839/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

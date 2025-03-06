@@ -1,0 +1,21 @@
+city: Corpus Christi
+country: United States
+description: Many years ago a woman and her baby were home alone when their house caught fire. Out and realized they both perished in the fire. It is said that she walks the river and moans in mourning for her baby.
+location: Nueces River
+state: Texas
+state_abbrev: TX
+longitude: -97.4883268
+latitude: 27.8378022
+city_longitude: -97.396381
+city_latitude: 27.8005828
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,20 @@
+city: St. Cloud
+country: United States
+description: For years it's been reported by night employees that a man who is either dressed in a white shirt and bow tie or a printer's shirt appears in the basement of the building. Sometimes the sound of banjo playing is heard. He's been known to tamper with office equipment and lights from time to time.
+location: St. Cloud Times
+state: Minnesota
+state_abbrev: MN
+longitude: -94.194993
+latitude: 45.5631695
+city_longitude: -94.1632404
+city_latitude: 45.5579451
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

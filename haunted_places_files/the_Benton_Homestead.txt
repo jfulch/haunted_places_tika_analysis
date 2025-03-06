@@ -1,0 +1,20 @@
+city: Tolland
+country: United States
+description: Several entities have been seen, including-Jemima Barrows, betrothed to one of the Benton boys who died from smallpox, wandering the halls in her wedding dress, weeping (or just her weeping). -A Hessian soldier on the front steps -A man in Colonial-era clothes in the dining room (seen by psychics Ed and Lorraine Warren) -A malevolent presence on the second floor felt by one member of the Tolland Historical Society.
+location: the Benton Homestead
+state: Connecticut
+state_abbrev: CT
+longitude: -72.37680859999999
+latitude: 41.8520621
+city_longitude: -72.3686931
+city_latitude: 41.8714865
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

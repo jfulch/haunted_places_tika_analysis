@@ -1,0 +1,21 @@
+city: Fort Worth
+country: United States
+description: Ghostly footsteps. Sounds of pages being turned, strange shadows on staircase and an apparition are also reported. Building is now an antique store.
+location: Barbers Bookstore On 8th
+state: Texas
+state_abbrev: TX
+longitude: -97.3308523
+latitude: 32.7512519
+city_longitude: -97.3307658
+city_latitude: 32.7554883
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: Every night, since last October of 1998 Halloween a mysterious noise occurs from the 15 floor. People have seen mysterious shadows but so far no one has been hurt.
+location: Double Tree Hotel
+state: Washington
+state_abbrev: WA
+longitude: -117.414156
+latitude: 47.66122499999999
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Buckeye
+country: United States
+description: There is a house and this only happens at night. This house is really old almost 100 years. At night, in upstairs the floorboards creek as if someone was walking up them one after another. The door in one of the rooms open on its own, but it jams shut.
+location: House
+state: Iowa
+state_abbrev: IA
+city_longitude: -93.3756168
+city_latitude: 42.4173398
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

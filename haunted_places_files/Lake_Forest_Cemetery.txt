@@ -1,0 +1,21 @@
+city: Grand Haven
+country: United States
+description: There has been sightings of a "blue man" apparition on top of Ferry Hill, an old part of the cemetery where the founders of the city are buried. The "blue man" is believed to be that of William Ferry, a reverend and founder of Grand Haven.
+location: Lake Forest Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -86.2372972
+latitude: 43.0515358
+city_longitude: -86.22838639999999
+city_latitude: 43.0630734
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

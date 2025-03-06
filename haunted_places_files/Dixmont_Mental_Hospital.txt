@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: Lots of ghosts of formal mental patients who died there.
+location: Dixmont Mental Hospital
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.9600024
+latitude: 40.4437724
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

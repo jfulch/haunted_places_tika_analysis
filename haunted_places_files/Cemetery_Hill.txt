@@ -1,0 +1,21 @@
+city: Gettysburg
+country: United States
+description: On chilly summer nights, you can see at times a blue column of light. And sometimes you can feel that someone is watching you, and you can here people crying for help.
+location: Cemetery Hill
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.2311382
+latitude: 39.8227598
+city_longitude: -77.2310955
+city_latitude: 39.8309293
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

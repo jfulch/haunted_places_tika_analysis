@@ -1,0 +1,21 @@
+city: Wilber
+country: United States
+description: It's said that a student once fell and died while working on a latter in the auditorium.. People have seen things move and fall on there own in the 'storage room' (located next to the auditorium). And the auditorium itself is the coldest place in the building with feelings of someone watching you. Music can be heard coming from the band room and choir room and voices can be heard also when in the school after dark.
+location: Wilber-Clatonia High School
+state: Nebraska
+state_abbrev: NE
+longitude: -96.9683385
+latitude: 40.4755654
+city_longitude: -96.9605686
+city_latitude: 40.4813257
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

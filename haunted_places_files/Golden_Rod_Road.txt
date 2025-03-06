@@ -1,0 +1,21 @@
+city: Traverse City
+country: United States
+description: A young man is seen looking out a window holding a computer. He has been heard many times saying he has plenty of hard drive but not enough ram. For some reason he points to his head and repeats snood over and over. He is believed to have been killed at McDonalds by a crazed driver in the parking lot while attempting to call for help on his cell phone.
+location: Golden Rod Road
+state: Michigan
+state_abbrev: MI
+longitude: -85.664459
+latitude: 44.7006921
+city_longitude: -85.62063169999999
+city_latitude: 44.7630567
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2015/10/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

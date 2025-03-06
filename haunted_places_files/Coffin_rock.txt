@@ -1,0 +1,19 @@
+city: Forkedmouth
+country: United States
+description: Campbell Cemetery - a long time ago a man was shot and killed on top of a large rock and every time it rains you can see blood running from the rock where he was killed, also in the same hollow at the Campbell cemetery a lot of ghost have been spotted there, a old man flagging down traffic, a young girl standing in the middle of the road and a older female just wandering as if she was lost, when you travel this hollow make sure to keep your windows up and doors locked its very creepy through there.
+location: Coffin rock
+state: Kentucky
+state_abbrev: KY
+city_longitude: -83.3228219
+city_latitude: 37.2700784
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1780/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

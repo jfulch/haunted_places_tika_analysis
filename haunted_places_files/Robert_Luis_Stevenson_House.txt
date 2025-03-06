@@ -1,0 +1,21 @@
+city: Monterey
+country: United States
+description: The Lady in Black haunts the second floor of this boarding house where famous writer Robert Luis Stevenson lodged during his stay in Monterey. The Lady in Black is supposedly the proprietor of the establishment and haunts the nursery where her grandchildren died of cholera.
+location: Robert Luis Stevenson House
+state: California
+state_abbrev: CA
+longitude: -121.8934592
+latitude: 36.5973186
+city_longitude: -121.8946761
+city_latitude: 36.6002378
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1993/07/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

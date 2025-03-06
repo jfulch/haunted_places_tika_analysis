@@ -1,0 +1,21 @@
+city: Springville
+country: United States
+description: Reports of lights flickering and a rotting smell, children have been woken by floating lights. In another dwelling there are reports of a running ghost, doorknobs turn, footsteps heard, and an apparition of a man walking up a hill.
+location: Scicon, School of Conservation
+state: California
+state_abbrev: CA
+longitude: -118.766233
+latitude: 36.2003607
+city_longitude: -118.8181495
+city_latitude: 36.1302265
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

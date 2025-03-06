@@ -1,0 +1,21 @@
+city: Patagonia
+country: United States
+description: The only store in this small town is haunted. Something or someone frequently makes noises and moves items in the back room or stockroom of the store. One late evening, a shelf had moved approximately thirty feet, as one witness had stepped away into the store’s other section, which today is a separate business. The shelf had crashed on the ground in the back stockroom, but had come from the front of the store. No other people were present to have moved it. On other occasions, hanging dog chew-toys hanging would squeak at night. It is unknown whom or what is haunting the store. The town started up in the 1890s because of mining, and in its heyday, had a few thousand people in it. But today, the town has less than one thousand people. The store sets on a major intersection in the town, suggesting that a major structure has been there during most of t he town's history.
+location: The Patagonia Market or General Store
+state: Arizona
+state_abbrev: AZ
+longitude: -110.7530638
+latitude: 31.5414368
+city_longitude: -110.7561963
+city_latitude: 31.5395378
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Huntsville
+country: United States
+description: Walls Unit, Texas Dept. of Criminal Justice. - Ghosts and unexplained noises on the original death row (first floor of the South Building, not used since the 1950s), the East Building, and the catwalk connecting the two. One Halloween a correctional supervisor put a voice-activated tape recorder on the now abandoned old death row. When he played it back later for several correctional officers, they heard the clanging of cell doors and at the very end an unidentified voice saying "Hey captain, Hey captain." Source: Austin-American Statesman, October 29, 1999, pp. A1, A8.
+location: Walls Unit, Tex. Dept. of Corrections
+state: Texas
+state_abbrev: TX
+longitude: -95.5465364
+latitude: 30.7217818
+city_longitude: -95.5507771
+city_latitude: 30.7235263
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1999/10/29
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

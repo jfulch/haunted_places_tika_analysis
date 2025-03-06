@@ -1,0 +1,21 @@
+city: Ventura
+country: United States
+description: This isn't exactly what you would call a "proper" haunting, but when you take a tour of Mission Buenaventura and you enter the sanctuary and walk down toward the front alter, you get a distinct feeling of a spiritual presence far stronger than a normal "church-ey" feeling, you leave the sanctuary through a side door to the garden and that's where it hits you, near the olive press, the overwhelming feeling of someone approaching you from the side, putting their arms around your shoulders, surrounding you with warmth and hugging you lightly. You leave there feeling as if you had visited with a close relative or someone who might have fed you tea and cookies. A very strong, strange but comforting feeling!
+location: Mission Santa Buena Ventura
+state: California
+state_abbrev: CA
+longitude: -119.2981918
+latitude: 34.2811033
+city_longitude: -119.2290316
+city_latitude: 34.274646
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

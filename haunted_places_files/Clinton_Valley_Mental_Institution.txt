@@ -1,0 +1,19 @@
+city: Pontiac
+country: United States
+description: crashing sounds resounding through the building. Witnesses glimpsed a horrifying image of a shock gurney thrashing up and down. It was as if a suffering patient was invisibly being tortured by the rudimentary treatments of the early 20th century. Update now that the asylum is demolished and nothing is left standing, witnesses still hear moans off in the distance and intense growling from over their heads. Pictures taken are said to have apparitions in them.
+location: Clinton Valley Mental Institution.
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.29104679999999
+city_latitude: 42.6389216
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

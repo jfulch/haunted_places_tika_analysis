@@ -1,0 +1,21 @@
+city: Ames
+country: United States
+description: Memorial Union Hall - pays tribute to graduates of Iowa State that died in various wars. There is a low, eerie moan that can constantly be heard in this hall. No one can figure out any logical reasons for this moan (and the college is flooded with engineering and architectural majors). Rumor has it that the moan is the voice of the only woman to graduate from ISU and die in WWI.
+location: Iowa State University
+state: Iowa
+state_abbrev: IA
+longitude: -93.6464654
+latitude: 42.0266187
+city_longitude: -93.6319131
+city_latitude: 42.0307812
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: The screams of a small boy can be heard coming from the mall's main restrooms.
+location: The Jefferson Mall
+state: Kentucky
+state_abbrev: KY
+longitude: -85.670495
+latitude: 38.141374
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

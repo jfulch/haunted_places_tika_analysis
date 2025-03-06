@@ -1,0 +1,21 @@
+city: Wilkes Barre
+country: United States
+description: Haunted by several Ghosts...One is an elderly man who appears to be looking for something. Another is something that is obviously very angry but hasn't any recognizable human features.
+location: Wilkes Barre Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.86973499999999
+latitude: 41.2585815
+city_longitude: -75.88130749999999
+city_latitude: 41.2459149
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

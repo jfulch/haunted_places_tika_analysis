@@ -1,0 +1,20 @@
+city: Cheyenne
+country: United States
+description: several ghosts are seen regularly including one that was murdered by being pushed out of a fourth floor window. Reports of feelings of dread, being watched, doors opening and closing, & even reports of being choked or strangled with the bed sheets.
+location: Plains Hotel
+state: Wyoming
+state_abbrev: WY
+longitude: -104.814518
+latitude: 41.133345
+city_longitude: -104.8202462
+city_latitude: 41.1399814
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

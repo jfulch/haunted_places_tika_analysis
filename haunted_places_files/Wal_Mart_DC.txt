@@ -1,0 +1,21 @@
+city: Hermiston
+country: United States
+description: During the construction of the warehouse it was said that illegal immigrants were a means of cheap labor to do clean up at night.  One night there was an accident and when the winds picked up and knocked one of the steel piling down it fell on top of one of the workers.  To avoid the police and being deported, the other workers quickly dug a hole and buried him in the concrete floor.  Late at night walking down the modules freight will fall out at you.  You can stop and look around but nobody will be there.
+location: Wal-Mart DC
+state: Oregon
+state_abbrev: OR
+longitude: -119.2579327
+latitude: 45.8088365
+city_longitude: -119.2894604
+city_latitude: 45.8404101
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: There are variety of things that happen at the church each night. Around 5:00pm a strange presence can be felt in the largest chapel in the church. This wing during this is time should be pretty much unpopulated. There is even more though. Around 7:00pm- 9:30pm about things start to get a lot stranger, you can hear footsteps, foot scuffing, and sometimes knocks. there are at least three spirits that haunt the chapel, a male presence was felt. Reports of what sounded like a little girl and mother or older woman laughing.
+location: Harvey Browny Church
+state: Kentucky
+state_abbrev: KY
+longitude: -85.64455269999999
+latitude: 38.2494973
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

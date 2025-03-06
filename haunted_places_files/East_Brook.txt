@@ -1,0 +1,21 @@
+city: Harlan County
+country: United States
+description: Residents of the Eastbrook apartments have heard little girls in their bathrooms talking about putting on makeup. And heard voices calling for help and constant banging on doors and a cry for help.
+location: East Brook
+state: Kentucky
+state_abbrev: KY
+longitude: -83.321835
+latitude: 36.843131
+city_longitude: -83.2077645
+city_latitude: 36.8890304
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

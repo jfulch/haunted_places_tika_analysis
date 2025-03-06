@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: Many have seen a ghost at Dora Moore K-8 school. She is most often seen walking along the large wooden staircase that connects the first and second floors, but some have seen her in the third floor auditorium. She's seen at night or during days when it's so dark outside you could mistake it for night. She wears a longish dress (ankle length, but doesn't touch the floor) and her hair is twisted into a bun. She walks quietly, not making any noise at all.
+location: Dora Moore K-8
+state: Colorado
+state_abbrev: CO
+longitude: -104.9737313
+latitude: 39.7299702
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

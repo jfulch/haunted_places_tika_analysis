@@ -1,0 +1,20 @@
+city: Fort Leonard Wood
+country: United States
+description: A four-year-old girl was supposedly killed here. She swings on her favorite swing in the playground, so you will see it swinging without any wind and without any of the other swings moving. Also, if you rattle the doors and wait, she'll rattle them back at you. Late at night, she listens to music in one room near her swing. The music stops and starts as she pleases, and it's played very loudly at times. Also, the playground toys in the back are in HER particular places, so if you move them around and leave for a little while, don't be surprised if they are back in their original places when you return to them.
+location: Partridge Preschool
+state: Missouri
+state_abbrev: MO
+longitude: -92.135757
+latitude: 37.782756
+city_longitude: -92.1348413
+city_latitude: 37.7944939
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

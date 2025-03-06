@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: formerly The Antler's Hotel - At least 3 ghosts to speak of, One hangs out after hours in the bar Judge Baldwins. The other is a woman in a long gown seen coming down a back flight of stairs. The third is a suicide on prom night in the 70's of a young girl in one of the rooms.
+location: Adam's Mark on Cascade
+state: Colorado
+state_abbrev: CO
+longitude: -104.8263258
+latitude: 38.8334866
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

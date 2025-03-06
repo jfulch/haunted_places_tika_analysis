@@ -1,0 +1,21 @@
+city: Schofield Barracks
+country: United States
+description: Hearing mumbling voices, body paralyzed, and your can hear someone in the room with you laughing, pulling on your blankets. A lot of the rooms here are haunted by WWII soldiers, some ghost don't bother you but let you know they’re there by knocking on stuff walking around in the hallways, but some are evil and will show you that!
+location: J Quad Building 846
+state: Hawaii
+state_abbrev: HI
+longitude: -158.0480183
+latitude: 21.4875088
+city_longitude: -158.0626555
+city_latitude: 21.4954957
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

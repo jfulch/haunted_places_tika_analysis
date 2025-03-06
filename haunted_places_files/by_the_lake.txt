@@ -1,0 +1,21 @@
+city: Bethany
+country: United States
+description: In the country between Bethany and Sullivan is an old cemetery near the lake (lake Shelbyvillle).  This cemetery has children's graves in it. Mostly under the age of 16.  Graves date back about 100 or more years.  Seems like this area had a epidemic in that time and lots of kids died. the grave yard can be found with laughter of children playing, singing, etc.
+location: by the lake
+state: Illinois
+state_abbrev: IL
+longitude: -88.7381252
+latitude: 39.6455916
+city_longitude: -88.7381252
+city_latitude: 39.6455916
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1840/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

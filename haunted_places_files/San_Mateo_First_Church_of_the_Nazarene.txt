@@ -1,0 +1,21 @@
+city: Palatka
+country: United States
+description: The ghost of an old man who used to attend the church shuffling up the aisle, just the same as he always did when he was alive. In the nursery the ghost of a pilgrim times woman, (you can only see her shadow, but you can tell by the way her shadow's dress is shaped) screams. It sounds like she in sheer terror.
+location: San Mateo First Church of the Nazarene
+state: Florida
+state_abbrev: FL
+longitude: -81.592176
+latitude: 29.6456448
+city_longitude: -81.6375819
+city_latitude: 29.6485801
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Hammon
+country: United States
+description: a few people have came in contact with a person dressed in all black and night. He will try to grab your arm and take you away, when he gets a hold of you, you cannot get lose. Also down town in an old house there has been a sighting of a woman in a window with the lights on doing dishes. but yet there is no electricity.
+location: around town
+state: Oklahoma
+state_abbrev: OK
+longitude: -99.3817653
+latitude: 35.6328261
+city_longitude: -99.3817653
+city_latitude: 35.6328261
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

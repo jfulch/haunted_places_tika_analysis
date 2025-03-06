@@ -1,0 +1,20 @@
+city: Wallingford
+country: United States
+description: Now a Texaco station. -  Once a hotel that had a fire, killing most of the people inside. Then the Shell gas Station was built in its place. It is now out of business because of hauntings occurring in the station. These hauntings scared away not only the customers, but the workers too. Neighbors have also claimed to see lights in the building at night. - February 2007 Correction: Former owners state the place was never haunted. It was closed due to funding & contract problems.
+location: Shell Station on Center
+state: Connecticut
+state_abbrev: CT
+longitude: -72.80913
+latitude: 41.494439
+city_longitude: -72.8230736
+city_latitude: 41.4570108
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Echo
+country: United States
+description: Since the Owner of the Cafe (Fat) passed away, waitresses have heard from the bar, someone order a refill on coffee after hours while they are closing. They have also heard the bar stool squeak as it turned and old cowboy boots scuff across the floor to the jukebox, shortly afterward that Johnny Cash song (Fat’s favorite) will start to play and the volume will go up. But there is no body there.
+location: The Kozy Café
+state: Utah
+state_abbrev: UT
+longitude: -111.4428567
+latitude: 40.977146
+city_longitude: -111.4413165
+city_latitude: 40.97789849999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

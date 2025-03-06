@@ -1,0 +1,20 @@
+city: Picayune
+country: United States
+description: There is a stone bench at a grave plot. If you sit in it, you'll feel cold spots and someone breathing down the back of your neck.
+location: Sycamore Cemetery
+state: Mississippi
+state_abbrev: MS
+longitude: -80.24722779999999
+latitude: 36.7411711
+city_longitude: -89.67950839999999
+city_latitude: 30.5254692
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

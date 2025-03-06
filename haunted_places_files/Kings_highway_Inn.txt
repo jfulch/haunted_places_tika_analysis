@@ -1,0 +1,18 @@
+city: Pembroke
+country: United States
+description: The house where George Washington's doctor lived.  In 1800's family lived in the house one day native Americans attacked the house the parents told there children to hide in the closet that couldn't be opened from the inside.  The children died and after the closet was opened the bodies where found and scratch marks where found on the wall.
+location: Kings highway Inn
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -70.80919999999999
+city_latitude: 42.0714925
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1800/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

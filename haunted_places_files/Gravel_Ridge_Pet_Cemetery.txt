@@ -1,0 +1,21 @@
+city: Gravel Ridge
+country: United States
+description: Supposedly, if you go there late at night you can see apparitions of the dead animals that were buried there. You can also hear their howling cries come and go in the night.
+location: Gravel Ridge Pet Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -94.172378
+latitude: 36.333322
+city_longitude: -92.1907037
+city_latitude: 34.868423
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

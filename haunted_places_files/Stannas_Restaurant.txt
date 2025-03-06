@@ -1,0 +1,20 @@
+city: Umatilla
+country: United States
+description: In the early 1900's, a young woman hanged herself on the third floor above the restaurant. Several workers and customers have had experiences with her ghost. People have claimed to see shadows of her in a long dress and wicker baskets falling off the women's bathroom wall. Several customers have complained of cold spots and strange laughing accompanied by piano playing.
+location: Stanna's Restaurant
+state: Florida
+state_abbrev: FL
+longitude: -81.666608
+latitude: 28.933687
+city_longitude: -81.66563049999999
+city_latitude: 28.9294316
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

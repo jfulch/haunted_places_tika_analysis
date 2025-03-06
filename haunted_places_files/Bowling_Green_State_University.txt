@@ -1,0 +1,20 @@
+city: Bowling Green
+country: United States
+description: Chi Omega sorority house is haunted by a former pledge from the 1940'or 1950's that got killed by train on the near by train tracks.
+location: Bowling Green State University
+state: Ohio
+state_abbrev: OH
+longitude: -83.6300826
+latitude: 41.3797788
+city_longitude: -83.6513229
+city_latitude: 41.3747744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1895/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

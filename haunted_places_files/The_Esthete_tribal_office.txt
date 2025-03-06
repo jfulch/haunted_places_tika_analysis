@@ -1,0 +1,20 @@
+city: Ethete
+country: United States
+description: Haunted by many spirits, mostly a little girl who only appears in the early morning hours.
+location: The Esthete tribal office
+state: Wyoming
+state_abbrev: WY
+longitude: -108.7711991
+latitude: 43.0254328
+city_longitude: -108.7726205
+city_latitude: 43.0249581
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

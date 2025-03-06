@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: Many report unknown phenomena happenings. Said to be the so called witches that were hanged there in the olden days.
+location: Gallows Hill
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8963115
+latitude: 42.5221564
+city_longitude: -70.8967155
+city_latitude: 42.51954
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

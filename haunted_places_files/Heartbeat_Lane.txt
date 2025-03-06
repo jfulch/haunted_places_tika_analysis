@@ -1,0 +1,19 @@
+city: Lincoln Park
+country: United States
+description: A strange sound that sounds like a heart beat, and you pass the house on your way out, there will be a light on in the upstairs window.
+location: Heartbeat Lane
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.3020933
+city_latitude: 40.9242652
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1998/02/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

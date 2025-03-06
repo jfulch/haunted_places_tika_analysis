@@ -1,0 +1,21 @@
+city: Downieville
+country: United States
+description: Room #1 - is supposedly haunted by one of the former boarders from when the Inn was a boarding house. Reports of the water turning off and on by its self. Others have reported someone getting into bed with them, or laying on top of them, only to find no one there.
+location: Downieville River Inn Resort
+state: California
+state_abbrev: CA
+longitude: -120.830203
+latitude: 39.559389
+city_longitude: -120.8276966
+city_latitude: 39.5595198
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

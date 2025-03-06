@@ -1,0 +1,21 @@
+city: Morgantown
+country: United States
+description: Years ago a little girl was left or her parents/family had all died when she was only 2 or 4 years old. People have heard her crying and going up the stairs. People have blocked the house off so people can't go in it. People have tried to tear it down but the girl makes sounds and scares the workers away.
+location: Woodbury
+state: Kentucky
+state_abbrev: KY
+longitude: -86.6538636
+latitude: 37.1980774
+city_longitude: -86.6835998
+city_latitude: 37.2256023
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

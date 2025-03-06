@@ -1,0 +1,21 @@
+city: Merced
+country: United States
+description: a lady and her daughter went out on a small boat ride while the other girl scouts were sleeping. The daughter had fallen into a whirlpool and the suction pulled the boat under leaving the mother behind. After the mother died after grieving years, it is said she goes into the girls tents now and look for her daughter and sings to the girls and strokes there hair.
+location: Girl Scouts Island, Yosemite Lake
+state: California
+state_abbrev: CA
+longitude: -120.4290782
+latitude: 37.3704952
+city_longitude: -120.4829677
+city_latitude: 37.3021632
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

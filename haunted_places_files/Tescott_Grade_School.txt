@@ -1,0 +1,21 @@
+city: Tescott
+country: United States
+description: There was a man that ran into the trophy case. He died. He still haunts the school. The first principal of the school died and haunts the school too. There were reports of 3 hauntings there.
+location: Tescott Grade School
+state: Kansas
+state_abbrev: KS
+longitude: -97.8796052
+latitude: 39.0128184
+city_longitude: -97.8755982
+city_latitude: 39.008059
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

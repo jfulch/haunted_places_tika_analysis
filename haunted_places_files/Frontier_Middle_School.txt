@@ -1,0 +1,21 @@
+city: Moses Lake
+country: United States
+description: On the date of February 6, 1996, the way of life in Frontier Middle School was shattered forever when a student by the name of Barry Loukaitis stepped into his Algebra class with a high powered hunting rifle and opened fire on the students. Since that time, both students and teachers claim they can still hear the echo of gunshots and the screams of the students from that part of the building, and many students attest to a feeling of panic whenever they are in or around that area.
+location: Frontier Middle School
+state: Washington
+state_abbrev: WA
+longitude: -119.2831774
+latitude: 47.127013
+city_longitude: -119.2780771
+city_latitude: 47.1301417
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1996/02/06
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

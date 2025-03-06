@@ -1,0 +1,21 @@
+city: Dearborn Heights
+country: United States
+description: A few years ago there was a fight at the park, and it involved many people and someone pulled out a gun and told everyone to stop fighting and they kept fighting so then he shot someone and killed them. People say that if you go there at 7.45 at night by the back picnic tables you will here a gun shot then a man will appear then leave, the shooting happened like 13 years ago.
+location: Silvery lane park
+state: Michigan
+state_abbrev: MI
+longitude: -83.2829189
+latitude: 42.3412156
+city_longitude: -83.27326269999999
+city_latitude: 42.3369816
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

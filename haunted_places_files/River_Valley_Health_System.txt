@@ -1,0 +1,20 @@
+city: Ironton
+country: United States
+description: The third and fourth floors of the old county hospital, which is now closed, is haunted by the ghost of a doctor. Many eyewitnesses can account for that. Patients, in the past, had reported seeing a figure at the foot of their beds, staring at them. There have been many unusual occurrences there, when it was open, and most certainly now that "they" have the place to themselves.
+location: River Valley Health System
+state: Ohio
+state_abbrev: OH
+longitude: -82.65226899999999
+latitude: 38.501526
+city_longitude: -82.6829406
+city_latitude: 38.5367471
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

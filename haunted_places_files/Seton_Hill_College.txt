@@ -1,0 +1,21 @@
+city: Greensburg
+country: United States
+description: Olde Main - Maura Hall - Graveyard - Many sighting have taken place over the years, weird noises, walking, doors shutting, singing, the chapel organ playing, and sighting of a priest walking across the main parking lot at night. They have also have reports of a little boy playing with a ball in the graveyard.
+location: Seton Hill College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.5566817
+latitude: 40.3113949
+city_longitude: -79.5389289
+city_latitude: 40.3014581
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1890/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

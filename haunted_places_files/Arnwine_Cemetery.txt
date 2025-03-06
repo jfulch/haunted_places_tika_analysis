@@ -1,0 +1,21 @@
+city: Washburn
+country: United States
+description: The cemetery is located about 10-15 miles on this old back road. As you go back the road gets narrow and the tree limbs start to scratch the side of your car. When you finally get back there, no one has been buried there since around 1903. That is the latest date found. Reports of cars not wanting to start and a woman appearing..
+location: Arnwine Cemetery
+state: Tennessee
+state_abbrev: TN
+longitude: -83.6120457
+latitude: 36.3067013
+city_longitude: -83.59555739999999
+city_latitude: 36.2894746
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 1

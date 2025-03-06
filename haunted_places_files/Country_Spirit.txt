@@ -1,0 +1,21 @@
+city: Boerne
+country: United States
+description: Country spirit is now a restaurant, it is haunted by 3 ghost. Their names are David, Augustine, and George! Sometimes you can even here doors opening on the top floor.
+location: Country Spirit
+state: Texas
+state_abbrev: TX
+longitude: -98.6684342
+latitude: 29.7227493
+city_longitude: -98.7319703
+city_latitude: 29.79466409999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

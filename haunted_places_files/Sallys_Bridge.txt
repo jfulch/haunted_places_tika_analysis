@@ -1,0 +1,20 @@
+city: Concord
+country: United States
+description: Sally's Bridge is an old bridge off Poplar Tent Road. A young high school girl and her baby were driving here one night in the rain and ran into a creek. Sally could not find her baby, but they both died eventually. If you stop on the bridge, she will do anything she can to get you to help her find her baby. People have reported a frantic looking woman knocking on car doors and trying to open car windows.
+location: Sally's Bridge
+state: North Carolina
+state_abbrev: NC
+longitude: -80.58263219999999
+latitude: 35.4094257
+city_longitude: -80.579511
+city_latitude: 35.4087517
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1891/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

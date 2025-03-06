@@ -1,0 +1,21 @@
+city: Sedro Woolley
+country: United States
+description: students have seen a little girl roaming the halls of the dorms with a red ball. In the nurses station they can see a figure of a body hanging up in the window. There are tunnels that lead all over under the campus that have been known to be haunted. You can here moaning and screaming at night. There is also a man that roams outside looking for the little girl.
+location: Cascades Job Corps
+state: Washington
+state_abbrev: WA
+longitude: -122.206254
+latitude: 48.53398
+city_longitude: -122.2361101
+city_latitude: 48.50389
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

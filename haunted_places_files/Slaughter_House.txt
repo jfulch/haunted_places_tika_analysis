@@ -1,0 +1,21 @@
+city: Danvers
+country: United States
+description: 2am in the morning me and my friends were video taping abandoned places and in this building we saw shadows and heard the sounds of a woman laughing and after filming my video we watched it and the vision of a woman appeared on my video and walks directly in front of me the vision of the woman is clear but is visible as a woman wearing a torn dress with long hair.
+location: Slaughter House
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.93493190000001
+latitude: 42.608034
+city_longitude: -70.93212199999999
+city_latitude: 42.5750009
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1932/04/04
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

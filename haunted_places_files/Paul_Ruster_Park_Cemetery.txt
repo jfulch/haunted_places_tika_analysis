@@ -1,0 +1,21 @@
+city: Indianapolis
+country: United States
+description: Many years ago, a little boy was killed by the nearby train tracks. He is now buried in the foundation of his old house. Many people say that if you walk the long path through the woods to his grave, you can hear the boy playing his harmonica. Others have reported seeing a ghostly young boy walking down the road.
+location: Paul Ruster Park Cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -85.963343
+latitude: 39.75904200000001
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.283333333333331
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

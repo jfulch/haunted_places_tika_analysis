@@ -1,0 +1,21 @@
+city: Tombstone
+country: United States
+description: This Bed and Breakfast was the home of a young man who committed suicide after the young lady he intended to marry, jilted him. She happened to live across the street. He has been seen around the house and walking in front of the Buford House. The doorbell rings in the middle of the night, but no one is there. Guests have experienced knocking on the walls, and the faucet in the bathroom down the hall, turning itself off and on. Strange lights are said to be seen, and cold spots that move around. They were featured in, “Haunted History - Tombstone”.
+location: Buford House
+state: Arizona
+state_abbrev: AZ
+longitude: -110.0688267
+latitude: 31.7154103
+city_longitude: -110.0675764
+city_latitude: 31.7128683
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

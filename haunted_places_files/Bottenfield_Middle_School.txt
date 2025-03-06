@@ -1,0 +1,21 @@
+city: Adamsville
+country: United States
+description: The ghost of a young man has been seen by several in the band and choir wing of the school. He appears at any hour and then vanishes just as quickly.
+location: Bottenfield Middle School
+state: Alabama
+state_abbrev: AL
+longitude: -86.9333123
+latitude: 33.5945201
+city_longitude: -86.9561059
+city_latitude: 33.6009389
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

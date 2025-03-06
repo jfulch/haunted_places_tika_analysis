@@ -1,0 +1,21 @@
+city: Quinault
+country: United States
+description: Sometime in the early 1900's there was a fire here that destroyed a couple of buildings. There was only one fatality, a cleaning woman caught in the attic. After the rebuild, most of the original attic was saved and restored. You can still feel her when you go up there (it's a small conference room now) and in the kitchen, she throws glasses and silverware where nobody was there before. Call them, they'll tell you the story there.
+location: Lake Quinault Lodge
+state: Washington
+state_abbrev: WA
+longitude: -123.8482861
+latitude: 47.466952
+city_longitude: -123.8454552
+city_latitude: 47.4670312
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1998/05/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

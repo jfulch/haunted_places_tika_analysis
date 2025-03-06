@@ -1,0 +1,20 @@
+city: Pierce
+country: United States
+description: reports of hearing a baby cry and doors slamming.
+location: Highland Elementary
+state: Colorado
+state_abbrev: CO
+longitude: -104.7558755
+latitude: 40.6390554
+city_longitude: -104.7552458
+city_latitude: 40.63553599999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

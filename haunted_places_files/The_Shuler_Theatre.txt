@@ -1,0 +1,21 @@
+city: Raton
+country: United States
+description: Located in the center of town, the theatre is most certainly haunted. On stage there are scraping sounds of someone in high heels. Down in the dressing rooms is the scariest place in the theatre. The dressing area with just a curtain as a door has very different temperatures in certain places. There is a broken mirror, which ALMOST always never works. Creepy all over. All you have to do is see a performance to witness the haunting of Mr. Shuler. Very cool.
+location: The Shuler Theatre
+state: New Mexico
+state_abbrev: NM
+longitude: -104.4392226
+latitude: 36.90295649999999
+city_longitude: -104.4391532
+city_latitude: 36.9033581
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: Central Baptist Church - Mysterious sounds, slamming doors, and strange old man sightings haunt this Korean Baptist church. This was a former Masonic church which was once used to sacrifice animals and supposedly humans. Visit this building alone and you'll experience first hand of the level of demonic hauntings in this building.
+location: Georgetown
+state: Washington
+state_abbrev: WA
+longitude: -122.3221362
+latitude: 47.5431717
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1638/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

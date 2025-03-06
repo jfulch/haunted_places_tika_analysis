@@ -1,0 +1,21 @@
+city: Tyler
+country: United States
+description: Wise Auditorium -  is haunted by a little boy who screams as you leave the building at night.
+location: Tyler Junior College
+state: Texas
+state_abbrev: TX
+longitude: -95.2833841
+latitude: 32.3337516
+city_longitude: -95.3010624
+city_latitude: 32.3512601
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2013/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

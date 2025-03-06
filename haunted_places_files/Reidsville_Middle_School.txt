@@ -1,0 +1,21 @@
+city: Reidsville
+country: United States
+description: Band Room - It is said that there have been children going to the band room early in the morning and walking up to the band room doors and the doors were locked. No one was inside the band room. There was music playing and a wooden chair rocking. The wooden chair then moves all the way across the room.  Kids have gone in the instrument room to get their instruments and their cases have been moved to a different cuby and in some cases just totally disappear. There is still question of why this may be.
+location: Reidsville Middle School
+state: North Carolina
+state_abbrev: NC
+longitude: -79.680506
+latitude: 36.3284259
+city_longitude: -79.6644747
+city_latitude: 36.3548586
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Saratoga
+country: United States
+description: This is a road near Saratoga where a mysterious light hovered, sped away from or toward drivers or followed drivers. Some said it was the light from a lantern that belonged to the ghost of a railroad man who was accidentally killed on nearby railroad tracks.
+location: Bragg Road
+state: Texas
+state_abbrev: TX
+longitude: -94.550465
+latitude: 30.350975
+city_longitude: -94.5294639
+city_latitude: 30.2841668
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

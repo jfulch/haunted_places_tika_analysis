@@ -1,0 +1,21 @@
+city: Belleville
+country: United States
+description: ghosts dressed in white can be seen walking through the cemetery. It always vanishes into the tallest grave there. The ghost(s) follows vehicles that drive in there at night.
+location: Tyler Rd. Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -83.4298354
+latitude: 42.2373832
+city_longitude: -83.4852133
+city_latitude: 42.2047619
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

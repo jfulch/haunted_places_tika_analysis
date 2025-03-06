@@ -1,0 +1,21 @@
+city: Rockford
+country: United States
+description: If you walk by the willow tree it is said that you have a strange desire to go into the woods. There is an old hanging tree with some odd carvings on it. A little girl is said to be seen walking around. Additional experiences have included batteries going dead, figures walking behimd trees, and extrem feelings of dread.
+location: Twin Sisters Park Woods
+state: Illinois
+state_abbrev: IL
+longitude: -89.04956969999999
+latitude: 42.2614769
+city_longitude: -89.0939952
+city_latitude: 42.2711311
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

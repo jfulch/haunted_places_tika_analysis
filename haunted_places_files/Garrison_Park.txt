@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: this park is located on Manacaha rd next to Crockett high school . It is said that if you drive down the road that takes you around the park you can see kids playing on the basketball court and see people putting flowers on the graveyard that are in the back of the park before the football field. There are 3 graveyards in the back there are of the historic people.
+location: Garrison Park
+state: Texas
+state_abbrev: TX
+longitude: -97.800518
+latitude: 30.212007
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

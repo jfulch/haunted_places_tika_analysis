@@ -1,0 +1,19 @@
+city: Burton
+country: United States
+description: ticking clocks that are not there. Things will turn on by them self.
+location: Naturally You
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.6163423
+city_latitude: 42.99947179999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

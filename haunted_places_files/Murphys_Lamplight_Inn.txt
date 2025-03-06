@@ -1,0 +1,21 @@
+city: Central Lake
+country: United States
+description: The Lamplights Inn has been a landmark in Central Lake since 1924. It was built in the very early 1900s. Beginning in the early '50s, the successive owners have had persistent reports of ghosts. A man and woman dressed in late '20s - early '30s garb have been seen many times over the years, not only by owners' families, but also by employees and customers alike. The descriptions are uncannily similar. A customer recently reported the man and woman ghosts dancing together in the bar area with a little girl ghost looking on. These ghosts also window peep (on the second floor). They certainly appear to be fun loving. Another story tells of the daughter of a former hotel manager, who was preparing to elope with her fiancée, and tripped on her gown while descending the ladder. She fell to her death and returns to walk the hallway upstairs in her wedding gown. And, it is a fact that Mrs. Gill who, with her husband, were the first managers of the hotel, returned and lived out her remaining years at the hotel. She died in the early '50s in one of the upstairs bedrooms. Many people have reported seeing her stand in the upstairs window looking onto the village. In 1979 Ted Strzempek bought the lamplight he said he was in the upstairs hallway painting when a women in a white dress ran by him and through all the boxes he had stacked by the wall she ran into a bedroom and he ran in after her only to find an empty room. The Murphy's now own the lamplight and if you ask them if the lamplight is haunted they will not deny it.
+location: Murphy's Lamplight Inn
+state: Michigan
+state_abbrev: MI
+longitude: -85.264923
+latitude: 45.0720901
+city_longitude: -85.2645105
+city_latitude: 45.0700047
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1924/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

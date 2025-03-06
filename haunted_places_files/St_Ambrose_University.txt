@@ -1,0 +1,21 @@
+city: Davenport
+country: United States
+description: Ambrose Hall - When there are only a few professors left in the building late at night, they have heard strange noises. They have heard foot steps and seen lights flickering on and off. It's said that it is an old priest that died many, many years ago.
+location: St. Ambrose University
+state: Iowa
+state_abbrev: IA
+longitude: -90.5807611
+latitude: 41.5404254
+city_longitude: -90.5776367
+city_latitude: 41.5236437
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

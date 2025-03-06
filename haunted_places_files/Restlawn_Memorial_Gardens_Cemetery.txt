@@ -1,0 +1,21 @@
+city: Port Charlotte
+country: United States
+description: The first house ever built in Port Charlotte is located adjacent to the cemetery. The house is said to have been owned by a farmer who murdered his wife. After the structure fell into a state of disrepair, the county decided to condemn the old shack. Since that time, many have reported hearing eerie noises coming from the area that the house is located in. Also, a ghostly figure has been spotted roaming around the cemetery late at night. Also, the sound of swarms of bees has plagued neighbors around the area for years.
+location: Restlawn Memorial Gardens (Cemetery)
+state: Florida
+state_abbrev: FL
+longitude: -82.1228855
+latitude: 27.0078898
+city_longitude: -82.09064479999999
+city_latitude: 26.9761707
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

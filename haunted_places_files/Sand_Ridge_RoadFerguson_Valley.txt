@@ -1,0 +1,19 @@
+city: Lewistown
+country: United States
+description: When at the old Jewish Cemetery on the ridge, moans and screams can be heard when German is spoken, or even not! Visitors seem to hear the pain and agony of those resting eternally there.
+location: Sand Ridge Road(Ferguson Valley)
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -77.571382
+city_latitude: 40.5992395
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

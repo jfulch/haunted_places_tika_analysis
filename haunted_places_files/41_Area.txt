@@ -1,0 +1,21 @@
+city: Camp Pendleton
+country: United States
+description: Second story room in one of the barracks is haunted by the ghost of a Marine. He shot himself after finding out his fiancé left him. The ghost moves furniture, hums the song to "Jeopardy", and has struck another Marine sleeping in the room. People in the room feel the ghost is there watching them.
+location: 41 Area
+state: California
+state_abbrev: CA
+longitude: -117.4389352
+latitude: 33.2902183
+city_longitude: -117.3811366
+city_latitude: 33.2295467
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

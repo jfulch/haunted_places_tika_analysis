@@ -1,0 +1,21 @@
+city: Disneyland
+country: United States
+description: both the ride itself and the women's (employee) locker rooms are haunted by the ghost of "Mr. One-Way", a guest who died on the Space Mountain ride back in the 1970's. On the ride, he is described as a large man with reddish hair and a red face, and has been seen by guests getting into a car with a lone rider, but he vanishes before the end of the ride.
+location: Space Mountain
+state: California
+state_abbrev: CA
+longitude: -117.917307
+latitude: 33.81138
+city_longitude: -117.9189742
+city_latitude: 33.8120918
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

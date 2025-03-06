@@ -1,0 +1,21 @@
+city: Greenfield
+country: United States
+description: Back in the 1600's, Deerfield was raided by a band of French soldiers and Indians. The 200 or so captives were taken North to Canada, along the way crossing over the Green River in present-day Greenfield. Eunice Williams, wife of the town's reverend who just hours before had given birth, was hacked to death in the river by an Indian. Today, a plaque set in a stone tells the tale, and a covered bridge looms beside it connecting North Greenfield and the Meadows section of town. It is said that Eunice shows herself here, at night, when motorists stop inside the bridge, turn off their headlights, and beep once. Other sightings have been beside the dam above the bridge, and downstream in the middle of the river.
+location: Eunice Williams Covered Bridge
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.6202139
+latitude: 42.64648709999999
+city_longitude: -72.5994104
+city_latitude: 42.587915
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

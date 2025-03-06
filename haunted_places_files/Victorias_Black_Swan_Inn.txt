@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: There have been numerous ghostly experiences.
+location: Victoria's Black Swan Inn
+state: Texas
+state_abbrev: TX
+longitude: -98.4166019
+latitude: 29.487454
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

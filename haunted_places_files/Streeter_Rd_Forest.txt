@@ -1,0 +1,18 @@
+city: Mantua
+country: United States
+description: The Woods Of Streeter Rd are haunted or something’s in them. You can hear screams inside all through the night, many different times. And the sounds of things squealing. Witnesses report being chased out by something they could not see, and it was a low pitch and high pitch screaming. They have seen red eyes in the woods, then they vanish.
+location: Streeter Rd. Forest
+state: Ohio
+state_abbrev: OH
+city_longitude: -81.2239908
+city_latitude: 41.2839442
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1907/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

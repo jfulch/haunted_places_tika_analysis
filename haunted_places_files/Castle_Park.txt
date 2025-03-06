@@ -1,0 +1,21 @@
+city: Toms River
+country: United States
+description: At Midnight all the swings begin to swing at the same time without any sign of wind. and you can hear children playing when no one is around.
+location: Castle Park
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.18307879999999
+latitude: 39.9890155
+city_longitude: -74.1979458
+city_latitude: 39.9537358
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

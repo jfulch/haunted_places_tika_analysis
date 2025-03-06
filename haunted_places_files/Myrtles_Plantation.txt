@@ -1,0 +1,21 @@
+city: St. Francisville
+country: United States
+description: The ghost of a murderous slave is seen and heard, a mother and her two daughters are seen there, and i have personally seen and heard the daughters, a confederate soldier walks there, a crying woman, reenactment of the murder on the stairwell can be heard, the piano plays by itself, footsteps when not a living soul is around, voices, doors open and close by themselves and people who sleep there, like me, have been grabbed by someone and had their legs rubbed in a massaging motion or have been tucked into bed so tight that they can hardly get free.
+location: Myrtles Plantation
+state: Louisiana
+state_abbrev: LA
+longitude: -91.3880495
+latitude: 30.8034022
+city_longitude: -91.3768479
+city_latitude: 30.7880721
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

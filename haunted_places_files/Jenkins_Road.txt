@@ -1,0 +1,20 @@
+city: Sparta
+country: United States
+description: when approaching Jenkins road from the north heading south one can stop and see the road and trees surrounding it moving away like running water. Mysterious lights appearing out of nowhere coming towards you, as soon as one stops on Jenkins road and gets out of car. It is said that an old farmer who owned the property had a tractor flip on top of him and crushed him on the road when he was pulling someone out of the ditch in the winter back in the 70's.
+location: Jenkins Road
+state: Missouri
+state_abbrev: MO
+longitude: -93.0608011
+latitude: 37.0100101
+city_longitude: -93.0815678
+city_latitude: 37.0011646
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1989/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

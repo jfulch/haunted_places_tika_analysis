@@ -1,0 +1,20 @@
+city: Excelsior Springs
+country: United States
+description: an old village of 8 houses back in the woods said to once of been a hotel. The so-called lobby you can see form the road is the biggest building. All the windows are boarded up. Also has been said to been their as slave houses during the civil war. One of the windows (the only one not boarded up) has a set of child’s toys and over 500 marbles lying all over the floor. At night said people hearing children crying, couples fighting or arguing, screams of people saying stop please stop and can look through the open window at night and the marbles would be dropping and rolling on the floor slowly.
+location: the village
+state: Missouri
+state_abbrev: MO
+longitude: -94.2260559
+latitude: 39.3391712
+city_longitude: -94.2260559
+city_latitude: 39.3391712
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

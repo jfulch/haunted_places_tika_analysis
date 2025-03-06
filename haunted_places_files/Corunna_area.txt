@@ -1,0 +1,21 @@
+city: Vernon
+country: United States
+description: Geek Rd. -  People have reported seeing a bright orange light similar to a fireball at midnight on Halloween. The light seems to come directly at the car but dissipates before contact. This is the stretch of Geek Rd. that runs North off M71
+location: Corunna area
+state: Michigan
+state_abbrev: MI
+longitude: -84.02940819999999
+latitude: 42.9391971
+city_longitude: -84.02940819999999
+city_latitude: 42.9391971
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1968/04/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

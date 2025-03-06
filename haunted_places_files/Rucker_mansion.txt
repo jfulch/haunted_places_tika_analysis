@@ -1,0 +1,21 @@
+city: Everett
+country: United States
+description: The Rucker mansion is haunted by Mrs. Rucker, who committed suicide by jumping from the bedroom window on the top floor. Sometimes she can be heard playing the grand piano when no one is in the room.
+location: Rucker mansion
+state: Washington
+state_abbrev: WA
+longitude: -122.2241479
+latitude: 47.9728089
+city_longitude: -122.2020795
+city_latitude: 47.9789848
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1966/05/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Soda Springs
+country: United States
+description: There is a park with a pavilion, teeter totters, and some swings. The park use to have a set of swings on the north side of the pavilion and a swing with a big clown on. If you were to go out on certain nights the swings would be swinging so hard they would rap themselves around the top pole also if you were to drive around the pavilion three times, shut your vehicle off and flash the lights a few times and weight you would see a ghostly figure walk back and forth across a bridge
+location: Hooper Springs
+state: Idaho
+state_abbrev: ID
+longitude: -111.6034599
+latitude: 42.6788842
+city_longitude: -111.6046687
+city_latitude: 42.6543652
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

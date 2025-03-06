@@ -1,0 +1,21 @@
+city: Lowell
+country: United States
+description: Downstairs (where Mrs. Moriarty Art Class is) is haunted. It is said to be haunted from some lady. It only happens in the girls' bathroom cause a girl died.
+location: Daley Middle School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.3367669
+latitude: 42.624336
+city_longitude: -71.31617179999999
+city_latitude: 42.6334247
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1812/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

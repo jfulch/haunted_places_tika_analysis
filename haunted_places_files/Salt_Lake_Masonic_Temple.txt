@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: Built in 1926-27, it has been haunted for many years. Quite a few years ago, while cleaning out some old storage rooms, an urn was found with the ashes of a Charles Valentine. Some inquiries were made and it was found that Charles was a Mason. No one knows why the ashes were not buried at the time of his death, but they were eventually returned to be buried correctly. Since that time strange things happen in this lovely old building. Doors open when they are closed and locked. Lights turn on when they are off and visa versa. You can hear doors slam when no one else is in the building. These stories have come from many of the caretakers that have worked there. One even reported seeing a young girl floating down a hallway and some little child's footprints in ashtray sand.
+location: Salt Lake Masonic Temple
+state: Utah
+state_abbrev: UT
+longitude: -111.8724156
+latitude: 40.7689137
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1926/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 26m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

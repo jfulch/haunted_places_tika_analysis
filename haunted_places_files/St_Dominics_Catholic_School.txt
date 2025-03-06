@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: there is said to be a ghostly presence in the graveyard.
+location: St. Dominic’s Catholic School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.01580779999999
+latitude: 40.0471027
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

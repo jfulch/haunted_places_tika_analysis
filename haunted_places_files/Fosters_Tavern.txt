@@ -1,0 +1,20 @@
+city: Spartanburg
+country: United States
+description: Sounds of horse hooves on the roof, voices and footsteps on the stairs have been heard.
+location: Foster's Tavern
+state: South Carolina
+state_abbrev: SC
+longitude: -81.88679599999999
+latitude: 34.922137
+city_longitude: -81.9320482
+city_latitude: 34.9495672
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

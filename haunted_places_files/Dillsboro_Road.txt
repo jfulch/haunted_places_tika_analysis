@@ -1,0 +1,21 @@
+city: Sylva
+country: United States
+description: A shadow looking like a man and the feeling of not being alone and watched, voices and strange screams have been reported. There are also spots along the road that are warm at first then they become ice cold a few steps further. Years ago there was a murder of a woman and her husband. There have also been numerous accidents involving both humans as well as animals on this road. These accidents have been rumored to be caused by the man and woman that were murdered.
+location: Dillsboro Road
+state: North Carolina
+state_abbrev: NC
+longitude: -83.23625109999999
+latitude: 35.374876
+city_longitude: -83.22598029999999
+city_latitude: 35.3737111
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

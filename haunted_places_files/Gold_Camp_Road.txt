@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: The tunnels along the road are haunted by the spirits who built the in the 1800's, the road was originally a railroad from Colorado Springs to cripple creek but was the tracks were later removed to allow for transportation by car. - March 2005 Update: The national Forest Service is talking about opening this tunnel and making it accessable for one way traffic. The people in the community have 60 dyas to let the forest service know what they want to do but the Forest Service will make a decision July 2005.
+location: Gold Camp Road
+state: Colorado
+state_abbrev: CO
+longitude: -104.9145829
+latitude: 38.7864065
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

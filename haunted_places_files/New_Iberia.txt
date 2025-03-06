@@ -1,0 +1,21 @@
+city: Broussard
+country: United States
+description: Mary Jane’s Bridge - Legend is her boyfriend raped and killed her. She was shackled and thrown over. They never ever found the body. To this day they say if you go to the bridge on her prom night at midnight you can see her waling across the bride. She wearing a white dress and she has no feet.
+location: New Iberia
+state: Louisiana
+state_abbrev: LA
+longitude: -91.834229
+latitude: 29.9895239
+city_longitude: -91.9612305
+city_latitude: 30.147146
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1863/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

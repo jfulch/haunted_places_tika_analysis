@@ -1,0 +1,21 @@
+city: Decherd
+country: United States
+description: There is the spirit of a girl who haunts the school. She will call out to you, calling out your name in a pleading voice, asking for help. But when you turn to see where the voice is, there will not be anyone there. Her voice is normally heard in the afternoon and early evening.
+location: North Junior High School
+state: Tennessee
+state_abbrev: TN
+longitude: -86.1011733
+latitude: 35.2229676
+city_longitude: -86.07942849999999
+city_latitude: 35.2098048
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

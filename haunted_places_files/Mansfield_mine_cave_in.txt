@@ -1,0 +1,19 @@
+city: Crystal Falls
+country: United States
+description: In the late 1800's when iron ore mining was in its prime, a group of 27 miners were killed when the mine caved in and drowned them. People who live close by can sometimes hear screaming and noises like someone was hitting a pick against a rock. Apparitions can be seen in and around the water where the mine filled with water. Lights of the mining helmets are seen coming from below the water.
+location: Mansfield mine cave-in
+state: Michigan
+state_abbrev: MI
+city_longitude: -88.3340242
+city_latitude: 46.0980066
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

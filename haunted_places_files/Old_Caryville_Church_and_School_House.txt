@@ -1,0 +1,19 @@
+city: Caryville
+country: United States
+description: About thirty years ago, investors were going to tear down this old church and build a new one. The priest got rather upset over the notion and hanged himself in the bell tower. Since his death, many creepy things have happened. There was also was a little boy that went to school there and mysteriously died. If you sit at the desk that he died in, you will feel a really weird rush as if something is passing through your body.
+location: Old Caryville Church and School House
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -91.6746108
+city_latitude: 44.7513498
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

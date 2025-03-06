@@ -1,0 +1,21 @@
+city: Richland
+country: United States
+description: if you go there at night and flash your beam 3 times and on the 4th time you leave them on you will see a little boy with a baseball and glove....if you get out he will throw the ball to you but he and the ball will disappear before you can catch it.
+location: Railroad tracks behind St. Augustine Prep High school
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.8746527
+latitude: 39.5001213
+city_longitude: -74.8706048
+city_latitude: 39.4914737
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1890/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

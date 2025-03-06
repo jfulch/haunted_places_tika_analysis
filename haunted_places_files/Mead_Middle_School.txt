@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: formerly Mead High School - In the 1930's when the high school was first built a drunk Scottish man fell off his ladder and was killed. On school grounds in places you can smell the strong scent of whiskey and hear mindless muttering. Also, inside the school, doors leading to the outside open on their own.(on windless days)
+location: Mead Middle School
+state: Washington
+state_abbrev: WA
+longitude: -117.3401407
+latitude: 47.8028196
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1600/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

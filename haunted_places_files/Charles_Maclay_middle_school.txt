@@ -1,0 +1,21 @@
+city: Pacoima
+country: United States
+description: girls locker room - Witnesses report cold spots, also feel a presence around you of a little girl that runs around the locker room when you're alone. Others have reported an Aztec Indian in full dress at the school.
+location: Charles Maclay middle school
+state: California
+state_abbrev: CA
+longitude: -118.4065119
+latitude: 34.2715979
+city_longitude: -118.4104684
+city_latitude: 34.2767691
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

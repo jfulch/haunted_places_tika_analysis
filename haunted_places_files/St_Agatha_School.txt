@@ -1,0 +1,21 @@
+city: Redford
+country: United States
+description: soon to be Cardinal Dearden High School - St. Agatha's is haunted by the founding priest, Fr. John T. Reid. He named the parish after his mother. He has been seen in the grade school late in the evening. His voice has been heard in the gym coming loudly out of speakers that have, for a long time, not been working. One time, he said "Get out of here, get out of here now." He usually appears or is heard when there are few people around. People have heard footsteps and keys rattling at dusk. In the corridor, between the high school and the gym, a strange feeling has been experienced by many in which the hair will stand up on your arms and the back of your necks. Walking through the complex, late in the evening, you can sometimes feel like he's watching you and you can occasionally hear him.
+location: St. Agatha School
+state: Michigan
+state_abbrev: MI
+longitude: -83.2961667
+latitude: 42.4351367
+city_longitude: -83.2973732
+city_latitude: 42.3944486
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1907/10/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

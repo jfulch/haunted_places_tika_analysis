@@ -1,0 +1,21 @@
+city: Galveston
+country: United States
+description: Workers have seen figures of the lady and hear her whimpers as she walks down the stairs.
+location: Luigies Italian Food
+state: Texas
+state_abbrev: TX
+longitude: -94.795414
+latitude: 29.307399
+city_longitude: -94.7976958
+city_latitude: 29.3013479
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Rosemead
+country: United States
+description: a few years ago an MTA bus crashed into a small car unfortunately killing one of the passengers. The wreckage scar still remains. People say that a shadowy figure can be seen standing underneath the tree as if waiting for something. People say that they hear, or feel someone when waiting at the crosswalk where the accident occurred.
+location: Corner of Rush and San Gabriel BLVD
+state: California
+state_abbrev: CA
+longitude: -118.0904344
+latitude: 34.0517314
+city_longitude: -118.072846
+city_latitude: 34.0805651
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Accident
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Greensburg
+country: United States
+description: The school is about to be torn down however years ago a lady was said to have jumped out of one of the upper level windows and killed herself on the ground below.  Also if you walk next to the large windows on the side of the building you are supposed to be able to see a little girl in a while night gown hanging in the window.  Many people go there at night and claim to see and hear strange things.
+location: Old Greensburg Elementary
+state: Kentucky
+state_abbrev: KY
+longitude: -85.5012
+latitude: 37.2623
+city_longitude: -85.49885479999999
+city_latitude: 37.2608936
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

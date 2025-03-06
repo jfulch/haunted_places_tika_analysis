@@ -1,0 +1,21 @@
+city: Wadsworth
+country: United States
+description: Heavy satanic activity. Was a house, barn, and animal shelter through the woods. Story is that a witch killed her husband and Burnt the house down. The barn and "kennel"(?) stood for some years before they too mysteriously burnt down. Mostly known for a cult hang out, but people have complained of glowing tombstones and chills. Located on Mill Creek rd. Wadsworth.
+location: St. Patrick's Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -87.952013
+latitude: 42.4549919
+city_longitude: -87.92396509999999
+city_latitude: 42.4286321
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

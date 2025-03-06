@@ -1,0 +1,21 @@
+city: Rochester
+country: United States
+description: There was a girl, named Victoria, who had a lead role in a musical, but in the night of the opening performance she died in a car accident. She is said to haunt the costume room in the attic, also known as "heaven", at Aquinas. Every once and a while, while the tech crew are up there a door may slam or a window and there's footsteps when no one else is up there.
+location: Aquinas Institute
+state: New York
+state_abbrev: NY
+longitude: -77.6402459
+latitude: 43.1875294
+city_longitude: -77.6109219
+city_latitude: 43.16103
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.783333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

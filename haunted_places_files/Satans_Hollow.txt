@@ -1,0 +1,18 @@
+city: Cincinnati
+country: United States
+description: Located in Blue Ash, a suburb of Cincinnati, Satan's Hollow is and old sewer system that used to house the infamous "alter room" in a mysteriously dry tunnel. This is where a group of Satanists made animal sacrifices and opened a door into hell. Female screams can be heard at night and there have been many sightings of various apparitions, including floating skulls and the demon YG, commonly known as the Shadow Man.
+location: Satan's Hollow
+state: Ohio
+state_abbrev: OH
+city_longitude: -84.5120196
+city_latitude: 39.1031182
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

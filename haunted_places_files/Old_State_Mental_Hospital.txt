@@ -1,0 +1,21 @@
+city: Concord
+country: United States
+description: Have witnessed footsteps, elevators starting on their own,papers and files being pushed off of desks, cold spots, every hair on the back of my neck raised, and that feeling that your not alone when you know that you are.
+location: Old State Mental Hospital
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.5588568
+latitude: 43.1838413
+city_longitude: -71.5375718
+city_latitude: 43.2081366
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1937/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 23m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bakersfield
+country: United States
+description: Westley Anderson Hall - There is a spirit of an older man that likes to play tricks on people. He will turn the stage lights off when people are on the stage but never during a performance where he just sits and observes. He also likes to whispers in peoples ears and rummage through the costumes in the costume loft. Also reported the figure of a 16/17 year old girl walking around the stage dressed in a '50s style outfit.
+location: Highland High school Theater
+state: California
+state_abbrev: CA
+longitude: -118.9321647
+latitude: 35.4007917
+city_longitude: -119.0187125
+city_latitude: 35.3732921
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

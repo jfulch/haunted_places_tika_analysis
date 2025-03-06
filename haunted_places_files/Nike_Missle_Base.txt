@@ -1,0 +1,21 @@
+city: Old Bridge
+country: United States
+description: It's rumored that the Nike US ARMY Base on Jake Brown Road off of Rt 9 is haunted. If you go down the long winding road, you come to an abandoned small group of houses. Everything is boarded up, but a constant mist is there no matter what day it is...
+location: Nike Missle Base
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.30942859999999
+latitude: 40.4173639
+city_longitude: -74.307282
+city_latitude: 40.4128551
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

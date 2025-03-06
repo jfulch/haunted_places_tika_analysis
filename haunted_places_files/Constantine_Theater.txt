@@ -1,0 +1,21 @@
+city: Pawhuska
+country: United States
+description: cowboys ghosts make the sounds of a bar room fight.
+location: Constantine Theater
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.3406867
+latitude: 36.6633583
+city_longitude: -96.3372309
+city_latitude: 36.6678426
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

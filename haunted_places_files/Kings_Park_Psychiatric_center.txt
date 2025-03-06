@@ -1,0 +1,21 @@
+city: King's Park
+country: United States
+description: Voices of patients who were tortured and died here years ago still today roam the hallways, screaming and crying. Many people who have visited the haunting hospital have seen many unexplained images.
+location: Kings Park Psychiatric center
+state: New York
+state_abbrev: NY
+longitude: -73.2361507
+latitude: 40.8957136
+city_longitude: -73.2573369
+city_latitude: 40.88620900000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

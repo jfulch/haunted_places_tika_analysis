@@ -1,0 +1,20 @@
+city: Renville
+country: United States
+description: One of the grave stones glows, in the spring for a short time the flowers that grow there bleed.
+location: Vicksburg Cemetery
+state: Minnesota
+state_abbrev: MN
+longitude: -95.2273836
+latitude: 44.6638109
+city_longitude: -95.2116731
+city_latitude: 44.7891264
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Petoskey
+country: United States
+description: Between the hours of ten p.m. and two a.m. You can see a man riding a three-wheel bicycle. He seems to be moving in slow motion, but when you pass him and look into your rear view mirror he is gone.
+location: Us. 31 hwy
+state: Michigan
+state_abbrev: MI
+longitude: -84.9586838
+latitude: 45.3747964
+city_longitude: -84.9553296
+city_latitude: 45.3733428
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1840/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

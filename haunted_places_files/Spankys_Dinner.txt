@@ -1,0 +1,21 @@
+city: Massena
+country: United States
+description: Spanky’s Dinner has a long history of paranormal activity, from seeing faces to having objects move. One person reported that her shoe laces were tied together while eating. The dishwasher reported seeing a male with a beard looking at him through a window. And a uneasy feeling when in the basement. It is reported that 7 spirits haunt the dinner. A lady in a nurses outfit a young child, a female with bad teeth, the man with the beard. and others. An investigation was done and some pictures were taken of Orbs (with faces). Some EVP's were heard. With the evidence collected it only adds to the claim of activity.
+location: Spanky’s Dinner
+state: New York
+state_abbrev: NY
+longitude: -74.893559
+latitude: 44.93486799999999
+city_longitude: -74.891865
+city_latitude: 44.9281049
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/10/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

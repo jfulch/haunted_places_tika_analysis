@@ -1,0 +1,21 @@
+city: Roswell
+country: United States
+description: Supposedly back in the days of the civil war this place was the Generals outpost. The upstairs was some kind of nursing station where they took some of the wounded to get help. The story goes something like, there was a soldier and a nurse who fell in love and got married, then the soldier was tried for some crime and was hung in the town square right across the street. So, they say that the soldier and the woman haunt the place today.
+location: The Public House Restaurant
+state: Georgia
+state_abbrev: GA
+longitude: -84.4228486
+latitude: 34.02841960000001
+city_longitude: -84.3615555
+city_latitude: 34.0232431
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Mist
+event_type: War
+witness_count: 0

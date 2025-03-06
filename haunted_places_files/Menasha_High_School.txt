@@ -1,0 +1,21 @@
+city: Menasha
+country: United States
+description: It is known that tunnels were built in the 1940's connecting Buette Des Mortes school and Menasha H.S. together incase of a Nuclear Attack. During a school drill four kids got locked in the tunnel while trying to ditch school. You can hear them screaming, pounding on the doors, and yelling for help.
+location: Menasha High School
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.4475269
+latitude: 44.2114468
+city_longitude: -88.44649729999999
+city_latitude: 44.2022084
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

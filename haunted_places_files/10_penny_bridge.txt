@@ -1,0 +1,21 @@
+city: Charlestown
+country: United States
+description: On tunnel mill road the bridge by a poor bum that died on the bridge, if you put 10 pennies on the bridge in a line and turn off your lights and car when u try to turn your car on, it wont start right away and your pennies will be missing or scattered all over the bridge.
+location: 10 penny bridge
+state: Indiana
+state_abbrev: IN
+longitude: -85.64150959999999
+latitude: 38.4831458
+city_longitude: -85.6702406
+city_latitude: 38.45312
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

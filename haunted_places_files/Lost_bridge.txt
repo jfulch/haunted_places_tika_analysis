@@ -1,0 +1,21 @@
+city: Killdeer
+country: United States
+description: Highway by Killdeer - On some nights people in car's drive by and there and cars break down and then they say a hoof man comes out or you see someone on or near the road
+location: Lost bridge
+state: North Dakota
+state_abbrev: ND
+longitude: -102.7615785
+latitude: 47.5961241
+city_longitude: -102.7540751
+city_latitude: 47.37195819999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

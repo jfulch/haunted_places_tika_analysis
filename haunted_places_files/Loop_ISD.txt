@@ -1,0 +1,21 @@
+city: Loop
+country: United States
+description: When at the school late at night you can hear desks moving, lockers shutting, and footsteps in the halls.
+location: Loop I.S.D.
+state: Texas
+state_abbrev: TX
+longitude: -102.4163505
+latitude: 32.9151533
+city_longitude: -102.4163505
+city_latitude: 32.9151533
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

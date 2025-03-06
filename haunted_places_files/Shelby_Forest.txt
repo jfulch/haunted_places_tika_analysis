@@ -1,0 +1,21 @@
+city: Shelby County
+country: United States
+description: there has been a man seen in the woods several times known as Pigman when approached he disappears he has a pig like face and others haunt this wooded area too. its only likely that you'll see pig man at night but carry a flashlight to see other strange things.
+location: Shelby Forest
+state: Tennessee
+state_abbrev: TN
+longitude: -90.0529372
+latitude: 35.335591
+city_longitude: -89.9253233
+city_latitude: 35.1268552
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1966/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

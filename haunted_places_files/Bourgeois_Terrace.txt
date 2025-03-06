@@ -1,0 +1,21 @@
+city: Westminster
+country: United States
+description: There has been reports of people walking in the sandpit late at night all alone with motorcycle helmets on. It has also been said that they moan when someone calls to them. Then they disappear
+location: Bourgeois Terrace
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.9632716
+latitude: 42.5324555
+city_longitude: -71.91063079999999
+city_latitude: 42.5459227
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

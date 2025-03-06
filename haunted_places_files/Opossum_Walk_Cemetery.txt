@@ -1,0 +1,21 @@
+city: Coal Hill
+country: United States
+description: You can go up to the gates in the middle of winter, and they will be hot to the touch. There is a trail that goes completely around the cemetery. When you walk it either in the night or day, you can hear somebody walking behind you. You can hear whispering and grunting. If you are lucky, you can see glimpses out of the corner of your eye of someone standing there looking straight at you, but when you turn to see who it is, there is no one there.
+location: Opossum Walk Cemetery
+state: Arkansas
+state_abbrev: AR
+longitude: -93.6581255
+latitude: 35.477102
+city_longitude: -93.6729697
+city_latitude: 35.4373073
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

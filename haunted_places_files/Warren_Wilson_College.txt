@@ -1,0 +1,21 @@
+city: Swannanoa
+country: United States
+description: Several locations on campus are haunted , Bannerman computer lab, the chapel, the old well on suicide ridge (although the name has nothing to do with an actual death), and one of the teacher houses on the right side of the chapel (you'd know it by the weird tree out front) are all haunted. The basement of Sunderland Dorm was once a slaughterhouse and many students and teachers have reported hearing cattle, smelling blood or meat, or even seeing cattle in the basement. There is also a power vortex on one of the paths that goes past the farm.
+location: Warren Wilson College
+state: North Carolina
+state_abbrev: NC
+longitude: -82.442286
+latitude: 35.611133
+city_longitude: -82.3998431
+city_latitude: 35.5978935
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

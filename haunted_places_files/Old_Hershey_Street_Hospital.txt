@@ -1,0 +1,21 @@
+city: Muscatine
+country: United States
+description: Some times you will be walking past the old hospital and the curtains will flutter or you might catch a glimpse of movement through the balcony. It was present during the civil war times and the owner says that sometimes he hears a stumble or a person limping at night.
+location: Old Hershey Street Hospital
+state: Iowa
+state_abbrev: IA
+longitude: -91.0546385
+latitude: 41.4357712
+city_longitude: -91.0432051
+city_latitude: 41.424473
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

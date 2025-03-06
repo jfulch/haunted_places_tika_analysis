@@ -1,0 +1,21 @@
+city: Paducah
+country: United States
+description: The spirit of a young woman named Della Barnes walks through this cemetery on certain nights. Documents claim she was accidentally poisoned by the doctor who was treating her for an illness. Legend has a different story though. Some people believe that her fiancée' murdered her in a fit of rage. He even went as far to cut off her left ring finger in order to retrieve the expensive engagement ring he had given her. There is also an iron-rod statue of an angel that is said to turn and face a different direction in the cemetery.
+location: Oak Grove Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -88.6220215
+latitude: 37.0862431
+city_longitude: -88.6000478
+city_latitude: 37.0833893
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

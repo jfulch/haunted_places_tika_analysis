@@ -1,0 +1,21 @@
+city: Beverly Hills
+country: United States
+description: According to the previous owners, there were at least two other ghosts who haunted the place as well. In the beautiful entry way was often seen a ghost who was thought to be Douglas Fairbanks.
+location: Pickfair Mansion
+state: California
+state_abbrev: CA
+longitude: -118.4012377
+latitude: 34.0922819
+city_longitude: -118.4003563
+city_latitude: 34.0736204
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

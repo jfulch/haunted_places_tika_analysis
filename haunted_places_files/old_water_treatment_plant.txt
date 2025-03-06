@@ -1,0 +1,21 @@
+city: Bay City
+country: United States
+description: white objects seen entering plant, very creepy feeling, some people who have went inside have came out frightened
+location: old water treatment plant
+state: Michigan
+state_abbrev: MI
+longitude: -83.8741012
+latitude: 43.6258078
+city_longitude: -83.8888647
+city_latitude: 43.5944677
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

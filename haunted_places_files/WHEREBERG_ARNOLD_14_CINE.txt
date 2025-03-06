@@ -1,0 +1,20 @@
+city: ARNOLD
+country: United States
+description: every since this place was built there was said to be an evil presence by everyone then and now. as the years past the most common things that have been reported are the following: during movies there are sudden bone chilling wind gusts that hit you from nowhere, people have felt an unseen thing touch them all over the movie theater, workers that come in at midnight to clean have seen shadows and ghostly figures traveling in the hallways and auditoriums, and last but not least reflections of bloody and disfigured people in the mirrors in the bathrooms.
+location: WHEREBERG ARNOLD 14 CINE
+state: Missouri
+state_abbrev: MO
+longitude: -90.3860432
+latitude: 38.4099595
+city_longitude: -90.3776187
+city_latitude: 38.4328317
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Boonville
+country: United States
+description: has footsteps that can be heard. During refurbishing, the footsteps could be heard, and when investigated, nothing found, even though there was dust and dirt on the floor, and foot prints would have been made, but no foot prints were found there.
+location: Kemper Military School and College (closed down)- C barracks
+state: Missouri
+state_abbrev: MO
+longitude: -92.7463245
+latitude: 38.9715405
+city_longitude: -92.7432418
+city_latitude: 38.9736392
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

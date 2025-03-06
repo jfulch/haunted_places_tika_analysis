@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: Supposedly, the now dry riverbed used to house a green "monster." This "monster" was reportedly seen on one occasion when it came up on the bridge and attacked the passenger of a car. Green residue was the only evidence left behind on this meet-and-greet with civilization.
+location: Riverside Bridge
+state: California
+state_abbrev: CA
+longitude: -117.3879232
+latitude: 33.9569357
+city_longitude: -117.3961564
+city_latitude: 33.9533487
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

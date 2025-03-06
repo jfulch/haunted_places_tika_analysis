@@ -1,0 +1,19 @@
+city: New Hope
+country: United States
+description: Some of the staff here at Odette's have seen a figure of a women that was supposed to have worked at the restaurant before it was named Odette's possible it was during the time it was the River House Restaurant the women was to have been murdered there, but we can't seem to find any accounts of a murder. Some the wait staff have not only seen figures but have also felt cold spots, their name called, and a scent of a strong perfume.
+location: Odette's Restaurant South River Rd
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -74.9512785
+city_latitude: 40.36427279999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

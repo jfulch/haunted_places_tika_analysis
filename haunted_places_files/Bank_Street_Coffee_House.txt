@@ -1,0 +1,20 @@
+city: New Milford
+country: United States
+description: Footsteps coming up the stairs from the basement, items moving on their own in the kitchen, shadowy figures and unexplained footsteps.
+location: Bank Street Coffee House
+state: Connecticut
+state_abbrev: CT
+longitude: -73.4125674
+latitude: 41.577517
+city_longitude: -73.4085463
+city_latitude: 41.5770433
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 0

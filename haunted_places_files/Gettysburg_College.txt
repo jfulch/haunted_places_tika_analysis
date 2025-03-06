@@ -1,0 +1,21 @@
+city: gettysburg
+country: United States
+description: Theta Chi Fraternity House - The story goes that a previous owner had hung themselves in the basement. The rumor is that if you see the ghost of the person hanging, something bad will happen to you or a member of your family. - There are stories of people seeing the ghost, and the next day relatives were killed in a car accident – this has not been proven true.
+location: Gettysburg College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.2375078
+latitude: 39.8362073
+city_longitude: -77.2310955
+city_latitude: 39.8309293
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

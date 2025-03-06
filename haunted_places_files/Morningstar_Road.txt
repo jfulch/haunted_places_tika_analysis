@@ -1,0 +1,20 @@
+city: Franklin
+country: United States
+description: Large scary road, has several J turns and if you look out into the field you can see orbs, and before you hit Chamberlain Road you will see a tall shadowy figure that walks slowly, and disappears as you pass it
+location: Morningstar Road
+state: Ohio
+state_abbrev: OH
+longitude: -84.35047039999999
+latitude: 39.5727407
+city_longitude: -84.30410739999999
+city_latitude: 39.5589474
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

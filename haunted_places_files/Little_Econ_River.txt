@@ -1,0 +1,21 @@
+city: Orlando
+country: United States
+description: Every October 13th a spirit of Christopher Klink appears under the bridge on Old Econ Rd. A light will flash under the bridge highlighting Killer Klink's tag which is written under the bridge. (Dated October 13, 1987.) It will get extremely cold, and the river will then flow the other direction. You will then see an image of Klink hanging from the bridge, and suddenly disappear. Then the water will start flowing back in its original direction.
+location: Little Econ River
+state: Florida
+state_abbrev: FL
+longitude: -81.2009222
+latitude: 28.6200536
+city_longitude: -81.3792365
+city_latitude: 28.5383355
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/10/13
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

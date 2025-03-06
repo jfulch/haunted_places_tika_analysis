@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: Reports have been made that you can see black shadows, red, or white orbs, scents of violet, or lavender at times. Pictures of ectoplasm mist can be seen through photography.
+location: Robinson Woods
+state: Illinois
+state_abbrev: IL
+longitude: -87.8532994
+latitude: 41.9650427
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

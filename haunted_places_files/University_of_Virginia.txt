@@ -1,0 +1,21 @@
+city: Wise
+country: United States
+description: Bowers-Sturgill - A young girl that committed suicide in what is currently Bowers-Sturgill Hall is said to be seen hanging from the pipes from which she hung herself.
+location: University of Virginia
+state: Virginia
+state_abbrev: VA
+longitude: -82.560716
+latitude: 36.970591
+city_longitude: -82.5757108
+city_latitude: 36.9759345
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/06/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

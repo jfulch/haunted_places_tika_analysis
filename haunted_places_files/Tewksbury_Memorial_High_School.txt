@@ -1,0 +1,21 @@
+city: Tewksbury
+country: United States
+description: There are plenty of reports of doors opening and closing on their own, strange noises, and moving objects. Many sightings have occurred late at night near the cafeteria, formerly the gym. This is caused by the lingering spirit of a cheerleader who died during a competition there. There is a cheerleading award named after her as well. In the D-hall corridor, the heating pipes move spontaneously, and make quite a ruckus. When passing by the cafeteria, many people have gotten cold sweats, chills, and other sorts of strange feelings.
+location: Tewksbury Memorial High School
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.2426079
+latitude: 42.6020617
+city_longitude: -71.23422479999999
+city_latitude: 42.6106478
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

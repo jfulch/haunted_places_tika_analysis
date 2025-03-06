@@ -1,0 +1,19 @@
+city: Rochester
+country: United States
+description: there are 3 different events that happen on this road all happen while people were running across this dark twisted road. The best one is the man that is upset by the deer population in is neighborhood and decides to take matters into his own hands. You can see him running across the road chasing the deer.
+location: Chritten Road
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -70.8452677
+city_latitude: 41.7549658
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1947/03/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

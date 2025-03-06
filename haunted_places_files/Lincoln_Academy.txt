@@ -1,0 +1,21 @@
+city: Kings Mountain
+country: United States
+description: Lincoln Academy was an all black school at the base of Crowder’s Mountain. The school is no longer standing but the story behind the area is a girl driving home to Atlanta was carjacked by two guys and they tired her to a large tree on the grounds of the old school. They savagely tired her to the tree with barbed wire and murdered her. The area has been known to be haunted by the spirit of the teenage girl.
+location: Lincoln Academy
+state: North Carolina
+state_abbrev: NC
+longitude: -81.28219709999999
+latitude: 35.24735769999999
+city_longitude: -81.34119419999999
+city_latitude: 35.2451342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1809/02/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

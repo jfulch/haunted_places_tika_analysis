@@ -1,0 +1,21 @@
+city: Montverde
+country: United States
+description: Magnolia Creek Lane where all kinds of horrible things happened there in the late 1800's. A train crashed 200 people died. Many ghostly activities and noises occur.
+location: Magnolia Creek Lane
+state: Florida
+state_abbrev: FL
+longitude: -81.68477089999999
+latitude: 28.56534
+city_longitude: -81.673964
+city_latitude: 28.6002769
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1985/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

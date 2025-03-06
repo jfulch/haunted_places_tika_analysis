@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: Memorial Union is supposedly built on an Indian burial ground. The 2nd floor of the building is haunted. Right before walking down the stairs to the pool hall, an old lady was seen, dressed in clothes from the 1800's, standing at the top of the stairs leading from the first to the second floor, at second glance she disappears. Also, if brave enough to venture to the 2nd floor a strange feeling of not being alone will overcome you, and clocks and watches will spin out of control.
+location: Memorial Union
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.3996951
+latitude: 43.07618470000001
+city_longitude: -89.4012302
+city_latitude: 43.0730517
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

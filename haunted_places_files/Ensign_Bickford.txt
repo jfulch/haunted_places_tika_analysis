@@ -1,0 +1,20 @@
+city: Simsbury
+country: United States
+description: IN the north end of ensign Bickford there is a row of buildings that are reported to be haunted by an older worker of the plant. NO one is sure of his past but he makes himself Known every once in a while, cold spots and sounds ALWAYS accompany his arrival, also a white mist is seen there many times at night.
+location: Ensign Bickford
+state: Connecticut
+state_abbrev: CT
+longitude: -72.80572529999999
+latitude: 41.8681185
+city_longitude: -72.82791499999999
+city_latitude: 41.8540094
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

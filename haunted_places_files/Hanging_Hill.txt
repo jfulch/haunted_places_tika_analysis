@@ -1,0 +1,19 @@
+city: Henry
+country: United States
+description: this is a hill where hangings used to take place. there is a tree branch that stretches across the road where the hangings occurred. park under the branch, turn the vehicle off, and turn the light out, and you will witness a light in the distance. That is the people that are coming to watch the hanging.
+location: Hanging Hill
+state: Tennessee
+state_abbrev: TN
+city_longitude: -88.4197705
+city_latitude: 36.2039488
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Danville
+country: United States
+description: Danville Museum, aka. The Sutherlin Mansion. This was the last capitol of the confederacy. Jefferson Davis spent hours staring out the window of the parlor, after he heard the news of the surrender of the confederacy. To this day, you can take tours through the mansion, but the real tour is at night. You can hear foot steps, hear a young girl moan, see a young woman in mirrors, and smell cigar smoke.
+location: The Danville Museum
+state: Virginia
+state_abbrev: VA
+longitude: -79.40007200000001
+latitude: 36.58099199999999
+city_longitude: -79.39502279999999
+city_latitude: 36.5859718
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

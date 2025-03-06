@@ -1,0 +1,19 @@
+city: Austell
+country: United States
+description: a pale figure rides a horse late at night and will chase you to a certain point.
+location: railroad tracks of Thornton Rd
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.6343783
+city_latitude: 33.8126059
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,18 @@
+city: Shunk
+country: United States
+description: It is said that if you cross the bridge coming from Malinta at night, a ghostly Indian warrior can be seen riding a white stallion along the creek to the right of the bridge. He protects $40,000 in gold that is supposedly buried along the south bank of the creek. Those who look for the treasure have reported being trampled by the specter horse.
+location: Turkeyfoot Creek Bridge
+state: Ohio
+state_abbrev: OH
+city_longitude: -84.0388341
+city_latitude: 41.3636618
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

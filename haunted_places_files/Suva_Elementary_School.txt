@@ -1,0 +1,21 @@
+city: Bell Gardens
+country: United States
+description: People have reported there names being called in one of the bathrooms, also they say you can see a little girl riding on one swing always the same one once a person got thrown off the swing and crashed in the fence behind him.
+location: Suva Elementary School
+state: California
+state_abbrev: CA
+longitude: -118.1418625
+latitude: 33.9674632
+city_longitude: -118.1514588
+city_latitude: 33.9652918
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

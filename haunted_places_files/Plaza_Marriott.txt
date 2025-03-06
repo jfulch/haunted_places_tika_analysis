@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: The Lady has been at this hotel for years. The hotel property includes 4 buildings on the Historic Register, and The Lady was believed to be the widow of the owner of one of these buildings. She hung herself and her cat in what is now the exercise facility (was her home, specifically the "front room" or "living room"). Now she can be seen on the upper levels of the main hotel building usually in a long white dress or nightdress, and holding her cat, stroking its head. She has been seen in the employee corridors in the basement, and standing among the trees in the garden. Lights come on and off occasionally with no warning and no reason, and drawers at the front desk have a tendency of opening by themselves.
+location: Plaza Marriott
+state: Texas
+state_abbrev: TX
+longitude: -98.4889203
+latitude: 29.4188902
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1993/07/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

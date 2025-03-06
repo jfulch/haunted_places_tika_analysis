@@ -1,0 +1,21 @@
+city: Sistersville
+country: United States
+description: Guests and staff report the sounds of writing in his former 2nd floor office and apartment, footsteps down the halls and through its obscure passages, occasionally a door that opens or closes, and a chill presence.
+location: The Wells Inn
+state: West Virginia
+state_abbrev: WV
+longitude: -80.9967125
+latitude: 39.5630753
+city_longitude: -80.9959404
+city_latitude: 39.564242
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1948/02/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

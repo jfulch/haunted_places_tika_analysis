@@ -1,0 +1,21 @@
+city: Spokane
+country: United States
+description: people have reported seeing shadowy figures and multiple electronic disturbances. Also, one woman reported hearing a little girl’s laughter.
+location: Carlyle care center
+state: Washington
+state_abbrev: WA
+longitude: -117.4237332
+latitude: 47.6542106
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

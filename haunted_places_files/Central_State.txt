@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: A phantom man on a tall black horse has been sighted.
+location: Central State
+state: Kentucky
+state_abbrev: KY
+longitude: -85.5577636
+latitude: 38.2718652
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

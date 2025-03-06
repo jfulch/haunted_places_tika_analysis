@@ -1,0 +1,21 @@
+city: Buffalo
+country: United States
+description: A husband & wife who were archaeologists, went on a dig at Grand Island in the early 1970s through SUNY Buffalo.  First, they said there was a terrible vibe between the people on the team, who were normally good friends. People were making bad decisions and snapping at each other and acting completely unlike themselves. Then, when everyone sat down for lunch, they all heard growls coming from the surrounding woods. The couples were experienced with life outdoors even then and they both said it was not the growl of any animal native to western NY. The growling seemed to surround them and things rustled in the trees.  They all packed up and left. My parents told me that there are a lot of Native American spirits there, possibly a burial site.
+location: Grand Island
+state: New York
+state_abbrev: NY
+longitude: -78.891497
+latitude: 42.95799299999999
+city_longitude: -78.8783689
+city_latitude: 42.88644679999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

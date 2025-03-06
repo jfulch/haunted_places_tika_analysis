@@ -1,0 +1,21 @@
+city: Los Alamos
+country: United States
+description: The auditorium is the dwelling place of the two most frequently seen ghosts in the school. During a performance one night back in the 50's a girl fell from the spiral staircase above the stage. She died and is said to push people off of the staircase by a huge gust of cold air. Another ghost is of a girl that had a heart attach in the 5th seat from the left in the front row. Whenever somebody sits in this seat they can feel her presence through cold air and a sad, uneasy feeling.
+location: Los Alamos High School
+state: New Mexico
+state_abbrev: NM
+longitude: -106.3169537
+latitude: 35.8861078
+city_longitude: -106.3031138
+city_latitude: 35.8800364
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

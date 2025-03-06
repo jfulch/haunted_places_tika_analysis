@@ -1,0 +1,19 @@
+city: Wichita Falls
+country: United States
+description: At night doors opening and closing and footsteps in the hallways. An apparition of a "nurse in a white dress with the old nurses cap on" checking on the patients, Security guards have reported a hand on their shoulder but when they turned to look, no one was there. Cold spots where also noted.
+location: North Texas State Hospital "M" Building
+state: Texas
+state_abbrev: TX
+city_longitude: -98.4933873
+city_latitude: 33.9137085
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

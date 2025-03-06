@@ -1,0 +1,21 @@
+city: Woburn
+country: United States
+description: Two Native American ghosts seen traveling through old parts of Horn Pond. Haunting Horn Pond trying to keep people out of their land.
+location: Horn Pond
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.1582197
+latitude: 42.4702341
+city_longitude: -71.1522765
+city_latitude: 42.4792618
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

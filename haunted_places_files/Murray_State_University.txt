@@ -1,0 +1,21 @@
+city: Murray
+country: United States
+description: Hester Hall - In 1998 there was a fire in Hester hall at Murray state university. A young man was purposely trapped in his room and perished in the fire. The room was room 402. The dorm reopened the following and only incoming freshmen were placed on the floor. Former resident claims Room 402 always had a scary presence about it and standing outside the door one felt watched. The room was kept empty and like all empty rooms it was supposed to be locked yet often if you walked up to the door it would be unlocked and even slightly opened on several occasions they with entered the room and closed the door it would open on its own. In room 406 you could on some nights hear a scratching sound on the door and if you opened it nothing would be there. The story is that the young man had escaped his room and was found dead of smoke inhalation out side of the hallway to the elevator 406 was across from this hallway.
+location: Murray State University
+state: Kentucky
+state_abbrev: KY
+longitude: -88.3214979
+latitude: 36.6163842
+city_longitude: -88.31476099999999
+city_latitude: 36.6103334
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1998/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

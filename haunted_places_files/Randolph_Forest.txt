@@ -1,0 +1,19 @@
+city: Randolph
+country: United States
+description: you see orbs and hear voices trying to talk to you. It will send cold chills down your body. It is said that Randolph was a plantation before the Missouri compromise. It is possible that the forest is one of the most haunted places in central Maine.
+location: Randolph Forest
+state: Maine
+state_abbrev: ME
+city_longitude: -69.7666546
+city_latitude: 44.2306461
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1743/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 21m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

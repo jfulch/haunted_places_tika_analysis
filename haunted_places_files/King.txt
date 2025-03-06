@@ -1,0 +1,21 @@
+city: Stokes
+country: United States
+description: Chestnut Grove Middle School - 20 years ago, while working, a janitor had a heart attack and died. Teachers say that when you are there alone you can hear him sweeping the halls and walking.
+location: King
+state: North Carolina
+state_abbrev: NC
+longitude: -80.3592197
+latitude: 36.2806939
+city_longitude: -80.23213129999999
+city_latitude: 36.4244396
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2012/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

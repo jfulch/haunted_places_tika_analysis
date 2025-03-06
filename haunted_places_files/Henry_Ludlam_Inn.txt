@@ -1,0 +1,19 @@
+city: Dennisville
+country: United States
+description: strange sounds and events occur here.
+location: Henry Ludlam Inn
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -74.8252048
+city_latitude: 39.1931625
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

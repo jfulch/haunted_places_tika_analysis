@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: The apartment is pretty old. At least four people in the building have seen an apparition in the sauna (in the weight room), and all four times it has been described as disappearing once the person entered the room. The light is in the room, so you have to actually enter to turn it on, and beforehand you could easily mistake a ghost inside as being another person. Knockings in the 300 series have been heard.
+location: Devonshire Square Apartments
+state: Colorado
+state_abbrev: CO
+longitude: -104.7775347
+latitude: 38.849203
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Lucasville
+country: United States
+description: One night we were sitting in the hallway a lady and gentleman came down the hall. We got up to ask who they were and the just floated into the wall we were told that they were former owners.
+location: Edge Wood Nursing Home
+state: Ohio
+state_abbrev: OH
+longitude: -83.04294800000001
+latitude: 38.922203
+city_longitude: -82.99684189999999
+city_latitude: 38.879518
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

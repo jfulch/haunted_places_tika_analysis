@@ -1,0 +1,21 @@
+city: Billings
+country: United States
+description: There is a large mirror above the front door along the whole wall so that employees can see customers in the store and when other employees need help. Sometimes employees can see people in the store but when they go out to the store floor to greet them, they disappear.
+location: Small grocery store in downtown neighborhoods
+state: Montana
+state_abbrev: MT
+longitude: -108.5083298
+latitude: 45.7878299
+city_longitude: -108.5006904
+city_latitude: 45.7832856
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 18m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

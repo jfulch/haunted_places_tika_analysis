@@ -1,0 +1,21 @@
+city: Coral Springs
+country: United States
+description: Around midnight you can hear shouting and moaning around where Burdines when the lights are all out. Other employees have reported seeing things move fast in the dark. And some sightings of a small boy have been seen.
+location: Coral Square Mall
+state: Florida
+state_abbrev: FL
+longitude: -80.2491254
+latitude: 26.2414005
+city_longitude: -80.2706044
+city_latitude: 26.271192
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

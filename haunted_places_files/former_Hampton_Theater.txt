@@ -1,0 +1,21 @@
+city: Rochester Hills
+country: United States
+description: No longer a theater, supposedly a man was killed during the construction of the theater. Employees reported occasional flickering of lights, whispering, drafts, and doors slamming, with some disturbances in the projection equipment in the after-hours.
+location: former Hampton Theater
+state: Michigan
+state_abbrev: MI
+longitude: -83.12742159999999
+latitude: 42.6416871
+city_longitude: -83.1499322
+city_latitude: 42.65836609999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

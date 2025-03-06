@@ -1,0 +1,20 @@
+city: Meridian
+country: United States
+description: This antebellum home is haunted by 2 spirits. One is of a man who committed suicide in one of the back bedrooms. His heavy footsteps can still be heard from that upstairs bedroom. The other spirit is of a young lady. Although never linked to the house, she started making appearances when an antique photo was placed in the house for display. Late at night her ghost can be seen from an upstairs bedroom either glowing or holding a candle.
+location: Merrehope
+state: Mississippi
+state_abbrev: MS
+longitude: -88.7100117
+latitude: 32.3664132
+city_longitude: -88.703656
+city_latitude: 32.3643098
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

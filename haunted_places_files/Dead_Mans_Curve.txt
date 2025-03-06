@@ -1,0 +1,19 @@
+city: Warren County
+country: United States
+description: A few miles east of Monmouth, Illinois, on the original Highway 34, there is a curve that has been the sight of a few car accidents. A midpoint of the curve, there is a tree that a few cars have been wrapped around. The tree is supposed to move without the help of the wind, almost as if it is trying to cause another accident.
+location: Dead Man's Curve
+state: Illinois
+state_abbrev: IL
+city_longitude: -90.6773046
+city_latitude: 40.8758777
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

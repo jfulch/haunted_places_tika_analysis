@@ -1,0 +1,21 @@
+city: Banana Bend
+country: United States
+description: One of the stories is that a man was murdered on Grace Lane and he could be seen and felt in the vacant lot where he used to live in his fifth wheel trailer. Witnesses claim when going to the vacant lot and going into the trailer and feeling cold and despair and had to get out of there fast. Another version of this story is that the man was not murdered, but that he committed suicide.
+location: subdivision off the San Jacinto River
+state: Texas
+state_abbrev: TX
+longitude: -95.0969855
+latitude: 29.8439628
+city_longitude: -95.0969855
+city_latitude: 29.8439628
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

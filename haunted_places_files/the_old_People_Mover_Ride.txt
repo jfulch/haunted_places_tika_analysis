@@ -1,0 +1,21 @@
+city: Disneyland
+country: United States
+description: Reports of operating, girls (especially those with long blonde hair) would sometimes feel an unseen someone pull viciously at their hair. The boy died a few years ago on a Grad Night when he jumped out of the cabin of the People Mover, got caught and dragged underneath the car. He grabbed desperately at his girlfriends long blond hair to save himself.
+location: the old "People Mover Ride"
+state: California
+state_abbrev: CA
+longitude: -117.9189742
+latitude: 33.8120918
+city_longitude: -117.9189742
+city_latitude: 33.8120918
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

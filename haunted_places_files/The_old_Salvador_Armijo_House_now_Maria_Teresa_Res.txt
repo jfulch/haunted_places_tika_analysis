@@ -1,0 +1,21 @@
+city: Albuquerque
+country: United States
+description: This house dates back to 1840, and has been occupied in one form or the other up to the present. Various staff members of this restaurant have shared personal experiences of voices, noises, and sensations of being touched by unknown entities after hours. A great place to visit and ask questions. To those that haven't quit or are willing to share.
+location: The old Salvador Armijo House, now "Maria Teresa" Restaurant
+state: New Mexico
+state_abbrev: NM
+longitude: -106.669414
+latitude: 35.1000579
+city_longitude: -106.6055534
+city_latitude: 35.0853336
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 34m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

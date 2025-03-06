@@ -1,0 +1,21 @@
+city: Omaha
+country: United States
+description: There is a hallway by the south doors where the janitors had a smoking room downstairs. One-day student snuck down there to smoke a cigarette. He smoked his cigarette and was on his way out. There was told to be a puddle of water by the door and he slipped and hit his head. He died instantly. It's shut off to students and personal now but if you walk down that hallway you'll smell stale cigarette smoke and hear a crashing sound underneath you.
+location: Millard North High
+state: Nebraska
+state_abbrev: NE
+longitude: -96.1410999
+latitude: 41.2503779
+city_longitude: -95.9979883
+city_latitude: 41.2523634
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

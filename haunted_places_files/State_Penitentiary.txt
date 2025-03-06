@@ -1,0 +1,21 @@
+city: Marshall County
+country: United States
+description: This facility was once one of the most violent jails that ever existed. It was condemned and shut down in 1995, and now claims to be the most paranormal site on the East Coast. This place is haunted by former inmates, and in this place you can see lights going off, and sometimes you can hear laughing, and as well as iron doors shutting, by themselves. Witnesses have reported hearing footsteps walking up stairs in areas without stairs, the appearance of mysterious formations, and many other horrifying experiences. The spirits are believed to be those of past prisoners.
+location: State Penitentiary
+state: West Virginia
+state_abbrev: WV
+longitude: -80.7426634
+latitude: 39.9167305
+city_longitude: -80.6770787
+city_latitude: 39.8926818
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1995/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

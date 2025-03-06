@@ -1,0 +1,21 @@
+city: Jamestown
+country: United States
+description: A young girl (age 5-7) is occasionally seen walking up and down the 2nd floor hall late at night. There have also been many strange occurrences in a 1st floor room such as bottles flying off dressers, posters being ripped off the walls, and doors slamming shut.
+location: Watson Hall
+state: North Dakota
+state_abbrev: ND
+longitude: -98.6984362
+latitude: 46.9130276
+city_longitude: -98.7084357
+city_latitude: 46.9105438
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

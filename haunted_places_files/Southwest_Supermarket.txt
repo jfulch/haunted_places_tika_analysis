@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: 35th Avenue and McDowell - - Update: Burned down March 14, 2001, when firefighter Bret Tarver was killed in the line of duty. - There are reports of strange lights, and object moving by themselves.
+location: Southwest Supermarket
+state: Arizona
+state_abbrev: AZ
+longitude: -112.059738
+latitude: 33.509517
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2001/03/14
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

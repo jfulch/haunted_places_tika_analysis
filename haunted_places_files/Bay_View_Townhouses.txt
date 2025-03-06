@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: Rumors of it built on top of a Indian burial. Said to have seen a little girl in white at the basketball court. Hear little girl crying for her mom late at night. Said to have seen shadows but nothing there.
+location: Bay View Townhouses
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.3971868
+latitude: 43.0667281
+city_longitude: -89.4012302
+city_latitude: 43.0730517
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

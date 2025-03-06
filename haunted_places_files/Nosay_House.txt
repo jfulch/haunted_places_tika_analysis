@@ -1,0 +1,21 @@
+city: South Mills
+country: United States
+description: The Nosay House was once a hospital during the Battle Of Shiloh during the Civil War. Slaves were kept under the house. It is said that the house can be painted and blood will seep through the walls.
+location: Nosay House
+state: North Carolina
+state_abbrev: NC
+longitude: -76.2734413
+latitude: 36.4017862
+city_longitude: -76.3278528
+city_latitude: 36.444585
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

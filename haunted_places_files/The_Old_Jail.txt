@@ -1,0 +1,19 @@
+city: West Shreveport
+country: United States
+description: a.k.a. - The Pea Farm - The Old Jail is covered by woods and located on W.70th street about 2 miles from Watertown. It has been said to here moans and cries. There are many dark corners and rooms that you cannot see in. They believe that a murder happened in the kitchen. There is also a basement that has an old hand-crank electric chair in it. A few yards away is the female jail that seems to have an upper story but no way to get up there. The female jail is the most haunted due to beatings and killings of the prisoners.
+location: The Old Jail
+state: Louisiana
+state_abbrev: LA
+city_longitude: -93.7501789
+city_latitude: 32.5251516
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Gainseville
+country: United States
+description: There are two parts of this Bed and Breakfast. The pink house and the blue house. It used to be an old plantation of the family. Many people claim that the old blue house attic rooms have a spirit. Many claimed to be sleeping and have a heavy feeling on their chest. Also, the maids that clean the rooms experienced an old bureau having its door open and close. There is a scary feeling in those rooms. Even the owners claim to have seen an image in the window of the third floor.
+location: Sweet Water Bed and Breakfast Inn
+state: Florida
+state_abbrev: FL
+longitude: -82.31852549999999
+latitude: 29.6516022
+city_longitude: -82.32482619999999
+city_latitude: 29.6516344
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Thackerville
+country: United States
+description: Browns Springs is a very widely known in and around Thackerville for people from Texas dropping off dead body's there in the spring up one of the hills is also an abandoned cemetery that is from the 1800's when you go up there and listen you cant hear anything it is dead silence no birds or insects just silence. It is said that on a tour to the springs a girl was pulled to a grave site by something that wasn’t there. There has also been sightings of trees bleeding and sightings of a little girl standing by the headstone marked "Butch".
+location: Brown Springs
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.110971
+latitude: 33.727861
+city_longitude: -97.143068
+city_latitude: 33.7934373
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

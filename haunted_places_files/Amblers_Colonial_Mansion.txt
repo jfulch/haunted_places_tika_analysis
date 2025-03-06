@@ -1,0 +1,21 @@
+city: Jamestown
+country: United States
+description: a very angry ghost named Lydia Ambler haunts her former home.
+location: Amblers' Colonial Mansion
+state: Virginia
+state_abbrev: VA
+longitude: -76.7746671
+latitude: 37.2077368
+city_longitude: -76.7752102
+city_latitude: 37.2116383
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

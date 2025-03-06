@@ -1,0 +1,21 @@
+city: Waynesboro
+country: United States
+description: A little girl hung herself from the swing set there about 25 years ago. She killed herself because she was tired of the other little girls and boys picking on her and constantly talking behind her back. It's said to this day if you go to the park and sit on the swings and say anything bad about another person, you will be chased away from the park, hear footsteps in the woods behind that park, and hear a little girl sobbing.
+location: Sheffield Manor Park
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.5672204
+latitude: 39.7628959
+city_longitude: -77.57776919999999
+city_latitude: 39.755927
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

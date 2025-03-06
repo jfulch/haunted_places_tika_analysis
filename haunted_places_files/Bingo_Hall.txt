@@ -1,0 +1,21 @@
+city: Humble
+country: United States
+description: It has been said around the town that the workers of The Bingo Hall see a girl dressed in grey appear upstairs walking around.
+location: Bingo Hall
+state: Texas
+state_abbrev: TX
+longitude: -95.2663515
+latitude: 30.001903
+city_longitude: -95.2621553
+city_latitude: 29.99883119999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1929/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

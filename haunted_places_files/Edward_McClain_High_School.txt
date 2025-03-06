@@ -1,0 +1,20 @@
+city: Greenfield
+country: United States
+description: The high school was built in the late 1800's. Mr. McClain wanted the Marble Senior Staircase. Mrs. McClain wanted to add a chandelier. He never put a chandelier there. So after her death, the image of a big, beautiful, chandelier can be seen at nighttime through the window of the second floor. There is no chandelier in this room, but it can be seen. It is above the front entrance on the Sixth Street side of the school.
+location: Edward McClain High School
+state: Ohio
+state_abbrev: OH
+longitude: -83.38853379999999
+latitude: 39.3508473
+city_longitude: -83.38269280000002
+city_latitude: 39.3520084
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

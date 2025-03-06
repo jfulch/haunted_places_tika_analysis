@@ -1,0 +1,21 @@
+city: Livermore
+country: United States
+description: Supposedly, a class of children were taking a field trip. On the way, the bus broke down. Everyone got out of the bus and tried pushing it. The bus then rolled backwards and crushed all the students. Now, if you go to the marker(157) put your car in neutral the students try to push you. While they push you their finger prints appear on your car and you hear footsteps on the gravel beneath.
+location: Paterson's Pass
+state: California
+state_abbrev: CA
+longitude: -121.6660364
+latitude: 37.6899307
+city_longitude: -121.7680088
+city_latitude: 37.6818745
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Matthews
+country: United States
+description: This is an abandoned ghost town where strange things have occurred. When you go by the Elizabeth Town sign, you can see a woman dressed in solid black staring at you. At the cemetery, called Olive Branch, you can hear strange noises and see ghostly shadows.
+location: Elizabeth Town
+state: Indiana
+state_abbrev: IN
+longitude: -80.6566667
+latitude: 35.1151302
+city_longitude: -85.4994167
+city_latitude: 40.38865310000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

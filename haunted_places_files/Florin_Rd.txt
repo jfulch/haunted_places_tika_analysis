@@ -1,0 +1,21 @@
+city: Sacramento
+country: United States
+description: Burger King - A gunman walked in during a busy lunch hour and shot the store manager and turned the gun on himself. It is believed that on certain late night shifts the people working can hear gunshots and screams as if the spirits involved are reenacting the event.
+location: Florin Rd.
+state: California
+state_abbrev: CA
+longitude: -121.3925744
+latitude: 38.4961047
+city_longitude: -121.4943996
+city_latitude: 38.5815719
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1953/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Sacramento
+country: United States
+description: Reports of several apparitions including a couple dressed in black, a pit bull who follows visitors around the cemetery and suddenly disappears (no animals are allowed inside the gates), and a little girl seen playing near the headstone of a deceased child. The cemetery is closed at night except for occasional guided tours and is well known for its numerous hauntings.
+location: Sacramento City Cemetery
+state: California
+state_abbrev: CA
+longitude: -121.5012022
+latitude: 38.562152
+city_longitude: -121.4943996
+city_latitude: 38.5815719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

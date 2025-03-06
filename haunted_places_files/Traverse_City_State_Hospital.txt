@@ -1,0 +1,21 @@
+city: Traverse City
+country: United States
+description: The Hippie Tree -  A rumor of a gate to hell is open somewhere near the "hippie tree". Strange feeling are felt here. -  A WARNING TO ALL THAT INVESTIGATE THE AREA. TRESSPASSERS ARE NOT ALLOWED. THERE IS A SECURITY SERVICE THAT WILL ESCORT YOU OFF THE PREMISES IF FOUND.
+location: Traverse City State Hospital
+state: Michigan
+state_abbrev: MI
+longitude: -85.64321439999999
+latitude: 44.75636129999999
+city_longitude: -85.62063169999999
+city_latitude: 44.7630567
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

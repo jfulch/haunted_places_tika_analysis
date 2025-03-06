@@ -1,0 +1,21 @@
+city: Waterloo
+country: United States
+description: There are three ghost stories here,  One is that me and my friends were playing in the band room and we saw a black little girl running into a shed where we store our instruments.  We know we saw something because a hall pass flew down from where we saw the figure.  THe second story is the one about locker 61.  They saw that a little girl around seven was shoved in there by her drunk sisters and left there to die.  The handle to the locker was broken of when we first heard about it.  A couple hours later a teacher opened it and there was all of the books.  The last thing in that they say that a scientists was doing an experiment and he blew him-self up.  Now we the girls play four-square and hear strange noises and the lights flicker on and off every now and then.
+location: Waterloo Middle school
+state: Nebraska
+state_abbrev: NE
+longitude: -96.342893
+latitude: 41.309604
+city_longitude: -96.2880569
+city_latitude: 41.28727809999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

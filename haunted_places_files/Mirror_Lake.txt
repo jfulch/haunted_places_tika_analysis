@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: Ohio State - There was a student who drowned in Mirror Lake at Ohio State University back in the sixties. Every once in a while at night, there are sounds of water splashing and a guy screaming...but there is no one there.
+location: Mirror Lake
+state: Ohio
+state_abbrev: OH
+longitude: -83.0142329
+latitude: 39.9979975
+city_longitude: -82.99879419999999
+city_latitude: 39.9611755
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1852/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

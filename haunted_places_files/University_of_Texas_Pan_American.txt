@@ -1,0 +1,21 @@
+city: Edinburg
+country: United States
+description: Troxxel Hall Dormitories - Legend has that a girl got pregnant by a guy who took her as a one-night stand but she thought he really liked her. Well when she found out that she was pregnant she attempted to give herself an abortion in her dorm room, she didn't think she could so she committed suicide. Some student living at Troxxel say that at night sometimes they hear knocking on a certain door.
+location: University of Texas Pan American
+state: Texas
+state_abbrev: TX
+longitude: -98.17476990000002
+latitude: 26.3069259
+city_longitude: -98.1633432
+city_latitude: 26.3017374
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

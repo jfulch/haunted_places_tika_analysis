@@ -1,0 +1,21 @@
+city: Coral Springs
+country: United States
+description: A nurse that used to work in the hospital had a deadly incident and was hospitalized with in the hospital and later died in it. Now she has been seen in the halls just in front of the main elevators for visitors and at night she often opens the doors for people when they are walking towards it without them pushing the button.
+location: Coral Springs Medical Center
+state: Florida
+state_abbrev: FL
+longitude: -80.2557415
+latitude: 26.2685807
+city_longitude: -80.2706044
+city_latitude: 26.271192
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

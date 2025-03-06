@@ -1,0 +1,21 @@
+city: Carson
+country: United States
+description: a man that was stabbed to death around his mobile home, is said to be seen walking around between 10:00 & before midnight.
+location: NW corner of Pacific St. and Banning Blvd.
+state: California
+state_abbrev: CA
+longitude: -118.2601418
+latitude: 33.8068234
+city_longitude: -118.281693
+city_latitude: 33.8316745
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

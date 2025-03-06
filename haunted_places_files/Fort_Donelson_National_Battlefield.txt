@@ -1,0 +1,21 @@
+city: Dover
+country: United States
+description: Cemetery - haunted by the ghost of Civil War infantryman Reuben Hammond, who is buried there. Reuben believes his job is to stand watch and make sure his dead comrades are safe. He's also very lonely and sad because no one talks to him. Even if you can't see him, just a simple greeting makes his day (or eternity, as it were). He'll follow you around for a while because he is just so glad of your company, and will wave from the top of the cemetery as you leave. His name is listed in the records at the Surrender House. We knew of him because he called out his name as we pulled up to park the car.
+location: Fort Donelson National Battlefield
+state: Tennessee
+state_abbrev: TN
+longitude: -87.85695249999999
+latitude: 36.4953082
+city_longitude: -87.83835669999999
+city_latitude: 36.4878291
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

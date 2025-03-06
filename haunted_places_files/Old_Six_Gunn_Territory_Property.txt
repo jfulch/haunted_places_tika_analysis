@@ -1,0 +1,19 @@
+city: Silver Springs
+country: United States
+description: Once the land, which now is filled partially by a shopping center, was the location of "Six Gunn Territory" a attraction which lasted many years. On this site 2 tourists were killed, both accidentally. It is said at certain times screams are heard and upon investigation, nothing is found. Some remains of the rail-road which visitors would ride can still be located among a heavily wooded area. The rail car was a factor in one of the deaths. The park was closed in the early 80's.
+location: Old Six Gunn Territory Property
+state: Florida
+state_abbrev: FL
+city_longitude: -82.05614249999999
+city_latitude: 29.2180314
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Murder
+witness_count: 0

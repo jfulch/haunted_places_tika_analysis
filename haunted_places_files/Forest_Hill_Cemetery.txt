@@ -1,0 +1,21 @@
+city: Wisconsin Rapids
+country: United States
+description: Employees have seen strange apparitions, and have heard babies crying in the baby section. Faint voices call your name. On the hill there is a monument that causes machine failure.
+location: Forest Hill Cemetery
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.80424939999999
+latitude: 44.4008932
+city_longitude: -89.8173465
+city_latitude: 44.38357630000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Warrenton
+country: United States
+description: Battery Russell - The bike path is haunted by a man in his twenties holding a flashlight looking for enemy soldiers. The Battery itself is also haunted, strange sounds can be heard in the deep dark places that go into the hillside. And cold spots are everywhere. The bunkers on the far hill are also haunted. Supposedly by a menacing figure in fatigues holding a large knife. Very creepy place to be even in daylight.
+location: Stevens State Park
+state: Oregon
+state_abbrev: OR
+longitude: -123.9797348
+latitude: 46.1982204
+city_longitude: -123.9237557
+city_latitude: 46.1651049
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

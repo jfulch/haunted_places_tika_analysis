@@ -1,0 +1,21 @@
+city: Red Creek
+country: United States
+description: A construction worker was killed during the building of the new gymnasium. It is said that he can be heard roaming through the gym.
+location: Red Creek Central School
+state: New York
+state_abbrev: NY
+longitude: -76.7161819
+latitude: 43.2398687
+city_longitude: -76.72356359999999
+city_latitude: 43.24728899999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1935/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

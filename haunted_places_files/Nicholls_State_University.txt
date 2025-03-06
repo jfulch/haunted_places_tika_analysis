@@ -1,0 +1,21 @@
+city: Thibodaux
+country: United States
+description: Ellender Dormitory - In past years there was an alleged suicide of a student who threw herself out of a window from one of the top floors in the dorm. There have been strange occurrences since including flickering lights, moved objects, scratching, electronic difficulties including appliances working while turned off and walls shaking. There are no records to be found of any suicide at the University since its beginning in 1948. There are other alleged incidences which might come from the fact that the University is built on the same grounds as a Civil War Hospital and the area where the Confederates retreated after the Lafourche Crossing Battle.
+location: Nicholls State University
+state: Louisiana
+state_abbrev: LA
+longitude: -90.8028602
+latitude: 29.7907423
+city_longitude: -90.822871
+city_latitude: 29.7957633
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1948/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: War
+witness_count: 0

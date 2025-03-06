@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: Witnesses report flashing lights, the scream of a man, and was chased by an unseen force.
+location: Cherokee Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -85.7276852
+latitude: 38.2448023
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

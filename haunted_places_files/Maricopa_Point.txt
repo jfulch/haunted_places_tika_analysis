@@ -1,0 +1,21 @@
+city: Grand Canyon National Park
+country: United States
+description: A man in the Civilian Conservation Corps (CCC), fell over the edge of the canyon while putting railings up in the 30's. At sundown, you can usually see a black misty figure near the railings. A fairly loud scraping sound is heard as the figure seems as though it’s shoveling something.
+location: Maricopa Point
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1462809
+latitude: 36.0699828
+city_longitude: -112.1129972
+city_latitude: 36.1069652
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

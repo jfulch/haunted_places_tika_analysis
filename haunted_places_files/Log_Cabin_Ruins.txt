@@ -1,0 +1,21 @@
+city: Jackson
+country: United States
+description: on Bens Lane (a dirt road) toward the end of the road on the right, of in the woods, there are 2-3 old stone foundations, all around it seems animals die, many bones are visible on the ground for no apparent reason, when walking by at twilight people have seen a woman sitting on the edge of the largest foundation and crying, she is in transparent shaded of blue-gray.
+location: Log Cabin Ruins
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.271199
+latitude: 40.098956
+city_longitude: -74.35874729999999
+city_latitude: 40.0918895
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/07/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

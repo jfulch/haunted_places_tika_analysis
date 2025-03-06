@@ -1,0 +1,21 @@
+city: Slade
+country: United States
+description: As the story goes, about 5 years ago a man from Ohio was up in the mountains of the Red River Gorge enjoying the beauty and scenery of the mountains. As an inexperienced rock climber, he decided to take his chances anyway and go climbing for the day. For the most part, he had a pretty good day--until he decided to climb down to the tunnel (otherwise known as the Nada Tunnel). It was dark outside and he wasn't wearing any bright or distinctive colored clothing and as his luck would have it, his rope broke. Just as he was falling, a big green bus from the job corps came by and hit him as he was falling. To this day, the tunnel still glows from his presence. At 1:17am, the tunnel will glow for 13 minutes (the length of time it took him to die). Witnesses say, as he was dying he mentioned seeing "the glow". Now every year on October 29th, at 1:17am, the tunnel glows.
+location: Tunnel Ridge
+state: Kentucky
+state_abbrev: KY
+longitude: -83.667424
+latitude: 37.8072459
+city_longitude: -83.70408069999999
+city_latitude: 37.7950836
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

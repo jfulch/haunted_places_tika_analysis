@@ -1,0 +1,21 @@
+city: Collinwood
+country: United States
+description: Many of the old folks in Collinwood tell of a tree in the park where slaves were hanged during the slave days. They say that if you walk through the park on stormy nights that all of the trees will be moving from the wind blowing through the branches and leaves- except one.
+location: Park in the center of town
+state: Tennessee
+state_abbrev: TN
+longitude: -87.728313
+latitude: 35.1683865
+city_longitude: -87.73780289999999
+city_latitude: 35.1742474
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

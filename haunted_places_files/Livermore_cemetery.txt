@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: Believed to be haunted by towns people who where killed in a flood. Apparitions of buildings have been reported. Cars that park nearby are said to have things missing after being parked there (license plates, antennas, hubcaps)
+location: Livermore Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.94971989999999
+latitude: 40.4672006
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

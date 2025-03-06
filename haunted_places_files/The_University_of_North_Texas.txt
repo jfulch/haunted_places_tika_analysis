@@ -1,0 +1,21 @@
+city: Denton
+country: United States
+description: Union Suite 324 - The CSRR and SLA offices of the university have a wandering ghosts. Those who have extra work and stay later after hours tend to hear the fax machine turn on and off. This ghost "nicknamed" Brandy likes to lock employees in copy rooms and offices, run blank pages through the copier, and turn on and reboot computers.
+location: The University of North Texas
+state: Texas
+state_abbrev: TX
+longitude: -97.1525862
+latitude: 33.207488
+city_longitude: -97.1330683
+city_latitude: 33.2148412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1776/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

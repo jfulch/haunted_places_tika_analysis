@@ -1,0 +1,21 @@
+city: Billings
+country: United States
+description: One of the elevators every morning at 2:30 calls the front desk, and when the person at the front desk answers the phone no one is on the other line. The front desk clerk and the security guard look in the elevator and no one had been in it. Finally after this had been going on for many days the front desk clerk decided to call the elevator at 2:30 and someone picked up the phone, but no one was in the elevator.
+location: Sheraton Hotel
+state: Montana
+state_abbrev: MT
+longitude: -108.503898
+latitude: 45.782577
+city_longitude: -108.5006904
+city_latitude: 45.7832856
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

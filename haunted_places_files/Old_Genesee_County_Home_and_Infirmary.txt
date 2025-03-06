@@ -1,0 +1,21 @@
+city: Bethany
+country: United States
+description: The old county poor farm and insane asylum has had over 1,000 deaths documented on the property. Owners and others have seen hundreds of ghosts roaming the halls. Doors slam, voices call out, items misplaced etc. Many psychics and paranormal investigators have documented such happenings. Many photos taken show orbs, ectoplasm, and actual ghostly apparitions. Property was in operation from 1827-1974 as county home, and stood empty until 1992,when opened as antique and craft mall. 3rd floor of west wing, that housed the nurses, is very very haunted. Paranormal investigations are currently being held there. Museum opening on site will offer much history. Genesee County history dept has compiled a book of all documented deaths at site, and is available for viewing.
+location: Old Genesee County Home and Infirmary
+state: New York
+state_abbrev: NY
+longitude: -78.1327379
+latitude: 42.8811213
+city_longitude: -78.13363799999999
+city_latitude: 42.92381090000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1827/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

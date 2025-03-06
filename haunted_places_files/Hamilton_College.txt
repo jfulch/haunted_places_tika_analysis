@@ -1,0 +1,21 @@
+city: Clinton
+country: United States
+description: North Residence Hall - On the third floor of the hall, it's been said that a messenger from the Revolution walks down the hall. Numerous times, it's been reported to stop and point at the 'trespasser' before moving on, disappearing through the wall.
+location: Hamilton College
+state: New York
+state_abbrev: NY
+longitude: -75.4050437
+latitude: 43.0525874
+city_longitude: -75.3785034
+city_latitude: 43.0484029
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

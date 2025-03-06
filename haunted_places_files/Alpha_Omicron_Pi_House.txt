@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: Legend has it that years ago, when the house was owned by another sorority, a sister jumped into Mirror Lake as an Ohio State tradition for Michigan Weekend. She was intoxicated and broke her neck. Her sisters took her back to the sorority house and placed her in her bed, afraid they would get in trouble for being drunk if they took her to the hospital. She died in the room and is said to open the closet doors and move things in the room. In other rooms, girls have said that they have heard the sound of bed springs, but no one will be sitting or laying on the bed. Her name is believe to be Mary-Ellen.
+location: Alpha Omicron Pi House
+state: Ohio
+state_abbrev: OH
+longitude: -83.00144080000001
+latitude: 40.0000091
+city_longitude: -82.99879419999999
+city_latitude: 39.9611755
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Lynn
+country: United States
+description: Lynn Woods - Strange noises and visions are said to happen here deep in lynn woods. Dungeon rock is a large, hollowed out boulder where pirates used to hide, their spirits are said to haunt the area.
+location: Dungeon Rock
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9836617
+latitude: 42.483707
+city_longitude: -70.9494938
+city_latitude: 42.46676300000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1629/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Desoto
+country: United States
+description: at night it is said that ghost roams the hallways at night! and the staff has seen weird things at night! A Grandmother tells the story of many years ago as a girl, she had snuck out of her house to see her boy friend in the middel of the night and walking past the school she saw a ghostly arm coming out of one of the windows.
+location: Vineland Elementary
+state: Missouri
+state_abbrev: MO
+longitude: -90.5692235
+latitude: 38.127268
+city_longitude: -90.5551258
+city_latitude: 38.1394978
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

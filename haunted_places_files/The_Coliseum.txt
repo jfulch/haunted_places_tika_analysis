@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: In the 1960s a man fell off the top floor of the sports complex to his death. Many people thought that he had been pushed, but the court ruled it an accidental death. On night games towards the end of the game an apparition of a man is seen on the top floor of the complex as well as the sounds of screaming and a loud CRUNCH.
+location: The Coliseum
+state: California
+state_abbrev: CA
+longitude: -118.2878754
+latitude: 34.0140526
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

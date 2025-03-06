@@ -1,0 +1,21 @@
+city: Leola
+country: United States
+description: Reports of orbs and the sounds of a battle emanating from the surrounding woods. There have also been reports of someone calling out from the water for rescue, but no one could be found to save.
+location: Jenkin's Ferry
+state: Arkansas
+state_abbrev: AR
+longitude: -92.5477509
+latitude: 34.2122253
+city_longitude: -92.5909931
+city_latitude: 34.1695418
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

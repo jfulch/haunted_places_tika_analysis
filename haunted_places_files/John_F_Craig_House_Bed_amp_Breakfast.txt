@@ -1,0 +1,21 @@
+city: Cape May
+country: United States
+description: Rooms 4 & 5 are inhabited by two spirits. Room 4 (a.k.a. Susan Craig Room) is haunted by the ghost of an unidentified red-headed girl. Room 5 (a.k.a. Lucy Johnson Room) is haunted by a sewing gh@st named Lucy Johnson, who reportly replaces missing buttons on clAthing of guests who stay in the room.
+location: John F. Craig House Bed &amp; Breakfast
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9200645
+latitude: 38.9320497
+city_longitude: -74.90600529999999
+city_latitude: 38.9351125
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

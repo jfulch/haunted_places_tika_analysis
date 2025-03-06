@@ -1,0 +1,21 @@
+city: Flintville
+country: United States
+description: the Flintville light has seemed to cause many distractions. an old man carrying an lantern across Flintville elementary school where the old railroad tracks used to be.
+location: Flintville school
+state: Tennessee
+state_abbrev: TN
+longitude: -86.4133531
+latitude: 35.0594606
+city_longitude: -86.41971339999999
+city_latitude: 35.0625857
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.616666666666667
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

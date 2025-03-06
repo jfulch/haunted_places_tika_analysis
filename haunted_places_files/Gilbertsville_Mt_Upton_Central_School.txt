@@ -1,0 +1,21 @@
+city: Gilbertsville/Mt Upton
+country: United States
+description: 2 kids were driving and got killed on the front yard of the school and one the day back from summer vacation you see a flower bouquet on the spot where they died.
+location: Gilbertsville Mt Upton Central School
+state: New York
+state_abbrev: NY
+longitude: -75.3468031
+latitude: 42.4447641
+city_longitude: -75.3468031
+city_latitude: 42.4447641
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1931/11/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

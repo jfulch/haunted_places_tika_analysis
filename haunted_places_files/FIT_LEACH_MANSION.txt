@@ -1,0 +1,21 @@
+city: JENSEN BEACH
+country: United States
+description: THE OLD LEACH MANSION ON INDIAN RIVER DRIVE IN JENSEN BEACH IS HAUNTED. WHEN YOU ENTER YOU GET THE STRANGE FEELING AND CHILLS IT FEELS LIKE SOMEONE IS RIGHT BEHIND YOU. YOU CAN HEAR STRANGE NOISES COMING FROM THE OTHER FLOORS. WHEN YOUR IN THE DOWNSTAIRS BAR IT GETS VERY COLD, AND WHEN YOU CROSS THROUGH THE DOUBLE DOORS IT FEELS LIKE YOU ARE ENETERING INTO ANOTHER WORLD.
+location: F.I.T. LEACH MANSION
+state: Florida
+state_abbrev: FL
+longitude: -80.2128401
+latitude: 27.2279161
+city_longitude: -80.22976969999999
+city_latitude: 27.2544906
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1996/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

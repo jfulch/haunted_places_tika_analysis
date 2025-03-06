@@ -1,0 +1,21 @@
+city: Bronxville
+country: United States
+description: Sieker Hall - is haunted by a pre-seminary student who died of pneumonia many years ago.
+location: Concordia College
+state: New York
+state_abbrev: NY
+longitude: -73.8221475
+latitude: 40.9426774
+city_longitude: -73.8320784
+city_latitude: 40.93815439999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/18
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

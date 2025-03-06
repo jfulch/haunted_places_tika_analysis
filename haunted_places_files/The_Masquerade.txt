@@ -1,0 +1,21 @@
+city: Atlanta
+country: United States
+description: After-hours people have spotted the ghost of a tall black man wandering around inside the club. Heavy music amplifiers are found turned upside down. Also unexplained footsteps, cold spots, and unearthly screams are heard around the backstairs. The nightclub is rumored to be frequented by true vampires. It is said that a vampire actually lives on the premises. The building was once a textile mill where several young girls died in accidents and others developed tuberculosis because of the dangerous working conditions. Shrieks, footsteps and other noises are frequently heard during non-business hours on the back stairs, where cold spots are often felt. The building has been the site of a number of freak accidents including fires and structural collapses.
+location: The Masquerade
+state: Georgia
+state_abbrev: GA
+longitude: -84.38963729999999
+latitude: 33.7517791
+city_longitude: -84.3879824
+city_latitude: 33.7489954
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

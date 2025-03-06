@@ -1,0 +1,21 @@
+city: Williamsburg
+country: United States
+description: A woman named Irma haunts this place. She lived in the 1700s. People don't yet know how she died. Some people believe she died because of a candle. Others think she died because of another thing. Irma isn't seen very often, but she is heard speaking to staff and people have felt her presence. Irma blows out candles and helps the staff. She is not a poltergeist. She is very friendly.
+location: Kings Arms Tavern
+state: Virginia
+state_abbrev: VA
+longitude: -76.7055707
+latitude: 37.2707685
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

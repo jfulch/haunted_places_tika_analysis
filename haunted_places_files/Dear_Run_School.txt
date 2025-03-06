@@ -1,0 +1,20 @@
+city: East Haven
+country: United States
+description: walking though the north hall you can some times hear voices and see blood coming down form the walls no one is sure who haunts this building
+location: Dear Run School
+state: Connecticut
+state_abbrev: CT
+longitude: -72.835096
+latitude: 41.3265389
+city_longitude: -72.8684565
+city_latitude: 41.2841687
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1931/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

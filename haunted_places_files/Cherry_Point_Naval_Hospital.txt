@@ -1,0 +1,21 @@
+city: Havelock
+country: United States
+description: dark figures, and manifestations of actual people. One in particular is an old lady...very creepy voices. strange vibes. a lot of people see things in reflections, like people walking behind them when nobody is there.
+location: Cherry Point Naval Hospital
+state: North Carolina
+state_abbrev: NC
+longitude: -76.9084204
+latitude: 34.8951949
+city_longitude: -76.9013301
+city_latitude: 34.8790492
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

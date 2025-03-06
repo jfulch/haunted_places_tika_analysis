@@ -1,0 +1,20 @@
+city: Union
+country: United States
+description: Cry Baby Bridge -  Right before you get to Rose Hill Plantation, there is an old bridge with rusted steel frames at the top. Legend has it that, if you park on the bridge and cut off your car, than you can hear a baby crying and then see the mother looking for it. One day in the 1950's, a woman threw her baby off the bridge in spite of her husband. Now, you can see her looking for the baby at midnight.
+location: Rcse Hill Plantation
+state: South Carolina
+state_abbrev: SC
+longitude: -81.6642227
+latitude: 34.6062159
+city_longitude: -81.623711
+city_latitude: 34.7154122
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

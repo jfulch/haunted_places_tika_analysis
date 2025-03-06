@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: Poltergeist/Presence very strong in this 14 screen multiplex. House Lights flicker on & off, muffled laughter/whispers, also arm rests lower & raise themselves up of their own accord, especially in theatre 5. Also Workers report in the projection booth a shadowy figure can be glimpsed, & lurks around projector number 5.
+location: AMC Saratoga 14
+state: California
+state_abbrev: CA
+longitude: -121.9923658
+latitude: 37.2903196
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

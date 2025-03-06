@@ -1,0 +1,21 @@
+city: Diamond
+country: United States
+description: Rumors are there are 2 bodies of people who where believed to witches, buried in this cemetery. They both have an above ground body coffins (they were thrown in the ground and cement was poured over them). The cemetery also used to have 3 trees on which the witches were hanged. Every anniversary of the night they were killed you will hear and see things. There is also a change in the climate in which after you walk into the gates that surround the cemetery.
+location: Wynn Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -87.82680599999999
+latitude: 37.397961
+city_longitude: -86.061872
+city_latitude: 37.116353
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

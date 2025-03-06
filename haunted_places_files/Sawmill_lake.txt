@@ -1,0 +1,21 @@
+city: Leesburg
+country: United States
+description: Old white house around the point. Several odd vapors and apparitions seen. Strange noises heard constantly. Sometimes you can hear an adult male yelling, like he is very mad. A local legend ghost named "Whitey" A commonly seen ghost around this house. A drunk driver crashed into the house about 30 years ago and died.
+location: Sawmill lake
+state: Indiana
+state_abbrev: IN
+longitude: -85.7275611
+latitude: 41.2989555
+city_longitude: -85.8499921
+city_latitude: 41.3319904
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

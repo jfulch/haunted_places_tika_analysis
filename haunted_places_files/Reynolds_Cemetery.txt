@@ -1,0 +1,21 @@
+city: Reynolds Township
+country: United States
+description: In the rear of the cemetery there is the small grave of a baby boy. The baby was abandoned and found weeks later and the mother was never caught. On a full moon at exactly midnight you can feel his heartbeat if you lay your hand on his stone.
+location: Reynolds Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -89.1508032
+latitude: 41.823257
+city_longitude: -89.1134166
+city_latitude: 41.8566676
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1902/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Boise
+country: United States
+description: ghost of Manuel Sato haunts the hills around the creek.
+location: Loon Creek
+state: Idaho
+state_abbrev: ID
+longitude: -116.1771479
+latitude: 43.5893536
+city_longitude: -116.2146068
+city_latitude: 43.6187102
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1984/06/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Santa Clara
+country: United States
+description: Students passing by the cemetery next to the mission claim to here eerie moans and locked doors to the O'Connor building swinging open and shut. In the bell tower reports of past Jesuits are seen praying.
+location: Santa Clara University
+state: California
+state_abbrev: CA
+longitude: -121.9389875
+latitude: 37.3496418
+city_longitude: -121.9552356
+city_latitude: 37.3541079
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

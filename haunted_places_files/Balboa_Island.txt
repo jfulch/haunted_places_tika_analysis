@@ -1,0 +1,21 @@
+city: Newport Beach
+country: United States
+description: In 1993, two kids went swimming & were killed by a rip tide. At night, strange sounds are heard and flashes of light are seen under the water.
+location: Balboa Island
+state: California
+state_abbrev: CA
+longitude: -117.897071
+latitude: 33.6072954
+city_longitude: -117.9298493
+city_latitude: 33.6188829
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1993/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: West Point
+country: United States
+description: Currently a Bed and Breakfast, was a hospital during the Civil War. Footsteps are heard, men in uniform seen, also presence felt touching the guests.
+location: Ditto House Inn
+state: Kentucky
+state_abbrev: KY
+longitude: -85.744025
+latitude: 38.190386
+city_longitude: -85.94357459999999
+city_latitude: 37.9995164
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

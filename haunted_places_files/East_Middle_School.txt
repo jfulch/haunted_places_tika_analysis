@@ -1,0 +1,21 @@
+city: Plymouth
+country: United States
+description: one Saturday one of the janitors died so now at the end of the day when the kids found out during 2:27-2:50 you can hear the doors slam lights go on and off.
+location: East Middle School
+state: Michigan
+state_abbrev: MI
+longitude: -83.4619377
+latitude: 42.36240069999999
+city_longitude: -83.4702132
+city_latitude: 42.3714253
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

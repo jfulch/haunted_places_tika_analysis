@@ -1,0 +1,20 @@
+city: Hamilton
+country: United States
+description: The little town of Hamilton near Craig, in Northwestern Colorado has a benevolent spirit of a mountain man or trapper from a century ago. Sightings of him are wearing buckskins and smoking a pipe. He suddenly disappears and only the smell of the pipe remains. Witnesses will catch a glimpse out of the corner of their eye. When they turn to look there is nothing there, also the strong scent of a pipe or cigar.
+location: The Town
+state: Colorado
+state_abbrev: CO
+longitude: -107.6131216
+latitude: 40.3671955
+city_longitude: -107.6131216
+city_latitude: 40.3671955
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

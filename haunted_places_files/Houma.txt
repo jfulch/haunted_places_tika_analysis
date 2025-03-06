@@ -1,0 +1,21 @@
+city: Baton Rouge
+country: United States
+description: it is a haunted road where people claim 2 see dead people walking
+location: Houma
+state: Louisiana
+state_abbrev: LA
+longitude: -90.1237248
+latitude: 29.8925633
+city_longitude: -91.1403196
+city_latitude: 30.4582829
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 2

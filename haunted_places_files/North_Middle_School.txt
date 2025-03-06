@@ -1,0 +1,20 @@
+city: Aurora
+country: United States
+description: Haunted by a girl who drowned in the pool.
+location: North Middle School­
+state: Colorado
+state_abbrev: CO
+longitude: -104.8478333
+latitude: 39.7483963
+city_longitude: -104.8319195
+city_latitude: 39.7294319
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

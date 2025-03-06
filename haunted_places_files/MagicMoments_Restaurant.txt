@@ -1,0 +1,21 @@
+city: Indianapolis
+country: United States
+description: The top floor of the 1 Pennsylvania street, where MagicMoments now stands is said to be haunted by unknown ghosts. table setting move by themselves during the night glasses are taken from tables and set on the floor right side up. cold spots are everywhere the office side seem to give a bad vibe. it is said that illegal boxing mathces were arranged in the top floor and some fighters died and thats what causes the abnormal actions
+location: MagicMoments Restaurant
+state: Indiana
+state_abbrev: IN
+longitude: -86.154673
+latitude: 39.7690726
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

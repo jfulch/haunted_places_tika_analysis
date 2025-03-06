@@ -1,0 +1,21 @@
+city: Boyle
+country: United States
+description: Perryville Battlefield - Sightings of soldier walking the battlefield at night. Reported to be seen by local police.
+location: Perryville
+state: Kentucky
+state_abbrev: KY
+longitude: -84.9516234
+latitude: 37.650351
+city_longitude: -84.8150781
+city_latitude: 37.6526034
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1936/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

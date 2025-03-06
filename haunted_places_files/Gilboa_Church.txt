@@ -1,0 +1,21 @@
+city: Rutherfordton
+country: United States
+description: Supposedly, a group leaving church had been run down by a train. The tracks run directly in front of the church. At night one can see lights in the graveyard. Also, Daniel Keith, the man whose shadow supposedly remained on the jail-house wall after he was hanged, is buried in an unmarked grave in the church cemetery. It is said that due to the ghastly past of the church, it has never been able to support a steeple, which now stands on posts in front of the church.
+location: Gilboa Church
+state: North Carolina
+state_abbrev: NC
+longitude: -81.97570739999999
+latitude: 35.4212267
+city_longitude: -81.9567716
+city_latitude: 35.3692877
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

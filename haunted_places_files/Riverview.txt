@@ -1,0 +1,20 @@
+city: St. Cloud
+country: United States
+description: There is also a lady ghost in Riverview, the second oldest building on campus. Long after everyone else is gone and only the janitors remain, there are reports of hearing a lady walk around with high heel clicking sounds. She'll also move chairs and open doors. Riverview used to be where the students of SCSU would go to teach the children and there is also a ghost child that roams around, bouncing a ball.
+location: Riverview
+state: Minnesota
+state_abbrev: MN
+longitude: -94.1483161
+latitude: 45.5513016
+city_longitude: -94.1632404
+city_latitude: 45.5579451
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1904/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

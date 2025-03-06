@@ -1,0 +1,21 @@
+city: Bismarck
+country: United States
+description: It has been said that about 10 years or more ago, a janitor had died of natural causes in the middle of the night while cleaning and was found the next morning. Since then, strange occurrences have happened with nobody being in control of them. At night there are weird noises and your hair on the back of your neck stands up. This especially happens when you are there alone. A woman chef that used to work there around the same time as the janitor has since passed away and has been spotted in the kitchen and could also be a part of the occurrences.
+location: Apple Creek Country Club
+state: North Dakota
+state_abbrev: ND
+longitude: -100.6512074
+latitude: 46.8073722
+city_longitude: -100.7837392
+city_latitude: 46.8083268
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 17m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

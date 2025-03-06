@@ -1,0 +1,19 @@
+city: Woodstown
+country: United States
+description: a ghost with a noose around his neck and other noisy ghosts haunt this place.
+location: Seven Stars Tavern
+state: New Jersey
+state_abbrev: NJ
+city_longitude: -75.32824540000001
+city_latitude: 39.65150269999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.95
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Edinburg
+country: United States
+description: a couple of years ago a student fell from the west side staircase and died. come midnight you can see a white body walking around the staircase.
+location: South Middle School
+state: Texas
+state_abbrev: TX
+longitude: -98.1704766
+latitude: 26.2887958
+city_longitude: -98.1633432
+city_latitude: 26.3017374
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1802/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

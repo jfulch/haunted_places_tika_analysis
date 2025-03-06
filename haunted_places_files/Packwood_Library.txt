@@ -1,0 +1,21 @@
+city: Packwood
+country: United States
+description: Its an old library that was once the town first post office. Strange noises are heard from the attic as well as boxes being moved to different locations. Also there have been reports of children being heard through the ceiling coming from the attic.
+location: Packwood Library
+state: Washington
+state_abbrev: WA
+longitude: -121.6720933
+latitude: 46.6062594
+city_longitude: -121.6706437
+city_latitude: 46.60650099999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

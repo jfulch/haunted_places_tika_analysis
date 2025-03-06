@@ -1,0 +1,19 @@
+city: Maxwell
+country: United States
+description: Residents have heard baby cries, have seen an empty rocking chair begin rocking by itself; one resident says he's seen a young woman dressed in white in the chair, a thudding noise on the stairs at night, and have seen the naked light bulb swinging back and forth by itself in the upstairs front bedroom. Upon further examination of the source of these sounds, several hidden walkways between each of the upstairs rooms were found. Lights flickered on and off. Some of the stories is a young boy had fallen down the stairs and broke his neck on his way to use the outhouse in the middle of the night...an infant child died in her crib in an upstairs room and the mother held the dead baby in her arms and rocked her until she was discovered...another young boy hung himself from a light cord in the front upstairs bedroom...a woman and her lover fought and one was killed in the area where my mom's room was(it was a parlor before we moved in).
+location: Plumer Street House
+state: Nebraska
+state_abbrev: NE
+city_longitude: -100.5252843
+city_latitude: 41.0785928
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

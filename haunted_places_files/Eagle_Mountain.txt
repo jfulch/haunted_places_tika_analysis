@@ -1,0 +1,21 @@
+city: Selah
+country: United States
+description: In the area of the Eagles Graveyard at night you can sometimes hear an eagle or see people running around yelling, "The eagle is back" (this area is now a development area and can not be reached, but ask anybody about eagle mountain and you will be able to see the area).
+location: Eagle Mountain
+state: Washington
+state_abbrev: WA
+longitude: -122.2444099
+latitude: 48.156394
+city_longitude: -120.5300666
+city_latitude: 46.6540153
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Vandenberg Village
+country: United States
+description: The ghost of a girl has been seen in the spotlight room. Her voice can even be heard from behind locked doors. Drama students have also reported being locked in the dressing rooms. Supposedly, the girl fell off the indoor balcony and died.
+location: Cabrillo High School Theater
+state: California
+state_abbrev: CA
+longitude: -120.4753654
+latitude: 34.7112434
+city_longitude: -120.4676641
+city_latitude: 34.7083155
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

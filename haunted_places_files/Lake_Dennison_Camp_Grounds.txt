@@ -1,0 +1,21 @@
+city: Winchendon
+country: United States
+description: Old Cemetery within - It is said that if you drive your car into the old cemetery and shine your back lights on a certain tree that you can see "Willy", a ghost, hanging from a long branch. He is said to be a very angry ghost.
+location: Lake Dennison Camp Grounds
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.083604
+latitude: 42.6394506
+city_longitude: -72.0439529
+city_latitude: 42.6871009
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1855/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

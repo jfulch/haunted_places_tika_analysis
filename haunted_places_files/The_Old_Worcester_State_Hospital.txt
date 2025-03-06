@@ -1,0 +1,21 @@
+city: Worcester
+country: United States
+description: Has blood stains on the walls and now remains all boarded up. People have supposedly heard the screams of the patients who died there. - February 2007 Update: Worcester State is heavily patrolled by Worcester Police. Always get permission.
+location: The Old Worcester State Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.77212999999999
+latitude: 42.27791
+city_longitude: -71.8022934
+city_latitude: 42.2625932
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1996/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bayfield
+country: United States
+description: The Lighthouse on Michigan Island is haunted by the ghost of a lighthouse keeper who was killed when the heavy metal door slammed shut on him during a storm. It is said that during every bad storm, the door slams twice, even if it is firmly closed and bolted shut.
+location: Michigan Island Lighthouse
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.4972869
+latitude: 46.8713372
+city_longitude: -90.81824
+city_latitude: 46.8107671
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1825/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

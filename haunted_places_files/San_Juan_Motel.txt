@@ -1,0 +1,21 @@
+city: San Juan
+country: United States
+description: This motel is no longer functioning. It is said that a prostitute was raped and murder. Now when you pass by walking or with your car you could hear her screaming and crying for help. It is also said that when you see up the second floor at night she tends to wave and call you.
+location: San Juan Motel
+state: Texas
+state_abbrev: TX
+longitude: -98.1550312
+latitude: 26.2012183
+city_longitude: -98.1552872
+city_latitude: 26.1892409
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

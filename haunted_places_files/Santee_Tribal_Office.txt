@@ -1,0 +1,21 @@
+city: Santee
+country: United States
+description: A little boy has been seen and heard walking the hallways of the tribal building. Last year a photograph was taken in the Head Start office and a child's face of a boy was transparent over the face of the child coloring. No other children were in the room besides the child coloring. The boy appeared to have a bruised up face and his eyes seemed to be bloated.
+location: Santee Tribal Office
+state: Nebraska
+state_abbrev: NE
+longitude: -97.8495389
+latitude: 42.8411336
+city_longitude: -97.8509008
+city_latitude: 42.8411104
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

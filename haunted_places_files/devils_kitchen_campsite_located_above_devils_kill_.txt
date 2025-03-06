@@ -1,0 +1,19 @@
+city: Catskills
+country: United States
+description: This are use to be a mining site from bluestone in the 1800s used to build New York City but was Abandoned due to the switch over to cement. Just north of the campsite there is an abandoned road the runs parallel just downhill of the trail. On that trail at night you can some time see a lantern swinging as if some one was swinging it while walking peacefully down the road how ever there is no way you could peacefully walk down the road today as the road is filled with downed trees crossing it at all angles.
+location: devils kitchen campsite located above devils kill in the Indian Head Wilderness Area
+state: New York
+state_abbrev: NY
+city_longitude: -74.3821116
+city_latitude: 42.0092908
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Englewood
+country: United States
+description: One night at a central football game, a little girl was walking around the track with her friends. She was scared of many things so constantly she would turn her head and make sure everything was all right. Once, she turned her head and she saw that a group of gothic people were looking at her from the corner of the track and she saw that one of the gothic people were pointing at her as if they were going to kill her. Now if you go to the track at night and look in the left corner, you can still see people pointing at you.
+location: Central High
+state: Tennessee
+state_abbrev: TN
+longitude: -84.5030444
+latitude: 35.3770063
+city_longitude: -84.4874289
+city_latitude: 35.4245183
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

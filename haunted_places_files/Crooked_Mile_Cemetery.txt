@@ -1,0 +1,21 @@
+city: Merritt Island
+country: United States
+description: A witness that grew up in a house next to this cemetery, experienced many strange happenings. When camped out in the backyard and would be awoken by strange noises, and feeling a strange presence.
+location: Crooked Mile Cemetery
+state: Florida
+state_abbrev: FL
+longitude: -80.6745396
+latitude: 28.2873306
+city_longitude: -80.6659842
+city_latitude: 28.3180688
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1944/06/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

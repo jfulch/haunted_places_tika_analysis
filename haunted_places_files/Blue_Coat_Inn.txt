@@ -1,0 +1,19 @@
+city: Dover
+country: United States
+description: Haunted at night by a older man and a young boy (appears to be a drummer boy).
+location: Blue Coat Inn
+state: Delaware
+state_abbrev: DE
+longitude: -75.514359
+latitude: 39.1601473
+city_longitude: -75.5243682
+city_latitude: 39.158168
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

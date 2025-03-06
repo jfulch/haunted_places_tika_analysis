@@ -1,0 +1,21 @@
+city: Ardmore
+country: United States
+description: A lady walking on the side of the road wearing a yellow dress. After you pass her she disappears.
+location: Lake Murray
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.1050214
+latitude: 34.0754658
+city_longitude: -97.1436254
+city_latitude: 34.1742611
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

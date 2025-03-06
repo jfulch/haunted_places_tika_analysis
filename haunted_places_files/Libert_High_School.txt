@@ -1,0 +1,20 @@
+city: Rudolph
+country: United States
+description: Cold spots felt. You can hear people walking when no one is there. Bathroom stall doors have been seen swinging when no one is in there.
+location: Libert High School
+state: Ohio
+state_abbrev: OH
+longitude: -83.7093794
+latitude: 41.2978298
+city_longitude: -83.66993389999999
+city_latitude: 41.2978299
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

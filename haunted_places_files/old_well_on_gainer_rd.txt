@@ -1,0 +1,19 @@
+city: Griffin
+country: United States
+description: reports of spirits walking around some may even pass through you and there is to have heard loud screams after dark coming from deep down in the well.
+location: old well on gainer rd
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.2640904
+city_latitude: 33.2467807
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

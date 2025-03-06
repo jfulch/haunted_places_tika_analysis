@@ -1,0 +1,21 @@
+city: Huntington Beach
+country: United States
+description: An apparition of a boy about 11 to 13 years old dressed in all white has been seen around a bomb shelter, and when spotted he will run around a corner and disappear.
+location: Bolsa Chica Wetlands
+state: California
+state_abbrev: CA
+longitude: -118.0464005
+latitude: 33.6956195
+city_longitude: -117.9988026
+city_latitude: 33.6594835
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

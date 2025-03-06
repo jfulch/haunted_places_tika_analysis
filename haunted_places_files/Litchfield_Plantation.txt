@@ -1,0 +1,20 @@
+city: Georgetown
+country: United States
+description: the ghost of the former owner (he is also a doctor) is said to haunt his home.
+location: Litchfield Plantation
+state: South Carolina
+state_abbrev: SC
+longitude: -79.1386923
+latitude: 33.4768226
+city_longitude: -79.2944964
+city_latitude: 33.376834
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/11/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

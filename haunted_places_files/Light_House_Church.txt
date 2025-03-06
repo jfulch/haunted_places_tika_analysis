@@ -1,0 +1,21 @@
+city: Clayton
+country: United States
+description: Reportedly you can hear people talking when there is no one around, cold handprints on the windows, light flickering off and on, and it only happen at night late!!
+location: Light House Church
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.343783
+latitude: 34.609806
+city_longitude: -95.3527475
+city_latitude: 34.589545
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

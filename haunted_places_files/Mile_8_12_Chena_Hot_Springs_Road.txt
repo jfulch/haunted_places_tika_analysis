@@ -1,0 +1,21 @@
+city: Fairbanks
+country: United States
+description: This road is haunted by ghostly lights. Late at night, two lights that resemble headlights follows passing cars. Sometimes, it will start to fly and form one bright light. Other times, it will look like a fast moving car or truck with bright blue, white and orange colored lights.
+location: Mile 8-12 Chena Hot Springs Road
+state: Alaska
+state_abbrev: AK
+longitude: -146.8550798
+latitude: 64.8834779
+city_longitude: -147.7163888
+city_latitude: 64.8377778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 10h 52m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

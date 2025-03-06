@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: in the gym there has been people bouncing the ball were a man named Henry died wile building the gym.
+location: Boys and Girls club
+state: California
+state_abbrev: CA
+longitude: -121.8237204
+latitude: 37.33403610000001
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1987/02/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

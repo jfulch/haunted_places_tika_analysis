@@ -1,0 +1,21 @@
+city: Concord
+country: United States
+description: B hall - A few years ago four students met in a freshman English class and they all shared a love for music and formed a band. In their senior year the band was going to tour southern California. Heading south on I-5 the driver fell asleep and veered off road which resulted in the death of all band members. The band can now be heard on the first day of school at night where they met when they were freshman. The band plays on.
+location: Clayton Valley High School
+state: California
+state_abbrev: CA
+longitude: -121.9695066
+latitude: 37.9504652
+city_longitude: -122.0310733
+city_latitude: 37.9779776
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Williamsburg
+country: United States
+description: The maze behind the building is said to be haunted by soldiers from the civil war and revolutionary war. The wall in front of the mansion is said to be haunted by the ghost of a criminally insane escapee of Eastern State Mental Institution, who in the 1920s slit a woman's throat.
+location: Governors Mansion
+state: Virginia
+state_abbrev: VA
+longitude: -76.7020651
+latitude: 37.2740582
+city_longitude: -76.7074571
+city_latitude: 37.2707022
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

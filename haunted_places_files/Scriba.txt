@@ -1,0 +1,21 @@
+city: Oswego
+country: United States
+description: Rt. 104 and Klocks Corners Intersection - Many people have lost their lives trying to pull out of a very dangerous intersection, that has a big hill coming from one direction and is only a 2 way stop. The speed limit is 45 but many go past that. Multiple car crashes and pedestrians have been killed at the intersection since it was constructed. A graveyard diagonal to the intersection has been seen to have ghosts what walk around, up and down the street, and sometimes in the middle of the road. Most appear in light shades of grey. They are of different sex and age, and always seem to be looking back and forth in all directions of the road, as to be looking out of traffic.
+location: Scriba
+state: New York
+state_abbrev: NY
+longitude: -76.4304934
+latitude: 43.4653465
+city_longitude: -76.5104973
+city_latitude: 43.4553461
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1811/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

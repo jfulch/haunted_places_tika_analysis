@@ -1,0 +1,20 @@
+city: Edgewater
+country: United States
+description: A few of the gothic students were known to practice there witch craft at down stairs in the girls locker room. One day they were all found decapitated with their heads puzzled on different bodies. At the end of the day you can hear them screaming for the gym teacher’s help!!
+location: Jefferson High School
+state: Colorado
+state_abbrev: CO
+longitude: -105.0733068
+latitude: 39.7504141
+city_longitude: -105.0641503
+city_latitude: 39.75304250000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Flagler
+country: United States
+description: Palm Coast High School - It is said that the high school is haunted by a young man by the name of Jonathan Ritchie it is known that he can be seen by the girls locker room relieving himself around each class period. He died a few years back leaving the high school homecoming football with his ex-girlfriend Katie Murray when they got in a car accident and he passed away. It is said that around these times a strange odor and misty film is to be coated around the locker room. Katie was the only survivor of the accident but mysteriously disappeared.
+location: Coast
+state: Florida
+state_abbrev: FL
+longitude: -81.20786989999999
+latitude: 29.5844524
+city_longitude: -81.2518833
+city_latitude: 29.4086072
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2017/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

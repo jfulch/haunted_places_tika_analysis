@@ -1,0 +1,21 @@
+city: Lathrop
+country: United States
+description: A young man is said to have committed suicide by jumping off the Mossdale bridge into the San Joaquin river below in the 1970's. His ghost has been seen on the bridge at dusk wearing blue jeans and a red checkered Flannel.
+location: Mossdale Bridge
+state: California
+state_abbrev: CA
+longitude: -121.3136836
+latitude: 37.7795697
+city_longitude: -121.27661
+city_latitude: 37.8227046
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

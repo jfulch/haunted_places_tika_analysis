@@ -1,0 +1,21 @@
+city: Poland
+country: United States
+description: The Poland Spring Inn is haunted by the first owner, the famous Hiram Ricker (founder of the Poland Spring water company). Several employees have seen the ghost of Hiram wandering the Inn. Some workers report hearing the voice of Hiram coming from vacant rooms, and his footsteps can be heard in the early hours of the morning in the empty lobby. He has also been known to play tricks on the staff by moving various objects to unusual places.
+location: The Poland Spring Inn
+state: Maine
+state_abbrev: ME
+longitude: -70.36757639999999
+latitude: 44.0297423
+city_longitude: -70.39366749999999
+city_latitude: 44.0606281
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1822/04/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

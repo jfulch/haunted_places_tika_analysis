@@ -1,0 +1,21 @@
+city: Jerome
+country: United States
+description: When a couple and their dog stayed at the hotel, they asked the woman at the front desk if there were ghosts they needed to know about. The woman just shrugged and said, "If you have an open mind, you'll have an experience." They experienced sudden drops in temperature, the coffee pot turning off, the dog being scared of something on the wall, and all of batteries being drained.
+location: Connor Hotel
+state: Arizona
+state_abbrev: AZ
+longitude: -112.1162698
+latitude: 34.7512261
+city_longitude: -112.1137716
+city_latitude: 34.7489107
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

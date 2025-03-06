@@ -1,0 +1,21 @@
+city: Pella
+country: United States
+description: Graham Hall - A room that is locked up, believed to be haunted by the Penguin Lady. Residents have held sheets of paper under her door to watch her grab them with a sucking action, and later when the room is unlocked by staff, the residents find the paper placed neatly atop an extra desk or dresser.
+location: Central College
+state: Iowa
+state_abbrev: IA
+longitude: -92.919667
+latitude: 41.400595
+city_longitude: -92.916405
+city_latitude: 41.4080327
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/01/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

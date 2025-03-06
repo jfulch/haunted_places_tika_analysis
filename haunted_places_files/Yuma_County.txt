@@ -1,0 +1,21 @@
+city: Yuma
+country: United States
+description: Hotel Lee - At least three spirits have been seen by guests and employees of the Hotel Lee. One ghost is of a young teenage girl, usually seen late in the evening, carrying towels down the back hall. The other is believed to be the original owner of the hotel. She is seen walking the halls late at night, and has been known to knock on, or rattle the doors of the rooms. The third spirit is that of an Indian woman, believed to pre-date the hotel. She has been seen hovering above the guest’s beds, and is known to take small screwdrivers and awls, later to return them to odd places.
+location: Yuma County
+state: Arizona
+state_abbrev: AZ
+longitude: -114.6276916
+latitude: 32.6926512
+city_longitude: -114.6276916
+city_latitude: 32.6926512
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

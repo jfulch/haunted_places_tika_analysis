@@ -1,0 +1,21 @@
+city: Mt. Pulaski
+country: United States
+description: Once in the 1930's a worker fell into the silo full of corn and got buried, and suffocated. His body was never found. Now his ghost haunts the silos. There have been reports of screaming and flickering lights. Some people have seen figures on top of the silos in the middle of night. You can often see him on dark rainy nights. Two teen girls went into the middle of the silos where they found writing on the walls, when they started to leave they heard screaming and yelling. They ran out and never came back.
+location: Grain Silos on S. Marion St
+state: Illinois
+state_abbrev: IL
+longitude: -89.2893668
+latitude: 40.0070434
+city_longitude: -89.282314
+city_latitude: 40.0108767
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

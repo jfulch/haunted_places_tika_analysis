@@ -1,0 +1,20 @@
+city: Ellsworth
+country: United States
+description: Missile site - The spirit of a pilot killed in a helicopter crash in the mid 1980's can be seen and heard upon entering the control room of the missile silo nearest to where his helicopter crashed. Before entering the control room, music is heard as if coming from a radio-there is no one in the room.
+location: Air forse Base
+state: South Dakota
+state_abbrev: SD
+longitude: -103.0901656
+latitude: 44.1538145
+city_longitude: -103.0901656
+city_latitude: 44.1538145
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1711/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

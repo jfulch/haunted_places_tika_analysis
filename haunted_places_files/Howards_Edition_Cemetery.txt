@@ -1,0 +1,20 @@
+city: Shakopee
+country: United States
+description: Not far from the local racetrack lies the site of one of the first farms that lead to the eventual settlement of Shakopee.  Located at the top of a hill is a housing development now known as Howard's edition.  Nestled among the modern homes is the cities oldest cemetery and it contains graves that go back to the original families that settled the town.  The cemetery is quaint and is surrounded by a picket fence. Neighboring houses would have cupboards rifled through and find muddy footprints going through their homes, from no apparent source!  Reports of cars stalling in front of the cemetery, and seeing a boy dressed in 1800s clothing peering at them from behind a tree.
+location: Howard's Edition Cemetery
+state: Minnesota
+state_abbrev: MN
+longitude: -93.5358876
+latitude: 44.7882553
+city_longitude: -93.5272861
+city_latitude: 44.7973962
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

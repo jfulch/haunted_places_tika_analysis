@@ -1,0 +1,19 @@
+city: Dover
+country: United States
+description: A Judge’s angry spirit walks among the nearby tombstones and on the Green. RI
+location: The Green At Dover
+state: Delaware
+state_abbrev: DE
+longitude: -103.2762778
+latitude: 44.0676564
+city_longitude: -75.5243682
+city_latitude: 39.158168
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

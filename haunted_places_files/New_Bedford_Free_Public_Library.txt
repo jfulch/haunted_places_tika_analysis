@@ -1,0 +1,21 @@
+city: New Bedford
+country: United States
+description: a former employee back in 1999. Encountered an apparition of an older woman who had dark hair streaked with gray and a heavy navy blue coat on. She was in the children's picture book room on the lower level of the library. Reports of a feeling of being watched in there. in the reference room near the microfilm on the second floor, there is a presence of a tall man with reddish-brown hair and a long tan coat. And one of the janitors said something about a woman wandering the halls on the third floor. The present library building used to be the city hall, until it burned down in the 1800's or early 1900's (? unsure of exact date). The original library, which was across the street, became the city hall.
+location: New Bedford Free Public Library
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.92743899999999
+latitude: 41.6350108
+city_longitude: -70.93420499999999
+city_latitude: 41.6362152
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

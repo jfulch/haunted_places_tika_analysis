@@ -1,0 +1,19 @@
+city: Neva
+country: United States
+description: There is a little boy that haunts the bathroom because he was always picked on in there. So one day he ran away and no one ever found him. So he haunts the old school that closed down 1 year ago.
+location: Neva School
+state: Tennessee
+state_abbrev: TN
+city_longitude: -81.86372750000001
+city_latitude: 36.3931762
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Flagstaff
+country: United States
+description: Has recently been purchased by a new owner - Between 1995 and 1999, many of the staff had experienced odd occurrences. A janitor, cleaning late at night when the theatre was closed for the evening, saw a dark figure floating back and forth through the aisles of the balcony. Another time, while the final movie was playing for the evening, three staff members watched as a roll of paper towels hanging on the wall in the concession stand, rapidly started to unravel onto the floor. One employee put his hand out to stop it. It stopped until he removed his hand, and then it started up again. Employees and patrons reported that when they would walk into the men’s room, they would sense that something was there. It would be a weird electrical vibration, as if you were to accidentally shock yourself while plugging something in. It’s only mild and it just seems to flood the ro om from ceiling to floor. One evening after closing, there was a report of toilets flushing and sinks turning on at full blast. In the projection room at the very top of the balcony, there was a crawlspace with a ladder that led to a lower level of the roof, right above the marquee. Rumor has it that somebody hung himself in there, although no newspaper supports this.
+location: Orpheum Theatre
+state: Arizona
+state_abbrev: AZ
+longitude: -111.6494475
+latitude: 35.1986117
+city_longitude: -111.651302
+city_latitude: 35.1982836
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Natural Disaster
+witness_count: 1

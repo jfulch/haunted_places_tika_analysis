@@ -1,0 +1,21 @@
+city: Grants
+country: United States
+description: Upstairs there is a room used for banquets. The upstairs used to have apartments, but they were gutted by a fire in the early 1990's and remolded. There is a ghost that shakes what sounds like a key ring full of keys. Often the ghost shakes them right next to people's ears. There are cold spots, and the ceiling fanlights go on and off at will.
+location: Montecarlo Restaurant
+state: New Mexico
+state_abbrev: NM
+longitude: -107.840755
+latitude: 35.146232
+city_longitude: -107.8514466
+city_latitude: 35.14726
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 34m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

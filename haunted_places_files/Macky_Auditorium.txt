@@ -1,0 +1,20 @@
+city: Boulder
+country: United States
+description: In the early 1960's a young woman was raped and murdered by the janitor while practicing opera alone in a room. Allegedly her ghost roams the hallways of the Auditorium and sometimes late at night you can hear an organ coming from the building even though nobody is there. Numerous local media document this. So no one hears opera late at night. However, bloodstains remain on the floor, which is now a professor's office.
+location: Macky Auditorium
+state: Colorado
+state_abbrev: CO
+longitude: -105.2728307
+latitude: 40.0100476
+city_longitude: -105.2705456
+city_latitude: 40.0149856
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

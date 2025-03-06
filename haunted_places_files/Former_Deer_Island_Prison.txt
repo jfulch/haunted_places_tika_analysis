@@ -1,0 +1,21 @@
+city: Winthrop
+country: United States
+description: Reports of outlines of a person would be seen. Also sinks and showers would go on and off by themselves, doors would open and close, lock and unlock.
+location: Former Deer Island Prison
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.955258
+latitude: 42.346772
+city_longitude: -70.98113339999999
+city_latitude: 42.3778173
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Lincoln High School - Underneath the school there are tunnels where they used in case of bombs in the early 1900's. In the 1960's a mother of one of the black panthers hid her black panther son there for 3 years. In those tunnels there is an abandoned shooting range and you hear those guns going off during school hours. And early in the morning around 6:30 when the hall lights are off you see student apparitions in the distance of the oldest building there.
+location: Lincoln Heights
+state: California
+state_abbrev: CA
+longitude: -118.2115093
+latitude: 34.0739389
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

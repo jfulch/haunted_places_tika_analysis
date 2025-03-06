@@ -1,0 +1,21 @@
+city: Acton
+country: United States
+description: a sighting of a ghost husky (dog) with threelegs roaming the shore, it has a dark and a light glow. Late mornings around 1:00 or 12:00 a.m.
+location: Loon Pond
+state: Maine
+state_abbrev: ME
+longitude: -70.8761817
+latitude: 43.5086277
+city_longitude: -70.9277544
+city_latitude: 43.5233821
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Zwolle
+country: United States
+description: There's a story about a woman who had a baby and her husband or boyfriend took her baby and killed it. The woman went looking for the baby and found the man in a boat with the dead baby. After that no one knows, but the story ends with the woman known as the Crying Woman, walks around Grady Hill crying for her baby. People all over town have heard her crying and some have even seen her.
+location: Grady Hill
+state: Louisiana
+state_abbrev: LA
+longitude: -93.6528622
+latitude: 31.6094159
+city_longitude: -93.6440698
+city_latitude: 31.6315626
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

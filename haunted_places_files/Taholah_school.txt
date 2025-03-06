@@ -1,0 +1,21 @@
+city: Taholah
+country: United States
+description: people hear things when they are cleaning after school is out. They also hear people calling their names out loud and nobody is there. A picture of a guy on the wall and he will come out at night. There is to many to list.
+location: Taholah school
+state: Washington
+state_abbrev: WA
+longitude: -124.2878978
+latitude: 47.3441054
+city_longitude: -124.29324
+city_latitude: 47.3473047
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

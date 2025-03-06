@@ -1,0 +1,21 @@
+city: Fontana
+country: United States
+description: In the old auditorium, next to what is now a cafeteria, there is a narrow staircase leading up to an upstairs dressing room. The room contains one window and you will sometimes catch a glimpse of a young Indian girl standing at that window. The story states that this young girl of the 70's committed suicide by hanging herself and was found when someone of the staff spotted a body hanging through the window.
+location: Etiwanda Intermediate School
+state: California
+state_abbrev: CA
+longitude: -117.5231085
+latitude: 34.1279187
+city_longitude: -117.435048
+city_latitude: 34.0922335
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,17 @@
+city: Dewey beach
+country: United States
+description: June 2004 Removed - Private residence
+location: Tangled Lines
+state: Delaware
+state_abbrev: DE
+city_longitude: -75.0746249
+city_latitude: 38.6928899
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

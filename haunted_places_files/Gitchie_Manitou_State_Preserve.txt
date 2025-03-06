@@ -1,0 +1,20 @@
+city: Sioux Falls
+country: United States
+description: Incredible place historically.  Occupied by the Oneota American Indians in the late 1600's and later the Yankton Sioux American Indians until the early 1900's, this continual American Indian occupation was a ceremonial place covered in large boulders that were thought to have healing properties.  Large boulders survive to this day with the "dimples" in the rock caused from the American Indian's tapping instruments into the rock and then grinding the chips of the boulder into powder to me mixed with other herbs and grasses as medicine.  At one time it was believed that in excess of 10,000 American Indians occupied this site.  Some excavations have discovered human projectile points dating back over 8500 years old.
+location: Gitchie Manitou State Preserve
+state: South Dakota
+state_abbrev: SD
+longitude: -96.5956912
+latitude: 43.4966832
+city_longitude: -96.7311034
+city_latitude: 43.5445959
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 0

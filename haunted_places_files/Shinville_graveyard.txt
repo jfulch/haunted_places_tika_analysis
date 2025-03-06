@@ -1,0 +1,19 @@
+city: Troutman
+country: United States
+description: there is supposedly a witch buried in this graveyard. there have been numerous sightings of a woman standing among the tombstones and if you stop the car she will look toward you and then vanish.
+location: Shinville graveyard
+state: North Carolina
+state_abbrev: NC
+city_longitude: -80.88812949999999
+city_latitude: 35.7006921
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

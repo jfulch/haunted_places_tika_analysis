@@ -1,0 +1,20 @@
+city: District of Columbia
+country: United States
+description: Senate - worker that was sealed alive in a wall during the construction of the building is seen.
+location: Capitol Building
+state: Washington DC
+state_abbrev: DC
+longitude: -77.0090505
+latitude: 38.8899389
+city_longitude: -77.0368707
+city_latitude: 38.9071923
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1787/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

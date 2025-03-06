@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: Many guests of this bed and breakfast in downtown Salt Lake City have reported odd things happening, such as the light fixtures shaking in the rooms, and seeing images of persons in the mirrors. Some have reported being locked in their rooms.
+location: Armstrong Mansion
+state: Utah
+state_abbrev: UT
+longitude: -111.8714448
+latitude: 40.7675201
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

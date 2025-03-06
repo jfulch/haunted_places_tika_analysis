@@ -1,0 +1,19 @@
+city: Salt Lake City
+country: United States
+description: The store downtown has been known for the cook who worked in the store's exquisite restaurant, who passed away a few years back, is still preparing meals and the sort for groups of women (who have also passed on) in the store's restaurant.
+location: ZCMI Department Store
+state: Utah
+state_abbrev: UT
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

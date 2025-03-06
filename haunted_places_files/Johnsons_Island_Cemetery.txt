@@ -1,0 +1,20 @@
+city: Marblehead
+country: United States
+description: This is a site where many soldiers died and were buried. It has been rumored that you can hear the gunshots followed by the screams of agony from the soldiers. Every other year, the memorial day parade is held on the island, and it has been said that the soldiers join us in our march around the island.
+location: Johnson's Island Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -82.7303106
+latitude: 41.5006214
+city_longitude: -82.7354623
+city_latitude: 41.5403281
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 0

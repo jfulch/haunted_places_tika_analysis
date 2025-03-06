@@ -1,0 +1,21 @@
+city: Eldersburg
+country: United States
+description: An abandoned sanitarium which later was used for treatment of ill-minded African Americans. On Henryton Rd. off of Marriottsville Rd. During the night time many of the rooms feel cold, as well as during the day, you can see people out of the corner of your eye until you turn and look, they disappear.
+location: Henryton
+state: Maryland
+state_abbrev: MD
+longitude: -76.9133105
+latitude: 39.3512158
+city_longitude: -76.9502567
+city_latitude: 39.40371469999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1783/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.45
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

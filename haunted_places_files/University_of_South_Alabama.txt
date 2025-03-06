@@ -1,0 +1,21 @@
+city: Mobile
+country: United States
+description: The Seaman's Bethel Chapel Theater - The Seaman's Bethel Chapel Theater - The basement is haunted by the ghost of a small child who plays in the costume shop. The ghost of a seaman in a captain's coat haunts the fly loft.
+location: University of South Alabama
+state: Alabama
+state_abbrev: AL
+longitude: -88.184236
+latitude: 30.6959406
+city_longitude: -88.0398912
+city_latitude: 30.6953657
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1864/05/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

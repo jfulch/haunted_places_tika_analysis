@@ -1,0 +1,21 @@
+city: McCracken
+country: United States
+description: CC Cohen Restaurant - Haunted History - CC Cohen Restaurant - Known to most Paducah residents as the Cohen building, this important structure was built around 1865, probably for M. Livingston & Company. Afterward, it became a clothing store, a dry goods store and in 1914, a Paducah City Directory identified the occupants as the R.L. Peacher Liquor Dealers and the Rehkopf Distilling Company
+location: Paducah
+state: Kentucky
+state_abbrev: KY
+longitude: -88.6000478
+latitude: 37.0833893
+city_longitude: -88.7108964
+city_latitude: 37.03306070000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1914/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

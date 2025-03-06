@@ -1,0 +1,21 @@
+city: Anniston
+country: United States
+description: The founder of the hospital, Mary Stringfellow was an old organ player. The nurses say that if you are working the third shift, you can hear the organ being played in the chapel. But no one is there if you go and look. The other haunting is the story of a man who committed suicide in one of the rooms by shooting himself in the head with a shotgun. Patients have said on numerous occasions that they can see the body of a headless man with blood on the wall in the corner of that room.
+location: Stringfellow Memorial Hospital
+state: Alabama
+state_abbrev: AL
+longitude: -85.8235966
+latitude: 33.6682403
+city_longitude: -85.8316318
+city_latitude: 33.6598257
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

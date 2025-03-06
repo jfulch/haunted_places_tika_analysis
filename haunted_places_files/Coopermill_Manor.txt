@@ -1,0 +1,20 @@
+city: Zanesville
+country: United States
+description: Used to be a Military base, Now Low income housing is haunted, If your outside late at night you can see a solider now and then.
+location: Coopermill Manor
+state: Ohio
+state_abbrev: OH
+longitude: -82.0121589
+latitude: 39.9276731
+city_longitude: -82.0131924
+city_latitude: 39.9403453
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

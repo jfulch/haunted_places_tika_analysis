@@ -1,0 +1,19 @@
+city: Wilmington
+country: United States
+description: in girls bathroom on the second floor lights will turn off and supposedly mister bancroft's red eyes are appearing to look back at you. on friday the thirteenth if you knock on the wall in the girls bathroom old mister bancroft will knock back.
+location: Bancroft Academy
+state: Delaware
+state_abbrev: DE
+longitude: -75.543921
+latitude: 39.74073
+city_longitude: -75.5397878
+city_latitude: 39.7390721
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

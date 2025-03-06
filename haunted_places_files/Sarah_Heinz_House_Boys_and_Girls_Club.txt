@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: This place is said to be haunted by 2 ghosts. On of which is Sarah Heinz who is what this building is named after, staff members said to have heard footsteps and saw flickering lights...and every so often they would hear very fait voices during the night. The other ghost is f a boy who died while playing basket ball in the gym, he was up on the balcony above the gym and was looking over into the gym and he accidentally fell, members and staff claimed to still hear a basketball bouncing even though there is nobody in the gym.
+location: Sarah Heinz House Boys and Girls Club
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.993256
+latitude: 40.454777
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

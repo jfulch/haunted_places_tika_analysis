@@ -1,0 +1,21 @@
+city: Orange
+country: United States
+description: Montgomery - Hill Avenue Cemetery - when we were children and visited this cemetery, there was always a man who wondered where his glowing balls were. to this day it still seems like it was just a dream. but as reported by many, as you drive the dark slopes of hill ave., between the twilight hours, there can be seen a man walking with two empty leashes saying, "have you seen my balls? i can't find my balls!"
+location: Pine Bush
+state: New York
+state_abbrev: NY
+longitude: -74.2990401
+latitude: 41.6081492
+city_longitude: -77.03341790000002
+city_latitude: 42.3401767
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1940/05/29
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

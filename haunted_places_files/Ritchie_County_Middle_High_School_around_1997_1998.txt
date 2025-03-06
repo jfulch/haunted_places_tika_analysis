@@ -1,0 +1,21 @@
+city: Ellenborro
+country: United States
+description: A teacher and her 2nd period class heard knocking and voices in the walls they thought it was odd because nobody was on either side of the walls, it was all 4 walls at one time, and way too loud to be another class.
+location: Ritchie County Middle / High School around 1997-1998.
+state: West Virginia
+state_abbrev: WV
+longitude: -81.06351049999999
+latitude: 39.26286289999999
+city_longitude: -81.0562217
+city_latitude: 39.2645232
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1974/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Anaheim Hills
+country: United States
+description: June 2008 Removed. No Murder has happened here. A teacher was, however, dragged out of a classroom and taken away in a straight jacket in 1978 or 1979 after having a mental breakdown, climbing up a wall shouting "There're going to kill me..."
+location: Esperanza High School
+state: California
+state_abbrev: CA
+longitude: -117.8028299
+latitude: 33.869256
+city_longitude: -117.7490656
+city_latitude: 33.8508021
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1978/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

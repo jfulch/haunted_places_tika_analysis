@@ -1,0 +1,21 @@
+city: Fairbanks
+country: United States
+description: As you first start to drive down this road, to your left is Birch Hill. Numerous people have seen what looks like glowing balls in the sky, that cast streaks of bright light everywhere. It has only been seen during the winter months at around 7PM or later.
+location: Chena Hot Springs Road
+state: Alaska
+state_abbrev: AK
+longitude: -146.8550798
+latitude: 64.8834779
+city_longitude: -147.7163888
+city_latitude: 64.8377778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 10h 52m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

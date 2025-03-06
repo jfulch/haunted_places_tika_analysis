@@ -1,0 +1,21 @@
+city: Aurora
+country: United States
+description: The Leland Tower, 21 stories and the tallest building in Aurora is said to be haunted. Numerous suicides have taken place by guests jumping from upper floors into the Fox River. At night bad smells come from the elevator banks and the elevators seem to moan.
+location: Leland Tower Hotel
+state: Illinois
+state_abbrev: IL
+longitude: -88.315389
+latitude: 41.7581429
+city_longitude: -88.32007150000001
+city_latitude: 41.7605849
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1926/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

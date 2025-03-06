@@ -1,0 +1,19 @@
+city: Mason County
+country: United States
+description: There was a woman in a white dress that got thrown in the well by her husband. Now she haunts the place. There was also a black guy who hung himself in the closet upstairs. If you go in the basement you can see blood on the walls you can also get lost down there. If you go in there at night you will hear the woman screaming and you will hear the black guy upstairs hang himself. Also the porch light is always on welcoming people but the place is abandoned with no electrical power.
+location: The Plumly Mansion
+state: West Virginia
+state_abbrev: WV
+city_longitude: -81.9971108
+city_latitude: 38.7553693
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

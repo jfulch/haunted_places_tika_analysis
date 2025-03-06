@@ -1,0 +1,21 @@
+city: Lawton
+country: United States
+description: Army Base was built on former Native Lands and was the site of massacre in early (?)1800's. Sightings of native American spirits, and unusual noises common place. Also, home to grave of famous chief: Geronimo.
+location: Fort Sill
+state: Oklahoma
+state_abbrev: OK
+longitude: -98.4184224
+latitude: 34.5938359
+city_longitude: -98.3959291
+city_latitude: 34.6035669
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

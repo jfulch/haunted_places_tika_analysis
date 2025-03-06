@@ -1,0 +1,21 @@
+city: Dunseith
+country: United States
+description: a camp once used as a reform ranch for boys, there are reports of hearing laughter in the trees where a boy hung himself after he and 4 other campers murdered the councilors/owners of the camp. there is also a feeling of being watched or chased thought the trees.
+location: Camp Mondak
+state: North Dakota
+state_abbrev: ND
+longitude: -103.6297705
+latitude: 48.145016
+city_longitude: -100.0609678
+city_latitude: 48.8130569
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 17m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

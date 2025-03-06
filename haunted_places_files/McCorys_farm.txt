@@ -1,0 +1,19 @@
+city: Delmont
+country: United States
+description: this site will defiantly make the hair stand up on your neck. This house is a two story wooden farm house, but the weird thing is their is two of them. Completely identical, this house is supposedly to be haunted by John Mc Cory. Back in 1984 he was sent to an insane asylum, because he killed his two children and hung his wife in the back yard. After he was released, he built a replica of the house and hung himself on the back porch. Feelings of being watched and not being alone are reported.
+location: McCorys farm
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -79.57032009999999
+city_latitude: 40.4131233
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1984/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

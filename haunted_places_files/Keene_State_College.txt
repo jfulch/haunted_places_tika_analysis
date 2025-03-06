@@ -1,0 +1,21 @@
+city: Keene
+country: United States
+description: Huntress Hall - Harriet Huntress is said to roam the attic and fourth floor of Huntress. In her later years she had to use a wheelchair to get around, and some say you can hear the wheels scraping against the floor. The wheelchair is still in the attic.
+location: Keene State College
+state: New Hampshire
+state_abbrev: NH
+longitude: -72.2822698
+latitude: 42.9249987
+city_longitude: -72.2781409
+city_latitude: 42.933692
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1909/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

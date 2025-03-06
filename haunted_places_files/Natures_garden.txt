@@ -1,0 +1,21 @@
+city: Orange City
+country: United States
+description: One day a face appeared in the window and seamed as if he was in agonizing pain and screaming.
+location: Natures garden
+state: Florida
+state_abbrev: FL
+longitude: -81.29717250000002
+latitude: 28.9233376
+city_longitude: -81.2986741
+city_latitude: 28.9488761
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

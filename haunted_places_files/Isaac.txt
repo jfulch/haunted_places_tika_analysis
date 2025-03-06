@@ -1,0 +1,21 @@
+city: Hamlin
+country: United States
+description: Slone Cemetery - There is the presence of a strange woman. She comes up behind you and blows on your ears. Sometimes she will even whisper a request. There are also two babies named Faith and Hope. You can hear giggling and crying. Sometimes, they can even be seen.
+location: Isaac
+state: West Virginia
+state_abbrev: WV
+longitude: -82.16371459999999
+latitude: 38.2442268
+city_longitude: -82.1029156
+city_latitude: 38.2787019
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

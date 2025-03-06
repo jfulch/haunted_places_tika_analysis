@@ -1,0 +1,21 @@
+city: Evarts
+country: United States
+description: Many residents of apartment complex have told that the have heard cries for help out in the middle of the night and have seen random faces appearing in their home many have had exorcism done on the homes.
+location: Eastbrook
+state: Kentucky
+state_abbrev: KY
+longitude: -83.28181119999999
+latitude: 36.8615715
+city_longitude: -83.1957118
+city_latitude: 36.8629065
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

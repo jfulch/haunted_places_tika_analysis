@@ -1,0 +1,21 @@
+city: Lowell
+country: United States
+description: The TV in the women area changes channels and goes on & off by itself. If you’re downstairs alone you will sometimes hear your name called. While in the shower you can see a shadow walk by. Things disappear and will reappear days later in a different spot. While sleeping some have had their beds shaken and blankets pulled down. A few people, while watching TV, have had their shirts tugged at. And once in a while the lights will flicker on & off and radio dials will change on there own.
+location: Lowell transitional Living Center (Middlesex Shelter)
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.3124059
+latitude: 42.6409495
+city_longitude: -71.31617179999999
+city_latitude: 42.6334247
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

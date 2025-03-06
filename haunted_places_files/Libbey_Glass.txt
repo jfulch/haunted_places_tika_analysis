@@ -1,0 +1,20 @@
+city: Toledo
+country: United States
+description: V.C WareHouse - Many Years Ago A man hung himself in the Exterior of the warehouse, There have been events such as Stuff being moved around, Objects thrown, Very Cold Spots Within the building's Vicinity, And Apparitions.
+location: Libbey Glass
+state: Ohio
+state_abbrev: OH
+longitude: -83.5432167
+latitude: 41.6455777
+city_longitude: -83.55521200000001
+city_latitude: 41.6639383
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 0

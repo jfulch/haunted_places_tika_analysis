@@ -1,0 +1,21 @@
+city: Rockford
+country: United States
+description: An interesting place is our Rockford Board of Education building at 201 S Madison St in Rockford. The head custodian there has for many years told stories of the evening shift custodians and the basement. The building was at first built as Rockford Central High School near the turn of the 20th century. It has two buildings attached to it and an underground hallway that my mother (deceased) used as a student and they called that passage "rat alley". The hallway connected the first building to the second building. The basement of the "haunted" area used to be the "shop" area and housed small machines for the male students to practice machine skills. It is not clear what happened down there, but the custodians DON'T like to go down there at night, the lights will turn on after being turned OFF. Many a morning the head custodian will arrive for his day shift and find all the lights on in the basement. The lights seem to have a will of their own. A former secretarythought it was strange to hear hear grown men sound afraid of the basement. They hear noises down there, voices, all kinds of things.
+location: Rockford Board of Education Building
+state: Illinois
+state_abbrev: IL
+longitude: -89.081763
+latitude: 42.2623522
+city_longitude: -89.0939952
+city_latitude: 42.2711311
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1847/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

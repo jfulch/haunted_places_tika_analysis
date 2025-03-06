@@ -1,0 +1,21 @@
+city: Boonton
+country: United States
+description: It was closed for many years and was finally bought and used for children's theater (like Snow White, etc.) and they also show movies there at night, too. The people that are there late at night say they hear voices, footsteps and the chair seats move. There have also been reports of singing coming from the theater when everyone has gone home for the night.
+location: Darress Theater
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.4106608
+latitude: 40.9052101
+city_longitude: -74.4087405
+city_latitude: 40.904019
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

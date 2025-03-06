@@ -1,0 +1,21 @@
+city: Cave Spring
+country: United States
+description: In downtown Cave Spring Ga. there is an old school for the Deaf which has buildings that were used during the Civil War. One of there buildings is a former infirmary. There are still bloodstains on the walls and floor and footsteps and crying can be heard. A physic was hired to investigate the building but refused to enter when she arrived because she said "There were to many evil spirits present". There is also a ghost of a lady that can be seen wandering through the vast fields of kudzu around the campus. People report having seen her usually after they see herds of deer standing and then running away.
+location: Old School for the Deaf
+state: Georgia
+state_abbrev: GA
+longitude: -85.349041
+latitude: 34.0960231
+city_longitude: -85.33634339999999
+city_latitude: 34.1075975
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Walworth
+country: United States
+description: It is said a janitor that fell down the steps to the boiler room haunts the school. He doesn't harm anyone, but doesn't know how to leave the school.
+location: Walworth Grade School
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.60079060000001
+latitude: 42.5300764
+city_longitude: -88.5995456
+city_latitude: 42.5311279
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1969/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

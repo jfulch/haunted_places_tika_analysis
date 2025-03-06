@@ -1,0 +1,21 @@
+city: San Jacinto
+country: United States
+description: Feathers and Fur - Sounds and sightings. Shadows that appear in several different places and then disappearing. An occasional voice that sounds like somebody whispering. Also sighted, an old guy with a military type of uniform on who staggers through the walkways and seems to appear under certain situations usually at night.
+location: Lauis's Pet Store
+state: California
+state_abbrev: CA
+longitude: -116.9770025
+latitude: 33.7727595
+city_longitude: -116.958635
+city_latitude: 33.7839084
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1901/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: War
+witness_count: 1

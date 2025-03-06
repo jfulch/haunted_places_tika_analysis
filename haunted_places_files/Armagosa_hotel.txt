@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: it is said that a little girl named Mary was murdered in her room {room 34 as seen on Criss Angel} as you walk in the room you will see a tall figure in the window of the murderer and you will feel an undescribed feeling in the room and the theater.
+location: Armagosa hotel
+state: Nevada
+state_abbrev: NV
+longitude: -115.141944
+latitude: 36.1715203
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

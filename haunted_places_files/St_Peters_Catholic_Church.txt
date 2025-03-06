@@ -1,0 +1,21 @@
+city: Harper's Ferry
+country: United States
+description: Many people have seen the priest standing outside of the church, and several people have heard the screams of the wounded soldiers.
+location: St. Peters Catholic Church
+state: West Virginia
+state_abbrev: WV
+longitude: -77.7312573
+latitude: 39.3227623
+city_longitude: -77.7388818
+city_latitude: 39.3253786
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: War
+witness_count: 1

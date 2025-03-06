@@ -1,0 +1,21 @@
+city: Cedar City
+country: United States
+description: If you drive by the street at night, you will see an old lady starting out the window at you.  Also there is weird lights on and shapes moving around.  There is one window that can be looked in that one half of the room is lighted red and the other half is lighted green.
+location: Abandoned Retirement Center
+state: Utah
+state_abbrev: UT
+longitude: -113.082312
+latitude: 37.6602092
+city_longitude: -113.0618931
+city_latitude: 37.67747689999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

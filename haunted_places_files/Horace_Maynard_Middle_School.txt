@@ -1,0 +1,21 @@
+city: Union County
+country: United States
+description: Well this school is About 60 years old. But the janitors were cleaning and they heard girls laughing. Sometimes they will knock on the front door. Sometimes they can see the girls running down the oldest (6grade) hall.
+location: Horace Maynard Middle School
+state: Tennessee
+state_abbrev: TN
+longitude: -83.80772859999999
+latitude: 36.2467684
+city_longitude: -83.804868
+city_latitude: 36.3194272
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 1

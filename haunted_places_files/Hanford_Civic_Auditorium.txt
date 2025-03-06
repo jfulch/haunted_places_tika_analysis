@@ -1,0 +1,21 @@
+city: Hanford
+country: United States
+description: When first entering the Civic Auditorium, there can be felt very cold breezes that pass by even when all windows are closed. In the boys bathroom, there can be heard men talking about legal issues when no one is around and occasionally, a lawyer in a older style brown suit and rugged briefcase can be seen on Christmas day. Windows with latches come undone by themselves, and the windows will open and close and re-latch on its own. Within the Auditorium itself, ghosts can be seen on the upper balcony watching an invisible show. The most noted person was a man in a black suit with a white shirt on; he has dark brown hair and brown eyes, with a black mustache. He is often seen applauding for an invisible show, and once done applauding he vanishes.
+location: Hanford Civic Auditorium
+state: California
+state_abbrev: CA
+longitude: -119.6467996
+latitude: 36.3293276
+city_longitude: -119.6456844
+city_latitude: 36.3274502
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

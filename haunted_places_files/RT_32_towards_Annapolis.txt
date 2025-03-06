@@ -1,0 +1,19 @@
+city: Crownsville
+country: United States
+description: If you stop on the side of the road about 2:30am there have been sightings of a woman in a car with head lights suddenly appearing behind you without a sound. She will get out and ask you if everything is all right. And then she will walk back to her car and suddenly disappear again without a sound.
+location: RT 32 towards Annapolis
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.6013536
+city_latitude: 39.0284438
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

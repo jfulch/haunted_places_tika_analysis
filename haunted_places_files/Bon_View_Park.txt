@@ -1,0 +1,20 @@
+city: Ontario
+country: United States
+description: Center - A little girl about 7 or 8 years old was raped and killed there. Sightings of her occur after 10:00 p.m. Where she hides behind trees, people say its because she wants to play Hide-and-seek with you.
+location: Bon View Park
+state: California
+state_abbrev: CA
+longitude: -117.6376751
+latitude: 34.0525877
+city_longitude: -117.6508876
+city_latitude: 34.0633443
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Murder
+witness_count: 1

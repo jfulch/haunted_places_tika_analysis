@@ -1,0 +1,21 @@
+city: Harlingen
+country: United States
+description: Towards Brownsville. This place was used a while ago but is now disserted. Supposedly, if you go there at night you can hear people screaming and people walking around at night. Many people had died there so maybe its there ghosts walking around.
+location: Harlingen Insane Asylum
+state: Texas
+state_abbrev: TX
+longitude: -97.6722054
+latitude: 26.1631512
+city_longitude: -97.6961026
+city_latitude: 26.1906306
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1846/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 0

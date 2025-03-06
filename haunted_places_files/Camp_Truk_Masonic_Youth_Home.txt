@@ -1,0 +1,21 @@
+city: Woodgate
+country: United States
+description: This camp use to be an orphanage. It is said that every cabin there is hunted by one ghost it is also rumored that the lake we swim in is full of dead bodies, that after a child there died they would either throw them in the lake to bury them. Many of the kids have seen apparitions.
+location: Camp Truk Masonic Youth Home
+state: New York
+state_abbrev: NY
+longitude: -75.17761519999999
+latitude: 43.535691
+city_longitude: -75.1548888
+city_latitude: 43.5203464
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

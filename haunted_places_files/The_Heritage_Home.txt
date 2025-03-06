@@ -1,0 +1,21 @@
+city: Santa Fe
+country: United States
+description: an old turn-of-the-century site where criminals were hung from the large cottonwood in front of the building. The tree's limbs have long since been cut down, however the shadows of the limbs are still casting on moonlit nights.
+location: The Heritage Home
+state: New Mexico
+state_abbrev: NM
+longitude: -105.940563
+latitude: 35.69126019999999
+city_longitude: -105.937799
+city_latitude: 35.6869752
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

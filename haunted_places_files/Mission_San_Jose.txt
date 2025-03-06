@@ -1,0 +1,21 @@
+city: Fremont
+country: United States
+description: Built in the late 1700's, Mission San Jose has had a lot of curious history. A fire destroyed the original Mission, and the 1906 earthquake leveled the old church. Both have been rebuilt, the church about 12 years ago and the mission in the 1800's. There are cold spots and mists in the mission itself, uncanny feelings and mists in the courtyard by the fountain. An old cemetery adjacent to the church is the site of many disturbances, including unexplained whispers and crying (several Fremont pioneers are buried here, as well as countless Natives). Also in the church itself, where there are graves in the floor in the Sanctuary and in front of the altar. Severe cold spits are felt near the graves. Across the street from the mission sits an historic tavern, where witnesses say they have seen several Native looking people in old clothing cross the street and disappear as soon as th ey enter the courtyard of the mission.
+location: Mission San Jose
+state: California
+state_abbrev: CA
+longitude: -121.9196936
+latitude: 37.53388990000001
+city_longitude: -121.9885719
+city_latitude: 37.5482697
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

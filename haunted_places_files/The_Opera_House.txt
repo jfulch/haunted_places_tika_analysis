@@ -1,0 +1,21 @@
+city: Eau Claire
+country: United States
+description: The Opera House was made over and they built a customer service center on the top floor. It has been said that in the break room is where the actors would change and that a few actors died there. Sometimes late at night the doors to the break room shut by themselves and the chairs will move. There have also been sightings of two old people watching the workers and standing in corners.
+location: The Opera House
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.4988926
+latitude: 44.8099229
+city_longitude: -91.4984941
+city_latitude: 44.811349
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

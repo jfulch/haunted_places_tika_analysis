@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: Neihardt Hall - which is haunted by Cora, a young lady that killed herself in the basement. The Lay Theater that is haunted by a very mischievous ghost. The Willow Bowl which is said to be haunted by a young man that committed suicide there a few years ago. And a young girl who was playing in the tunnels when her ball rolled into a cubbyhole with bare electrical wires haunts the tunnels between the dorms.
+location: Wayne State College
+state: Nebraska
+state_abbrev: NE
+longitude: -97.0145104
+latitude: 42.2426999
+city_longitude: -97.0178236
+city_latitude: 42.2305588
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1745/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

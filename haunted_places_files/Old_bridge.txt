@@ -1,0 +1,21 @@
+city: Raleigh
+country: United States
+description: At 12:00 midnight, if you cross this bridge in the middle of nowhere, your car cuts off. You can hear children screaming and after it fades, you can drive your car off the bridge. There will be handprints all over the car, also. You can't start your car again until the screams fade.
+location: Old Bridge
+state: North Carolina
+state_abbrev: NC
+longitude: -78.7481564
+latitude: 35.741436
+city_longitude: -78.6381787
+city_latitude: 35.7795897
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

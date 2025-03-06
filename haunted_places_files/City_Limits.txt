@@ -1,0 +1,19 @@
+city: Red Level
+country: United States
+description: Oakey Streak - Late at night, if you go there between the hours of 1AM and 3AM, stand at the gate of the cemetery and ask questions, you will hear someone running towards you and answer you. Then they will tell you to get out. If you don't leave, you will hear a woman scream bloody murder until you do leave. There is also a white building at the entrance of the cemetery. If you drive in, turn off your car and leave the headlights on, you will see a ghostly figure walk out from behind the building into the graveyard.
+location: City Limits
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.61218610000002
+city_latitude: 31.4071111
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1831/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

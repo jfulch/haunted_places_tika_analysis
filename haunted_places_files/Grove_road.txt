@@ -1,0 +1,20 @@
+city: North Haven
+country: United States
+description: water coming from the ceiling, no pipes in ceiling, seeing water drip from ceiling. But no water on floor, middle bedroom get cold and quite, cat’s hair stands up. Wife committed suicide, by carbon monoxide poison.
+location: Grove road
+state: Connecticut
+state_abbrev: CT
+longitude: -72.8480908
+latitude: 41.3848928
+city_longitude: -72.8595447
+city_latitude: 41.39091390000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1740/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Buffalo
+country: United States
+description: Located on Main Street, many of the students and staff have reported seeing several nuns on 3rd floor in old dormitories. Nuns would go and ring the church bell (its no longer functioning) but students can't hear the bell due to their hearing impairments but there are no reports of sounds but a lot of visuals. A little boy was reported to be seen on campus walking around Bosco Hall since it used to have a swimming pool and now converted into a small gym. Boy drowned in the pool in 1950's (possible earlier) students would also report seeing nuns roaming halls like its a residual haunting. It repeats over and over coming out of a certain door and walking down the hall and disappearing.
+location: St. Mary's School for the Deaf
+state: New York
+state_abbrev: NY
+longitude: -78.8470834
+latitude: 42.9307251
+city_longitude: -78.8783689
+city_latitude: 42.88644679999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1950/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

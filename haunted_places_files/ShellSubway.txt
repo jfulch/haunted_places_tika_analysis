@@ -1,0 +1,21 @@
+city: Vassar
+country: United States
+description: Cooler doors opening and closing one after the other, toys and merchandise rolling across the floor when there is no one in the building except for the on duty employee. Wind chimes all start jingling at the same time, as if a fan was just turned on facing them. The oven dials at subway change temperatures for no apparent reason. Screams have been heard. Babies are said to be heard crying in the freezer as well.
+location: Shell/Subway
+state: Michigan
+state_abbrev: MI
+longitude: -83.59369459999999
+latitude: 43.3734243
+city_longitude: -83.58329169999999
+city_latitude: 43.3719678
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2021/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

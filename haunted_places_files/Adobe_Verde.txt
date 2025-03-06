@@ -1,0 +1,21 @@
+city: Comal County – Gruene
+country: United States
+description: In the 1920's this Tex-Mex restaurant was one of the first electric cotton gins. Back in the early days of the cotton gin, a grounds keeper known to present employees as "Frank" supposedly hung himself from the rafters of the vaulted ceiling. He couldn't bear to live without his recently deceased lover. "Frank" now roams the restaurant playing practical jokes like turning lights on and off, throwing things off counters, and bumping glasses together. Sometimes you can even hear someone with boots on running back and forth along the upstairs dining area, but when you go and look around know one is there.
+location: Adobe Verde
+state: Texas
+state_abbrev: TX
+longitude: -98.101817
+latitude: 29.740118
+city_longitude: -98.1031393
+city_latitude: 29.7380863
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1789/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

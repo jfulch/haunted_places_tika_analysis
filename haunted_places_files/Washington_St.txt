@@ -1,0 +1,21 @@
+city: Cumberland
+country: United States
+description: A lady ghost has been seen wandering the house. Noises of loud banging, children laughing and a girl crying has been heard. shades and blinds go up and things are always being lost. As though they were moved. The house has been blessed but he noises of children laughing and crying are still heard. Strange odors also come and go. Such as a garlic odor, smoke etc...
+location: Washington St.
+state: Maryland
+state_abbrev: MD
+longitude: -78.77445039999999
+latitude: 39.6518308
+city_longitude: -78.7625185
+city_latitude: 39.6528654
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

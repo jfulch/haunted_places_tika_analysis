@@ -1,0 +1,20 @@
+city: Urbana
+country: United States
+description: they say that there is a girl that roams the schools hallways and only a few girls have seen her but they say that she just smiles at you.
+location: Urbana Jr / Sr high school
+state: Ohio
+state_abbrev: OH
+longitude: -83.742943
+latitude: 40.112767
+city_longitude: -83.7524298
+city_latitude: 40.1083912
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1597/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

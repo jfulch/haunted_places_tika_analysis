@@ -1,0 +1,21 @@
+city: Sherrill
+country: United States
+description: The house is now a bed and breakfast and it is said to be believed that the bottom two floors that are now not accessible are haunted.
+location: The Mansion House
+state: New York
+state_abbrev: NY
+longitude: -75.60484699999999
+latitude: 43.0603741
+city_longitude: -75.5982353
+city_latitude: 43.0736798
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

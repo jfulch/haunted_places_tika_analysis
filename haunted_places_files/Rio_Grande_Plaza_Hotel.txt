@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: This hotel is the largest building in Laredo, and is also the only building in Laredo with a 13th floor(due to superstition, no other building makes a 13th floor). A story goes that one of the workers in the hotel had died but he is still seen in the hotel today. He can be seen cleaning in the hotel room floors, and several guests and workers call out to him, but he does not respond. He still wears his traditional brown working uniform and constantly appears and disappears from sight. Other things reported in the building are scratching sounds in the 15th floor and stairway, the falling of objects, phone call disruptions and mysterious phone calls, and the sounds of children running.
+location: Rio Grande Plaza Hotel
+state: Texas
+state_abbrev: TX
+longitude: -99.5131271
+latitude: 27.5012261
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1755/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

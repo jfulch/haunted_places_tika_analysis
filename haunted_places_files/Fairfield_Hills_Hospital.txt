@@ -1,0 +1,20 @@
+city: Newtown
+country: United States
+description: Fairfield Hills is a former mental institution that is not vacant. It is said to be haunted by former patients.
+location: Fairfield Hills Hospital
+state: Connecticut
+state_abbrev: CT
+longitude: -73.2850983
+latitude: 41.4012227
+city_longitude: -73.3035651
+city_latitude: 41.4141172
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1963/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

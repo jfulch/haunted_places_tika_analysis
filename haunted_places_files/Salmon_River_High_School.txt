@@ -1,0 +1,21 @@
+city: Fort Covington
+country: United States
+description: The building is said to be haunted by a disembodied spirit that opens and closes doors late at night.
+location: Salmon River High School
+state: New York
+state_abbrev: NY
+longitude: -74.5188632
+latitude: 44.9621426
+city_longitude: -74.49651
+city_latitude: 44.988444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

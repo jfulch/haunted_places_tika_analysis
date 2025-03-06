@@ -1,0 +1,19 @@
+city: Clarion
+country: United States
+description: It all started when these two friends that loved to prove people wrong. The story goes that if you go in this house and go up stairs there will be pictures on the floor you are suppose to pick it up and take it home and put it on your chest and go to sleep. When you wake up and it will be gone. you go back to the house and go up stairs and you will see it right where you got it. In the pic is a black figure. He is called George and you shouldn't let him touch you because it is said that after he dose he takes part of you with him. How we know is about this one of the boys got touch and went crazy and is gone for the rest of his life in a asylum and the other still see George even though the house is gone!
+location: George
+state: Iowa
+state_abbrev: IA
+city_longitude: -93.732992
+city_latitude: 42.7316387
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Westmoreland
+country: United States
+description: Old Bush Creek Cemetery - There is a great deal of history to this site. It is haunted by spirits of Choctaw Indians who were attacked by English settlers many years ago. You can see shadows of things, negative entities, as well as the sound of footsteps in the grass.
+location: Leger Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.7504448
+latitude: 40.3496579
+city_longitude: -79.4703885
+city_latitude: 40.2353963
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1824/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

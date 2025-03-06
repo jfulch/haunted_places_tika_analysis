@@ -1,0 +1,21 @@
+city: Rochester
+country: United States
+description: When you go to the top of the stair case you will hear foot steps coming up the stairs but no one will be there. It also gets very cold at the top of the Stair case. Located on 4th Street in Downtown Rochester.
+location: Denise's Hair Cuts
+state: Michigan
+state_abbrev: MI
+longitude: -83.1330286
+latitude: 42.6941997
+city_longitude: -83.1338214
+city_latitude: 42.680588
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Nantucket
+country: United States
+description: A former chicken coop that was used as a speakeasy during prohibition and is now a popular bar and nightspot. In the early morning hours one winter, a person reported seeing a number of people in the parking lot dragging a case about the size of a refrigerator. The police were dispatched, but as their headlamps and spotlights passed over the people, they disappeared. After the police left, the men returned and dragged the box closer to the bar. The person who had reported them before saw one in her car. The police were dispatched again and again they disappeared when the light hit them. The police left, the men reappeared and managed to get the box inside. The next morning the woman tried to start her car only to find that the battery had gone dead.
+location: The Chicken Box
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.09173009999999
+latitude: 41.2728012
+city_longitude: -70.099451
+city_latitude: 41.2834704
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

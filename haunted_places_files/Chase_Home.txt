@@ -1,0 +1,21 @@
+city: Portsmouth
+country: United States
+description: There have been many occurrences over the years. The house was originally built in the late 19th century and was a home for orphaned children and then became a court appointed children's home in the past few decades. A young girl who hung herself in her dorm room has been seen in the hallway late at night and when she is approached she runs down the hall and disappears. There are also screams of a young girl in the girl's dorm late at night. The third floor, formerly used for counselors who lived at the home, has been empty for years but footsteps can still be heard walking and running towards the stairs and then they stop. On at least one occasion when staff was in the kitchen discussing ghosts and they shut off the lights the ceiling fans turned on. The only switch for the fans is on the other side of the kitchen 20 ft. away. Locked doors are mysteriously unlocked and opened when the only people that have a key to them are not and have not been in the house that day.
+location: Chase Home
+state: New Hampshire
+state_abbrev: NH
+longitude: -70.776642
+latitude: 43.0585583
+city_longitude: -70.7625532
+city_latitude: 43.0717552
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

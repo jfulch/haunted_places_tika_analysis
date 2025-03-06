@@ -1,0 +1,21 @@
+city: Roswell
+country: United States
+description: it seems to happen every Sunday during October, but if you drive down Country Club towards the pecan fields after midnight there is a little boy who runs across the street crying. if you listen you can hear the sounds of a little kid crying. he'll look over to you. he has no legs.
+location: Pecan Fields
+state: New Mexico
+state_abbrev: NM
+longitude: -104.5947466
+latitude: 33.4372407
+city_longitude: -104.5230242
+city_latitude: 33.3942655
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

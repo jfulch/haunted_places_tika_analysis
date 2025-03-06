@@ -1,0 +1,21 @@
+city: Staten Island
+country: United States
+description: Richmond Town is located off of Amboy Road in Staten Island New York with a number of historical houses to visit. The houses range from 100-300 years old. All of the houses are known to have spirits in them. If you go there late at night, there is a specific house located on one of the side streets, which is white in color with a green cellar door on the side of the house. If you look up at the left hand window, you will without a doubt see the apparition of a little boy in the window. Two little boys were known to have died in the upper level of the house. You can go on a tour of Richmond Town during the day with the tour guides,(but it's more fun to explore at night). The up stairs in the children's house smells like a hospital, and the kitchen of the children's house still smells like the burning of the stove after a meal. If you go near the kitchen window at night, it smells like something was just cooked on the wood-burning stove. The schoolhouse in historical Richmond town is also haunted. There is also a small graveyard next to the old courthouse in Richmond Town, which has many restless spirits in it. One spirit is that of a young girl with a broken heart, who has been known to wander around at night looking for her lost love. When boys walk passed the graveyard or through Richmond Town, she sometimes mistakes them for being her long lost love.
+location: Richmond Town
+state: New York
+state_abbrev: NY
+longitude: -74.1342726
+latitude: 40.5673546
+city_longitude: -74.1502007
+city_latitude: 40.5795317
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

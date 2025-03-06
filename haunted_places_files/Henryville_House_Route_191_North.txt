@@ -1,0 +1,19 @@
+city: Henryville
+country: United States
+description: It is an old hotel that is currently out of business. It has at least nine spirits currently residing there. As far as we know there is a small child, three grown males and five grown females. They usually do not cause problems unless they are provoked. It is also believed that there is an old Native American burial ground on the property.
+location: Henryville House Route 191 North
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -75.2412927
+city_latitude: 41.0937032
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,17 @@
+city: USS Siapan
+country: United States
+description: Witnesses report being watched and felt very uncomfortable and scared. Flashes of light and shadows as well.
+location: USS Siapans V-decks
+state: Virginia
+state_abbrev: VA
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

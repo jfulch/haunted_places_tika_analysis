@@ -1,0 +1,20 @@
+city: Samantha
+country: United States
+description: You travel down the twisted lane until you reach a small bridge. It is said that once you arrive you are to pull onto the bridge, shut off your car engine and roll down your windows. It is then that you will hear the cries of a baby that was hung there by her mother. Some have even said that they got out and looked over the bridge and saw the rope with a noose that was actually used to hang the baby. Strange animals also appear as you go down the road.
+location: Black Rabbit Road
+state: Ohio
+state_abbrev: OH
+longitude: -83.55243800000001
+latitude: 39.293779
+city_longitude: -83.59186439999999
+city_latitude: 39.2833968
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

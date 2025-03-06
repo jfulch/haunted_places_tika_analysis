@@ -1,0 +1,21 @@
+city: Jackson
+country: United States
+description: While the rest of the theater is pleasant enough, the basement is a whole other story. While performing there, members of our group were unwilling to go alone into the basement for some props and folding chairs. If you attempt it alone and are the least bit sensitive you'll find yourself frozen in place on the top step. The sense of evil is overwhelming. When accompanied and with several lights on, you'll get the feeling of being watched from the shadows (of which there are plenty).
+location: Michigan Theater
+state: Michigan
+state_abbrev: MI
+longitude: -84.40610939999999
+latitude: 42.24801739999999
+city_longitude: -84.40134619999999
+city_latitude: 42.245869
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

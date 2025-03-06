@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: A few years ago Jeans Hospital was having financial difficulties and there were rumors that it would be bought out. It is said that Anna-May Jeans (founder of the hospital) began appearing to various members of the staff to show her disapproval of a buy-out.
+location: Jeans Hospital
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.0874949
+latitude: 40.0711
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1998/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

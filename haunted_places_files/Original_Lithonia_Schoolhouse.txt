@@ -1,0 +1,19 @@
+city: Lithonia
+country: United States
+description: Located on Stephenson Road, across from a rock quarry, is the original Lithonia schoolhouse, built circa 1865. It has been converted to a private residence, but the ghosts of children are frequently seen. Many of the former pupils are buried in an old church cemetery located about 200 yards away. 8-year-old Elizabeth has been seen by several individuals (including psychic Shirley Janey) flaunting her golden-brown curls. Several people have also seen the ghost of a teenage boy walking around the entry hall, as well as a mysterious hooded figure. The rustling sounds of a schoolmarm's heavily starched dresses are frequently heard as well.
+location: Original Lithonia Schoolhouse
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.1051939
+city_latitude: 33.7123305
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1865/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

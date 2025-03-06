@@ -1,0 +1,21 @@
+city: Huntington
+country: United States
+description: it is said that a woman died on the train track and if you go over the tracks that your car will die and she will come and push you off and then she will go down the center of the car and go into somebody and show then how she died and what she went through. And when you leave there will be blood all over your car.
+location: Polk road
+state: Indiana
+state_abbrev: IN
+longitude: -85.5054564
+latitude: 40.8842404
+city_longitude: -85.49747599999999
+city_latitude: 40.8831011
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

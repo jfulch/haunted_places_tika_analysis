@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Is said to be haunted by a Fort Bliss Military Soldier that died of a heart attack while smoking in the men's room. A man dresses in a military uniform has been seen on the right side of the stairs smoking a cigarette. & Reports of hearing someone choking in the basement.
+location: Plaza Theater
+state: Texas
+state_abbrev: TX
+longitude: -106.4896401
+latitude: 31.7590901
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 1

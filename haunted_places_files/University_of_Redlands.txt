@@ -1,0 +1,21 @@
+city: Redlands
+country: United States
+description: Merriam Hall - The ghost of a man in army clothing wanders the halls of Merriam, a dormitory. He is known for sitting in the bathroom stall next to yours late at night. Many have reported seeing boots in the next stall when in fact; there was no one in there but them. At night, when some girls are brushing their hair in the mirror, they see the reflection of a man wearing army clothing.
+location: University of Redlands
+state: California
+state_abbrev: CA
+longitude: -117.1632426
+latitude: 34.0630404
+city_longitude: -117.1825381
+city_latitude: 34.0555693
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

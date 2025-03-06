@@ -1,0 +1,21 @@
+city: Paducah
+country: United States
+description: There have been reports of 4 gangsters roaming the halls and firing blanks at students. at night the janitors have reported smoke and the smell of marijuana coming out of the boys locker room.
+location: Paducah Middle School
+state: Kentucky
+state_abbrev: KY
+longitude: -88.6368396
+latitude: 37.0668915
+city_longitude: -88.6000478
+city_latitude: 37.0833893
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Pinckney
+country: United States
+description: Stories have been told that in the late 20's a mother and father were murdered and had their bodies dropped in Cordley lake. People that live there now say that to this day you still hear the screams of the children as they see their mother and father murdered before them. Sometimes at night you can hear children running up and down the road screaming for someone to help their parents.
+location: Cordley Lake
+state: Michigan
+state_abbrev: MI
+longitude: -83.8693637
+latitude: 42.4515494
+city_longitude: -83.9463358
+city_latitude: 42.4567013
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

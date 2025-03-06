@@ -1,0 +1,20 @@
+city: Denver
+country: United States
+description: The infamous house of Margaret Brown is haunted, although by who has not yet been determined. An investigator found cold spots throughout the house, the scent of pipe tobacco when no one was smoking, & doors that had "a mind of their own". Apparitions also seen. The house is now a tourist attraction.
+location: Molly Brown House
+state: Colorado
+state_abbrev: CO
+longitude: -104.980736
+latitude: 39.737494
+city_longitude: -104.990251
+city_latitude: 39.7392358
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

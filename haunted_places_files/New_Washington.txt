@@ -1,0 +1,20 @@
+city: Crawford
+country: United States
+description: Union - there is a gravestone of a woman's picture on it. she is wearing a necklace and if you go there late at night and look at it close enough the necklace will move and the lady's facial expression changes. There is also abig staure of Mrs. Kline as you come into the cemetary that makes the hair on the back of your neck stand straight up day or night. New washington is located in between Clevelend and columbus. 45 minutes away from mansfield ohio. it is off of rt. 602. The founder of the town george washington carver is also buried in the cemetary.
+location: New Washington
+state: Ohio
+state_abbrev: OH
+longitude: -82.85435009999999
+latitude: 40.9622784
+city_longitude: -82.99316069999999
+city_latitude: 40.8268068
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1913/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Shawnee
+country: United States
+description: Merchandise and clothes are found on the floor the next morning after employees have cleaned and closed the store. Strange noises are heard in the back rooms. The double doors in the back are heard flapping when customers leave the store. Some employees say they have seen a man wearing gray walk through the store then disappear. Rumor has it a man who had been shot broke into the building to hide. He had climbed up to the second story and bled to death there. Employees have nicknamed this ghost "Charlie" and are used to the strange and unexplained occurrences.
+location: Wall's Bargain Center
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.9166369
+latitude: 35.3271516
+city_longitude: -96.9253004
+city_latitude: 35.3272928
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

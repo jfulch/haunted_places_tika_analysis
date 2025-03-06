@@ -1,0 +1,21 @@
+city: Makaha
+country: United States
+description: at night, there are children walking and playing around the site of the pool, where they have died. You can feel them by your side and hear footsteps behind you when you're there a night
+location: Makaha Shereton golf club
+state: Hawaii
+state_abbrev: HI
+longitude: -158.1930733
+latitude: 21.4787464
+city_longitude: -158.2206477
+city_latitude: 21.4634328
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Dearborn
+country: United States
+description: Overnight maintenance and guards have reported seeing children running through the building. The lifeguard break room is always cold and often feels like someone is watching. At night the gates rattle and shake. Children can be heard calling out "Jack" (the person the pool is named for) or the night maintenance man's name. Also footsteps can be heard throughout the night. Police often are called in to make sure it is not vandals. Never find anything but the noises continue.
+location: Dunworth Pool (Seashore)
+state: Michigan
+state_abbrev: MI
+longitude: -83.2780925
+latitude: 42.3171511
+city_longitude: -83.17631449999999
+city_latitude: 42.3222599
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

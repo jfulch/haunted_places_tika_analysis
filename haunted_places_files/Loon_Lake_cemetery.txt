@@ -1,0 +1,20 @@
+city: Loon Lake
+country: United States
+description: The cemetery at Loon Lake, Minn. is said to be haunted by the ghost of a witch that is buried there. You can find the cemetery on the Lake's southeast shore. Turn into "Brown's Campgrounds" they have signs directing you to it's sight. It's open during the day only!
+location: Loon Lake cemetery
+state: Minnesota
+state_abbrev: MN
+longitude: -95.0935967
+latitude: 43.5265171
+city_longitude: -90.6528603
+city_latitude: 48.0716264
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

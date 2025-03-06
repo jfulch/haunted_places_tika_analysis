@@ -1,0 +1,21 @@
+city: Ridgecrest
+country: United States
+description: There are two ghosts in the lecture center. One man died when he fell off some scaffold and dropped 100 feet on his head during the building of the auditorium. The second man was an actor in a play by the school's drama club. A scene where the main character was shot was tragically ended when another member of the club put a live bullet in the prop gun for the play. Custodians in the building report lights being turned back on after several attempts to turn them off. And a seat on the left side has cold areas noticed by anyone who sits there. During plays where a scene is very sad, the left curtain blows when there is no draft.
+location: Burroughs High School Lecture Center
+state: California
+state_abbrev: CA
+longitude: -117.6594539
+latitude: 35.6359364
+city_longitude: -117.6708966
+city_latitude: 35.6224561
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

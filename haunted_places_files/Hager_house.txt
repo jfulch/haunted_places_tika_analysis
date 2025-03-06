@@ -1,0 +1,21 @@
+city: Hagerstown
+country: United States
+description: Built in the 1700's, many families have occupied this house. According to "Legends", a local television broadcast, sometimes a dark figure appears on the porch, and voices are heard within the house. The curator once heard footsteps going up the stairs, but upon investigation, found nothing. Rocking chairs move mysteriously, and a corncob doll appears in numerous places. One corner of the basement, according to a psychic, is very haunted. She feels something, like a very large animal, or someone was murdered there. Tour guides have seen apparitions of people from that time era.
+location: Hager house
+state: Maryland
+state_abbrev: MD
+longitude: -77.7302402
+latitude: 39.6398143
+city_longitude: -77.71999319999999
+city_latitude: 39.6417629
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

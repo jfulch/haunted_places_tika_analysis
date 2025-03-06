@@ -1,0 +1,21 @@
+city: Poughkeepsie
+country: United States
+description: Mid Hudson psychiatric center is now closed. After dark loud noises and screams can be heard, sometimes-lost spirits are seen wandering the grounds. Reports of a large orb that chases people.
+location: Mid-Hudson Psychiatric Center
+state: New York
+state_abbrev: NY
+longitude: -73.9046592
+latitude: 41.7406388
+city_longitude: -73.9209701
+city_latitude: 41.7003713
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1609/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.65
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

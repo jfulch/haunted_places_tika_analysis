@@ -1,0 +1,21 @@
+city: Stanton
+country: United States
+description: The haunting is subject to not only one place. There is not just one ghost there are many due to a portal. The poltergeist has ripped the metal foiling on the ceiling, punched a hole in one of the pictures in the of the units. It has also attack people by throwing plastic sheeting at a person. It has also attacked a lady in one of the units by throwing knifes that she had on the wall at her. Another thing that happens to her was that when she came in one morning she found her grandpa and grandma dolls mutilated. In same unit before the lady moved in there where sounds of a radio playing and sawing going on even though no one even rented it yet. Another accident was when a tenant's television flew off the wall and broke. Other happenings of televisions going on and off by themselves. Most recently a tenant opened a cabinet a glass cup flew out and shattered. Some of the time the poltergeist pulls on clothes.
+location: Stanton Industrial Complex
+state: California
+state_abbrev: CA
+longitude: -117.9923788
+latitude: 33.8086574
+city_longitude: -117.9931203
+city_latitude: 33.8028875
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Accident
+witness_count: 1

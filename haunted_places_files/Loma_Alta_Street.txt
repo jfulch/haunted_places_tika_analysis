@@ -1,0 +1,21 @@
+city: Altadena
+country: United States
+description: Gravity Hill - On this hill, if you are facing downhill in your car, stop, and place the car in neutral, you will go backwards up the hill. Fingerprints are reported to be found as well. According to legend, a girl took her parents’ car for a wild ride with friends and lost control on this hill. The car spun out of control and killed herself and her three friends. Now they try to push you back up the hill.
+location: Loma Alta Street
+state: California
+state_abbrev: CA
+longitude: -118.1513143
+latitude: 34.2024445
+city_longitude: -118.1313188
+city_latitude: 34.190162
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Claremore
+country: United States
+description: Radio Station -  About 1989, the Station's Program Director passed away of a heart attack early one Saturday morning on the couch in the station lobby.There were two DJ's in the building at the time of his death. Weeks later,staff members who were locking up down by the parking lot reported seeing this deceased Program Director peering at them out of the darkened window of his old office on the second floor. He was only seen a couple of times thereafter. The station was relocated in the mid-nineties to a different building on campus. The old radio station (KNGX) has been torn down. It is possible that they have dorms or classrooms on the site now. KRSC radio 91.3FM now shares a building with the College TV station
+location: Rogers state college
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.6406352
+latitude: 36.3182518
+city_longitude: -95.61609
+city_latitude: 36.3125963
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

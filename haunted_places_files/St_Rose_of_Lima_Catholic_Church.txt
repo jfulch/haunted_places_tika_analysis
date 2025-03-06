@@ -1,0 +1,21 @@
+city: Simi Valley
+country: United States
+description: It is supposedly haunted by a man that was murdered there and also by a woman. Perfume can be smelled in parts of the Inn (which is now a museum Open to the public) and people have reported seeing "a tall stranger" in the corner of their eyes, but turn around to see no one.
+location: St. Rose of Lima Catholic Church
+state: California
+state_abbrev: CA
+longitude: -118.7740892
+latitude: 34.2647644
+city_longitude: -118.781482
+city_latitude: 34.2694474
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

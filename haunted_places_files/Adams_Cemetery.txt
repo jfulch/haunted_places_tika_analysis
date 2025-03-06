@@ -1,0 +1,21 @@
+city: Athol
+country: United States
+description: Now little more than an abandoned lot, this site was once known as the infamous Adams dumping ground. It was here that mad Dr. Adams disposed of his more 'unusual' experiments concerning the treatment of domestic animals. Even now, late at night, can be seen the ghostly forms of the legendary 'canary-pigs' frolicking beneath the twisted skeletons of the dead willow trees. To the sounds of ghostly laughter, they dance.
+location: Adams Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.2237947
+latitude: 42.6025776
+city_longitude: -72.2267383
+city_latitude: 42.59593290000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

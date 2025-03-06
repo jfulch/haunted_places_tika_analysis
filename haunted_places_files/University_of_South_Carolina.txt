@@ -1,0 +1,20 @@
+city: Columbia
+country: United States
+description: In the catacombs, there is supposed to be a 'Third Eye Man', a ghost with what looks like a third eye in the middle of his forehead. The sightings started in the eighties.- December Update: A visitor read the description of the Third Eye Man, the stories actually go back much farther than the '80's, the earliest story they have found is from about 1946. In the archives they found an article written by a student about being accosted in the catacombs by a man who was taller than natural and appeared to be disfigured. Students used to hang out in the catacombs, but they were sealed after several sightings and a student was actually injured.
+location: University of South Carolina
+state: South Carolina
+state_abbrev: SC
+longitude: -81.0274276
+latitude: 33.996112
+city_longitude: -81.0348144
+city_latitude: 34.0007104
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

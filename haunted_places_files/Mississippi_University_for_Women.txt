@@ -1,0 +1,20 @@
+city: Columbus
+country: United States
+description: Calloway Hall - The ghost of Mary can be seen in the top floor window looking for her lost love. Sometimes she visits the freshman girls at night and sits on the edge of their beds to weep.
+location: Mississippi University for Women
+state: Mississippi
+state_abbrev: MS
+longitude: -88.4187196
+latitude: 33.4947079
+city_longitude: -88.4272627
+city_latitude: 33.4956744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

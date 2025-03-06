@@ -1,0 +1,21 @@
+city: Cedar Falls
+country: United States
+description: The Strayer-Wood Theatre - is haunted by a ghost known affectionately by the theatre students as "Zelda", who apparently haunted the old theatre building before moving with the department into the new structure. Many theatre students have reported strange noises, including mysterious piano music (when no one else was in the building), and equipment has mysteriously worked by itself.
+location: University of Northern Iowa
+state: Iowa
+state_abbrev: IA
+longitude: -92.4620034
+latitude: 42.5133893
+city_longitude: -92.4453161
+city_latitude: 42.5348993
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1891/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

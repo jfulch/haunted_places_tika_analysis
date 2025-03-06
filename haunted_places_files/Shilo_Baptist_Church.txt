@@ -1,0 +1,20 @@
+city: Monticello
+country: United States
+description: At midnight you can go down Nola rd. and look at the church and see something in the window glowing. There have been people go in there and see a woman in a whate dress chase them out.
+location: Shilo Baptist Church
+state: Mississippi
+state_abbrev: MS
+longitude: -90.2152787
+latitude: 31.6372143
+city_longitude: -90.1073079
+city_latitude: 31.5537807
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Mendon
+country: United States
+description: Old cemetery has a large monument that has a green glow to it. Can only be seen from a certain point of the road.
+location: Palmer Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -84.56308279999999
+latitude: 40.6738348
+city_longitude: -84.5188438
+city_latitude: 40.673381
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

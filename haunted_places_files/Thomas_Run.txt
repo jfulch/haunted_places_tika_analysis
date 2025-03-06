@@ -1,0 +1,21 @@
+city: Bel Air
+country: United States
+description: Man dresses in all black with a pale white face seen by many kids in this development always seen after a rain when its wet and after dark. Seen in the woods where the neighborhood urban legend died in the 1800's.
+location: Thomas Run
+state: Maryland
+state_abbrev: MD
+longitude: -76.2835685
+latitude: 39.5906624
+city_longitude: -76.34829309999999
+city_latitude: 39.5359406
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

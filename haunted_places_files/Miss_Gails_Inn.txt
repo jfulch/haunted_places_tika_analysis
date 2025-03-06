@@ -1,0 +1,21 @@
+city: Aztec
+country: United States
+description: There are several ghosts. One is of a lady that floats down the stairs. We've personally experienced an old man in room #7 who's very "cantankerous". There is also a tree in the back that was the site of a hanging.
+location: Miss Gail’s Inn
+state: New Mexico
+state_abbrev: NM
+longitude: -107.9956236
+latitude: 36.8201761
+city_longitude: -107.9928455
+city_latitude: 36.8222261
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

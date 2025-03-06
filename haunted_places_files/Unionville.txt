@@ -1,0 +1,21 @@
+city: Unionville
+country: United States
+description: It's an old mining town spirits are everywhere you go.
+location: Unionville
+state: Nevada
+state_abbrev: NV
+longitude: -118.1206953
+latitude: 40.4454634
+city_longitude: -118.1206953
+city_latitude: 40.4454634
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

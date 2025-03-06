@@ -1,0 +1,21 @@
+city: Grand Traverse County
+country: United States
+description: Monroe Center Cemetery - Odawa kids have been told a legend growing up of a Bear Walk. A Native person whom has been taught "bad medicine," can change or assume the shape of any animal he or she desires. When not in animal or human form, a ball of light can be seen traveling at ground level or jumping from treetop-to-treetop.
+location: Monroe Center S. Of Traverse City
+state: Michigan
+state_abbrev: MI
+longitude: -85.6958083
+latitude: 44.6088545
+city_longitude: -85.52002399999999
+city_latitude: 44.687984
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1758/04/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Cumming
+country: United States
+description: The old Lanier Lodge Hotel just outside downtown Cumming closed a few years back and nobody is exactly sure why. Neighbors of the complex say that they hear and see things at a constant. It is believed by many that someone was murdered in the west building on the second floor balcony hallway but wasn't publicly announced as to keep the citizens from becoming stricken with panic. When visited at night you can hear strange things as if people are coming in and out of rooms and closing doors very loudly. If you peer into the top windows of the east or west buildings you can sometimes see lights flicker but the power has been shut off for years. When walking by the pool there is sometimes a long splash or the chairs near by move around on their own as well as the unattended weeds all around the complex swishing to one side as if someone had walked through them. - April 2004 Additional info: Lanier Lodge has closed within the past year for financial reasons, and is currently for sale. The owner is liquidating the property for debt payoff in bankruptcy. There was no report of a murder that took place. Be advised that the area is HEAVILY patrolled, and you will be caught if trespassing. There is a sign in front with the name and number for a realty company. If you wish to explore, call them and arrange an appointment, or get permission from the owner first.
+location: Old Lanier Lodge
+state: Georgia
+state_abbrev: GA
+longitude: -83.850545
+latitude: 34.338118
+city_longitude: -84.14019259999999
+city_latitude: 34.2073196
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

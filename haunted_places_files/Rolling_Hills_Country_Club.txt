@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: The basement of the club is the original basement of an old farmhouse in which a man hung himself. The ghost was exorcised years ago, but there have still been sightings of the small man and many strange noises.
+location: Rolling Hills Country Club
+state: Pennsylvania
+state_abbrev: PA
+longitude: -80.10195619999999
+latitude: 40.276962
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

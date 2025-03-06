@@ -1,0 +1,19 @@
+city: Newport
+country: United States
+description: Richard Washburn Child haunts this building in which he died.
+location: Porter Mansion
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.3047332
+latitude: 41.4649189
+city_longitude: -71.3128285
+city_latitude: 41.4901024
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1881/08/05
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Unionville
+country: United States
+description: This cemetery is home to multiple hauntings. One of the best known is the white lady. She is said to wander the cemetery around mid-night. Multiple orbs of light, voices, and other apparitions also accompany her. On Halloween the local police are stationed around the cemetery’s stonewall to keep kids out.
+location: Unionville Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -72.8912588
+latitude: 41.7607463
+city_longitude: -72.8888458
+city_latitude: 41.7602365
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

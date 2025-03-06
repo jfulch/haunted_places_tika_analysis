@@ -1,0 +1,19 @@
+city: Madrid
+country: United States
+description: Madrid was a coal mining town in the 1800's through 1940's until it became an abandoned ghost town. In the 1970's hippies, artist and outlaws began rebuilding it and it is alive today. The entire town has been site of numerous ghost sightings, most notably in certain houses, the old miners/town cemetery, the old church (now a house)and the surrounding arroyos. Apparitions range from sightings of la llarona in the arroyos, silent cowboys escorting a Spanish woman in fine dress though mainstreet, and various ghostly forms at the cemetery. The town area was also the site of the Aztecs trade for turquoise in New Mexico / Mexico older history.
+location: The entire town and surrounding hills
+state: New Mexico
+state_abbrev: NM
+city_longitude: -106.1525226
+city_latitude: 35.4067047
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

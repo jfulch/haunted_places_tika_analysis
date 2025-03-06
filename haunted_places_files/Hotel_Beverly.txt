@@ -1,0 +1,20 @@
+city: Ontario
+country: United States
+description: hearing foot steps on the 2nd floor when no one there. seeing shadows in the southwest 2nd floor corner window. glancing up at the 3rd floor south corner window. and certain areas of the basement cold spots. lights flickering, fire alarms being set off all happening all times of the day. all witness by neighbors, staff at the old hotel and passer.
+location: Hotel Beverly
+state: California
+state_abbrev: CA
+longitude: -117.549816
+latitude: 34.069373
+city_longitude: -117.6508876
+city_latitude: 34.0633443
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Natural Disaster
+witness_count: 1

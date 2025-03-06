@@ -1,0 +1,21 @@
+city: Panama City Beach
+country: United States
+description: In one of the rooms near the top floor, the ghost of a man was seen standing between the two double beds. He wears a white T-shirt and sunglasses around his neck, but his head cannot be seen. Strange occurrences also happened, such as radio stations turning by themselves, belongings missing and then reappearing, and being mysteriously woken up every night at the same time (around 4 a.m.).
+location: Holiday Inn
+state: Florida
+state_abbrev: FL
+longitude: -85.8175936
+latitude: 30.1828721
+city_longitude: -85.8054879
+city_latitude: 30.1765914
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

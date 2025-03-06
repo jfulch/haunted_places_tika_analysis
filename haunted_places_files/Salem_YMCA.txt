@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: The old pool. The old pool was built above the original pool. Many lifeguards at the old pool have seen movements and heard noises by the stairwell leading to the old pool. It is rumored to be from a swimmer that died there.
+location: Salem YMCA
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.89769629999999
+latitude: 42.5217611
+city_longitude: -70.8967155
+city_latitude: 42.51954
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: West Plains
+country: United States
+description: The old Avenue theatre downtown has been host to many strange events. It was first built in the early twentieth century, as a movie theatre. This theatre has a second floor of seats that were a colored section only. Sometimes, if you are there and it is quiet, you can hear a baby crying upstairs, where the projection booth used to be. Also, objects can appear missing at times, only to reappear somewhere totally different than where they were last placed. The curtains on the stage can be seen moving sometimes, as though someone is walking backstage even when no one is there. And no, it's not the AC or anything because the place doesn't have any. It is quite a scary place to be at night alone, one can't really describe it, but the theater gives off an unsettling feeling, like you are being watched.
+location: Avenue Theatre
+state: Missouri
+state_abbrev: MO
+longitude: -91.8526457
+latitude: 36.7300013
+city_longitude: -91.8523711
+city_latitude: 36.7281154
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

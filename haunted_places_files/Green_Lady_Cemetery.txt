@@ -1,0 +1,20 @@
+city: Burlington
+country: United States
+description: Covey Road - Images of green mist and the "Green Lady" formerly Elisabeth who died next to the cemetery in swampland-she drown and supposedly her husband would not or could not save her. She is seen walking on the dirt road the cemetery is located on in a green mist.
+location: Green Lady Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -72.9738996
+latitude: 41.7836824
+city_longitude: -72.9648388
+city_latitude: 41.7691235
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1969/10/10
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

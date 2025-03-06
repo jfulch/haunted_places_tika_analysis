@@ -1,0 +1,21 @@
+city: Calhoun
+country: United States
+description: The old "Place on Peidmont" restaurant. Was once a home long ago. It is said that there was a lady and child that lived there. The little girl was run over in road and the lady lived there until she died from old age. Many employees have said that the lady steals jewelry. Cold spots, feelings of being watched have all been reported. Upstairs, you can feel something lurking. Watch out for the bathroom, sometimes locks people inside in the dark.
+location: El Rayos Authentic Mexican Restaurant
+state: Georgia
+state_abbrev: GA
+longitude: -84.9508182
+latitude: 34.4969606
+city_longitude: -84.9510542
+city_latitude: 34.502587
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

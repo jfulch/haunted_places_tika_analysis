@@ -1,0 +1,21 @@
+city: Genesee
+country: United States
+description: Riverbend East Watertower - Time to time you can hear "wavey" sounding voices coming from the fenced off building, at the bottom of the water tower... you can hear voice of a young boy or girl that are calling out "I'm over here... I'm over here..."Before water tower and subdivision were put in...a boy was playing tag with friend, and got lost in woods... He was not found until weeks later... after the animals had gotten to him.
+location: Grand Blanc
+state: Michigan
+state_abbrev: MI
+longitude: -83.6299518
+latitude: 42.9275277
+city_longitude: -83.6135572
+city_latitude: 43.0935147
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1893/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

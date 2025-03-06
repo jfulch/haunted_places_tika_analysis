@@ -1,0 +1,19 @@
+city: Chesaning
+country: United States
+description: Store merchandise has been found moved when stores are opened in the morning. Employees hair pulled, employee shoved, voices can be heard at night. A Santa decoration was seen by 3 eye witnesses as it lifted from a table and was sat down on the floor outside a store. Transparent images of a woman and man seen separately over periods of time. Numerous unexplainable events occurring since mall opened in 1985. Unknown before this date. A smallpox outbreak in 1837 devastated some of the last remaining Indians in this area before the village of Chesaning was started.
+location: Chesaning Market Street Square (a mini mall with indoor shops)
+state: Michigan
+state_abbrev: MI
+city_longitude: -84.11497469999999
+city_latitude: 43.1847483
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1985/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 3

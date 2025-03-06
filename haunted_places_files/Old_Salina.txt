@@ -1,0 +1,21 @@
+city: Salina
+country: United States
+description: the Old Salina court house - there is a holding cell still standing as well as the old court house itself with the old whipping tree and a square are of flowers where the hanging tree used to be. Across a creek to your north is an old cemetery. If you take a tape recorder with you, you will get audio of a heart beat in this area as well as the feeling of ghostly presence taking pictures will show ghostly figures on your film even in the day light.
+location: Old Salina
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.1479515
+latitude: 36.3016074
+city_longitude: -95.1532966
+city_latitude: 36.2928692
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

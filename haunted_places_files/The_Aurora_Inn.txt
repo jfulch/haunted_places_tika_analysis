@@ -1,0 +1,21 @@
+city: Aurora
+country: United States
+description: There is a ghost named the white lady that i have experienced and heard of haunting the hotel and lobby of the Aurora Inn off route 90. Waiters and waitresses will even tell you that down on the shorefront of Cayuga Lake, there was once and old building that burned down and three people died. Two male ghosts haunt the shore and the white lady haunts the hotel, which is now being renovated into a restaurant and museum.
+location: The Aurora Inn
+state: New York
+state_abbrev: NY
+longitude: -76.7032
+latitude: 42.75448799999999
+city_longitude: -76.7024485
+city_latitude: 42.7539591
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

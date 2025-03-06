@@ -1,0 +1,21 @@
+city: Marion
+country: United States
+description: Abijah Thomas built the Octagon house in 1850.  Thomas built the house with 8 sides to protect it from wind damage. He kept slaves to help him work the fields. It is said that in an upstairs room you can still see fresh blood dripping and seeping down one of the walls. You can also hear many strange noises through out the entire premises.
+location: Octagonal House
+state: Virginia
+state_abbrev: VA
+longitude: -81.566172
+latitude: 36.77681889999999
+city_longitude: -81.5148368
+city_latitude: 36.8348383
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1850/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

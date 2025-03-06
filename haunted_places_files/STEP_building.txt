@@ -1,0 +1,19 @@
+city: Newberry
+country: United States
+description: Orbs, the uneasy feeling of being watched, objects being moved, mop buckets, small children’s hand prints on freshly cleaned glass, large shadows figures weird flashes of bluish purple light footsteps on floors about you when no one else is in the building
+location: STEP building
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -76.79135579999999
+city_latitude: 40.1293106
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: Famous hotel from the 20's that has been home to every legend from Howard Hughes, Marilyn Monroe, Boris Karloff, Jim Morrison and of course is famous for site of John Belushi's death. Every kind of phenomena has been witnessed here.
+location: Chateau Marmont
+state: California
+state_abbrev: CA
+longitude: -118.3684058
+latitude: 34.0982682
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

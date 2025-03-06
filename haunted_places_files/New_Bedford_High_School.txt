@@ -1,0 +1,21 @@
+city: New Bedford
+country: United States
+description: Auditorium - There are reports of the Auditorium being haunted. If you are on stage you fell like you are being watched from the audience when no one else is in the room. There have been sightings of ghostly images of a man in the Auditorium's light/sound room. He is normally seen staring at stage watching what people are doing. Also if you are on stage, look up, and to the right, you can see the name "Fred" spray painted far away from the cat walk where no one can reach. - March 2008 Update: Its been said that a man hung himself in the projection booth in the Auditorium. A few people have reported seeing a image of a man in the projection booth and when someone goes to investigate, no one is there. Also it does not say the name Fred anymore, either someone has painted over it or it just disappeared.
+location: New Bedford High School
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9470754
+latitude: 41.6453018
+city_longitude: -70.93420499999999
+city_latitude: 41.6362152
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

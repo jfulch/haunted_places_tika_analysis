@@ -1,0 +1,20 @@
+city: Pittsgrove
+country: United States
+description: The crying of a little girl who met an untimely demise can sometimes be heard in the upstairs dining room. In this dining room, cold spots can often be felt. These cold spots are attributed to the spirit of a past Maitre De, for whom the room is named after.
+location: Ye Olde Centerton Inn
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.16761799999999
+latitude: 39.5254486
+city_longitude: -75.1311874
+city_latitude: 39.5314846
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

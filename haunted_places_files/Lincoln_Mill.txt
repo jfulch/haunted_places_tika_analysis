@@ -1,0 +1,19 @@
+city: Scituate
+country: United States
+description: The Mill is located right next to Hunter's Pond. It is reported that a little bloody girl sits looking out the windows, and stares at you as you walk by. There have also been reports of screams and cries coming from the Mill as you hear the sound of a jammed saw and a young child screaming and crying for help.
+location: Lincoln Mill
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -70.7258633
+city_latitude: 42.195929
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

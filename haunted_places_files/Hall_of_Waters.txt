@@ -1,0 +1,20 @@
+city: Excelsior Springs
+country: United States
+description: Reports of an apparition of a boy by the pool.
+location: Hall of Waters
+state: Missouri
+state_abbrev: MO
+longitude: -94.2260559
+latitude: 39.3391712
+city_longitude: -94.2260559
+city_latitude: 39.3391712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

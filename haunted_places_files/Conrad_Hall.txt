@@ -1,0 +1,21 @@
+city: Kearney
+country: United States
+description: The Hall was built in the late 1950s and used to house the KSC chapter of the Alpha Omicron Pi sorority. The ghost, named Stella after one of the AOPi founding sisters is said to haunt the west end of the third floor rooms, particularly room 318. The ghost appears at night, sitting in students' chairs, as well as on their beds. Sometimes, students wake up unable to open their eyes or roll over in bed because the ghost is said to be sleeping next to them. Chairs are often found drug across the tile floors in front of the mirrors. Lights are found turned on in vacant rooms that have remained locked, and the ghost also is said to turn on water in the bathrooms, where students find it running.
+location: Conrad Hall
+state: Nebraska
+state_abbrev: NE
+longitude: -99.0958616
+latitude: 40.7024732
+city_longitude: -99.0816784
+city_latitude: 40.69933030000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2013/02/04
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

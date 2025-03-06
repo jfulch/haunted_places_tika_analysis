@@ -1,0 +1,21 @@
+city: Richland
+country: United States
+description: After employees lock up for the night, lights start turning on in the upstairs storage area. Witnessed as they drive away from the Inn.
+location: The Blackhawk- Formerly the Stagecoach Inn
+state: Michigan
+state_abbrev: MI
+longitude: -85.38738800000002
+latitude: 42.3690344
+city_longitude: -85.45500539999999
+city_latitude: 42.3761504
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

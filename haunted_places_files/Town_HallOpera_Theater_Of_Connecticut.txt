@@ -1,0 +1,20 @@
+city: Clinton
+country: United States
+description: Reports of whispers, the feeling of someone right next to you, and feel cold gusts of air.
+location: Town Hall/Opera Theater Of Connecticut
+state: Connecticut
+state_abbrev: CT
+longitude: -72.5236594
+latitude: 41.2774433
+city_longitude: -72.5288034
+city_latitude: 41.2882208
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

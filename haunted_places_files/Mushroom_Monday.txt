@@ -1,0 +1,20 @@
+city: Manitou Springs
+country: United States
+description: At the shop downtown, called Mushroom Monday, that is still open today, there is a spirit of an old man. Multiple people, both employees and customers have seen him. He stands near a small fountain, but appears to be standing on a surface below the shop's floor, as he comes out of the ground at the knees. He only appears briefly then is gone, and those who have seen him say he is benevolent. The store is very close to the Bath House, so it is possible that the two are somehow connected. You can even ask the owner of the store about him, she can tell you more.
+location: Mushroom Monday
+state: Colorado
+state_abbrev: CO
+longitude: -104.9187767
+latitude: 38.8588482
+city_longitude: -104.9171989
+city_latitude: 38.8597127
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1864/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

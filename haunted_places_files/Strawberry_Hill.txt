@@ -1,0 +1,21 @@
+city: San Francisco
+country: United States
+description: Stowe Lake Golden Gate Park - It has been said that in the 1920's or 30's a woman became pregnant & hide the pregnancy from her family. She disposed of the child and killed her self in the reservoir. At night if you're at Stowe Lake you may see her walking around Strawberry Hill looking for her baby.
+location: Strawberry Hill
+state: California
+state_abbrev: CA
+longitude: -122.4753199
+latitude: 37.7686398
+city_longitude: -122.4194155
+city_latitude: 37.7749295
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Shoreview
+country: United States
+description: in one of the classrooms there is a light that flickers. Every time it flickers, someone gets hurt. Once the light flickered and a student fell out of his middle school desk, and broke his arm.  Once the light flickered and a boy got his head stuck in between a playground toy. Paramedics had to rescue him. Once the light flickered and a boy had a seizure in church. Now if you come to St. Odilia you have to be extra careful for flickering lights.
+location: St. Odilia
+state: Minnesota
+state_abbrev: MN
+longitude: -93.1339905
+latitude: 45.0471143
+city_longitude: -93.1471667
+city_latitude: 45.0791325
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

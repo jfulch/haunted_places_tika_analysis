@@ -1,0 +1,21 @@
+city: Fresno
+country: United States
+description: This ghost pretty much have been sighted along the whole river but mostly the highway 99 overpass by Herndon. A lady and her 2 kids were swimming in the river back in the 1950's when her kids were kidnapped. Not too long after she died of allegedly died of sadness. Now her brightly white colored spirit can be seen walking on top of the water in the river calling for her children. Some say she has the voice of the wind and the Mexican American community named her the IBRONA.
+location: San Juaquin River
+state: California
+state_abbrev: CA
+longitude: -119.7725868
+latitude: 36.7468422
+city_longitude: -119.7725868
+city_latitude: 36.7468422
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

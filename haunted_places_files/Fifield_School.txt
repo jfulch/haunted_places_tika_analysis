@@ -1,0 +1,21 @@
+city: Fifield
+country: United States
+description: An old school was abandoned for no apparent reason. Footsteps of lost children can be heard throughout the classrooms. People are seen faintly throughout the rooms.
+location: Fifield School
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.4213211
+latitude: 45.87746689999999
+city_longitude: -90.4195725
+city_latitude: 45.8799113
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

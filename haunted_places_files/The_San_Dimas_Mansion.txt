@@ -1,0 +1,21 @@
+city: San Dimas
+country: United States
+description: This mansion was built in 1887, as you can see it's very old. There have been reports of banging on windows, the doorbell ringing by itself, sounds of someone trying to pull open a locked door, and noises of things sliding across the floor.
+location: The San Dimas Mansion
+state: California
+state_abbrev: CA
+longitude: -117.807479
+latitude: 34.107478
+city_longitude: -117.8067257
+city_latitude: 34.1066756
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1887/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Coupeville
+country: United States
+description: is now used as a rental unit. The ghost is pretty well known to long-time locals. It's of a small girl dressed in period clothing. Some have reported seeing the ghost while driving by the schoolhouse looking out the window or out on the front porch of the old school.
+location: Old 1 Room School House
+state: Washington
+state_abbrev: WA
+city_longitude: -122.6862804
+city_latitude: 48.2198208
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

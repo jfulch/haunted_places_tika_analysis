@@ -1,0 +1,21 @@
+city: Pleasant Grove
+country: United States
+description: In the theater/auditorium under the stage is a door that is kept locked with six heavy-duty padlocks. Every morning the padlocks would be blown off the door and the door would be wide open. Everyone was given strict instructions to let the janitor know if the locks were removed. Every morning, the janitor was told the locks were gone and he would replace the locks.
+location: Pleasant Grove High School
+state: Utah
+state_abbrev: UT
+longitude: -111.7255794
+latitude: 40.35971809999999
+city_longitude: -111.73854
+city_latitude: 40.3641184
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

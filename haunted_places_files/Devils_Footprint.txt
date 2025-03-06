@@ -1,0 +1,19 @@
+city: Manchester
+country: United States
+description: Construction people working on road, rock would not move, Man climbed onto rock and said "I will give my soul to the devil if only this rock will move." Next day, Rock was moved, guy was gone. Imprint of Devil's Footprint and Man's footprints. Try to chisel it away but it returns.
+location: Devil's Footprint
+state: Maine
+state_abbrev: ME
+city_longitude: -69.8603256
+city_latitude: 44.324513
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

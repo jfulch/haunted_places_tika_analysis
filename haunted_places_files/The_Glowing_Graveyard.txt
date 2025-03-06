@@ -1,0 +1,19 @@
+city: Columbus
+country: United States
+description: This graveyard is located way out north in the boonies of Columbus. Supposedly on a full moon the headstones are supposed to "glow", but most believe that this is just the cause of the limestone in the rock being reflected by the moon. Right beside the graveyard is a bridge in which according to a myth a bus full of kids rolled off the bridge and died. Supposedly if you put powder all over your car and drive over it in neutral you can see the handprints from children, or if you turn your car off in the middle of the bridge, your car won't start again.
+location: The Glowing Graveyard
+state: Nebraska
+state_abbrev: NE
+city_longitude: -97.3593904
+city_latitude: 41.43029730000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

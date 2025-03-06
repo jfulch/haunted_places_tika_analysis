@@ -1,0 +1,21 @@
+city: Eureka
+country: United States
+description: Large, heavy objects moved across floor overnight. Sighting of former post commander who died of malaria in 1859 looking out window of old hospital building. Lights going off, objects falling. Occurrences regularly during 1993 and have been reported sporadically since 1950's.
+location: Fort Humboldt
+state: California
+state_abbrev: CA
+longitude: -124.1885264
+latitude: 40.7770314
+city_longitude: -124.1636729
+city_latitude: 40.8020712
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1859/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

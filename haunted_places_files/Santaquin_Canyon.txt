@@ -1,0 +1,21 @@
+city: Santaquin
+country: United States
+description: Strange noises, cold spots, and strange lights are just a few to name seen and heard by many visitors to this location.
+location: Santaquin Canyon
+state: Utah
+state_abbrev: UT
+longitude: -111.7802103
+latitude: 39.955788
+city_longitude: -111.7852106
+city_latitude: 39.9755101
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

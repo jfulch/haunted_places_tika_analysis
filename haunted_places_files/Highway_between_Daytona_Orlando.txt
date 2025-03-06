@@ -1,0 +1,21 @@
+city: Daytona / Orlando
+country: United States
+description: Main highway that links Daytona with Orlando. A phantom car has been spotted, driving erratically and without lights, along a lonely stretch of this road.
+location: Highway between Daytona-Orlando
+state: Florida
+state_abbrev: FL
+longitude: -81.335663
+latitude: 28.682014
+city_longitude: -81.43929779999999
+city_latitude: 28.4528621
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

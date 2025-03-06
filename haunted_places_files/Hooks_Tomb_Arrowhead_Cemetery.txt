@@ -1,0 +1,21 @@
+city: Johnston City
+country: United States
+description: The legend is that if you go up to the Tomb and run around it clockwise 3 times then knock on the door 3 times that you will smell roses.
+location: Hook's Tomb -Arrowhead Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -90.1096963
+latitude: 38.7066645
+city_longitude: -88.9275695
+city_latitude: 37.8206052
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

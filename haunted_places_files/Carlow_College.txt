@@ -1,0 +1,21 @@
+city: Pittsburgh
+country: United States
+description: Room 947 - Late at night, students have reported seeing misty apparitions. They also hear scratching noises on the walls. Lights have also be said to turn on by themsleves.
+location: Carlow College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.96391450000002
+latitude: 40.4394832
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

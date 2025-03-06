@@ -1,0 +1,21 @@
+city: Arlington
+country: United States
+description: Supposedly, during the construction of the theater, a construction worker died while making the sixth theater. Customers say they have seen a chair move or actually see a guy sitting next to them when there wasn't before and get up, start to walk away, and disappear. Many employees have reported objects being moved when their back was turned and weird or banging sounds & the door shutting in the projection when there was nobody around.
+location: Cinemark Tinsel town 9
+state: Texas
+state_abbrev: TX
+longitude: -97.0571019
+latitude: 32.7438928
+city_longitude: -97.1080656
+city_latitude: 32.735687
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

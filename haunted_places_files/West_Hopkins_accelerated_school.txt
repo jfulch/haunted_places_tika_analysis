@@ -1,0 +1,21 @@
+city: Dawson Springs
+country: United States
+description: There are rumors that the school is haunted. slamming doors, doors not opening, and hearing things.
+location: West Hopkins accelerated school
+state: Kentucky
+state_abbrev: KY
+longitude: -87.70523229999999
+latitude: 37.3063894
+city_longitude: -87.6925074
+city_latitude: 37.1672684
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

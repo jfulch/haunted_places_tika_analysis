@@ -1,0 +1,21 @@
+city: Cedar City
+country: United States
+description: Old Main-  Various incidences involving the lights of the building turning themselves on and off, students being trapped in the elevators, elevators moving on their own, and the figure of a woman is often seen wandering around the third floor. Most students and staff refuse to spend time inside this building after dark.
+location: Southern Utah University
+state: Utah
+state_abbrev: UT
+longitude: -113.071332
+latitude: 37.676444
+city_longitude: -113.0618931
+city_latitude: 37.67747689999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

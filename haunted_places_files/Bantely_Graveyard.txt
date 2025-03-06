@@ -1,0 +1,19 @@
+city: Canton
+country: United States
+description: Many ghosts have been seen here. By day shadows follow you if your walking along the road by the graveyard. By night ghostly apparitions have been seen. This place is a popular place for teenagers to party at. If you go over 25 mph over the bridge next to the graveyard your brakes will go out on the vehicle that your driving. Legend has it that a man by the name of Bantley, killed his family and then hung himself in the barn next to the graveyard. There used to be a cult that used the barn for its own religious purposes. A birdbath located in the graveyard, still has bloodstains from the sacrifices that used to be done there. It is also said that too boys were playing tag at night and a hand reached up and grabbed one of the boys' ankles. Because the fright was so strong he died. He was found dead in the graveyard. His friend was found dead just outside the graveyard of reasons unknown. People have seen various ghosts, including a little girl in the tree located inside the graveyard.
+location: Bantely Graveyard
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -91.6598896
+city_latitude: 45.4280149
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

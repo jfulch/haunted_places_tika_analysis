@@ -1,0 +1,19 @@
+city: Watseka
+country: United States
+description: Reports have been made of an orange light coming towards people. There have also been reports of the light chasing people and leaving a burn streak on their cars.
+location: Lantern Road
+state: Illinois
+state_abbrev: IL
+city_longitude: -87.7364218
+city_latitude: 40.7761465
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

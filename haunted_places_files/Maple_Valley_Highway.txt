@@ -1,0 +1,21 @@
+city: Renton
+country: United States
+description: Maple Valley Highway is a very dangerous and dark road and there have been many accidents there. When you drive down the road late at night, you experience weird unexplained fog, and right after you pass through the fog you can see a teenage girl standing along side the road crying. She appears to be looking for something. Different people have tried to communicate with her to find out what she is looking for, and it appears to be a locket that she lost when she was in the car accident that took her life. Also, on Maple Valley Highway there is an old haunted house that has lights go off and on by themselves even though there hasn't been electricity in the house for years.
+location: Maple Valley Highway
+state: Washington
+state_abbrev: WA
+longitude: -122.1811176
+latitude: 47.477481
+city_longitude: -122.2170661
+city_latitude: 47.48287759999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

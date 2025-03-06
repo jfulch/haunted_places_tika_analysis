@@ -1,0 +1,21 @@
+city: Whittier
+country: United States
+description: Brushing against us gently and holding our hands. The spirit is unknown. The spirit seems lonely and slightly sad.
+location: Women's Club, California Ave
+state: California
+state_abbrev: CA
+longitude: -118.0207603
+latitude: 33.9602603
+city_longitude: -118.032844
+city_latitude: 33.9791793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2015/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

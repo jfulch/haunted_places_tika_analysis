@@ -1,0 +1,18 @@
+city: Hamilton
+country: United States
+description: Reports of a strange mist on the road at the site where a young man lost his life when he fell asleep and wrapped his car around the front wheel of a tractor trailer rig.
+location: The Highway Northwest of the town
+state: Colorado
+state_abbrev: CO
+city_longitude: -107.6131216
+city_latitude: 40.3671955
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

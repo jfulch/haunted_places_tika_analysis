@@ -1,0 +1,21 @@
+city: Statesville
+country: United States
+description: On Aug. 27, 1891 a passenger train going from Salisbury to Asheville derailed and fell down almost 90 feet off of Bostian Bridge. The wreck killed 30 people and injured many more. If you go to the bridge on the anniversary of the wreck at about 3 a.m., you can hear the whole thing, from the crunching metal to the moans of the dying and injured, happen all over again. Sometimes, a conductor holding a gold pocket watch can be seen for only a few moments before vanishing. On the 50th anniversary, a woman reported seeing the scene replayed in front of her in the form of ghostly images.
+location: Bostian Bridge
+state: North Carolina
+state_abbrev: NC
+longitude: -80.91591849999999
+latitude: 35.7662565
+city_longitude: -80.8872959
+city_latitude: 35.7826363
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

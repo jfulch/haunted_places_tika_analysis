@@ -1,0 +1,21 @@
+city: Perth Amboy
+country: United States
+description: Many workers there have seen the boy, who appears to be pointing to the third floor, for some reason unknown.
+location: The Proprietary house
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.269178
+latitude: 40.503501
+city_longitude: -74.2654234
+city_latitude: 40.5067723
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

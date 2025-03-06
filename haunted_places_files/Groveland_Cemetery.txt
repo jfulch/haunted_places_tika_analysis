@@ -1,0 +1,21 @@
+city: Groveland
+country: United States
+description: There are known ghosts to roam this cemetery on the western edge. The oldest graves had had pictures taken of them at night and in almost every picture a figure of a family had shown up on film.
+location: Groveland Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.0226615
+latitude: 42.7706606
+city_longitude: -71.0314451
+city_latitude: 42.76036879999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

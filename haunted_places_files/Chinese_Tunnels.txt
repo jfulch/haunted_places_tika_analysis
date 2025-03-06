@@ -1,0 +1,19 @@
+city: Washatch
+country: United States
+description: Rumor has it that while the railroads were booming in the late 1800's to early 1900's, many Chinese workers were used to help build tunnels. Well, when they died, the foremen would bury the bodies in the walls. It is always freezing cold inside due to the ice that is always in the middle of the tunnel. The locals say that you can hear crying, the ghost trains and whispers in the middle of the night.
+location: Chinese Tunnels
+state: Utah
+state_abbrev: UT
+city_longitude: -110.9983515
+city_latitude: 40.3629418
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Mitchel
+country: United States
+description: A woman told me that she heard a woman crying upstairs, so she went to the room that the cries were coming from. The moment that she turned on the lights the sound stopped. Another person told me is told of a baby crying, this was also upstairs in the old building. A skeleton hangs in the closet next to the room where the cries of the baby and woman were heard.
+location: Mason Church
+state: South Dakota
+state_abbrev: SD
+longitude: -98.0244676
+latitude: 43.71366
+city_longitude: -98.0297992
+city_latitude: 43.7094283
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1978/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

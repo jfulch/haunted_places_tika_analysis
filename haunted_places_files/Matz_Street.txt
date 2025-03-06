@@ -1,0 +1,21 @@
+city: Harlingen
+country: United States
+description: a young girl walks after midnight crying but will not answer when you try to talk to her, she vanishes.
+location: Matz Street
+state: Texas
+state_abbrev: TX
+longitude: -97.6826577
+latitude: 26.215314
+city_longitude: -97.6961026
+city_latitude: 26.1906306
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

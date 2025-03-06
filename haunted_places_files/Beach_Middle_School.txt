@@ -1,0 +1,21 @@
+city: Chelsea
+country: United States
+description: Reports that lockers slam when no ones there and in the girls bathroom you here the toilets flush and whispers heard and behind the stage you can feel an odd presents in there when your alone.
+location: Beach Middle School
+state: Michigan
+state_abbrev: MI
+longitude: -84.0096366
+latitude: 42.3182386
+city_longitude: -84.0205029
+city_latitude: 42.3180919
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Peshastin
+country: United States
+description: this three story home was once the home of an Orchardist who died of a heart attack years ago. Inhabitants of this home have heard laughter coming on the second floor, footsteps coming down the stairs and lights have been known to flicker on and off occasionally. While in the kitchen, several claim someone had just walked into the room when no one was there.
+location: Old Orchardists Home
+state: Washington
+state_abbrev: WA
+city_longitude: -120.6039743
+city_latitude: 47.5706779
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

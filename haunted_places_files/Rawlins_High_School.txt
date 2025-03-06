@@ -1,0 +1,20 @@
+city: Rawlins
+country: United States
+description: The High School is less than two blocks from the middle school, and may be on the same ground. There have been sightings and sounds throughout the building, but the worst area seems to be the auditorium. When it was being built, a worker fell from one of the catwalks and was killed when he landed on the chairs below. There have also been a few other deaths reported in the area. An area under the stage where props and sets are kept, called "Siberia", is a hot spot as well. Lights turn on and off by themselves, things move around, and you can hear voices when no one else is down there. Interestingly, it is also the part of the school that is closest to the middle school.
+location: Rawlins High School
+state: Wyoming
+state_abbrev: WY
+longitude: -107.2328978
+latitude: 41.8022643
+city_longitude: -107.2386627
+city_latitude: 41.7910697
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

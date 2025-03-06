@@ -1,0 +1,21 @@
+city: Gastonia
+country: United States
+description: Strange noises from the woods on the Auten Rd. side have been reported several times as well as sightings of movement from inside the school late at night.
+location: Brookside elementary
+state: North Carolina
+state_abbrev: NC
+longitude: -81.15120619999999
+latitude: 35.2937124
+city_longitude: -81.18730049999999
+city_latitude: 35.262082
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Palatine
+country: United States
+description: Shopping Center - Right on the northeast corner of this intersection, in front of the shopping center, once stood the old Browns Chicken & Pasta restaurant, site of the infamous Brown's Chicken Massacre of 1993. On a cold January morning in 1993, police found seven murdered people stuffed in freezers in the back room of the restaurant, apparently victims of a robbery. The building had stood empty until the following year, and then it became a dry cleaning establishment. It was then when some people experienced very violent, and angry vibes that were not their own, and some had felt sudden decreases in temperature, even during the height of the summer. Nearby residents even claimed they had heard the sounds of faint shots and screaming during the evening hours, often repeated time after time. The cleaning establishment finally went out of business in 1999, and the building was torn down the following year. The oddities still continued. In May of 2002, the two killers were finally apprehended after nine years of little or no leads or progress in the case. Since then, there have been no more reports of any odd feelings or ghostly sounds. It would seem the spirits have been able to rest. For a report on the murders 5 days after check out ABC 7 Chicago news - The story about the girl dying by the diving board in the 1970's was all made up as halloween gag a few years ago by the swim team.
+location: Smith and Route14
+state: Illinois
+state_abbrev: IL
+longitude: -88.0485568
+latitude: 42.1224425
+city_longitude: -88.03424000000001
+city_latitude: 42.1103041
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1993/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

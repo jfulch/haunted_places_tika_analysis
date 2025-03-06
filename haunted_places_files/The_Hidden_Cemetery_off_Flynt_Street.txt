@@ -1,0 +1,20 @@
+city: Palmer
+country: United States
+description: This small cemetery, no longer used, is located on a blocked-off road at the corner of Flyft Street and Route 32 in Palmer. Tombstones date back to the 1600's. A site full of paranormal activity, documented photos include orbs, images of long-deceased graveyard inhabitants, voices are heard when tape recorded. This cemetery is the home of the "Lantern Man", a cloaked figure often seen here at night, holding a lantern, walking among the tombstones. WARNING: do not visit this cemetery at night or at dusk, it is watched by a neighbor who WILL report you to the police!
+location: The "Hidden Cemetery", off Flynt Street
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.31205779999999
+latitude: 42.1819314
+city_longitude: -72.3286869
+city_latitude: 42.1584103
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

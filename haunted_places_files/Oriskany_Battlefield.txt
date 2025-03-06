@@ -1,0 +1,21 @@
+city: Oriskany
+country: United States
+description: A former employee reports an awful stench was coming from the woods where Gen. Herkimer's advance party was wiped out by the King's Royal Regiment of NY. In the visitors center the men's room door likes to slam itself shut and dark cast shadows that looked as though a figure was creating them. When nobody is standing casting a shadow. The hand dryers in the bathrooms like to go on all by themselves. If you are sometimes walking through the ravine you often feel that you are not alone. People have spoken of seeing lights and orbs in the nearby woods when driving past the site. neighbors often hear the cries of men and sometimes they say you can hear musket fire from the woods.
+location: Oriskany Battlefield
+state: New York
+state_abbrev: NY
+longitude: -75.36952099999999
+latitude: 43.177259
+city_longitude: -75.3326692
+city_latitude: 43.1572918
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

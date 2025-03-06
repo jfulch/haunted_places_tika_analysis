@@ -1,0 +1,19 @@
+city: Springfield
+country: United States
+description: In the 1880s a Palestinian immigrated to the US and was brutally tortured and then murdered in some woods which are now known as Lake Accotink Park. It is said that on some nights he is heard moaning, "Arrrrrghh". On rare occasions he is also have said to appear in the form of have human half beast with an eye patch.
+location: Bablat Afif
+state: Virginia
+state_abbrev: VA
+city_longitude: -77.18720359999999
+city_latitude: 38.7892801
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

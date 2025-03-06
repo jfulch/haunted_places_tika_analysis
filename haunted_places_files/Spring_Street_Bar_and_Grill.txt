@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: A ghost of an old man walks The 2nd floor of this restaurant at night when the employees are closing the bar. There is no information at this time who he is (was). All the employees and owners who go to this storage area on the second floor report their hair standing on end when they are up stairs in this space. This building is at least 80 years old.
+location: Spring Street Bar and Grill
+state: Kentucky
+state_abbrev: KY
+longitude: -85.71897039999999
+latitude: 38.2513473
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Davisville
+country: United States
+description: located on a hill top above the small town of Davisville (really nothing more than a post office) has been the site of many unexplained events.  The cemetery, which is accessible solely via a stone stair case set in the hillside, is often the site of apparitions and strange phenomenon. On the right side of the circular cemetery is the grave adorned with the name of it's occupant and a pentagram set in the stone.  Another occupant sees his last resting place outside the cemetery’s protective circle. Apparitions of people and even a horse have been seen to walk upon the top of the hillside.
+location: Woodlock Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -91.1808559
+latitude: 37.81196660000001
+city_longitude: -91.1851368
+city_latitude: 37.8078237
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1957/05/20
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

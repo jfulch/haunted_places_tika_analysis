@@ -1,0 +1,19 @@
+city: Cedartown
+country: United States
+description: Creepy old Cemetery, lots of old graves. Ghostly figures witnessed at night in cemetery and in horse pasture next to cemetery.
+location: Old Cemetery behind Bethlehem Baptist Church
+state: Georgia
+state_abbrev: GA
+city_longitude: -85.25658229999999
+city_latitude: 34.0112715
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

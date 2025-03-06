@@ -1,0 +1,21 @@
+city: LaPorte
+country: United States
+description: A sailor named "Red" is occasionally seen by visitors and staff appear wearing a WW2 era Navy uniform. He would sometimes acknowledge your presence and then vanish usually into a wall or a closed door. Some say Red is the ghost of the Texas' only seaman killed in WW2. The organization that now operates the Battleship Texas now offers a “stay the night” program.
+location: USS Battleship Texas
+state: Texas
+state_abbrev: TX
+longitude: -95.089709
+latitude: 29.75628249999999
+city_longitude: -95.0193728
+city_latitude: 29.6657838
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/07/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

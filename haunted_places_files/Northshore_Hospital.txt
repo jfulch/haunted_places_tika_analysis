@@ -1,0 +1,21 @@
+city: Muskegon
+country: United States
+description: The Northshore Hospital was once used for TB patients. Later it was converted and housed the mentally ill. After funding ran out the hospital was closed and abandoned. The eerie dwelling was a huge brick building looming on the outskirts of the quaint town of North Muskegon. Inside you could feel the evil among the dank walls which were covered in graffiti with readings such as "the house of the dead", "I can see you", and many odd pictures of creatures and eyes. The basement of the old dwelling was the most energetic place in the entire hospital. Cold drafts and unexplained noises filled the empty hallways. It was the most terrifying, strange place to experience. - September 2004 update: the hospital has been destroyed. Nothing but a flattened pile of rubble exists and is safely kept behind a high cyclone fence.
+location: Northshore Hospital
+state: Michigan
+state_abbrev: MI
+longitude: -86.25206999999999
+latitude: 43.26768
+city_longitude: -86.24839209999999
+city_latitude: 43.2341813
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

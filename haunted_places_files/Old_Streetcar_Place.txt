@@ -1,0 +1,19 @@
+city: Laconia
+country: United States
+description: It was a large factory where streetcars for all over the United States were made. It currently houses a restaurant and a medical store down stairs and State government offices and services on the second floor. The first floor has never had any reporting of any unusual activity. The second floor, however has had several incidents witnessed by some of the workers who would stay after hours at night at work late. The most common things heard was the sound of footsteps, coughs and the murmur of voices that would suddenly start at the time that this shift would be coming in. Telephones would some times ring but there would be only static on the line. You could hear doors opening and shutting in this open concept offices building. No one liked to work alone at night there.
+location: Old Streetcar Place
+state: New Hampshire
+state_abbrev: NH
+city_longitude: -71.4703509
+city_latitude: 43.5278546
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

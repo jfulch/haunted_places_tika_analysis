@@ -1,0 +1,20 @@
+city: Cody
+country: United States
+description: Cedar Mountain use to be called Spirit Mountain because people have been lost and never found in the caves that honeycomb this mountain and the surrounding area. The caves were closed to public access except that one can register with the forest service an explore these caves. Even the canyon that runs along side the mountain is considered haunted. People have heard footsteps behind them but when they turn around, no one is there. Also, some of the long time residents claim the mount is occupied by "little people."
+location: Cedar "Spirit" Mountain
+state: Wyoming
+state_abbrev: WY
+longitude: -109.1261671
+latitude: 44.5124403
+city_longitude: -109.0565308
+city_latitude: 44.52634219999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1944/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

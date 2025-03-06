@@ -1,0 +1,21 @@
+city: Belchertown
+country: United States
+description: Doors unlocked and propped open slam shut and lock. Running footsteps, screams and cries can be heard throughout the building. Temperatures fluctuate between extremes in a matter of minutes. There is also a part of the property near the woods that surrounds the school where nothing grows. There are now no trespassing signs around the property.
+location: Belchertown State School
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.4166346
+latitude: 42.2731423
+city_longitude: -72.4008884
+city_latitude: 42.2770346
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

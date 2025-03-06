@@ -1,0 +1,21 @@
+city: Superior
+country: United States
+description: This lovely mansion was once the home of the first Mayor of Superior. The family lived there for many years. The house is supposedly haunted by a former housekeeper. Legend states that she served the family for quite some time, and upon marrying, moved away. The housekeeper's husband later murdered her and her spirit returned to where she was most happy. The house is now a museum and from time to time her ghost shows up to direct lost people on tours. The building was also an orphanage until the early 1960's. People have reported seeing two little girls haunting the basement.
+location: Fairlawn Mansion
+state: Wisconsin
+state_abbrev: WI
+longitude: -92.063249
+latitude: 46.717986
+city_longitude: -92.1040796
+city_latitude: 46.7207737
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 23m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

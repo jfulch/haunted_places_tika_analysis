@@ -1,0 +1,21 @@
+city: Orange
+country: United States
+description: People have reported seeing a woman calling out for her lost husband "Jacob" at the battlefield site, soldiers charging and laying in the remaining trenches, and people driving on the road beside the battlefield have reported seeing flashes of light described as "the flash from a gun or cannon barrel" appearing just above the battlefield grounds.
+location: Wilderness Battlefield
+state: Virginia
+state_abbrev: VA
+longitude: -77.7564776
+latitude: 38.3175067
+city_longitude: -78.1108342
+city_latitude: 38.2454106
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Tacoma
+country: United States
+description: the Puget Sound Mental Hospital, is an enormous facility for the mentally disturbed (is also a drug and alcohol rehab). Parts of this 8-story complex are no longer in use. Half of the facility lies in darkness and is used for storage or is closed off because it is "unsafe". All of the buildings of this facility are highly haunted. Most of the staff there are willing to tell you the tales of the many ghostly personalities that reside there. The most famous is that of an old woman and her walker that can be seen and heard going up and down the hallways of the 4th floor. As you walk down the hallways and through the stairwells, you can feel that the place is very much alive with activity. This place is a real facility so you will need permission to run equipment, and or just tour the campus.
+location: Puget Sound Mental Hospital
+state: Washington
+state_abbrev: WA
+longitude: -122.5190526
+latitude: 47.1740135
+city_longitude: -122.4442906
+city_latitude: 47.2528768
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/14
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

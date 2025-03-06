@@ -1,0 +1,21 @@
+city: Dover
+country: United States
+description: The Surrender House in Dover, Tennessee which is part of Fort Donelson National Battlefield Park is haunted. A volunteer at site experienced some pretty odd things. A ghostly presence of a Federal Officer.
+location: The Surrender House
+state: Tennessee
+state_abbrev: TN
+longitude: -87.85695249999999
+latitude: 36.4953082
+city_longitude: -87.83835669999999
+city_latitude: 36.4878291
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1861/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

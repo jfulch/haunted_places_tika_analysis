@@ -1,0 +1,21 @@
+city: Gates
+country: United States
+description: Former landlord shot and killed a man in the Jacuzzi over a betting debt. The Jacuzzi and house were burned down by the local fire department in 1998. People report seeing a ghostly figure wandering around the property. The former property manager (me) had to do a spirit releasement on some of the tenants and friends living in the resort.
+location: Outpost Village Resort RV &amp; Mobile Home Park
+state: Oregon
+state_abbrev: OR
+longitude: -81.75434899999999
+latitude: 28.06794
+city_longitude: -122.4167483
+city_latitude: 44.7562329
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1998/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

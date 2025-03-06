@@ -1,0 +1,20 @@
+city: Gratis
+country: United States
+description: on Brubaker Rd. A lady and her baby died on this covered bridge many years ago. At night you can sometimes hear a lady’s screams and a baby crying.
+location: Brubaker Bridge
+state: Ohio
+state_abbrev: OH
+longitude: -84.5439336
+latitude: 39.6515445
+city_longitude: -84.52717109999999
+city_latitude: 39.6478321
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

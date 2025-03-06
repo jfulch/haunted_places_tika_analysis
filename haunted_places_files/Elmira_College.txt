@@ -1,0 +1,21 @@
+city: Elmira
+country: United States
+description: Tompkins Hall - The empty room on the fourth floor that no one has lived in since the late 60's is said to be haunted. The Residence life staff says that even though the door is locked and no one lives there, they have had to turn off the lights in the room almost every night. Across the hall is the picture of the former female students sister, a nun, who apparently haunts the room after her sister died on campus, she is said to be waiting for her to come back so she can surprise her with a visit.
+location: Elmira College
+state: New York
+state_abbrev: NY
+longitude: -76.81537050000001
+latitude: 42.0967817
+city_longitude: -76.8077338
+city_latitude: 42.0897965
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 0

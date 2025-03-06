@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: there's a door in the girls locker room that leads to a classroom up stairs. A long time ago a girl was running up the stairs and she tripped and she died. it is said that when you are in the girls locker room at nigh you can hear things coming from the stair well like someone falling. it has mostly been heard by cheerleaders after a basketball game
+location: Burnett Academy Middle School
+state: California
+state_abbrev: CA
+longitude: -121.9011286
+latitude: 37.352912
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

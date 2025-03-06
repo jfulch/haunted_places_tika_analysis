@@ -1,0 +1,21 @@
+city: Castleton
+country: United States
+description: Ellis Hall - Ellis Hall has been part of Castleton State College for years. On the second floor in this building a girl student killed herself and now students here her flushing toilets running showers and the sink in the bathroom. Almost every building at Castleton State is Haunted.
+location: Castleton State College
+state: Vermont
+state_abbrev: VT
+longitude: -73.1802563
+latitude: 43.6077824
+city_longitude: -73.17983199999999
+city_latitude: 43.6106223
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1951/05/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Cherry Valley
+country: United States
+description: Possible Urban Legend - A ghost car will come out of no where and chase you and run you off the road. Off of blood point road there is Sweeney road where there is a spot to pull over by a stonewall. Over the wall is a field with paths that lead to the woods were red floating orbs have been seen. In the woods is the foundation of church of some kind. No flashlight will work it will turn off one step into the woods. an old farmer will came running through the woods with a shotgun then once outside the woods he disappears. At the end of Sweeney road at the stop sign it turns in to Pool rd. proceed with caution as a phantom black big rig will come out of no where. And on your way out you will be chased by the ghost car until you leave the area.
+location: Blood point Road
+state: Illinois
+state_abbrev: IL
+longitude: -88.9162399
+latitude: 42.1743457
+city_longitude: -88.94899120000001
+city_latitude: 42.2347434
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/09/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

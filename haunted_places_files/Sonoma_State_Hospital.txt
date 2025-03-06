@@ -1,0 +1,21 @@
+city: Sonoma
+country: United States
+description: this hospital for the mentally disabled once was an insane asylum which had mistreated the patients. Nowadays the main building of the State Hospital by night has the foreboding presence of this torture. Sounds of screams are heard through the night. And large looming shadows of people walking outside can be seen when no one is about. The fields near the hospital have sightings of "demonic beasts" as well as a mysterious hitchhiking woman in white.
+location: Sonoma State Hospital
+state: California
+state_abbrev: CA
+longitude: -122.5176091
+latitude: 38.3485829
+city_longitude: -122.4580356
+city_latitude: 38.291859
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

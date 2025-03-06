@@ -1,0 +1,19 @@
+city: Paris
+country: United States
+description: Scores of people report seeing a small boy crying in the corner of his supposed room of the very large house. The House resembles an evil watcher of its woods, standing upright looking out over the moon. Some claim to see wheelchairs creeping across rooms. Contains large amount of missing boards.
+location: Gated House off of FM 195
+state: Texas
+state_abbrev: TX
+city_longitude: -95.555513
+city_latitude: 33.6609389
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

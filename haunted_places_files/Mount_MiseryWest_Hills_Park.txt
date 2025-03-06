@@ -1,0 +1,21 @@
+city: Huntington
+country: United States
+description: This is where Sweet Hollow Road leads to (well, include some back roads. The place is now a state park, but in the 1840's there was a hospital there that burnt down. 15 years later it was rebuilt, and from then on moaning and cries for help were reported by the staff. Five months later another fire burnt the place down. Today burning specters can be seen.
+location: Mount Misery/West Hills Park
+state: New York
+state_abbrev: NY
+longitude: -73.42909809999999
+latitude: 40.8052661
+city_longitude: -73.425676
+city_latitude: 40.8681539
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

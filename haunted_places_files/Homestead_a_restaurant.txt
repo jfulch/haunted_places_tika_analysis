@@ -1,0 +1,20 @@
+city: Fort Recovery
+country: United States
+description: Reports of an apparition of a woman & hear the lady's room door to open and close by itself.
+location: Homestead- a restaurant
+state: Ohio
+state_abbrev: OH
+longitude: -84.77877699999999
+latitude: 40.412803
+city_longitude: -84.7763511
+city_latitude: 40.4128241
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

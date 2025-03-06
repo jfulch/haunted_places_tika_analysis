@@ -1,0 +1,21 @@
+city: Harrison City
+country: United States
+description: The ghost of a Scottish Highland soldier who was killed in the battle can be seen roaming the woodline from Edge Hill.
+location: Bushy Run Battlefield
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.62354069999999
+latitude: 40.3566847
+city_longitude: -79.6501407
+city_latitude: 40.3547915
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

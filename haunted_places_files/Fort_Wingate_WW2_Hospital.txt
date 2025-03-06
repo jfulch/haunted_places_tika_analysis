@@ -1,0 +1,19 @@
+city: Fort Wingate
+country: United States
+description: Fort Wingate which is just due east of Gallup, once used to be a huge Fort used for storing weapon caches during WW2. Wingate also had a hospital used to treat in injured that were returned home. Well some that were injured there had major problems such as loss of limbs and mental retardation. The hospital was said to be sad and lonely. Rumors have spread around stating that spirits could be seen and heard looking for there limbs and or minds. The military now has the hospital closed off to the public ever since the rumors went out. The hospital closed right after the end of the war. To this day strange and weird noises can be heard coming from the hospital.
+location: Fort Wingate WW2 Hospital
+state: New Mexico
+state_abbrev: NM
+city_longitude: -108.5438525
+city_latitude: 35.4718903
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1849/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

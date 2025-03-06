@@ -1,0 +1,21 @@
+city: Buffalo
+country: United States
+description: This foreboding castle-like structure is located on Forest Avenue and dates back two centuries. The facilities have long since been shut down, but the mental incurables still haunt the place. Underground catacombs still contain equipment used in the unorthodox methods believed to make these poor souls right. Back in those days, mental patients were subject to unusual and cruel treatments. The spirits of these unfortunate souls have been seen roaming the dark and melancholy facilities.
+location: Buffalo Psychiatric Center
+state: New York
+state_abbrev: NY
+longitude: -78.88020209999999
+latitude: 42.9291135
+city_longitude: -78.8783689
+city_latitude: 42.88644679999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

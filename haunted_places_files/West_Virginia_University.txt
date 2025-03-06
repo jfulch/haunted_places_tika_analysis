@@ -1,0 +1,21 @@
+city: Morgantown
+country: United States
+description: library - On the 10th floor of the old section of the library one gets the distinct feeling of being watched also the elevator opens and people are heard entering and exiting without being seen.  The side desk areas also seem to be heavily occupied as writing can be heard from empty desks.  Apparitions have also been seen.  In the new section one gets the same sensations occasionally as if coming from the older building.
+location: West Virginia University
+state: West Virginia
+state_abbrev: WV
+longitude: -79.95593579999999
+latitude: 39.6361396
+city_longitude: -79.95589679999999
+city_latitude: 39.629526
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

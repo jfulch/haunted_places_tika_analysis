@@ -1,0 +1,21 @@
+city: Sterling
+country: United States
+description: 7th Avenue - Many ghosts have been sighted along the Rock River along the bluffs and railroad tracks where many have died on the "blind corner" near the Dillon Museum hit by trains and also drowned in the river's strong currents. On the dead end road of Seventh Avenue it is said that you can hear a mother calling for her children and that a woman can be seen walking along the tracks and disappears in thin air.
+location: Rock River
+state: Illinois
+state_abbrev: IL
+longitude: -89.7316154
+latitude: 41.7908001
+city_longitude: -89.69621939999999
+city_latitude: 41.788642
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1907/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

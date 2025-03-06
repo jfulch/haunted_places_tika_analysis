@@ -1,0 +1,21 @@
+city: Lantana
+country: United States
+description: There are three ghosts in this pub: a male, a blonde female, and a brunette female. The story says that before the pub was built, the blonde woman lived in that area. The man was in love with her, but their relationship was ruined by the brunette woman. Today, bottles and other objects fly towards brunettes and sometimes they feel a hand hitting their head. Blonde women feel their hair and face being gently stroked.
+location: Red Lion Pub
+state: Florida
+state_abbrev: FL
+longitude: -82.8483703
+latitude: 27.897234
+city_longitude: -80.05198589999999
+city_latitude: 26.5867358
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

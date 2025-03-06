@@ -1,0 +1,20 @@
+city: Spartanburg
+country: United States
+description: Wilson Hall - there is a stairway to the bell tower.  Legend has it that two men were arguing up there and one was pushed off.  This is a ANGRY ghost.  The door to the bell tower is locked.  The ghost is said to have red eyes.  I personally have not seen it, but one of my classmates did.
+location: Converse College
+state: South Carolina
+state_abbrev: SC
+longitude: -81.91706599999999
+latitude: 34.954266
+city_longitude: -81.9320482
+city_latitude: 34.9495672
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1848/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

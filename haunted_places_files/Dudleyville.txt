@@ -1,0 +1,21 @@
+city: Pinal
+country: United States
+description: Lepsy - Near or around the reservation, it is said that in the late 1800's, a man whose last name was Lepsy, would hire Chinese and other minority workers. When the work was done, however, he would burn the workers instead of paying them. The sheriff and a posse went in to get him, and they were burned too. When you pass through the canyon, you will see charred walls, smell a disgusting aroma, hear screams, and feel horrible/agonized energies.
+location: Dudleyville
+state: Arizona
+state_abbrev: AZ
+longitude: -110.7331063
+latitude: 32.9208126
+city_longitude: -111.2845025
+city_latitude: 32.8162061
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1846/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

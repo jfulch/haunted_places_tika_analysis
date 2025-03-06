@@ -1,0 +1,21 @@
+city: Aiea
+country: United States
+description: This school is built over an ancient burial ground and there have been reports of strange figures in the R building area and strange noises have also been reported all over campus.
+location: Aiea High School
+state: Hawaii
+state_abbrev: HI
+longitude: -157.9300814
+latitude: 21.3849016
+city_longitude: -157.9255357
+city_latitude: 21.386338
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Accident
+witness_count: 1

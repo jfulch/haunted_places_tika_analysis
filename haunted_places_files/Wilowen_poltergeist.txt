@@ -1,0 +1,19 @@
+city: Nashville
+country: United States
+description: House is haunted buy an evil entity that is very abusive to who ever lives there for any length of time. It is said a disgruntled old man that live there is angry that someone else may be in his home. Full classical haunted house, by whom or what is still to be determined.
+location: Wilowen poltergeist
+state: Tennessee
+state_abbrev: TN
+city_longitude: -86.7816016
+city_latitude: 36.1626638
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Dearborn Heights
+country: United States
+description: Mary is said to have run into the girls bathroom on the second floor crying after the teacher screamed at her. And she tryed to climb up a vent to get out of the school.She didnt know that the vent was an old air conditioning vent and turned on automatically. She is said to have climbed up and screamed as the blades cut her body and she died in the vent. There is a dark stain beneath the vent and the door to that stall is removed.
+location: Highview Elementary School
+state: Michigan
+state_abbrev: MI
+longitude: -83.2853311
+latitude: 42.3371456
+city_longitude: -83.27326269999999
+city_latitude: 42.3369816
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Death
+witness_count: 0

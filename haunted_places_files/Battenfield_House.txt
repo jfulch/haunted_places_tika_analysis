@@ -1,0 +1,19 @@
+city: Fife Lake
+country: United States
+description: Previous residence of one of well known mass murderers who was found to have poisoned several family members because she liked to attend social events and used the murders to provide the social contact she craved. Two of the murders occurred in this house. Hauntings include burning flames seen on upstairs newel post which left no heat or burn.
+location: Battenfield House
+state: Michigan
+state_abbrev: MI
+city_longitude: -85.3506136
+city_latitude: 44.5769496
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

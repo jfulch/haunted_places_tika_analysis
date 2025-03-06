@@ -1,0 +1,21 @@
+city: Mobile
+country: United States
+description: In an old cemetery behind the main branch of the Mobile library, is an oak tree that grew out of the grave of a man named Boyington. He was a black man wrongly accused and executed. His last words were that an oak tree would grow from his grave to prove his innocence. Some say that they hear strange noises coming from around the tree.
+location: Boyington Oak
+state: Alabama
+state_abbrev: AL
+longitude: -88.0508262
+latitude: 30.6857691
+city_longitude: -88.0398912
+city_latitude: 30.6953657
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1890/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

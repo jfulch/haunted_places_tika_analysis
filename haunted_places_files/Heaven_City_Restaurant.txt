@@ -1,0 +1,21 @@
+city: Mukwonago
+country: United States
+description: This restaurant sits on an Indian Burial Ground. The employees said that they saw glasses crashing to the ground after hours. They saw ghostly mages wandering through the restaurant. One time a young boy went upstairs and said he didn't believe in ghosts and he broke both of his legs.
+location: Heaven City Restaurant
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.3035091
+latitude: 42.8780207
+city_longitude: -88.33342739999999
+city_latitude: 42.8666803
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

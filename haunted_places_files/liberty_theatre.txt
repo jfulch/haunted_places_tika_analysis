@@ -1,0 +1,21 @@
+city: Ellensburg
+country: United States
+description: people say they have heard sounds and screaming in the theater only at night and the bathroom doors opening and closing doors.
+location: liberty theatre
+state: Washington
+state_abbrev: WA
+longitude: -120.454198
+latitude: 46.934247
+city_longitude: -120.5478474
+city_latitude: 46.9965144
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

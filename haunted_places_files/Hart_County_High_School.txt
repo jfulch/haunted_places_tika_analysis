@@ -1,0 +1,21 @@
+city: Munfordville
+country: United States
+description: A man fell down a man hole in the student parking lot. There are always strange things happening here, but it gets more active around the end of basket ball season. You'll find locked doors open, lights turned on after they have been turned off, and in rm. 46 the air conditioners will be on in the mornings during the middle of winter.
+location: Hart County High School
+state: Kentucky
+state_abbrev: KY
+longitude: -85.88148369999999
+latitude: 37.259685
+city_longitude: -85.8910819
+city_latitude: 37.2722751
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

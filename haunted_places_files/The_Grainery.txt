@@ -1,0 +1,19 @@
+city: Inwood
+country: United States
+description: It is said that if you go to the grainery in mid day there will be an old farmer dressed in white overalls and is very pale in the face. He will tell you to get out. He is supposedly protecting the grainery from kids vandalizing it.
+location: The Grainery
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.203058
+city_latitude: 41.3175446
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

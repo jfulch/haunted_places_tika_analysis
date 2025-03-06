@@ -1,0 +1,21 @@
+city: Chester
+country: United States
+description: Delta Phi Epsilon sorority - Residents of the house have said that they see and feel a presence of a woman in the top floor (3rd). They say she's friendly. She's turns on and off things and moves stuff around. There are other sightings at Widener University also, it was originally Pennsylvania Military College (PMC) many have said that they've seen a young soldier walking around in the traditional gray uniforms (not the type worn by the large contingency of ROTC cadets at the school now) but then quickly disappears.
+location: Widener University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.35667529999999
+latitude: 39.8633562
+city_longitude: -75.3557457
+city_latitude: 39.849557
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/03/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

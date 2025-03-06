@@ -1,0 +1,21 @@
+city: Amherst
+country: United States
+description: People have reported seeing things, hearing strange noises. And a few people have reported coming down the steps and seeing a woman's reflection in the window.
+location: Winton Country Club
+state: Virginia
+state_abbrev: VA
+longitude: -79.0226133
+latitude: 37.63772
+city_longitude: -79.0514134
+city_latitude: 37.5851412
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

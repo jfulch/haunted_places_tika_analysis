@@ -1,0 +1,21 @@
+city: Philadelphia
+country: United States
+description: Eastern State is haunted by hundreds of prisoners that have been executed, beaten to death, or committed suicide. The most famous sighting is of a prisoner that killed 27 people in an attempted prison break. Reports of feelings of someone there, and dread, strange sounds and shadows or apparitions.
+location: Eastern State Penitentiary
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.17266479999999
+latitude: 39.9683364
+city_longitude: -75.1652215
+city_latitude: 39.9525839
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1934/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

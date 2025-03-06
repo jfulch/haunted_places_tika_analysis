@@ -1,0 +1,21 @@
+city: Wenatchee
+country: United States
+description: A husband came back from vacation to find his wife cheating on him. The husband killed the other man on the stairs, and it is reported that you can hear someone walking up and down the stairs when no one is there. There are also blood stains on the stairs that when washed disappear for a few moments and then re-appear
+location: Cherub Bed &amp; Breakfast Inn
+state: Washington
+state_abbrev: WA
+longitude: -105.171113
+latitude: 38.7507528
+city_longitude: -120.3103494
+city_latitude: 47.4234599
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

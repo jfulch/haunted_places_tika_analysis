@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: Mansion - This massive mansion directly across the river from Waverly country club is still unfinished.  The foundation is the remains of the city's water pump house.  A number of years after its construction began the owner/builder hung himself in the elevator shaft.  It has remained under slow construction and is haunted by this mans spirit.  Doors locked behind us, brooms fell, lights turned on without us turning them.
+location: Willamette
+state: Oregon
+state_abbrev: OR
+longitude: -122.6764815
+latitude: 45.5230622
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

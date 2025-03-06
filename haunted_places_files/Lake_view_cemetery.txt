@@ -1,0 +1,21 @@
+city: Crystal Lake
+country: United States
+description: The Lake View Cemetery is said to be haunted by the spirit of a women who set her self on fire here.
+location: Lake view cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.35162679999999
+latitude: 42.259085
+city_longitude: -88.31619649999999
+city_latitude: 42.2411344
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1869/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

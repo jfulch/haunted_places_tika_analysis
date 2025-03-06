@@ -1,0 +1,21 @@
+city: Mena
+country: United States
+description: The ghost light of a young girl that died trying to take care of her family is seen. She is said to wander the mountain with a lantern, looking for her family's cabin. She is actually buried in Old Pioneer Cemetery on the mountain. She has been seen by local folks for many years.
+location: Rich Mountain
+state: Arkansas
+state_abbrev: AR
+longitude: -94.2202807
+latitude: 34.5910476
+city_longitude: -94.2396554
+city_latitude: 34.5862171
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Albany
+country: United States
+description: There are 4 houses reported here to be haunted. 3 of them have been identified to some extent. One is a 7 year old little girl killed in a fire, another is a priest, another is a musician who committed suicide in Chicago and another is a gardener. The Dean of Students has all the details and gives a presentation on it every year. Many students have witnessed many things.
+location: The College of Saint Rose
+state: New York
+state_abbrev: NY
+longitude: -73.78566529999999
+latitude: 42.6640994
+city_longitude: -73.7562317
+city_latitude: 42.6525793
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

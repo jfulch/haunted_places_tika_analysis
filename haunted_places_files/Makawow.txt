@@ -1,0 +1,21 @@
+city: Maui
+country: United States
+description: The Iao Theater - Supposedly haunted by spirits particularly in the dressing rooms. Reports of hearing voices when people were there all alone. Sensations of being watched and doors closing, smells and items moved from one place to another.
+location: Makawow
+state: Hawaii
+state_abbrev: HI
+longitude: -156.3130556
+latitude: 20.8569444
+city_longitude: -156.3319253
+city_latitude: 20.7983626
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1928/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

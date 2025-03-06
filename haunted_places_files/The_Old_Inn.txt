@@ -1,0 +1,20 @@
+city: Killingworth
+country: United States
+description: Since 1790 this building has been the site of taverns, restaurants, Inns, B and B's, bars or cafes. The ghosts of a man and woman have been observed and "felt" throughout this building.
+location: The Old Inn
+state: Connecticut
+state_abbrev: CT
+longitude: -72.5651912
+latitude: 41.358643
+city_longitude: -72.5645602
+city_latitude: 41.3581869
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1790/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

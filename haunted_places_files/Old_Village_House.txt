@@ -1,0 +1,19 @@
+city: Assonet
+country: United States
+description: The first selectman of the town pushed his daughter out of a second story bedroom window, killing her. Footsteps have been heard on the staircase, doors open and close suddenly, and candles are reported to be seen by passers-by on certain nights. Scratch marks found on the window of the room the daughter was murdered in.
+location: Old Village House
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.0678212
+city_latitude: 41.7959352
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

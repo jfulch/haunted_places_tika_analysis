@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: The late nineteenth century Mayer-Krom Building at S 8th and W Mitchell Streets in Milwaukee WI 53204 is were the Milton Family are said to have been murdered Oct 3, 1943, with hauntings ever since. Hence MARS Distributing created an actual haunted house there to view each October. Their official website is: - www.marshauntedhouse.com  MARS = Milwaukee Area Radio Stations.
+location: Cathedral Mayer-Krom Building
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.90420370000001
+latitude: 43.0418195
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

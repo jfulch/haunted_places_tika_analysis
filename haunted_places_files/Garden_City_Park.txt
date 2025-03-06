@@ -1,0 +1,21 @@
+city: Garden City
+country: United States
+description: reports of an apparition on an old man that is sitting at a picnic table that just disappears.
+location: Garden City Park
+state: Michigan
+state_abbrev: MI
+longitude: -83.348889
+latitude: 42.312688
+city_longitude: -83.3310422
+city_latitude: 42.3255928
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

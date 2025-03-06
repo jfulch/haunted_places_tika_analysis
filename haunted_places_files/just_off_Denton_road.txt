@@ -1,0 +1,19 @@
+city: Ypsilanti
+country: United States
+description: At night you an drive down this road and see weird blue lights flashing all over the whole road. the more noise you make the more lights come out. And if you get out of the car or turn off the engine you can hear metal chains or pipes grinding and also hear groans and growls.
+location: just off Denton road
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.61299389999999
+city_latitude: 42.2411499
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2017/08/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

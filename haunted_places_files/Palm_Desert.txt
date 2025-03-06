@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: Palm Desert High School - It is reported of a young girl walking around at night around the pool. it was said that she drowned in 1990 and has never left her school hoping to one day swim on a team again.
+location: Palm Desert
+state: California
+state_abbrev: CA
+longitude: -116.3744556
+latitude: 33.7222445
+city_longitude: -117.3961564
+city_latitude: 33.9533487
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

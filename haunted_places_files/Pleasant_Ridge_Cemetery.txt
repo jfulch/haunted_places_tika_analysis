@@ -1,0 +1,21 @@
+city: Palo
+country: United States
+description: Pleasant Ridge is more commonly known as 13 stairs, because of the 13 stairs leading up a hill into the cemetery. Voices have been recorded on tape(EVP) that were not heard while there. Also, people have been touched by unseen things. Visitors have seen things human like shapes appear and disappear.
+location: Pleasant Ridge Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -91.8145109
+latitude: 42.1315699
+city_longitude: -91.7961118
+city_latitude: 42.0660485
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

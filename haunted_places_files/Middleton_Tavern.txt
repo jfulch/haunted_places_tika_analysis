@@ -1,0 +1,21 @@
+city: Annapolis
+country: United States
+description: One of the oldest buildings in Annapolis originally built in the middle of the 1700's and purchased by Horatio Middleton, after his death it was then own and operated by his son Samuel. Many famous historical personalities have been said to of stayed at the tavern, some of which being Thomas Jefferson, Benjamin Franklin, and the founder of our country George Washington. It is unsure to who walks the halls of the tavern, which is currently a restaurant and bar. But, there have been many many occurrences that seem to carry on in story. Whether it is the frequent plate flying across the room, to glasses falling off the bar's wall, as though they are being knocked off one by one, happenings seem to occur very often. On one occasion a table filled with empty dinner plates is unexplainably toppled over. And, on another instance, a restaurant employee witnessed a man in period clothing staring out onto the harbor, as though he was waiting for his ship to come in, and then as fast as the man appeared he disappeared. Shadows move across the rooms, and lantern mounted on the walls are turned upside down. The witnesses love to tell their stories, and almost welcome whatever it is that is there.
+location: Middleton Tavern
+state: Maryland
+state_abbrev: MD
+longitude: -76.486914
+latitude: 38.978177
+city_longitude: -76.4921829
+city_latitude: 38.9784453
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

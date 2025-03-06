@@ -1,0 +1,18 @@
+city: Ethel
+country: United States
+description: This cemetery in this little town is very haunted. It has been said that white mists float over the graves at all times of the day. Plus, mysterious people have been seen around that area and weird sounds can be heard all the time.
+location: White Oak Cemetery
+state: Missouri
+state_abbrev: MO
+city_longitude: -92.73797170000002
+city_latitude: 39.8947519
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

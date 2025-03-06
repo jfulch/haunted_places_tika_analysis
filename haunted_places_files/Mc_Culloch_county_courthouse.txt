@@ -1,0 +1,21 @@
+city: Brady
+country: United States
+description: in the county clerks office the vault closes by its self, large ledgers that are stored in the vault have been taken out and opened  when the vault is locked. the judge has reported that during late hours he has heard the elevator changing floors with out anyone else being inside the building to push the buttons. someone took a picture on the outside of the building during the evening and an eerie figure of an older man dressed in the fashion of the early 1800's wearing a badge appeared in the window of the sheriff's office. There have been reports of muffled voices, and footsteps heard, cold spots, and other activity in the courthouse and has even been checked by a "ghost busters group in 2004.
+location: Mc Culloch county courthouse
+state: Texas
+state_abbrev: TX
+longitude: -99.3330975
+latitude: 31.1339129
+city_longitude: -99.3350552
+city_latitude: 31.1351682
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2004/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

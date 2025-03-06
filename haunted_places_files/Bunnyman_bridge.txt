@@ -1,0 +1,21 @@
+city: Clifton
+country: United States
+description: a man who escaped from a mental institution hid in a tunnel under a bridge where he hung people. It is called Bunnyman because when searchers looked for the man they found the carcass of rabbits. His ghost still haunts the bridge and sightings of people seen hanging from the bridge are common.
+location: Bunnyman bridge
+state: Virginia
+state_abbrev: VA
+longitude: -77.36234069999999
+latitude: 38.7898179
+city_longitude: -77.3866535
+city_latitude: 38.7801142
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

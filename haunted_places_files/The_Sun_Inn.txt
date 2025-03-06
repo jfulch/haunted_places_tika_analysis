@@ -1,0 +1,21 @@
+city: Bethlehem
+country: United States
+description: now a restored museum and restaurant. Built prior to the Revolution and visited by many luminaries of that era. The Moravianshad built tunnels to use in case of hostile Indian attacks. The existence of these tunnels has been substantiated by several witnesses. One of the entrances is in the cellar of the inn. According to legend, Brother Albrecht hid some treasure and wine in a secret room. His ghost guards the treasure. Cold spots and feeling a presence have been reported.
+location: The Sun Inn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.381683
+latitude: 40.6219107
+city_longitude: -75.37045789999999
+city_latitude: 40.6259316
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

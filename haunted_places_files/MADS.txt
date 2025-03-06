@@ -1,0 +1,21 @@
+city: Orchard Park
+country: United States
+description: There is believed that a spirit named Ronald inhabits this very old building. It used to belong to a man named Ronald, and the kids that now go to this dance studio, firmly believe there is some kind of super natural being in the studio. It likes to play tricks, for example; hiding the cds, and misplacing glasses, and other cruel jokes.
+location: M*A*D*S
+state: New York
+state_abbrev: NY
+longitude: -78.7439189
+latitude: 42.76755929999999
+city_longitude: -78.7440921
+city_latitude: 42.7675323
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1579/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

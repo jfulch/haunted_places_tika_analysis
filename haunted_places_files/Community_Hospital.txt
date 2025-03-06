@@ -1,0 +1,20 @@
+city: Fulton
+country: United States
+description: The girls in lab says there is a ghost that walks the hall by surgery. Also smells of sweat in areas were there are no people.
+location: Community Hospital
+state: Missouri
+state_abbrev: MO
+longitude: -91.9657558
+latitude: 38.8435368
+city_longitude: -91.9479586
+city_latitude: 38.84670819999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

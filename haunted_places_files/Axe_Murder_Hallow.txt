@@ -1,0 +1,19 @@
+city: Erie
+country: United States
+description: The Legend says that A man chopped up his entire family with an axe because of his suspicions of his wife and a farm hand. A few years later a car with a young couple in it got stuck in the mud. The boy went for help and told his girlfriend to stay in the car. A while later the girl heard someone outside the car saying, "Get out." She stepped out in the pouring rain and saw her boyfriend hanging by his ankles with his throat slit. She tried to run for help, but a figure with an axe in his hand grabbed her.
+location: Axe Murder Hallow
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -80.085059
+city_latitude: 42.12922409999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

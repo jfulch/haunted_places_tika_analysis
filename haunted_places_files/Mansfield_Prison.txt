@@ -1,0 +1,20 @@
+city: Mansfield
+country: United States
+description: The warden's wife was supposedly killed in front of his office. Reports of feeling light headed and not being alone.
+location: Mansfield Prison
+state: Ohio
+state_abbrev: OH
+longitude: -82.502481
+latitude: 40.784215
+city_longitude: -82.5154471
+city_latitude: 40.75839
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

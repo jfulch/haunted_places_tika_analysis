@@ -1,0 +1,21 @@
+city: Oxford
+country: United States
+description: When you are alone in the house footsteps can be heard walking across the upper floors. Footsteps also can be heard coming down the stairs from the uppers floors. Thuds, like someone has dropped something upstairs, slams, bangs and crashes can be heard in the middle of the night, windy or not. Knocking on the cellar door when there is nobody on the other side. Faint screams of a woman. The feeling of a presence, that you are not alone. Neighbors say that every person who has ever lived there has complained of the same thing. Families have been forced to move because of the things heard.
+location: Quobaug Ave
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.871037
+latitude: 42.1125
+city_longitude: -71.8647577
+city_latitude: 42.1167606
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

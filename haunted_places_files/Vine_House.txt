@@ -1,0 +1,19 @@
+city: Baltimore County
+country: United States
+description: White and green abandoned house covered with weeds and vines. Its up by Fort Howard. Its been abandoned since 1988 and it looks like there was a fire upstairs.. You have to go in through an alley like driveway and through the garage to the back door to get in. There’s a small room in one of the rooms upstairs. There is a huge hole in he wall where it looks like someone was thrown through the wall. Negative energy is felt here, believed to be from a murder of a man and a rape of a girl.
+location: Vine House
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.7336521
+city_latitude: 39.4647665
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1988/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

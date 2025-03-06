@@ -1,0 +1,19 @@
+city: Genesee
+country: United States
+description: numerous spirits have been seen in this building.
+location: Joyce Building
+state: Idaho
+state_abbrev: ID
+city_longitude: -116.9254357
+city_latitude: 46.5507205
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.75
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Lusk
+country: United States
+description: Eerie feelings at this 19th century motel.  The place is abandoned, but you can feel someone's presence when you enter it.
+location: Silvercliff Motel
+state: Wyoming
+state_abbrev: WY
+longitude: -104.4522169
+latitude: 42.7557925
+city_longitude: -104.4521747
+city_latitude: 42.7624668
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

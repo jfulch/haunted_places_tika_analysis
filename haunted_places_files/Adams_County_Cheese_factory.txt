@@ -1,0 +1,21 @@
+city: Decatur
+country: United States
+description: This old abandoned cheese factory, has been known for its many unexplained phenomena. It is said to be guarded by spirits. Many people claim not to be able to spend much time in this area. It is located in the woods just east of the Kuklehan Mansion. Also it is known for its occult activity.
+location: Adams County Cheese factory
+state: Indiana
+state_abbrev: IN
+longitude: -104.9404415
+latitude: 39.7290747
+city_longitude: -84.9291329
+city_latitude: 40.830603
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

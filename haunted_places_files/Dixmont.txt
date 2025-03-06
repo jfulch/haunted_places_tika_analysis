@@ -1,0 +1,19 @@
+city: Pittsburgh
+country: United States
+description: This asylum will soon be turned into a Wal-Mart. Strange noises can be heard there. Be careful, they have video cameras and the police will arrest you.
+location: Dixmont
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

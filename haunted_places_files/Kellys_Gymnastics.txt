@@ -1,0 +1,21 @@
+city: Rochester
+country: United States
+description: Downstairs in the basement, you feel like you are being watched and that you are not alone. Even when there's no gymnastics going on upstairs, you hear banging type noises.
+location: Kelly's Gymnastics
+state: New Hampshire
+state_abbrev: NH
+longitude: -70.9732152
+latitude: 43.3191888
+city_longitude: -70.97561859999999
+city_latitude: 43.304526
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1812/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

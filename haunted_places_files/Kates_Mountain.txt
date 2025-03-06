@@ -1,0 +1,21 @@
+city: White Sulphur Springs
+country: United States
+description: this is the place were witnesses have encountered several unidentified lights ,and heard lots of noise on one occasion heard what sounded like an army marching, it lasted for about ten minutes and then grew faint. Reports of weird lights that hover in the sky and then shoot out of site. Also reports of a foggy looking human or animal like a panther.
+location: Kates Mountain
+state: West Virginia
+state_abbrev: WV
+longitude: -80.3027439
+latitude: 37.776572
+city_longitude: -80.2975704
+city_latitude: 37.7965107
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

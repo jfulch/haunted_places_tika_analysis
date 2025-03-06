@@ -1,0 +1,19 @@
+city: Visalia
+country: United States
+description: The old Sante Fe Tracks where AVE 271 turns into AVE 272 by RD 128 south of caldwell. There are tracks that cross the street where 271 turns into 272. Stories of the train still goes over the tracks. Also if you park your car on the tracks and turn off your engine you will hear a train and see people walking toward you car. Will also be hard to start the car. Also have seen a ghost train on the tracks around 3AM on some nights. Is in the country and the road is dangerous to drive on, so if you go visit drive careful cars have been known to wreck if your going east on 271 where there is two 90 degree turns.
+location: Haunted Tracks
+state: California
+state_abbrev: CA
+city_longitude: -119.2920585
+city_latitude: 36.3302284
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Quincy
+country: United States
+description: its were physics tell fortunes and they say that a very young women between the age 20-25 that wears a white dress and is all dressed up, calls on people and appears in front of a fire place.
+location: The Tea Room
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.00322899999999
+latitude: 42.242587
+city_longitude: -71.0022705
+city_latitude: 42.2528772
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

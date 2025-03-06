@@ -1,0 +1,19 @@
+city: Aquilla
+country: United States
+description: there this really old cemetery that's back in the woods, its a historic marker but you have to go through a field to get to it. but once you get back there there's an opening in the trees were you can see into the field around you. well if you flash your lights toward that opening then you'll see this 18 wheeler-diesel (w/o a trailer) coming right at you. If you don't leave right then it will come to you.
+location: Lavanot
+state: Texas
+state_abbrev: TX
+city_longitude: -97.2180635
+city_latitude: 31.8515484
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1975/12/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

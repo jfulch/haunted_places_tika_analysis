@@ -1,0 +1,21 @@
+city: Nacogdoches
+country: United States
+description: Wilson Hall building # 13- November 2005 Update: Has recently been torn down. - Reports of stereos will turn themselves on, speakers will increase in volume until they blow, chairs will move themselves, books will re-arrange themselves, and apparitions.
+location: Stephen F. Austin State University
+state: Texas
+state_abbrev: TX
+longitude: -94.6462581
+latitude: 31.6219236
+city_longitude: -94.6554874
+city_latitude: 31.6035129
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1848/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

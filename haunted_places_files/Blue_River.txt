@@ -1,0 +1,21 @@
+city: Corydon
+country: United States
+description: There is said to be a young women who was paddling in her canoe one day. Someone had tied fishing line from a tree to another tree. When she came by she was going very fast. The fishing line cut off her head. People say she is looking for her head almost every night.
+location: Blue River
+state: Indiana
+state_abbrev: IN
+longitude: -86.1289886
+latitude: 38.22135610000001
+city_longitude: -86.1219155
+city_latitude: 38.2120121
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

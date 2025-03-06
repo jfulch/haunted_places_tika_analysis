@@ -1,0 +1,21 @@
+city: Albany
+country: United States
+description: Formerly - Junior College of Albany/Russell Sage - Fine Arts building on Albany Campus have numerous ghosts that still can be heard. Buildings were at one time a Children's Sanitarium (Parson's home for children) is located next door. - September 2004 update: a new Fine Arts building has been built and the old Fine Arts building is now the Graphic Design building. the ghosts that reside there are from an orphanage and died in a fire in the bacement set by the owner/caretaker that also haunts the premisis.
+location: Sage College of Albany
+state: New York
+state_abbrev: NY
+longitude: -73.78257669999999
+latitude: 42.6514661
+city_longitude: -73.7562317
+city_latitude: 42.6525793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

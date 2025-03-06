@@ -1,0 +1,21 @@
+city: Sun Valley
+country: United States
+description: voices have been heard and a mysterious man lurks the hall and children's room. He's not malevolent unless you're over 12 years old.
+location: Roscoe blvd
+state: California
+state_abbrev: CA
+longitude: -118.3890348
+latitude: 34.2217668
+city_longitude: -118.3812562
+city_latitude: 34.2279298
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1956/07/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 0

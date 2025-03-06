@@ -1,0 +1,21 @@
+city: Albany
+country: United States
+description: back many years ago there was a wreck on a rail road track and it killed children.......now late at night if you kill your vehicle and park on the track and put baby powder on the bumper of your car you will see hand prints from the children trying to push you across the tracks.
+location: rail road tracks
+state: Texas
+state_abbrev: TX
+longitude: -99.2977692
+latitude: 32.7257537
+city_longitude: -99.2973005
+city_latitude: 32.723452
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1870/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: McCrory
+country: United States
+description: Many people over the last hundred years have heard and seen many ghosts on the road and in their houses. Riverside was an old western town and also had a plantation. The legend is that some of the slaves that lived on the plantation, lost some babies. Now the ghosts of women crying and looking for their babies are seen. There is also a blonde lady that can only be seen during a rain storm.
+location: Riverside
+state: Arkansas
+state_abbrev: AR
+longitude: -91.7090284
+latitude: 35.254694
+city_longitude: -91.2001246
+city_latitude: 35.2561978
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

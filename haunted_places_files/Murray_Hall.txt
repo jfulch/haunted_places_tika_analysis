@@ -1,0 +1,19 @@
+city: Marlow
+country: United States
+description: A feeling of being watched comes over people as they walk through the old building.  Many believe it is the ghosts from the never ending party.  In 1624 it was burned to the ground on the night of the town wide Halloween party.  It is believed that over 70 people lost their lives in that fire.
+location: Murray Hall
+state: New Hampshire
+state_abbrev: NH
+city_longitude: -72.1970297
+city_latitude: 43.11591139999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1624/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

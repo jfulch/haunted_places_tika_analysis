@@ -1,0 +1,21 @@
+city: Chadron
+country: United States
+description: This neat old bed & Breakfast/Restaurant, Bar is haunted by a friendly spirit that the Owners call (Jack). Guests and employees have heard footsteps on the stairs when no one is there. objects have been moved from their original position. One couple who recently stayed there had placed a water glass by their bed side table. The next morning when they awoke they were surprised to find the water glass sitting on a counter in another room.
+location: Old Main Street Inn
+state: Nebraska
+state_abbrev: NE
+longitude: -103.0004582
+latitude: 42.8320863
+city_longitude: -102.9999069
+city_latitude: 42.8294187
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

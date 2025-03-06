@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: This town mark has been here since Riverside was created. It is said that flying orbs and ghostly figures haunt the watchcase till this very day!!!!
+location: Watchcase Tower
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.9588
+latitude: 40.04029999999999
+city_longitude: -74.9573908
+city_latitude: 40.0323338
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

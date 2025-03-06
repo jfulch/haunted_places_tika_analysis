@@ -1,0 +1,21 @@
+city: Allamuchy
+country: United States
+description: is the actual name of a road located in, New Jersey. It is said that if you drive down there late at night, and you enter into a patch of fog on the road, it will follow you and you will find footprints on your car...human footprints.
+location: Shades of Death
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.895646
+latitude: 40.916927
+city_longitude: -74.8101664
+city_latitude: 40.921765
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1664/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

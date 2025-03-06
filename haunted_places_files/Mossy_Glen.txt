@@ -1,0 +1,21 @@
+city: Strawberry Point
+country: United States
+description: There are caves at mossy glen, it is rumored that 3 ghosts haunt that area. One of the ghosts a women is said to have been seen, but if she drops a rose by your feet you are doomed to die the next day.
+location: Mossy Glen
+state: Iowa
+state_abbrev: IA
+longitude: -91.4273614
+latitude: 42.7263746
+city_longitude: -91.5340348
+city_latitude: 42.6835955
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

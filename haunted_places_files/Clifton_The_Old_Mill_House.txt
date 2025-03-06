@@ -1,0 +1,18 @@
+city: Spartanberg
+country: United States
+description: Rumor is the owner of the plantation killed his family, then himself. Footsteps have been heard, as well as doors being thrown open.
+location: Clifton – The Old Mill House
+state: South Carolina
+state_abbrev: SC
+city_longitude: -81.9320482
+city_latitude: 34.9495672
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

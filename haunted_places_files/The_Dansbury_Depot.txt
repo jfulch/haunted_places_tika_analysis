@@ -1,0 +1,21 @@
+city: East Stroudsburg
+country: United States
+description: An individual has been seen and heard walking around this converted 1864 railroad station.
+location: The Dansbury Depot
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.1811171
+latitude: 40.9990347
+city_longitude: -75.1812913
+city_latitude: 40.9995386
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Richmond
+country: United States
+description: The museum is located on a Civil War battlefield; also the museum contains old planes and artifacts from pilots beginning in WWII. There have been other occurrences there such as footsteps to a particular plane, and a very old stopwatch starting up and ticking.
+location: Virginia Aviation Museum
+state: Virginia
+state_abbrev: VA
+longitude: -77.3339
+latitude: 37.516839
+city_longitude: -77.4360481
+city_latitude: 37.5407246
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: War
+witness_count: 0

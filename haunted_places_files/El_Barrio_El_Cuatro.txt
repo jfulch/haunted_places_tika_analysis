@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: Appropriations of a woman and child dressed in white.
+location: El Barrio / El Cuatro
+state: Texas
+state_abbrev: TX
+longitude: -99.5103637
+latitude: 27.5081021
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

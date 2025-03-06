@@ -1,0 +1,19 @@
+city: Hartford
+country: United States
+description: During the late 1800's, a fire occurred on the original railroad trestle. A train with passenger cars was involved and eight people died, including a boy and his father. The old wooden bridge was replaced with a steel structure on the original concrete footings. The bridge spans the White River and Route 14 in West Hartford. There have been numerous sightings of a little boy ghost playing in the river. Many people have even reported smelling fire in the area of the old bridge.
+location: The Haunted Railroad Bridge
+state: Vermont
+state_abbrev: VT
+city_longitude: -72.3696992
+city_latitude: 43.6637411
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

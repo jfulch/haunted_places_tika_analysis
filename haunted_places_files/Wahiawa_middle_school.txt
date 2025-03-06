@@ -1,0 +1,21 @@
+city: Wahiawa
+country: United States
+description: at Wahiawa Middle School there is said to be a ghost named Roberta that shuts the doors and turns on radios.she is described as a girl age 10-14 and weres a dress and has no feet
+location: Wahiawa middle school
+state: Hawaii
+state_abbrev: HI
+longitude: -158.01899
+latitude: 21.493666
+city_longitude: -158.0209227
+city_latitude: 21.5010495
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

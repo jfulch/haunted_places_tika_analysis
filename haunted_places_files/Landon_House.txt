@@ -1,0 +1,21 @@
+city: Frederick
+country: United States
+description: Built in 1754, footsteps can be heard clearly when the house is vacant, doors close without provocation, and strange noises can be heard.
+location: Landon House
+state: Maryland
+state_abbrev: MD
+longitude: -77.34753979999999
+latitude: 39.327324
+city_longitude: -77.4105409
+city_latitude: 39.41426879999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1754/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 14.533333333333331
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

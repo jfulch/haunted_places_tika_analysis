@@ -1,0 +1,21 @@
+city: Traverse City
+country: United States
+description: A old woman has been seen walking up and down the road at various hours of the day. She can be heard yelling towards houses and at passing neighbors. It is said she used to have own many homes and is a disgruntled landlord. She is mostly seen sitting near a gazebo in front of her old house.
+location: East Mobile Trail
+state: Michigan
+state_abbrev: MI
+longitude: -85.6718995
+latitude: 44.653019
+city_longitude: -85.62063169999999
+city_latitude: 44.7630567
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1915/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

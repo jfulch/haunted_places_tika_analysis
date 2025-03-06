@@ -1,0 +1,20 @@
+city: Cowpens
+country: United States
+description: The Cowpens Fire Department was being built in late 1989 and early 1990. A Lieutenant for the department whose actual name was Robert Lee would come by the new fire house everyday and take pictures of the progress of the new station. In March of 1990 Lee suffered a fatal heart attack while battling a structure fire. It has been said that Lee has been seen and heard throughout the new station. Many members have experienced this and can testify to the same. Many members believe Lee is there to watch over his fellow firefighters. Due to the name of this individual being the same as the famous Civil War General, the actual death and membership can be confirmed at the Cowpens Fire Department Website on the Memorial Page at - www.cowpensfire.com
+location: Fire Department
+state: South Carolina
+state_abbrev: SC
+longitude: -81.8025806
+latitude: 35.0228902
+city_longitude: -81.8039916
+city_latitude: 35.0167918
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1964/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

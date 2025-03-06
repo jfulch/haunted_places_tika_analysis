@@ -1,0 +1,21 @@
+city: Brownstown
+country: United States
+description: Rumors of a little boy and a tall man are said to haunt oak ridge anytime from about 9:00pm to 3:00 am.
+location: Oak ridge cemetery on Telegraph
+state: Michigan
+state_abbrev: MI
+longitude: -83.269511
+latitude: 42.131493
+city_longitude: -83.2572332
+city_latitude: 42.1261157
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

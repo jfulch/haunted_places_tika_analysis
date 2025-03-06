@@ -1,0 +1,20 @@
+city: Medina
+country: United States
+description: There have been a number of people who have seen 2 women and a man walking around through the restaurant.
+location: The Medina Steakhouse &amp; Saloon
+state: Ohio
+state_abbrev: OH
+longitude: -81.841601
+latitude: 41.198267
+city_longitude: -81.8552196
+city_latitude: 41.143245
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

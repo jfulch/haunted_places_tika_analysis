@@ -1,0 +1,19 @@
+city: Tunis Mills
+country: United States
+description: It is believed that slaves were hung from the 'hanging tree'. When you sit under the tree with your car off, you will begin to hear and see the dead. It has been reported to hear the bodies drop onto your car from the branch in which they were hung by.
+location: Hanging Tree
+state: Maryland
+state_abbrev: MD
+city_longitude: -76.1663349
+city_latitude: 38.8203936
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

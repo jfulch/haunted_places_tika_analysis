@@ -1,0 +1,21 @@
+city: Racine
+country: United States
+description: February 2008 Update: Removed by request of owner. It was investigated and debunked.
+location: Microtel Inn and Suites
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.8440334
+latitude: 42.6963039
+city_longitude: -87.78285230000002
+city_latitude: 42.7261309
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2024/02/29
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Mableton
+country: United States
+description: Supposedly a practicing witch was killed and buried in a small private graveyard off of Concord Rd. Many people have reported numerous sounds. Voices, walking sounds, and several goose bump-inducing winds pass through this area. Visit at your own risk. This area is now heavily patrolled by Cobb County Police.
+location: The Witch's Grave
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.5824329
+city_latitude: 33.8187167
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

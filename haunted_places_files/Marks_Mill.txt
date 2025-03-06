@@ -1,0 +1,19 @@
+city: Warren
+country: United States
+description: Ghosts of Civil War soldiers haunt the area. - December 2003 update: It is located about 20 miles north of Warren, in Cleveland co. The battlefield and state park are located at the intersection of Hwy. 8 and Hwy. 97.
+location: Mark's Mill
+state: Arkansas
+state_abbrev: AR
+city_longitude: -92.064583
+city_latitude: 33.6126086
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Camillus
+country: United States
+description: Walking through there on a clear night, there is said to be a gargoyle that comes out at midnight. Strange winds that only hit certain people & flash lights malfunctioning only to work when leaving the area.
+location: Brickyards
+state: New York
+state_abbrev: NY
+longitude: -76.31479329999999
+latitude: 43.0981674
+city_longitude: -76.3040965
+city_latitude: 43.039233
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

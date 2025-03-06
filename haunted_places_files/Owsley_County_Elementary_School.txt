@@ -1,0 +1,21 @@
+city: Bonneville
+country: United States
+description: A girl was killed by another student in the gym and she still runs up and down the gym bleachers. She also haunts the bathrooms and can be seen in the mirror after school hours. The girls locker room is not used anymore on the count of odd occurrences and deaths of other students.
+location: Owsley County Elementary School
+state: Alabama
+state_abbrev: AL
+longitude: -83.6696327
+latitude: 37.4738789
+city_longitude: -86.93583919999999
+city_latitude: 34.8464764
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

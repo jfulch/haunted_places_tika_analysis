@@ -1,0 +1,21 @@
+city: Cardiff
+country: United States
+description: The older people from the area say that this is where the dead look for their loved ones. On Friday the thirteenth, if you drive your car up to the graveyard, your car dies and you can't start it for about five minutes.
+location: Cardiff Cemetery
+state: Alabama
+state_abbrev: AL
+longitude: -86.9319713
+latitude: 33.6550771
+city_longitude: -86.93360609999999
+city_latitude: 33.6456604
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

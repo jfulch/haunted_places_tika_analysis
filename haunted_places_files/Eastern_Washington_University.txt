@@ -1,0 +1,21 @@
+city: Cheney
+country: United States
+description: Dryden Hall 2nd floor - A contorted face of a man can be seen in the grain of the wood on door 203. Reportedly a young man committed suicide in the room in the 1960's. Strange cold spots, odors, and senses of panic have also been noticed on this floor.
+location: Eastern Washington University
+state: Washington
+state_abbrev: WA
+longitude: -117.5854813
+latitude: 47.49061630000001
+city_longitude: -117.5757622
+city_latitude: 47.4873895
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1892/08/31
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

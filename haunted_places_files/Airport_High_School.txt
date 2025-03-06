@@ -1,0 +1,20 @@
+city: West Columbia
+country: United States
+description: The ghost of Aiport's first principal, George I. Pair, haunts the school late at night. Airport was built in 1958 and Pair died in 1962. It is said that he roams the 300 and 500 halls to protect the students and teachers and to look over his work. Though carpeted many years ago, Pair can be heard walking the halls as if the tiles were still there. Lockers banging, the opening of locked doors, and the phones being knocked off the hook are usually the signs of Pair's ghost. Many sightings of his ghost still appear to many students who stay for late night activities. His actions were caught on tape in 1994 by adventurous students and teachers late at night.
+location: Airport High School
+state: South Carolina
+state_abbrev: SC
+longitude: -81.1046808
+latitude: 33.9514618
+city_longitude: -81.0739825
+city_latitude: 33.9934867
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1958/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

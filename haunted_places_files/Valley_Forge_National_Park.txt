@@ -1,0 +1,21 @@
+city: Valley Forge
+country: United States
+description: Several different occurrences have been known to happen at this is the famous war site. Spirits of dead soldiers are most often seen standing on "earthwork" or setting off canons. Late at night phantom musket shots can be heard echoing throughout the entire park.
+location: Valley Forge National Park
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.4469171
+latitude: 40.1020517
+city_longitude: -75.4690966
+city_latitude: 40.09898510000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

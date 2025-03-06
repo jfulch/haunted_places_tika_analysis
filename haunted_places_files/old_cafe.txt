@@ -1,0 +1,21 @@
+city: Arco
+country: United States
+description: sometimes if you walk into the cafe in mid afternoon and find a piece of paper and a pen laying beside each other knock them off of something. Come back about fifteen minutes later and sometimes you will see writing, Write, ?what is my name? hold the piece of paper tightly to your chest and hold the pen out as far as you can in front of you. Chances are it will say your name.
+location: old cafe
+state: Idaho
+state_abbrev: ID
+longitude: -113.2919115
+latitude: 43.6299204
+city_longitude: -113.3002844
+city_latitude: 43.6365693
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1986/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

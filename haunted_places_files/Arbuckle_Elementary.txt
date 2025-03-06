@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: A boy was brutally murdered in the late 70s. He was stabbed many times in the back. People say when he they pass by it at night they can see him with the knife in his back.
+location: Arbuckle Elementary
+state: California
+state_abbrev: CA
+longitude: -121.8402484
+latitude: 37.3442186
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

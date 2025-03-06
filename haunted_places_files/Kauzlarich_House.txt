@@ -1,0 +1,19 @@
+city: Colona
+country: United States
+description: There had been shadows in the halls and things turning on and off without being touched.
+location: Kauzlarich House
+state: Illinois
+state_abbrev: IL
+city_longitude: -90.3531827
+city_latitude: 41.4839233
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

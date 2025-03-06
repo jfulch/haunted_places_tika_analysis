@@ -1,0 +1,21 @@
+city: Fallbrook
+country: United States
+description: People have reported to touch some of the trees in the cemetery and they get "a strong surge of heated energy" as they put it.
+location: Masonic Cemetery
+state: California
+state_abbrev: CA
+longitude: -117.239827
+latitude: 33.392456
+city_longitude: -117.2511466
+city_latitude: 33.3764196
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

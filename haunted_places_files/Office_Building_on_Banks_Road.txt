@@ -1,0 +1,21 @@
+city: Margate
+country: United States
+description: On 2000 Banks Road (where Banks and Copans meet) there is a pink office building with a green roof. Strange smells come if you stand on the roof, and sometimes in the elevator and the women's bathroom you can hear someone crying. In the old Health Clinic in the building, there is a shower with strange spots that look like rust or blood. The West stairwell also has what looks like bloodstains at the bottom. A man hanged himself outside the building in the parking lot, and there are some weird things in the trees. Christmas ornaments, a saw blade, even an old pink teddy bear is nailed into the tree.
+location: Office Building on Banks Road
+state: Florida
+state_abbrev: FL
+longitude: -80.1957885
+latitude: 26.2435118
+city_longitude: -80.206436
+city_latitude: 26.2445263
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1992/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

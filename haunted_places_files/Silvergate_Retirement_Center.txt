@@ -1,0 +1,21 @@
+city: Fallbrook
+country: United States
+description: During construction of a new wing in the center, along w/ voices of children there were a few minor occurrences. There were also reports from guards of a powerful being, presumed to be male. This spirit was very violent. One guard reported that it tried to force him over an opening from the second floor to the first floor that now houses a fountain.
+location: Silvergate Retirement Center
+state: California
+state_abbrev: CA
+longitude: -117.2465301
+latitude: 33.3790338
+city_longitude: -117.2511466
+city_latitude: 33.3764196
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

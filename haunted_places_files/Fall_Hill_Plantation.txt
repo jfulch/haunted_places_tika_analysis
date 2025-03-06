@@ -1,0 +1,21 @@
+city: Fredericksburg
+country: United States
+description: Reports of electrical problems, cabinets opening and closing, ghostly figures circling one’s bed, cold spots, strange odors, and disembodied voices.
+location: Fall Hill Plantation
+state: Virginia
+state_abbrev: VA
+longitude: -77.494985
+latitude: 38.3201279
+city_longitude: -77.4605399
+city_latitude: 38.3031837
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

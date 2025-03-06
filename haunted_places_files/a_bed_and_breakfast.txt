@@ -1,0 +1,21 @@
+city: Ilion
+country: United States
+description: at the bottom of Barringer road on main st. is a bed and breakfast that was the original house of a woman doctor who founded the one time Ilion hospital. She haunts the place and people often stay just to try and see her.
+location: a bed and breakfast
+state: New York
+state_abbrev: NY
+longitude: -75.07903
+latitude: 42.974307
+city_longitude: -75.0354347
+city_latitude: 43.0150703
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1788/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

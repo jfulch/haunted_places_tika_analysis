@@ -1,0 +1,21 @@
+city: Millinocket
+country: United States
+description: The White Lady can often be seen walking alongside the road and the green bridge. Back in the 1940's a young couple was traveling into town, back from their honeymoon. The car went off the side of the road into a ditch and the man told his wife to stay by the car while he walked into town for help. When he came back, his wife was nowhere to be seen and now her ghost haunts the road and any passenger who travels it. Certain places will have thick pockets of fog and several townies have had spooky encounters with this young lady, who they have dubbed, "The White Lady." Her car is still located on the side of the road, down in the ditch, on its roof, untouched.
+location: Brownville Road
+state: Maine
+state_abbrev: ME
+longitude: -69.0317323
+latitude: 45.4389003
+city_longitude: -68.70981189999999
+city_latitude: 45.6572639
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1598/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

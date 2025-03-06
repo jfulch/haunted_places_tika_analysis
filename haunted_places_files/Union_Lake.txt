@@ -1,0 +1,21 @@
+city: Millville
+country: United States
+description: off of Carmal Rd. on the boat ramp at late night you can see disappearing and reappearing tire marks and weird sounds sometime birds will just go crazy for no reason and very cold spots along with a uneasy feeling.
+location: Union Lake
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.0625748
+latitude: 39.414925
+city_longitude: -75.0393438
+city_latitude: 39.4020596
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

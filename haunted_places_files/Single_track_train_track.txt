@@ -1,0 +1,21 @@
+city: Elmhurst
+country: United States
+description: reports of an apparition of a man with a lantern walking on the tracks and disappears.
+location: Single track train track
+state: Illinois
+state_abbrev: IL
+longitude: -87.96167729999999
+latitude: 41.9291223
+city_longitude: -87.9403418
+city_latitude: 41.8994744
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

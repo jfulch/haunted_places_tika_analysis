@@ -1,0 +1,21 @@
+city: Ypsilanti
+country: United States
+description: This historic structure was once the home of the Starkweather family, but was donated to the city by Maryanne Starkweather upon her death, to be used as a library. It was renovated for office space about 15 years ago. Many claim to have seen Maryanne in the upper halls of building, or have hear footsteps above them when working after hours - long after the building was closed up for the day.
+location: Ladies' Library
+state: Michigan
+state_abbrev: MI
+longitude: -83.6141899
+latitude: 42.2446089
+city_longitude: -83.61299389999999
+city_latitude: 42.2411499
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

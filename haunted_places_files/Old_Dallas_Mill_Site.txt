@@ -1,0 +1,21 @@
+city: Huntsville
+country: United States
+description: The Dallas Mill was built in 1891 and burned down in 1992. It is haunted by a man who died while cleaning the smoke stacks shortly after the mill was built. It’s also haunted by a homeless person who lived there after the mill burned down. People have reported seeing him wandering around the ruins.
+location: Old Dallas Mill Site
+state: Alabama
+state_abbrev: AL
+longitude: -86.5903261
+latitude: 34.7397703
+city_longitude: -86.5861037
+city_latitude: 34.7303688
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1891/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

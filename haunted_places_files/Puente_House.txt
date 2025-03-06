@@ -1,0 +1,21 @@
+city: Sacramento
+country: United States
+description: The Puente House is located on F St. in downtown Sacramento. In the 80's it was a boarding house for senior citizens. Dorothea Puente, the landlady, was subsequently found guilty of murdering her boarders and burying them in the backyard so that she could collect their social security checks. The house has been renovated and resold, but has an eerie quality about it. Photos taken in front of the house show anomalies and ectoplasm mist. - January 2007 Correction: Formerly listed on E Street. Interesting Link: Crime Library
+location: Puente House
+state: California
+state_abbrev: CA
+longitude: -121.4280148
+latitude: 38.4595817
+city_longitude: -121.4943996
+city_latitude: 38.5815719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1808/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

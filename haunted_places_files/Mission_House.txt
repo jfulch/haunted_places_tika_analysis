@@ -1,0 +1,21 @@
+city: Mackinac Island
+country: United States
+description: When the Mission House (now state employee housing) was built it was at the heart of a Christian mission to convert Indians who lived on the island. When Indian children who were living there became sick with TB they were locked in the cool damp basement because it was thought that this would help them. It didn't. State employees report the ghosts of children all over the basement and first two floors of the house. The attic is less haunted but people feel presences and alarm clocks get tipped over. The forms of children can be seen walking around often at night inside. Reportedly, none of the presences are not hostile.
+location: Mission House
+state: Michigan
+state_abbrev: MI
+longitude: -84.605211
+latitude: 45.851374
+city_longitude: -84.6189339
+city_latitude: 45.8491796
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

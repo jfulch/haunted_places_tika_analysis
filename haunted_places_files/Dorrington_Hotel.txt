@@ -1,0 +1,21 @@
+city: Dorrington
+country: United States
+description: The original owner, Rebecca Dorrington Gardner can be seen walking through the dining room. She frequently rings the motion detector. One year the owner decorated the rooms with fake Christmas trees and Rebecca knocked them over every night. She once warned the owner of a gas leak in the kitchen. There are also several other ghosts including those of children. There are a lot of very curious customers at the restaurant and wait staff encourages it by turning off lights when customers go to the restroom.
+location: Dorrington Hotel
+state: California
+state_abbrev: CA
+longitude: -120.2771816
+latitude: 38.3010472
+city_longitude: -120.2746191
+city_latitude: 38.2950565
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

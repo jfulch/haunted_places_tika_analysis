@@ -1,0 +1,21 @@
+city: Bay City
+country: United States
+description: Reports of apparitions and footsteps heard in there and found nobody in the building.
+location: Delta College
+state: Michigan
+state_abbrev: MI
+longitude: -83.98600359999999
+latitude: 43.5579516
+city_longitude: -83.8888647
+city_latitude: 43.5944677
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

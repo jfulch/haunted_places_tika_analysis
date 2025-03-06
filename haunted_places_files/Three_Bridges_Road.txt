@@ -1,0 +1,20 @@
+city: Powdersville
+country: United States
+description: Eloise was a slave during the civil war; Powdersville is noted for being the are where confederate soldiers kept the gunpowder. Union soldiers killed Eloise’s master as they traveled through Powdersville on their way to battle; distraught by his death she stayed with her master where the union soldiers killed her. Several witnesses have seen the apparition of Eloise along three bridges road along with the eerie sounds of her screams.
+location: Three Bridges Road
+state: South Carolina
+state_abbrev: SC
+longitude: -82.5079331
+latitude: 34.782568
+city_longitude: -82.4929054
+city_latitude: 34.7917845
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

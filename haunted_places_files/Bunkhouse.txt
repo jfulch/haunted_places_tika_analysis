@@ -1,0 +1,21 @@
+city: Cerro Gordo
+country: United States
+description: said to have a ghost that appears as a glowing mass in last room on the left. Main kitchen has ghost/lights and there are photos on display of this.
+location: Bunkhouse
+state: California
+state_abbrev: CA
+longitude: -117.791744
+latitude: 36.5393799
+city_longitude: -117.791744
+city_latitude: 36.5393799
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

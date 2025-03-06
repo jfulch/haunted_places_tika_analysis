@@ -1,0 +1,21 @@
+city: Jonestown
+country: United States
+description: Haunted by a woman killed in a car accident.
+location: Travis Lake
+state: Texas
+state_abbrev: TX
+longitude: -97.9233468
+latitude: 30.4954748
+city_longitude: -97.9233468
+city_latitude: 30.4954748
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

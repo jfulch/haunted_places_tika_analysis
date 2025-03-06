@@ -1,0 +1,21 @@
+city: Keego Harbor
+country: United States
+description: The ghost of Fran Leaf herself will show sometimes. She will sometimes disrupt activities at the park if she is around. Many weird-groaning noises heard in the wind. An evil wizard was said to be burned at the stake their.
+location: Fran Leaf Park
+state: Michigan
+state_abbrev: MI
+longitude: -83.34488759999999
+latitude: 42.6081232
+city_longitude: -83.3438247
+city_latitude: 42.6080884
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

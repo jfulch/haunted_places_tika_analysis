@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Fox Fine Art Building & Recital Hall - there is a figure that many Theatre students see on the top balcony.
+location: University of Texas
+state: Texas
+state_abbrev: TX
+longitude: -106.5046216
+latitude: 31.7708544
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1921/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

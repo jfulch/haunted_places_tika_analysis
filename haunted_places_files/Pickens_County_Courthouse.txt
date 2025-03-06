@@ -1,0 +1,21 @@
+city: Carrollton
+country: United States
+description: The original courthouse burned down and everyone blamed Henry Wells. He was a rowdy man who lived out in the county. He was arrested and locked in the attic of the new courthouse. As a thunderstorm was rolling in, a mob gathered outside demanding that Wells be turned over to them. As Wells peered through the garret window at the mob outside thirsty for his blood, a lightning bolt struck the window, killing Henry Wells. From the strong electrical discharge, Wells' face was etched into the glass. No amount of cleaning has been able to remove the face from the pane of glass. It is still there today at the Pickens County Courthouse.
+location: Pickens County Courthouse
+state: Alabama
+state_abbrev: AL
+longitude: -88.0954166
+latitude: 33.2634174
+city_longitude: -88.0950263
+city_latitude: 33.2617871
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1805/12/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

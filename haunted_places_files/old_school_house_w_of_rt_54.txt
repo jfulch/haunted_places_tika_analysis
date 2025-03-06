@@ -1,0 +1,18 @@
+city: Plattsburg
+country: United States
+description: supposed to be haunted by a little girl hung there.
+location: old school house w/ of rt. 54
+state: Ohio
+state_abbrev: OH
+city_longitude: -83.61158999999999
+city_latitude: 39.8961712
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.016666666666667
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

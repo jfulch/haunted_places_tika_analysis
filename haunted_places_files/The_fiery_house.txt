@@ -1,0 +1,21 @@
+city: Southgate
+country: United States
+description: This house was rebuilt about 3 times and has been left abandoned at least 4 times. Story is an old lonely grumpy mad lived and died there. About month or two later they were fixing to sell it. After they fixed it all up there was a big fire that started in the house, leaving every thing inside in ashes. And every time the rebuild it, it burns down. People gave up for a while and then tried again. So far it is doing good but u never know when the old selfish man is going to start a fire and keep the house to himself.
+location: The fiery house
+state: Kentucky
+state_abbrev: KY
+longitude: -84.493129
+latitude: 39.092106
+city_longitude: -84.4727195
+city_latitude: 39.072005
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

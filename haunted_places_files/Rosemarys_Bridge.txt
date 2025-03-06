@@ -1,0 +1,18 @@
+city: Florence
+country: United States
+description: A woman was murdered on this bridge. Her ghost still comes back and walks on the bridge at night
+location: Rosemary's Bridge
+state: Missouri
+state_abbrev: MO
+city_longitude: -92.9790873
+city_latitude: 38.5889094
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

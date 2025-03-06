@@ -1,0 +1,21 @@
+city: Lynnfield
+country: United States
+description: a white cloaked figure with no hands or face walks up and down this street between 3:00 am and 4:00 am
+location: Summer St.
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.030272
+latitude: 42.5277774
+city_longitude: -71.0465638
+city_latitude: 42.53869
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

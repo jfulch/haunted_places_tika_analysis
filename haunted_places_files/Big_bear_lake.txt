@@ -1,0 +1,21 @@
+city: Vernon hills
+country: United States
+description: There’s a girl who was killed and thrown in the lake and you can find baby hands in the lake because she was having a baby at the time and now she haunts everyone
+location: Big bear lake
+state: Illinois
+state_abbrev: IL
+longitude: -87.9622717
+latitude: 42.2496378
+city_longitude: -87.9653565
+city_latitude: 42.23933230000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

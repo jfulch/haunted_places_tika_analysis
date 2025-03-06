@@ -1,0 +1,20 @@
+city: Gaffney
+country: United States
+description: it is said that if you run across the t-bridge with out stoping a car will come behind you with no one in it. it is also been said that if you stand there for 10 minutes you will see an old lady carrying a basket, and that if you walk up to her as you getting there she will disapear
+location: T-Bridge
+state: South Carolina
+state_abbrev: SC
+longitude: -81.652406
+latitude: 35.0709982
+city_longitude: -81.64981949999999
+city_latitude: 35.0717945
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

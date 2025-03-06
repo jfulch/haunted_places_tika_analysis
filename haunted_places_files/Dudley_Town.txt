@@ -1,0 +1,20 @@
+city: Cornwall Bridge
+country: United States
+description: A deserted town that is said to have gone mad and died off, located in Cornwall, CT. After a long walk through the woods the path opens up to reveal old foundations and cellar holes from a lifetime ago. Here it is said that glowing orbs of light can be seen swirling around, and on occasion have even occurred during the day. There are many reports of odd happenings occurring to those that visit Dudley Town. Hearing faint drum sounds, feelings of dread and sadness, and feeling a presence all around you. - Update - People are not allowed in there anymore. Cops DO watch and will ticket even if you drive up there to the entrance.
+location: Dudley Town
+state: Connecticut
+state_abbrev: CT
+longitude: -73.338047
+latitude: 41.814843
+city_longitude: -73.3707551
+city_latitude: 41.8187793
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

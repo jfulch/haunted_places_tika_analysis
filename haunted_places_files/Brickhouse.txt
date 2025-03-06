@@ -1,0 +1,21 @@
+city: Cedar City
+country: United States
+description: The Brickhouse is now known as Betty’s Cafe and is located on Main Street in Cedar City. Employees have reported seeing a very active presence within the old home. The ghost has been spotted late at night wearing a plaid shirt.
+location: Brickhouse
+state: Utah
+state_abbrev: UT
+longitude: -113.0619982
+latitude: 37.6757948
+city_longitude: -113.0618931
+city_latitude: 37.67747689999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1916/01/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

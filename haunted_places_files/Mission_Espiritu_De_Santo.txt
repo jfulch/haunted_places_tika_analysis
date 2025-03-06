@@ -1,0 +1,21 @@
+city: Goliad
+country: United States
+description: Reports of Seeing an apparition of an Indian on horse back, hearing the sounds for drums and the smell of pipe smoke. There have also been reports of a phantom wolf that runs in the woods & disappears.
+location: Mission Espiritu De Santo
+state: Texas
+state_abbrev: TX
+longitude: -97.3866347
+latitude: 28.6572315
+city_longitude: -97.3883265
+city_latitude: 28.6683252
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

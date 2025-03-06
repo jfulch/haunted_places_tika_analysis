@@ -1,0 +1,21 @@
+city: Valley Center
+country: United States
+description: There are several legends about this bridge but the basis of all is that a child was drowned in the creek below and her mother is calling out to her, looking for her baby. The bridge burnt down in 1974 but you can still go to the sight today. People report strange noises, lights, and the weather is never the same in the area as it is elsewhere. If you call out to Theorosa and tell her you have her baby she will come up from the water and attack you.
+location: Theorosa's Bridge
+state: Kansas
+state_abbrev: KS
+longitude: -97.374042
+latitude: 37.88310600000001
+city_longitude: -97.3733759
+city_latitude: 37.8347342
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1974/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

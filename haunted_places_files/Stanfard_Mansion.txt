@@ -1,0 +1,21 @@
+city: Pocatello
+country: United States
+description: Is haunted by a girl who was locked in the tower of the mansion when she fell ill. My friends and have seen apparition of a man on the side of the front porch and a young boy in old century clothing sitting at the dining room table eating.
+location: Stanfard Mansion
+state: Idaho
+state_abbrev: ID
+longitude: -121.4978549
+latitude: 38.5761903
+city_longitude: -112.4455344
+city_latitude: 42.8713032
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1523/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

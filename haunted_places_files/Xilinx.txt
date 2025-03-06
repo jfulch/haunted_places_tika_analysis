@@ -1,0 +1,21 @@
+city: Albuquerque
+country: United States
+description: This building used to be a mental heath hospital, and on several occasions banging noises have been heard throughout the building (mostly in the bathroom). Some see shadowy figures moving up and down the hallways, groaning noises out side in the courtyard, and voices whispering in the back office area. Also on several occasions objects began to move all by themselves.
+location: Xilinx
+state: New Mexico
+state_abbrev: NM
+longitude: -106.5892183
+latitude: 35.1728097
+city_longitude: -106.6055534
+city_latitude: 35.0853336
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

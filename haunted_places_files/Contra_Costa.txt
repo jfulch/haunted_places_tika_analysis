@@ -1,0 +1,21 @@
+city: Clayton
+country: United States
+description: Pioneer Inn - The Pioneer Inn has been around since the 1860's and is known to be haunted by the ghost of the past. The Pioneer Inn has Gone thru a lot over the years from having the second floor collapsing then having it rebuilt and having it burn down. The Ghost have been know to carry things around and touch occupants on there shoulders and hands.
+location: Contra Costa
+state: California
+state_abbrev: CA
+longitude: -121.9357925
+latitude: 37.9410341
+city_longitude: -121.9357925
+city_latitude: 37.9410341
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1901/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

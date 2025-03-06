@@ -1,0 +1,21 @@
+city: New York City
+country: United States
+description: this ghost likes to touch people.
+location: Hotel Des Artistes
+state: New York
+state_abbrev: NY
+longitude: -73.9789261
+latitude: 40.773502
+city_longitude: -74.0059728
+city_latitude: 40.7127753
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

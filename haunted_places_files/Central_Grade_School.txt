@@ -1,0 +1,21 @@
+city: Traverse City
+country: United States
+description: Haunted by a little girl and janitor killed in a fire. She drew a simile face on the window that is still seen to this day.
+location: Central Grade School
+state: Michigan
+state_abbrev: MI
+longitude: -85.6268094
+latitude: 44.7599318
+city_longitude: -85.62063169999999
+city_latitude: 44.7630567
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

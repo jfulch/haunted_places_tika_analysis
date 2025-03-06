@@ -1,0 +1,20 @@
+city: Hamden
+country: United States
+description: At the top of the mountain where the castle is located, it is said that a man dressed in all black has been seen wandering the area. At first he looks as if he is normal, but if you stay and watch he seems to have a white ring around his left arm. When approached, this figure slowly evaporates into the air, and those who have witnessed his appearance have only seen it once, despite efforts to find it again.
+location: Sleeping Giant
+state: Connecticut
+state_abbrev: CT
+longitude: -72.8992361
+latitude: 41.4209689
+city_longitude: -72.9026064
+city_latitude: 41.3838782
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1858/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

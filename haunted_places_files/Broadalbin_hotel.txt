@@ -1,0 +1,21 @@
+city: Broadalbin
+country: United States
+description: Witnesses report that they feel someone sitting on the bed, playing with their feet. People have seen ghostly figures in really old military uniforms walking the hallways at night. Lights will go on and off by themselves.
+location: Broadalbin hotel
+state: New York
+state_abbrev: NY
+longitude: -74.1994402
+latitude: 43.05699
+city_longitude: -74.1965206
+city_latitude: 43.0586846
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

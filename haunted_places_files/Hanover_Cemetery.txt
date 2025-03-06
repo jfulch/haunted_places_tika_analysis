@@ -1,0 +1,21 @@
+city: Hanover
+country: United States
+description: One witness reports, "My children and I went to Hanover Cemetery soon after we moved here. We had split up for the purpose of looking for a family members grave, we then turned around to meet up with each other. As we got closer to each other, we suddenly felt nauseated and we felt chilled. We looked at each other and realized we were all experiencing the same sensations. We looked down at the grave in front of us, and it had the name, Benjamin Bennett on it. The next day we went to the library to see if we could find anything out about this person. We found that he had been a student at Hanover College and had drowned in the Ohio River and that his body was never found."
+location: Hanover Cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -85.4641473
+latitude: 38.7094349
+city_longitude: -85.4735707
+city_latitude: 38.7142263
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

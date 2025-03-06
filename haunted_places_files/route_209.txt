@@ -1,0 +1,21 @@
+city: Saylorsburg
+country: United States
+description: In the 1800s when the hotel was open a boy when to stay at the hotel it was the third floor. The next morning he had never checked out. So they went up to the third floor. he had died to this day you can hear and see this boy.
+location: route 209
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.3318238
+latitude: 40.9257974
+city_longitude: -75.32295409999999
+city_latitude: 40.8958927
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2007/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Falmouth
+country: United States
+description: In this school children hear eerie evil laughs and many sightings of a female ghost.
+location: Mullen Hall
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.61344199999999
+latitude: 41.553821
+city_longitude: -70.60858859999999
+city_latitude: 41.5532208
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

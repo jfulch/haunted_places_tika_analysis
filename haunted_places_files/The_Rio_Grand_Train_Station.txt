@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: It has been told that you can here a lady in the girls bathroom and the government has been getting phone calls from the elevator in the Rio Grand which is now a restaurant. The lady is called the "blue erra" she got hit by a train when her husband threw her wedding ring out on the tracks. The story is told on the back of the Rio Grand menu.
+location: The Rio Grand Train Station
+state: Utah
+state_abbrev: UT
+longitude: -111.9087682
+latitude: 40.7620098
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

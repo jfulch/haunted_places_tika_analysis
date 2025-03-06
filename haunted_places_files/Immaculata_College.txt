@@ -1,0 +1,21 @@
+city: Immaculata
+country: United States
+description: It is rumored that a nun back in the early 1900's broke her vows and became pregnant. She was found out, and instead of being thrown out she jumped from the 4th floor balcony of the rotunda. Since her death, there is a large distinctive series of cracks on the glass floor of the Rotunda. Despite the efforts of the convent community to replace these cracked tiles, the new tiles always become shattered in the exact manner as the previous ones. Students who live on the hall on either side of the rotunda say that at night they can hear a woman crying, footstep following them when they are alone, and cold spots, the eerie cold feelings - They are not evil feelings, but feelings of remorse and regret. One student also stated that one night she was studying in one of the study rooms that is right off the rotunda and she thought she saw a nun in an old fashioned habit walking past the door way.
+location: Immaculata College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.5715699
+latitude: 40.0280292
+city_longitude: -75.5715699
+city_latitude: 40.0280292
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

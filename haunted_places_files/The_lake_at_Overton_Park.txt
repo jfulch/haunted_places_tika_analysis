@@ -1,0 +1,21 @@
+city: Memphis
+country: United States
+description: according to several witnesses a 35ish year-old lady with a long light blue dress has been seen walking around the lake (usually on the south side) at night...she asks for help with an out stretched arm, but when approached she vanishes. It was reported that the body of a lady with a blue dress had been found near this lake raped and stabbed in the 1960's but its unknown if there is a connection.
+location: The lake at Overton Park
+state: Tennessee
+state_abbrev: TN
+longitude: -89.988516
+latitude: 35.1461904
+city_longitude: -90.0489801
+city_latitude: 35.1495343
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1679/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Wethersfield
+country: United States
+description: lady in white walks around at night.
+location: First Church Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -72.6519885
+latitude: 41.7133645
+city_longitude: -72.6596244
+city_latitude: 41.7063537
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

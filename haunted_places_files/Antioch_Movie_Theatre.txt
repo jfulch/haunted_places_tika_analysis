@@ -1,0 +1,21 @@
+city: Antioch
+country: United States
+description: This old theatre has been around since the 40's. It used to be an old theatre house, where plays were held.There has been many stories about the old theatre. Like a girl had hung herself from the balcony, and that Al Copone had tunnels dug undernieth the theatre leading towards Fox Lake. If thoses are true or not employees have reported that flood lights have come on out of nowhere and turned off by themselves. Also reported hearing things after hours like noises, bangs, and people on the stairs. Some employees report having a sence that there is something else in the room, when they are really alone.
+location: Antioch Movie Theatre
+state: Illinois
+state_abbrev: IL
+longitude: -88.096127
+latitude: 42.477003
+city_longitude: -88.0956396
+city_latitude: 42.4772418
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Myrtle Beach
+country: United States
+description: There believed to be a haunting of a boy who drown in the ocean on Myrtle Beach.  People could not here his screams because of the tide that day.  Most people say you can see him swimming standing in the water with a blank stare, and others say if you are very quiet you can her his scream at the tide.
+location: Myrtle Beach
+state: South Carolina
+state_abbrev: SC
+longitude: -78.8866943
+latitude: 33.6890603
+city_longitude: -78.8866943
+city_latitude: 33.6890603
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

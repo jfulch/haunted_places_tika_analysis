@@ -1,0 +1,21 @@
+city: Mohegan Lake
+country: United States
+description: Basement is said to be haunted. On a couple occasions Busboy's/waiters were locked in overnight because they had no where else to go. When owner arrived in morning employee was scared and shaking and claimed to see a ghost during the night.
+location: Diner
+state: New York
+state_abbrev: NY
+longitude: -73.8555157
+latitude: 41.3207154
+city_longitude: -73.8462467
+city_latitude: 41.3178717
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1950/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

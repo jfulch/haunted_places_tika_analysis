@@ -1,0 +1,21 @@
+city: Hammon
+country: United States
+description: People have seen an Indian dressed only in breech cloth sitting on a horse inside the gates. There are odd gravestones throughout the cemetery. In the entire area of Hammon there have been occurrences of ghosts and figures walking around at night and sometimes in the daytime.
+location: Kiowa Cemetery
+state: Oklahoma
+state_abbrev: OK
+longitude: -99.4309836
+latitude: 35.5820229
+city_longitude: -99.3817653
+city_latitude: 35.6328261
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

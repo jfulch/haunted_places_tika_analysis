@@ -1,0 +1,21 @@
+city: Plymouth
+country: United States
+description: Ann Arbor rd & Sheldon - Late at night when everyone is leaving the store after close, mysterious noises are heard coming from a back closet such as banging on the walls. They go back there and nothing abnormal is found. Legend has it that before the strip mall was built there was a house there and a little boys father trapped him in a small closet and left him there to starve. You can still hear him banging on the wall.
+location: Little Caesars
+state: Michigan
+state_abbrev: MI
+longitude: -83.4802651
+latitude: 42.35897200000001
+city_longitude: -83.4702132
+city_latitude: 42.3714253
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1824/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

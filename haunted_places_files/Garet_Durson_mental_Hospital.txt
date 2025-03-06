@@ -1,0 +1,19 @@
+city: Chicago
+country: United States
+description: Numerous flash lights going off and not working at the same time, hear people screaming , and a woman in a white robe running down the stairs.
+location: Garet Durson mental Hospital
+state: Illinois
+state_abbrev: IL
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

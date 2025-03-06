@@ -1,0 +1,21 @@
+city: Orange County
+country: United States
+description: In Las Flores there has been some witch craft going on and it has been terrible. People or ghosts have been tearing down street lights, lamp poses, etc. It has to be haunted if its not than who is doing all this stuff.
+location: Las Flores
+state: California
+state_abbrev: CA
+longitude: -117.6267159
+latitude: 33.5880791
+city_longitude: -117.8311428
+city_latitude: 33.7174708
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/08/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

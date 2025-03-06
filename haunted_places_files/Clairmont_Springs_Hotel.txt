@@ -1,0 +1,21 @@
+city: Ash Land
+country: United States
+description: Built over an Indian burial ground. Back in 1972, a train hit a six year-old girl across the street. Every night at midnight trains go by every five seconds. Meanwhile, in the hotel, a ghost roams around and they say you can hear the six year-old running through the halls.
+location: Clairmont Springs Hotel
+state: Alabama
+state_abbrev: AL
+longitude: -85.8263932
+latitude: 33.2757978
+city_longitude: -85.83607409999999
+city_latitude: 33.2737256
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

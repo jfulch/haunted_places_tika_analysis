@@ -1,0 +1,19 @@
+city: Providence
+country: United States
+description: Pardon Miller House - RISD Outer Housing - is the home of two young children who have been seen by students working in the basement. Also, a young woman's voice can be heard by students on the second floor of the house. She has been seen on occasion.
+location: Rhode Island School of Design
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.4074596
+latitude: 41.8259947
+city_longitude: -71.4128343
+city_latitude: 41.8239891
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1915/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

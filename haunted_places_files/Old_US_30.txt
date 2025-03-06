@@ -1,0 +1,21 @@
+city: Union Mills
+country: United States
+description: on the way into Hana.  On the railroad tracks on 600 w. Around 2:30-3:30 a.m. There has been a blue-tinted shadowy figure, that looks as if is carrying a lantern, walking on the railroad tracks into Hana.....In 1987, a man was coming home from work at est. 3:00 a.m. and was hit by a train........
+location: Old U.S. 30
+state: Indiana
+state_abbrev: IN
+longitude: -96.135489
+latitude: 41.22916559999999
+city_longitude: -86.7774419
+city_latitude: 41.4930116
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1987/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

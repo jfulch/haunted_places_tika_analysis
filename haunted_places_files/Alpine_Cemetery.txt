@@ -1,0 +1,21 @@
+city: Perth Amboy
+country: United States
+description: Usually on rainy nights, when driving or walking by the cemetery you can see dark ghostly figures at one moment and look back and then they're gone. When walking inside of it, you may sometimes feel cold spots in some parts of the cemetery, usually near the far end in the back. People have reported seeing three figures on rainy nights and then they'd mysteriously disappear.
+location: Alpine Cemetery
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2773521
+latitude: 40.5247117
+city_longitude: -74.2654234
+city_latitude: 40.5067723
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

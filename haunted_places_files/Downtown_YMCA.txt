@@ -1,0 +1,21 @@
+city: Green Bay
+country: United States
+description: Haunted by a man in his early 20’s that was murdered there.
+location: Downtown YMCA
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.012586
+latitude: 44.515062
+city_longitude: -88.019826
+city_latitude: 44.51915899999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

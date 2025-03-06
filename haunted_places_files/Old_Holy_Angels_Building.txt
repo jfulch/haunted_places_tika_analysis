@@ -1,0 +1,21 @@
+city: West Bend
+country: United States
+description: In the old Holy Angels building which is now an apartment complex there has been footsteps heard walking around in the upstairs of one of the apartments and sometimes an old bell will ring (an electrically powered one) even though there is no electricity going to it and no wiring attached to it. If you'd try to pull the hammer back to ding the bell it is very hard to do it manually.
+location: Old Holy Angels Building
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.1866861
+latitude: 43.4239562
+city_longitude: -88.1834277
+city_latitude: 43.4252776
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1854/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

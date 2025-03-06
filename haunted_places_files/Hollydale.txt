@@ -1,0 +1,21 @@
+city: Downey
+country: United States
+description: Metal Hospital - In Downey behind the court house there is an abandoned metal hospital, but for some reason there is light shining thru, When all the power has been shut off for years now. When you pass by, you see one curtain closed but then there is also one curtain that will close when you pass by. There has been People who have gone inside and gone down stairs, when they went down stairs it was pitch dark, and suddenly books where being thrown at everyone there.
+location: Hollydale
+state: California
+state_abbrev: CA
+longitude: -118.1632554
+latitude: 33.9236865
+city_longitude: -118.1331593
+city_latitude: 33.9401088
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

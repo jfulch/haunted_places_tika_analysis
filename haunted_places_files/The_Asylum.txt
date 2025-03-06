@@ -1,0 +1,21 @@
+city: Verona
+country: United States
+description: An old abandoned asylum is located in New Jersey and it is the home to many dead lunatics...going there, you'll hear voices, footsteps and you'll see old people.
+location: The Asylum
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.23406489999999
+latitude: 40.8518541
+city_longitude: -74.24016089999999
+city_latitude: 40.82980060000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1664/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

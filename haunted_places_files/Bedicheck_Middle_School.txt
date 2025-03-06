@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: Billy, a student, was playing the Phantom in the Phantom of the Opera. He was on the new catwalk in the auditorium and the rope slipped, he fell, and hung himself. Billy is said to push students off the catwalk, and also to help them remember their lines.
+location: Bedicheck Middle School
+state: Texas
+state_abbrev: TX
+longitude: -97.7871785
+latitude: 30.195123
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1981/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

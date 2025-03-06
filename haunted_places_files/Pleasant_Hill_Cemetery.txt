@@ -1,0 +1,21 @@
+city: DeRidder
+country: United States
+description: A Little boy at the age of 3 and His mother were killed in a house fire. They are buried at the Pleasant Hill Cemetery. There names were Marie and Freddie Kruger. Sometimes if you go out there at night and stand at the fence you can see an orange flame above his grave.
+location: Pleasant Hill Cemetery
+state: Louisiana
+state_abbrev: LA
+longitude: -93.2475202
+latitude: 30.8160053
+city_longitude: -93.2890527
+city_latitude: 30.8463055
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

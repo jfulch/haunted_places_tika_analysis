@@ -1,0 +1,21 @@
+city: Grant
+country: United States
+description: The janitors when they are all by themselves report seeing balls of light glide across the room and things being knocked over by themselves. Also reports from students of being slapped or hit across their face and backs.
+location: Grant High School
+state: Michigan
+state_abbrev: MI
+longitude: -85.801897
+latitude: 43.3376505
+city_longitude: -85.8108819
+city_latitude: 43.3361323
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

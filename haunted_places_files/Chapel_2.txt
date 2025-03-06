@@ -1,0 +1,21 @@
+city: Edwards Air Force Base
+country: United States
+description: There was a sighting of a slow moving flying black apparition, above Chapel 2 on Edwards AFB. 2 witnesses claim that the object was hovering 20 feet above the steeple of the chapel, and it changed direction following the 2 eye witnesses, Once the witnesses arrived at work they told 2 others about the flying object and went outside to see that it was still slowly making it's way towards the flight line. It never changed altitude during the entire sighting and seemed to be on a direct course. The object made its way to the flight line and went out of sight as it worked it's way away from the hangar where the witnesses were watching. This all happened on an early Sunday morning in May of 2007.
+location: Chapel 2
+state: California
+state_abbrev: CA
+longitude: -117.9389082
+latitude: 34.9215216
+city_longitude: -117.8912085
+city_latitude: 34.9240314
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

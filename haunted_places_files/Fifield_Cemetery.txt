@@ -1,0 +1,21 @@
+city: Fifield
+country: United States
+description: Weird feelings and voices can be heard there at night. Strange pictures have been taken there displaying orbs, and ectoplasm mist swirling around headstones. Strange shadows and orbs can also be seen.
+location: Fifield Cemetery
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.4099336
+latitude: 45.8815531
+city_longitude: -90.4195725
+city_latitude: 45.8799113
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

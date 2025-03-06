@@ -1,0 +1,21 @@
+city: Darr
+country: United States
+description: If you pass over this bridge at midnight on a foggy winter's night and look in your rearview mirror you will see a pioneer woman who was killed on this bridge. Some say that she is in a covered wagon and some say that she is walking and looking for her son that died. Not all that go will see her, so be patient.
+location: Darr Bridge
+state: Nebraska
+state_abbrev: NE
+longitude: -99.8523412
+latitude: 40.7747288
+city_longitude: -99.8837305
+city_latitude: 40.8208402
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

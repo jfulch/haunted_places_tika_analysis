@@ -1,0 +1,21 @@
+city: Evanston
+country: United States
+description: The sanctuary is haunted by the ghost of a man in a black business suit. He has the way of not being involved with anyone in the room that all ghosts have. He walks down the side aisle in the sanctuary, coming out from behind one pillar and walking behind the next, but if you look behind the pillar, no one will be there. There are no doors or windows that he could have gone through, and no one in a black business suit was in the room. It is unknown who he is or why he is haunting the church.
+location: The First Methodist Church of Evanston
+state: Illinois
+state_abbrev: IL
+longitude: -87.6781012
+latitude: 42.0471382
+city_longitude: -87.68769689999999
+city_latitude: 42.0450722
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

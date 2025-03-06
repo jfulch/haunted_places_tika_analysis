@@ -1,0 +1,18 @@
+city: Salem
+country: United States
+description: There is a story of a mother who lost her baby while the mother and father were fighting, the baby was found at the bottom of the driveway where a bridge was, as the mother was running to save her baby, the baby fell over the bridge, to this day you can hear the scream of the baby and it's mother coming to save it.
+location: Egypt Road- Crybaby Bridge
+state: Ohio
+state_abbrev: OH
+city_longitude: -80.8567501
+city_latitude: 40.9008923
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

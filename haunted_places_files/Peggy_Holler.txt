@@ -1,0 +1,19 @@
+city: Shoals
+country: United States
+description: From dusk until dawn it is said that you can drive to a spot known as Peggy Holler located in the outskirts of Shoals and hear strange noises, displaced fogs, a man's voice crying out "Peggy" and possibly even witness the headless ghost of the spirit many residents have come to know as Peggy. It is said that her husband cut off her head in a maddened rage and in an insane state of existence is still left calling out her name...
+location: Peggy Holler
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.7911096
+city_latitude: 38.6664401
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1797/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

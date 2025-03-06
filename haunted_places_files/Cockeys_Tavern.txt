@@ -1,0 +1,21 @@
+city: Westminster
+country: United States
+description: Various sightings of a woman in green colonial dress. Pictures jumping off of walls, objects falling from the back of shelves, ghostly voices and more.
+location: Cockeys Tavern
+state: Maryland
+state_abbrev: MD
+longitude: -76.59002629999999
+latitude: 39.2876199
+city_longitude: -76.9958149
+city_latitude: 39.5753791
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

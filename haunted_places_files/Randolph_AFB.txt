@@ -1,0 +1,21 @@
+city: Universal City
+country: United States
+description: Eberly Park - where a young man crashed his plane and died in the early days of the base. And many things are said to happen in the maids quarters and old water tower.
+location: Randolph AFB
+state: Texas
+state_abbrev: TX
+longitude: -98.3209129
+latitude: 29.5551501
+city_longitude: -98.2911235
+city_latitude: 29.5480071
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1798/06/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 0

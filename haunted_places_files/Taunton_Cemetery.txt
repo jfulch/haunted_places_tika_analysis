@@ -1,0 +1,20 @@
+city: Taunton
+country: United States
+description: seen a 12 year old girl sitting in the rocking chair rocking it back and forth next to her grave.
+location: Taunton Cemetery
+state: Minnesota
+state_abbrev: MN
+longitude: -96.0634519
+latitude: 44.5901814
+city_longitude: -96.0658678
+city_latitude: 44.5935731
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

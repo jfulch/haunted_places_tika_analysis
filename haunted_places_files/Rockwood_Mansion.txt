@@ -1,0 +1,19 @@
+city: Wilmington
+country: United States
+description: balls of light and strange sounds are observed here.
+location: Rockwood Mansion
+state: Delaware
+state_abbrev: DE
+longitude: -75.5207923
+latitude: 39.7724886
+city_longitude: -75.5397878
+city_latitude: 39.7390721
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

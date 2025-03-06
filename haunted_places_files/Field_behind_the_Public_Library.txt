@@ -1,0 +1,19 @@
+city: Clifton
+country: United States
+description: There is a field behind the Public Library that if you go to between 8:00pm and 5:00am then you can sometimes see a white figure of a man moving around the field.  They say that the white figure is a man by the name of Rosco Young Blood who buried his money in the field back in the 1950's and still roams the field trying to find his money that he buried there.
+location: Field behind the Public Library
+state: Tennessee
+state_abbrev: TN
+city_longitude: -87.9953067
+city_latitude: 35.3870197
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

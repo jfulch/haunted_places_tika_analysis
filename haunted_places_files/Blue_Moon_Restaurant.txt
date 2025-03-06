@@ -1,0 +1,20 @@
+city: Grove City
+country: United States
+description: Footsteps heard coming from the kitchen area to the end of the hall by the restroom. The footsteps were heard nightly between 11-12 pm. Also, apparitions of a tall gentlemen (about 6 ft) wearing a long black cape. No facial characteristics were noticed since light was coming from behind the apparition. This restaurant is located about 5 miles north of Cosmos, MN on HWY 4.
+location: Blue Moon Restaurant
+state: Minnesota
+state_abbrev: MN
+longitude: -94.6811333
+latitude: 45.1514815
+city_longitude: -94.6805418
+city_latitude: 45.1493224
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

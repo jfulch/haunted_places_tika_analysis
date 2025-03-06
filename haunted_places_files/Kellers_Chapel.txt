@@ -1,0 +1,21 @@
+city: Jonesboro
+country: United States
+description: There have been strange sounds heard of babies crying, as a result of the 9 Keller babies dying and being buried there. Perfect circles of rings of fire have been sited. Wooden crosses with animal skeletons have been found there. If you turn your car off at the gates of the chapel, it will not start for a few hours. Strange things have been spotted moving around the cemetery, and strange sounds come from inside the chapel itself.
+location: Keller's Chapel
+state: Arkansas
+state_abbrev: AR
+longitude: -90.7422911
+latitude: 35.7946905
+city_longitude: -90.704279
+city_latitude: 35.84229670000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Katy
+country: United States
+description: There is a cemetery in old town Katy that is over 150 years old where a supposed witch is buried. On top her tombstone is a giant solid granite/marble sphere weighing around 200 lbs. If you read the inscription on the tomb stone and look away, when you look back the sphere would have fallen out of place. Some reports say they have seen the sphere float and glow before it falls to the ground. Katy police have removed the sphere in hopes to keep kids away. It is also rumored if you read the inscription you will have bad luck the rest of your life.
+location: Witch's grave
+state: Texas
+state_abbrev: TX
+longitude: -95.8390102
+latitude: 29.7994556
+city_longitude: -95.8243956
+city_latitude: 29.7857853
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1890/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 1

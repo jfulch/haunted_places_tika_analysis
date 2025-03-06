@@ -1,0 +1,19 @@
+city: New Carlisle
+country: United States
+description: It is a cemetery about 4 miles outside of the town it is called Blacks Cemetery. At night you can hear voices and see what looks like people walking around.
+location: Blacks Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -84.00839719999999
+latitude: 39.9798777
+city_longitude: -84.0254913
+city_latitude: 39.9361699
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1927/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

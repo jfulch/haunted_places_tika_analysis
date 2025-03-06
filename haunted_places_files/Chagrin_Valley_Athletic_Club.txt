@@ -1,0 +1,20 @@
+city: Bainbridge
+country: United States
+description: Library Guests complain of feeling somebody watching them, hearing a whip hitting someone and a little girl crying. The library was an old schoolhouse from the eighteen hundreds and a little girl was hit to death by her teacher.
+location: Chagrin Valley Athletic Club
+state: Ohio
+state_abbrev: OH
+longitude: -81.308273
+latitude: 41.399549
+city_longitude: -83.27046630000001
+city_latitude: 39.2275658
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

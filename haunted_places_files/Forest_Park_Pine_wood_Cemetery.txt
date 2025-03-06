@@ -1,0 +1,21 @@
+city: Troy
+country: United States
+description: Forest Park cemetery (also known as Pinewood Cemetery is known to be in the top ten haunted cemeteries in the country. It is an old deserted cemetery - no new bodies have been buried there for many years. Many ghosts have been sighted there, photos of strange things have also been taken and published in the local newspapers. A renowned psychic says the cemetery was build on an Indian burial ground, and the spiritual activity is very turbulent and malicious. - January 2007 Correction: In 2004 there was indeed someone buried in the cemetery.
+location: Forest Park / Pine wood Cemetery
+state: New York
+state_abbrev: NY
+longitude: -73.6351394
+latitude: 42.7171815
+city_longitude: -73.69178509999999
+city_latitude: 42.7284117
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

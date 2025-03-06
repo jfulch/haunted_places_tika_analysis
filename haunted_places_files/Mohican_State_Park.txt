@@ -1,0 +1,20 @@
+city: Loudonville
+country: United States
+description: Haunted by Indian looking to kill his next victim. An asylum was here in the 1800's and a mysterious light has appeared over 20 years.
+location: Mohican State Park
+state: Ohio
+state_abbrev: OH
+longitude: -82.264713
+latitude: 40.6091534
+city_longitude: -82.2332144
+city_latitude: 40.6353382
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

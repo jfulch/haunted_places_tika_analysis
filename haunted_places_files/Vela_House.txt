@@ -1,0 +1,17 @@
+city: Smyrna
+country: United States
+description: House is built on top of a grave. You can see a young boy walking around holding funnel. Story goes that his father tied him up and poured gasoline in his mouth and around his head then lit him on fire. You can sometimes see him in the mirror for a brief second when you turn on the light.
+location: Vela House
+state: Delaware
+state_abbrev: DE
+city_longitude: -75.6046494
+city_latitude: 39.2998339
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

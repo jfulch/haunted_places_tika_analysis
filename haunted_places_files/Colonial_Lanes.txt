@@ -1,0 +1,21 @@
+city: Huntington
+country: United States
+description: women's voice heard whispering.
+location: Colonial Lanes
+state: West Virginia
+state_abbrev: WV
+longitude: -82.4620214
+latitude: 38.4134833
+city_longitude: -82.44515400000002
+city_latitude: 38.4192496
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

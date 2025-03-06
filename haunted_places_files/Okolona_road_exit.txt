@@ -1,0 +1,21 @@
+city: Johnson City
+country: United States
+description: the story goes that there was a man and a woman traveling down the exit when their car broke down. The man got out of the car and started pushing the car up the exit towards the main road so that it could be seen by passerbys. Out of nowhere a car came and killed them both. It is said that once on the Okolona exit, a person should put their car in neutral. Instead of the car traveling down the incline, like it is supposed to do, the car rolls backwards up the hill, as if someone where pushing it. Some say that if done long enough, the car windows become foggy and you can see the handprints of the man in the windows from where he was pushing the car.
+location: Okolona road exit
+state: Tennessee
+state_abbrev: TN
+longitude: -82.3118616
+latitude: 36.27662189999999
+city_longitude: -82.3534727
+city_latitude: 36.3134397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

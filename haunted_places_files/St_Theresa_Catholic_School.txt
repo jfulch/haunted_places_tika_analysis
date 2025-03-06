@@ -1,0 +1,21 @@
+city: Coral Gables
+country: United States
+description: Feelings of not being alone and footsteps heard.
+location: St. Theresa Catholic School
+state: Florida
+state_abbrev: FL
+longitude: -80.28113859999999
+latitude: 25.7457846
+city_longitude: -80.2683838
+city_latitude: 25.72149
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

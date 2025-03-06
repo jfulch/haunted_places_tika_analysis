@@ -1,0 +1,21 @@
+city: Gold Hill
+country: United States
+description: Several visitors to the vortex have seen John Lister, the Scottish scientist who discovered the area, standing at the top of the sloping floor of the old log cabin. He is usually seen resting against the wall, laughing and plucking his eyebrow. The visitors have asked the guide the identity of the man who somehow got ahead of the tour. One tour guide looked inside and recognized Lister from an old photograph. After the quick look, Lister disappeared. When the other tour guides looked inside the cabin, there was no one there. Anyone leaving the cabin by the back door would have been seen. Also, Native American legend says that horses would not come into the affected area known as the "Forbidden Ground."
+location: (Near) Oregon Vortex
+state: Oregon
+state_abbrev: OR
+longitude: -123.0850834
+latitude: 42.4930046
+city_longitude: -123.0506035
+city_latitude: 42.4317894
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1827/04/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

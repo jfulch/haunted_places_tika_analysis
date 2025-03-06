@@ -1,0 +1,21 @@
+city: Rupert
+country: United States
+description: Witnesses report while they were working they saw and felt a strange presents and saw a black figure out of the corner of their eyes every night. They would see this between 7:00 and 9:30. This happened in the bean sorting room across the street from the main warehouseman other times they could smell food cooking when there was no way to cook in this room, There was nothing cooking out side our building or any other building close by.
+location: Kelly Bean Inc .
+state: Idaho
+state_abbrev: ID
+longitude: -113.665969
+latitude: 42.6214762
+city_longitude: -113.6772348
+city_latitude: 42.6190756
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 22m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Chelsea
+country: United States
+description: The Cary House was a mansion in the civil war. The daughter of the family had two lovers, who fought on opposing sides and ending up killing each other on the stairs inside the house. For quite a few years now, one couple would live in the house (a newer part of the house was added onto the old) and give tours. It was like a museum (but with the Cary mother's skeleton in the attic!). Once things started getting stolen, the tours stopped. It is said that one the night of the wedding anniversary of the Cary parents, you can hear laughter, mumbled conversation, and wine glasses clinking from the old kitchen. You constantly get the feeling of being followed or watched over. And this house has many secret passageways and hidden spots as well. - No trespassing - the couple that lives there now have turned it into a private property.
+location: Cary House
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.02803399999999
+latitude: 42.39832699999999
+city_longitude: -71.0328284
+city_latitude: 42.3917638
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 0

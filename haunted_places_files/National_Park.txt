@@ -1,0 +1,21 @@
+city: Gloucester
+country: United States
+description: Whital House Battle Field - it is noted of haunting from the revolution 1776 dead soldiers in the attic house was used as a hospital check it out.
+location: National Park
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.1787901
+latitude: 39.8659466
+city_longitude: -75.0494329
+city_latitude: 39.7933809
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1846/07/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 0

@@ -1,0 +1,18 @@
+city: Perryville
+country: United States
+description: When calling on the ghost of the bridge, your car will not start when you go to leave for awhile. Also noted very cold on the bridge.
+location: Hank's Bridge
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.9516234
+city_latitude: 37.650351
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

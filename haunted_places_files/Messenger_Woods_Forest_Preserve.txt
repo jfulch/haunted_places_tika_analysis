@@ -1,0 +1,21 @@
+city: New Lenox
+country: United States
+description: Strange, uneasy feelings occur to people as they drive pass this place. Some even say they've heard screams and have seen unexplainable shadow-like objects pass in front of their vehicles as they have drove by.
+location: Messenger Woods Forest Preserve
+state: Illinois
+state_abbrev: IL
+longitude: -87.95317469999999
+latitude: 41.570516
+city_longitude: -87.9656098
+city_latitude: 41.5119761
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

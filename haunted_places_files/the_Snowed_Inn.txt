@@ -1,0 +1,21 @@
+city: Park City
+country: United States
+description: was built as an upscale replica to the owners distant grandmother. Grandmas spirit now lives in this Victorian mansion and likes to make her presence known to individuals staying there. The rooms are themed around the original home and grandma likes to occupy the bedroom themed after her own. Her mist has been seen ascending and descending through the floors, and she has also shown up in pictures taken by the staff of the Victorian hotel.
+location: the Snowed Inn
+state: Utah
+state_abbrev: UT
+longitude: -111.507979
+latitude: 40.651056
+city_longitude: -111.4979729
+city_latitude: 40.6460622
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

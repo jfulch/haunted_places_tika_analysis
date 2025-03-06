@@ -1,0 +1,21 @@
+city: Lisle
+country: United States
+description: Ondrak Hall -  there have been reportings of televisions turning up and down in volume as well as very eery chills passing through rooms. There is a specific room that is closed off now, no one lives in there anymore because of all the eery things that have occurred.
+location: Benedictine University
+state: Illinois
+state_abbrev: IL
+longitude: -88.0967798
+latitude: 41.7783779
+city_longitude: -88.0747875
+city_latitude: 41.801141
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

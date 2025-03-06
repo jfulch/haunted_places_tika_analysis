@@ -1,0 +1,21 @@
+city: Charleston
+country: United States
+description: This theatre was built in 1909 on the site of the old Welch Mansion that had stood there since 1798. The theatre still houses some of the family that once lived in the mansion. Capital Plaza is now a venue for artists such as Tori Amos, R.E.M., and other well-known musicians. The former theatre where "Mountain Stage" was recorded, is a place that gives people chills when they enter the area. The most prolific ghost here is that of John Welch. He was the son of the man who built the house and heir to the Welch fortune. John is very sneaky and likes to play around with peoples' minds. He is quite protective of the place and of the actors who frequent the stage. Another ghost, not quite as active, is known as Molly Welch. She was John's youngest daughter who died of pneumonia in 1840 around the age of eight. She is very shy, but sometimes when an actor is standing on stage, she can be seen sitting in the front row of the balcony.
+location: Capitol Plaza Theatre
+state: West Virginia
+state_abbrev: WV
+longitude: -81.63630959999999
+latitude: 38.350597
+city_longitude: -81.6326234
+city_latitude: 38.3498195
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1909/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

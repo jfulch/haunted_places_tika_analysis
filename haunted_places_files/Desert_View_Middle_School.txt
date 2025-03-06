@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: One night a coach came to this school and heard punching noises on the lockers when no one was there. Another story is a lunch lady got to the school early in the morning and saw a white figure run through the gym. When no other students where there.
+location: Desert View Middle School
+state: Texas
+state_abbrev: TX
+longitude: -106.3056405
+latitude: 31.7551864
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Keshena
+country: United States
+description: The police department is built on an old Indian Cemetery. During the night a typewriter will type with nobody around. Janitors have seen people wearing buckskin walking the hallways.
+location: Menominee Tribal Police Dept
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.65267279999999
+latitude: 44.885196
+city_longitude: -88.6337152
+city_latitude: 44.88387119999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

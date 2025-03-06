@@ -1,0 +1,21 @@
+city: Bessemmer City
+country: United States
+description: Sights of boys reflection in 4th and 5th Grade bathroom mirror beside one of the girls. Blond hair Blue eyes Red & Blue raggedy shirt and tan capris.
+location: Tryon Elementary School
+state: North Carolina
+state_abbrev: NC
+longitude: -81.322966
+latitude: 35.341511
+city_longitude: -81.28397
+city_latitude: 35.2848579
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

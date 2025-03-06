@@ -1,0 +1,21 @@
+city: Poquoson
+country: United States
+description: The Road to the right near 'church street' is haunted. This is located near the old morgue, ghost have been seen walking up and down the road, lost and confused. A woman in a nightgown will talk to you, she will ask to use the phone so she can call her husband, as your walking up to your house, she vanishes. I've had it happen, it was more then just 'unnerving' to say the least.
+location: Poquoson Ave
+state: Virginia
+state_abbrev: VA
+longitude: -76.3605175
+latitude: 37.1272329
+city_longitude: -76.3457773
+city_latitude: 37.1223664
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2006/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

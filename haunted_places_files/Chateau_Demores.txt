@@ -1,0 +1,21 @@
+city: Medora
+country: United States
+description: Everyone that goes there experiences the feeling of always being watched and cold spots. Medora was supposed to return but she died before getting the chance to do so. I think when driving home from the Medora Musical I saw the lights on in one room.
+location: Chateau Demores
+state: North Dakota
+state_abbrev: ND
+longitude: -103.534789
+latitude: 46.912462
+city_longitude: -103.5243536
+city_latitude: 46.9139028
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 17m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

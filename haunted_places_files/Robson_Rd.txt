@@ -1,0 +1,21 @@
+city: Belleville
+country: United States
+description: When the street is dark and no one is around you can put your car in park and turn you head-lights on get out of your car and stand in front of the car and you can see another car come towards you and drive right through you and your car and then disappear in seconds.
+location: Robson Rd
+state: Michigan
+state_abbrev: MI
+longitude: -83.47570929999999
+latitude: 42.2414323
+city_longitude: -83.4852133
+city_latitude: 42.2047619
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

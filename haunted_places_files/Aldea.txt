@@ -1,0 +1,21 @@
+city: Fall River
+country: United States
+description: Mysterious noises, Mysterious blurs in photos...house left untouched.... supposedly 4 people lived there man wife two children.... and one night the youngest child died and the man lost his mind killing his wife and daughter including himself.
+location: Aldea
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.112426
+latitude: 41.73671299999999
+city_longitude: -71.1550451
+city_latitude: 41.7014912
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2018/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

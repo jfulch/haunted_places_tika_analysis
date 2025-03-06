@@ -1,0 +1,19 @@
+city: Kingston
+country: United States
+description: Will Theatre – Theater J - There has only been one occasion of violence regarding George - a teacher who will remain nameless whom a lot of the students did not like was standing at the top of the steps leading down into Theatre J (next to Will) when she felt 2 hands shove her from behind; she fell down the stairs. Nobody else was in the vicinity.
+location: University of Rhode Island
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.5308537
+latitude: 41.4860647
+city_longitude: -71.52255980000001
+city_latitude: 41.48037910000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

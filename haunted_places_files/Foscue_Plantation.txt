@@ -1,0 +1,21 @@
+city: Pollocksville
+country: United States
+description: Back in the 1800s slaves used to be chained around the ankles in the attic and it is said that at night you can hear the cries of the slaves. It is also said that every time the stairs are painted the blood from the slaves that has dripped down the stairs seeps through the fresh new paint job.
+location: Foscue Plantation
+state: North Carolina
+state_abbrev: NC
+longitude: -77.209002
+latitude: 35.039685
+city_longitude: -77.2210654
+city_latitude: 35.0059914
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

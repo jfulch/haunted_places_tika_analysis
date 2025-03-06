@@ -1,0 +1,19 @@
+city: Enterprise
+country: United States
+description: Is a house that has been standing since the Civil War. During a recent renovation project, the carpenters and other workers said to have come in to work and all of their tools have been moved or missing, they have heard music when there was no power on in the house, they have heard laughter of children, and came in one day and all the furniture had been nailed to the floor. There were also reports of some of the workers seeing blood on the stairs and banister and the head carpenter was down in the basement and looked to the top of the stairs; He saw a figure standing there that was dressed like a general from the Civil War. Mrs. Mitz still lives in this house today.
+location: The Mitz's House
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.3670279
+city_latitude: 42.2822264
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

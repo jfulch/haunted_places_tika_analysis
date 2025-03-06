@@ -1,0 +1,21 @@
+city: Dugway
+country: United States
+description: Located on U.S. Army Dugway Proving Ground, a remote Army post west of Salt Lake City in the desert.-  It is closed to the public. Trespassers will be prosecuted under federal law. Do not attempt to sneak on or you may find yourself staring at the business end of an M16 rifle.
+location: Clinic
+state: Utah
+state_abbrev: UT
+longitude: -111.9249559
+latitude: 40.3881191
+city_longitude: -112.7444097
+city_latitude: 40.22105320000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: St. James
+country: United States
+description: You sit down stairs and hear guns cocking upstairs, the lights will go on by them selves, the radios and TVs will go on and be turned as loud as they can go. There has been seen of a woman walking down the hall and standing at the edge of the bed covered in blood. The dogs wouldn't go into the grove ever they would stand on the outside of it and howl. There is a light that can be seen coming towards the farm from the field and all of a sudden, just as fast as it would appear, it would be gone.
+location: The Farm
+state: Minnesota
+state_abbrev: MN
+longitude: -94.6400235
+latitude: 43.9844313
+city_longitude: -94.6283192
+city_latitude: 43.9820734
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

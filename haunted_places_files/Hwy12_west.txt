@@ -1,0 +1,19 @@
+city: Fredrica
+country: United States
+description: Glowing Red Eyes of a dog are seen on this stretch of this highway. Legend has that many years ago, a man was angry with his landlord, and so the man murdered him and grinded him up with cornmeal and feed it to his dog. The specter of the dog with the illuminated eyes that appear to be red are seen roadside by drivers at night.
+location: Hwy12 west
+state: Delaware
+state_abbrev: DE
+longitude: -75.53685209999999
+latitude: 39.0052897
+city_longitude: -75.46575419999999
+city_latitude: 39.0090017
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1988/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

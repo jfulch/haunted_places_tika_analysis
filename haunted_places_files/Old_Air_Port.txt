@@ -1,0 +1,21 @@
+city: Orchard Park
+country: United States
+description: At night you could hear howling and people talking in the office building. Update: The story of the ghosts ended about a few months ago. The airport was destroyed to make way for new apartments.
+location: Old Air Port
+state: New York
+state_abbrev: NY
+longitude: -74.0772222
+latitude: 41.6572222
+city_longitude: -78.7440921
+city_latitude: 42.7675323
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.733333333333333
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

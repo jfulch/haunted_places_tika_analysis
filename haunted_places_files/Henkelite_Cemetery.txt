@@ -1,0 +1,21 @@
+city: Mount Pleasant
+country: United States
+description: Cemetery for confederate soldiers. When you go to the cemetery at night, you will hear marching and gunfire. When you get to your car, it will not start.
+location: Henkelite Cemetery
+state: North Carolina
+state_abbrev: NC
+longitude: -79.5789796
+latitude: 35.8143875
+city_longitude: -80.4358963
+city_latitude: 35.399308
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 0

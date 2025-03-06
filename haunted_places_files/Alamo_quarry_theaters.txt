@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: well the theater was built over an old cement factory and well rumor has it that there are bodies trapped in the foundation, witnesses that work there have seen a child in the projection room , and have felt various cold spots on the second floor on both sides of the theaters. And at night when the auditorium's light inside would dim slowly down then on and the process would repeat itself until you left the auditorium.
+location: Alamo quarry theaters
+state: Texas
+state_abbrev: TX
+longitude: -98.480473
+latitude: 29.495291
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1988/11/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

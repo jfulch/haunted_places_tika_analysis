@@ -1,0 +1,21 @@
+city: Danville
+country: United States
+description: in the basement you can feel cold spots and the chains from the lights will swing with no one touching them. several pictures taken in the basement have has orbs. it is said that a man was found dead in the basement. not known if it was drug overdose or murder.
+location: New Holland Apt. Building
+state: Illinois
+state_abbrev: IL
+longitude: -87.6303992
+latitude: 40.1300357
+city_longitude: -87.6300207
+city_latitude: 40.124481
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2003/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

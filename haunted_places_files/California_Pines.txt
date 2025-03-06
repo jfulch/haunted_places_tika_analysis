@@ -1,0 +1,21 @@
+city: Yosemite National Forest
+country: United States
+description: California pines is located in the majestic Yosemite Forrest, where people have been known to see apparitions, & have an actual physical experience with the ghosts of Indian's from the 1800's.
+location: California Pines
+state: California
+state_abbrev: CA
+longitude: -119.5655556
+latitude: 37.7419444
+city_longitude: -119.5383294
+city_latitude: 37.8651011
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

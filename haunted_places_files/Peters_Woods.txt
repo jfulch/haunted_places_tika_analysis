@@ -1,0 +1,19 @@
+city: Fairburn
+country: United States
+description: There's an old cemetery in the woods & they are haunted by an Amish girl who was in love with a non-Amish boy & her father found out & told her she could never see the boy again, so the girl went into the woods & hung herself. Sometimes you see her ghost on the side of the road & stop to pick her up & she tells you to go to her house. Once you stop you see her father run out of the house & start screaming at her & she runs into the woods. If you chase her, you get deep into the woods & feel something brush the top of your head & you look up to see her body hanging from a tree. Then you look again & see nothing but the remnants of an old house & a small family cemetery.
+location: Peter's Woods
+state: Georgia
+state_abbrev: GA
+city_longitude: -84.5810418
+city_latitude: 33.5670562
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1868/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

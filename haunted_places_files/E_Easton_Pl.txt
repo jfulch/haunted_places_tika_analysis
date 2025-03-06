@@ -1,0 +1,21 @@
+city: Tulsa
+country: United States
+description: At night during the Fall season a little boy is seen running down the street. It happens around the quiet hours of the night from 2am to 4am. It has also been said that you can hear him scream for help while he is running. They say his clothes aren't modern and are from the 40's or less.
+location: E. Easton Pl.
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.8967434
+latitude: 36.1634272
+city_longitude: -95.992775
+city_latitude: 36.1539816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

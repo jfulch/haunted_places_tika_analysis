@@ -1,0 +1,21 @@
+city: Millington
+country: United States
+description: There are also rumors about it being haunted by a little boy.
+location: Antique mall
+state: Michigan
+state_abbrev: MI
+longitude: -83.5296099
+latitude: 43.2800192
+city_longitude: -83.5296774
+city_latitude: 43.2814132
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

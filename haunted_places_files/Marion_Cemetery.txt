@@ -1,0 +1,20 @@
+city: Marion
+country: United States
+description: Mysterious Revolving Ball -  For more than 100 years, a 5,200 pound ball of polished black granite has been slowly rotating on a pedestal in the Marion Cemetery. This mystery was featured in "Ripley's Believe It or Not' in 1929.
+location: Marion Cemetery
+state: Ohio
+state_abbrev: OH
+longitude: -83.1259267
+latitude: 40.5783876
+city_longitude: -83.1285242
+city_latitude: 40.5886699
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1929/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

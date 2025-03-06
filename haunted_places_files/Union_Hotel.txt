@@ -1,0 +1,21 @@
+city: Flemington
+country: United States
+description: Slamming doors and spinning barstools are seen and heard after closing. Strange events occur without warning like one time, the heavy wooden front doors were locked. Some employees were sitting around the bar when the heavy wooden doors opened all of a sudden and a cold wind went right past them. When the employees locked the door again, they saw a pair of leather children shoes walking up the stairs. The restaurant is haunted by many unknown spirits.
+location: Union Hotel
+state: New Jersey
+state_abbrev: NJ
+longitude: -122.1604795
+latitude: 38.0475755
+city_longitude: -74.85933179999999
+city_latitude: 40.5123258
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1976/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

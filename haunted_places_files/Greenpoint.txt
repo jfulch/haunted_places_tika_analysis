@@ -1,0 +1,21 @@
+city: Brooklyn
+country: United States
+description: McCarren Park - There used to be a pool here where a little girl drowned, she is seen roaming the area at night calling for help.
+location: Greenpoint
+state: New York
+state_abbrev: NY
+longitude: -73.9418603
+latitude: 40.7245448
+city_longitude: -73.9441579
+city_latitude: 40.6781784
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

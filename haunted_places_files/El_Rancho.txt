@@ -1,0 +1,21 @@
+city: Ladysmith
+country: United States
+description: Is said to be Haunted. Possibly built on a cemetery. Rumors of Ghosts. One rumor of a man in a red flannel shirt that was killed with an ax. People that live near the trailer court close by have said they have seen this man standing in their living rooms just watching them.
+location: El Rancho
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.1105753
+latitude: 45.4799347
+city_longitude: -91.1040358
+city_latitude: 45.4630231
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: Custodial and late-night staff have complained of feeling cold drafts and "spots" at nights. Some doors have been said to close unexpectedly, and plates and silverware have been found to be missing or re-arranged. In spring 2006, a student unfortunately hung himself in the Lothian dormitory late at night.. there have been stories of people seeing or feeling his presence.
+location: UCR Lothian Dining services
+state: California
+state_abbrev: CA
+longitude: -117.3280644
+latitude: 33.9737055
+city_longitude: -117.3961564
+city_latitude: 33.9533487
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

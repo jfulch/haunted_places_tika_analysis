@@ -1,0 +1,20 @@
+city: Carl Junction
+country: United States
+description: Weird noises, footsteps, and voices and night. Also sounds of doors shutting. Usually and night around 12:00 p.m.
+location: Carl Junction Primary School
+state: Missouri
+state_abbrev: MO
+longitude: -94.568213
+latitude: 37.174845
+city_longitude: -94.5655066
+city_latitude: 37.1767249
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

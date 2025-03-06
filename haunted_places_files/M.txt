@@ -1,0 +1,20 @@
+city: In California Page 2
+country: United States
+description: San L)
+location: (M
+state: California
+state_abbrev: CA
+longitude: -122.4207899
+latitude: 37.7743105
+city_longitude: -122.4207899
+city_latitude: 37.7743105
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

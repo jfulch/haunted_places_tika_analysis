@@ -1,0 +1,21 @@
+city: Skykomish
+country: United States
+description: It's the home of the blue lady. The story goes that on the very top floor of this place it use to be a speak easy, where the lady's of the night entertained and where gambling went on. One of the prostitutes had a new boyfriend. The boyfriend walked in on her as she was doing business with a "John". He was so enraged. Forgetting what her line of business was he killed her.
+location: Skykomish Hotel Bed &amp; Breakfast
+state: Washington
+state_abbrev: WA
+longitude: -121.3589931
+latitude: 47.7095666
+city_longitude: -121.3601013
+city_latitude: 47.7092746
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

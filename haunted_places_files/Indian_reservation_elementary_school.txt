@@ -1,0 +1,21 @@
+city: Concho
+country: United States
+description: The school burnt down a few years back killing a few children and teachers. Objects have been seen moving by themselves and laughs of children can be heard. "In the gym the coaches office light stays on constantly and you can hear a basketball bouncing in the locked and untouched gym!
+location: Indian reservation elementary school
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.2489763
+latitude: 35.4469387
+city_longitude: -97.9944958
+city_latitude: 35.6156047
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

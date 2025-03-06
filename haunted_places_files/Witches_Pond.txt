@@ -1,0 +1,19 @@
+city: Stafford
+country: United States
+description: A trail off Telegraph Road will lead to a place called Witches Pond. There is a sacrifice table there that was used in the 1700's. There have been numerous sightings of a mysterious woman on the lake near the table. The sacrifice table has letters written on it in Latin. - April 2008 Update: This is Private property. you will get arrested if you are caught on this land.
+location: Witches Pond
+state: Virginia
+state_abbrev: VA
+city_longitude: -77.4242972
+city_latitude: 38.4334566
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Newark
+country: United States
+description: A long and windy road near the Pike Creek area that many have sighted eyes, herd screams at night, had things run in front of their cars, seen things chasing their cars, accidents are a near miss on this dark and creepy road. The trees that line it seem to fallow you and bend down towards your passing car, the woods seem to move with you instead of being passed, keep your eyes open and your foot on the break while driving this haunted road. There is also somewhere on this road a tree said to have had an abandoned baby placed in it to die, sometimes if brave passersby stop they can hear the tree "crying" the distinct sound of an infant crying in the darkness surrounds visitors.
+location: The Valley
+state: Delaware
+state_abbrev: DE
+longitude: -75.68877359999999
+latitude: 39.7028028
+city_longitude: -75.74965720000002
+city_latitude: 39.6837226
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1779/01/05
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

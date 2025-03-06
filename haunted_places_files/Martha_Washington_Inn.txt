@@ -1,0 +1,21 @@
+city: Abingdon
+country: United States
+description: The ghost of a young woman haunts the inn believed looking for her lover. Sightings are so common/reliable that they at one time charged extra for her "favorite" room. The workers are very helpful and acknowledged the sightings. no matter how many times they put down new carpet, blood stains reappear from old soldiers who were wounded during the war.
+location: Martha Washington Inn
+state: Virginia
+state_abbrev: VA
+longitude: -81.9755271
+latitude: 36.7095313
+city_longitude: -81.9773482
+city_latitude: 36.70983349999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: War
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Laurens
+country: United States
+description: out in the middle of the country you will go up a hill on a gravel road. On top of that hill you will see an old run down white abandon house. To your left pushed back in the corner of A lot of trees you will see a small cemetery. No one has been buried here in years, and as you walk into the graveyard you will see to your left 3 small graves with the same last name. Legend has it that the three graves are from 3 little girls that lived in the house a long time ago until there father killed them. Some people went into the house and found a bunch of old toys and stuffed animals. Gusts of cold wind will blow as soon as you step out of your car, and many voices have been heard inside the small round cemetery.
+location: infant cemetery
+state: Iowa
+state_abbrev: IA
+city_longitude: -94.8519296
+city_latitude: 42.8466398
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

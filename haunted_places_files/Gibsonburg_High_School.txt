@@ -1,0 +1,20 @@
+city: Gibsonburg
+country: United States
+description: Lights in the upper room come on and off for no reason. Janitors report locking doors with chains and having the chains unlocked. Strange footsteps heard through small gym, like someone walking on old floorboards. It is told by many students that there has been a haunting in the janitors closet. Some students got locked in for days. No food or no water. In 1949 3 well fed students were locked in after cleaning off paintbrushes in the closet. They were found by the janitor 5 days later all very thin almost looking anorexic, 2 were dead. Many say they still haunt the school to this day and want revenge by whoever decided to lock them in. - December 2006 Update: Gibsonburg has torn down the old school and a new one has been built.
+location: Gibsonburg High School
+state: Ohio
+state_abbrev: OH
+longitude: -83.3220851
+latitude: 41.3759555
+city_longitude: -83.32048069999999
+city_latitude: 41.3844964
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1949/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.6
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

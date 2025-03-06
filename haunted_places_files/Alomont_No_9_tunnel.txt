@@ -1,0 +1,19 @@
+city: East Bernstadt
+country: United States
+description: If you walk up the train tracks about a mile you will come to A very old train tunnel built in 1882. If you make no noise you can see the murder of a black man by 2 white men It will only happen right before a train passes through the tunnel. You can watch as the train comes through the tunnel and the spirits will burst into dust.
+location: Alomont No. 9 tunnel
+state: Kentucky
+state_abbrev: KY
+city_longitude: -84.1177098
+city_latitude: 37.1895318
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1882/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

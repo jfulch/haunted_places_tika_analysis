@@ -1,0 +1,21 @@
+city: White Mountains
+country: United States
+description: Ghost Camp - In the late 1980's, this day- use area used to be a camp area. The local camp hosts along the Black River, would meet here at night for coffee and cake. One summer, for posterity, someone decided to photograph the group of ten to twelve people. When the photographer developed the pictures, a woman that nobody had known or had seen that day, was standing behind the group in the picture.
+location: Diamond Rock Campground
+state: Arizona
+state_abbrev: AZ
+longitude: -109.3000812
+latitude: 33.8186627
+city_longitude: -109.5850926
+city_latitude: 33.9106043
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

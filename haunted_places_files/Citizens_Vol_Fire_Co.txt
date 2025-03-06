@@ -1,0 +1,21 @@
+city: Fawngove
+country: United States
+description: Reports of a walking trail that has scary noises, strange feelings of being watched and creatures seen.
+location: Citizens Vol. Fire Co.
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.45197499999999
+latitude: 39.72463339999999
+city_longitude: -76.4519078
+city_latitude: 39.727882
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Terre Haute
+country: United States
+description: Cromwell Hall - a white cross under the window is seen on the 12th floor where the man jumped, on the west side of the building in room 1221. Now you can hear footsteps and strange noises in the hallways.
+location: Indiana State University
+state: Indiana
+state_abbrev: IN
+longitude: -87.41037360000001
+latitude: 39.4705314
+city_longitude: -87.41390919999999
+city_latitude: 39.4667034
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1940/01/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

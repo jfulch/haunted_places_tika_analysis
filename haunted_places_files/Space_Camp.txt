@@ -1,0 +1,21 @@
+city: Huntsville
+country: United States
+description: Space camp counselors tell the story about a man who was working on the sleeping quarters at the facility. One day, they were using explosives to make large holes in the ground for the below-ground quarters. The explosives went off early and the man was buried alive by dirt and rubble. Until this day in the halls and in some rooms, they can still hear his cries for help echoing through the halls and large moans late at night.
+location: Space Camp
+state: Alabama
+state_abbrev: AL
+longitude: -86.6539238
+latitude: 34.7111411
+city_longitude: -86.5861037
+city_latitude: 34.7303688
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1959/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

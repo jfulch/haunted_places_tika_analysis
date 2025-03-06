@@ -1,0 +1,21 @@
+city: Garnet
+country: United States
+description: There is a full ghost town up in the hills of Montana that was originally created as a mining town. After a fire caught hold of the hotel there, many people started moving out. The houses and buildings have been wonderfully preserved and the original hotel that caught fire still stands and with little damage. Spirits can be felt all in this town and especially in the hotel on the second floor. If you go up the stairs, walk straight towards the wall without turning, and then look to your left, the open door there is where one of the spirits resides. Beware, though, because he's not nice. It's a great place if you want a sensory overload. If you can't find it... it's on the state map. It's worth going to see.
+location: Garnet Ghost Town
+state: Montana
+state_abbrev: MT
+longitude: -113.3386399
+latitude: 46.8253719
+city_longitude: -113.33806
+city_latitude: 46.82528
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 18m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

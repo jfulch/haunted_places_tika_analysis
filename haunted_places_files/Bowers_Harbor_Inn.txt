@@ -1,0 +1,21 @@
+city: Traverse City
+country: United States
+description: The restaurant on Old Mission Peninsula is a well-known haunt. The house was supposedly left to Genevieve by her late-husband. Meantime, it's said, all of his other assets were inherited by a mistress. Heart-broken and betrayed, Genevieve later died in the house and is said to still walk the stairs, open windows, blow out candles and appear in an antique mirror in the ladies' second-floor restroom.
+location: Bower's Harbor Inn
+state: Michigan
+state_abbrev: MI
+longitude: -85.5285305
+latitude: 44.88618150000001
+city_longitude: -85.62063169999999
+city_latitude: 44.7630567
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Oklahoma City
+country: United States
+description: April 2008 Update: Formerly listed as Skirvin Hotel - famous for its supposed entities of a former maid and her illegitimate daughter she killed herself and child by jumping out the window. Female guests have reported being unable to sleep due to the consistent cries of an infant. Many men have seen the apparition of a naked woman while showering. Several men have reported being "propositioned" by a female voice. One man even claimed he was sexually assaulted in the middle of night. - July 2005 update: This place has not been used as a hotel in 20 years, although, it is still standing.
+location: Hilton Skirven Hotel
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.5137924
+latitude: 35.4689882
+city_longitude: -97.5164276
+city_latitude: 35.4675602
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

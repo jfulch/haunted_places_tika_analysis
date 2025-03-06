@@ -1,0 +1,21 @@
+city: Prestonsburg
+country: United States
+description: When the Prestonsburg High School was built a man was pushed from a ladder an was decapitated. Now in the old upstairs hallways you can here strange an unusual sounds and sometimes you feel as if someone is running into you when there is really no one there.
+location: Prestonsburg High School
+state: Kentucky
+state_abbrev: KY
+longitude: -82.780048
+latitude: 37.6769448
+city_longitude: -82.7715486
+city_latitude: 37.6656527
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

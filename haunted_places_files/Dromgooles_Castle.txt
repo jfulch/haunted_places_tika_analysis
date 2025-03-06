@@ -1,0 +1,21 @@
+city: Chapel Hill
+country: United States
+description: There's a legend regarding this strange house not too far from the campus of The University of North Carolina. A man who was in love with a young woman discovered she was in love with a friend of his, so hey had a pistol duel at his house and he was mortally wounded. In his dying moments, he fell on a flat rock that is now stained with his blood to this very day. Student have reported his sad ghost agonizing cries from his fatal wound as well as his girlfriend who died not long after his untimely death.
+location: Dromgoole's Castle
+state: North Carolina
+state_abbrev: NC
+longitude: -79.0469134
+latitude: 35.9049122
+city_longitude: -79.0558445
+city_latitude: 35.9131996
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

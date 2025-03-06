@@ -1,0 +1,21 @@
+city: Adelphi
+country: United States
+description: This home used to be a slave home built in 1700 or 1800's. There have been numerous sightings by staff over the years.....The home is now used as an assisted living home for the elderly. You'll hear and see ghosts from the far and not so distant past.
+location: Paint Branch Home
+state: Maryland
+state_abbrev: MD
+longitude: -76.9500829
+latitude: 39.0326971
+city_longitude: -76.97192
+city_latitude: 39.0031656
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

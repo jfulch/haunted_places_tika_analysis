@@ -1,0 +1,21 @@
+city: Andersonville
+country: United States
+description: The feeling of people reaching out to you with outstretched arms. You feel despair, suffering and so much death.
+location: Andersonville Civil War Prison
+state: Georgia
+state_abbrev: GA
+longitude: -84.1303207
+latitude: 32.2002948
+city_longitude: -84.1303207
+city_latitude: 32.2002948
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

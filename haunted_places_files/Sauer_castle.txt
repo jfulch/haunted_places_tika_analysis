@@ -1,0 +1,20 @@
+city: Kansas City
+country: United States
+description: A little boy haunts this national landmark.
+location: Sauer Castle
+state: Missouri
+state_abbrev: MO
+longitude: -94.6332489
+latitude: 39.0686599
+city_longitude: -94.5785667
+city_latitude: 39.0997265
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 0

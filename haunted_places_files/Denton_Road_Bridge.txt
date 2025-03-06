@@ -1,0 +1,21 @@
+city: Canton
+country: United States
+description: The story goes that a group of kids were playing chicken near Denton Road bridge, and one of them proved to be chicken. His car swerved off the road when they reached the bridge, and crashed into the river below. Many people claim to see a light come out of river and chase their vehicle to the end of the road, if they stop at the center of the bridge at night.- November 2003 Update: the road has been reconfigured in that area and that the bridge no longer exists. That is not to say that the hauntings no longer occur.
+location: Denton Road Bridge
+state: Michigan
+state_abbrev: MI
+longitude: -83.52522599999999
+latitude: 42.2853235
+city_longitude: -83.48211599999999
+city_latitude: 42.3086444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

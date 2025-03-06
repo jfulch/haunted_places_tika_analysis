@@ -1,0 +1,21 @@
+city: Paramount
+country: United States
+description: You can hear a girl screaming for help. That occurs like around midnight. Some people have witnessed the murder of the girl repeat itself time after time. You can see the girl being thrown inside the shower after her bloody murder..
+location: Paramount High School
+state: California
+state_abbrev: CA
+longitude: -118.153868
+latitude: 33.90219
+city_longitude: -118.1597911
+city_latitude: 33.8894598
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

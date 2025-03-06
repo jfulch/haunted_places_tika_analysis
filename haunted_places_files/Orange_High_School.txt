@@ -1,0 +1,21 @@
+city: Orange County
+country: United States
+description: Teens at Orange High School claims that a young girl(age 15-18 yrs) from about 20 to 30 years ago committed suicide, in the girls bathroom in the Theatre. Sometimes the lights in the theatre turns on and off. When you are by yourself in the theatre you can feel the air get thick and a strong feel of coldness of wind come toward you. The bathroom door to the girls bathroom, starts closing slow but then the door slams hard.
+location: Orange High School
+state: California
+state_abbrev: CA
+longitude: -117.8483638
+latitude: 33.7963832
+city_longitude: -117.8311428
+city_latitude: 33.7174708
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

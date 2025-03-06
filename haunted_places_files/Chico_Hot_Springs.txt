@@ -1,0 +1,21 @@
+city: Chico
+country: United States
+description: This turn of the century hot springs resort is haunted
+location: Chico Hot Springs
+state: Montana
+state_abbrev: MT
+longitude: -110.6922233
+latitude: 45.33862509999999
+city_longitude: -110.7052121
+city_latitude: 45.3210479
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 18m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

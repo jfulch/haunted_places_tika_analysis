@@ -1,0 +1,19 @@
+city: Cave City
+country: United States
+description: Its called Witches Hollow by the townspeople because legend has it that, in the abandoned like village houses, a witch practiced her magic. It is said that she murdered her husband, and died later. Many people have reported seeing her walking along the road. You can still visit the old village and houses.
+location: Witches Hollow
+state: Arkansas
+state_abbrev: AR
+city_longitude: -91.5484709
+city_latitude: 35.9417397
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1586/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

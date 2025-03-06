@@ -1,0 +1,21 @@
+city: Oshkosh
+country: United States
+description: In Sherman Hall, a strange shadow is seen after 1 AM most nights in old seclusion suite vestibules. Most likely a former patient named Rufus, who hung himself in same vestibule.
+location: Winnebago State Hospital
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.5181492
+latitude: 44.0747489
+city_longitude: -88.5426136
+city_latitude: 44.0247062
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1925/12/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

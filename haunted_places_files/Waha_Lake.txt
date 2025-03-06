@@ -1,0 +1,21 @@
+city: Lewitson
+country: United States
+description: An old Native American woman wanders around along the shore of the lake. When approached she recedes into the lake and disappears into a whirlpool.
+location: Waha Lake
+state: Idaho
+state_abbrev: ID
+longitude: -116.8414426
+latitude: 46.2127083
+city_longitude: -117.001189
+city_latitude: 46.4004089
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

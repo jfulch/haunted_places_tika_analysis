@@ -1,0 +1,21 @@
+city: Anaheim
+country: United States
+description: The area behind the mosh pit on the first floor is where the hot spot is. People have been brushed against, touched, and pushed by something, but when they look there is no one there. It happens so casually that you don't even realize it the first time.
+location: House of Blues
+state: California
+state_abbrev: CA
+longitude: -117.9119827
+latitude: 33.8061819
+city_longitude: -117.9143012
+city_latitude: 33.8365932
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 0

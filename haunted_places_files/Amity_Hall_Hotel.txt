@@ -1,0 +1,21 @@
+city: Amity Hall
+country: United States
+description: This hotel has been standing since the 1800’s. There where a few horrifying events that took place here. 2 children where killed in the attic area where the blood stain can still be seen. An unexplained explosion killed many that haunt the place. A ghost of a woman that was beaten to death by her husband stands at the top of the second floor stairs, and is reported to not like men. - NO TRESPASSING
+location: Amity Hall Hotel
+state: Pennsylvania
+state_abbrev: PA
+longitude: -73.9988836
+latitude: 40.72965610000001
+city_longitude: -73.9988836
+city_latitude: 40.72965610000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

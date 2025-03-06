@@ -1,0 +1,19 @@
+city: New Castle
+country: United States
+description: On October 30th 1904 at 11:50 PM, there was a railroad conductor hit and killed while he was attempting to catch a stowaway that jumped out of a freight car into the brush. The conductor fell onto the tracks and was beheaded by the train. And now in late October you can sometimes see the ghost conductor holding a lantern walking down the old abandon tracks looking for stowaways.
+location: Harmony Short Line
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -80.34700900000001
+city_latitude: 41.0036719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

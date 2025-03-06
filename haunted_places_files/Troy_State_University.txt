@@ -1,0 +1,21 @@
+city: Troy
+country: United States
+description: Shackelford Hall - CONDEMNED - A girl named Sally hung herself in third floor stairwell, due to depression. She now haunts the third floor where her room was.
+location: Troy State University
+state: Alabama
+state_abbrev: AL
+longitude: -85.9572283
+latitude: 31.8018895
+city_longitude: -85.969951
+city_latitude: 31.8087678
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1887/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

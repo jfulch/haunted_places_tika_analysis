@@ -1,0 +1,21 @@
+city: Wilkens Township
+country: United States
+description: 2 boys saw three ghostly white dogs on a trail behind the golf course that disappeared. One set of tracks lead into a tree and vanished. Another lead to a ditch and the dog was nowhere to be found. And the last ones went straight and then disappeared.
+location: Edgewood Gulf course
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.8334189
+latitude: 40.4340659
+city_longitude: -79.82127000000001
+city_latitude: 40.4260962
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

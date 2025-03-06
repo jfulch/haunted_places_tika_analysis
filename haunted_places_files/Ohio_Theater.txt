@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: Balcony is haunted people have seen lights floating and screams heard around midnight.
+location: Ohio Theater
+state: Indiana
+state_abbrev: IN
+longitude: -85.3798439
+latitude: 38.7366282
+city_longitude: -85.37995769999999
+city_latitude: 38.7358933
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

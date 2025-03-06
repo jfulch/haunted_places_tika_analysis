@@ -1,0 +1,21 @@
+city: Elkridge
+country: United States
+description: The Belmont house was built in 1738, and there is reported to be many different ghosts in the house and on the grounds, as well as in the family cemetery. Pictures come off the walls, knives move across tables, and glasses break by themselves. There is supposedly a man who regularly appears in the bar area, holding a beer. A daughter of a patron described in detail five ghosts that she saw, including a young girl, about 2 years old. She even said that one ghost had his hand on her parent’s shoulder, trying to get their attention.
+location: Belmont Conference Center
+state: Maryland
+state_abbrev: MD
+longitude: -76.7452029
+latitude: 39.2259538
+city_longitude: -76.7625073
+city_latitude: 39.1978788
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1738/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 15.45
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

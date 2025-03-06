@@ -1,0 +1,21 @@
+city: Montgomery
+country: United States
+description: Various spiritual encounters have occurred in this all girls facility. On the new side of the dorm, especially the 2nd floor, noises of footsteps can be heard following you late at night. Curtains will blow and doors will slam shut -- and the windows aren't even open. One evening the power went out and a resident (for a split second) saw a fireman standing in the hallway. In the year 2000, the 2nd floor of Ratliff caught on fire.
+location: Ratliff Hall
+state: West Virginia
+state_abbrev: WV
+longitude: -81.32368149999999
+latitude: 38.1802389
+city_longitude: -81.32844519999999
+city_latitude: 38.1803833
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

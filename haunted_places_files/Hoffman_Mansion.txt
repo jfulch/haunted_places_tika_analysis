@@ -1,0 +1,19 @@
+city: Wyandotte
+country: United States
+description: Around the 1920's, A man named Hoffman took several boys into his home. Hoffman later went into a rage and killed all of the boys and then took his own life. The boys and Hoffman are buried in a cemetery on the property. Several instances of hearing someone running through the woods, voices, and footsteps in the mansion. The Mansion was condemned and bulldozed late 1998. The cemetery remains as well as some haunting spirits.
+location: Hoffman Mansion
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -94.7252284
+city_latitude: 36.7934028
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1710/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,19 @@
+city: Somerset
+country: United States
+description: several ghosts, in mirrors, restrooms, kitchen, and beer cooler.  It has been told that one likes to throw things across the room to let you know he is there. There is also a black shadow that can be seen from time to time.  There is also spirits in the parking lot where a couple of young girls were killed by an out of control vehicle. Some times you can hear noises and screams out there. Some times band equipment is readjusted without being touched by anyone.  Some say they can see a man and/or a woman standing in the ladies restroom. When they are present the room temp drops considerably.
+location: Sue's Lakeside Lounge
+state: Michigan
+state_abbrev: MI
+city_longitude: -84.41726659999999
+city_latitude: 42.0415105
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

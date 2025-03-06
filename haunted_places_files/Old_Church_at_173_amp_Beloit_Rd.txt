@@ -1,0 +1,21 @@
+city: Argyle
+country: United States
+description: Legend has it witch's were hung there along time ago. People who have wittnessed a lady in black sitting in the window by the bell late at night then dissappear. The church painted the window black recently. Several people have witnessed the "lady".
+location: Old Church at 173 &amp; Beloit Rd
+state: Illinois
+state_abbrev: IL
+longitude: -88.9775023
+latitude: 35.0466045
+city_longitude: -88.9401049
+city_latitude: 42.3600185
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

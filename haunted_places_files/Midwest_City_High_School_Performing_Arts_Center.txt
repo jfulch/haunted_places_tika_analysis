@@ -1,0 +1,21 @@
+city: Midwest City
+country: United States
+description: 5 years ago a janitor hung himself from the balcony, you can see a shadow up in the balcony when nothing is up there, things disappear, their are cold spots, it is a very violent presence.
+location: Midwest City High School Performing Arts Center
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.3995966
+latitude: 35.4528177
+city_longitude: -97.3967019
+city_latitude: 35.4495065
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

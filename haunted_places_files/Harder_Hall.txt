@@ -1,0 +1,21 @@
+city: Sebring
+country: United States
+description: Harder hall is a large hotel that was first built in the 1920's. It has changed hands MANY times, and every owner has died under extremely strange circumstances, most of the time, right in the hotel. There have been many accidents in the hotel, and all of which had at least 1 fatality. Some of the accidents include: fire, flood, floor collapse, innumerable suicides, murders, and others. Witnesses see lights inside and hear music. Most anyone can see the people peering out from the windows, and/or see the multitude of people roaming around in the courtyard, searching for something. - August 2004 update: they are remodeling it and there are rumors of them making it into a museum.
+location: Harder Hall
+state: Florida
+state_abbrev: FL
+longitude: -81.4699806
+latitude: 27.4681936
+city_longitude: -81.440907
+city_latitude: 27.495592
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1979/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

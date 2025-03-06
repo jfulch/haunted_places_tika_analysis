@@ -1,0 +1,18 @@
+city: Woodville
+country: United States
+description: Story of a Man that murdered his wife and a terrible face keeps appearing on the stone. It has been attempted several times to remove it, only for it to reappear soon after.
+location: The Haunted tombstone
+state: Ohio
+state_abbrev: OH
+city_longitude: -83.3657601
+city_latitude: 41.4514404
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Glens Falls
+country: United States
+description: there are many ghosts in the old patient wing built over 150 years ago my mother witnessed a man in a black suit walking down the hall towards her with all the lights on and no body in the halls but the ghosts said to be over 200 ghosts in the hospital.
+location: Glens Falls Hospital
+state: New York
+state_abbrev: NY
+longitude: -73.6455339
+latitude: 43.306768
+city_longitude: -73.6440058
+city_latitude: 43.3095164
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1953/06/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Boissevain
+country: United States
+description: Reports of hearing footsteps following along side in the fields.
+location: Boissevain road
+state: Virginia
+state_abbrev: VA
+longitude: -81.3797532
+latitude: 37.28037920000001
+city_longitude: -81.3803805
+city_latitude: 37.28178279999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

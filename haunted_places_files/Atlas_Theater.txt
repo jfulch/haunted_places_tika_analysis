@@ -1,0 +1,20 @@
+city: Cheyenne
+country: United States
+description: haunted by at least two spirits.
+location: Atlas Theater
+state: Wyoming
+state_abbrev: WY
+longitude: -104.8156857
+latitude: 41.1323859
+city_longitude: -104.8202462
+city_latitude: 41.1399814
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.033333333333331
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

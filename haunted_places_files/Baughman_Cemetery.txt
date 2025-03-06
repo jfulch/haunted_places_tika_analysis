@@ -1,0 +1,21 @@
+city: Minonk
+country: United States
+description: Located on the back roads between Minonk and Elpaso. Strange lights and shadows of numerous people seen in the cemetery. Man always seen smoking by a tree in the middle of the cemetery. Strange fog and car troubles have also been noted.
+location: Baughman Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.9878996
+latitude: 40.8391436
+city_longitude: -89.0345224
+city_latitude: 40.9044778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

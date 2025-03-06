@@ -1,0 +1,21 @@
+city: Bisbee
+country: United States
+description: Built in 1931, this Art Deco masterpiece is reported to be the home of many trapped spirits. The top floor houses the old Cochise County Jail, where heavy energies and smells can often be detected. The Division 2 Judge's chambers is often the site of strange occurrences and the fleeting scent of cigar smoke. Security Officers opening the building early in the mornings, have reported hearing voices, slamming doors and seeing the apparently headless apparition in a Judge's Robe, floating through the 2nd floor lobby. This apparition is believed to possibly be the spirit of Judge John Wilson Ross, who served on the bench from 1931 to 1943. Numerous reports of paranormal events have been recorded throughout the rest of the building, mostly by the employees who work daily in this building.
+location: Cochise County Courthouse
+state: Arizona
+state_abbrev: AZ
+longitude: -109.9211697
+latitude: 31.44263209999999
+city_longitude: -109.9284084
+city_latitude: 31.4481547
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1931/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

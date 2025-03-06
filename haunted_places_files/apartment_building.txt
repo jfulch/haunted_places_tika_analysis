@@ -1,0 +1,21 @@
+city: Story City
+country: United States
+description: The apartment building use to be a an old funeral home. There are only 3 apartments. In the 3rd apartment there is 18 steps and when you go down the steps someone always follows yous. You can also here some weird noises, usually when your alone.
+location: apartment building
+state: Iowa
+state_abbrev: IA
+longitude: -93.5895839
+latitude: 42.1832449
+city_longitude: -93.5955532
+city_latitude: 42.1871601
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

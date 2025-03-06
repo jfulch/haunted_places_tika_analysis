@@ -1,0 +1,21 @@
+city: Ogden
+country: United States
+description: There is a ghost named Mrs. Eccles. She stops the elevator on the 5th floor. Most people don't see her. But you feel her as she walks past you and smell her perfume.
+location: Historic Radisson Suite Hotel
+state: Utah
+state_abbrev: UT
+longitude: -111.9701253
+latitude: 41.2201452
+city_longitude: -111.9738304
+city_latitude: 41.223
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

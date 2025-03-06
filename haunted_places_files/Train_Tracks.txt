@@ -1,0 +1,19 @@
+city: Southport
+country: United States
+description: You can here a woman screaming for her baby that killed by a train. Every time a train goes by you can see her by the side of the tracks.
+location: Train Tracks
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.1166506
+city_latitude: 39.6618814
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

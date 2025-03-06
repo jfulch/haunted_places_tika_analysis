@@ -1,0 +1,21 @@
+city: Circle
+country: United States
+description: Haunted by a former owner, the ghost does not like renovations. Beers often move across the bar on their own. Footsteps are heard walking across the porch of the rental cabins.
+location: Circle Hot Springs
+state: Alaska
+state_abbrev: AK
+longitude: -144.6341667
+latitude: 65.4833333
+city_longitude: -144.0605556
+city_latitude: 65.8255556
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 10h 52m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

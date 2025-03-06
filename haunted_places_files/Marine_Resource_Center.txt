@@ -1,0 +1,20 @@
+city: Biloxi
+country: United States
+description: The 3rd floor has a wandering spirit that roams and occasionally makes her presence known throughout the building. No women are regularly assigned to work there at night because two women have left in total hysterics.
+location: Marine Resource Center
+state: Mississippi
+state_abbrev: MS
+longitude: -88.90558469999999
+latitude: 30.4111581
+city_longitude: -88.88530779999999
+city_latitude: 30.3960318
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

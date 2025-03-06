@@ -1,0 +1,21 @@
+city: Port Byron
+country: United States
+description: Beware, this is the place with the most hauntings. This place was built on an ancient Indian burial ground. In almost every apartment there is at least 2 hauntings. If you fall asleep for just at least 10 minutes, you will see Indians roaming around the apartment and they will be gone in at least the blink of an eye.
+location: Church Street Apts.
+state: New York
+state_abbrev: NY
+longitude: -76.6261619
+latitude: 43.0366209
+city_longitude: -76.62383430000001
+city_latitude: 43.0345099
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Mist
+event_type: War
+witness_count: 1

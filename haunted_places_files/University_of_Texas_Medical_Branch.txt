@@ -1,0 +1,21 @@
+city: Galveston
+country: United States
+description: Old Red The building is a fairly modern one with a grid type pattern on one side. The building is concrete with sandstone like finish. The old man's face appeared on one of the grids (there were nine total) the face is a lot like a shadow picture but is quite clearly visible. The story is that the grid where the face appeared was sandblasted to remove the face, only a few days later the face reappeared in a different grid. It is possible that the sandblasting was repeated at least one time with the face appearing yet again in a different spot. The building is quite close to the bay edge of the island and the site is very difficult to see without being on the actual grounds of the building. Someone might be able to see it from the water.
+location: University of Texas Medical Branch
+state: Texas
+state_abbrev: TX
+longitude: -94.7777698
+latitude: 29.3110199
+city_longitude: -94.7976958
+city_latitude: 29.3013479
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

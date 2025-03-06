@@ -1,0 +1,21 @@
+city: Waukesha
+country: United States
+description: It is an old colonial house on Wisconsin Ave. that used to be a house but is now transformed into an office. After work hours you can hear talking between people upstairs and downstairs. You also hear people walking up and down the staircases. During the day time many employees have lost belongings and weeks later find these belongings where they had left them before.
+location: Waukesha Area Chamber of Commerce
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.2553803
+latitude: 43.0413842
+city_longitude: -88.2314813
+city_latitude: 43.0116784
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

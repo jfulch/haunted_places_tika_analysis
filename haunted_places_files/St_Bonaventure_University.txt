@@ -1,0 +1,21 @@
+city: St. Bonaventure
+country: United States
+description: Devereux Hall - The top floor of this residence hall was supposedly closed after a séance held by students went too far and someone died. Students say they can hear noises coming from the floor. Students have also reported seeing a ghost jogger who runs up and down the halls.
+location: St. Bonaventure University
+state: New York
+state_abbrev: NY
+longitude: -78.48288219999999
+latitude: 42.0784113
+city_longitude: -78.48288219999999
+city_latitude: 42.0784113
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

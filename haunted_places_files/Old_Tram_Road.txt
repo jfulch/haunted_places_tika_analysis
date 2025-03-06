@@ -1,0 +1,21 @@
+city: Whiteville
+country: United States
+description: while traveling this road have seen what appeared to be taillights in the distance. They would disappear and headlight s would show up. The car was translucent and no driver was present. . The ghost car will chase you to the end of the road, where a church stands and the light just disappears.
+location: Old Tram Road
+state: North Carolina
+state_abbrev: NC
+longitude: -78.7063879
+latitude: 34.2020629
+city_longitude: -78.7030721
+city_latitude: 34.3387802
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Hickory
+country: United States
+description: The movie theater is now closed, but when working many strange things have happened. Film would be going just find in the projectors and would suddenly be lose inside the machine. Shadows and apparitions have been seen. - June 2008 Update: has been torn down.
+location: Crown Cinema VI
+state: North Carolina
+state_abbrev: NC
+longitude: -81.30474459999999
+latitude: 35.6996272
+city_longitude: -81.3444573
+city_latitude: 35.7344538
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

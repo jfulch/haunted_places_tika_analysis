@@ -1,0 +1,21 @@
+city: Boise
+country: United States
+description: Employees and patrons of this club have reported many sightings of apparitions, cold spots, ghostly mischief such as swinging chandeliers, thrown objects, and even appearing in photographs. Managers refuse to talk about the spirits; they have been scared too many times. It is believed several spirits haunt this club, including a little girl. Supposedly the building site is a former warehouse. The club is located at 4348 W. State Street.
+location: Night Moves Gentlemen's Club
+state: Idaho
+state_abbrev: ID
+longitude: -116.243521
+latitude: 43.646386
+city_longitude: -116.2146068
+city_latitude: 43.6187102
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

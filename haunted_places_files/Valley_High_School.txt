@@ -1,0 +1,21 @@
+city: Valley
+country: United States
+description: Once in what is now the old gym there was a stage that is now the wrestling room and it is said that in 1955 a boy fell from the lighting bridge during the winter concert when he fell one of the Christmas tree props went right through his back and out his chest. They say now when you go up there that blood will appear on the floor and you can hear a crowd screaming. At night you can see a boy fall on a tree and then disappear. Don't believe me come to the office and ask to go to the wrestling room.
+location: Valley High School
+state: Nebraska
+state_abbrev: NE
+longitude: -96.3416486
+latitude: 41.3095878
+city_longitude: -96.3465622
+city_latitude: 41.3110284
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1955/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

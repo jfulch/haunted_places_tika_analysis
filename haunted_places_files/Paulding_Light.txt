@@ -1,0 +1,21 @@
+city: Watersmeet
+country: United States
+description: it is told that you will see a light that changes colors from red to white that floats around no one has ever found out what it is and unsolved mysteries has been out there and could not find out what it was i have been out there many of time and seen it. the story is that a older man went to save two kids from a train and pushed then out of the way and got decapitated and now he wonders the woods looking for his head holding his lantern
+location: Paulding light
+state: Michigan
+state_abbrev: MI
+longitude: -89.1786764
+latitude: 46.34918529999999
+city_longitude: -89.1783221
+city_latitude: 46.2679475
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

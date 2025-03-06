@@ -1,0 +1,21 @@
+city: West Springfield
+country: United States
+description: IT is rumored that years ago that there was a fire that had killed several people. There are numerous cold spots, Feeling of some one watching you and the feeling that someone or something brushes against you
+location: Springfield Country club
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.630089
+latitude: 42.123449
+city_longitude: -72.6203675
+city_latitude: 42.1070383
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

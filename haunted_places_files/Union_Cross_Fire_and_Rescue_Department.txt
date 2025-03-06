@@ -1,0 +1,21 @@
+city: Union Cross
+country: United States
+description: This building sets were an old type tavern once stood. Not many people really know what really went on in the basement of the tavern. Few people are still around the might know and when asked the clam up and refuse to talk about it. It is believed the ghost resides above the day room. Go into the attic and you feel a strange presence. For a long time people have hears footsteps and strange unexplained noise. In the middle of the night when returning from calls you may hear strange noises. So strange in fact that it makes grown men grab there stuff and exit the building very quickly and even run at times. One of the noises was from the old truck they had. It was found the one of the bars was loose and when turned would make the noise that was heard. The noise has been heard when it could be confirmed there was no one even near this truck. Some people once brought an Ouija board and tried to communicate with the ghost. So much in fact the administration banned the use of the Ouija board.
+location: Union Cross Fire and Rescue Department
+state: North Carolina
+state_abbrev: NC
+longitude: -80.107699
+latitude: 36.0424935
+city_longitude: -80.1189332
+city_latitude: 36.0484703
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1886/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Zion
+country: United States
+description: The land that the Moose now stands on was the previous site of a home, which burned down in the 1940's. A young girl 8 years old died in the house fire -- patrons of the Moose have repeatedly seen the ghost of a young blonde haired girl playing in the facility, have experienced lights flickering, doors slamming, and have heard strange, giggling noises from a child that isn't there. Members have named their resident ghost "Mary" and acknowledge her upon entering and exiting the facility.
+location: Zion Moose Club #667
+state: Illinois
+state_abbrev: IL
+longitude: -87.824094
+latitude: 42.464859
+city_longitude: -87.83285049999999
+city_latitude: 42.4461322
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

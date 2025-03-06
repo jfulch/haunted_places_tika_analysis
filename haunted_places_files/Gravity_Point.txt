@@ -1,0 +1,19 @@
+city: Devoure
+country: United States
+description: You take a road called Glen Helen until you pass a 2 consecutive train tracks. When you pass a 3rd set or tracks you will have a stop sign about 100 hundred feet in front of you. You have to go passed to the stop sign and stop on the line. When the car is in neutral it will roll up hill increasing in speed.
+location: Gravity Point
+state: California
+state_abbrev: CA
+city_longitude: -117.4105251
+city_latitude: 34.2334918
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

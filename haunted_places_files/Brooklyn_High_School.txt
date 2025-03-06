@@ -1,0 +1,20 @@
+city: Brooklyn
+country: United States
+description: Dark Room - Many students that have the photography class here at Brooklyn High School say that when the go in the room to develop film that they hear noises and it feels like there's someone in the room with them. They report hearing laughing and giggling. Also they hear a young (child boy or girl) crying.
+location: Brooklyn High School
+state: Ohio
+state_abbrev: OH
+longitude: -81.7499083
+latitude: 41.4305769
+city_longitude: -81.7512107
+city_latitude: 41.4301349
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2013/06/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

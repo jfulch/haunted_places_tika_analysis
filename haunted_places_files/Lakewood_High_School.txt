@@ -1,0 +1,21 @@
+city: Lakewood
+country: United States
+description: It is known to be said that in the pool area the light will go on and off and there will be invisible footsteps of water on the side. It is said too be haunted by a swim coach who blew a blood vessel while screaming at his team.
+location: Lakewood High School
+state: California
+state_abbrev: CA
+longitude: -118.1220973
+latitude: 33.8384327
+city_longitude: -118.1339563
+city_latitude: 33.8536269
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: New Haven
+country: United States
+description: The old Union Trust building (now First Union) on the corner of Elm and Church street in New Haven, CT is the most haunted structure in the center of town. For years countless paranormal activities have been witnessed. Reports include - heard footsteps creeping down stairways late in the night when the building was empty, banging on walls, and many orbs and images captured on film. Others have seen ghosts walking in offices, heard their names being called, lights going on and off, and toilets flushing when no one was using them. The basement ghost is the most active. Witnesses have heard three loud hits to the cement wall by a human hand. This happens from week to week. The assistant property manager once heard moans within the wall along with the banging. If you’re interested in learning more about the old Union Trust building,  http://www.geocities.com/epacel/The_Haunted_Skyscraper.html
+location: The Old Union Trust Building
+state: Connecticut
+state_abbrev: CT
+longitude: -72.9235913
+latitude: 41.3083007
+city_longitude: -72.9278835
+city_latitude: 41.308274
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

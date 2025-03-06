@@ -1,0 +1,21 @@
+city: Homestead
+country: United States
+description: A small boy would stand just north of the baseball fields close the green houses. Late at night he would wonder into the teachers parking lot. On the south side of the school there is stairs leading up to the roof you can see a Teenager climbing up there but you never see him on the roof. The Troopers dogs at the school bark every night at 11:27.
+location: South Dade Sr High School
+state: Florida
+state_abbrev: FL
+longitude: -80.4598432
+latitude: 25.5008829
+city_longitude: -80.4775569
+city_latitude: 25.4687224
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

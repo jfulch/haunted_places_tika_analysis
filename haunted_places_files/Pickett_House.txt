@@ -1,0 +1,19 @@
+city: New Hope
+country: United States
+description: Joseph Pickett has been seen in and around his former home.
+location: Pickett House
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -74.9512785
+city_latitude: 40.36427279999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

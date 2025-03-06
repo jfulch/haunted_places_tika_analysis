@@ -1,0 +1,21 @@
+city: Algonquin
+country: United States
+description: 2 kids run in front of cars, usually at midnight, running from 3 nasty killers. 2 boys 1 girl.
+location: Square Barn Road
+state: Illinois
+state_abbrev: IL
+longitude: -88.369069
+latitude: 42.1642827
+city_longitude: -88.29424929999999
+city_latitude: 42.1655801
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

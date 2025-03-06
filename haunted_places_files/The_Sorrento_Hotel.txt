@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: Many unexplained occurrences go on here all the time. >From footsteps, glasses moving in full view of the guests in the Hunt Club Bar. Guests report sightings of a woman on the 4th floor near her room 408.
+location: The Sorrento Hotel
+state: Washington
+state_abbrev: WA
+longitude: -122.3267019
+latitude: 47.608944
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

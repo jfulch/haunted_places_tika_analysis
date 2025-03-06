@@ -1,0 +1,20 @@
+city: Hilliard
+country: United States
+description: Pizza hut - At this location a store manager died of a heart attack in the walk in freezer, employees sometimes see a ghostly man walking around in the back after closing. Items in the store are often thrown around.
+location: Cemetery Road
+state: Ohio
+state_abbrev: OH
+longitude: -83.13798799999999
+latitude: 40.0318987
+city_longitude: -83.1582451
+city_latitude: 40.0333961
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

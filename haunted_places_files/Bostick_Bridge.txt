@@ -1,0 +1,21 @@
+city: Fort Wayne
+country: United States
+description: Heading South on U.S 27 right after the 469 overpass there will be a little road on the right. go down this road and it will be the big steel bridge.
+location: Bostick Bridge
+state: Indiana
+state_abbrev: IN
+longitude: -85.0941106
+latitude: 40.9792212
+city_longitude: -85.1393513
+city_latitude: 41.079273
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1970/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

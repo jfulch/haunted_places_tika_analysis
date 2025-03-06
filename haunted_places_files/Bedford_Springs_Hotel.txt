@@ -1,0 +1,21 @@
+city: Bedford
+country: United States
+description: on taking photographs of this historic site, various forms of ghostly images appear throughout the hotel.
+location: Bedford Springs Hotel
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.50763599999999
+latitude: 39.996444
+city_longitude: -78.50390689999999
+city_latitude: 40.0186921
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

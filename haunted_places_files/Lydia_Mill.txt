@@ -1,0 +1,20 @@
+city: Clinton
+country: United States
+description: There is a ghost of a headless woman that haunts Lydia Mill and the area surrounding it. She has been seen roaming around the railroad tracks behind the mill, and sometimes in the mill itself.
+location: Lydia Mill
+state: South Carolina
+state_abbrev: SC
+longitude: -81.90024770000001
+latitude: 34.4603966
+city_longitude: -81.88065619999999
+city_latitude: 34.4726276
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

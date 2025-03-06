@@ -1,0 +1,21 @@
+city: Galveston
+country: United States
+description: is a long way it is lonely in front  of the mansion there is a trailer only the only thing you see when you go in is an old big picture of a man from the 90's and a pianos a 2 store house witnesses report hearing the piano playing by it self, kids screaming for "help" and the somebody was hitting the doors.
+location: Stewart's mansion
+state: Texas
+state_abbrev: TX
+longitude: -94.9493095
+latitude: 29.2072795
+city_longitude: -94.7976958
+city_latitude: 29.3013479
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1770/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

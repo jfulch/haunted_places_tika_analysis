@@ -1,0 +1,21 @@
+city: Ottumwa
+country: United States
+description: When you walk through it at night you'll see on some tomb stones dark figures sitting on them. And you will see some dark figures run behind trees but if u go check it out there is nothing there. and sometimes if you walk on the grass n look down u might see a white cat run in circles around your feet and disappear. you might hear whispering in your ears as well and footsteps in the grass.
+location: North Court Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -92.4054339
+latitude: 41.0351793
+city_longitude: -92.4083022
+city_latitude: 41.01602930000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

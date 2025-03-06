@@ -1,0 +1,21 @@
+city: St. Petersburg
+country: United States
+description: A Major league ball player stated that he was visited at night by a spirit that; While asleep in his room, someone pressed on his back and awakened him. At which time he looked at a man in a top hat and long coat standing beside his bed. When he refocused his vision, the man was still there. He rolled over to turn on the over head light, and when he turned around, the man was gone. He stated this actually happened and has several major league ballplayers say the same thing happened to them while staying at the Vinoy hotel.
+location: Vinoy Hotel
+state: Florida
+state_abbrev: FL
+longitude: -82.6301077
+latitude: 27.7779773
+city_longitude: -82.6267345
+city_latitude: 27.7518284
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

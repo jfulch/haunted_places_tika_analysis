@@ -1,0 +1,21 @@
+city: Columbus
+country: United States
+description: This school has existed for over a hundred years and is believed to be haunted by several spirits. A nun, a small boy, and a former student are said to roam the halls of this educational institution. To add to the story, there are tunnels under the school that ghost hunters were brought in to investigate in 1980. Several presences were found. There have even been accounts of teachers quitting because of the disturbances.
+location: Scotus Central Catholic High School
+state: Nebraska
+state_abbrev: NE
+longitude: -97.3500522
+latitude: 41.4317531
+city_longitude: -97.3593904
+city_latitude: 41.43029730000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1980/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

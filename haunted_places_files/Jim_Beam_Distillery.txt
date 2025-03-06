@@ -1,0 +1,21 @@
+city: Clermont
+country: United States
+description: Several years ago there was an old man worked as a guard at the whiskey distillery in Clermont, KY. The guard was old and possibly out of his mind. One of his favorite things to do was to holler at the moon when it was full on his work shift. Some of the guards say that on a night with full moon, they can sometimes hear him screaming when they are on their patrol rounds.
+location: Jim Beam Distillery
+state: Kentucky
+state_abbrev: KY
+longitude: -85.65246909999999
+latitude: 37.9311434
+city_longitude: -85.65273549999999
+city_latitude: 37.9297858
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

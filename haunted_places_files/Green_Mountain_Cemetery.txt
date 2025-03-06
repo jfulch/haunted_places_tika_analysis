@@ -1,0 +1,21 @@
+city: Montpelier
+country: United States
+description: Rumor has it that the grave marked by a green statue of a weeping lady is haunted.
+location: Green Mountain Cemetery
+state: Vermont
+state_abbrev: VT
+longitude: -72.5970768
+latitude: 44.25781
+city_longitude: -72.5753869
+city_latitude: 44.26005929999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

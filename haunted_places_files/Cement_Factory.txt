@@ -1,0 +1,20 @@
+city: Ironton
+country: United States
+description: In the 1970's the wall of the basement of the cement factory broke and flooding killing several people. Ever since then the place has been closed for business. Several people have clamed to hear and see the ghost of these people, many of who's bodies were never recovered. This is only about a quarter of a mile from Woodland Cemetery.
+location: Cement Factory
+state: Ohio
+state_abbrev: OH
+longitude: -82.6491633
+latitude: 38.5158047
+city_longitude: -82.6829406
+city_latitude: 38.5367471
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/02/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.7
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

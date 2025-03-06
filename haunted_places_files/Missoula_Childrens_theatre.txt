@@ -1,0 +1,21 @@
+city: Missoula
+country: United States
+description: Is haunted by a poltergeist named George. If he likes the production, he will prompt the actors. If he does not like it, he throws the storyboards.
+location: Missoula Children's theatre
+state: Montana
+state_abbrev: MT
+longitude: -113.9895298
+latitude: 46.8703707
+city_longitude: -113.996586
+city_latitude: 46.87871759999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 18m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

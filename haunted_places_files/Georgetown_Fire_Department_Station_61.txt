@@ -1,0 +1,21 @@
+city: Georgetown
+country: United States
+description: A man from the Mining Days of Georgetown was captured on digital camera, standing near the historic Fire Department building. He smiled happily and pointed at the map on the buildings side while volunteer fire fighters practiced ladder drills.
+location: Georgetown Fire Department Station 61
+state: California
+state_abbrev: CA
+longitude: -120.8391029
+latitude: 38.906763
+city_longitude: -120.8385462
+city_latitude: 38.9068445
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

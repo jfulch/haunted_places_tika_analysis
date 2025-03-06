@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: In the costume room: shadowy figures. Boy's Bathroom: shadowy figures in mirrar
+location: The Old Utah Theater
+state: Utah
+state_abbrev: UT
+longitude: -111.8921411
+latitude: 40.7659475
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

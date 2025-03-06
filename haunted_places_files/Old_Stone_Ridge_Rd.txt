@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: If you drive down this street at night with your lights off en route to the old children's cemetery, strange things happen. Once, the locks on the doors of our car went up and down. And they weren't automatic locks. Supposedly, the Donkey Lady is responsible for the hauntings. Killed and badly mangled in an auto wreck when some friends of hers were driving down the road one night with no lights on, she haunts the woods around the area and protects the souls of the small children buried in the cemetery.
+location: Old Stone Ridge Rd
+state: Texas
+state_abbrev: TX
+longitude: -97.7660627
+latitude: 30.2070177
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

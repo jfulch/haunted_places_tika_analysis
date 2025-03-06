@@ -1,0 +1,21 @@
+city: Champaign
+country: United States
+description: cold spots, lights turning off and on by themselves, feelings of being watched, balls rolling down stairs by themselves, strange noises, shadows moving. doors on third floor opening and closing by themselves.
+location: Church St. YMCA
+state: Illinois
+state_abbrev: IL
+longitude: -88.25087719999999
+latitude: 40.1188452
+city_longitude: -88.2433829
+city_latitude: 40.1164204
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

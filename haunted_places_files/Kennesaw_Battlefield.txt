@@ -1,0 +1,21 @@
+city: Kennesaw
+country: United States
+description: You have to park around a mile away, and walk down in the edge of the woods, due to heavy police patrol. Upon reaching the field, deer appear and run at you, only to vanish. Fog rolls through the field. Drums are heard clearly in the distance. Red eyes begin to pop up all over the place. As you reach the main trail, the eyes become more frequent and brighter. You begin to hear running footsteps and gunfire. The smell of blood and gun smoke seems to come in with the fog, as it thickens all around you. Visions of shadowy figures, with Confederate caps and bayonet's jump behind trees have been reported. As you leave, it is much darker than before, you can barely see to run through the field, and back to you car. The fog, noises, and smells follow you. A wagon or shed type structure appears in the woods, it was not there before. It is very detailed, and is quite real to the touch. But when you look away, and look back, it is gone.
+location: Kennesaw Battlefield
+state: Georgia
+state_abbrev: GA
+longitude: -84.5779283
+latitude: 33.9830727
+city_longitude: -84.6154897
+city_latitude: 34.0234337
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

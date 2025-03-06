@@ -1,0 +1,21 @@
+city: Ringtown
+country: United States
+description: The 4th, 5th, and 6th grade doors open. Things get thrown by invisible hands and reports of red glowing eyes in the basement.
+location: Ringtown Elementary School
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.2321625
+latitude: 40.8600874
+city_longitude: -76.2296624
+city_latitude: 40.8586985
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Little Rock
+country: United States
+description: Legend says that if you go down this road, you will see a motorcycle headed your way. All you can see is the headlight, but you can hear the sound of a motorcycle. The light will approach rapidly, then quickly disappear. The driver is believed to be a young man who was hit by a carload of drunk drivers and left to die. People claim he is back, seeking revenge.
+location: Woodson Ladural Road
+state: Arkansas
+state_abbrev: AR
+longitude: -92.2173902
+latitude: 34.5384811
+city_longitude: -92.2895948
+city_latitude: 34.7464809
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

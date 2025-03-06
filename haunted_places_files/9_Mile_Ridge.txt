@@ -1,0 +1,17 @@
+city: Saddle Community
+country: United States
+description: Old timers tell of a haunting on 9 Mile Ridge Road. They say at certain times, if you are out there at night, you will see a man walking with a lantern. Some say it is unknown who he is. Others tell that it is a man who searched and hoped for his son to return from the Civil War, and watches over the ridge.
+location: 9 Mile Ridge
+state: Arkansas
+state_abbrev: AR
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

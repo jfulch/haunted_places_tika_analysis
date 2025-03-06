@@ -1,0 +1,19 @@
+city: Wellesley
+country: United States
+description: In the Lafayette Lounge objects have been known to move of their own accord. Hotel and restaurant staff have reported mysterious goings on with the small elevator in the lobby, among other happenings elsewhere in the building. Sense of being watched. Sometimes the scent of rosewater perfume can be detected.
+location: Wellesley Inn on the Square, Route 16
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -71.29238769999999
+city_latitude: 42.296797
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1979/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

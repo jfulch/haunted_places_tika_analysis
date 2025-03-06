@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: Varsity Hall -  a stagehand man was apparently smoking a cigarette while taking a break, and accidentally leaned into a huge metal fan, which killed him by cutting him into pieces.
+location: Marquette University
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.9297546
+latitude: 43.0382216
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: Murder
+witness_count: 0

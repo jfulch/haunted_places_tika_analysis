@@ -1,0 +1,21 @@
+city: Westby
+country: United States
+description: Lily Fairchild heard a ghost named Roberto, talk to her. That morning she had found a bottle of cologne sitting on her desk that did not belong to any one she new. That night, Roberto contacted her. He revealed that his parents murdered him because he was seeing a girl his parents detested. He lived in the late 1800's.
+location: Fairchilds house
+state: Wisconsin
+state_abbrev: WI
+longitude: -90.858109
+latitude: 43.653771
+city_longitude: -90.8542977
+city_latitude: 43.6569157
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1542/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

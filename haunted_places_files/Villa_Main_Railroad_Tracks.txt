@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Haunted by the children killed in a 1930's fatal school bus accident. The bus reportedly stalled on the tracks and was consequently hit by a train, killing all in the bus. It is said that if you pull your car onto those tracks, the children will push your car over the tracks to safety. Baby powder placed the bumper of the endangered car is said to show the handprints of the small children.
+location: Villa Main Railroad Tracks
+state: Texas
+state_abbrev: TX
+longitude: -98.4427296
+latitude: 29.3174553
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

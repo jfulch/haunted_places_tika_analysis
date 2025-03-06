@@ -1,0 +1,21 @@
+city: Chester
+country: United States
+description: Cemetery of unknown background, or history. Balls of light, black figures sighted on the trail at night. Reports of black figure chasing walkers on the trail. Orbs found on pictures of the cemetery. Footsteps can be heard from behind, when there is no one there. Bright Lights moving down the trail at nighttime. Sounds of a person whistling. Most happenings occur on the path in the direction toward Monroe. There are also many unexplored trails that go into woods, that branch off from the trail.
+location: Heritage Trail
+state: New York
+state_abbrev: NY
+longitude: -74.2502229
+latitude: 41.36074989999999
+city_longitude: -74.27126129999999
+city_latitude: 41.3625937
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

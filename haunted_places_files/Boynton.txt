@@ -1,0 +1,21 @@
+city: Ringgold
+country: United States
+description: The house that stands here was built in 1918, but a Union Soldier named Captain died on the grounds long before. He haunts the front of the property and the front rooms of the house. If Captain likes occupants of the home, he shows himself by doing parlor tricks. If he dislikes certain visitors however, he frightens them with constant rapping and banging noises. He has even been known to reveal his full form at the person's bedside in early morning hours. Sometimes, he will get in bed with visitors! One of the buttons of his coat was unearthed in the front of the property, along with other objects. Legend states that he is hanging around to await a letter from his sister.
+location: Boynton
+state: Georgia
+state_abbrev: GA
+longitude: -85.16803
+latitude: 34.9237721
+city_longitude: -85.1091173
+city_latitude: 34.9159099
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1918/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: Death
+witness_count: 0

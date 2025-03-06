@@ -1,0 +1,21 @@
+city: Gadsden
+country: United States
+description: There was once a witch who lived on this road, which connects Noccalula Mountain and the Dwight Mill Village. Ghost investigators have taken pictures of orbs on the road.
+location: Hinds Road
+state: Alabama
+state_abbrev: AL
+longitude: -86.03507839999999
+latitude: 34.0439571
+city_longitude: -86.0066386
+city_latitude: 34.014264
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

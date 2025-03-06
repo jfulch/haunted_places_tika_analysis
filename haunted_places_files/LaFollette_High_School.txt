@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: Anyone who has been alone in the areas of the Auditorium and the classrooms behind the auditorium has had a strange feeling of not being alone. There is the feeling that someone, or something is there, watching you. Footsteps can be heard, and when in the auditorium, some have even heard the stage curtains open and close, though nobody was there to open or close them.
+location: LaFollette High School
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.3192031
+latitude: 43.06276889999999
+city_longitude: -89.4012302
+city_latitude: 43.0730517
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1939/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.683333333333334
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

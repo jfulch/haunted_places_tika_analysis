@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: This church with is part of a cloistered convent, is only open to the public during Holy Week. Many visitors have spoken of a kindly older nun dressed in traditional habit of the order. She is usually seen praying at the altar's communion rail and slowly fades away when approached.
+location: Cristo Rey Catholic Church
+state: Texas
+state_abbrev: TX
+longitude: -106.3404465
+latitude: 31.7395798
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.55
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

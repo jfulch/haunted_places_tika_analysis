@@ -1,0 +1,21 @@
+city: Rockport
+country: United States
+description: This is a Bed and Breakfast over a hundred years old. One of the owner's wives died in the Inn and is said to haunt it and roam the halls. A ghost of a lady has been seen and heard for many years and by many of the owners and guests.
+location: The Rockport Inn
+state: Indiana
+state_abbrev: IN
+longitude: -87.0475027
+latitude: 37.8822296
+city_longitude: -87.0494408
+city_latitude: 37.8831055
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

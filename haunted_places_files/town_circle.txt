@@ -1,0 +1,19 @@
+city: Angola
+country: United States
+description: May 2008 - Has been removed.
+location: town circle
+state: Indiana
+state_abbrev: IN
+city_longitude: -84.9994088
+city_latitude: 41.6347726
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

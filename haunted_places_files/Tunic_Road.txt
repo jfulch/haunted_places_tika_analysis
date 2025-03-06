@@ -1,0 +1,21 @@
+city: Shaftsbury
+country: United States
+description: This Road is known by many to be haunted. Some have claimed to see ghost soldiers. Pictures of orbs on this road.
+location: Tunic Road
+state: Vermont
+state_abbrev: VT
+longitude: -73.1971428
+latitude: 42.9827045
+city_longitude: -73.19550939999999
+city_latitude: 43.0036753
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1996/07/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

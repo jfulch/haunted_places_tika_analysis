@@ -1,0 +1,21 @@
+city: Hialeah
+country: United States
+description: In Hialeah Miami lakes High school's little theater (place were drama students have class) their has been sightings of a ghost nick named Fred, some times music can be heard, and light tend to turn on and off.
+location: Hialeah-Miami Lakes High School
+state: Florida
+state_abbrev: FL
+longitude: -80.3066324
+latitude: 25.8950887
+city_longitude: -80.2781057
+city_latitude: 25.8575963
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1925/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

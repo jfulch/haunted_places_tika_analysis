@@ -1,0 +1,21 @@
+city: Lodi
+country: United States
+description: Sound of Children playing. The story is that these children died by and outbreak of TB in the 1800's.
+location: Butchers Hill
+state: New York
+state_abbrev: NY
+longitude: -76.7888428
+latitude: 42.561738
+city_longitude: -76.8490328
+city_latitude: 42.5893626
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

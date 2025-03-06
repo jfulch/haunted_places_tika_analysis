@@ -1,0 +1,21 @@
+city: Rocklin
+country: United States
+description: Finn Hall is a playhouse and the ghosts of old play writers about 20 yrs. old still haunt the halls today.
+location: Finn Hall
+state: California
+state_abbrev: CA
+longitude: -121.2325792
+latitude: 38.7889026
+city_longitude: -121.2357828
+city_latitude: 38.7907339
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1991/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

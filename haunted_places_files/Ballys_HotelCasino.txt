@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: It used to be the old MGM which burned down (with people in it) and Bally's bought the property. (The new MGM is located further south.)
+location: Bally's Hotel/Casino
+state: Nevada
+state_abbrev: NV
+longitude: -115.170627
+latitude: 36.1140611
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2019/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Racine
+country: United States
+description: Specifically in the store (front east) that was once "Planet Video" and is now "Eye on Video". Along the back store wall at times you will feel and eerie sensation, the doorway which leads to the office will often feel breezy and cold, and late at night or early in the morning, employees opening/closing the store have reported seeing a black shadowy figure along that back wall. Office doors will close and movies will fall off of the shelf.
+location: Elmwood Plaza
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.8227307
+latitude: 42.6958098
+city_longitude: -87.78285230000002
+city_latitude: 42.7261309
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

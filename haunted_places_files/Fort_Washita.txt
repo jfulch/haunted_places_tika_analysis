@@ -1,0 +1,21 @@
+city: Durant
+country: United States
+description: haunted by many ghosts of Civil War, most famous is a lady named "Aunt Jane", A lady that was killed by decapitation in the Civil War. She wanders the grounds with her head under her arm.
+location: Fort Washita
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.5470147
+latitude: 34.1024837
+city_longitude: -96.3971233
+city_latitude: 33.9924186
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1860/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

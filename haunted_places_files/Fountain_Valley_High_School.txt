@@ -1,0 +1,21 @@
+city: Fountain Valley
+country: United States
+description: Sometimes at night in the 100 building. Screams of children are heard. Also, some days when opening the doors, the janitors find lockers open and all the students belongings on the ground. 5 teachers have left the school since the poltergeist. Many students have seen apparitions of mutilated dead students in the bathrooms.
+location: Fountain Valley High School
+state: California
+state_abbrev: CA
+longitude: -117.9621913
+latitude: 33.70439
+city_longitude: -117.9544069
+city_latitude: 33.7090212
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

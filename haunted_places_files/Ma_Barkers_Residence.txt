@@ -1,0 +1,21 @@
+city: Ocklawaha
+country: United States
+description: The home of Ma Barker and her sons at the time of their fatal shoot-out with the FBI and local police. It's located in the town of Ocklawaha on Lake Weir. It's said that you can sometimes see Ma Barker on the premises'. It is reported that the house is in original condition and still has the bullet holes as a result of the shoot-out and hasn't been changed.
+location: Ma Barker's Residence
+state: Florida
+state_abbrev: FL
+longitude: -81.92788519999999
+latitude: 29.0435619
+city_longitude: -81.9292505
+city_latitude: 29.0427592
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

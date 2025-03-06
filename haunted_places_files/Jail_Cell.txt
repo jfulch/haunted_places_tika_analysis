@@ -1,0 +1,21 @@
+city: Galesburg
+country: United States
+description: The old Knox County Jawas purchased by Knox College in the 70's, and it is located on the college campus. The front half of the building was renovated and is used for offices and classrooms, but the back half (the cell area) remains untouched and hasn't changed since it was built in the late 1800's. When the jawas still active, an inmate supposedly escaped, ran across the college campus, but was caught and placed back in his cell. He later committed suicide inside the cell on the second level, the second one from the stairs.
+location: Jail Cell
+state: Illinois
+state_abbrev: IL
+longitude: -90.3675132
+latitude: 40.94573159999999
+city_longitude: -90.3712395
+city_latitude: 40.94781580000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

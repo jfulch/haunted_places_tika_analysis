@@ -1,0 +1,21 @@
+city: Arcadia
+country: United States
+description: (on second and Duarte) Men's restroom said to be haunted by an elderly man wearing a yellow sweater says a few witnesses on web. Many have seen him walk in the bathroom but haven't actually seen him in there.
+location: Taco Lita
+state: California
+state_abbrev: CA
+longitude: -118.0270954
+latitude: 34.129969
+city_longitude: -118.0353449
+city_latitude: 34.1397292
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/06/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

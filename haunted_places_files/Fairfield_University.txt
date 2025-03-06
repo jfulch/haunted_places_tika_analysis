@@ -1,0 +1,20 @@
+city: Fairfield
+country: United States
+description: PepsiCo Theatre - Theatre Faculty and students will attest to haunting by Minerva Farrell--who was apparently a costume designer whose spirit frequently seems to visit. I've been alone in the PepsiCo, and have heard voices.
+location: Fairfield University
+state: Connecticut
+state_abbrev: CT
+longitude: -73.2573625
+latitude: 41.1587639
+city_longitude: -73.2612615
+city_latitude: 41.1408363
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

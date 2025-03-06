@@ -1,0 +1,19 @@
+city: Bayou La Batre
+country: United States
+description: In the early 1930s and 40s, some members of the KKK in Bayou La Batre hung some local black folks for reasons unknown. To this day, ones who were hung come back on certain nights. When you stop your car under the noose, turn off the vehicle and lights, and wait, you can hear scratches on top of the car and it will also shake. Also, you will hear screaming and sometimes laughter.
+location: Gwodz Rd.
+state: Alabama
+state_abbrev: AL
+city_longitude: -88.26071879999999
+city_latitude: 30.4069515
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1786/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

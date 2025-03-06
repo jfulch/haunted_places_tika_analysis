@@ -1,0 +1,21 @@
+city: Honolulu
+country: United States
+description: It is said that the "green room" in the school auditorium is haunted. During World WarII that auditorium was supposedly used as a morgue. Many folks, of several generations, say that the whole school is very haunted. The school also has had a very bad reputation for many generations as well. In the past, it was considered by many to be one of the worst schools. In the late 80's, some people have heard type-writers in one of the then type-writing classrooms and have seen the silhouette of a white figure in the window above one of the doors to this classroom.
+location: Farrington High School
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8722547
+latitude: 21.3306993
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Partial Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

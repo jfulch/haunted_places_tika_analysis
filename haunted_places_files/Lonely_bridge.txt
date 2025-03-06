@@ -1,0 +1,20 @@
+city: Westminster
+country: United States
+description: Many reports of a lady diving onto cars as they cross and then disappearing before the car can stop. Many say that the woman is screaming for them to help her find her child. Others say it is the ghost of a woman that drowned in the creek below while swimming. The bridge is beside an old saw mill, maybe thats where she died. But it is a fact that a woman did drown in the water in the late 50's.
+location: Lonely bridge
+state: South Carolina
+state_abbrev: SC
+longitude: -83.1596002
+latitude: 34.6512083
+city_longitude: -83.0965425
+city_latitude: 34.6648197
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

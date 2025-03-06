@@ -1,0 +1,21 @@
+city: Fire Island
+country: United States
+description: The caretaker of this lighthouse hanged himself long before it was rebuilt. Doors shut, which require two people to close due to weight and doors open, which require three individuals. People have even reported strange laughing and knocking when no one is there. The top windows are also known to rise by themselves, which normally require a tool to reach. People experience chills throughout the lighthouse and human skulls seem to turn up on the beach with various other bones.
+location: Fire Island Lighthouse
+state: New York
+state_abbrev: NY
+longitude: -73.21861609999999
+latitude: 40.6321812
+city_longitude: -73.1459474
+city_latitude: 40.64759970000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

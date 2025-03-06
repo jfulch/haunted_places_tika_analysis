@@ -1,0 +1,21 @@
+city: Kingsport
+country: United States
+description: Hugh Hamblen was killed on Netherland Inn Road in 1922, run down by a car. He had been visiting his son, who had also been in a car accident, in the hospital. On foggy nights, Hamblen stands in the road in a trench coat with outstretched hands warning oncoming cars of the fog. Over 120 people have reported seeing him.
+location: Netherland Inn Road
+state: Tennessee
+state_abbrev: TN
+longitude: -82.6003678
+latitude: 36.5520812
+city_longitude: -82.5618186
+city_latitude: 36.548434
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1922/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

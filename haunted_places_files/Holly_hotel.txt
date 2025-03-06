@@ -1,0 +1,21 @@
+city: Holly
+country: United States
+description: various happenings. ghosts of people, guests, things that go bump in the night.
+location: Holly hotel
+state: Michigan
+state_abbrev: MI
+longitude: -83.6266686
+latitude: 42.7907892
+city_longitude: -83.6277255
+city_latitude: 42.7919727
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

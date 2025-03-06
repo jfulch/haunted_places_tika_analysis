@@ -1,0 +1,21 @@
+city: Elk Grove
+country: United States
+description: There are sightings of a woman dressed in white walking the streets but when you turn back to look at her face, you see nothing but darkness or no face at all. People have said that she is seen walking up to the railroad tracks then disappearing.
+location: Old Downtown Elk Grove Blvd
+state: California
+state_abbrev: CA
+longitude: -121.3626613
+latitude: 38.4088351
+city_longitude: -121.3716178
+city_latitude: 38.4087993
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

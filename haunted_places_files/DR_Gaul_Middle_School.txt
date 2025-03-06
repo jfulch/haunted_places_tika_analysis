@@ -1,0 +1,21 @@
+city: Union
+country: United States
+description: many pictures taken not all at once, but mysterious orbs showed up in many. Ghost reportedly named "sid", an old janitor at the school.
+location: D.R. Gaul Middle School
+state: Maine
+state_abbrev: ME
+longitude: -69.2518846
+latitude: 44.2111512
+city_longitude: -69.293927
+city_latitude: 44.2296917
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

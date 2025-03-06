@@ -1,0 +1,21 @@
+city: Tilden Township
+country: United States
+description: A heavy mist appears across the canal and starts to form in the shape of a young woman, This can be seen on a Midnight drive only when the moon is full, On a semi warm night.
+location: Five Locks.
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.9860449
+latitude: 40.5262043
+city_longitude: -76.02758589999999
+city_latitude: 40.539306
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

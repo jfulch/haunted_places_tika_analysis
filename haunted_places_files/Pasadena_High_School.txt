@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: It is said that a janitor who was fixing the light in the catwalk fell to his death in auditorium. He fell in about the 6th row and if you sit there during a production or in the sound room you will get chills. If you walk up the stairs to the sound room there is a door to the roof and sometimes you can hear it slam. Also there is a girl their who hung herself because she did not get the lead role in a play and she is said to play tricks on the students putting on a production.
+location: Pasadena High School
+state: Texas
+state_abbrev: TX
+longitude: -95.2128409
+latitude: 29.7097429
+city_longitude: -95.2091006
+city_latitude: 29.6910625
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.466666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

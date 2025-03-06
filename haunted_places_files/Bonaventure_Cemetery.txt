@@ -1,0 +1,21 @@
+city: Savannah
+country: United States
+description: Several ghosts are believed to haunt this old cemetery, including the ghost of a small girl named Gracie Watkins who is buried there. At times she cries in the night, and the life-sized statue of her cries tears of blood if you take something out of its hands. People who visit the cemetery often place presents in her hands such as money, trinkets, etc. There is also a pack of ghost dogs that haunt the grounds. No one has actually seen them, but they run after you and you can hear them barking and breathing.
+location: Bonaventure Cemetery
+state: Georgia
+state_abbrev: GA
+longitude: -81.0466575
+latitude: 32.0444235
+city_longitude: -81.09983419999999
+city_latitude: 32.0835407
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

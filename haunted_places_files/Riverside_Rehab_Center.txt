@@ -1,0 +1,21 @@
+city: Manteno
+country: United States
+description: A long time ago this building use to be a morgue. On the top floor in the nursery, a crazed nurse hanged her self in the shower by the shower head. For many years to this day that tub has been boarded off. Late at night, there has been ghostly reports of a young women's face in the top window. Also, workers have herd strange noises at 12:00 in the morning.
+location: Riverside Rehab Center
+state: Illinois
+state_abbrev: IL
+longitude: -87.84170139999999
+latitude: 41.25075890000001
+city_longitude: -87.8314324
+city_latitude: 41.2505881
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

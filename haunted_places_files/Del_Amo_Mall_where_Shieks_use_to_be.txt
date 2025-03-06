@@ -1,0 +1,21 @@
+city: Torrance
+country: United States
+description: Now a skateboard shop - NEXT TO "WINSOR'S" - cold spots, feelings of being watched feeling breath on your neck, and reports of a male apparition.
+location: Del Amo Mall (where Shieks use to be)
+state: California
+state_abbrev: CA
+longitude: -118.3491236
+latitude: 33.8286348
+city_longitude: -118.3406288
+city_latitude: 33.8358492
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

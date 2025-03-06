@@ -1,0 +1,21 @@
+city: San Angelo
+country: United States
+description: In one of the closets of the old Luby's restaurant, you can hear two little kids playing and talking.
+location: Sun Set Mall
+state: Texas
+state_abbrev: TX
+longitude: -100.4989761
+latitude: 31.4276905
+city_longitude: -100.4370375
+city_latitude: 31.4637723
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1854/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

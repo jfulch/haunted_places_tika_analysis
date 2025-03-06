@@ -1,0 +1,19 @@
+city: Kingston
+country: United States
+description: An old women is seen in the front of the estate late at night holding a book.
+location: Blaber Mansion
+state: New York
+state_abbrev: NY
+city_longitude: -73.9973608
+city_latitude: 41.9270367
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

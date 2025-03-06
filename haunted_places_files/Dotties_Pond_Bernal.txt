@@ -1,0 +1,21 @@
+city: San Jose
+country: United States
+description: A little girl went to a party she got mad at her parents. She hung her parents in the barn. She then drowned herself in the pond so they could be together in heaven. Some people say that at night they can hear her scream for help because she didn't really want to die.
+location: Dotties Pond / Bernal
+state: California
+state_abbrev: CA
+longitude: -121.798271
+latitude: 37.22632910000001
+city_longitude: -121.8863286
+city_latitude: 37.3382082
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

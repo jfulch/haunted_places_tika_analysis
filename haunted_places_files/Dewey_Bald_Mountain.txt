@@ -1,0 +1,20 @@
+city: Branson
+country: United States
+description: In the mid-90's a plane crashed on the north face of the mountain. People have seen hitchhikers near the site of the crash asking for rides to the airport where the plane was scheduled to land.
+location: Dewey Bald Mountain
+state: Missouri
+state_abbrev: MO
+longitude: -93.2960164
+latitude: 36.6550619
+city_longitude: -93.2185144
+city_latitude: 36.6436731
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Accident
+witness_count: 1

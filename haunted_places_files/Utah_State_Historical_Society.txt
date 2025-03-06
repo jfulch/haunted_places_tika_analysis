@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: the lady in the purple dress has been seen here with many other ghosts.
+location: Utah State Historical Society
+state: Utah
+state_abbrev: UT
+longitude: -111.9044271
+latitude: 40.7628786
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1918/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

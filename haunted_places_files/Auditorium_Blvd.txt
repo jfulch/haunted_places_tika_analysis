@@ -1,0 +1,21 @@
+city: Daytona Beach
+country: United States
+description: near Ocean Center & Pinewood Cemetery - Several pictures have been taken in the area. One is at a house on Hollywood of a woman. Another is of a man seen standing near a fence on Auditorium. There used to be houses there until the 1970's, and his girlfriend murdered a man while she collected his checks.
+location: Auditorium Blvd
+state: Florida
+state_abbrev: FL
+longitude: -81.01177899999999
+latitude: 29.2272529
+city_longitude: -81.0228331
+city_latitude: 29.2108147
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1985/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

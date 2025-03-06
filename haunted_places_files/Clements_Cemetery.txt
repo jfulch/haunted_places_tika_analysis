@@ -1,0 +1,21 @@
+city: Urbana
+country: United States
+description: Formerly listed as Woodlawn Cemetery- Legend states that the road beside Woodlawn Cemetery is haunted by a ghost that locals call "The Blue Man." Witnesses have seen him walking the road, swinging a lantern from side to side. Most of the sightings seem to occur at twilight.
+location: Clements Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.16246989999999
+latitude: 40.1447615
+city_longitude: -88.2072697
+city_latitude: 40.1105875
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1863/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 26m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

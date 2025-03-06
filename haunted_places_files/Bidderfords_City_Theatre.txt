@@ -1,0 +1,21 @@
+city: Biddeford
+country: United States
+description: Seeing eye's peering down on you from ceiling the. Unexplained noises, voices. Lights flashing on and off. The face above stage eye's seem to open and shut or move.
+location: Bidderford's City Theatre
+state: Maine
+state_abbrev: ME
+longitude: -70.4564645
+latitude: 43.4933682
+city_longitude: -70.45338439999999
+city_latitude: 43.4925843
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1938/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Wapakoneta
+country: United States
+description: In 1966 there was supposedly a family that farmed and lived in a 5 room farmhouse. Times were getting tough and the family was tight pressed for money, rumor has it that the family kept getting poorer and poorer and they all got sick and died except the father. After his family left he grew depressed and eventually committed suicide. It is said that his soul got trapped in the "in-between" world and stays at his old house. People claim that sometimes they see a light on upstairs in the house that had been abandoned 30 years ago. If you dare drive by and look for his light.
+location: Kohler Rd.
+state: Ohio
+state_abbrev: OH
+longitude: -84.2502511
+latitude: 40.558404
+city_longitude: -84.1935594
+city_latitude: 40.5678265
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1966/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

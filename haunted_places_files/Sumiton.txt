@@ -1,0 +1,21 @@
+city: Walker
+country: United States
+description: Sumiton Elementary Middle School - There is a man that died there who worked in the boiler room. He has been seen there, wondering the school several times a day.
+location: Sumiton
+state: Alabama
+state_abbrev: AL
+longitude: -87.04999920000002
+latitude: 33.7556606
+city_longitude: -87.30161319999999
+city_latitude: 33.8563605
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1975/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 1

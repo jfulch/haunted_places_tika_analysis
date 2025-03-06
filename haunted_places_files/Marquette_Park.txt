@@ -1,0 +1,21 @@
+city: Mackinac Island
+country: United States
+description: Any area of the island that had enough soil as at one time used as a cemetery. When soldiers built a garden in what is now Marquette park they unearthed over 1000 sets of remains. The entire town is haunted.
+location: Marquette Park
+state: Michigan
+state_abbrev: MI
+longitude: -84.6167072
+latitude: 45.8509853
+city_longitude: -84.6189339
+city_latitude: 45.8491796
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

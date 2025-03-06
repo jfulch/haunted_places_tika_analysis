@@ -1,0 +1,20 @@
+city: Manchester
+country: United States
+description: In the woods many sightings of apparitions and orbs. The Legend has it that one man who was drunk drove his truck into the woods and died. Many people claim to have seen the driver lying helplessly in the truck. Also no one you can see around the woods in different sections has moved the truck door. The truck is still in the woods not being moved next to the bike jumps. Also two motorcyclists have also crashed in these woods and one man and one woman have been seen scurrying around the area. Witnesses have reported hearing ear-shattering screams. One witness reports," I woke up from a scream that I heard from a woman and after that I moved away and never went back to the house or in the woods."
+location: Woods on Chalmers Street
+state: Connecticut
+state_abbrev: CT
+longitude: -72.5479603
+latitude: 41.7656928
+city_longitude: -72.52150089999999
+city_latitude: 41.7759301
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

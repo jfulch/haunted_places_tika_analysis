@@ -1,0 +1,21 @@
+city: Vienna
+country: United States
+description: After shutting off lights in the bar for the evening many waitresses have witnessed the sightings of several ghostly figures standing on the landing between the upper and lower levels of the bar. On several occasions in the upper part of the bar the area of the South West corner appears to fill with a smokey atmosphere ... on further examination of this area you will find as you enter this area it is rather chilly and will experience a slight "touching" of someone's hand upon your face.
+location: Spot Bar
+state: Michigan
+state_abbrev: MI
+longitude: -84.3704987
+latitude: 44.9703287
+city_longitude: -83.47798929999999
+city_latitude: 41.7869911
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

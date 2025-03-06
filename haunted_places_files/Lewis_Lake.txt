@@ -1,0 +1,21 @@
+city: Uniondale
+country: United States
+description: A long time ago, a young Native American and her white lover were in a fight, and, in a jealous rage, her boyfriend murdered her. At the dam, there is a fallen tree in the woods that overlooks the falls, and if you are out there late at night, you will see her sitting on the log, crying. Her boyfriend suddenly rushes her, and shoves her off, before they both vanish into thin air. On many nights, this happens on a continuous loop.
+location: Lewis Lake
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.51135169999999
+latitude: 41.7247512
+city_longitude: -75.4921284
+city_latitude: 41.7167495
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1871/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

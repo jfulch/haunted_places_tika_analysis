@@ -1,0 +1,21 @@
+city: McAllen
+country: United States
+description: Four years ago a young boy was climbing the ladder to get to the loft. When he got to the very top he fell and was killed instantly by having his neck broken. Every once in a while during night crew u can here a young boy laughing and running around in the loft. Lights sometimes turn off and on and certain locked doors will open but remain locked.
+location: Toys R Us
+state: Texas
+state_abbrev: TX
+longitude: -98.2345106
+latitude: 26.1879881
+city_longitude: -98.2300124
+city_latitude: 26.2034071
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Stratford
+country: United States
+description: In the middle of three miles of woods, is a cemetery that is over 150 years old. It was once the ancient burial ground of the local Indian tribe. When the settlers came, they dug the Indians' graves and placed them in five mounds throughout the hilltop. In retaliation, the Indians killed a white woman names Mrs. Henry Lott. She was the first white woman killed in Webster County. She was buried there. Over fifty small children are buried there along with many soldiers. If you go there at night, you can hear children laughing and the sound of Indians. If you roll down the hill three times, you will see the stairway to heaven. Also, legend has it if you desecrate and Indian mound, you will be cursed. I have known two men to have done so, and they were involved in serious car accidents within a week of visiting the cemetery. An interesting link is Spirit Lake Massacre of 1857, not sure of the validity of the story in the link, though. There is a large monument to her there, presumably above her grave.
+location: Vegor's Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -93.9428974
+latitude: 42.3173261
+city_longitude: -93.9271721
+city_latitude: 42.27136549999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

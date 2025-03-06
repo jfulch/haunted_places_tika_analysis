@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: There has been reports of a dark shadowy figure with no eyes. Lights being shut off and on. Sounds of running water when no one is in the building.
+location: Old Well's Fargo Bank
+state: Washington
+state_abbrev: WA
+longitude: -122.3812232
+latitude: 47.6684779
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

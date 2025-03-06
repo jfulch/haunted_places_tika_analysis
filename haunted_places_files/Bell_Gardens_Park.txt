@@ -1,0 +1,21 @@
+city: Bell Gardens
+country: United States
+description: In 1972 their was a men with a little girl at 12 at night and the guy kill her and took her head out and he dig a hole by the baseball field and he put it their.She actually described the location were the bodies were to be found and mentioned that there was something wrong with one of the victims left foot, after locating the bodies in a shallow grave it was found that one of the boys feet had been partially eaten by coyotes.
+location: Bell Gardens Park
+state: California
+state_abbrev: CA
+longitude: -118.1461143
+latitude: 33.9677298
+city_longitude: -118.1514588
+city_latitude: 33.9652918
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

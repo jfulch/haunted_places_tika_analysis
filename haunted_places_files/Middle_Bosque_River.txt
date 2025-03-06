@@ -1,0 +1,21 @@
+city: Valley Mills
+country: United States
+description: A witness reports, " while on the top of this bluff I have felt like I was being watch ,or like someone was behind me. There seems to be such a strong presence there."
+location: Middle Bosque River
+state: Texas
+state_abbrev: TX
+longitude: -97.6221994
+latitude: 31.603016
+city_longitude: -97.472238
+city_latitude: 31.6593282
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

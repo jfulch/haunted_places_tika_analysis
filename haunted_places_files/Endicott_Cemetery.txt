@@ -1,0 +1,21 @@
+city: Danvers
+country: United States
+description: Reports of 3 ghosts that walk the cemetery, a woman and 2 boys. Every grave stone in the cemetery is fallen over except for three, Margaret 92s and her 2 sons 91, Jeremy and Alex.
+location: Endicott Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.930453
+latitude: 42.554586
+city_longitude: -70.93212199999999
+city_latitude: 42.5750009
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

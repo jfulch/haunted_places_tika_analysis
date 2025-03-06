@@ -1,0 +1,20 @@
+city: Knox
+country: United States
+description: Union College - Phiefer hall - In room 212 there is said to be a ghost that haunts the dorm. You can hear her run through the halls and slam doors. No on knows why she is here, they think that maybe she died here.
+location: Barbourville
+state: Kentucky
+state_abbrev: KY
+longitude: -83.8888138
+latitude: 36.8664765
+city_longitude: -83.8897057
+city_latitude: 36.9260578
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1795/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

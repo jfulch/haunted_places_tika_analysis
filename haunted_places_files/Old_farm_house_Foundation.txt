@@ -1,0 +1,19 @@
+city: North Lawrence
+country: United States
+description: Cemetery Road and the corner of County Road 52. - It is reported that several spirits haunt the former farm house.(the house has since burned down) It has been reported that there are several gypsies buried in the basement and there spirits haunt the area. A unknown male hung himself in the horse barn (a headless apparition has been seen wondering around) There has been reports of a child in a red snow suit that plays ball in the road.
+location: Old farm house Foundation
+state: New York
+state_abbrev: NY
+city_longitude: -74.6779857
+city_latitude: 44.8046931
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2024/04/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

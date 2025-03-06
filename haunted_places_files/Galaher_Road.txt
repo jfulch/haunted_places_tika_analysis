@@ -1,0 +1,21 @@
+city: Oak Ridge
+country: United States
+description: George Jones Missionary Church - It has been told that several people were murdered within a 2 mile radius, and if you go there in the dark, you will not be alone. there has been a lot of unexplained activity there and it followed visitors home, be careful about what you do here, bad things has been known to happen to passerbys.
+location: Galaher Road
+state: Tennessee
+state_abbrev: TN
+longitude: -84.41635819999999
+latitude: 35.8909417
+city_longitude: -84.26964490000002
+city_latitude: 36.0103561
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1827/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

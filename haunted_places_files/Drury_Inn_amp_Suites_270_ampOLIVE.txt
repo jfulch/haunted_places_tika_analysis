@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: A housekeeper on the 5th floor reports: sightings of people walking down the hall but when you get close enough to touch they disappear. Others report hearing the elevator door ding, a presence, voices and footsteps walking towards them, when no one is there.
+location: Drury Inn &amp; Suites 270 &amp;OLIVE
+state: Missouri
+state_abbrev: MO
+longitude: -94.477961
+latitude: 37.0503045
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

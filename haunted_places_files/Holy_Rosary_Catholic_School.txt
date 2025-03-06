@@ -1,0 +1,20 @@
+city: Kenosha
+country: United States
+description: During the night, there are noises in the pipes in all the bathrooms, hot and cold spots, wierd smells down by the cafeteria that are on and off, a hearing of footsteps has been heard late at night by janitors, and in the Computer Lab/Library books have been tossed across the room laying everywhere.
+location: Holy Rosary Catholic School
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.8363641
+latitude: 42.5954063
+city_longitude: -87.82118539999999
+city_latitude: 42.5847425
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Tecumseh
+country: United States
+description: Community center trails/ woods - local legend is that a 9 yr old girl was kidnapped and murdered in these woods you can see a light floating on the trails and in the entrance you can see a figure of a little girl in a white nightgown holding a teddy bear.
+location: Lenawee County
+state: Michigan
+state_abbrev: MI
+longitude: -83.9449417
+latitude: 42.0039331
+city_longitude: -83.9449417
+city_latitude: 42.0039331
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

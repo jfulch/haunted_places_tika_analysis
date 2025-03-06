@@ -1,0 +1,21 @@
+city: Danvers
+country: United States
+description: The old buildings lay on top of a high hillside. Police monitor surrounding areas. The buildings are bare and empty. Candles are seen through the windows at night. - January 2007 Update - Danvers State Mental Hospital: Most buildings have been demolished for the building of condominiums. Only the main administration building still stands. www.danversstateinsaneasylum.com/buildid.html
+location: Danvers Mental State Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9809822
+latitude: 42.5853611
+city_longitude: -70.93212199999999
+city_latitude: 42.5750009
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

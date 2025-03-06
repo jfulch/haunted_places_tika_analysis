@@ -1,0 +1,21 @@
+city: Evansville
+country: United States
+description: Willard Carpenter, of Willard Library, lends a bit of excitement to the staff and volunteers at WNIN from time to time. Mostly strange noises, things moved when you aren't looking and a sighting or two just out of the corner of the eye.
+location: Carpenter House
+state: Indiana
+state_abbrev: IN
+longitude: -87.57553879999999
+latitude: 37.9750391
+city_longitude: -87.5710898
+city_latitude: 37.9715592
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1881/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

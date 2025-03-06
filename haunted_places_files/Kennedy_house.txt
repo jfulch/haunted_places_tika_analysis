@@ -1,0 +1,19 @@
+city: Perkinsville
+country: United States
+description: its a group home but used to be where the nuns stayed for the church next door. you hear footsteps in the attic, lights flick on and off, the washer turns on by itself when no ones around, people see a white figure that looks like a nun in the back room . everyone in that room has been kicked out of the house cause the ghost drives them crazy.
+location: Kennedy house
+state: New York
+state_abbrev: NY
+city_longitude: -77.62832569999999
+city_latitude: 42.5397896
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1688/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.766666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

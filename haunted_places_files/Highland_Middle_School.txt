@@ -1,0 +1,21 @@
+city: Ogden
+country: United States
+description: Video Production Room - in the video production room there is a ghost her name is Wilma this one day she stayed after school to make a movie and she died of a panic attack because she locked her self in the room and since then she haunts people and many people say if you lock the door and stay in there by your self you can feel her grabbing at your ankles.
+location: Highland Middle School
+state: Utah
+state_abbrev: UT
+longitude: -111.9582441
+latitude: 41.25728429999999
+city_longitude: -111.9738304
+city_latitude: 41.223
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

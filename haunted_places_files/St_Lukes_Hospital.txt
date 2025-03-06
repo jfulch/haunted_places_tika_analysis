@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: Children’s ward is haunted. A patient stayed there and has seen a few strange things. The pen container on the nurses desk will slide to the other side. Children’s bedroom doors will close on by there selves, slamming shut. Late at night there is crying of children and laughing in the play room.
+location: St. Lukes Hospital
+state: Missouri
+state_abbrev: MO
+longitude: -90.5028413
+latitude: 38.6513821
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1911/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: Employees report seeing chairs move without explanation. They also say that they can hear their names called but when asking fellow employees, they find out no one called them. Weird stuff has also happened in the library.
+location: Treasury Department
+state: Texas
+state_abbrev: TX
+longitude: -97.7454124
+latitude: 30.2200455
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

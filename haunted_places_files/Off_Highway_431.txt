@@ -1,0 +1,21 @@
+city: Albertville
+country: United States
+description: It’s believed to be haunted by one of the first owners. He died while plowing his garden with a tractor. It overturned on him and killed him. Soon afterwards, the man's wife started hearing banging noises, so she moved and sold the house. The next owners heard the same noises, and left the house in the middle of the night with all of their belongings still inside. When the house was empty, neighbors would see lights turn on at night. The house has been on the market for quite some time. The price was reduced by $20,000 from when it was first bought, and no one will live there longer than a month.
+location: Off Highway 431
+state: Alabama
+state_abbrev: AL
+longitude: -86.2820725
+latitude: 34.2826266
+city_longitude: -86.20886689999999
+city_latitude: 34.2675937
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1970/10/08
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

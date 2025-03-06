@@ -1,0 +1,21 @@
+city: Gas City
+country: United States
+description: There used to be a playground behind the elementary school. A few people have seen the merry-go-round spinning by itself with nobody near it. Some people have even heard the sound of children laughing there.
+location: Old East School
+state: Indiana
+state_abbrev: IN
+longitude: -85.61341929999999
+latitude: 40.4966375
+city_longitude: -85.6130311
+city_latitude: 40.4872625
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

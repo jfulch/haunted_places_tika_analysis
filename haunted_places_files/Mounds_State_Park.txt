@@ -1,0 +1,21 @@
+city: Anderson
+country: United States
+description: Some people have reported encountering blue-gowned dwarves in the park and nearby along the White River at Noblesville. According to Deleware Indian legend, they are the Puk-wud-ies, a tribe of little people that still inhabit the forests.
+location: Mounds State Park
+state: Indiana
+state_abbrev: IN
+longitude: -85.6199297
+latitude: 40.1022733
+city_longitude: -85.6802541
+city_latitude: 40.1053196
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

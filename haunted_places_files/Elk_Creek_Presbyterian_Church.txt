@@ -1,0 +1,20 @@
+city: West Plains
+country: United States
+description: If there is someone there and you look in the graveyard you will see glowing grave and some ghosts walking.
+location: Elk Creek Presbyterian Church
+state: Missouri
+state_abbrev: MO
+longitude: -91.6929228
+latitude: 36.7445035
+city_longitude: -91.8523711
+city_latitude: 36.7281154
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Garden City
+country: United States
+description: years ago a train has crashed killing many of the people who was on it. at times, you can hear it's whistle in the air and people screaming.
+location: old Railroad Tracks
+state: Missouri
+state_abbrev: MO
+city_longitude: -94.1913332
+city_latitude: 38.5611247
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

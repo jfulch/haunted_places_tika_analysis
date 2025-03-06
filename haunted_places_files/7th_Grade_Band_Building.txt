@@ -1,0 +1,21 @@
+city: Owasso
+country: United States
+description: Back many years ago a band director was directing and had a heart attack and died. Its said if you go into the building at night you can here the song he was conducting.
+location: 7th Grade Band Building
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.8558665
+latitude: 36.2799789
+city_longitude: -95.8547119
+city_latitude: 36.2695388
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

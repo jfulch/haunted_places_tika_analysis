@@ -1,0 +1,20 @@
+city: Duluth
+country: United States
+description: Griggs Hall S - On the first floor in the bathroom two presences haunts one of the toilets. The first year after the building was opened two students died in the bathroom of alcohol poisoning. Sounds of puking are often heard. And moaning. And profanity. And a smelly stench.
+location: University of Minnesota Duluth
+state: Minnesota
+state_abbrev: MN
+longitude: -92.0835669
+latitude: 46.8186613
+city_longitude: -92.1004852
+city_latitude: 46.78667189999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1924/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 2

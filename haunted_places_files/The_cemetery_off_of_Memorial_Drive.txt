@@ -1,0 +1,21 @@
+city: North Chattanooga
+country: United States
+description: There is an arch in the middle of the cemetery a Masonic arch at which an apparition is supposed to appear.
+location: The cemetery off of Memorial Drive
+state: Tennessee
+state_abbrev: TN
+longitude: -85.3019047
+latitude: 35.0915726
+city_longitude: -85.3096801
+city_latitude: 35.0456297
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

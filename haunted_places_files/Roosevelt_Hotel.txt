@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: A stop at the Hollywood Roosevelt Hotel is a must, as at least two famous, and several not so famous ghosts reside there. The hotel's most famous haunting concerns a mirror which sits outside the elevators on the hotel's lower level. The mirror originally was part of the furnishings in a room which was frequently used by Marilyn Monroe. Several people have reported seeing the tragic actress' image reflected in the glass of this particular mirror.
+location: Roosevelt Hotel
+state: California
+state_abbrev: CA
+longitude: -118.3417986
+latitude: 34.1013717
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1956/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

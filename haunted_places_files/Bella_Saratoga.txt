@@ -1,0 +1,21 @@
+city: Saratoga
+country: United States
+description: Cold spots felt. In the restroom the water has been known to turn on by itself – witnesses claim to even see the handle turning.
+location: Bella Saratoga
+state: California
+state_abbrev: CA
+longitude: -122.034156
+latitude: 37.257479
+city_longitude: -122.0230146
+city_latitude: 37.2638324
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

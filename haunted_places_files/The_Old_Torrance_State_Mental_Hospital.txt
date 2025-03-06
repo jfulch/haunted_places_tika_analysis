@@ -1,0 +1,21 @@
+city: Torrance
+country: United States
+description: The grounds of this old hospital are believed to be haunted. People have claimed to see former residents roaming the grounds and buildings. Elevators have even been known to open at will along with slamming doors. - !!!WARNING!!!! The elevators are no longer there and also, only one door, which is lodged shut with a board. - Loud noises heard when walking through. Things happening to cars. i.e. windshield wipers being turned upside down. An overall cold and bad feeling about the place. The basement has an eerie feel to it, very cold in the room with the furnace. If you dare you can try to walk around the second floor (which there is no elevator to only a stair case that is missing many steps) the floor is very thin in the second floor so be careful not to fall through and get hurt) - Update: There is a story of a little girl who'd been born by a woman residing in the hospital. One day, the girl came to visit her mother and it was reported that she had been murdered by security officers, or something of the like. This was said to have happened in the mortuary of the building. Her ghost is said to run the halls near the mortuary, giggling and laughing, as if she were playing a hide and seek game, also said to be looking for her mother. Another story is that an upstairs room is haunted by an old woman who resided in a room at the end of the hall. This room was the only "private" room, with door, and the only with a balcony entrance. If you enter this room, it’s said that you can hear her rocking in her chair.
+location: The Old Torrance State Mental Hospital
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.24018099999999
+latitude: 40.4165697
+city_longitude: -79.2228123
+city_latitude: 40.4172913
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

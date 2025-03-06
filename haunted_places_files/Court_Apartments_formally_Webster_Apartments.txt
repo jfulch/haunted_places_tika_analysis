@@ -1,0 +1,21 @@
+city: Battle Creek
+country: United States
+description: Reports of strange occurrences happened only in the East side building, usually in apartments 1-4, and 8. Closet doors would open, even when closed securely and if the closet door was closed, you can sometimes hear the coat hangers (even if immobilized in some way)tap against each other, despite the total lack of breezes or heat updrafts. Other strange happenings included: Heavy footsteps and yelling in vacant upper apartments, the feeling of an unpleasant presence, cold spots (in only one upper apartment), the feeling of being "touched" or "groped", knocking on doors, dishes being broken and pans thrown (but still intact and unmoved when you check them) and flickering lights. The buildings are about 100 years old, but no one has made any connections of deaths or tragedies to these "hauntings".
+location: Court Apartments (formally Webster Apartments)
+state: Michigan
+state_abbrev: MI
+longitude: -85.1780687
+latitude: 42.2979251
+city_longitude: -85.17971419999999
+city_latitude: 42.3211522
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

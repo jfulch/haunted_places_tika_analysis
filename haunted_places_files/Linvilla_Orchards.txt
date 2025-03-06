@@ -1,0 +1,21 @@
+city: Middletown
+country: United States
+description: October 2007 Has been removed
+location: Linvilla Orchards
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.4136024
+latitude: 39.8837311
+city_longitude: -76.7310806
+city_latitude: 40.199814
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

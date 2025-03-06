@@ -1,0 +1,21 @@
+city: Elizabethtown
+country: United States
+description: The "Gates of Hell" is the nickname of a cemetery at the end of St. John Road. In Elizabethtown the cemetery at the end of Saint Johns road, known as Gates of Hell, is said to be haunted. The interesting thing about this haunted place is that when traveling to the cemetery one of the last building you see is Elizabethtown’s other haunted place, Bethlehem Academy. No more than a couple of miles to the end of the road where surrounded by trees and overgrowth the cemetery contains the graves of unknown people from the 1700’s and 1800’s. The place right outside the remains of the iron and stone gate is where people go to party away from town. Many years ago while parked there at night witnesses report they watched an enormous green orb suddenly suspended right above them. After a couple of long minutes the orb shot straight up so fast that it was out of sight in a second. Others have claimed other phenomenon while hanging out at the cemetery such as hearing screams, seeing shadow people, having electrical problems with their cars, and becoming so scared that many of them never returned.
+location: Gates of Hell cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -85.5523956
+latitude: 38.04110740000001
+city_longitude: -85.8649408
+city_latitude: 37.7030646
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

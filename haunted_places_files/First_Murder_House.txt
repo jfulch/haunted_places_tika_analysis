@@ -1,0 +1,19 @@
+city: Mundelein
+country: United States
+description: the first murder in Mundelein took place in this house. A wife was having an affair and the man she was having an affair with shot her husband in the front hall of their house. The family that lives there now has reported strange happenings. Every so often they will see a white figure moving/floating at a very high speed through out the house. Unexplained objects moving and noises have also occurred.
+location: First Murder House
+state: Illinois
+state_abbrev: IL
+city_longitude: -88.00396529999999
+city_latitude: 42.263079
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1835/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

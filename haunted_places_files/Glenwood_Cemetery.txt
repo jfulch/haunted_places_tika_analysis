@@ -1,0 +1,21 @@
+city: Wayne
+country: United States
+description: it is believed that a person on a bike rides through there and then disappears.
+location: Glenwood Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -83.368721
+latitude: 42.288167
+city_longitude: -83.3863214
+city_latitude: 42.2814269
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

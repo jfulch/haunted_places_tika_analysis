@@ -1,0 +1,20 @@
+city: Lovell
+country: United States
+description: apparitions, noises and voices are all observed here.
+location: Shoshone Bar
+state: Wyoming
+state_abbrev: WY
+longitude: -108.390103
+latitude: 44.8377923
+city_longitude: -108.3895614
+city_latitude: 44.8374532
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.983333333333333
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

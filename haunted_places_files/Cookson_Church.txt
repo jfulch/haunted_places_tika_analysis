@@ -1,0 +1,21 @@
+city: Cookson
+country: United States
+description: Things in trees. Inexplicable car accidents. Levitations. Scratching.
+location: Cookson Church
+state: Oklahoma
+state_abbrev: OK
+longitude: -94.9206501
+latitude: 35.7109657
+city_longitude: -94.919952
+city_latitude: 35.7109258
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2014/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Accident
+witness_count: 0

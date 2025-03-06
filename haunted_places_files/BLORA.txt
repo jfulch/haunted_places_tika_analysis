@@ -1,0 +1,21 @@
+city: Fort Hood
+country: United States
+description: A soldier in PT uniform that appears in the early morning hours, skipping rocks across the lake. He seems to take no notice of you, and disappears when the sun starts to rise.
+location: BLORA
+state: Texas
+state_abbrev: TX
+longitude: -97.5512961
+latitude: 31.1410166
+city_longitude: -97.7413143
+city_latitude: 31.1950013
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/08/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Full-Bodied Apparition
+event_type: War
+witness_count: 1

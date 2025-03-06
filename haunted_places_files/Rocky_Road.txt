@@ -1,0 +1,21 @@
+city: Liverpool
+country: United States
+description: In one particular house on the road, you can hear noises of a person walking upstairs, when no one else is home. Doors will open and close by themselves. Lights will turn on and off, as well as the TV. The ghost responds to people's voices and will turn on or off the TV when told to. One of the people in this house, while curling their hair one day felt some one touch them on their shoulder, turned around and saw a man sitting on their bed, turned back around looked into the mirror and saw nothing, turned around again and the ghost had vanished.
+location: Rocky Road
+state: New York
+state_abbrev: NY
+longitude: -76.222365
+latitude: 43.124218
+city_longitude: -76.21770459999999
+city_latitude: 43.106456
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

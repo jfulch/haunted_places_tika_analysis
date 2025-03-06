@@ -1,0 +1,19 @@
+city: Sidnaw
+country: United States
+description: A car with large headlights appears from the top of the hill comes down the hill, slows down (stops) at the bridge, and then continues. Witnses report a car that was an old 1930's or so sedan.  Big, round, big fenders. Huge headlights. There was no place for this car to go, just disappeared. As the story goes, in the 1920's or 30's, a car was going over the bridge during the spring melt when the river was high, and the bridge washed out.  Killed was a man, his wife and a young daughter.  However, it's not the original site of the bridge or the accident.  The original bridge was the accident happened was up the river a few hundred feet.
+location: Perch River Bridge
+state: Michigan
+state_abbrev: MI
+city_longitude: -88.70847189999999
+city_latitude: 46.5046647
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1949/11/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

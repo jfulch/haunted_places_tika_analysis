@@ -1,0 +1,21 @@
+city: Glen Dale
+country: United States
+description: This hospital had its heyday back in the early 1900’s, but was abandoned in the late 1970’s. The hospital is made up of six different buildings on opposite sides of the road. The hauntings seem to take place in the two structures closest to the road on your right. Most doors and windows have been broken out and abandoned medical equipment is scattered everywhere within the buildings. Sightings have included a large pack of ghost dogs, ghostly patients wandering the second floor, and smoke coming from the crematorium. People have also complained of noises such as banging and yelling coming from the hospital walls; hear screams and sometimes laughter...inside there is sometimes a strong odor of burning flesh and smoke coming from where they used to burn the bodies...in one particular room there is said to be sightings of a man in a straightjacket who went insane after watching his family being murdered by an intruder to his home while he hid in a closet...he was so overcome with the guilt that he didn’t help his family that he went insane and eventually killed himself when he broke into the room where they kept the medication and overdosed.
+location: Glen Dale Hospital
+state: Maryland
+state_abbrev: MD
+longitude: -76.809905
+latitude: 38.9628609
+city_longitude: -76.8205265
+city_latitude: 38.98761040000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

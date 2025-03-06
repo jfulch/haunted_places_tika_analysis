@@ -1,0 +1,21 @@
+city: Pine Beach
+country: United States
+description: There is said to be screams coming from the old building every night around 12:00 am. It was a all boys Navy school in which there were day students and boarding students. Among the students were some famous people one being Alan Shepard the Astronaut and Lorenzo Lamous the Actor.
+location: Admiral Farragut Academy
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.1666357
+latitude: 39.9395448
+city_longitude: -74.1709735
+city_latitude: 39.9359515
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

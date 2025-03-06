@@ -1,0 +1,19 @@
+city: Pittsburgh
+country: United States
+description: Captain Shields haunts his former home.
+location: Shields House
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -79.9958864
+city_latitude: 40.44062479999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Hindman
+country: United States
+description: years ago a man is said to have found his wife, and another guy together. He shot and killed the other man. Today it’s said the ghost of the man killed is haunting the motel. lights go on and off. sounds of walking can be heard, and no one is found.
+location: Motel 80
+state: Kentucky
+state_abbrev: KY
+longitude: -82.78379079999999
+latitude: 37.6552967
+city_longitude: -82.98044139999999
+city_latitude: 37.3359313
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

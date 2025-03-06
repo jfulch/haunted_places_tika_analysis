@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: Before the construction of the grocery and shopping center on the northeast corner, there stood several older buildings which were eventually torn down. These structures stood dark and vacant for many years, collecting numerous rumors of spooky apparitions and ghostly dwellings. Teenagers were known to scare themselves by entering late at night through a portion of open fencing, and investigate the scene by flashlight. Many heard whimpering sounds and crying down the long dark corridors, and most were too afraid to venture deep into the basement, where stories of torture and murder ran rampant. By the light of the moon, some teens say they saw a set of three gravestones(one large in the middle and two small on either side) that were not there in the light of the following day.
+location: 19th Avenue and Northern
+state: Arizona
+state_abbrev: AZ
+longitude: -112.0997769
+latitude: 33.5530949
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

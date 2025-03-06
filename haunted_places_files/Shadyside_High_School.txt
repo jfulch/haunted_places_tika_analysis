@@ -1,0 +1,20 @@
+city: Shadyside
+country: United States
+description: Several students setting up for a haunted house sponsored by the band were, making a spoof of the Blair Witch project around 1am right before Halloween. On the film there were blue orbs and you could hear lockers shutting and people talking. None of these things were happening at the time. There was also a new night janitor who was changing a fuse on the 3rd floor. She guessed as to which one it was, when she went to pull out the fuse a hand touched her on the shoulder and told her that it is the one next to her. She told the man thank you, turned around to ask him a question and the man was gone. It turned out that there was only one other person on duty that night, and he was on the other side of the building.
+location: Shadyside High School
+state: Ohio
+state_abbrev: OH
+longitude: -80.7471219
+latitude: 39.971253
+city_longitude: -80.75063990000001
+city_latitude: 39.9709071
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

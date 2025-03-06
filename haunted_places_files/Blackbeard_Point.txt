@@ -1,0 +1,21 @@
+city: Hampton
+country: United States
+description: Blackbeard Point was named after the famous pirate Blackbeard. His head was cut off and stuck on a pole to warn off other pirates. It is said to this day that the decapitated pirate searches for his head in the Chesapeake Bay. People have seen him many times and say you would be stupid to go looking for this hideous pirate.
+location: Blackbeard Point
+state: Virginia
+state_abbrev: VA
+longitude: -76.34265359999999
+latitude: 37.0166753
+city_longitude: -76.34522179999999
+city_latitude: 37.0298687
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1718/11/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

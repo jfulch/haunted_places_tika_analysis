@@ -1,0 +1,21 @@
+city: Yucaipa
+country: United States
+description: Legend says that a group of teenagers had an accident at this particular location caused by a curse on the area. There had been an old woman who lived just above this location who locals claimed she was a witch. She had put a curse on the area and these teenagers were killed. You can park your car in this spot and the kids are pushing you out of harms way up hill and gaining speed. You can still see the stairs that had led to her house. - June 2008 Correction - This is an optical illusion.
+location: Oakglen rd.
+state: California
+state_abbrev: CA
+longitude: -117.0155747
+latitude: 34.0485277
+city_longitude: -117.0430865
+city_latitude: 34.033625
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: Accident
+witness_count: 1

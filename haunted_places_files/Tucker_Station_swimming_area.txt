@@ -1,0 +1,21 @@
+city: Louisville
+country: United States
+description: The Tucker Station swimming area used to be a large lake that was open to the public during the 1980's. So many young children drowned because of the height of the diving platforms. The diving platforms are three stories high and many inexperienced children would jump of without adult supervision. Stories say that you can still here the children playing in the lake.
+location: Tucker Station swimming area
+state: Kentucky
+state_abbrev: KY
+longitude: -85.5233233
+latitude: 38.1966268
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1820/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

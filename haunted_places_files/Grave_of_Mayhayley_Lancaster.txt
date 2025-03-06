@@ -1,0 +1,19 @@
+city: Heard County
+country: United States
+description: Through the years many people have attempted to steal or otherwise vandalize the grave of the famous psychic Mayhayley Lancaster. Most of those people have experienced extremely bad fortune, even death, after doing so. One teenage boy was killed in a car accident after trying to show off for his friends by defiling Mayhayley's grave.
+location: Grave of Mayhayley Lancaster
+state: Georgia
+state_abbrev: GA
+city_longitude: -85.14793639999999
+city_latitude: 33.2990406
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

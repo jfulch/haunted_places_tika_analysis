@@ -1,0 +1,21 @@
+city: Dyersburg
+country: United States
+description: in 1977 two teachers were murdered in the gym of the school. These two people had been having an affair and the wife found out and shot them. She was sent to an insane asylum where she died a few years later. The ghosts of these two teachers haunt the gym. - October 2004 update: Dyersburg Middle School's Gym has been torn down.They have built a new school, and the remains of the old school is still standing and is the Dyersburg City School Systems office.
+location: Dyersburg Middle School
+state: Tennessee
+state_abbrev: TN
+longitude: -89.3533301
+latitude: 36.0331276
+city_longitude: -89.38562809999999
+city_latitude: 36.0345159
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

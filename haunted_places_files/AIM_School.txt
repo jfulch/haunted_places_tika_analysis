@@ -1,0 +1,21 @@
+city: Breckenridge
+country: United States
+description: Used to be the elementary school but in 1994 they built a new one and now it is a school for mental teenagers, and a place for events. It was said A few years after the school was built(1936)there was a little space in the wall that they boarded up, and some kid unbounded it and shoved another kid in there then boarded it back up, The kid died in the hole and a while later they found him, Now if you go in there by yourself the lockers open and close by themselves and you can here kids laughing, sometimes the toilets flush by themselves and the sinks turn on and off by themselves.
+location: AIM School
+state: Michigan
+state_abbrev: MI
+longitude: -84.47591539999999
+latitude: 43.4146517
+city_longitude: -84.4749978
+city_latitude: 43.4080849
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1994/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

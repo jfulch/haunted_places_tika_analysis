@@ -1,0 +1,21 @@
+city: Sacramento
+country: United States
+description: The house was built Pre-Gold rush. Reports of children crying, screaming, whispering, items moving on their own, and various reports of shadows moving about the rooms.
+location: Jackson and Bradshaw
+state: California
+state_abbrev: CA
+longitude: -121.3348872
+latitude: 38.528998
+city_longitude: -121.4943996
+city_latitude: 38.5815719
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

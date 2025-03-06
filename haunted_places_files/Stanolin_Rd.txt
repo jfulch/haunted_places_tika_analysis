@@ -1,0 +1,20 @@
+city: Brownsville
+country: United States
+description: When your driving down that road it starts to curve and a man was said to have been driving to fast and his car crashed so now where they put the cross of his death he stands there grinning and starts to walk to your car. But when he gets to the window you'll know he's a ghost so start driving.
+location: Stanolin Rd.
+state: Texas
+state_abbrev: TX
+longitude: -97.4618777
+latitude: 25.9067245
+city_longitude: -97.4974838
+city_latitude: 25.9017472
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

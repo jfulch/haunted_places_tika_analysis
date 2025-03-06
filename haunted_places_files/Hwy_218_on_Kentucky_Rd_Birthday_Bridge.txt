@@ -1,0 +1,19 @@
+city: Mount Pleasant
+country: United States
+description: Supposedly years ago a girl hung herself from the bridge on her birthday if you go out there at night you can see her and on her birthday see her hanging.
+location: Hwy 218 on Kentucky Rd.-Birthday Bridge
+state: Iowa
+state_abbrev: IA
+city_longitude: -91.5487714
+city_latitude: 40.9716959
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

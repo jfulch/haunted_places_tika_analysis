@@ -1,0 +1,21 @@
+city: Kern
+country: United States
+description: Arvin Mortuary - There's a ghost in the mortuary that they refer to as the white lady, She has been seen many times, there's also been many sightings of a white light, there's been many times when the PA system was off, and you could still hear choir music clearly.
+location: Arvin
+state: California
+state_abbrev: CA
+longitude: -118.833105
+latitude: 35.2017986
+city_longitude: -118.8596804
+city_latitude: 35.4937274
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1873/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

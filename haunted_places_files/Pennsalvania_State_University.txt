@@ -1,0 +1,21 @@
+city: State College
+country: United States
+description: Schwab Auditorium - is supposedly haunted by a few separate ghosts. One of them may be Charles Schwab. The other may be President Atherton who was president of the school and is buried beside the building. There has also been a soldier seen. An article about this was written in the last alumni newsletter. - January 2004 update/ correction - The second most famous haunted place on campus, Schwab Auditorium is supposedly haunted by the ghost of President Atherton, the first president of the university. His grave is right behind the building, with a memorial and a bench where his widow is supposed to have sat for days on end after his death. When plays and other performances are held, the performers sometimes tell stories of footsteps, outlines of a man, things being moved, and so forth.
+location: Pennsalvania State University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.8599084
+latitude: 40.7982133
+city_longitude: -77.8600012
+city_latitude: 40.7933949
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1953/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

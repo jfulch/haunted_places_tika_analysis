@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: downtown- a man committed suicide by jumping from balcony And fell to his death. His name was Jack and since he never paid his room his name still stays in the computer log in stays. Night maids have said to hear him in his room still moving around when the rooms not occupied and guest report noises at night.
+location: Omni Hotel
+state: Texas
+state_abbrev: TX
+longitude: -97.740335
+latitude: 30.26898199999999
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

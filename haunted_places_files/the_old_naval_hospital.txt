@@ -1,0 +1,21 @@
+city: Portsmouth
+country: United States
+description: Bldg 1 - built in 1827. Some people who have worked in the old x-ray film archive describe especially at night sounds of a baby crying usually between the walls of the now fathers waiting room and the x-ray developer room. The building is now closed awaiting renovation to change it back to its former 827 design.
+location: the old naval hospital
+state: Virginia
+state_abbrev: VA
+longitude: -76.30644029999999
+latitude: 36.8452805
+city_longitude: -76.2982742
+city_latitude: 36.8354258
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1827/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

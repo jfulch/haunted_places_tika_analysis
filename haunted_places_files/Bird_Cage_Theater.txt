@@ -1,0 +1,21 @@
+city: Tombstone
+country: United States
+description: Female singing and crowd voices/noises are heard. Shadows, unidentified spirits, and an apparition of a woman in white are seen. EVP of music can be detected, and objects relocate by themselves.
+location: Bird Cage Theater
+state: Arizona
+state_abbrev: AZ
+longitude: -110.06534
+latitude: 31.711799
+city_longitude: -110.0675764
+city_latitude: 31.7128683
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1588/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Danbury
+country: United States
+description: Several hauntings are known to exist on the grounds - mainly around the area of the abandoned Hearthstone Castle. There have been reports of shadowy figures, glowing orbs or mists in the castle's windows or on the roof - as well as the surrounding land and the locations of the former servant/guest houses.. Some hikers have reported being pushed & sticks thrown at them.
+location: Tarrywile Park &amp; Hearthstone Castle
+state: Connecticut
+state_abbrev: CT
+longitude: -73.4532304
+latitude: 41.3805057
+city_longitude: -73.4540111
+city_latitude: 41.394817
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

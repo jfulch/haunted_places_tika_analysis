@@ -1,0 +1,21 @@
+city: Death Valley Junction
+country: United States
+description: Anomalies such as ecto-mist and orbs recorded on film.
+location: Amargosa hotel
+state: California
+state_abbrev: CA
+longitude: -116.414663
+latitude: 36.3022031
+city_longitude: -116.410599
+city_latitude: 36.300308
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1820/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

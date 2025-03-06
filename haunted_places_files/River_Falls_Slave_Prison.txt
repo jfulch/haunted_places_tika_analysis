@@ -1,0 +1,19 @@
+city: River Falls
+country: United States
+description: If you go down River Falls Road away from Andalusia, you cross a bridge. Turn to the right, as if you were going to Point A. Go to the boat ramp and look to the left. There is a road that goes beside a field. Walk down the road. The road goes to the prison. Walk down the road late at night and sing the gospel song, "I'll Fly Away" loud. You supposedly can see three black guys hanging from a tree in front of the prison. If you walk to the back of the prison, where you can look out over the water, you can see something dragging something else underneath. It is falling apart though, so if you go, be careful.
+location: River Falls Slave Prison
+state: Alabama
+state_abbrev: AL
+city_longitude: -86.53912729999999
+city_latitude: 31.3529468
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1720/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

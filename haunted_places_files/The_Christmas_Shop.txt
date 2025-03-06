@@ -1,0 +1,21 @@
+city: Disneyland
+country: United States
+description: Some of the stock crew has reported an strange feeling when alone stocking the store for the morning. There is an old photo from the 19th century of a young woman up on one of the shelves. It has been documented several different times that a stock person will noticed the photo frowning (her photo is taken with a straight face) at them along with a strange wind in the room.
+location: The Christmas Shop
+state: California
+state_abbrev: CA
+longitude: -117.9230008
+latitude: 33.8093114
+city_longitude: -117.9189742
+city_latitude: 33.8120918
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

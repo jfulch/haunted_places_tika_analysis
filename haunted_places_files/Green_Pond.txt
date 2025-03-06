@@ -1,0 +1,21 @@
+city: North Liberty
+country: United States
+description: By the trailer park, across the rail road tracks is a narrow path leading to an unexpected pond called Green Pond in a small area of trees. The area was previously used for witchcraft and worship and the legend now says that if you go before the pong a woman will rise from it. Years ago 2 children went missing and there bikes were found in the bottom of the pond.
+location: Green Pond
+state: Iowa
+state_abbrev: IA
+longitude: -91.5980176
+latitude: 41.7397308
+city_longitude: -91.6080974
+city_latitude: 41.739482
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

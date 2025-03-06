@@ -1,0 +1,21 @@
+city: Comal County
+country: United States
+description: Ghosts of Monks and Native Americans have been seen. At one time a large group of riders who looked liked civil war soldiers rode by a group of men. There cabin shook from the force of the horse's hoofs hitting the ground. When they had passed no one plant had been damaged.
+location: The Devil's Backbone
+state: Texas
+state_abbrev: TX
+longitude: -98.1530878
+latitude: 29.9338377
+city_longitude: -98.2212979
+city_latitude: 29.8105572
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: War
+witness_count: 1

@@ -1,0 +1,21 @@
+city: New London
+country: United States
+description: Colgate building - A dark male figure with a hat sometimes is seen leaning over a railing or walking around the tower. People claim that after a few seconds the man disappears into thin air.
+location: Colby-Sawyer College
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.978033
+latitude: 43.412062
+city_longitude: -71.97569899999999
+city_latitude: 43.4284925
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1783/01/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.583333333333334
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

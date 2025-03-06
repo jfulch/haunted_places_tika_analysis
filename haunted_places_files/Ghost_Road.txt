@@ -1,0 +1,21 @@
+city: Castle Dale
+country: United States
+description: Driving from a dance lesson and we were turning onto ghost road.  On the side of the road, by the cornfield, was a figure in a yellowish plaid shirt with no head.  We saw this apparition the whole time we were turning the corner, but when we were on a straight road, it disappeared.  The legend surrounding this road is that there was a hanging tree that hung over the road.  Some say that before the tree was cut down you could see figures hanging in the tree.  It is pretty creepy driving at night.
+location: Ghost Road
+state: Utah
+state_abbrev: UT
+longitude: -111.034483
+latitude: 39.2214214
+city_longitude: -111.019613
+city_latitude: 39.212192
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

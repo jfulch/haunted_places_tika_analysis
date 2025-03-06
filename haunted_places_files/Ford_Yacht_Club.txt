@@ -1,0 +1,21 @@
+city: Grosse Isle
+country: United States
+description: strange noises and sightings on the grounds after the clubhouse closes. Some think it is the ghosts of past commodores. The ford yacht club has the largest grounds of any yacht club in the United States. During the American Revolution, the British controlled Grosse Isle, and during the war of 1812,as well. .
+location: Ford Yacht Club
+state: Michigan
+state_abbrev: MI
+longitude: -83.1697982
+latitude: 42.0902321
+city_longitude: -83.1445904
+city_latitude: 42.1290753
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1763/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: War
+witness_count: 1

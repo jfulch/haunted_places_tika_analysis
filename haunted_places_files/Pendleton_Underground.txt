@@ -1,0 +1,21 @@
+city: Pendleton
+country: United States
+description: There is an underground area in the downtown red light district where many businesses operated during the early 1900s, which were linked to tunnels that ran under the entire city. Many of the tunnels have been filled in due to safety reasons, but some still remain, and the city does conduct tours of areas in the underground tunnels. In particular, there is one area that the tour ventures into, which is a room that was used as a living quarters for Chinese immigrants. There is said to be a ghost that is often felt and/or seen by visitors in the far left corner of this room.
+location: Pendleton Underground
+state: Oregon
+state_abbrev: OR
+longitude: -118.7869085
+latitude: 45.6705629
+city_longitude: -118.7885967
+city_latitude: 45.672075
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

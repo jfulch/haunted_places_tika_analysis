@@ -1,0 +1,18 @@
+city: Pike County
+country: United States
+description: There was a worker that died in this mine due to an aneurysm. The mine is abandoned now. It is said that the night watch man can hear equipment running inside the mine even though it is abandoned.
+location: Kiah Creek Mining
+state: Kentucky
+state_abbrev: KY
+city_longitude: -82.4752757
+city_latitude: 37.4842087
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

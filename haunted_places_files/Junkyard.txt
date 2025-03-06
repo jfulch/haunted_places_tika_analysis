@@ -1,0 +1,21 @@
+city: Bassett
+country: United States
+description: At night when you are riding down the road you can see headlights flashing on and off in the field. If you go out there at night you hear doors shut all by themselves and you hear radios playing. At the very bottom of the field you can hear motors from the cars like they are being drove around. They say this happens from the ghost that were killed in car wrecks and come back to haunt the junkyard.
+location: Junkyard
+state: Virginia
+state_abbrev: VA
+longitude: -79.929043
+latitude: 36.765918
+city_longitude: -79.9903195
+city_latitude: 36.7593036
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

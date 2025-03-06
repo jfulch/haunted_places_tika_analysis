@@ -1,0 +1,20 @@
+city: Mt. Sterling
+country: United States
+description: The old Windsor nursing home is the old nursing home that is abandoned now. The story is that if you go up there late at night, you can peek in the windows and see the old wheelchairs rolling around. You can here moaning and screaming. This nursing home was shut down in the 80's because they had a large amount of patients dying and found out it was abuse. So their lost souls roam the halls.
+location: Old Windsor Nursing Home
+state: Kentucky
+state_abbrev: KY
+longitude: -83.93975259999999
+latitude: 38.0469758
+city_longitude: -83.9432556
+city_latitude: 38.0564679
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

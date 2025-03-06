@@ -1,0 +1,21 @@
+city: Portsmouth
+country: United States
+description: Most of Olde Towne is haunted. There are lots of stories and a book on the subject. Each Halloween, there is a guaranteed, sold-out Ghost Walk where they tell you all of the stories and show you the houses. One of the more famous stories/hauntings is of The Lady in White of Court Street. Story goes, a young woman's husband either drowned at sea, ran off, got killed or something tragic...became so depressed herself, that to this day on nights of the full moon, she can be seen running down the street to the water and jumping in. Yes, drowning was her ultimate demise...but for those who've seen her, the experience is so real, big, grown men have been known to jump in the water to save the drowning woman...only to find there's nothing there once they're in the water.
+location: Olde Towne
+state: Virginia
+state_abbrev: VA
+longitude: -76.3014896
+latitude: 36.8355349
+city_longitude: -76.2982742
+city_latitude: 36.8354258
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1949/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

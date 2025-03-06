@@ -1,0 +1,21 @@
+city: Calexico
+country: United States
+description: Old burned down restaurant. Ghostly apparitions have been sighted.
+location: El Charro
+state: California
+state_abbrev: CA
+longitude: -115.4125088
+latitude: 32.6491616
+city_longitude: -115.4988834
+city_latitude: 32.6789476
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

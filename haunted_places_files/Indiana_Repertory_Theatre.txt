@@ -1,0 +1,21 @@
+city: Indianapolis
+country: United States
+description: In life, the first artistic director of the theatre used to jog around the upstairs mezzanine area when the weather was cold or rainy. He reached his untimely death when his nephew accidentally hit him with a car while jogging outside on a foggy day. To this day, when it rains outside, you can hear floor boards in the upper mezzanine creaking and groaning just as they would if someone were running.
+location: Indiana Repertory Theatre
+state: Indiana
+state_abbrev: IN
+longitude: -86.16106479999999
+latitude: 39.7672813
+city_longitude: -86.158068
+city_latitude: 39.768403
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Atchison
+country: United States
+description: It is said that on the stroke of midnight the terrifying screams of "Molly" can be heard. Molly was a beautiful young woman out with her date after prom. The next day Molly was found dead, hanging by her neck in one of the park trees down in the hallow of the park, her clothes torn. Some believe that her date got to excited and killed her when she refused to go all the way with him. No one will ever know, no one was ever charged with her murder.
+location: Jackson Park
+state: Kansas
+state_abbrev: KS
+longitude: -95.1178018
+latitude: 39.54392319999999
+city_longitude: -95.1216356
+city_latitude: 39.5630521
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1877/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

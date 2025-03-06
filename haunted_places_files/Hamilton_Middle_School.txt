@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: Hamilton Middle School is a very haunted school and there are many sightings whenever you are alone in the bathroom, there are strange footsteps heard and the door opens and closes on its own. The bathroom is on the 2nd floor. It is heard that a girl got pregnant and died at this school.
+location: Hamilton Middle School
+state: Washington
+state_abbrev: WA
+longitude: -122.3379137
+latitude: 47.6571808
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/06/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

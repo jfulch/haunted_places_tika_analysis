@@ -1,0 +1,21 @@
+city: Charlotte
+country: United States
+description: Trail - Walk this trail at night by yourself......Its right beside Independence road. The trail has an old mill house, it is said that a skeleton was found under the mills house bell. (Bring a flashlight, and something to protect yourself because there IS something in this trail.)
+location: McAlpine Creek Park
+state: North Carolina
+state_abbrev: NC
+longitude: -80.7414651
+latitude: 35.1505123
+city_longitude: -80.8431267
+city_latitude: 35.2270869
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

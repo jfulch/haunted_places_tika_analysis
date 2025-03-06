@@ -1,0 +1,21 @@
+city: Polk
+country: United States
+description: El Azteca Restaurant - When this restaurant was called Clay's, one evening while dining a butter knife forged it's way up between two tables that were pushed together (teeth side up) and fell suddenly on the floor. Witnessed by two people there was no possible reasoning behind this action - very bizarre!
+location: Pleasant Hill
+state: Iowa
+state_abbrev: IA
+longitude: -93.5196138
+latitude: 41.5873903
+city_longitude: -93.5003454
+city_latitude: 41.6278423
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 2

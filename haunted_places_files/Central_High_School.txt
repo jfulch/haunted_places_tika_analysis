@@ -1,0 +1,20 @@
+city: St. Joseph
+country: United States
+description: A couple ghost dwell here. One whom particularly likes the Auditorium. And another one who plays pranks and resides mostly on the bathrooms. A group of girls have reported (as has many other students and faculty members) that they will flood the bathrooms. Especially on the main, 2nd and 3rd floors. The Theater Arts Teacher and classes have affectionately named the ghost that haunts the Auditorium.
+location: Central High School
+state: Missouri
+state_abbrev: MO
+longitude: -94.8290168
+latitude: 39.76503779999999
+city_longitude: -94.846681
+city_latitude: 39.7674578
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

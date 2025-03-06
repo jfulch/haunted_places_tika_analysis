@@ -1,0 +1,19 @@
+city: Eleva
+country: United States
+description: A little girl was killed her a long time ago. She brutally murdered in the woods. No one knows what happened but they found her body pieces all over the place. If you go into the woods you'll hear a crying and a little girl run in front of you and then she will vanish. Weird things have been seen there and the 13th of every month she comes out with the knife she was killed with. it still has the blood on it from her. So if you go out there BEWARE!!!
+location: Rachel's field
+state: Wisconsin
+state_abbrev: WI
+city_longitude: -91.4701575
+city_latitude: 44.5757974
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 23m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

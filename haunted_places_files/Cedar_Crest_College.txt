@@ -1,0 +1,21 @@
+city: Allentown
+country: United States
+description: Butz hall -  many times students claim there is a ghost they have named "Wanda." The story goes that a girl supposedly hung herself in the stairway, although officials at the college refuse to talk about what really might have happened. Many students living in the dorm complain about being locked out of their rooms, alarm clocks going off for no reason. objects being moved, and hearing strange noises. It is said that if you see her, she has no facial features.
+location: Cedar Crest College
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.5191992
+latitude: 40.5862612
+city_longitude: -75.4901833
+city_latitude: 40.6084305
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1967/01/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

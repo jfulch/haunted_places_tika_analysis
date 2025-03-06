@@ -1,0 +1,21 @@
+city: Carlisle
+country: United States
+description: Washington Hall guest house - You may be awaken in the middle of the night hearing the cries of babies.
+location: Carlisle Barracks
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.16306689999999
+latitude: 40.2034861
+city_longitude: -77.20027449999999
+city_latitude: 40.2010241
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1510/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

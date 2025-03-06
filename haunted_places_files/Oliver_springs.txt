@@ -1,0 +1,21 @@
+city: Roane
+country: United States
+description: Colonial Hall - There is a rumor that a little girl who died years ago haunts the place. she walks up and down the stars saying she is cold. no one can explain who she is or what she wants.
+location: Oliver springs
+state: Tennessee
+state_abbrev: TN
+longitude: -84.34437179999999
+latitude: 36.0445222
+city_longitude: -84.56414699999999
+city_latitude: 35.836117
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1799/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

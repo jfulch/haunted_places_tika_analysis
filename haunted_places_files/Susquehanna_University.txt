@@ -1,0 +1,21 @@
+city: Selinsgrove
+country: United States
+description: Blough-Weiss library- In the basement of this library many student workers have felt a presence and seen an apparition while working late at night. The room the students are working in becomes cold after the sighting of the apparition. Unsure of whom the apparition may be but student research is in progress.
+location: Susquehanna University
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.8744803
+latitude: 40.7973267
+city_longitude: -76.8621935
+city_latitude: 40.7989735
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

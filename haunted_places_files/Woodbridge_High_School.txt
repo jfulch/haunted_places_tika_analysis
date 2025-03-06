@@ -1,0 +1,21 @@
+city: Irvine
+country: United States
+description: there has been sightings of a large black apparition roaming the school sometimes if you see it you must get far away from it sometimes the apparition will get mad and throw school trashcans around.
+location: Woodbridge High School
+state: California
+state_abbrev: CA
+longitude: -117.806977
+latitude: 33.678949
+city_longitude: -117.8265049
+city_latitude: 33.6845673
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

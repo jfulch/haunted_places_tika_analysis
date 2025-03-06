@@ -1,0 +1,20 @@
+city: Owensboro
+country: United States
+description: This house was one of the first built in the area. It was once owned by a large family back in the early 1800s. The family was an outcast family and very odd. The story goes that a son named John killed them all, then killed himself. You can hear screams and laughter late at night at this deserted house.
+location: Wilson House
+state: Kentucky
+state_abbrev: KY
+longitude: -87.1045171
+latitude: 37.7683669
+city_longitude: -87.1111676
+city_latitude: 37.7719074
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Jersey City
+country: United States
+description: This place is haunted on a daily basis by the chief Machinist that was supposedly beheaded by a disgruntled employee. Workers there say that they hear the words "Jeezz I'm the Chief" coming from one of the offices late at night.
+location: Daily News Building
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.0619789
+latitude: 40.6979339
+city_longitude: -74.0776417
+city_latitude: 40.72815749999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

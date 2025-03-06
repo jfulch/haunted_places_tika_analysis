@@ -1,0 +1,19 @@
+city: Crockett
+country: United States
+description: Every summer if you are driving on this Rodeo / Crockett old road late at night a woman in a white dress runs out into the middle of the road and tries to wave you down. But when you go to look in your rear view mirror, she is no longer there. It is said that her car broke down and she got hit by a car while trying to wave someone down.
+location: Old road between Rodeo and Crockett
+state: California
+state_abbrev: CA
+city_longitude: -122.2130236
+city_latitude: 38.0524208
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

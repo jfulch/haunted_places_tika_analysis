@@ -1,0 +1,21 @@
+city: Vancouver
+country: United States
+description: Veterans Hospital- On the third floor of the building is where all the mentally disturbed patients were put. It is said that you can still hear their hysterical screams, and any paper that enters the room floats to the ceiling and sticks there. You pull them off and they float back up.
+location: Officers Row
+state: Washington
+state_abbrev: WA
+longitude: -122.6595415
+latitude: 45.6281726
+city_longitude: -122.6716063
+city_latitude: 45.6318397
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 0

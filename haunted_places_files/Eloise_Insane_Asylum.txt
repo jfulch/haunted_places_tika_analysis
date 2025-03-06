@@ -1,0 +1,21 @@
+city: Westland
+country: United States
+description: The ghosts of many of the tormented patients walk the halls of this asylum that was converted into an office building. Voices are heard by the workers and teenagers who go to this location for a thrill. Many picture of paranormal things have been captured at this location. Lights are turned on and off. Growls and moans are heard by the playground built for the use of the office workers' kids. -  October 2004 Update: Most of it has been torn down. there is still a building standing that people still go to and also there is a cemetary behind it that is actually more haunted then the actual building itself...with only patients numbers on them. Only a few buildings remain on the property of the old Asylum. The D building now known as the Kay Beard building, also the fire house, the power plant and the bakery are all still there.
+location: Eloise Insane Asylum
+state: Michigan
+state_abbrev: MI
+longitude: -83.3391789
+latitude: 42.2816372
+city_longitude: -83.400211
+city_latitude: 42.32420399999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

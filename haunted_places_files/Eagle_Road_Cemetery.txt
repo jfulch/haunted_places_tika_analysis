@@ -1,0 +1,21 @@
+city: Juneau
+country: United States
+description: There is an old cemetery along side this road people have been seen in the cemetery all hours of the night people have gone out there and came back with blood on there hands and arms strange feelings of cold breezes on hot summer nights and strange apparitions of the virgin Mary.
+location: Eagle Road Cemetery
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.6845371
+latitude: 43.3568129
+city_longitude: -88.7051037
+city_latitude: 43.4055504
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

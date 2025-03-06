@@ -1,0 +1,21 @@
+city: Northfield
+country: United States
+description: Sabine Field - The gate to the football field is often guarded by an unseen cadet. People have heard her haunting footsteps.
+location: Norwich University
+state: Vermont
+state_abbrev: VT
+longitude: -72.6612317
+latitude: 44.13900539999999
+city_longitude: -72.65649859999999
+city_latitude: 44.1511723
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1868/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Wisconsin Dells
+country: United States
+description: The area directly above the bar upstairs is haunted by a past resident, who is believed to be named Molly. She opens and closes doors and plays with appliances while people are cooking in the upstairs kitchen. However, she does not seem threatening. The bar area has seen much supernatural activity too. Human forms in turn of the century clothing have materialized in mirrors, sometimes appearing to be walking along the bar toward the exit door. A strange voice has even been heard numerous times near the stage area. In the cellar, unusual cold spots are apparent, as well as kegs of beer being moved around. Employees have been known to experience feelings of nausea while in the cellar, as well as sudden anxiety. All of these events seem to take place sometime after 3:00 AM.
+location: The Showboat Saloon
+state: Wisconsin
+state_abbrev: WI
+longitude: -89.7776069
+latitude: 43.6275521
+city_longitude: -89.7709579
+city_latitude: 43.6274794
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

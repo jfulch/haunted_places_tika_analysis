@@ -1,0 +1,21 @@
+city: Ringwood
+country: United States
+description: Haunted by the last descendant of the former owners and two servants. Frequently investigated, the spirit of the woman owner is quite feisty and downright mean. Voices heard, footsteps, portraits that follow you with their eyes, and other phenomena occur.
+location: Ringwood Manor
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2553089
+latitude: 41.1389661
+city_longitude: -74.2454254
+city_latitude: 41.1134289
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Beaver Creek
+country: United States
+description: In the mid 70's a man hung himself from one of the trees near the bend. On foggy nights you can see a shadow walking and hear moaning. - June 2008 Update: they have changed Carpenter Road. It doesn't bend anymore, they have turned the bend into a 3-way intersection leading into an apartment complex or condominiums or something. The have also built a giant middle school in one of the fields near carpenter road, so you may not actually be able to see hanged man anymore.
+location: Carpenter Road
+state: Ohio
+state_abbrev: OH
+longitude: -84.0784705
+latitude: 39.6721594
+city_longitude: -84.06326849999999
+city_latitude: 39.7092262
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

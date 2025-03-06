@@ -1,0 +1,19 @@
+city: Rumford
+country: United States
+description: At night if you drive on bent road, and step out of your car and walk about 20 steps onto the 18th fairway of Wannamoisett country club you will 2 Indians riding on horses that will come chasing towards you if you are seen. They have been known to run to the people watching and disappear right before it hits you.
+location: Wannamoisett country club
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.358278
+latitude: 41.844698
+city_longitude: -71.3557165
+city_latitude: 41.8462161
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1914/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

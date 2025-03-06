@@ -1,0 +1,21 @@
+city: Mishawaka
+country: United States
+description: Hacienda Mexican Restaurant - Used to be a mansion, the owner had a affair when one of the care-takers. When she discovered she was with child and he rejected her, he hung herself in the attic. Employee's have reported seeing her throughout the restaurant.
+location: 100 Center
+state: Indiana
+state_abbrev: IN
+longitude: -86.188869
+latitude: 41.6614832
+city_longitude: -86.15861559999999
+city_latitude: 41.6619927
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/16
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

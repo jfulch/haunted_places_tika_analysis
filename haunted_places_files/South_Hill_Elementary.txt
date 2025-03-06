@@ -1,0 +1,21 @@
+city: West Covina
+country: United States
+description: Apparitions of three ladies killed by Car accident have been seen in front of the school.
+location: South Hill Elementary
+state: California
+state_abbrev: CA
+longitude: -117.882697
+latitude: 34.0630964
+city_longitude: -117.9389526
+city_latitude: 34.0686208
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Meriden
+country: United States
+description: This small local market is the scene of many spooky things. for example, the old meat room is haunted by cows with voice boxes, and old man Ronny, a butcher who was impaled by a meat hook, is seen walking around in his bloody butchers coat. If you are the only one in the store, it is not uncommon to see things fly right off the shelf. As well as images of angry cows looking for the rest of their once full body. If you order a half pound of german bologna, it is said that upon eating it you will perish in flames.
+location: Towne and Country Market
+state: Connecticut
+state_abbrev: CT
+longitude: -72.80442599999999
+latitude: 41.521307
+city_longitude: -72.80704349999999
+city_latitude: 41.5381535
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

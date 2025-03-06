@@ -1,0 +1,21 @@
+city: Tooele
+country: United States
+description: Mercur cemetery - Mercur was a mining town in the late 1800's. Most of the town was destroyed by a fire. The cemetery has a definite spiritual presence. We have heard voices, screaming, mining sounds, and foot steps, as if we were being followed.
+location: Mercur
+state: Utah
+state_abbrev: UT
+longitude: -112.2121665
+latitude: 40.3207801
+city_longitude: -112.29828
+city_latitude: 40.53077760000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1864/11/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

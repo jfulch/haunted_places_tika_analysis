@@ -1,0 +1,21 @@
+city: Taunton
+country: United States
+description: At night through out the woods you can hear moaning, soft screaming and sometimes banging. Some people say they are homeless people that go to live in the woods and die there. Other people say that they are victims of brutal murders. Most people believe that they are ghosts of patients from the hospital. Basically don't roam in these woods after dark if you don't want a paranormal experience.
+location: The woods behind Taunton State Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.10220570000001
+latitude: 41.9066689
+city_longitude: -71.0897674
+city_latitude: 41.900101
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

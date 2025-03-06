@@ -1,0 +1,21 @@
+city: Laredo
+country: United States
+description: Every time you go there you hear footsteps and you can feel whispers behind your back and some spots in there you feel a freeze and some times would appear a cat without the head people said that they used to do witchcraft there after they closed the police station.
+location: the Old Police Station
+state: Texas
+state_abbrev: TX
+longitude: -99.4706567
+latitude: 27.5392135
+city_longitude: -99.4803241
+city_latitude: 27.5305671
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

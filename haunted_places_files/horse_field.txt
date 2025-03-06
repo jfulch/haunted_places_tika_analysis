@@ -1,0 +1,19 @@
+city: French Lick
+country: United States
+description: In the late 1800's a bad storm hit this field like not other this small town has seen. In this field approx 5 acres across was two beautiful black horses with a black baby colt the only shelter in this field was a giant oak tree in the middle of this field, where the horses ran to immediately when the lighting flashed through the air. Some say they saw 3 lighting bolts come down from the sky and striking each one of the horses dead. Now if you go visit this field when a night storm is brewing. You can hear 3 horses running across the field to where the old oak tree still stands. And on some nights when the lighting lights up the sky you can see three beautiful black horses standing by the tree.
+location: horse field
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.61999139999999
+city_latitude: 38.5489431
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

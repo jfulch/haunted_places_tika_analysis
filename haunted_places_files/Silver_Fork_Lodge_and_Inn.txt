@@ -1,0 +1,21 @@
+city: Brighton
+country: United States
+description: Employees complain of lights and appliances turning on and off, missing tools, whispers and moans , cold spots, apparitions, and other paranormal activity.
+location: Silver Fork Lodge and Inn
+state: Utah
+state_abbrev: UT
+longitude: -111.6118892
+latitude: 40.6333936
+city_longitude: -111.5821429
+city_latitude: 40.60384
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

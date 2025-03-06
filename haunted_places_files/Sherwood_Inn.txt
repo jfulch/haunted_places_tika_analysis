@@ -1,0 +1,21 @@
+city: Greene
+country: United States
+description: A female committed suicide by jumping off the top floor balcony. Her apparition is said to haunt her old room (28) and the hallway. Some have even felt her in the dining room and basement.
+location: Sherwood Inn
+state: New York
+state_abbrev: NY
+longitude: 168.6972685
+latitude: -45.023726
+city_longitude: -75.7699147
+city_latitude: 42.3292408
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

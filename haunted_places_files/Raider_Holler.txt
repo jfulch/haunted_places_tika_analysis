@@ -1,0 +1,21 @@
+city: Munfordville
+country: United States
+description: a little boy was drowned in this well known to be Jacob, this is his well and if you park your car by his well and turn off your vehicle and get out and holler for Jacob and say, "Jacob your mommy is here to get you, can you hear me." He'll be known to say help me mommy! DANGER!! this will happen!!!
+location: Raider Holler
+state: Kentucky
+state_abbrev: KY
+longitude: -85.962738
+latitude: 37.3341549
+city_longitude: -85.8910819
+city_latitude: 37.2722751
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

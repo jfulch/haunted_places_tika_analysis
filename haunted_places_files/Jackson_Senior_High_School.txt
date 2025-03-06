@@ -1,0 +1,20 @@
+city: Jackson
+country: United States
+description: Rumor is that long ago a janitor died in the girls bathroom on the 2nd floor of the Language/History building ( 'C' Building ). Now if you are alone in the bathroom , the old mans ghost will flush the toilet just to scare you.
+location: Jackson Senior High School
+state: Missouri
+state_abbrev: MO
+longitude: -89.6696829
+latitude: 37.3795431
+city_longitude: -89.6662063
+city_latitude: 37.3822732
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

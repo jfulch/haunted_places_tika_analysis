@@ -1,0 +1,21 @@
+city: St. Mary’s
+country: United States
+description: Back in the early years of the town, a railroad track used to sit where now a creek runs. The train one night hit the conductor’s house which sat next to the tracks and destroyed everything, including the family. The house, which was rebuilt, burned to the ground, and the house across the street also burned years later. If walking at night on this street, you may hear the train coming, or the sounds of the conductor’s family. The feeling of being watched walking past the creek has also been noted.
+location: Fourth Street
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.5552175
+latitude: 41.429587
+city_longitude: -78.5609398
+city_latitude: 41.42737380000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

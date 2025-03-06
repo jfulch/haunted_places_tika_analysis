@@ -1,0 +1,18 @@
+city: Alton
+country: United States
+description: About 100 years ago on this road there was a woman that lived here by her self for many years. They accused her and two others of using witchcraft so they hung them with chains and on every Halloween around midnight you can drive down the road and hear the chains dragging on the top of your vehicle when you go under the tree.
+location: Sugar Shack Road
+state: Missouri
+state_abbrev: MO
+city_longitude: -91.3993039
+city_latitude: 36.6942252
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

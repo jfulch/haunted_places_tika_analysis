@@ -1,0 +1,21 @@
+city: Disneyland
+country: United States
+description: The story goes that a young boy and his mom loved the Pirates of the Caribbean ride. The boy got cancer and his last wishes was that his ashes be spread over the Pirates ride. Disneyland rejected that for health reasons but his mother did it anyway. At night the ride operators can sometimes see a lone boy riding one of the boats on the video monitors, but when they check it out there is no one.
+location: Pirates of the Caribbean
+state: California
+state_abbrev: CA
+longitude: -117.920785
+latitude: 33.811254
+city_longitude: -117.9189742
+city_latitude: 33.8120918
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

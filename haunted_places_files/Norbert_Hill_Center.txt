@@ -1,0 +1,21 @@
+city: Oneida
+country: United States
+description: Apparitions of nuns are reported to be walking the halls of the 2nd and 3rd floors of Norbert Hill Center. The old school janitors have reported hearing voices and slamming doors as well as lights turning on and off.
+location: Norbert Hill Center
+state: Wisconsin
+state_abbrev: WI
+longitude: -88.192983
+latitude: 44.497656
+city_longitude: -88.22664340000001
+city_latitude: 44.4799393
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1917/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

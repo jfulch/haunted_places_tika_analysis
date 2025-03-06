@@ -1,0 +1,21 @@
+city: Hemet/San Jacinto
+country: United States
+description: In the late 1800s the San Jacinto Valley (Hemet & San Jacinto) was the home of Ramona and Alessandro (Helen Hunt Jackson). When Alessandro was shot and killed Ramona cursed the valley saying that no one born here would ever be able to leave. There were only three routes out of the valley back then. A fourth was added in later years. To this day anyone born and raised in the valley that has left by way of one of the original three "exits" has said to experienced an irresistible urge to return and once they do they end up in a financial position preventing them from leaving again. But those who have left by way of the fourth route manage to stay gone.
+location: Entire Valley
+state: California
+state_abbrev: CA
+longitude: -116.9590041
+latitude: 33.7569198
+city_longitude: -116.9590041
+city_latitude: 33.7569198
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/12/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

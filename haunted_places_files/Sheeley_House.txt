@@ -1,0 +1,21 @@
+city: Chippewa Falls
+country: United States
+description: This place use to be a boarding house when it was first built but now is a saloon/restaurant. Employees say they hear footsteps walking up and down the stairs at night when they close up. And there use to be these roses painted on the wall and when the new owners purchased the place, they painted over the walls but after a while, the roses would bleed through and they would still try to paint over the wall and still the roses bleed through the paint. This one time an employee went up to the attic where the freezer is and the employee walked in to get some wine and all of a sudden the freezer door closed behind him, then locked itself and the lights turned off. He got out a half an hour later with a pick.
+location: Sheeley House
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.3947546
+latitude: 44.9327155
+city_longitude: -91.3929348
+city_latitude: 44.9369054
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

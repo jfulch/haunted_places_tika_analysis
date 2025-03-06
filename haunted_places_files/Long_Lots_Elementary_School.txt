@@ -1,0 +1,20 @@
+city: Westport
+country: United States
+description: In the Auditorium it is said that a lady dressed in black floats back and forth across the stage after sunset. Orbs of light can be seen glistening in the seat section
+location: Long Lots Elementary School
+state: Connecticut
+state_abbrev: CT
+longitude: -73.31661439999999
+latitude: 41.143132
+city_longitude: -73.3579049
+city_latitude: 41.1414717
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

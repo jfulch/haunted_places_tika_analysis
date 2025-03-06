@@ -1,0 +1,21 @@
+city: Anna
+country: United States
+description: Reports of apparitions of people running, people standing in the windows as you drive by, also reported a man that walked in the tunnels and felt a hand on his back. It is reported that there are faces in the buildings and the uppers and lowers the cottages are also EXTREMELY haunted by nurses and prior residents. There is also reports of a "devil dog" attacking a resident and when lights in the room were turned on there was nothing just scratches all over the persons body. There are several accounts of choate being haunted but it is mostly under choate in the tunnels where all of the activity happens because the old buildings burned and all that was left was the original basements which is now the tunnels that run all under choate and some even run out of Choate.
+location: Choate Mental Health and Developmental Center
+state: Illinois
+state_abbrev: IL
+longitude: -89.2450295
+latitude: 37.47210949999999
+city_longitude: -89.2470282
+city_latitude: 37.4603274
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

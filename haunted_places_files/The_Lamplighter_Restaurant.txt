@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: They had a ghost inhabiting the bar area, who would play pool (while others were trying to have a game, of course) and do various other obnoxious things like turning lights on and off. They somehow managed to track down the source, and had the ashes of the deceased patron suspected of being the ghost sitting on the mantle of the restaurant's fireplace removed. Most activity stopped when this was done. -  February 2004 Update: the owner of the lamplighter restaurant in long beach and the manager would like to let you know that the ashes of the deceased owner (Louie) are still on the mantle and that there is still a lot of strange things going on here.
+location: The Lamplighter Restaurant
+state: Washington
+state_abbrev: WA
+longitude: -124.056266
+latitude: 46.3307505
+city_longitude: -124.0543234
+city_latitude: 46.3523219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

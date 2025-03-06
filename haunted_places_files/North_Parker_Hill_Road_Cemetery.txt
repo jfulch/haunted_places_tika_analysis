@@ -1,0 +1,20 @@
+city: Killingworth
+country: United States
+description: The ghosts of a bride and groom have been observed crossing the road both to and from this cemetery. A number of other phenomena have been seen and experienced in this cemetery.
+location: North Parker Hill Road Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -72.5458543
+latitude: 41.4036894
+city_longitude: -72.5645602
+city_latitude: 41.3581869
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

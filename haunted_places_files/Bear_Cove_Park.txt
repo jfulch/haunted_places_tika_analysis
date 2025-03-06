@@ -1,0 +1,21 @@
+city: Hingham
+country: United States
+description: A series of dark winding roads leading to unlit abandoned warehouses. It is said that satanic rituals and animal sacrifices have occurred here within the warehouses. Some have seen satanic drawing on the walls inside the buildings. Sightings of ghostly robed figures in single file lines guarding the warehouses.
+location: Bear Cove Park
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.9138298
+latitude: 42.2409729
+city_longitude: -70.889759
+city_latitude: 42.2418172
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

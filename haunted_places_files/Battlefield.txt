@@ -1,0 +1,20 @@
+city: Brattonsville
+country: United States
+description: If you walk through it you can feel people and hear them. Reports of hearing metal banging, and seeing a light in the blacksmith shop. Nobody lives around there, and it is DEFINATLEY haunted.
+location: Battlefield
+state: South Carolina
+state_abbrev: SC
+longitude: -81.176096
+latitude: 34.864825
+city_longitude: -81.176096
+city_latitude: 34.864825
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

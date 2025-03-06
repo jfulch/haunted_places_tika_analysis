@@ -1,0 +1,19 @@
+city: Columbus
+country: United States
+description: The Crump Theater built in 1874 and was originally a vaudeville/opera house. Over the years it has been home to all kinds of entertainment as well as serving as a movie theatre for many years.  As far as supernatural events that have happened at the Crump, it is somewhat limited. There have been eyewitness accounts of music being heard from the top of a stairway, some strange happenings concerning concession money, apparitions of a gentleman and child, strange sounds and smells, fire inspection certificates, and one contractor being scared in the basement area. No trespassing is allowed, however, arrangements can be made for investigations.
+location: The Crump Theatre
+state: Indiana
+state_abbrev: IN
+city_longitude: -85.9213796
+city_latitude: 39.2014404
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1874/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Powell / Cody
+country: United States
+description: The center was built during WWII for the relocation of the Japanese. During the day nothing real spectacular happens except for a friendly spirit can be felt following you around. At night however everything changes. Noises and footsteps can be heard when no one else is moving. You get the feeling that someone/something is following you and watching you. They are called Shadow People and they are an old Native American legend. They are usually not malicious and mostly observe people.
+location: Heart Mountain Relocation Center
+state: Wyoming
+state_abbrev: WY
+longitude: -108.9413738
+latitude: 44.6703925
+city_longitude: -108.9671419
+city_latitude: 44.5918542
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

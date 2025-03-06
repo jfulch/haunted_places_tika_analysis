@@ -1,0 +1,21 @@
+city: Paducah
+country: United States
+description: A restored mansion, now a rest area, and open to the public. A female apparition has occasionally been sighted on the balcony attached to the second floor bedroom, believed to be the owner's wife. Legend has it she bled to death during an appendectomy. The feeling in that room is very pleasant, however, due to how much she loved that room---her husband had the room and balcony added on especially for her. She has been known to turn off the lights in that room, and the sounds of long skirts swishing as well as the scent of her perfume have been noted. Also, even though the old kitchen is now the employees' break room, there have been times the smells of someone cooking a huge feast have greeted startled visitors. It has been known to happen during the holidays, mainly Thanksgiving and Christmas. It is a beautiful place to visit, even if you don't get to meet the happy spirits inhabiting this great house.
+location: Whitehaven
+state: Kentucky
+state_abbrev: KY
+longitude: -88.6528785
+latitude: 37.050801
+city_longitude: -88.6000478
+city_latitude: 37.0833893
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

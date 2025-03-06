@@ -1,0 +1,21 @@
+city: Bellflower
+country: United States
+description: A woman has been seen on several occasions in the stockroom areas. She always appears to be working. As of this date she has not been identified.
+location: Kmart
+state: California
+state_abbrev: CA
+longitude: -118.111446
+latitude: 33.9007555
+city_longitude: -118.1170117
+city_latitude: 33.8816818
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1981/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

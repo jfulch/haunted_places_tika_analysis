@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: Urban legend has it that long ago, a Jesuit priest and a nun had an affair. The nun found out that she was pregnant, and wanted the priest to runaway with her, so they could raise the child. The priest refused. The nun hung herself on the 13th floor of the Skyscraper building, the priest found the body, and jumped out of the window. The top floors of the building have long been vacant, but the light in the room where she killed herself can be seen lit from the outside. Also, those that have ventured up there have seen the nun and priest walking hand-in-hand.  The story here is just a legend, as to why there is a phenomena, it is unknown at this time. If you have the true story, please email Haunted Places
+location: Loyola University Chicago
+state: Illinois
+state_abbrev: IL
+longitude: -87.6581921
+latitude: 41.998997
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1967/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

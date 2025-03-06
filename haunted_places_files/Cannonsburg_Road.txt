@@ -1,0 +1,21 @@
+city: Kent County
+country: United States
+description: Oakwood Cemetary - Oakwood stands on the corner of Cannonsburg and Brewer roads. Just west of Oakwood, until recently, stood the old Brewer family estate. Just west of that is a long lay of Grand River Valley land that once was the lumbertown of Austerlitz. There is much forgotton and paved-over history there. In the 1980's motorists returning home from Grand Rapids at night told of a woman who stood on the corner of Brewer and Cannonsburg roads she wore no coat, though the weather at the times during which she appeared was always disagreable. She was seen in cold rains and wet snows. This rural area just at the edge of town was not completely desolate so there are no stories of motorists stopping to offer the apparition a ride. As the stories go, she never thumbed or indicated in any way that that she was in distress, she just stood there enduring the elements. Could she have been a live person? Doubtfull, Homes were far enough away from Oakwood that there would have been no reason for a young woman to stand out on that corner late at night in nasty weath with no coat.
+location: Cannonsburg Road
+state: Michigan
+state_abbrev: MI
+longitude: -85.5141019
+latitude: 43.0581685
+city_longitude: -85.52002399999999
+city_latitude: 43.0097027
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

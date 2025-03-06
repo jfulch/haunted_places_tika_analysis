@@ -1,0 +1,21 @@
+city: Kaneohe
+country: United States
+description: people say at king intermediate school there is kids who hang there self from the banion tree in front of the library and at night you flash the light on the tree you can see the bodies hanging from the tree and in e building there is people running around.
+location: King Intermediate
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8057861
+latitude: 21.4264245
+city_longitude: -157.7973653
+city_latitude: 21.3996475
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1967/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.6
+day_duration: 11h 48m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

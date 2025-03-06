@@ -1,0 +1,19 @@
+city: White Hall
+country: United States
+description: Strange noises, floating orbs, and unknown sources of light are often present in the cemetery behind the church. Also, blood is rumored to flow out of the boarded up windows at times.
+location: Katie's Church
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -75.4985521
+city_latitude: 40.6572331
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.8
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

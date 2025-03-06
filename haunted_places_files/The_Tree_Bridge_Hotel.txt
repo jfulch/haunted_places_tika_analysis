@@ -1,0 +1,20 @@
+city: Cleveland
+country: United States
+description: Reports of feelings of being watched and sightings of the gray lady wandering through the halls.
+location: The Tree Bridge Hotel
+state: Ohio
+state_abbrev: OH
+longitude: -81.61281579999999
+latitude: 41.5006172
+city_longitude: -81.6943605
+city_latitude: 41.49932
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

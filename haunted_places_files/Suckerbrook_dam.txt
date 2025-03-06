@@ -1,0 +1,20 @@
+city: Winchester
+country: United States
+description: Voices can be heard late night and spectral images seen as well. The scariest incident was of a dam worker who drown some say pushed to his death.
+location: Suckerbrook dam
+state: Connecticut
+state_abbrev: CT
+longitude: -73.09872039999999
+latitude: 41.9034288
+city_longitude: -73.111356
+city_latitude: 41.9357632
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2011/04/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

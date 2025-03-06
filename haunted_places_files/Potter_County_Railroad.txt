@@ -1,0 +1,21 @@
+city: Galeton
+country: United States
+description: Mysterious lights have been sited behind the Ox Yoke, strange inhuman, non-animal sounds can be heard.
+location: Potter County Railroad
+state: Pennsylvania
+state_abbrev: PA
+longitude: -77.6478188
+latitude: 41.7315616
+city_longitude: -77.64193100000001
+city_latitude: 41.7331245
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2018/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

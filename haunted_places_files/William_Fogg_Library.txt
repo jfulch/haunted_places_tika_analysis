@@ -1,0 +1,21 @@
+city: Eliot
+country: United States
+description: a transparent skull appeared floating above a stare case in a photo taken for a newspaper. Also window randomly broke while kids were playing outside.
+location: William Fogg Library
+state: Maine
+state_abbrev: ME
+longitude: -70.7976197
+latitude: 43.1282258
+city_longitude: -70.8000544
+city_latitude: 43.1531427
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 21m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

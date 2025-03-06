@@ -1,0 +1,21 @@
+city: Billerica
+country: United States
+description: Reports of being followed home & haunted by these spirits. November 2003 Update: The story behind Dudley Rd is that there was a Nunnery on the Rd and 3 Nuns were hung for practicing witch craft. And you can now see them haunting the Rd. There is a house that was built on the Rd where the witches were hung and had to be abandoned months later because the house began to sink. The house is still there and in oddly in the ground up to the second floor windows. Every year it sinks a little more. -
+location: Dudley road
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.2971925
+latitude: 42.5242072
+city_longitude: -71.2689461
+city_latitude: 42.5584218
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

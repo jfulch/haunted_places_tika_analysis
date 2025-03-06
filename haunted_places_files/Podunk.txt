@@ -1,0 +1,19 @@
+city: Bargersville
+country: United States
+description: Podunk is an old town right by Bargersville. It's a really weird and freaky place that near-city teens go to. There's a bridge that if you drive on to & then stop & turn off your headlights, radio, and don't talk then you can see a baby crawl across the road. You can also hear it crying or laughing sometimes.
+location: Podunk
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.16776569999999
+city_latitude: 39.5208818
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: San Dimas
+country: United States
+description: The first floor is haunted primarily by the guest who killed himself in room 130. It is said that a man who was very depressed decided to commit suicide by slitting his wrists and making his way from the bedroom to the bathroom where he was found by the maintenance engineer. To moment you enter the room you are greeted with a presence of this man. Its almost impossible to sleep in this room although its been renovated completely. Many guests have asked to move due to having the feeling that someone is watching. The hotel will rarely rent this room out just to avoid scares.
+location: Extended Stay Hotel
+state: California
+state_abbrev: CA
+longitude: -117.817696
+latitude: 34.107403
+city_longitude: -117.8067257
+city_latitude: 34.1066756
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.6
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

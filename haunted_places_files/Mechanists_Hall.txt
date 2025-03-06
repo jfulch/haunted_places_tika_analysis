@@ -1,0 +1,19 @@
+city: Conroy
+country: United States
+description: Mechanists Hall used to be a school, but now is sometimes used for meetings and such. Sometimes at night lights inside the building flicker, but if you drive a car up it usually doesn't happen. If you go behind the building you can sometimes hear voices, but you can't make out what they are saying.
+location: Mechanists Hall
+state: Iowa
+state_abbrev: IA
+city_longitude: -91.9967024
+city_latitude: 41.7298609
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1651/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 0

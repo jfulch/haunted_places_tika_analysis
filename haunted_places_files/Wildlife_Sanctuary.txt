@@ -1,0 +1,21 @@
+city: Grosse Ile
+country: United States
+description: The story goes that a man was hung from a tree branch in the middle of the night. You can still see the branch where the man was hung from at the fork of the road. It has been said that if you go there in the middle of the night, noises are heard and you will have the feeling of not being wanted there. Feeling of being watched and followed. Noises and lights through the trees. Having to go away. Also, ny people report seeing a 10 -12 year old boy riding his bike while driving through the bird sanctuary at night. He appears to be wearing all beige or gray and is generally approached from behind. The rider clad in an outfit entirely made up of the same color is what seems to grab the immediate attention of most people who have related this story. Upon overtaking the rider, the passengers in the car invariably turn to have another look at this kid out for a ride on an unlit road in an area where people are not often found. All they report seeing behind them is empty road and dense woods stretching out before them.
+location: Wildlife Sanctuary
+state: Michigan
+state_abbrev: MI
+longitude: -83.1484706
+latitude: 42.1647606
+city_longitude: -83.1445904
+city_latitude: 42.1290753
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.4
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

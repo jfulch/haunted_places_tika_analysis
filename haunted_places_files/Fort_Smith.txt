@@ -1,0 +1,21 @@
+city: Sebastian
+country: United States
+description: William O. Darby Jr. High School - The staircase in the old part of the building between the third and second floor is haunted by a student that choked to death in the 1960's or 70's. Also, the attic is haunted by a janitor that had a heart attack while peeking through the peephole, watching the cheerleaders. They say you can hear him call out from the balcony of the auditorium, if you are in there alone. Also, the practice field was once a cemetery, and it was stated that even though all remains have been removed, that some of the unmarked graves still remain. On foggy nights, you can see these ghostly figures, looking for the other graves that were marked.
+location: Fort Smith
+state: Arkansas
+state_abbrev: AR
+longitude: -94.3985475
+latitude: 35.3859242
+city_longitude: -94.315422
+city_latitude: 35.2260397
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

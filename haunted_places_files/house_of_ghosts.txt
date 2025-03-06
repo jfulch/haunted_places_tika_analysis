@@ -1,0 +1,19 @@
+city: Ottumwa
+country: United States
+description: In 1856 there was a man who had to go to war. His wife had died when his daughter was two. He had died the third week of war. His daughter and their servants were very sad. Three years after he had died she was 13 and she got sick. She died in 1870.In 1996 Brad Leedom was taking a shower in the house. Then he heard something up stairs. He walked up the stairs and saw writing on the window it said "Are You My Father". It is said on calm nights you can hear her singing and playing.
+location: house of ghosts
+state: Iowa
+state_abbrev: IA
+city_longitude: -92.4083022
+city_latitude: 41.01602930000001
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1856/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

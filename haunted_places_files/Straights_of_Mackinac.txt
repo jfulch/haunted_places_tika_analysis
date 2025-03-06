@@ -1,0 +1,21 @@
+city: Mackinac Island
+country: United States
+description: The apparition of Lesalles Griffon is supposed to be sighted once in a while gong through the straits of Mackinac
+location: Straights of Mackinac
+state: Michigan
+state_abbrev: MI
+longitude: -84.6275658
+latitude: 45.8683129
+city_longitude: -84.6189339
+city_latitude: 45.8491796
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

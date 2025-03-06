@@ -1,0 +1,21 @@
+city: Granger
+country: United States
+description: There is an old legend which describes a tale regarding a young woman and her son traveling the narrow road on Cherry Hill when she lost control of her car and ventured over the side of the steep cliff. Her face is reportedly seen engraved in the bark of tree trunks along the Yakima River which flows adjacently below Cherry Hill.
+location: Cherry Hill
+state: Washington
+state_abbrev: WA
+longitude: -120.1682027
+latitude: 46.33537630000001
+city_longitude: -120.1872727
+city_latitude: 46.3420741
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Westfield
+country: United States
+description: Something haunts the back hill of this cemetery. During the day visitors have reported a mans voice in the woods, and the feeling of being watched. At night, the watchful feeling changes to one of absolute unreasonable terror. Even going on the public street that runs right beside the hill will cause this...even some people who live on that street have complained of feeling uneasy, as if something is watching out for that portion of the cemetery and will not tolerate ANYONE trespassing. A few reports of rocks being thrown at cars passing that area have also surfaced, but are rare.
+location: Pine Hill Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -72.7643143
+latitude: 42.1209602
+city_longitude: -72.749538
+city_latitude: 42.1250929
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1985/07/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

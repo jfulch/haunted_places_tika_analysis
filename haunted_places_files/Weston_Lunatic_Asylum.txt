@@ -1,0 +1,21 @@
+city: Weston
+country: United States
+description: Description of Haunting: Closed in 1997.In the Civil War Wing you can hear police sirens, even thought there’s no cop’s inn the building.
+location: Weston Lunatic Asylum
+state: West Virginia
+state_abbrev: WV
+longitude: -80.471694
+latitude: 39.038549
+city_longitude: -80.46731299999999
+city_latitude: 39.0384274
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1997/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 0

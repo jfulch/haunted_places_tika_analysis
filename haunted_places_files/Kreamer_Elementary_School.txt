@@ -1,0 +1,21 @@
+city: Bellport
+country: United States
+description: There were numerous sightings of a young boy in the second grade hallway by several witnesses. Doors being pushed open, tripping people and his shadow has been seen.
+location: Kreamer Elementary School
+state: New York
+state_abbrev: NY
+longitude: -72.94365789999999
+latitude: 40.7606117
+city_longitude: -72.9392727
+city_latitude: 40.75704289999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

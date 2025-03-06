@@ -1,0 +1,21 @@
+city: Kauai
+country: United States
+description: Once upon a time in the 1990 there was a place in  Kauai Lihue, there now its called  Chief's Kamakahella Middle School  but befor that was a train track one day when a train passed there have been reports about a lady in white waiting for the train. Before that was a woman she would always wait for the train until one day the lady accidentally went on the track so out of no were the train ran over her. and at that school every night she waits for the bus.
+location: Lihue
+state: Hawaii
+state_abbrev: HI
+longitude: -159.3711111
+latitude: 21.9811111
+city_longitude: -159.5261238
+city_latitude: 22.0964396
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.633333333333333
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

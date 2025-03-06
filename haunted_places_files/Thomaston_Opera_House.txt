@@ -1,0 +1,20 @@
+city: Thomaston
+country: United States
+description: Firehouse - Many years ago there was a fire which damaged the entire theatre, in recent years it was restored. There are rumors of ghosts of people, which perished in the flames. Many people experience a feeling of being watched when they are alone in the theatre. The old firehouse next door is apparently haunted as well, though there is not much information on that at this time. - February 2007 Update: they now have turned the old fire station next door to the opera house into a Teen Center called "the place." They have gutted it and restored it for the local teens to hang out at.
+location: Thomaston Opera House
+state: Connecticut
+state_abbrev: CT
+longitude: -73.0753826
+latitude: 41.6728888
+city_longitude: -73.0724037
+city_latitude: 41.6743343
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

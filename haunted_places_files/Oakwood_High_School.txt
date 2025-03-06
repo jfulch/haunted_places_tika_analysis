@@ -1,0 +1,20 @@
+city: Dayton
+country: United States
+description: In the city's south suburbs, has long been the sight of two hauntings. One is said to be that of a young man who hung himself in the junior hallway some time in the sixties or seventies. Fleeting glimpses of a male figure as well as footsteps are heard throughout the high school. The second haunting, which I unfortunately do not have background information on, is that of a young girl. Oakwood high school is very old, Built in the early Twenties directly over the sight of a house on a previous estate, so there is really no telling how far back this one goes. Anyway, the girl is said to be seen pretty specifically in the junior hallway. People have even reported walking buy a well dressed young girl seated on one of the benches in the hallway late at night.
+location: Oakwood High School
+state: Ohio
+state_abbrev: OH
+longitude: -84.17145699999999
+latitude: 39.7208543
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Rochester
+country: United States
+description: The Lady in White roams searching for her daughter who had supposedly been raped and murdered by unknown assailants. There are many different versions to the story, but this is indeed a documented fact in the Irondequoit libraries, and police department.
+location: Durand Eastman Park/Beach
+state: New York
+state_abbrev: NY
+longitude: -77.56186420000002
+latitude: 43.229783
+city_longitude: -77.6109219
+city_latitude: 43.16103
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1993/07/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Prestonsburg
+country: United States
+description: there are now tours. Many tourists say that they have seen and heard two old men through busted out windows trying to escape who were put there when they were 16 for raping two girls at Prestonsburg High School in the girl's bathroom on the first floor.
+location: abandoned courthouse
+state: Kentucky
+state_abbrev: KY
+longitude: -82.7717237
+latitude: 37.6681159
+city_longitude: -82.7715486
+city_latitude: 37.6656527
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

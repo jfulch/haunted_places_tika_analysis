@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: Believed to be haunted by the founder of the school, Mr. Leslie.
+location: Leslie Middle School
+state: Oregon
+state_abbrev: OR
+longitude: -123.0236615
+latitude: 44.8999769
+city_longitude: -123.0350963
+city_latitude: 44.9428975
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2018/10/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

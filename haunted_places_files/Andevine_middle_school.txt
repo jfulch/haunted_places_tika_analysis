@@ -1,0 +1,20 @@
+city: Lafayette
+country: United States
+description: there is a teacher in the school and it is said that she murdered a child. One night a student went in the classroom after detention and there was a little boy with blond hair and red eye sitting there writing on a peace of paper. now if you go there late at night you will see the little boy sitting there writing on a peace of paper.
+location: Andevine middle school
+state: Colorado
+state_abbrev: CO
+longitude: -105.1038977
+latitude: 39.9893756
+city_longitude: -105.0897058
+city_latitude: 39.9935959
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fort Dodge
+country: United States
+description: You always feel like someone is watching you. Whenever you are in a room by yourself, you are physically abused by an 'invisible hand'. Reports of a transparent little girl. IL
+location: Hawkeye Theater
+state: Iowa
+state_abbrev: IA
+longitude: -94.1831078
+latitude: 42.51158
+city_longitude: -94.1680158
+city_latitude: 42.4974694
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

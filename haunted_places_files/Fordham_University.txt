@@ -1,0 +1,21 @@
+city: Bronx
+country: United States
+description: O'Hare Hall - A worker was killed during the construction of the building.It has been rumored that he still roams the halls, banging on walls as if he was still working on the building.
+location: Fordham University
+state: New York
+state_abbrev: NY
+longitude: -73.88569869999999
+latitude: 40.8620404
+city_longitude: -73.8648268
+city_latitude: 40.8447819
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1769/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Murder
+witness_count: 0

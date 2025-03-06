@@ -1,0 +1,20 @@
+city: Nevada
+country: United States
+description: It is considered one of the oldest structures in Nevada and it is in very poor condition. But, a few years ago it was used as the "Red Brick Playhouse" for community plays. It seems to be haunted by a former Janitor who wasn’t happy to share the place with the actors. While using the bathroom lights would flicker and shut off and sinks would turn on and you'd be sitting there all by yourself! It was not unusual during a play to have a door on the set swing wide open and everyone would hear feet tromping across the stage and back again and then the door would slam shut!
+location: 1st Baptist Church on Walnut Street
+state: Missouri
+state_abbrev: MO
+longitude: -94.3524185
+latitude: 37.85942790000001
+city_longitude: -94.3546719
+city_latitude: 37.83920519999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

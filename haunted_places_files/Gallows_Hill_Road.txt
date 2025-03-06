@@ -1,0 +1,21 @@
+city: Cranford
+country: United States
+description: Located at the corner of Gallows Hill Road and Brookside Place was the huge tree from which spies were hung during the Revolution. The tree was cut down a few years ago, but the rusty iron and concrete post which the rope was tied to still stands. Movement around the area can be seen late at night, but only from a distance. Personal experience was what seemed to be tall bushes swaying in a nonexistent breeze. Closer inspection showed no bushes just a well manicured lawn and a really creepy feeling.
+location: Gallows Hill Road
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.32101639999999
+latitude: 40.6590527
+city_longitude: -74.2995928
+city_latitude: 40.6584212
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

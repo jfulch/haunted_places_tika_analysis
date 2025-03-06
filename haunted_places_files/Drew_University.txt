@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: The Arboretum - The arboretum is said to be haunted by the "lady in blue" who appears near a lake in the back of the woods and trips people, appears during sunset most often, but also during the day, which is kind of unusual.  She appears filmy and no one has ever seen a face or body, just a bluish dress.  The girl who haunts Hoyt, which was an all boys dormitory back in the day, was supposed to have slept with one of the boys, discovered she was pregnant, and hung herself in the attic.  It is definitely true that the top floor has lots of weird things happening.  Witnesses have seen doors open, window shades fly up.  It is generally held that boys do not fair well on the top floor - it's been an all girls floor for quite a while. They tend to fall for no reason and break something.  A part of the underground railroad stretches underneath the campus all the way to the next town.
+location: Drew University
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.4269765
+latitude: 40.76056699999999
+city_longitude: -74.417097
+city_latitude: 40.7598227
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

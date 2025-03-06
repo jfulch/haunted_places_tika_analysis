@@ -1,0 +1,21 @@
+city: Ellensburg
+country: United States
+description: Kamola Hall - Kamola Hall is haunted by the ghost of a former student that committed suicide there when she found out that her fiancé had been killed during the war. She hung herself from the rafters of the top floor where her room was located. People have reported unusual noises and sightings over the years. Even today, some of the students residing in the building have reported strange occurrences such as doors opening and closing by themselves and doors being knocked on but nobody there.
+location: Central Washington University
+state: Washington
+state_abbrev: WA
+longitude: -120.5360182
+latitude: 47.0067549
+city_longitude: -120.5478474
+city_latitude: 46.9965144
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1891/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

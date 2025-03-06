@@ -1,0 +1,20 @@
+city: Kensington
+country: United States
+description: very old, very angry ghost who seems to be the keeper of this burial ground. first trip you make he will present himself, second trip you make he will make things happen such as making electrical devices go haywire, he will also follow you. You will have feeling of great sickness, anxiety, even feelings of complete evilness surrounding you.... (Note. he haunts the graveyard to your immediate right upon entry).
+location: Southington Road Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -72.7509998
+latitude: 41.6425139
+city_longitude: -72.7687083
+city_latitude: 41.6353769
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1789/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Danville
+country: United States
+description: A report of a headless man walking around the cemetery at night. He might me looking for his head
+location: Oak Hill cemetery
+state: Virginia
+state_abbrev: VA
+longitude: -79.3923087
+latitude: 36.5696485
+city_longitude: -79.39502279999999
+city_latitude: 36.5859718
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1832/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

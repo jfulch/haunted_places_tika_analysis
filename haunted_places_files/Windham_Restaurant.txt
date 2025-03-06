@@ -1,0 +1,20 @@
+city: Windham
+country: United States
+description: hair being touched, jewelry being unclasped, furniture and place settings being moved, disappearing objects reappearing in strange locations, and holiday decorations being rearranged/stacked.
+location: Windham Restaurant
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.26224610000001
+latitude: 42.8059923
+city_longitude: -71.30422899999999
+city_latitude: 42.8006441
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

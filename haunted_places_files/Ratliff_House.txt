@@ -1,0 +1,20 @@
+city: Clinton
+country: United States
+description: Back in 1992 a house was built on 10 acres of land that had never been touched, it used to be an old soldiers graveyard. When your in the house you can hear footsteps, doors shutting, voices, and what sounds to be an old man screaming in pain.
+location: Ratliff House
+state: South Carolina
+state_abbrev: SC
+longitude: -81.8530342
+latitude: 34.5411853
+city_longitude: -81.88065619999999
+city_latitude: 34.4726276
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1992/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 0

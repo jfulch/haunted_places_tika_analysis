@@ -1,0 +1,21 @@
+city: Chelsea
+country: United States
+description: in the dark, you can feel an odd presence of someone else there with you. There have been reports of ghost sitings near the operation rooms.
+location: Chelsea hospital
+state: Michigan
+state_abbrev: MI
+longitude: -84.0165056
+latitude: 42.3104227
+city_longitude: -84.0205029
+city_latitude: 42.3180919
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Eugene
+country: United States
+description: A Student was in the high school auditorium. He went up onto the catwalks, fell off and died. His spirit has rarely been seen, but often you will hear the sounds of someone walking when no one is there.
+location: South Eugene High school
+state: Oregon
+state_abbrev: OR
+longitude: -123.0866909
+latitude: 44.0377702
+city_longitude: -123.0867536
+city_latitude: 44.0520691
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

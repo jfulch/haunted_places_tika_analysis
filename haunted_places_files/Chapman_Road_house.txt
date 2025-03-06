@@ -1,0 +1,21 @@
+city: Sherwood
+country: United States
+description: This 4 bedroom home built in late 1999 has been the scene of horrifying ghostly manifestations. This home is set next to the family's vineyard. The family has lived on this property for years. Up until 1998 they had lived in a older home on the same site but decided to demolish the old house and build a new one. Before the new home was built there were never any problems.
+location: Chapman Road house
+state: Oregon
+state_abbrev: OR
+longitude: -122.9884045
+latitude: 44.9895205
+city_longitude: -122.840098
+city_latitude: 45.3565074
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

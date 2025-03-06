@@ -1,0 +1,21 @@
+city: Barrington
+country: United States
+description: Glowing orbs are seen from the road, and a phantom black car can be seen driving from the entrance of the cemetery then disappearing a few blocks down. Also, when pictures are taken of the cemetery the pictures do not develop or the camera is lost.
+location: White Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.1456841
+latitude: 42.17620790000001
+city_longitude: -88.1361888
+city_latitude: 42.1539141
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

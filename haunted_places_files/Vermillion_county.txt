@@ -1,0 +1,21 @@
+city: Georgetown
+country: United States
+description: Ridge farm - These towns are located in Illinois almost every cemetery is haunted. Most of them are located back in the country where almost no one lives. About 99% of these cemeteries date back to the civil war times, and before that with heavy paranormal activity.
+location: Vermillion county
+state: Illinois
+state_abbrev: IL
+longitude: -87.6358546
+latitude: 39.97531439999999
+city_longitude: -87.6358546
+city_latitude: 39.97531439999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 0

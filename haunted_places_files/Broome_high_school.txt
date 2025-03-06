@@ -1,0 +1,20 @@
+city: Spartanburg
+country: United States
+description: Many teachers at Broome high school have told the story of a construction worker that helped build the school and had to bring his daughter to work with him one day. They were on the newly finished roof and the girl wasn't paying any attention as to where she was going and walk off thee roof and was killed. If you are up at the school at night really late you can hear the cries of a girl screaming for her father. Many teachers have experienced this. No students, yet.
+location: Broome high school
+state: South Carolina
+state_abbrev: SC
+longitude: -81.842444
+latitude: 34.986223
+city_longitude: -81.9320482
+city_latitude: 34.9495672
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

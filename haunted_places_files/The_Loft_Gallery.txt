@@ -1,0 +1,21 @@
+city: Occoquan
+country: United States
+description: In the early morning hours in October 2006 one of the artist witnessed a mist with a glow float thru the gallery.  Many of the artists have heard doors closing, footsteps and floors creaking as though someone was in the gallery.  During the 1990's one of the paintings came flying off the wall while one of the artists told young visitors stories of a man from centuries ago.  The young visitors ran screaming from the gallery leaving the artist to clean up the mess made by the spirit.
+location: The Loft Gallery
+state: Virginia
+state_abbrev: VA
+longitude: -77.2610636
+latitude: 38.6847023
+city_longitude: -77.260261
+city_latitude: 38.6837271
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

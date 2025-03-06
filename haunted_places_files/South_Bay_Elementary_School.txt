@@ -1,0 +1,21 @@
+city: West Babylon
+country: United States
+description: Many sightings of a little boy wandering in the recreation area at night is seen, he's usually seen walking around the area where the old fire house burnt down around the late 1800's.also, numerous times, an old man that looks poor is seen wandering.
+location: South Bay Elementary School
+state: New York
+state_abbrev: NY
+longitude: -73.346671
+latitude: 40.6921997
+city_longitude: -73.354287
+city_latitude: 40.718155
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

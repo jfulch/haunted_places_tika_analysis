@@ -1,0 +1,21 @@
+city: Tybee Island
+country: United States
+description: Every full moon by the old fort you can hear the sounds of fighting and cries of death as the ocean waters turn the color of blood red. The fort is across the road from the lighthouse, which is said to be haunted by a former keeper.
+location: The Light House
+state: Georgia
+state_abbrev: GA
+longitude: -80.8454667
+latitude: 32.0221802
+city_longitude: -80.845666
+city_latitude: 32.0002152
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.4
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

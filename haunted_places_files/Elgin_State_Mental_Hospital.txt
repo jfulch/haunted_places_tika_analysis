@@ -1,0 +1,21 @@
+city: Elgin
+country: United States
+description: Elgin State was a relic of the 1950s era of using pain for mental treatment. Electroshock and cold therapy were some of the ghastly methods used on patients. Many died and as the years went on, and the cemetery ran out of room, the bodies were incinerated in the basement. The campus is shut down, and is closed down. Visitors have to hop a fence and run from the security guards to avoid being fined $5,000. Reports include tapings, screams, shadows, lights inside, cold fields, and fog. Inside, visitors claim to see blood stained walls, and smell the scent of decay. Many consider it the most haunted place in Chicago land. - June 2008 Update/correction to updates.: To see more on the history, please check out  http://www.worldmedicalguide.com/medical-disorders/mental-disorders/elgin-mental-health-center-more-than-just-a-psychiatric-facility/. This place has been mostly closed down. The State built additions that are the part that is open and yet it must be regarded that open does not mean open to the public. The old part was closed done due to deadly asbestos that was discovered on the walls and the buildings that were contaminated were all torn down. The reason for the armed guards is that there is both a juvenile detention center and a center for the Criminally insane that exist on the property and the guards are there to make sure no one goes near these areas without clearance.
+location: Elgin State Mental Hospital
+state: Illinois
+state_abbrev: IL
+longitude: -88.28450199999999
+latitude: 42.0213058
+city_longitude: -88.2825668
+city_latitude: 42.0354084
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

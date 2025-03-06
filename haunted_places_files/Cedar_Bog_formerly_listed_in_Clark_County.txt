@@ -1,0 +1,20 @@
+city: Champaign County
+country: United States
+description: The road to Cedar Bog is enclosed on both sides by a very tall chain link fence. Some say that this is here to protect visitors from a big foot type of creature that killed a few people many years ago. Others say that it was put up to prevent deer from wondering into the road. Either way, at night some have heard screams and reported an eerie feeling, as if being watched.
+location: Cedar Bog- formerly listed in Clark County
+state: Ohio
+state_abbrev: OH
+longitude: -83.79613599999999
+latitude: 40.0578067
+city_longitude: -83.804868
+city_latitude: 40.10258169999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

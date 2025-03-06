@@ -1,0 +1,21 @@
+city: Queets
+country: United States
+description: Several people visiting the burial ground have reported hearing strange noises resembling the beat of drums and Indian singing.
+location: Native American Burial Ground
+state: Washington
+state_abbrev: WA
+longitude: -123.8404282
+latitude: 47.4709996
+city_longitude: -124.33111
+city_latitude: 47.53972
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

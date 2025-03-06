@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: Late at night or in the morning, teachers and even some students claim that in the main building on the third floor they hear whispers and footsteps behind them and when they look back there is no one there. Also, in the gym during physical education the lights suddenly go on and off. Besides that, the janitor claims that all of a sudden the ropes to climb will move by itself and the volleyball nets outside shake very hard.
+location: Bancroft Middle school
+state: California
+state_abbrev: CA
+longitude: -118.3370631
+latitude: 34.0878273
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

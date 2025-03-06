@@ -1,0 +1,21 @@
+city: Sweet Briar
+country: United States
+description: Meta Glass Dormitory - The founder's young daughter who died a sudden and sickly death at the age of 16 makes her presence known throughout the attic of this dormitory. It has also been said that her mother can often be seen in the quad near their old plantation house...
+location: Sweet Biar College
+state: Virginia
+state_abbrev: VA
+longitude: -79.08286439999999
+latitude: 37.5576478
+city_longitude: -79.0801084
+city_latitude: 37.5565736
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: San Diego
+country: United States
+description: haunted by Thomas Whaley & it is believed there are others. This house was once the city's courtroom. The haunting extens beyond Thomas Whaley and to a man hanged just outside the house. He was hung for stealing a boat. One visitor strongly felt the presence of a woman while touring the house, in one of the upstairs bedrooms. “It was not frightening...the presence was actually welcoming. There are tours in this place.
+location: The Whaley House
+state: California
+state_abbrev: CA
+longitude: -117.194556
+latitude: 32.752778
+city_longitude: -117.1610838
+city_latitude: 32.715738
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1857/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

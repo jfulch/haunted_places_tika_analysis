@@ -1,0 +1,21 @@
+city: West Sunbury
+country: United States
+description: In between the elementary school and a house if you stand in the right spot the wind blows an opposite way and you can here children singing Row Row Your Boat.
+location: McKinney Hollow
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.8802073
+latitude: 41.0010936
+city_longitude: -79.8961647
+city_latitude: 41.0072854
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1852/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

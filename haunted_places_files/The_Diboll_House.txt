@@ -1,0 +1,21 @@
+city: Diboll
+country: United States
+description: Owners of the house would have coinciding nightmares, smelling bad odors that seemed to come from no where, feelings of being watched, strange banging noises, apparitions, and reports of being physically attacked (smacked, thrown). Diboll House Experience
+location: The Diboll House
+state: Texas
+state_abbrev: TX
+longitude: -94.7681288
+latitude: 31.1926292
+city_longitude: -94.7810412
+city_latitude: 31.1871319
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Great Lakes
+country: United States
+description: Recruit training command AKA boot camp for the navy is haunted my many spirits. In ship 12 you can hear a woman's scream loudly and fade within seconds. In ship 13, you sometimes will see a figure of a recruit who hung himself. In ship 15, which was once reported as a mental loony bin that caught on fire killing many people. Throughout the night, you will see figures and shadows walking around. Sometimes a ghost will whisper in your ear " Reveille Reville" This has happened to many people as well. One time a coat hanger flew off the wall, over the fan that was on at the time, and hit a friend of mine on the head. I was witness to it.
+location: Recruit Training Command
+state: Illinois
+state_abbrev: IL
+longitude: -87.8496033
+latitude: 42.3115014
+city_longitude: -87.8415418
+city_latitude: 42.312403
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

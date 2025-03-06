@@ -1,0 +1,21 @@
+city: Olney
+country: United States
+description: An old church stands at the front of the cemetery. This church is said to be haunted. When the front door is knocked on sounds are heard within the church, sometimes choirs, footsteps and strange lights. On some nights funeral sessions are seen at the church. Although no funerals have taken place there since the 50's.
+location: Mt. Pleasant Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -87.9853832
+latitude: 38.6872889
+city_longitude: -88.0853154
+city_latitude: 38.7308811
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

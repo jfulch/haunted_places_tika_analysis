@@ -1,0 +1,21 @@
+city: Canton
+country: United States
+description: many legends about this rd. the bridge is said to be haunted by a woman who's child was killed by a car, she walks the bridge and you can hear the baby cry. dark figures chase your car and there is said to be a house on a side rd. that is haunted
+location: Denton rd
+state: Michigan
+state_abbrev: MI
+longitude: -83.52522599999999
+latitude: 42.2853235
+city_longitude: -83.48211599999999
+city_latitude: 42.3086444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.466666666666669
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 0

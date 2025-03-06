@@ -1,0 +1,19 @@
+city: Poquoson
+country: United States
+description: A woman by the name of Dolly "Mammy" Messick once went out right before a winter storm to bring in the cows (with no help from her 3 children) and drown in a sink hole, and was said to have haunted her two daughters until their deaths.
+location: Old town Poquoson (Messick)
+state: Virginia
+state_abbrev: VA
+city_longitude: -76.3457773
+city_latitude: 37.1223664
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

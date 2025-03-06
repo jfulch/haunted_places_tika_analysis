@@ -1,0 +1,21 @@
+city: Pinerun
+country: United States
+description: When driving through the cemetery after dark your car will suddenly stop and not move while in gear. Can't go even if accelerating. Three images have been seen from the road of a woman, man, and child all buried side by side.
+location: Pinerun Cemetery
+state: Michigan
+state_abbrev: MI
+longitude: -83.7181636
+latitude: 43.1818649
+city_longitude: -83.7141267
+city_latitude: 43.1778035
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.366666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: New York City
+country: United States
+description: Former Beatle John Lennon has occasionally been seen outside the apartment building where he once lived, and was assassinated.
+location: Dakota apartment building
+state: New York
+state_abbrev: NY
+longitude: -73.97614080000001
+latitude: 40.77652579999999
+city_longitude: -74.0059728
+city_latitude: 40.7127753
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

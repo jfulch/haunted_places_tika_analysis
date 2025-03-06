@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: There is a bridge on a road beyond I-35 to the East, off of Wells Branch Parkway. If you put your car in neutral and turn everything off, your car will roll across the bridge. Supposedly the ghosts of two children who were killed by their father around the area push your car, away from their dangerous dad. - January 2007 Update: old bridge is long gone and has had a new one put up. And all the woods that used to surround the place are now houses.
+location: Jacob's Hill
+state: Texas
+state_abbrev: TX
+longitude: -97.8513324
+latitude: 30.2243097
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

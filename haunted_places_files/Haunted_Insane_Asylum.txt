@@ -1,0 +1,18 @@
+city: Florissant
+country: United States
+description: This haunted insane asylum is located on McLaran road which is off of Jenning's station road. You keep your eye on the left while driving and you'll know which house it is. Witnesses report hearing music and seeing orbs everywhere.
+location: Haunted Insane Asylum
+state: Missouri
+state_abbrev: MO
+city_longitude: -90.322614
+city_latitude: 38.789217
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

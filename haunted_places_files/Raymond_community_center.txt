@@ -1,0 +1,21 @@
+city: Newnan
+country: United States
+description: Reports of seeing an apparition of a girl running and she has been heard crying as well.
+location: Raymond community center
+state: Georgia
+state_abbrev: GA
+longitude: -84.7942664
+latitude: 33.3704666
+city_longitude: -84.79965729999999
+city_latitude: 33.3806716
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

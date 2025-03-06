@@ -1,0 +1,19 @@
+city: Dry Hollow
+country: United States
+description: It is said that an old railroad worker was working on night under the bridge and he slipped and fell and got knocked out with his head on the tracks and the train decapitated him. If you go there on a rainy, stormy night you can see him walking with a lantern looking for his head.
+location: Crazy George's Bridge
+state: Tennessee
+state_abbrev: TN
+city_longitude: -85.252281
+city_latitude: 36.252282
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1976/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Saginaw
+country: United States
+description: JB Meinburg's is an old pub that is said to be haunted by an old bar maid. She occasionally is seen checking on the tables at the back of the bar. She has whispered in people's ears, asking if they needed a drink. She has been seen walking into the back hall. This bar is featured in our local paper just about every Halloween. I have only been to the bar once.
+location: JB Meinburg's
+state: Michigan
+state_abbrev: MI
+longitude: -83.9638155
+latitude: 43.4163816
+city_longitude: -83.9508068
+city_latitude: 43.4194699
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1984/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

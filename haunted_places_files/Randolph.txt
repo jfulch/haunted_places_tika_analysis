@@ -1,0 +1,21 @@
+city: Lynchburg
+country: United States
+description: Macon Woman's College- A girl was murdered on campus 25 years ago and it is said that some nights you can hear her running and screaming. Also, is said that the Smith Banquet Hall is haunted by the headless ghost of a Washington and Lee U. student who was on his way here for a dance and got decapitated in a wreck.
+location: Randolph
+state: Virginia
+state_abbrev: VA
+longitude: -79.172197
+latitude: 37.436964
+city_longitude: -79.14224639999999
+city_latitude: 37.4137536
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1891/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

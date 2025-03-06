@@ -1,0 +1,21 @@
+city: Hillside
+country: United States
+description: back in the 80's there was a blue van said to have driven the streets surrounding the park, grabbing young girls, pulling them into the back of the van, terrifying them and then releasing them shaken not able to speak.  no one could ever identify the blank faces on the assailants. If a blue van follows you around the streets near conant park, run and don't look back, not all were returned to the streets they were taken.  some were never seen again.
+location: Conant Park
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.2283673
+latitude: 40.6880206
+city_longitude: -74.2287333
+city_latitude: 40.6955044
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Bowling Green
+country: United States
+description: Van Meter - Auditorium - The auditorium is reportedly haunted by a man that fell to his death there while working on one of the catwalks. Students, workers and performers have seen him. Also rumored, he fell onto the stage and his blood of course soaked into the wood. In the 1950’s and again in 1968 this stage was re-floored, and the stain again returned.
+location: Western Kentucky University
+state: Kentucky
+state_abbrev: KY
+longitude: -86.456138
+latitude: 36.9853543
+city_longitude: -86.4808043
+city_latitude: 36.9685219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1968/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

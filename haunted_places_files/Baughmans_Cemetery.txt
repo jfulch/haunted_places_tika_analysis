@@ -1,0 +1,21 @@
+city: Tyrone
+country: United States
+description: It is a cemetery that goes around in a circle up in the middle of nowhere. If you go up there on full moon nights you can see the outline of people hanging in the trees. If you go up there on any night the wind is not blowing on the way up but as soon as you get there the wind starts blowing. Or sometimes you might get chased out of the cemetery by a light misty figure or a white horse.
+location: Baughmans Cemetery
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.2193869
+latitude: 40.7211548
+city_longitude: -78.23862439999999
+city_latitude: 40.6706184
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: West Hills
+country: United States
+description: There have been apparitions of a woman with long, dark hair, and a hooded figure standing among the dark trees at night with its eyes glowing red. Noises at night like keys jangling, creaking stairs, heavy footsteps and the like. Things also turned up missing that were never to be found.
+location: Capistrano Ave
+state: California
+state_abbrev: CA
+longitude: -118.6178816
+latitude: 34.2073342
+city_longitude: -118.6439809
+city_latitude: 34.1973122
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

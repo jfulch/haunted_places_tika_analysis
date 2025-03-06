@@ -1,0 +1,21 @@
+city: Lapeer
+country: United States
+description: Supposedly this building which sits alone right off of lake Nepessing used to be a bordello at one point. I've seen a man walking off the dock into the lake, a woman leaning over the platform of the lighthouse, cluttered voices yelling that you leave immediately when walking to the back bathrooms, and an eerie feeling, almost like cold hands wrapping around your neck when near the staircase to the roof.
+location: Castaway's restaurant
+state: Michigan
+state_abbrev: MI
+longitude: -83.37995769999999
+latitude: 43.0195709
+city_longitude: -83.31883409999999
+city_latitude: 43.0514161
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1997/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Omaha
+country: United States
+description: These apartments used to be an old hospital. It is said that some of the tenents who lived on the main floor has seen a lady in a long white gown walking the hallway.
+location: The White House Apartments
+state: Nebraska
+state_abbrev: NE
+longitude: -95.9298987
+latitude: 41.2461045
+city_longitude: -95.9979883
+city_latitude: 41.2523634
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

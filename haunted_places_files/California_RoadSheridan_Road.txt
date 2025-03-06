@@ -1,0 +1,21 @@
+city: Pekin
+country: United States
+description: There are three California Roads in Pekin. The one which connects Sheridan Road with Broadway Road is haunted. (This is the one you can get to by traveling on Veteran's Parkway and continuing at the light) At night, one can see bright lights in the trees ahead as if someone is shining a police spotlight on them and there will be no police in the area. Also, on Sheridan Road, there is a "wall" of mist that never disappears.
+location: California Road/Sheridan Road
+state: Illinois
+state_abbrev: IL
+longitude: -89.629308
+latitude: 40.582141
+city_longitude: -89.640658
+city_latitude: 40.5675388
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1831/03/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

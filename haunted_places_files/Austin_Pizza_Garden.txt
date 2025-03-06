@@ -1,0 +1,21 @@
+city: Austin
+country: United States
+description: stories of faces appearing and disappearing in the walls.
+location: Austin Pizza Garden
+state: Texas
+state_abbrev: TX
+longitude: -97.8590452
+latitude: 30.2356151
+city_longitude: -97.7430608
+city_latitude: 30.267153
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1600/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Sunnyside
+country: United States
+description: Just a flat out, freaky place. Not known if anyone lives there. But green lantern like lights has been seen inside.
+location: Sunnyside House
+state: Florida
+state_abbrev: FL
+longitude: -85.96346199999999
+latitude: 30.258548
+city_longitude: -85.96052159999999
+city_latitude: 30.2575989
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

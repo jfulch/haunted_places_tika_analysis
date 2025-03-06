@@ -1,0 +1,21 @@
+city: Middlesboro
+country: United States
+description: There was a little boy murdered there by the swings. They claim that she was out playing at night by herself and got raped and killed. If you walk down the park late at night around 12:00p.m., you can see visions on her swinging on the swings.
+location: Middlesboro Park, near Greenwood Rd.
+state: Kentucky
+state_abbrev: KY
+longitude: -83.7166984
+latitude: 36.6111862
+city_longitude: -83.7142848
+city_latitude: 36.6072567
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

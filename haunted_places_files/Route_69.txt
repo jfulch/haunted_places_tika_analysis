@@ -1,0 +1,18 @@
+city: Lampson Corner
+country: United States
+description: An area between Burlington and Bristol CT. on rte 69, as the story goes the village was wiped out by small pox. People who have gone up there say they have seen strange apparitions.
+location: Route 69
+state: Connecticut
+state_abbrev: CT
+city_longitude: -72.97121539999999
+city_latitude: 41.7425983
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

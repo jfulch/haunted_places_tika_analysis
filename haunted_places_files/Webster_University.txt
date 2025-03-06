@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: Loretto-Hilton Theater - The Loretto-Hilton is haunted by a tech guy who died there; he once saved someone who had leaned too far over the edge of a catwalk: the man was falling, and then felt someone pull him back -- only no one else was there.
+location: Webster University
+state: Missouri
+state_abbrev: MO
+longitude: -90.3437667
+latitude: 38.5892883
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

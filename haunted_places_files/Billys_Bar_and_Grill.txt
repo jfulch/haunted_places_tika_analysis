@@ -1,0 +1,21 @@
+city: Aberdeen
+country: United States
+description: This Building has two floors, the first floor has the restaurant, the second floor used to contain a prostitution house some of the ladies and a very infamous ghost named Billy Ghol may haunt the place lights go on and off at night cold spots and fog on the plate glass mirror.
+location: Billy's Bar and Grill
+state: Washington
+state_abbrev: WA
+longitude: -123.8137528
+latitude: 46.9753051
+city_longitude: -123.8157218
+city_latitude: 46.9753708
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 0

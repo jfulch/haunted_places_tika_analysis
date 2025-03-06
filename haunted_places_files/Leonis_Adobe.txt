@@ -1,0 +1,21 @@
+city: Calabasas
+country: United States
+description: an old house/ranch from the1800's is said to be haunted by the original owner/builder of the house.
+location: Leonis Adobe
+state: California
+state_abbrev: CA
+longitude: -118.6402745
+latitude: 34.1575359
+city_longitude: -118.6614809
+city_latitude: 34.1367208
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1982/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

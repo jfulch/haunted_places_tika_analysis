@@ -1,0 +1,20 @@
+city: Paintsville
+country: United States
+description: built over partially or very near an Indian war and burial ground. This city is named for its numerous amounts of Indian paintings found here, and there are several Indian burial grounds here that businesses had been built on, that have had sightings.
+location: the City
+state: Kentucky
+state_abbrev: KY
+longitude: -82.8071054
+latitude: 37.8145384
+city_longitude: -82.8071054
+city_latitude: 37.8145384
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Partial Apparition
+event_type: War
+witness_count: 1

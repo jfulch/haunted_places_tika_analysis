@@ -1,0 +1,20 @@
+city: Lamar
+country: United States
+description: nine miles out of town is this cemetery it is known to have many ghost haunting it.
+location: Bluff cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -94.3791174
+latitude: 37.6306
+city_longitude: -94.2766148
+city_latitude: 37.49504780000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 29m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

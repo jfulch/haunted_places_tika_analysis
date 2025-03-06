@@ -1,0 +1,21 @@
+city: Pasadena
+country: United States
+description: Riviera Beach Volunteer Fire Company - An old Chief of the fire station named Edwin who died in a fire. Is said to walk around the Fire station at night closing doors, making loud noises and seen sometimes cleaning the fire engines and seen in mirrors and windows. The old hall above the fire station is always heard with pacing late at night loud booms and few fire fighters have been visited by this ghost and have been able to tell about it. See the picture of him in the watch desk and his eyes follow your every move.
+location: Riviera Beach
+state: Maryland
+state_abbrev: MD
+longitude: -76.5170949
+latitude: 39.1566505
+city_longitude: -76.57107529999999
+city_latitude: 39.1073317
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

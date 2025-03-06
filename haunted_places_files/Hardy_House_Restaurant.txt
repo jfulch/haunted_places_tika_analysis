@@ -1,0 +1,21 @@
+city: St. George
+country: United States
+description: a shadowy ghost has been seen here.
+location: Hardy House Restaurant
+state: Utah
+state_abbrev: UT
+longitude: -113.6023903
+latitude: 37.127645
+city_longitude: -113.5684164
+city_latitude: 37.0965278
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.683333333333334
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

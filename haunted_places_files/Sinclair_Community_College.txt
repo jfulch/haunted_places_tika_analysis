@@ -1,0 +1,20 @@
+city: Dayton
+country: United States
+description: Blair Hall - The old Dayton hanging field was right under the cafeteria. They hung thieves and cattle rustlers there, apparently some are still hanging around. In Blair Hall you’ll feel people tugging on you, or they’d smother you, they’d press down on your chest. Staff would hear people laughing when they knew nobody is around. Elevators would work by themselves and the doors would open up. You’d hear people talking, and hear cats meowing in the walls. Sometimes the workers would hear two dancers dancing across the stage. In building seven on the third floor, even when no one’s around, doors would open and slam shut, and you’d hear people talking. Sometimes you can get just a passing glimpse of the ghosts. More or less people would hear talking, laughing, and babies crying. Sometimes the big heavy fire doors in the cafeteria would slam shut.
+location: Sinclair Community College
+state: Ohio
+state_abbrev: OH
+longitude: -84.1983316
+latitude: 39.7573787
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1999/04/25
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

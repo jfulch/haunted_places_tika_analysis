@@ -1,0 +1,20 @@
+city: Highlands Ranch
+country: United States
+description: After leaving things locked up in the booth over night they will be moved the next day, or the item is not in the booth at all. Cold spots, the hair on the back of your neck and arms stand up, & footsteps in the catwalk when no one is up there.
+location: Highlands Ranch High School Auditorium
+state: Colorado
+state_abbrev: CO
+longitude: -104.9328654
+latitude: 39.5445848
+city_longitude: -104.9739333
+city_latitude: 39.5480789
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

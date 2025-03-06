@@ -1,0 +1,21 @@
+city: San Bernardino
+country: United States
+description: Abandoned - Reports of cold spots, an apparition of a little girl. - **Warning As with any of the places mentioned, please use caution when investigating these haunted places, some may be structurally unsafe, or not so nice people.
+location: Apartments on Marshall Blvd.
+state: California
+state_abbrev: CA
+longitude: -117.321839
+latitude: 34.176752
+city_longitude: -117.2897652
+city_latitude: 34.1083449
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

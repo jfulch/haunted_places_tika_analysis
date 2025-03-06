@@ -1,0 +1,20 @@
+city: Cedarville / Fairton
+country: United States
+description: many strange thing have been reported here such as ghostly faces on head stones, organ music hear coming from the church late in the morning hours with no electrical sources going to the building. by rs2
+location: the old stone church
+state: New Jersey
+state_abbrev: NJ
+longitude: -75.22493399999999
+latitude: 39.3596632
+city_longitude: -75.2247734
+city_latitude: 39.3644647
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1904/10/27
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

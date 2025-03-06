@@ -1,0 +1,20 @@
+city: Redding
+country: United States
+description: a small field on the right of the train tracks before the overpass usually at night orbs of light and a lit tent vanishing.
+location: Topstone Rd
+state: Connecticut
+state_abbrev: CT
+longitude: -73.437185
+latitude: 41.3038566
+city_longitude: -73.392898
+city_latitude: 41.30453989999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

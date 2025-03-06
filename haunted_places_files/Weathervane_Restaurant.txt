@@ -1,0 +1,21 @@
+city: Charlevoix
+country: United States
+description: This spot is said to be haunted by a ghost believed to be in his late teens to early 20's who died in the grinder of the old mill that used to stand on the site.
+location: Weathervane Restaurant
+state: Michigan
+state_abbrev: MI
+longitude: -85.25928429999999
+latitude: 45.3192451
+city_longitude: -85.2584004
+city_latitude: 45.3180632
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

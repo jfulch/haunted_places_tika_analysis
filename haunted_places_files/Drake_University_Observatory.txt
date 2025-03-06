@@ -1,0 +1,21 @@
+city: Des Moines
+country: United States
+description: The Drake University Observatory is said to be haunted by Dr. Robert Morehouse. He was the first Chairman of the Astronomy and Physics Department and his claim to fame was discovering a comet in the 1920's. His remains, along with those of his wife, are interred in the wall of the entryway. Students have reported many strange things happening in the basement, such as a feeling of being watched and an unknown force correcting the calculations in their observation logs.
+location: Drake University Observatory
+state: Iowa
+state_abbrev: IA
+longitude: -93.6878586
+latitude: 41.5955787
+city_longitude: -93.6091064
+city_latitude: 41.6005448
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1930/05/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

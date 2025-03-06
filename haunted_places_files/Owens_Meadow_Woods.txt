@@ -1,0 +1,21 @@
+city: Kennesaw
+country: United States
+description: Strange noises heard coming from woods. Sightings of Jim Owens, founder of Owens Meadow, has been seen drug into the woods and murdered.
+location: Owens Meadow Woods
+state: Georgia
+state_abbrev: GA
+longitude: -84.64979420000002
+latitude: 34.0240663
+city_longitude: -84.6154897
+city_latitude: 34.0234337
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

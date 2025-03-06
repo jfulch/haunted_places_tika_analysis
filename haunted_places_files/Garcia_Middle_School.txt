@@ -1,0 +1,20 @@
+city: Brownsville
+country: United States
+description: They say that the Library of the school is haunted because one night a couple of teachers and students that stayed over and that when they came back they had seen all the TV's on and there was a couple of things missing there was also books falling of the shelves.
+location: Garcia Middle School
+state: Texas
+state_abbrev: TX
+longitude: -97.4295694
+latitude: 25.9467355
+city_longitude: -97.4974838
+city_latitude: 25.9017472
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

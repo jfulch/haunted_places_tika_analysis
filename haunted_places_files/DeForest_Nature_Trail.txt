@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: Black Figures seen floating around...moaning heard and children laughing...cold spots and screaming heard. Especially by the end towards the riverbed trail.
+location: DeForest Nature Trail
+state: California
+state_abbrev: CA
+longitude: -118.1917985
+latitude: 33.8678992
+city_longitude: -118.1937395
+city_latitude: 33.7700504
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1989/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: War
+witness_count: 1

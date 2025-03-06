@@ -1,0 +1,21 @@
+city: Newbern
+country: United States
+description: In Newbern a section of Dublin Va. in - . There is a Wilderness Road Museum and just the wilderness road area, have often been said to be Haunted. Lots of the original buildings are still there. But the main Places that you see the ghost of this little town are in the museum. There is a lady who has been seen in the top widows of the building looking out and gazing. No one is sure to who she is but she has been seen wondering around the grounds also. It s said that in the middle of the night, the lights will flip on and then off with no one in the place. It’s a rich little area around here. Deep in the history of the wars and everything else that has happened around here.
+location: Wilderness Road Museum
+state: Virginia
+state_abbrev: VA
+longitude: -80.6910972
+latitude: 37.0732877
+city_longitude: -80.6906214
+city_latitude: 37.0734558
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

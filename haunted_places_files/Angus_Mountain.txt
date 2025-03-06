@@ -1,0 +1,19 @@
+city: Haywood
+country: United States
+description: It is said that late at night you can see shadows carrying lamps walking through the woods. It is believed that it is the spirits of Indians from years gone by.
+location: Angus Mountain
+state: Virginia
+state_abbrev: VA
+city_longitude: -78.2522247
+city_latitude: 38.4534599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1526/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

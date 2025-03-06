@@ -1,0 +1,21 @@
+city: Boothbay Harbor
+country: United States
+description: a room on the 2nd floor is haunted by an unknown spirit.
+location: Boothbay Opera House
+state: Maine
+state_abbrev: ME
+longitude: -69.626553
+latitude: 43.85433769999999
+city_longitude: -69.62810139999999
+city_latitude: 43.8523045
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.1
+day_duration: 11h 21m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Pierce
+country: United States
+description: Plainview High School - The Jr. High building is haunted by a girl that was decapitated.  Teachers have reported computers bringing up her grades and the computer freezing on her file.  Also sounds and lights flicker late at night.
+location: Plainview
+state: Nebraska
+state_abbrev: NE
+longitude: -97.7920091
+latitude: 42.3497265
+city_longitude: -97.52672470000002
+city_latitude: 42.19917
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2015/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

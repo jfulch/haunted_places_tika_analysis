@@ -1,0 +1,21 @@
+city: Harrisburg
+country: United States
+description: The nursing home is said to be built over an old Indian Cemetery. The one left hallway in the nursing home's main floor is the only place that seems to be haunted. Items in rooms being thrown everywhere, noises coming from places. Once a nurse walked into a patients room and left, and a few minutes later came back in, and the patient she was treating said "where did that Indian boy go that was following you?". Also, one time a patient in a room seemed to be being suffocated, and her other roommate rang the call bell and the nurses came in and she suddenly stopped being suffocated. The patient said she saw a character like the "grim reaper" over her strangling her. The next day, bruises appeared on her neck in the shape on hands. Presences are felt in this hospital. Lights going on and off, pretty much the whole place is haunted.
+location: IHS Nursing Home
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.8901928
+latitude: 40.2787277
+city_longitude: -76.8867008
+city_latitude: 40.2731911
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

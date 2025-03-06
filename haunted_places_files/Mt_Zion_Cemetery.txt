@@ -1,0 +1,21 @@
+city: Henryville
+country: United States
+description: The green Lady - in the early 1900's a young woman was killed on Henryville blue lick road after a terrible car accident and buried in Mt. Zion cemetery on the same road. it is said that she roams the cemetery, with a green glow to her. she will jump on your car if its parked in the cemetery at night(said to be looking for a ride home) and the green goo will still be on your car until you wash it off.
+location: Mt. Zion cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -85.7777172
+latitude: 38.53561060000001
+city_longitude: -85.76774379999999
+city_latitude: 38.5417282
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.366666666666667
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

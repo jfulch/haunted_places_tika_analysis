@@ -1,0 +1,21 @@
+city: Guntersville
+country: United States
+description: This theater is haunted by two known ghosts. One is of an older man that has been known to set stage mattresses on fire and slam doors. The other spirit is of a little boy who can be heard laughing.
+location: Whole Backstage Theater
+state: Alabama
+state_abbrev: AL
+longitude: -86.302893
+latitude: 34.3511147
+city_longitude: -86.29470409999999
+city_latitude: 34.3581473
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

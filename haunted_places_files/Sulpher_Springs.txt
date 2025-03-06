@@ -1,0 +1,21 @@
+city: Lampasas
+country: United States
+description: In the 1800's the only daughter of the richest man in the town fell in love and got pregnant by one of there slaves. She told her father and he had the slave hung. After she had the baby she went and jumped into the Sulpher springs with her newborn baby and drowned. But the body mysteriously floated up to the top of the springs 15 years later. It is now said that the ghost walks around the grounds were her house used to be but is now a Intermediate school and wandering around the old slave house with her baby looking for her lost love to show him the baby.
+location: Sulpher Springs
+state: Texas
+state_abbrev: TX
+longitude: -98.1763646
+latitude: 31.0559814
+city_longitude: -98.1816957
+city_latitude: 31.06378399999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

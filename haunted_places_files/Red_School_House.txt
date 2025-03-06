@@ -1,0 +1,21 @@
+city: Epsom
+country: United States
+description: There is an urban myth that in the late 19th century a teacher went crazy and killed her students and buried them next to the school where now a cemetery stands. There are reports that there are voices heard and people being touched.
+location: Red School House
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.33644029999999
+latitude: 43.1744376
+city_longitude: -71.3445677
+city_latitude: 43.2249396
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.716666666666669
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

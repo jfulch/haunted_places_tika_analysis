@@ -1,0 +1,21 @@
+city: Montgomery
+country: United States
+description: Dale apartments - Tenants describe shadow phenomenon, as well as noises from nowhere, doors slamming, screams from nowhere, etc.
+location: Coffeyville
+state: Kansas
+state_abbrev: KS
+longitude: -95.6163665
+latitude: 37.0373005
+city_longitude: -95.8142885
+city_latitude: 37.240253
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Evening
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

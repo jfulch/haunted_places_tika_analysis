@@ -1,0 +1,21 @@
+city: Inverness
+country: United States
+description: Long ago, When the Jail use to be across from the Old Courthouse, the Prisoners were aloud to be escorted to the upstairs balcony at the theater to see a movie for good behavior. The prisoners have haunted the theater ever since it's closure in the 1980's.
+location: Old Movie Theater Downtown
+state: Florida
+state_abbrev: FL
+longitude: -82.32973109999999
+latitude: 28.8364611
+city_longitude: -82.3313955
+city_latitude: 28.8354507
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

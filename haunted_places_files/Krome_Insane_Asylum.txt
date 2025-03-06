@@ -1,0 +1,21 @@
+city: Miami
+country: United States
+description: Many people have seen strange figures, heard many noises. Including screaming, talking and breathing.
+location: Krome Insane Asylum
+state: Florida
+state_abbrev: FL
+longitude: -80.4891056
+latitude: 25.7542507
+city_longitude: -80.1917902
+city_latitude: 25.7616798
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

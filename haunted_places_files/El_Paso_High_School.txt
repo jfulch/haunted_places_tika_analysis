@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: At this high school, there is a hall that leads to a balcony that is closed off. Every single day, mist and fog roam the hall and there seems to be some "gooey-stuff" on the ceiling. It is said to be that near 35 years ago, a teen killed herself by slitting her wrists in the hall, then, waling towards the balcony, eventually, jumping off. A wall that was built in front of it closes off the whole stairway and hallway that leads near there. Nobody can even tell now that there was even a hallway there, but people do wonder how to get to that hall.
+location: El Paso High School
+state: Texas
+state_abbrev: TX
+longitude: -106.491033
+latitude: 31.7729195
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.533333333333331
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

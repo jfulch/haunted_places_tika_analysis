@@ -1,0 +1,21 @@
+city: Phoenix
+country: United States
+description: Trevor G Browne High School - In the early 1990’s, when construction workers were building the auditorium for the high school, one of the workers fell off of a high beam and was killed instantly on impact. They say you can hear moans and cries of pain in the auditorium at night during closing time .
+location: Maricopa
+state: Arizona
+state_abbrev: AZ
+longitude: -112.0740373
+latitude: 33.4483771
+city_longitude: -112.0740373
+city_latitude: 33.4483771
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

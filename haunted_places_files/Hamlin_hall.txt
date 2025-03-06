@@ -1,0 +1,20 @@
+city: Cleveland
+country: United States
+description: This place is rumored to be haunted by a young man who died in the building. People have reported to have seen a young man around and have him disappear. Also cold spots round stairwell, where he died.
+location: Hamlin hall
+state: Ohio
+state_abbrev: OH
+longitude: -81.52706529999999
+latitude: 41.4907647
+city_longitude: -81.6943605
+city_latitude: 41.49932
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Scottown
+country: United States
+description: Rumors of a strange "shadow" that follows people upon entering the graveyard at night. Dead bodies of men and slaughtered animals have been found there and a long belief in witchcraft rituals being held at the ruins of the church. The shadow is described as "a black looking thing that follows you from a distance at night."
+location: Lawrence Chapel Graveyard
+state: Ohio
+state_abbrev: OH
+longitude: -82.38241459999999
+latitude: 38.6168593
+city_longitude: -82.38876379999999
+city_latitude: 38.55036
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 0

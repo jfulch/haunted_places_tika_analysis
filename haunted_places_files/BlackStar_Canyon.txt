@@ -1,0 +1,21 @@
+city: Irvine
+country: United States
+description: It's located behind Irvine park and the signs that say "no authorities will help you beyond this point" is a main reason why people don't go in. It's supposed to be home of the "KKK" and strange sightings and noises are heard such as running and screaming. Also lion type figures are said to be walking on the mountain tops. "Warning" If you do plan to go take flashlights because it's is freakishly dark (a sort of weapon would also be a good idea)
+location: BlackStar Canyon
+state: California
+state_abbrev: CA
+longitude: -117.6607464
+latitude: 33.7881185
+city_longitude: -117.8265049
+city_latitude: 33.6845673
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

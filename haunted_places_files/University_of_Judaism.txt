@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: When the school was first being built, and there, kids and students use to come and hang out at night on the soccer field that was there. A girl was raped, her tongue cut out and murdered. It is said on nights in September and October, she has been seen her wandering the soccer field, trying to scream and call gut the names of her attackers, and that if any males wander down to the filed on nights she is out, they will go mute while on the field.
+location: University of Judaism
+state: California
+state_abbrev: CA
+longitude: -118.4725275
+latitude: 34.1263884
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

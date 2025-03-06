@@ -1,0 +1,20 @@
+city: Pittsboro
+country: United States
+description: When you go you have to stay the night! You and your friends each take your own tents. The place is just a big open area where nothing will grow because that’s where the devil walks at night. Well you and your friends sleep in a circle along the outside edges of the area and in the morning when you wake up you and your friends will be separated. Some friends of mine went and when they woke up one of the guys was a mile away!!
+location: Devil's Tramping Ground
+state: North Carolina
+state_abbrev: NC
+longitude: -79.48667739999999
+latitude: 35.5847956
+city_longitude: -79.1772371
+city_latitude: 35.7201463
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

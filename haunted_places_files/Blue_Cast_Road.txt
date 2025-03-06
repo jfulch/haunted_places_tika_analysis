@@ -1,0 +1,21 @@
+city: Woodburn
+country: United States
+description: The Old Blue Cast Sanitarium - The places used to be a sanitarium back in the 40’s.They shut it down and made it a natural spring water plant. Then tore that down in the 70’s. Reports of dark moving shadows, red glowing orbs, cold spots shouting and other strange noises have all been reported.
+location: Blue Cast Road
+state: Indiana
+state_abbrev: IN
+longitude: -84.8662603
+latitude: 41.15386540000001
+city_longitude: -84.8532963
+city_latitude: 41.1253271
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1719/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

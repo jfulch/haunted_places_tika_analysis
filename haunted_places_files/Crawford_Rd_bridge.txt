@@ -1,0 +1,21 @@
+city: Cass City
+country: United States
+description: Back in the 1800's a young lady got in a horse and buggy accident. Her buggy wheel went off the bridge and flipped, she drown in 2 feet of water. On foggy summer night you can see her hand come up over the road and hear her please for help!
+location: Crawford Rd. bridge
+state: Michigan
+state_abbrev: MI
+longitude: -83.1334217
+latitude: 43.5727986
+city_longitude: -83.17466929999999
+city_latitude: 43.6008515
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.5
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Accident
+witness_count: 1

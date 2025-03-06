@@ -1,0 +1,21 @@
+city: Lehi
+country: United States
+description: When you are walking around the school at night the teachers say that there are ghosts in the halls running a talking to each other. They get the feeling that things are watching them and breathing on their necks.
+location: Lehi High School
+state: Utah
+state_abbrev: UT
+longitude: -111.8388783
+latitude: 40.3899288
+city_longitude: -111.8507662
+city_latitude: 40.3916172
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

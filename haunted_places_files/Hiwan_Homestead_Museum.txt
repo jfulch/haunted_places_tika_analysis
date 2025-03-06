@@ -1,0 +1,20 @@
+city: Evergreen
+country: United States
+description: Reports of being called in "the Spinning Room" & a grayish/white, full sized apparition dressed in a floor length nightgown. In a locked, unused room above the study Reports of footsteps and a sound that was almost like a rocking chair coming from above. Strange anomalies have showed up on film as well.
+location: Hiwan Homestead Museum
+state: Colorado
+state_abbrev: CO
+longitude: -105.3234618
+latitude: 39.6391353
+city_longitude: -105.3172146
+city_latitude: 39.6333213
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

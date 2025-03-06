@@ -1,0 +1,21 @@
+city: Los Angeles
+country: United States
+description: A running figure can be seen along the track of the high school. This person was said to be running at a time late at night when some gang members saw him, and chased him with their car, killing him. Now this runner haunts the track. Another haunting at Wilson is in one of the dark rooms in the photography class, reports of being pushed around and even locked in the room. Also, a figure of a football player sitting on the bar near the docks can be seen, it has been said that after a game, he was sitting there, and fell back about 8 feet, hitting his head and killing him. Reports of the apparition of a boy seen sitting from a window he was pushed from.
+location: Wilson High School
+state: California
+state_abbrev: CA
+longitude: -118.1862623
+latitude: 34.0699853
+city_longitude: -118.2436849
+city_latitude: 34.0522342
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

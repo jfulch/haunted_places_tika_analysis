@@ -1,0 +1,21 @@
+city: Fort Hood
+country: United States
+description: personnel working security late at night hear footsteps and doors opening and closing when no one is in the building.
+location: III Corps Headquarters bldg
+state: Texas
+state_abbrev: TX
+longitude: -97.7413143
+latitude: 31.1950013
+city_longitude: -97.7413143
+city_latitude: 31.1950013
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

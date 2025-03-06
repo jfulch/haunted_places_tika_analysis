@@ -1,0 +1,21 @@
+city: Winthrop
+country: United States
+description: Haunted by a ghost called Willie who died in a cannon accident.
+location: Fort Banks
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.980375
+latitude: 42.3854349
+city_longitude: -70.98113339999999
+city_latitude: 42.3778173
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

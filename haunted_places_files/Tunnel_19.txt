@@ -1,0 +1,21 @@
+city: North Bend State Park
+country: United States
+description: One of several old train tunnels that runs through North End. It is said that during one of the world wars, a woman was on her way to be married, dressed in her wedding gown. She fell off the platform as a train was coming and was killed. As you approach the entrance of the tunnel, there is a very distinct drop in temperature and gusts of wind. EFS reads 'Danger' as you reach the middle of the tunnel, and wind often tends to pick up. Also, throughout the tunnel, the small archways on either side appear to be illuminated, even when all flashlights, etc. are removed from their surface.
+location: Tunnel 19
+state: West Virginia
+state_abbrev: WV
+longitude: -81.1110198
+latitude: 39.222228
+city_longitude: -81.1110198
+city_latitude: 39.222228
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

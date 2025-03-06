@@ -1,0 +1,19 @@
+city: Hebron
+country: United States
+description: Before this road was paved, local people would observe large orbs of light which would remain stationary upon approach. This "Ghost Light" has been seen by many people; however, sightings ceased when the road was paved several decades ago. Various stories have circulated as to its super-natural origins, but none have been verified/confirmed.
+location: Ghost Light Road
+state: Maryland
+state_abbrev: MD
+city_longitude: -75.6877068
+city_latitude: 38.4201174
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1821/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

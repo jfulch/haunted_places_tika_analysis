@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: Airport - There is an older gentleman that haunts room 207 at the Days Inn-Airport. There have been reports of cold spots, curtains opening and closing and "thumping" when no other guests are present. Hotel staff knows about him and the housekeepers don't like to clean that room without at least two others nearby.
+location: Days Inn
+state: Colorado
+state_abbrev: CO
+longitude: -104.7377414
+latitude: 38.8078763
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

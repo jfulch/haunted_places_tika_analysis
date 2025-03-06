@@ -1,0 +1,21 @@
+city: South Gate
+country: United States
+description: In 1968 a young man died in the Hahn auditorium. Student's have heard footsteps and have felt cold spots.
+location: South Gate High School
+state: California
+state_abbrev: CA
+longitude: -118.2093189
+latitude: 33.9560708
+city_longitude: -118.2120161
+city_latitude: 33.954737
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1968/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

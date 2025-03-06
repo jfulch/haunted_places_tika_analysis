@@ -1,0 +1,21 @@
+city: Mooresville
+country: United States
+description: It is said that this school has a history that goes a good ways back. It has relocated from where it was originally established...but mysteries still surround the sightings that many have witnessed there ....But it is said that an employee of the school ,died of a heart attack. The library especially was said to be haunted by a older lady...some nights the lights would come on in the school untimely. Students of the past have said to have seen someone on the second floor hallway..(the school has since been remodeled)
+location: Brawley middle school
+state: North Carolina
+state_abbrev: NC
+longitude: -80.8776445
+latitude: 35.5827448
+city_longitude: -80.8100724
+city_latitude: 35.5848596
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2022/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

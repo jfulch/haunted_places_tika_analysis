@@ -1,0 +1,20 @@
+city: Cortland
+country: United States
+description: Many different hauntings happen here. Most notable are people who live here are awakened at night by feeling a presence in the room. Along with the feeling objects are said to move across the room in mid-air. The objects seem to follow a long white tail of a dress.
+location: Debra Place
+state: Ohio
+state_abbrev: OH
+longitude: -80.7269276
+latitude: 41.3177688
+city_longitude: -80.7253575
+city_latitude: 41.3303342
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

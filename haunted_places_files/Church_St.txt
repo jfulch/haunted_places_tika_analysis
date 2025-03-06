@@ -1,0 +1,20 @@
+city: Vigo
+country: United States
+description: late one night there were to be said a guy killing a little boy and hid him in the church. At mid-night you can see where He hid the kid in the front of the church at the very top there is a window and if climb to the top of the church and look in the window you can see the child’s body.
+location: Church St.
+state: Ohio
+state_abbrev: OH
+longitude: -82.7933236
+latitude: 39.2475184
+city_longitude: -82.7929499
+city_latitude: 39.2478446
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1983/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.0
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

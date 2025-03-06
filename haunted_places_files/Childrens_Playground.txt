@@ -1,0 +1,21 @@
+city: Bluffton
+country: United States
+description: It is said that at the turn of the century an old man ran a playground for children on the apostolic church grounds he was hated by the adults but loved by the children one day he was found brutally murdered and his body was thrown in the Wabash River and was found under the red bridge it is said that if you go there in the middle of the night and lie down on the bridge you will hear the sounds of children laughter and sometimes you will hear something pounding on the bottom of the bridge
+location: Children's Playground
+state: Indiana
+state_abbrev: IN
+longitude: -85.18098379999999
+latitude: 40.73262280000001
+city_longitude: -85.17163680000002
+city_latitude: 40.7386579
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

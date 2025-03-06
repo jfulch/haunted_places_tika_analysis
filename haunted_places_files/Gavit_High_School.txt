@@ -1,0 +1,21 @@
+city: Hammond
+country: United States
+description: Every morning at about midnight. It is said to be people walking around the roof and if you shut the windows the night before some of the windows will be open. If you are inside you can hear metal clinking together and muffled screams, along with orbs and figures walking.
+location: Gavit High School
+state: Indiana
+state_abbrev: IN
+longitude: -87.4875017
+latitude: 41.5762616
+city_longitude: -87.5000412
+city_latitude: 41.5833688
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

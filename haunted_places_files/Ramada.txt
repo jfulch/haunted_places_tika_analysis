@@ -1,0 +1,21 @@
+city: Elk City
+country: United States
+description: Room 110 - Reports of an apparition of a man, and poltergeist phenomena.
+location: Ramada
+state: Oklahoma
+state_abbrev: OK
+longitude: -99.399318
+latitude: 35.3866122
+city_longitude: -99.4042592
+city_latitude: 35.4119944
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

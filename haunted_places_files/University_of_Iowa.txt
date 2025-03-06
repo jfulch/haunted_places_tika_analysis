@@ -1,0 +1,21 @@
+city: Iowa City
+country: United States
+description: Currier Hall - According to rumor, a triple suicide occurred on the fourth floor when three dorm mates found themselves to be in love with the same man. They reappear to bickering roommates in order to promote friendship and harmony. There has also been a sighting of an older man on the E300's section of the building. This stern-faced man is the father of a former tenant of Currier Hall.
+location: University of Iowa
+state: Iowa
+state_abbrev: IA
+longitude: -91.5548998
+latitude: 41.6626963
+city_longitude: -91.5301683
+city_latitude: 41.6611277
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

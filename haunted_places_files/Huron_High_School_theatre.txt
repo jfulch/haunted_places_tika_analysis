@@ -1,0 +1,21 @@
+city: Ann Arbor
+country: United States
+description: Story goes some time in the late 70s a student named Mary (last name never mentioned) who, while working on some lighting fixtures alone one day, fell from the catwalks head first and died upon the stage. Sightings include actors and stagehands seeing a girl up in the catwalks wearing a light pink dress. Also, in the prop room where all the senior thespians spray paint their names on the wall shortly after Mary's death her name appeared in bold red paint above the doorway about seventeen feet from the floor and upside down.
+location: Huron High School theatre.
+state: Michigan
+state_abbrev: MI
+longitude: -83.70264300000001
+latitude: 42.2813889
+city_longitude: -83.7430378
+city_latitude: 42.2808256
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

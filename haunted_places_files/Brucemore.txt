@@ -1,0 +1,21 @@
+city: Cedar Rapids
+country: United States
+description: A glowing entity has been seen in the library of this building.
+location: Brucemore
+state: Iowa
+state_abbrev: IA
+longitude: -91.638772
+latitude: 41.9919827
+city_longitude: -91.6656232
+city_latitude: 41.9778795
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

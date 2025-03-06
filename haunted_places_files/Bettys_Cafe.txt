@@ -1,0 +1,21 @@
+city: Cameron
+country: United States
+description: Former worker who died of heart problems haunts restaurant where she died.  Reports of objects being hidden, or 'mis-placed' in odd places within.  Also has been reported seen by the back fryers, where she spent many days in the past working.
+location: Betty's Cafe
+state: Wisconsin
+state_abbrev: WI
+longitude: -91.7436505
+latitude: 45.4085518
+city_longitude: -91.7440591
+city_latitude: 45.4085696
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

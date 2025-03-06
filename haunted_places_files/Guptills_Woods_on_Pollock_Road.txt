@@ -1,0 +1,21 @@
+city: Latham
+country: United States
+description: These woods are said to be haunted. The occurrences seem to take place mainly around a house off Pollock Road. It is located in the middle of the woods on your right. Witnesses have reported seeing light orbs and strange eyes without a face in the darkness. Some people have even claimed to hear someone singing.
+location: Guptills Woods on Pollock Road
+state: New York
+state_abbrev: NY
+longitude: -73.744764
+latitude: 42.781408
+city_longitude: -73.760537
+city_latitude: 42.7477661
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Brownfield
+country: United States
+description: Ghost of a girl has been seen in this park.
+location: Coleman Park
+state: Texas
+state_abbrev: TX
+longitude: -102.2726758
+latitude: 33.1710021
+city_longitude: -102.2743489
+city_latitude: 33.1812035
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2007/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Patton
+country: United States
+description: The story is said that a boy who had the lead in West Side Story got sick opening night and died. He still haunts the auditorium, but only helps people if they are not standing in the right place or if they fall. He likes to make noises by dropping things from the spotlight room.
+location: Cambria Heights High School Auditorium
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.6288244
+latitude: 40.6336845
+city_longitude: -78.6503006
+city_latitude: 40.6339561
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

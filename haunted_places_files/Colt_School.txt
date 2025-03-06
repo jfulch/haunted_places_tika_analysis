@@ -1,0 +1,19 @@
+city: Bristol
+country: United States
+description: It is said to be haunted by the ghosts of the family that have their pictures in the auditorium. In the boys bathroom strange smells and voices are heard and at night you can sometimes see ghosts wondering the halls.
+location: Colt School
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.27674859999999
+latitude: 41.67239259999999
+city_longitude: -71.26620249999999
+city_latitude: 41.6771101
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1964/01/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

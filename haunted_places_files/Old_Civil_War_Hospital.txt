@@ -1,0 +1,21 @@
+city: Madison
+country: United States
+description: Hear creepy footsteps walking up the stairs at night, See a tall man dressed all in black at the top of the stairs. Hear a ball bouncing in one of the hallways. I n one of the rooms you can see a lady dressed in a blue old fashion dress. Can hear creepy movement in the basement.
+location: Old Civil War Hospital
+state: Georgia
+state_abbrev: GA
+longitude: -83.4668991
+latitude: 33.5991379
+city_longitude: -83.467944
+city_latitude: 33.5956813
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

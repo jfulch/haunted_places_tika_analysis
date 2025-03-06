@@ -1,0 +1,21 @@
+city: Norfolk
+country: United States
+description: A girl haunts the women’s residency. She sits in a chair at night and follows anyone who comes in late or who gets up and walks to the bathroom where she supposedly had died. She is a mean ghost and has frightened many women at this college with her wicked stare as she follows them.
+location: Weslyn
+state: Virginia
+state_abbrev: VA
+longitude: -76.1866644
+latitude: 36.8674624
+city_longitude: -76.28587259999999
+city_latitude: 36.8507689
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

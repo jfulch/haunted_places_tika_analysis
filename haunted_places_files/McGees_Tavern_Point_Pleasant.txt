@@ -1,0 +1,21 @@
+city: Point Pleasant
+country: United States
+description: At the bar there is a presence of a ghost that haunts the owner ever night ... once a Hotel in the 1800's as well as a former nursing home and housing for slaves - Lewis Carter (reportedly a former slave) opens the blinds in the attic every morning after the owner shuts them every night.
+location: McGee's Tavern: Point Pleasant
+state: New Jersey
+state_abbrev: NJ
+longitude: -87.6530082
+latitude: 41.9219162
+city_longitude: -74.0681931
+city_latitude: 40.0831714
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

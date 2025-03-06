@@ -1,0 +1,21 @@
+city: Harlan
+country: United States
+description: Childscreek - it is said that on a cold, rainy night that you can see a headless man by the name of Doc walking up and down the hollow trying to find his head and the people that cut it off.
+location: Closplint
+state: Kentucky
+state_abbrev: KY
+longitude: -83.0689781
+latitude: 36.9039463
+city_longitude: -83.321848
+city_latitude: 36.8431441
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

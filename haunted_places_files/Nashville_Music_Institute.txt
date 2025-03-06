@@ -1,0 +1,21 @@
+city: Rye Cove
+country: United States
+description: building is located on McMillian St off of Church St in Nashville, TN. This building is supposedly the 2nd oldest in Nashville and operated as a prison ran by Sam Houston years ago. In the early 2000's it operated as Nashville Music Institute where many musicians had ghostly experiences.
+location: Nashville Music Institute
+state: Virginia
+state_abbrev: VA
+longitude: -82.69168049999999
+latitude: 36.7321295
+city_longitude: -82.6962702
+city_latitude: 36.7253755
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1779/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

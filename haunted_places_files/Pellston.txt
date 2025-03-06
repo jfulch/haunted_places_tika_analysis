@@ -1,0 +1,21 @@
+city: Cheboygan
+country: United States
+description: January 2007 has been removed
+location: Pellston
+state: Michigan
+state_abbrev: MI
+longitude: -84.7839364
+latitude: 45.552789
+city_longitude: -84.4744795
+city_latitude: 45.64695630000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

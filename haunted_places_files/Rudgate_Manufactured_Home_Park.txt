@@ -1,0 +1,21 @@
+city: Clinton Township
+country: United States
+description: During The Night Here, You Can See Ghosts Of People who were killed by the train. And when you walk around the park at night you can see black figures in the wood line at the back of the park. And You Can Also See Ghosts Of Animals. Legend is that this park was built on old cemetery that was there in the 1800's.
+location: Rudgate Manufactured Home Park
+state: Michigan
+state_abbrev: MI
+longitude: -82.91593259999999
+latitude: 42.57925609999999
+city_longitude: -82.9195514
+city_latitude: 42.5868882
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1964/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

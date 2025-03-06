@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: If you drive past Bell Middle School , you might see on the lawn of the school, a man walking with a black book bag. Whenever a car passes by and if the man hears the car, he'll stop, look on the side and down to the grass. Then, he'll continue walking. To recognize him, look for his dark black shirt, and his dark blue jeans. He has no shoes, or feet, just legs. He's totally bald and comes out after 9:00 usually. If you're lucky, he might be walking on the playground and he'll look up, then continue walking. One more thing - good luck finding him and report back if you spot him!
+location: Bell Middle School
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.9945833
+latitude: 42.9790206
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1854/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

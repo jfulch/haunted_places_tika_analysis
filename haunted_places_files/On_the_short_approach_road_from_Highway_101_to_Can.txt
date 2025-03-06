@@ -1,0 +1,21 @@
+city: Cannon Beach
+country: United States
+description: there is a phantom of a mummy known to locals as "Bandage Man." It jumps into the back of vehicles at night. The mummy has even been known to attack at times, leaving bits of his bandages behind. Bandage Man is said to eat dogs and has even murdered several people. Many believe him to be the ghost of a logger cut to pieces in a nearby sawmill. - June 2005 Update – Some believe the haunting is limited to "The short approach". There are stories about possible Bandage Man sightings from Lincoln City all the way to Seaside (about a 90 minute to two hour stretch of road). It has also been said that Bandage Man was once a criminal who was shot multiple times by police. Once he was being transferred from the Hospital to the jail, he escaped, ran into the woods, and hasn't been seen since. This would explain the bandages, as he was still covered in them.
+location: On the short approach road from Highway 101 to Cannon Beach
+state: Oregon
+state_abbrev: OR
+longitude: -123.9686225
+latitude: 45.8841394
+city_longitude: -123.9615274
+city_latitude: 45.8917738
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1952/03/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

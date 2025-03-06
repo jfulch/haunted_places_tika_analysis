@@ -1,0 +1,20 @@
+city: Greeley
+country: United States
+description: On the third floor of Wilson hall where Edith committed suicide. There are stories about the kids throwing marbles at her. That is why the vents make so much noise, because the marbles are rolling around. Residents report hearing doors opening and shutting and footsteps moving around in the attic.
+location: University of Northern Colorado Wilson Hall
+state: Colorado
+state_abbrev: CO
+longitude: -104.6933574
+latitude: 40.4068387
+city_longitude: -104.7091322
+city_latitude: 40.4233142
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1848/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Glen Mills
+country: United States
+description: There is a barn in the Grist Mill park where a stable boy worked. The stable boy fell in love with the land owner and the father killed the boy for being with his daughter. You can here him crying for her.
+location: The Grist Mill
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.50535599999999
+latitude: 39.8901683
+city_longitude: -75.5103484
+city_latitude: 39.9016273
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

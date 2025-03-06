@@ -1,0 +1,20 @@
+city: Tupelo
+country: United States
+description: The resident ghosts, Lola, has been seen walking around a table & lifting the lid of the trash can sitting in the corner of the break room. Lola also moves money around in the cash register. She would also clang the stuff around in the back room of concessions and the doors on the poppers in front. The man upstairs in the projection room likes to follow you everywhere up there. Even to the concession storage room. The 3 haunting the theaters were also nice. You would walk into a theater that you knew nobody was in and would find a seat in the back row folded down. Especially in horror movies.
+location: Barnes Crossing Mall Theater
+state: Mississippi
+state_abbrev: MS
+longitude: -88.70093109999999
+latitude: 34.3081326
+city_longitude: -88.7033859
+city_latitude: 34.2576066
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

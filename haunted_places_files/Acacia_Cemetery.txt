@@ -1,0 +1,21 @@
+city: Modesto
+country: United States
+description: A very old cemetery, many people have heard a very mournful crying/screaming while driving through the cemetery even in daylight hours. Also, a very horrible feeling of foreboding often comes with hearing these cries and screams. One couple, just using the cemetery as a short cut, heard & felt it, ”The sound and feelings were very alarming in the fact that they seemed to be all around us, as if inside the vehicle with us. It was a very frightening experience due to the fact that it was indeed broad daylight when this occurred.”
+location: Acacia Cemetery
+state: California
+state_abbrev: CA
+longitude: -120.98384
+latitude: 37.6480539
+city_longitude: -120.9968782
+city_latitude: 37.63909719999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

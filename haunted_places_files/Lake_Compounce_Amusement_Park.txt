@@ -1,0 +1,20 @@
+city: Bristol
+country: United States
+description: The oldest running amusement park in the world. The first hauntings date back to the opening of the park in the late 1800's when the ghost of the former owner of the land, Chief Compounce, who killed himself in the lake the day before the land was to change hands. Since that time, every building on the land has experience hauntings at one time or another. As well, death has been a plague at the park. In recent years, a child died from injuries received from a near drowning it the lake, a worker was killed underneath a rotor ride, and another was decapitated by a roller coaster. Most of the hauntings have occurred in the Star Light Ball Room. It was said, but this author has not confirmed, that the head of the Norton family, who bought the land from Chief Compounce, died after mysteriously falling from a ladder. The park is now under new management, and is running successfully. However, the park still employs overnight security service people, who all, without prior knowledge of hauntings, have all disclosed their fears and sightings around the park.- June 2008 Correction: Chief Compounce died while trying to swim.
+location: Lake Compounce Amusement Park
+state: Connecticut
+state_abbrev: CT
+longitude: -72.90908259999999
+latitude: 41.6493334
+city_longitude: -72.9492703
+city_latitude: 41.67176480000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

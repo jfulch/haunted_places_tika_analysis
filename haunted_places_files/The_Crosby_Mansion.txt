@@ -1,0 +1,21 @@
+city: Brewster
+country: United States
+description: The Crosby Mansion has only been seen by a few people, the people have said that the house has no electricity and that lights were flickering when nobody was there. The people came to see the house a second time and there lights made a face in the window. People have seen blood marks on the front step.
+location: The Crosby Mansion
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.0349169
+latitude: 41.780328
+city_longitude: -70.0827905
+city_latitude: 41.7600902
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1659/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

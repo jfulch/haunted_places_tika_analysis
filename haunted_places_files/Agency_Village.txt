@@ -1,0 +1,20 @@
+city: Old Agency
+country: United States
+description: witnesses say they seen sighting of LITTLE GREEN MEN and BIGFOOT.A man and his son were hunting in some hills in agency Village.the mans wife was waiting for them for 2 days but they never came back.People say they were killed by bigfoot and heard loud screams of a kid and a man.now When people go hunting in the hills they say a man and the kid are haunting the hills.
+location: Agency Village
+state: South Dakota
+state_abbrev: SD
+longitude: -97.0711911
+latitude: 45.5677591
+city_longitude: -97.0612817
+city_latitude: 45.6091675
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2009/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 22m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Lisle
+country: United States
+description: There have been sightings of a little boy running around campus in a blue tee-shirt and a pair of shorts no matter what the weather, then just disappears. In one of the dorm buildings there is a heavy presence. They actually closed that dorm down now... Then there is Benidictine hall. All some of the janitors will not even go up to the 4th floor to clean it. A priest is supposed to haunt that floor. There are also underground tunnels under the campus that are also haunted.
+location: Benidictine University
+state: Illinois
+state_abbrev: IL
+longitude: -88.0967798
+latitude: 41.7783779
+city_longitude: -88.0747875
+city_latitude: 41.801141
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

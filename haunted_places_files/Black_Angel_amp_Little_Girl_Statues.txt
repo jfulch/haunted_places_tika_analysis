@@ -1,0 +1,21 @@
+city: Iowa City
+country: United States
+description: Reports of a glowing shape walking through the cemetery, believed to be the spirit of the Black Angel. She is also said to watch people and strange lights in connection with this statue. In there with the Black Angel is a small statue of a girl that is set up on a column. If you walk under her and around her she will pick out someone in your group and stare at them until they leave. Also the closer you get to the little girl statue the warmer it gets. The farther you get the colder it gets.
+location: Black Angel &amp; Little Girl Statues
+state: Iowa
+state_abbrev: IA
+longitude: -95.8485939
+latitude: 41.2677176
+city_longitude: -91.5301683
+city_latitude: 41.6611277
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/05/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 24m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

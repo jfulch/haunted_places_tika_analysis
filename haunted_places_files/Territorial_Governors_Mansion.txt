@@ -1,0 +1,21 @@
+city: Guthrie
+country: United States
+description: voices and moving objects have been observed here.
+location: Territorial Governor's Mansion
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.4209694
+latitude: 35.87832
+city_longitude: -97.4253185
+city_latitude: 35.878937
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

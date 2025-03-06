@@ -1,0 +1,20 @@
+city: Pascagoula
+country: United States
+description: The Pascagoula River at I-10 in Pascagoula was the site of the drowning of the Pascagoula Indians. The Biloxi Indians and the Pascagoula Indians were to have a battle, but the Biloxi Indians were much stronger. In order to save themselves from defeat and disgrace, the Pascagoula Indians chose to walk into the river, singing and chanting, and drown themselves. At night you can hear them singing, and that is why it is called the Singing River.
+location: Singing River
+state: Mississippi
+state_abbrev: MS
+longitude: -88.58747919999999
+latitude: 30.3487331
+city_longitude: -88.5561272
+city_latitude: 30.3657552
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1699/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

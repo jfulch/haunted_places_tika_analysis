@@ -1,0 +1,21 @@
+city: Elbridge
+country: United States
+description: The ghost of a revolutionary war soldier haunts the second floor of this restaurant.
+location: Smart's Wayside Inn
+state: New York
+state_abbrev: NY
+longitude: -76.448525
+latitude: 43.0340927
+city_longitude: -76.4331698
+city_latitude: 43.0387104
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 0

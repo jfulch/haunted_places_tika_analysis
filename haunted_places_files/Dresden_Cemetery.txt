@@ -1,0 +1,21 @@
+city: Minooka
+country: United States
+description: This is the oldest cemetery in the area. It's believed that the ground is spoiled and the graves did not want to be there. So the cemetery was moved to the current St. Mary's cemetery in Minooka. The only problem was when they moved the cemetery they could not find one grave, one of a little boy. It's said that he wanders the cemetery at night looking for his family, who was also buried there. Numerous cold spots and voices have been heard.
+location: Dresden Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.27729049999999
+latitude: 41.403527
+city_longitude: -88.2617305
+city_latitude: 41.4553084
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

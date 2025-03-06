@@ -1,0 +1,19 @@
+city: Empire
+country: United States
+description: A long time ago, there was a graveyard on the left side of the road. They say that all of the houses closest to the road on the left side are haunted. The older folks in the area say that at the second house on the left, if you look closely, you can see the figure of a man holding an axe through the window.
+location: Deer Valley Estates
+state: Alabama
+state_abbrev: AL
+city_longitude: -87.0105552
+city_latitude: 33.8084373
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

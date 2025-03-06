@@ -1,0 +1,18 @@
+city: Kearney
+country: United States
+description: This is an old plantation that recently burnt down. Witnesses have seen a door open and then slam shut and heard strange noises (someone screaming). - April 2004 Update: they have since torn the whole house down.
+location: Claybrook Plantation
+state: Missouri
+state_abbrev: MO
+city_longitude: -94.3621703
+city_latitude: 39.3677802
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

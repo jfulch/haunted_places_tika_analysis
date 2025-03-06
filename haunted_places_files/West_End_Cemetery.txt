@@ -1,0 +1,20 @@
+city: Newberry
+country: United States
+description: The Bride Of West End - on certain nights you can see the dreary form of a lady in a wedding dress sitting in the trees, standing by her grave, or roaming the fields next to the cemetery. She is said to be waiting on her star-crossed lover to come and pick her up to go to their wedding.
+location: West End Cemetery
+state: South Carolina
+state_abbrev: SC
+longitude: -81.63518839999999
+latitude: 34.2697303
+city_longitude: -81.6187178
+city_latitude: 34.2745833
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

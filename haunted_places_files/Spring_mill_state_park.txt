@@ -1,0 +1,21 @@
+city: Mitchell
+country: United States
+description: There is an old village there that is haunted. There are many old log houses and a mill that are said to be haunted. After dark if you go out there you can see lights and figures in the mill as well as in many other buildings. There is also and old cemetery there that is haunted. If you go there at night there is a blank grave of a man who gambled and lost. He was found murdered and nobody knew who did it. At night you can see a figure walk from the blank grave and stand in front of the grave of the man who killed him.
+location: Spring mill state park
+state: Indiana
+state_abbrev: IN
+longitude: -86.4167794
+latitude: 38.7335858
+city_longitude: -86.4736019
+city_latitude: 38.7328304
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,21 @@
+city: South Bend
+country: United States
+description: has a long and grand tradition of academic excellence. Founded over one-hundred years ago, it has graduated it's fair share of learned folk, and even a few celebrities. Some have since moved to the afterlife, and some of these restless spirits have stayed on. Before the university came to be as we know it today, the Patawatami Indians lived their lives along the shores of what is now known as the St. Joseph River. They buried their dead in the area and some of their dead still seem to be around. Washington Hall now houses the university dramatic theater, but it once served as a dormitory for the one and only George Gipp. Gipp was known as a wonderful football player, and something of a gambler. His ghost is said to haunt the stage and greenrooms. Columbus Hall dates to the beginning of the university's infancy. Ghostly Native Americans, and their spectral horses, have been seen riding up and down it's stone front steps.
+location: The University of Notre Dame
+state: Indiana
+state_abbrev: IN
+longitude: -86.2353388
+latitude: 41.7055716
+city_longitude: -86.25198979999999
+city_latitude: 41.6763545
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1732/02/22
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

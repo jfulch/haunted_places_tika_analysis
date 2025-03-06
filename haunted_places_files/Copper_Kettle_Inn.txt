@@ -1,0 +1,21 @@
+city: Morristown
+country: United States
+description: This historic, local area eatery known for its family style chicken is reputed to have several active spirits haunting the facility.
+location: Copper Kettle Inn
+state: Indiana
+state_abbrev: IN
+longitude: -85.699762
+latitude: 39.673401
+city_longitude: -85.69858820000002
+city_latitude: 39.6733785
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

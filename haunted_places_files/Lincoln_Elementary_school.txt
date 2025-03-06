@@ -1,0 +1,21 @@
+city: South Bend
+country: United States
+description: It is said that this school used to be a old hospital for kids. In the restroom when you are in the stall ,lights flicker and the sink goes on and off by itself.
+location: Lincoln Elementary school
+state: Indiana
+state_abbrev: IN
+longitude: -86.2263477
+latitude: 41.6561545
+city_longitude: -86.25198979999999
+city_latitude: 41.6763545
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.7
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

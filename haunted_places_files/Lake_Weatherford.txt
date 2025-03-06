@@ -1,0 +1,21 @@
+city: Weatherford
+country: United States
+description: There have been reports of a bull like creature with eyes like fire around the lake Weatherford. Native Americans that used to live in the area called it the "Demon Water Cow".
+location: Lake Weatherford
+state: Texas
+state_abbrev: TX
+longitude: -97.6900846
+latitude: 32.7837273
+city_longitude: -97.7972544
+city_latitude: 32.7592955
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

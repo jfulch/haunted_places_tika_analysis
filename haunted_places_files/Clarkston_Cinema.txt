@@ -1,0 +1,21 @@
+city: Clarkston
+country: United States
+description: Closed Down- Sightings of people around the cinema. scratching and bumping noises heard every night. Shadows of people running on the screen. Little girl sits on the stage.
+location: Clarkston Cinema
+state: Michigan
+state_abbrev: MI
+longitude: -83.43415
+latitude: 42.660509
+city_longitude: -83.4192941
+city_latitude: 42.7351196
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Colwyn
+country: United States
+description: Haunted by a Indian Princess who was killed during an electrical storm. Her body was never found, but there are burnt outlines of a person on the side of the rock. When you go into the park passed the rock, you smell herbs and feel a chocking sensation on your neck; as well as icy cold hands, scratches and rashes, and even bruises. Town people state that the story goes that Princess Anne's father refused to let her marry an English man and her ghost is very angry at who ever trespasses into the woods.
+location: Anne's Rock
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -75.253794
+city_latitude: 39.9123351
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

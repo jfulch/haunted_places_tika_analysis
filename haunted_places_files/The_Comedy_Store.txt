@@ -1,0 +1,21 @@
+city: Hollywood
+country: United States
+description: Was once a famous nightclub and restaurant in the 30's/40's and the basement is said to be haunted with an evil entity.
+location: The Comedy Store
+state: California
+state_abbrev: CA
+longitude: -118.3740423
+latitude: 34.095169
+city_longitude: -118.3286614
+city_latitude: 34.0928092
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

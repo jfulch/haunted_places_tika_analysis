@@ -1,0 +1,19 @@
+city: Newport
+country: United States
+description: Gothic Ballroom  - there are 2 Chairs in the have spirits in them. Put your hand near the chairs, your hand gets cold and prickly, try to sit in one, there is resistance, try to sit in the other, it might throw you out. There is suit armor in the Gothic ballroom whose owner died when a spear went through the eye slot and out the other end. He can be heard screaming in and around March.
+location: Belcourt Castle
+state: Rhode Island
+state_abbrev: RI
+longitude: -71.3072249
+latitude: 41.4576327
+city_longitude: -71.3128285
+city_latitude: 41.4901024
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1992/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

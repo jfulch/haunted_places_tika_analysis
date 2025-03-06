@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: Since the opening of the theatre students have reported hearing strange sounds and seeing the apparition of an elderly main named "Mr. Petre". The legend says the man used to live on the property before the theatre was built in the 1930's and appears when the theatre is empty.
+location: Las Vegas Academy Main Theatre
+state: Nevada
+state_abbrev: NV
+longitude: -115.1397589
+latitude: 36.1652746
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

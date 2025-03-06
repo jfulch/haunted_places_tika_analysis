@@ -1,0 +1,21 @@
+city: Portland
+country: United States
+description: North of Portland -  There is said to be the ghost of a man and his dog. In the late 1800's there was a horse thief who lives in an old cabin in the area of Scapponia Park. One night an angry mob took the man and hung him and shot his dog. It is said that they are buried together under a large oak tree in the camp ground.
+location: Scapponia Park
+state: Oregon
+state_abbrev: OR
+longitude: -122.6782074
+latitude: 45.4404605
+city_longitude: -122.6764815
+city_latitude: 45.5230622
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1945/09/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

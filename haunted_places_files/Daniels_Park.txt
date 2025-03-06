@@ -1,0 +1,20 @@
+city: Highlands Ranch
+country: United States
+description: Old 19th century armory on the south face of the hill, below and to the left of the park facilities, a ghost named "Kether" dwells. She was sacrificed on this spot as punishment for disobedience of her coven whose beliefs were loosely based on worship of the Egyptian god "set". Often, on a hot summer day, the concrete and stone bunker goes suddenly cold and the spot where her blood spilled becomes damp to the touch. An apparition has also been seen on the hill nearby.
+location: Daniels Park
+state: Colorado
+state_abbrev: CO
+longitude: -104.9321084
+latitude: 39.4879376
+city_longitude: -104.9739333
+city_latitude: 39.5480789
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

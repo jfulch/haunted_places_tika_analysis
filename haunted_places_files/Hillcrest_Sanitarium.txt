@@ -1,0 +1,19 @@
+city: Howell
+country: United States
+description: Several miles outside of city limits, there is the remnants of what used to be an asylum, and later housed patients with TB. Various sighting, usually of children occur. - February 2004 Update : The actual hospital has been torn down, but tunnels, and various outbuildings are still there. Strange noises are heard and lights are seen sometimes. All the tunnels removed and now they are putting up homes there.
+location: Hillcrest Sanitarium
+state: Michigan
+state_abbrev: MI
+city_longitude: -83.9293952
+city_latitude: 42.6072552
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

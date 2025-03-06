@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: Grant Park - Seven Bridges - It has be rumored that if you go to Seven Bridges and walk the paths during a full moon between the times of 9:30pm and Midnight (Don't walk alone)you will see different colors of lights dancing around in the woods and if you go farther into the woods you would hear what sounds to be laughter and screams. If you are really quiet you can hear foot steps in the woods coming towards you and with those foot steps you can hear very heavy breathing, if you wait for those foot steps to come to you, you will feel a very uneasy feeling come over you like an evil feeling. It's said that adults and children have been killed there and even suicides from the people that did the killings. (WARNING! the park closes at 10:00pm, so don't park in the park after that time, park on a side street. If you get caught by police you will get ticketed). It's also rumored that if you stand on one of the bridges that a mist or an apparition of a person would happen right in front of you. The apparition could possible be one of the victims.
+location: South Milwaukee
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.8606367
+latitude: 42.9105722
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1736/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

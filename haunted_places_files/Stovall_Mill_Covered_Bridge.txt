@@ -1,0 +1,21 @@
+city: White County
+country: United States
+description: This historic covered bridge is said to be haunted. If one stands in the bridge alone at night you're supposed to hear the cries of unseen babies and the sounds of horse-drawn carriages. This bridge is a local landmark and open to the public. This bridge also appears in the film "I'd Climb The Highest Mountain".
+location: Stovall Mill Covered Bridge
+state: Georgia
+state_abbrev: GA
+longitude: -83.65753099999999
+latitude: 34.711967
+city_longitude: -83.7199136
+city_latitude: 34.6567728
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

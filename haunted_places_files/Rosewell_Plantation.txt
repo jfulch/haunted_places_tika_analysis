@@ -1,0 +1,21 @@
+city: Gloucester
+country: United States
+description: The Page Family Mansion built in the early 1600's. Several generations lived in the mansion before it burned down. Several walls are still standing from the 4-story building. The graveyard for the family is off to the side of the house, as part of the extensive grounds. Many occurrences have been reported; the drop in air temperature by a good 15 degrees or more, apparitions, strange noises, the sound of slaves coming from the fields, reportedly a young woman walks down the front steps every night.
+location: Rosewell Plantation
+state: Virginia
+state_abbrev: VA
+longitude: -76.5761402
+latitude: 37.32790540000001
+city_longitude: -76.5025742
+city_latitude: 37.4128281
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

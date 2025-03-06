@@ -1,0 +1,19 @@
+city: Harrison
+country: United States
+description: Back in the 1960's there was an old woman who owned half of Harrison and her grandson beat her and she died not to long afterward. The old house is known to have the toilet flush in the middle of the night, the doors slamming, an old woman's voice talking, screams, and things slamming up Harrison Township.
+location: Old white house
+state: Michigan
+state_abbrev: MI
+city_longitude: -84.7994675
+city_latitude: 44.0191862
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

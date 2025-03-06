@@ -1,0 +1,19 @@
+city: Swords Creek
+country: United States
+description: there has been a number of sightings as orbs floating trough the cemetery.  - WARNING: this may be a privately owned cemetery. You enter at your own risk, police may be called, or you could be shot. Make sure you get permission.
+location: Dye Family Cemetery
+state: Virginia
+state_abbrev: VA
+city_longitude: -81.91790080000001
+city_latitude: 37.0362229
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

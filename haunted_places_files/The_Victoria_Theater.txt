@@ -1,0 +1,20 @@
+city: Dayton
+country: United States
+description: The ghost is a former actress from the 20's. After one of her many performances, she went up to her dressing room, locked the door, and was never heard from again. No one knows exactly what happened to her. Over time, people had forgotten about her, until the theater was being re-decorated. That is when the strange occurrences began. When people were there late at night by themselves, they would see her or they'd hear her. The lights would go off and on and there were odd sounds. Rose perfume is what she had been wearing the night she disappeared. That is how you can tell it is her by the scent of rose perfume.
+location: The Victoria Theater
+state: Ohio
+state_abbrev: OH
+longitude: -84.1921394
+latitude: 39.762148
+city_longitude: -84.1916069
+city_latitude: 39.7589478
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

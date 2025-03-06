@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: Lynstone park - foot steps through the leaves are heard. Feelings of being watched and reports of apparitions.
+location: Sunset Hills
+state: Missouri
+state_abbrev: MO
+longitude: -90.407341
+latitude: 38.5389423
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

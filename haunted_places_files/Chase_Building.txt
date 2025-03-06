@@ -1,0 +1,21 @@
+city: El Paso
+country: United States
+description: Woman in red dress is said to haunt top floor. Strange red lights can be seen coming from top floor at night from a distance.
+location: Chase Building
+state: Texas
+state_abbrev: TX
+longitude: -106.4883515
+latitude: 31.7609918
+city_longitude: -106.4850217
+city_latitude: 31.7618778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/20
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fort Worth
+country: United States
+description: The ghost of Tom Peters moves hats around. When they acquired the space of the former pizzeria, they may have acquired the ghost of the dishwasher, Jack Martin. Jack would baptize new employees with a good spray from the dishwasher.
+location: Peters Bros. Hats 909 Houston
+state: Texas
+state_abbrev: TX
+longitude: -97.3298289
+latitude: 32.7514103
+city_longitude: -97.3307658
+city_latitude: 32.7554883
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.716666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

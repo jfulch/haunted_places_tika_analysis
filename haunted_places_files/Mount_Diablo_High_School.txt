@@ -1,0 +1,21 @@
+city: Concord
+country: United States
+description: Reports of the apparition of a male teenager hanging by a noose from the roof, over a balcony from the second floor part of the English Building. Supposedly a depressed student who committed suicide there a long time ago. Also cold spots and voices and noises at night near the balcony and staircase where the student committed suicide.
+location: Mount Diablo High School
+state: California
+state_abbrev: CA
+longitude: -122.0368058
+latitude: 37.9826834
+city_longitude: -122.0310733
+city_latitude: 37.9779776
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

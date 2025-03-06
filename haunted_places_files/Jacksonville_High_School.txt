@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: In the auditorium of the high school, strange noises can be heard of a man mumbling to himself. Also, you can also hear footsteps along the catwalk when there is no one there.
+location: Jacksonville High School
+state: Arkansas
+state_abbrev: AR
+longitude: -92.1022285
+latitude: 34.8879335
+city_longitude: -92.1101458
+city_latitude: 34.8662005
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

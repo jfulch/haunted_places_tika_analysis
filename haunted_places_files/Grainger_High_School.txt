@@ -1,0 +1,21 @@
+city: Kinston
+country: United States
+description: There are numerous ghost of Grainger High. After talking with a few of the old teachers the submitter was able to confirm one and that is the spirit of a young girl who met her untimely death at the school when she fell off a balcony. Teachers reported that when working at the school after all the students have left they would hear foot steps in the hallway and the locker doors closing shut as well as doors. The school is now closed for learning purposes but open for theatrical purposes and the classroom are as been renovated and turned into a rest home.
+location: Grainger High School
+state: North Carolina
+state_abbrev: NC
+longitude: -77.5741212
+latitude: 35.2947409
+city_longitude: -77.5816353
+city_latitude: 35.2626635
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

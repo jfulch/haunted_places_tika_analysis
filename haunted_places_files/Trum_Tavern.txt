@@ -1,0 +1,21 @@
+city: Trumbauresville
+country: United States
+description: This place is mention in the book called Ghosts of Bucks County. Located off of Quakertown. Ask locals for directions. When your there ask for a menu the history of the Trum tavern is on the back of the menu. Before it was a bar, the Trum Tavern used to be a Court House in the 1700's it has a lot of history to it, back then when people were found guilty they were scolded with boiling water, tortured, or even worse, hung! The tavern has a colonial look on the outside. The Ghost of the original owner Jacob, haunts the second floor, the feeling of someone behind you, stuff moving around, unearthly sounds. The place was caught on fire back sometime in April 2002, the first floor was toasted out, due to some kind of explosion. but eight months later it was open again, and now it looks mostly the same.
+location: Trum Tavern
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.378267
+latitude: 40.411136
+city_longitude: -75.3782339
+city_latitude: 40.4106569
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

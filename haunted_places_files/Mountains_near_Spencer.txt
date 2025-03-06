@@ -1,0 +1,21 @@
+city: Roane County
+country: United States
+description: Two experienced hunters have claimed to have encountered a strange beast in the mountains around Spencer, W.Va.  On a winter hunting/camping excursion, they were awakened one night when the beast wandered down the hillside and into their camp, making a blood-curdling, demonic growl.  While debating as to who would go to get a gun out of their truck, the beast moved on into the night unseen.  Tracking at daybreak, they followed the beast's path through the brush, but soon lost the trail.  They estimated by its tracks and the trail it left that it was very large and probably walked on two feet.  Many who heard the tale believed it to be untrue, until another person encountered the beast nearly 20 years later in the mountains just south of the hunters' camp.
+location: Mountains near Spencer
+state: West Virginia
+state_abbrev: WV
+longitude: -80.2724928
+latitude: 38.1115838
+city_longitude: -81.42789839999999
+city_latitude: 38.7564882
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 2

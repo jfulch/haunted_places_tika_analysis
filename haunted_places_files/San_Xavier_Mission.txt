@@ -1,0 +1,21 @@
+city: Tucson
+country: United States
+description: It is said that on the outside of the mission, there’s artwork on either side of the main doors. There is a snake on one side and a mouse on the other side. If the snake catches the mouse, the end of time is near. Several people in the area have heard whispers of this story come from a shadowy figure of a man, outside the church. He has been seen pointing to each sector as the story is told. Also, there have been sightings of an old Padre wandering throughout the church. He is usually seen at dusk or dawn, the time when candles need to be lit or extinguished. Also, a specter of a nun is seen leading five children to the chapel from an old building, that was once used as a schoolhouse. The schoolhouse burnt to the ground, killing all inside. It is believed the nun was trying to get the children to safety.
+location: San Xavier Mission
+state: Arizona
+state_abbrev: AZ
+longitude: -111.0078764
+latitude: 32.1070971
+city_longitude: -110.926479
+city_latitude: 32.2217429
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 35m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

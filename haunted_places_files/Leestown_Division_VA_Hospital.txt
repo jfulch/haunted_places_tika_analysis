@@ -1,0 +1,20 @@
+city: Lexington
+country: United States
+description: Made up of many different buildings and a huge, wooded grounds area, the Leestown Division of the VA Hospital in Lexington has been the site of several strange and frightening occurrences. Haunting images of several ghosts have been seen, as well as screams and moans, doors slamming, footsteps, disembodied voices talking and equipment and appliances turning on and off by themselves.
+location: Leestown Division VA Hospital
+state: Kentucky
+state_abbrev: KY
+longitude: -84.53812390000002
+latitude: 38.0740314
+city_longitude: -84.5037164
+city_latitude: 38.0405837
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1937/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 30m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

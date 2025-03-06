@@ -1,0 +1,21 @@
+city: Slateford
+country: United States
+description: Story goes that when 2,500 foot long cement bridge (now supporting defunct rail lines) was being built in 1911 by black laborers, one of the men from a pouring crew fell in, pouring could not be halted, and he was literally buried alive. Today the spirit of the unidentified man is heard and sometimes seen around the old bridge. People who walk across it both during the day and at night get feelings that they are being followed by someone.
+location: Slateford Bridge
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.135564
+latitude: 40.9420608
+city_longitude: -75.1140659
+city_latitude: 40.9462071
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1911/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

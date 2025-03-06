@@ -1,0 +1,20 @@
+city: St. Louis
+country: United States
+description: There are three known ghosts that haunt this famous theme park. The first one is the ghost of a little girl that has been seen around various areas of the park running around and laughing. The second spirit is a girl named Stella who haunts several of the parks theaters, giving off cold spots and speaking to people. The last ghost to haunt this park is known as The Pigman. He has been spotted on the back service roads late at night and some of the employees have claimed to hear the echoes of pigs squealing in the distance.
+location: Six Flags Theme Park
+state: Missouri
+state_abbrev: MO
+longitude: -90.675216
+latitude: 38.51321859999999
+city_longitude: -90.1994042
+city_latitude: 38.6270025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

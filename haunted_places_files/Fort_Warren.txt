@@ -1,0 +1,21 @@
+city: Boston
+country: United States
+description: haunted by a lady in black believed to be the wife of Lt. Andrew Lanier. Fort Warren was a prison during the civil war, and the Lt. was confined there. The story is that his wife came to Boston. She dressed as a man, and snuck onto the island one moonless night to try and help her husband escape. They were cornered however, and when her gun misfired her husband was killed. She was sentenced to be hanged, and her only request was that she be allowed to be dressed as a woman. Someone found a black dress that had been used in a play the soldiers had put on and she wore it to the gallows. Its said she still walks the island. Reports for hearing gunshot and screams, and moaning.
+location: Fort Warren
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.92774399999999
+latitude: 42.3204065
+city_longitude: -71.0588801
+city_latitude: 42.3600825
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1979/03/17
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Cave Junction
+country: United States
+description: The Oregon Caves Chateau has a ghost named Elizabeth that roams through the rooms and halls.  The story goes that she hung her self on her wedding night after catching her husband with another woman.  She has been seen roaming the halls at night.
+location: Oregon Caves National Monument
+state: Oregon
+state_abbrev: OR
+longitude: -123.4042884
+latitude: 42.095462
+city_longitude: -123.6481235
+city_latitude: 42.1628912
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

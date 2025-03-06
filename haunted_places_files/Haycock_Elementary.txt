@@ -1,0 +1,21 @@
+city: Falls Church
+country: United States
+description: Reported to be haunted by an ex-Vice Principal. The following year, on the same day of her firing, strange events occurred. People were shoved against walls; papers were thrown around, doors slamming, desks being toppled over, but all when no one else was around. That week, the head custodian reported that he saw a strange figures beckoning him to come closer, after school hours, when everyone had left.
+location: Haycock Elementary
+state: Virginia
+state_abbrev: VA
+longitude: -77.17358949999999
+latitude: 38.904091
+city_longitude: -77.1710914
+city_latitude: 38.88233400000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

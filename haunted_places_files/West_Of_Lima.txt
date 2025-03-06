@@ -1,0 +1,20 @@
+city: Spencerville
+country: United States
+description: Bloody Bridge - A residual episode of a scuffle between men, the woman screaming and falling into the water.
+location: West Of Lima
+state: Ohio
+state_abbrev: OH
+longitude: -84.19555489999999
+latitude: 40.7226102
+city_longitude: -84.35356399999999
+city_latitude: 40.708938
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2021/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

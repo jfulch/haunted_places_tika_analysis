@@ -1,0 +1,21 @@
+city: Chief land
+country: United States
+description: One of the hauntings is a small boy that likes to play hide and seek around the headstones. We have named him Josh. The other haunting is an unknown presence that more or less watches over the cemetery. One person reported to me that he had dreams of a tall dark figure and that coyotes surrounded his house that same night.
+location: Antioch Cemetery
+state: Florida
+state_abbrev: FL
+longitude: -82.9351983
+latitude: 29.4331424
+city_longitude: -82.8598421
+city_latitude: 29.4749621
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 42m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Supernatural Phenomenon
+witness_count: 1

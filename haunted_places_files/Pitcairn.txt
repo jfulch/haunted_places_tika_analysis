@@ -1,0 +1,21 @@
+city: Monroeville
+country: United States
+description: Trails - You could hear the branches breaking and there were stones being thrown.
+location: Pitcairn
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.7777224
+latitude: 40.3789829
+city_longitude: -79.7881024
+city_latitude: 40.4211798
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

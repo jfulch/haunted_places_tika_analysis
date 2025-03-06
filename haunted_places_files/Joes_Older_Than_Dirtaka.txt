@@ -1,0 +1,19 @@
+city: Louisville
+country: United States
+description: Joe’s Place) - Or also known as Joe's place. A bar first opened in 1937, Joe's has had quite a few regulars come and go. There are plaques on the middle pole at the front bar for the regulars that have passed away since the 80's. Workers will be there late at night after closing and will hear strange noises, such as chairs moving, unexplained voices. Also, some workers have claimed to see white apparitions pass them at night or the early hours of the morning when they are in the office alone doing paperwork.
+location: Joe's Older Than Dirt(aka
+state: Kentucky
+state_abbrev: KY
+city_longitude: -85.7584557
+city_latitude: 38.2526647
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1937/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

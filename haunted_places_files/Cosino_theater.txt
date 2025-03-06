@@ -1,0 +1,21 @@
+city: Vandergrift
+country: United States
+description: Moving things in windows of balcony. The lights were out. Whistling noises. This building is under construction so there may have been a death.
+location: Cosino theater
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.5653076
+latitude: 40.6043076
+city_longitude: -79.56476669999999
+city_latitude: 40.6028434
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

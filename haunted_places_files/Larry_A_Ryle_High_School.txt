@@ -1,0 +1,21 @@
+city: Union
+country: United States
+description: When Ryle high school was being built, there was a man that was working in the school auditorium that fell many feet to his death. He was working on a scaffold and some co-workers were talking to him one minute and the next he was seen falling and screaming. Students can be walking alone in the school and see the ghost of this man out of the side of their eye. Also during school hours he is known to play with the light switches and close doors. The custodians say that at nighttime they do not go to the area of the school where he was killed due to very odd vibrations and sightings.
+location: Larry A. Ryle High School
+state: Kentucky
+state_abbrev: KY
+longitude: -84.6773577
+latitude: 38.933132
+city_longitude: -84.68050099999999
+city_latitude: 38.9458951
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2016/08/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

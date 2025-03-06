@@ -1,0 +1,21 @@
+city: Huntsville
+country: United States
+description: This is the cemetery where General Sam Houston is buried, and also where the statue college kids call black Jesus is located. It's a bronze statue on the far north edge of the cemetery, kind of in the middle. It is in a gorgeous spot with palms and it is recessed into the woods a bit, with benches and such. All the graves in the cemetery are laid out with the feet facing East, this families graves are the only ones where the feet face west. A family erected the statue when there 5 year old son died and the bronze soon weathered to a black color that could not be cleaned. The Jesus is a classic pose with the hands out stretched and palms up, except sometime when you go out at night the hands are turned down!
+location: Oakwood Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -95.5423701
+latitude: 30.7271742
+city_longitude: -95.5507771
+city_latitude: 30.7235263
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

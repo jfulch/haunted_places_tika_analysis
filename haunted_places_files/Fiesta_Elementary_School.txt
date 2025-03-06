@@ -1,0 +1,21 @@
+city: Houston
+country: United States
+description: An old teacher who was accused of abusing children was reported to have killed herself in the bathroom of this school. At night, janitors and teachers staying after hours have seen the bathroom door open and close on its own and report hearing someone walk the halls and messing with the bulletin boards.
+location: Fiesta Elementary School
+state: Texas
+state_abbrev: TX
+longitude: -95.4550117
+latitude: 29.6666324
+city_longitude: -95.3698028
+city_latitude: 29.7604267
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2011/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Keller
+country: United States
+description: This interior design store was once one of the oldest homes in Keller. It is alleged to be haunted by its original owners. A paranormal investigative group witnessed a whiskey bottle falling over by itself and dowsing rods being pulled from an investigator's hands. Reports include neighbors seeing an aparition appearing in a window of the building, a ball of orange light floating through the air, voices, strange noises, and odd smells.
+location: Green Olive Interiors
+state: Texas
+state_abbrev: TX
+city_longitude: -97.229298
+city_latitude: 32.9341893
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

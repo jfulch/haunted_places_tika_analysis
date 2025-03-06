@@ -1,0 +1,21 @@
+city: Seattle
+country: United States
+description: The "South Annex" - The South Annex now houses a Dental Office and the English Institute of Seattle Central Community College. In the past, it was the Burnley School of Art. There is a story that a young male student at Burnley committed suicide and since then his spirit has haunted the building; mostly moving objects -- pushing them off shelves, etc. Some folks have claimed to see his ghost.
+location: Capitol Hill
+state: Washington
+state_abbrev: WA
+longitude: -122.3221835
+latitude: 47.625305
+city_longitude: -122.3320708
+city_latitude: 47.6062095
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 16m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

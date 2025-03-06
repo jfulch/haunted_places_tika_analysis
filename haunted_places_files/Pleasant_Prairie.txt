@@ -1,0 +1,21 @@
+city: Kenosha
+country: United States
+description: Paupers Cemetery across from the police station on highway H. - The ground is giving way because the wood coffins that are unknown are buried in are rotting away. At night you can hear the moans and sighs of the unknown and un-named John and Jane Does that die alone, without anyone to claim their bodies or mark there last resting place.
+location: Pleasant Prairie
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.9334118
+latitude: 42.5530753
+city_longitude: -87.82118539999999
+city_latitude: 42.5847425
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1656/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

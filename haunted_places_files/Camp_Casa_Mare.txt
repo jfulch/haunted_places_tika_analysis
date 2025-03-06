@@ -1,0 +1,21 @@
+city: Seabrook
+country: United States
+description: Formerly a privately owned mansion, now Girl Scout Camp "Casa Mare". Young woman who live in the home near the shore with her father said to be very distraught over the loss of a lover. She waited, watching for him to return from the sea from her balcony every night until she met her untimely death and collided with the ground below. The mansion was since torn down, and a mess hall built where it once stood. Some say if you stand in a circle around the spot where she died (it remains uncovered by buildings, but now lies under a tile mural of a star), she will pull at you from the center of the circle, so that everyone "leans" inward. Two campers supposedly died after falling in a well and being trapped. It has since been covered, but many report they still hear them screaming and clawing to get cut. Also, the dorm nearest to the shore is supposedly haunted (the dorm for those campers taking sailing). There are 3 showers, and when the first two are turned on, the third mysteriously turns on. Lights turn on and off and campers report hearing things.
+location: Camp Casa Mare
+state: Texas
+state_abbrev: TX
+longitude: -94.998174
+latitude: 29.587451
+city_longitude: -95.0254839
+city_latitude: 29.56411839999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2004/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

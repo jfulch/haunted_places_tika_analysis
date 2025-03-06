@@ -1,0 +1,20 @@
+city: McCormick
+country: United States
+description: It is said that if you walk past the mill at night and look in the windows you will see faces of people that have died in the mill and fell like your being followed.
+location: The Old Mill
+state: South Carolina
+state_abbrev: SC
+longitude: -82.4967111
+latitude: 34.5284211
+city_longitude: -82.29345850000001
+city_latitude: 33.9134577
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1980/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

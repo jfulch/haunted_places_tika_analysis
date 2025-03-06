@@ -1,0 +1,21 @@
+city: Palestine
+country: United States
+description: There is a legend of when a baby fell out of it's mothers hands and died. At night or anytime when you are alone in the courthouse you can hear a baby crying. Some times you can hear footsteps of a baby.
+location: Palestine Courthouse
+state: Texas
+state_abbrev: TX
+longitude: -95.626149
+latitude: 31.7649348
+city_longitude: -95.6307891
+city_latitude: 31.7621153
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.583333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

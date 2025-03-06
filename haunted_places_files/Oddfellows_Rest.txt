@@ -1,0 +1,21 @@
+city: New Orleans
+country: United States
+description: A lady dressed in white and an old gentleman dressed in a three piece suit. Both were seen by the caretaker in the daytime.
+location: Oddfellows Rest
+state: Louisiana
+state_abbrev: LA
+longitude: -90.1108622
+latitude: 29.98174269999999
+city_longitude: -90.0715323
+city_latitude: 29.95106579999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2013/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Tacoma
+country: United States
+description: Just to the South of the Wetlands Park was one of the places that the Puyallup Indian tribe buried their dead, along the banks of the Puyallup River. Many persons fishing there have seen a canoe paddled by a Native American pull up to the bank, then disappear. There have been reports of singing and voices near the river. The Army Corp of Engineers now fences off the area. Late at night workers and fisherman report an old man with a yellow dog walking the banks of the North Levee Rd. People report seeing the man because of an angry expression on his face. Sometimes a dog can be heard wailing from the site.
+location: Gog-li-hi-ti Wetlands
+state: Washington
+state_abbrev: WA
+longitude: -122.4108725
+latitude: 47.2507286
+city_longitude: -122.4442906
+city_latitude: 47.2528768
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

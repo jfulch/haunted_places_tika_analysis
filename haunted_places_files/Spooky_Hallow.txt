@@ -1,0 +1,19 @@
+city: Crawfordsville
+country: United States
+description: Long time ago rumor is that the old bridge was a covered bridge. Supposedly a black man was hung from the ceiling. Another story is that a woman died on the bridge (not know how). Old bridge is not there but a newer one is built there. Story is that if you shine your lights under the bridge and flash your lights three times you can see the woman or the black man hanging. Also, from experience cars have died with the lights flashing inside and no explainable reason. Also there is a rock near by that has a story that is unknown what it is about, but they say if you sit on it you will die within seven years. It's a hard bridge to find, but if you ask around to the locals everyone knows about the bridge.
+location: Spooky Hallow
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.87445160000001
+city_latitude: 40.0411536
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1943/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: It is a little above on the south side a little above 1150 East and 335 North inside the Salt lake city cemetery. It's this lady Lilly's tombstone that says, "Victim of the beast 666" You get the chills when you read it for yourself.
+location: Salt Lake City Cemetery
+state: Utah
+state_abbrev: UT
+longitude: -111.8613932
+latitude: 40.7757318
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

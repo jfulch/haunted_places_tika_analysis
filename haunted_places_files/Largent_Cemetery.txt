@@ -1,0 +1,21 @@
+city: Hudson
+country: United States
+description: Many reports of paranormal activity revolve around this cemetery and its surroundings. It is also rumored that the ghost of Robert Faigen goes from house to house looking for his family. He is reported to be a rather mischievous ghost.
+location: Largent Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -94.8439619
+latitude: 31.3555195
+city_longitude: -94.7782644
+city_latitude: 31.3226849
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Worcester
+country: United States
+description: NO TRESSPASSING -  A very dangerous cemetery. There is a spider looking design on the gate to the cemetery, hence the name, Spider Gates Cemetery. It is said that sightings of wandering ghosts the sensations of someone brushing against them have been reported. Fainting often occurs as the images and sensations become too strong to bear. It is said that some have died from massive heart attacks when they were over come with fear.  Update - There are warning signs the further you get in, no one is permitted in since September 11th.
+location: Spider Gates Cemetery
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.8959903
+latitude: 42.2633796
+city_longitude: -71.8022934
+city_latitude: 42.2625932
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

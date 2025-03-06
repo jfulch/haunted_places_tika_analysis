@@ -1,0 +1,21 @@
+city: Hemet
+country: United States
+description: The resident ghost of the theatre, Christine, has left messages on the walls and on the roof. She has also been seen onstage and in the backstage areas. Usually she is personified as a white blurry figure that people see wandering the stage.
+location: Hemet High School Theatre
+state: California
+state_abbrev: CA
+longitude: -116.9337931
+latitude: 33.7291584
+city_longitude: -116.9719684
+city_latitude: 33.7475203
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

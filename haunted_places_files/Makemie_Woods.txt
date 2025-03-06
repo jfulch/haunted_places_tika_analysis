@@ -1,0 +1,21 @@
+city: Barhamsville
+country: United States
+description: This place is haunted by the ghost of a Civil War nurse who can be heard playing the piano at night. She has also been spotted walking the fields at night, still looking for wounded soldiers to help.
+location: Makemie Woods
+state: Virginia
+state_abbrev: VA
+longitude: -76.86557549999999
+latitude: 37.4473427
+city_longitude: -76.84024029999999
+city_latitude: 37.4545901
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

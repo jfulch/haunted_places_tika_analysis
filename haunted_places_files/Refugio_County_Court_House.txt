@@ -1,0 +1,21 @@
+city: Refugio
+country: United States
+description: A man named Henry died while in the detox cell of the old jail. After all the lights have been turned off, he will turn them back on. Doors leading from the courtroom to the old jail will open by themselves and lights will turn on and off by themselves. Henry has been known to move things around and end up in employees' cars.
+location: Refugio County Court House
+state: Texas
+state_abbrev: TX
+longitude: -97.2758175
+latitude: 28.2966626
+city_longitude: -97.2752704
+city_latitude: 28.3052838
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1987/02/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Irvine
+country: United States
+description: A very talented drama student died suddenly back in the 1970's. To this day, people working in the theatre at night say that the friendly spirit often sits in the center of the house and can sometimes be seen as a green faintly glowing region of the seating.
+location: Irvine High School Theatre
+state: California
+state_abbrev: CA
+longitude: -117.7820474
+latitude: 33.7030042
+city_longitude: -117.8265049
+city_latitude: 33.6845673
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1776/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

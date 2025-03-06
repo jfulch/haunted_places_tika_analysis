@@ -1,0 +1,19 @@
+city: Reliance
+country: United States
+description: the ghosts of some of the 100's of people she and her gang murdered. She ran the reverse underground R.R. - September 2005 Update/Correction: the "Patty Cannon House" is not really the Patty Cannon House---the history behind the Patty Cannon house was exposed on the PBS show "History Detectives". The historic marker is wrong. The real Patty Cannon house is no longer standing.
+location: Patty Cannon's house/tavern
+state: Maryland
+state_abbrev: MD
+city_longitude: -75.7063197
+city_latitude: 38.6353924
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Murder
+witness_count: 0

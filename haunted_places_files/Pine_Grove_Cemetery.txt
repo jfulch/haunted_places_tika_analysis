@@ -1,0 +1,20 @@
+city: Ansonia
+country: United States
+description: Some have reported hearing children playing, smelled roses, heard chains rattling, hot spots where it would be warmer than the rest of the cemetery and on the way out witnesses have seen three figures which seemed to be guarding the gates, and four figures walking toward them.
+location: Pine Grove Cemetery
+state: Connecticut
+state_abbrev: CT
+longitude: -73.088205
+latitude: 41.343417
+city_longitude: -73.07899689999999
+city_latitude: 41.34620779999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: War
+witness_count: 1

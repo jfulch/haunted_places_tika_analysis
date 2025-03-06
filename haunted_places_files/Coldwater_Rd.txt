@@ -1,0 +1,21 @@
+city: Leo
+country: United States
+description: Off coldwater road there’s a place called Cedar Canyon. If you follow It until it goes past Griffen Rd. and take a left, there is a transparent man in his late sixties wandering the old country road possibly taking a little vacation from the cemetery at the end of the road. Sightings usually occur between the hours of 12:00 to 3:00.
+location: Coldwater Rd.
+state: Indiana
+state_abbrev: IN
+longitude: -85.1324569
+latitude: 41.1879002
+city_longitude: -85.0166351
+city_latitude: 41.2125494
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

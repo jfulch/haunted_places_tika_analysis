@@ -1,0 +1,21 @@
+city: Harlingen
+country: United States
+description: Some have said that they have seen a little girl next to the canoe and haunts Shirley street and the houses near. They say that she haunts Shirley street because her family lived there and died there & some people said that they have seen a white lady in back of the lake.
+location: Shirley street
+state: Texas
+state_abbrev: TX
+longitude: -97.7110313
+latitude: 26.2171859
+city_longitude: -97.6961026
+city_latitude: 26.1906306
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1924/11/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

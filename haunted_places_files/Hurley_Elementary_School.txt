@@ -1,0 +1,21 @@
+city: La Puente
+country: United States
+description: Tetherball courts - They said two kids were playing tetherball after school around 7p.m one of the kids hit the ball and the chains wrapped around one of the kids throat. The other one didn't know what to do while his/her friend was choking. So the kid ran home. They said the kid choked on the chains. Late nights residents say you could here a chain hitting the pole on the court and a sound of someone choking.
+location: Hurley Elementary School
+state: California
+state_abbrev: CA
+longitude: -117.9281568
+latitude: 34.0129349
+city_longitude: -117.9495083
+city_latitude: 34.0200114
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

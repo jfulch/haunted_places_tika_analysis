@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: The Avilas House - The Avilas House is an old mansion located in Indian Hills. At night, there have been sightings of an old woman walking the hallways and knocking on the door to the laundry room.
+location: Indian Hills
+state: California
+state_abbrev: CA
+longitude: -117.458549
+latitude: 33.986162
+city_longitude: -117.3961564
+city_latitude: 33.9533487
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

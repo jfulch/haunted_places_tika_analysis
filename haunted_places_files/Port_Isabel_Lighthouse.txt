@@ -1,0 +1,21 @@
+city: Port Isabel
+country: United States
+description: it is said that one day a guy turning 17 on that day was dared by his friends to go to the 17th step of the light house and stay there for 17 minutes. as a result, he died. Now everytime you climb the lighthouse, the 17th step creaks.
+location: Port Isabel Lighthouse
+state: Texas
+state_abbrev: TX
+longitude: -97.2071178
+latitude: 26.0779717
+city_longitude: -97.2085844
+city_latitude: 26.0734119
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2000/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.5
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

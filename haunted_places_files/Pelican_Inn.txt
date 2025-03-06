@@ -1,0 +1,20 @@
+city: Pawley's Island
+country: United States
+description: An old woman used to live here and take care of the Inn...she had two Boston terrier dogs that used to play in the surf. One day there was a little kid who swam out to far and one of the dog went out to get him...brought him back in and saved the boys life. The dog got sick and soon passed away. The other dog was heartbroken that he had lost his playmate. The dog soon died and now the two dogs can be heard or sometimes seen when the sun goes down on the beach.
+location: Pelican Inn
+state: South Carolina
+state_abbrev: SC
+longitude: -79.1279653
+latitude: 33.4196825
+city_longitude: -79.12143130000001
+city_latitude: 33.4332236
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

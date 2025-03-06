@@ -1,0 +1,21 @@
+city: Roaring Spring
+country: United States
+description: Bridge - By the Paper Mill there is a bridge which is haunted by at least 3 ghost. One is the ghost of a man who had hung himself. If you drive through the bridge and park in the middle facing the side farthest from the mill you will see his ghost. The ghost tends to walk back and fourth. Sometimes he will do no more than step out and back. Aslo you should hear the voice of a man talking. Occasionally the ghost will walk up to the car and even hit it. Very large, bright, white orbs can also be seen. The other two ghost are those of a couple who were hit by a train. They tend to linger around the top of the bridge-walking together-holding hands.
+location: Paper Mill
+state: Pennsylvania
+state_abbrev: PA
+longitude: -78.4051669
+latitude: 40.3388332
+city_longitude: -78.3908471
+city_latitude: 40.3359086
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/13
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

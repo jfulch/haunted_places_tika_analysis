@@ -1,0 +1,21 @@
+city: Eugene
+country: United States
+description: In the courtyard there have been several sightings of a women dressed in white calling for her daughter "Francis". Often do bushes and trees move when she gets mad that she can't find her.
+location: Sheldon High school
+state: Oregon
+state_abbrev: OR
+longitude: -123.0719105
+latitude: 44.08208279999999
+city_longitude: -123.0867536
+city_latitude: 44.0520691
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1789/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 20m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

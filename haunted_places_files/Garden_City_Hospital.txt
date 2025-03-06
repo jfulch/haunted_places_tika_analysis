@@ -1,0 +1,21 @@
+city: Garden City
+country: United States
+description: There was a 13 year old boy who is seen late at night in the main lobby walking back on forth from the desk to the 3rd chair. It is said that the boy is trying to decide to find another way out, or to avoid his original plan. Which was he jumped from the roof after an operation didn't go the way he had hope. After walking to the desk 3 or 4 times. It disappears and at night around 2:30 if you stand on Cambridge and look up you can see it happening.
+location: Garden City Hospital
+state: Michigan
+state_abbrev: MI
+longitude: -83.314599
+latitude: 42.332212
+city_longitude: -83.3310422
+city_latitude: 42.3255928
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

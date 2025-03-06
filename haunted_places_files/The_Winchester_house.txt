@@ -1,0 +1,21 @@
+city: Cragfont
+country: United States
+description: built from 1798 and completed 1802. General James Winchester was a hero of the revolution, a Tennessee pioneer, and one of the founders of Memphis, Tennessee. Cragfont has reopened for the season. I can attest to strong energy levels in the master bedroom and the nursery, as well as a few other areas of the house. Be sure to stop by on a Sunday and ask Joanne for the "ghost tour."
+location: The Winchester house
+state: Tennessee
+state_abbrev: TN
+longitude: -86.34214879999999
+latitude: 36.4046396
+city_longitude: -86.34214879999999
+city_latitude: 36.4046396
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1798/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

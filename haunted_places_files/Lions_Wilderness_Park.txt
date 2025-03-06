@@ -1,0 +1,21 @@
+city: Farmington
+country: United States
+description: there has been some strange sightings of a person who has been taking things from people and making some strange eerie noises and seems to scare people away from the park. People say at night that you can hear walking footsteps coming towards them and suddenly stopping at a few steps away them and then someone touching them and no one is there. Late at night you can here screaming and then laughs so scary that you cannot even image.
+location: Lions Wilderness Park
+state: New Mexico
+state_abbrev: NM
+longitude: -108.1542348
+latitude: 36.7835522
+city_longitude: -108.2186856
+city_latitude: 36.72805830000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

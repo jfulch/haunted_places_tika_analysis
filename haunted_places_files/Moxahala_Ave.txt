@@ -1,0 +1,20 @@
+city: Zanesville
+country: United States
+description: On Moxahala Ave. there are ghosts from the civil war, escaped slaves who came to Ohio to stay while trying to get their freedom. Also on Putnam Ave. too.
+location: Moxahala Ave.
+state: Ohio
+state_abbrev: OH
+longitude: -82.0051831
+latitude: 39.9151264
+city_longitude: -82.0131924
+city_latitude: 39.9403453
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.816666666666666
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: War
+witness_count: 0

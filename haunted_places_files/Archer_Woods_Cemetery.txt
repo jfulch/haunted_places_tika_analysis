@@ -1,0 +1,21 @@
+city: Chicago
+country: United States
+description: The cemetery gates are never locked, so entry is easily accessible. As you walk into the Cemetery You follow a path that leads around in a circle. As you leave the cemetery it is said that a white filmy form floats among the trees near the gates. She is called the sobbing woman and you can also hear her sobs and wails. The strange part is that you only see her as you exit never when you enter.
+location: Archer Woods Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -87.8457667
+latitude: 41.7386577
+city_longitude: -87.6297982
+city_latitude: 41.8781136
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

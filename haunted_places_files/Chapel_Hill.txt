@@ -1,0 +1,21 @@
+city: Triune
+country: United States
+description: A long time ago a man was working for a railroad company. He was looking out the window to try and ascertain why the train was tilting, he fell off and was run over by the train, his head was cut off. He's still on the job. What he is doing is still trying to determine just what made the train tilt. All you can see is a mysterious light going back and forth a few feet above the ground. The light comes closer and closer then goes farther and farther away.
+location: Chapel Hill
+state: Tennessee
+state_abbrev: TN
+longitude: -86.6883893
+latitude: 35.8654854
+city_longitude: -86.6586073
+city_latitude: 35.8542314
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/21
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

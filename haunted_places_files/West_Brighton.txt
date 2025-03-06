@@ -1,0 +1,21 @@
+city: Staten Island
+country: United States
+description: there is a dark man that runs in front of your car sometimes carrying an item or two
+location: West Brighton
+state: New York
+state_abbrev: NY
+longitude: -74.10931409999999
+latitude: 40.6270298
+city_longitude: -74.1502007
+city_latitude: 40.5795317
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Everett
+country: United States
+description: At around midnight, the lights are supposed to be on like a normal school. Yet, on some nights, the lights shut off and if you're close enough, you can see and sense eyes staring at you from within the school. The only thing you can see is the eye. It looks like floating eyes from a distance. It's too dark to see the body but you can see the eyes because they have a subtle glow to it. Some sources say, if you stare at them for a while, you can see a figure of a winged man.
+location: Mariner High School
+state: Washington
+state_abbrev: WA
+longitude: -122.2363741
+latitude: 47.887831
+city_longitude: -122.2020795
+city_latitude: 47.9789848
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/06/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

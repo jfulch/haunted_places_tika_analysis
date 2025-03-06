@@ -1,0 +1,21 @@
+city: Belgrade
+country: United States
+description: The founder of the school, Quaw is believed to have died in the bell tower. Students have seen him in the bell tower.
+location: Quaw school
+state: Montana
+state_abbrev: MT
+longitude: -111.1727854
+latitude: 45.7795891
+city_longitude: -111.1770945
+city_latitude: 45.7762463
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 18m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Death
+witness_count: 1

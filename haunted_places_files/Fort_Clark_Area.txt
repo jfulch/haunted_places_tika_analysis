@@ -1,0 +1,21 @@
+city: Brackettville
+country: United States
+description: Reports of the ghost of a woman asking for a ride, once in a while touching the witness sending a chill through them and disappearing.
+location: Fort Clark Area
+state: Texas
+state_abbrev: TX
+longitude: -100.4194417
+latitude: 29.3064207
+city_longitude: -100.4178563
+city_latitude: 29.3105125
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Ridgefield
+country: United States
+description: This house was built along time ago back when are small town was just starting off. A family had just moved in the place and everything was calm for a little bit. After a few months weird noises could be heard followed shortly by an apparition that looked like an older women. Things would be moved around at night making feel like you were never alone. The legend says that an older women died in the house so maybe that is who still walk's the place.
+location: Barn House
+state: Washington
+state_abbrev: WA
+longitude: -122.744108
+latitude: 45.773719
+city_longitude: -122.7426008
+city_latitude: 45.815115
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 0

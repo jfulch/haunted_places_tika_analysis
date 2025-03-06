@@ -1,0 +1,21 @@
+city: Utica
+country: United States
+description: this was an active psyc ward that was shut down. Stories from old employees include tunnels connecting buildings together, death tunnels, and actual "torture chambers in the lower basement levels, to where you can actually see the chains on the wall that were to used to sedate violent residents at the time that there was no meds, or tranquilizers. place is very haunted and a good portion has been torn down, but a good portion still stands which is now a WELL protected building by authorities.
+location: old psychiatric ward
+state: New York
+state_abbrev: NY
+longitude: -75.253404
+latitude: 43.10497609999999
+city_longitude: -75.232664
+city_latitude: 43.100903
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

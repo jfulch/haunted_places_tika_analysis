@@ -1,0 +1,19 @@
+city: Manchester
+country: United States
+description: Separated from the rest of the youth detention center facilities is an older brick building in a small field surrounded by woods. Not only are all possible entrances boarded up tight, but all holes through which one could even peer inside the place have been sealed in one manner or another. There have been reports of odd humming noises and other faint sounds coming from inside, and some people who have forcibly removed boards from windows to look inside reported seeing an odd, dim light. Noises are mainly reported to come from the basement entrance, which seemed to be locked up most heavily.
+location: Youth Detention Center Abandoned Building
+state: New Hampshire
+state_abbrev: NH
+city_longitude: -71.4547891
+city_latitude: 42.9956397
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.616666666666667
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 1

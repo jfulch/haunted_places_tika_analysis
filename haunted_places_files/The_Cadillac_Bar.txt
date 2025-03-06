@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: The ghost of an old owner is seen in the storage basement of the building and there is another ghost named "Beatrice", who was a former employee. She is a "negative spirit" because she was very unhappy and not pretty when she was alive. She turns on sinks and throws kitchen utensils. Many employees have seen both ghosts.
+location: The Cadillac Bar
+state: Texas
+state_abbrev: TX
+longitude: -98.495018
+latitude: 29.42229399999999
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

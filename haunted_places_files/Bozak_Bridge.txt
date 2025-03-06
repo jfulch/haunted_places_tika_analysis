@@ -1,0 +1,18 @@
+city: Lakewood
+country: United States
+description: A young female girl with light hair is said to patrol the bridge at night, jeering and throwing things at passing pedestrians. If you anger this spirit which locals have come to call Jessica she will cut you in the night.
+location: Bozak Bridge
+state: Ohio
+state_abbrev: OH
+city_longitude: -81.7981908
+city_latitude: 41.4819932
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1971/09/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

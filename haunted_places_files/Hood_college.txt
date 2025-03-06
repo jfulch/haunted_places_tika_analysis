@@ -1,0 +1,21 @@
+city: Frederick
+country: United States
+description: It is built on a old saloon from the civil war in one of the halls late at night you can hear hooting and hollering also in the 1970 a girl was murdered and her throat was cut open she crawled all the way up the stairs and just before she knocked on her dorm door she died strange knockings have been heard all over that hall since then the elevators have also been known to go up and down at odd times of the night
+location: Hood college
+state: Maryland
+state_abbrev: MD
+longitude: -77.4202024
+latitude: 39.4213829
+city_longitude: -77.4105409
+city_latitude: 39.41426879999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 15.333333333333334
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

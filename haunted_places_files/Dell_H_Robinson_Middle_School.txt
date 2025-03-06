@@ -1,0 +1,21 @@
+city: Las Vegas
+country: United States
+description: Many sightings of an old man walking the halls of this school have been reported by new students coming from another state. They always see a man dressed as a janitor walking around in the hallway with blood on his hands. when school is out, the man follows them all the way home then disappears. The student will have nightmares and see this man in their dreams. This only happens to new students enrolling to this school and will happen until next time they go to church.
+location: Dell H. Robinson Middle School
+state: Nevada
+state_abbrev: NV
+longitude: -115.0701718
+latitude: 36.1786825
+city_longitude: -115.1398296
+city_latitude: 36.1699412
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.483333333333333
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

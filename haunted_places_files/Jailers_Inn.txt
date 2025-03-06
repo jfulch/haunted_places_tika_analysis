@@ -1,0 +1,21 @@
+city: Bardstown
+country: United States
+description: many reports of this place being haunted. It was formerly the jail and now is a bed and breakfast. Former employees reported hearing footsteps and people crying.
+location: Jailers Inn
+state: Kentucky
+state_abbrev: KY
+longitude: -85.4679219
+latitude: 37.8089123
+city_longitude: -85.46690249999999
+city_latitude: 37.8092279
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

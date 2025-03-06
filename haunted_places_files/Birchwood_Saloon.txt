@@ -1,0 +1,21 @@
+city: Chugiak
+country: United States
+description: A young man was shoveling snow from the roof of an adjacent building, when his shovel contacted a power line, electrocuting him. Bartenders and patrons have since heard voices, and a juke box playing on its own. They have seen apparitions, items being moved, etc. They believe the spirit of the deceased man continues to inhabit the place.
+location: Birchwood Saloon
+state: Alaska
+state_abbrev: AK
+longitude: -149.4689631
+latitude: 61.40249659999999
+city_longitude: -149.4819445
+city_latitude: 61.3888889
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1800/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 10h 52m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

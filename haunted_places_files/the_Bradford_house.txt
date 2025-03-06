@@ -1,0 +1,19 @@
+city: Bradfordsville
+country: United States
+description: this house belonged to the towns founder. The house has been deserted for at least a hundred years, however at night a piano can be heard playing, and sometimes you can hear a baby cry
+location: the Bradford house
+state: Kentucky
+state_abbrev: KY
+city_longitude: -85.1488483
+city_latitude: 37.4942356
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1942/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: West Columbia
+country: United States
+description: A railroad crossing where a school bus was hit by a train in the 70's.  If you put your car in neutral on the tracks, it is rumored that it will be "pushed" across the tracks by the spirits of the dead children. Reports of visitors puting baby powder on their bumper and seeing hand prints after their episode.
+location: Old State Road
+state: South Carolina
+state_abbrev: SC
+longitude: -81.02962339999999
+latitude: 33.8942188
+city_longitude: -81.0739825
+city_latitude: 33.9934867
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

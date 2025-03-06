@@ -1,0 +1,20 @@
+city: Honolulu
+country: United States
+description: It is said that downstairs, in the morgue area, a lady wearing a red dress can be seen in the stairwell. Sometimes only the lower half of her is seen. This hospital is on the northeast corner of the South Beretania and Punchbowl street intersection, and diagonally across from the Hawai'i State Library, which is on the southwest corner of that intersection. Just next to the library is the Hawai'i State Capitol Building, which is haunted by the ghost of Queen Lili'uokalani. The hospital was named in her honor.
+location: Queen's Medical Center
+state: Hawaii
+state_abbrev: HI
+longitude: -157.8537089
+latitude: 21.3082701
+city_longitude: -157.8583333
+city_latitude: 21.3069444
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1778/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 48m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

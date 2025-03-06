@@ -1,0 +1,19 @@
+city: Pittsburg
+country: United States
+description: Reports of 3 spirits here. A young girl with long blond hair, a woman with long brown hair, and a male guessed to be about 5'10". Also heard, a faint/deep voice when he is around. Lights on in the middle of the night, the alarm can seldom be set)reset at night, doors open/close, noises are frequently heard (voices, footsteps, doors, other movement), things get moved/fall over, and the local P.D. will not enter the building.
+location: Old Riverside Elementary (unused site)
+state: California
+state_abbrev: CA
+city_longitude: -121.8846806
+city_latitude: 38.0279762
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

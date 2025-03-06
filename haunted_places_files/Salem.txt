@@ -1,0 +1,21 @@
+city: Winston
+country: United States
+description: Theatre #2 - A man died in this theatre and things have not been the same since. Employees have reported numerous problems with the projection booth equipment that cannot be explained. The problems get progressively worse the closer it gets to Halloween. People have also claimed to see apparitions and hear strange noises. Some employees have even quit because of the ghost.
+location: Salem
+state: North Carolina
+state_abbrev: NC
+longitude: -80.244216
+latitude: 36.09985959999999
+city_longitude: -80.254435
+city_latitude: 36.1039642
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.516666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

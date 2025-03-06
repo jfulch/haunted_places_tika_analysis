@@ -1,0 +1,21 @@
+city: Seabrook
+country: United States
+description: the former Toddville Mansion, which has recently been torn down, the property turned into apartments or condos. Reports of a strange creature roaming the grounds, noises, feelings of being watched, shadowy figures.
+location: Toddville Road
+state: Texas
+state_abbrev: TX
+longitude: -95.0089959
+latitude: 29.5776809
+city_longitude: -95.0254839
+city_latitude: 29.56411839999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1907/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 38m
+time_of_day: Evening
+apparition_type: Shadow Figure
+event_type: Natural Disaster
+witness_count: 1

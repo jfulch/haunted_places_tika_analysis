@@ -1,0 +1,21 @@
+city: National Park
+country: United States
+description: there was a hospital for the soldiers that is still there to this very day. When you go in there many people at many different times have said to have seen soldiers walking around in the upstairs.
+location: The park museum
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.5316807
+latitude: 40.7648452
+city_longitude: -75.1787901
+city_latitude: 39.8659466
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 27m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: War
+witness_count: 1

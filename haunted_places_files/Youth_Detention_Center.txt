@@ -1,0 +1,21 @@
+city: Valley View
+country: United States
+description: a long time ago it was a monastery used by monks who slept in the attic (4th floor) and a couple of monks hung them selves and now on stormy nights the phone rings on the control desk and is from an ex. That doesn't exist and breathing is heard in either side of phone also noises are heard and a white figure has been seen.
+location: Youth Detention Center
+state: Illinois
+state_abbrev: IL
+longitude: -88.3597138
+latitude: 41.9134991
+city_longitude: -88.2989657
+city_latitude: 41.9661384
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1513/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.8
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

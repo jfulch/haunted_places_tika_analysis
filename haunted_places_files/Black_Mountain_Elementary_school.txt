@@ -1,0 +1,21 @@
+city: Evarts
+country: United States
+description: In the Black Mountain elementary school they have been things seen in the girls locker home in the gym they have been names hollowed out. People has often heard kids laughing and shoes tapping on the floor.
+location: Black Mountain Elementary school
+state: Kentucky
+state_abbrev: KY
+longitude: -83.1688781
+latitude: 36.857726
+city_longitude: -83.1957118
+city_latitude: 36.8629065
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2007/09/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 1

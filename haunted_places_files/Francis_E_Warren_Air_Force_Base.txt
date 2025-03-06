@@ -1,0 +1,20 @@
+city: Cheyenne
+country: United States
+description: This structure was built in the late 1800's. There have been many supernatural events surrounding the area such as cavalry soldiers walking about at night and ghostly activities in the dormitories. The spirit seems to enjoy assaulting many of the females on the security team.
+location: Francis E. Warren Air Force Base
+state: Wyoming
+state_abbrev: WY
+longitude: -104.8561791
+latitude: 41.14346219999999
+city_longitude: -104.8202462
+city_latitude: 41.1399814
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

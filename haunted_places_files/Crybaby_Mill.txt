@@ -1,0 +1,19 @@
+city: Gainesville
+country: United States
+description: In north hall county off of 129, there's a rock road leading to an old wooden bridge that connects to an old grain mill. Years ago a woman threw her baby off of that bridge and if you go up to the mill, you can still hear baby's crying and yelling and what not.
+location: Crybaby Mill
+state: Georgia
+state_abbrev: GA
+city_longitude: -83.8240663
+city_latitude: 34.2978794
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2010/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.95
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

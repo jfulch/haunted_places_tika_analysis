@@ -1,0 +1,21 @@
+city: Port Aransas
+country: United States
+description: The old hotel was built in 1886, which is almost 100 years older than me. The rooms are very small and cramped, nor do they have any restoration done. Our bathroom was glowing pink at about 3;00 in the morning. Last time I checked bathrooms were not supposed to glow pink. Our room was on the second floor, which was the top and you could hear footsteps above us. You could also hear voices in the shower, which was this really old concrete slab thing. There were cold spots everywhere.
+location: Tarpon Inn
+state: Texas
+state_abbrev: TX
+longitude: -97.0601109
+latitude: 27.8376569
+city_longitude: -97.0610994
+city_latitude: 27.8339158
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1886/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 12.533333333333331
+day_duration: 11h 38m
+time_of_day: Evening
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

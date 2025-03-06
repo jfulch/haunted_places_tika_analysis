@@ -1,0 +1,19 @@
+city: Loogootee
+country: United States
+description: The boys basketball team used to run laps around the upper level of the gym. One day when they were running the star basketball player tripped and fell down the gym floor and he died instantly from impact. They say that when you go in there at night you can here the team running their laps and then a loud thud from where the boy fell. On the night of the anniversary you can see the blood stain on the floor and when you look away and look back the stain disappears.
+location: JFK Gym
+state: Indiana
+state_abbrev: IN
+city_longitude: -86.9141695
+city_latitude: 38.6769945
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.316666666666666
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

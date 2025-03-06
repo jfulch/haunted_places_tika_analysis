@@ -1,0 +1,20 @@
+city: Corinth
+country: United States
+description: The water comes on when everyone is asleep. You can hear babies crying in other rooms when no one is around. Weird things happen that is unexpected.
+location: 22 CR 510
+state: Mississippi
+state_abbrev: MS
+longitude: -88.62868189999999
+latitude: 34.8722125
+city_longitude: -88.5222702
+city_latitude: 34.9342548
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 36m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

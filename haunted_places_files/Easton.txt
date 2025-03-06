@@ -1,0 +1,21 @@
+city: Williams township
+country: United States
+description: Black Horse Inn - In 1927 a mobster was shot to death in the hall by the restrooms he got up to use the phone. He fell down the stairs to the basement; he hit his head on the wall. He died in a pool of blood at the bottom of the stairs. Johnny is what people nowadays call him. He turns clocks back, hides things, is even known to touch you. A fire started in the attic quite a few years ago. They never found out how it started. It is also one of the oldest buildings around.
+location: Easton
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.2207323
+latitude: 40.688432
+city_longitude: -75.2128996
+city_latitude: 40.6352516
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1927/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

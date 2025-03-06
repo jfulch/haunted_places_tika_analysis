@@ -1,0 +1,21 @@
+city: Ceredo
+country: United States
+description: Haunted by Civil War slaves and soldiers. This house was used as a stop on the Underground Railroad. You can hear chains rattling at night and can hear soldiers talking. Doors close by themselves and light go on and off.
+location: Ransdell House
+state: West Virginia
+state_abbrev: WV
+longitude: -82.5541952
+latitude: 38.3971475
+city_longitude: -82.55876889999999
+city_latitude: 38.3964711
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2002/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

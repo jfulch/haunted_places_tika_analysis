@@ -1,0 +1,19 @@
+city: Swissvale
+country: United States
+description: A ghost of a man frequents this place, we are unsure as to his identity and why he's there, but he's known to open and close doors. The sound of footsteps in the basement from the first floor and the sound of a stack of papers falling on the second floor but when you go upstairs, nothing has been touched.
+location: LG Graphics
+state: Pennsylvania
+state_abbrev: PA
+city_longitude: -79.88282749999999
+city_latitude: 40.4236801
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1986/10/24
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

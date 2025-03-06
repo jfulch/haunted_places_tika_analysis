@@ -1,0 +1,21 @@
+city: China Spring
+country: United States
+description: There is a little graveyard just outside of Waco in China Springs. I have been out there a few times and get a really creepy feeling. Cold chills are common, pictures get interesting, and the animals act weird. And rumor has it that if you knock on a certain headstone at midnight, an apparition appears and runs at you screaming extremely loud. Also headstones tend to move around frequently.
+location: Patrick Cemetery
+state: Texas
+state_abbrev: TX
+longitude: -97.2593856
+latitude: 31.687667
+city_longitude: -97.3079638
+city_latitude: 31.6522133
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

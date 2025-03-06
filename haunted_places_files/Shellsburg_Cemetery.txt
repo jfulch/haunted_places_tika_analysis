@@ -1,0 +1,21 @@
+city: Shellsburg
+country: United States
+description: Just outside of Shellsburg, there is a statue of an angel marking the grave of 2 young children that died in the late 1940's. It is said that if you walk up to her at night,she will softly start crying and tears will run down her face and fall to the ground.
+location: Shellsburg Cemetery
+state: Iowa
+state_abbrev: IA
+longitude: -91.88840460000002
+latitude: 42.0987031
+city_longitude: -91.8693231
+city_latitude: 42.0945385
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1880/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

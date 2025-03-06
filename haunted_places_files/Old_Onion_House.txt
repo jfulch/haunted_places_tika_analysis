@@ -1,0 +1,21 @@
+city: San Antonio
+country: United States
+description: Said to be haunted by ghosts of people that used to live there by the last name of onion.
+location: Old Onion House
+state: Texas
+state_abbrev: TX
+longitude: -98.6165613
+latitude: 29.4941896
+city_longitude: -98.4936282
+city_latitude: 29.4241219
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1919/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.55
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

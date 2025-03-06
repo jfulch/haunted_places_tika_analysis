@@ -1,0 +1,20 @@
+city: Kansas City
+country: United States
+description: There is said to be sightings, sounds, and lights flickering on and off in the arena late at night from a former WWF wrestler named Owen Hart who died 3 years ago by falling 50 feet to his death from the ceiling of the arena . There are also sightings of him still in his Owen Hart suit at the top of the arena looking down with the cable hooked up to him.
+location: Kansas City arena / Kemper Arena
+state: Missouri
+state_abbrev: MO
+longitude: -94.6059563
+latitude: 39.0917718
+city_longitude: -94.5785667
+city_latitude: 39.0997265
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Thermopolis
+country: United States
+description: a man died of a robbery that took place at the bank that used to stand there. He is always moaning in the bathroom.
+location: Kwik mart
+state: Wyoming
+state_abbrev: WY
+longitude: -108.2119142
+latitude: 43.6444987
+city_longitude: -108.2120432
+city_latitude: 43.6460672
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1896/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

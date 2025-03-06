@@ -1,0 +1,21 @@
+city: Yucaipa
+country: United States
+description: The ghost of Jamie Petersen is said to haunt the park. She was a girl who would sit at the park all hours of the day talking to squirrels. Then one day they found her mysteriously dead by the cross. Her ghost has been reported to wander the grounds asking to be smoked out.
+location: Flaghill park
+state: California
+state_abbrev: CA
+longitude: -117.0290199
+latitude: 34.0336006
+city_longitude: -117.0430865
+city_latitude: 34.033625
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

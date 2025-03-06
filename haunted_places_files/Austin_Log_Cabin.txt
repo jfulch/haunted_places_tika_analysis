@@ -1,0 +1,20 @@
+city: Austintown
+country: United States
+description: January 2004 correction and update: A local paranormal group Zerotime Paranormal - went to check this story out and found that there was no accident of this nature. You can check out the Ohio department of agriculture to look up the incident report. They investigate all ride accidents and deaths.- The Austin log cabin was built in the late 1700's by the township's founder, John Austin. The cabin is now a historic building in the community and is said to be guarded by a headless solider. The curator of the cabin has said she has seen him numerous times while working their. Residents have also reported to see a headless figure in the upstairs windows as they drive past.
+location: Austin Log Cabin
+state: Ohio
+state_abbrev: OH
+longitude: -80.7321985
+latitude: 41.0616881
+city_longitude: -80.7645239
+city_latitude: 41.1017247
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

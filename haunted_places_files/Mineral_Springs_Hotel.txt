@@ -1,0 +1,21 @@
+city: Alton
+country: United States
+description: The Lavender-Lady is one about a woman who loved the lavender smell. She had an affair and her husband found out. He chased her down some steps and nobody really knows the rest of the story except that he killed her. There is also a story about the pool area at the basement level. A woman drowned in the pool and it was because of a man. WARNING: There is a fee to see the hotel
+location: Mineral Springs Hotel
+state: Illinois
+state_abbrev: IL
+longitude: -90.1819013
+latitude: 38.8892451
+city_longitude: -90.1842764
+city_latitude: 38.8906038
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

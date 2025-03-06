@@ -1,0 +1,21 @@
+city: Dumas
+country: United States
+description: In the North Gym at Dumas Jr high there was a group of JR High girls practicing Volleyball. After practice everyone left except this one girl. No one came to pick her up so she decided to go back into the gym to wait for her ride. The janitor went into the gym and stabbed the girl and then his self. If you are in there by your self you can hear the girl screaming for help and the janitor laughing at what he was doing.
+location: Dumas Jr. High
+state: Texas
+state_abbrev: TX
+longitude: -101.964927
+latitude: 35.861551
+city_longitude: -101.9732236
+city_latitude: 35.8653789
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1824/07/27
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.433333333333334
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

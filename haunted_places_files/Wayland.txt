@@ -1,0 +1,21 @@
+city: Floyd
+country: United States
+description: Millcreek - in 1956 there was a coal mines collapse that killed 26workers at night you can walk down the road the miners will follow you and you can see the miners go into the mines wearing there hardhats with light.
+location: Wayland
+state: Kentucky
+state_abbrev: KY
+longitude: -82.8051601
+latitude: 37.4450997
+city_longitude: -82.7778579
+city_latitude: 37.5455463
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1956/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

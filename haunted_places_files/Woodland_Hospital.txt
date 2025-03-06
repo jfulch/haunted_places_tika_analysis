@@ -1,0 +1,21 @@
+city: Cullman
+country: United States
+description: Several employees are said to have heard strange noises of people walking around in empty rooms as well as seeing ghostly visions of deceased patients in certain rooms. Also, commodes flush by themselves on the psych unit, ice machine will pour ice out at early morning hours without prompt. In the employee lounge, it was reported that an employee was in the bathroom (an old hospital room) and heard footsteps and jingling keys in the room outside the bathroom door, as well as someone tinkering around in the room. No one was there.
+location: Woodland Hospital
+state: Alabama
+state_abbrev: AL
+longitude: -86.846002
+latitude: 34.150907
+city_longitude: -86.8436124
+city_latitude: 34.1748208
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 37m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

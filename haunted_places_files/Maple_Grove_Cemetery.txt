@@ -1,0 +1,21 @@
+city: Bloomfield
+country: United States
+description: Anna Beauchamp, of the famous 1825 Romantic Tragedy can be seen walking along the road and throughout the cemetery at times.
+location: Maple Grove Cemetery
+state: Kentucky
+state_abbrev: KY
+longitude: -85.31588350000001
+latitude: 37.9162708
+city_longitude: -85.316622
+city_latitude: 37.9103403
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1802/09/06
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Boonville
+country: United States
+description: can see figure standing in window at night on the floor that was closed down is ghost of cadets that died in the infirmary during the early days (late 1800s and early 1900s) because medicine had not advanced.
+location: Kemper Military School and College (closed down)- D barracks
+state: Missouri
+state_abbrev: MO
+longitude: -92.7463245
+latitude: 38.9715405
+city_longitude: -92.7432418
+city_latitude: 38.9736392
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

@@ -1,0 +1,20 @@
+city: New London
+country: United States
+description: There have been reports of lights and strange sounds coming from Ledge Lighthouse which is now inoperable. Also believed to be haunted by a lighthouse keeper that committed suicide there.
+location: Ledge Lighthouse
+state: Connecticut
+state_abbrev: CT
+longitude: -72.077439
+latitude: 41.3058456
+city_longitude: -72.0995209
+city_latitude: 41.3556539
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

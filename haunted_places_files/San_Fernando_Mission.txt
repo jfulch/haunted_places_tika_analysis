@@ -1,0 +1,21 @@
+city: Mission Hills
+country: United States
+description: Apparition of a lady in a white dress with a white scarf on her head praying at the front row of the chapel that vanishes.
+location: San Fernando Mission
+state: California
+state_abbrev: CA
+longitude: -118.4616431
+latitude: 34.2729782
+city_longitude: -120.4364208
+city_latitude: 34.68824560000001
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1531/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 0

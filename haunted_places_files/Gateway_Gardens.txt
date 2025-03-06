@@ -1,0 +1,21 @@
+city: Kokomo
+country: United States
+description: The Gateway Gardens is an apartment complex. people who lived have seen tear drops and blood falling from the ceiling. There have been reports of people seeing legs walking. Babies have raised out of the cribs and appeared stiff and a few minutes later whatever was holding them let go. This is a very evil place. Just looking at the place you get an eery feeling.
+location: Gateway Gardens
+state: Indiana
+state_abbrev: IN
+longitude: -86.1204686
+latitude: 40.4670855
+city_longitude: -86.13360329999999
+city_latitude: 40.486427
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

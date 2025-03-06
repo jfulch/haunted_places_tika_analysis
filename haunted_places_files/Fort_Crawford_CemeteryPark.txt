@@ -1,0 +1,19 @@
+city: East Brewton
+country: United States
+description: If you go in the cemetery at night at around 11:00PM - 12:00PM, you can sometimes hear children laughing and see a shadowy black figure roaming the cemetery. In the park, from around midnight to 3AM, you can see a confederate solider walking around. If you stay long enough, he will ask you if you have seen his gun.
+location: Fort Crawford Cemetery/Park
+state: Alabama
+state_abbrev: AL
+city_longitude: -87.0627468
+city_latitude: 31.0932339
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1899/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.333333333333334
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

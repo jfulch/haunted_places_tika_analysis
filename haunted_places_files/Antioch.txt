@@ -1,0 +1,20 @@
+city: Yellow Springs
+country: United States
+description: It is said that the last room on the left of Dodd Hall is haunted by a little boy that will pounce on students in the middle of the night. Sometimes people feel as though they are being pushed down in the beds. The little boy longs for a friend and may try to reach for someone’s hand. Many other places on campus our haunted as well.
+location: Antioch
+state: Ohio
+state_abbrev: OH
+longitude: -83.8877186
+latitude: 39.7993346
+city_longitude: -83.88687399999999
+city_latitude: 39.8064486
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1910/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 0

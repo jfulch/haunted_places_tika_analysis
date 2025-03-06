@@ -1,0 +1,21 @@
+city: Amelia
+country: United States
+description: There is a "charred lady" apparently seen in Amelia Wildlife Reserve, as well as other apparitions. There have been at least two murders/bodies found in there. In the early 90s, the middle aged female victim of a brutal joy-ride rape-murder was found dumped near the entrance of the reserve (note: the case was hushed by local officials, inexplicably, couldn’t find out even the victims name...the case has never been solved). 4 years ago, another female corpse was found near the lake/dam area, within a small cove, also a nighttime lovers lane - party spot for teen urchins. The dam nearby is the same one where a woman has been seen (dragging a body) in the past.
+location: Amelia Wildlife Reserve
+state: Virginia
+state_abbrev: VA
+longitude: -77.9110321
+latitude: 37.46744839999999
+city_longitude: -77.973865
+city_latitude: 37.3212714
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.733333333333333
+day_duration: 11h 30m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

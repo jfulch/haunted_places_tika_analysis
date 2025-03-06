@@ -1,0 +1,21 @@
+city: Litchfield
+country: United States
+description: There have been sightings of a young boy asking for help in the murky water. This happens on cool nights in the summer months. Police patrol so be careful.
+location: Darrah Pond ( Roy Memorial Park)
+state: New Hampshire
+state_abbrev: NH
+longitude: -71.44589169999999
+latitude: 42.8293835
+city_longitude: -71.4797889
+city_latitude: 42.84425359999999
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.783333333333331
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Accident
+witness_count: 1

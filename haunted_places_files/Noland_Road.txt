@@ -1,0 +1,20 @@
+city: Branson
+country: United States
+description: Off Sycamore Church Road off 248 Hwy near Branson, the old trail used to pass by this road, near the old town of Garber. People have witness the imprints of saddle blankets and handprints in the dust on the backs of cars after driving this road.
+location: Noland Road
+state: Missouri
+state_abbrev: MO
+longitude: -93.3061855
+latitude: 36.6845509
+city_longitude: -93.2185144
+city_latitude: 36.6436731
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

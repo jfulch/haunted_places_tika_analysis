@@ -1,0 +1,21 @@
+city: American fork
+country: United States
+description: it is to be said that if you do three circles at the top of tibble fork parking lot you will come to the fork when exiting the canyon and a hearse will follow you and chase you with red lights
+location: American fork canyon
+state: Utah
+state_abbrev: UT
+longitude: -111.782835
+latitude: 40.34471
+city_longitude: -111.7957645
+city_latitude: 40.3768954
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 12.766666666666667
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

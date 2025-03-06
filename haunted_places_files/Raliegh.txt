@@ -1,0 +1,21 @@
+city: Beckley
+country: United States
+description: Soldiers Memorial Theatre - There are concerts held at this location and if you go wondering off where you're not supposed to then you will see something like a silhouette of a person following you.  This building has once been a Y.M.C.A. and is now a Art Centre.  It is said to be people from the old Y.M.C.A.
+location: Raliegh
+state: West Virginia
+state_abbrev: WV
+longitude: -81.1881557
+latitude: 37.7781702
+city_longitude: -81.1881557
+city_latitude: 37.7781702
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2018/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 30m
+time_of_day: Unknown
+apparition_type: Partial Apparition
+event_type: War
+witness_count: 1

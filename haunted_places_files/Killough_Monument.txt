@@ -1,0 +1,21 @@
+city: Jacksonville
+country: United States
+description: The history of Killough Monument involved the Killough Family who settled there and built a home. Eventually Indians came along who wanted to take over their land and massacred the family, and destroyed their home. The monument was supposedly built in the same place the house was located, with the graves of the family members surrounding it. The monument itself is a brick pyramid formation on a concrete foundation. The foundation is approximately 4 feet tall and the pyramid is about 15-18 feet from the ground to the top. On top of the foundation there is 4-5 inches from the edge, to where the bricks begin. On the south side of the monument, the second layer of bricks from the top, which was 3 bricks side-by-side, with bricks surrounding the top and bottom, the center brick is missing. Since this monument is the same formation on four sides, not sure if it is hollow or not, believed to be nearly impossible for any human to remove that brick.
+location: Killough Monument
+state: Texas
+state_abbrev: TX
+longitude: -95.342847
+latitude: 32.0545728
+city_longitude: -95.2705042
+city_latitude: 31.963778
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

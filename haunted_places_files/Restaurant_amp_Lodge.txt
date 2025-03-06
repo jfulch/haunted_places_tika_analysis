@@ -1,0 +1,21 @@
+city: Pendaries
+country: United States
+description: Many of the employees have seen an older man in the downstairs bar. He has also been seen outside one of the rooms in the lodge.
+location: Restaurant &amp; Lodge
+state: New Mexico
+state_abbrev: NM
+longitude: -95.5666846
+latitude: 37.269044
+city_longitude: -105.4219756
+city_latitude: 35.8329083
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.033333333333331
+day_duration: 11h 34m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: War
+witness_count: 1

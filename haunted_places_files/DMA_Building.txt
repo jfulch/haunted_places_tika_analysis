@@ -1,0 +1,21 @@
+city: Salt Lake City
+country: United States
+description: west temple - There is an open well in the basement that still exists today. Samples of the well have been tested and you get the feeling that when you go down there... something just isn't right. Employees will not stay late into the night - and no one will go down there alone. A young girl's voice as well as a feeling of malady has been reported numerous times...
+location: DMA Building
+state: Utah
+state_abbrev: UT
+longitude: -111.8868221
+latitude: 40.75969
+city_longitude: -111.8910474
+city_latitude: 40.7607793
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.65
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

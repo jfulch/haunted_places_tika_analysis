@@ -1,0 +1,19 @@
+city: Springfield
+country: United States
+description: The building that once was Technical High School has been demolished but, going back a few years ago the abandoned building used to be a popular hang out for school skipping teenagers from Commerce High. From those kids myself included reports of strange happenings have been reported. Large shadows/silhouettes of an abnormal human shape have been seen appearing in windows and changing floors in a blink of an eye. Inside the building noises like footsteps are heard in the attic from the third floor and bricks and other heavy obgects fly out of nowhere. This was more than an old building with creeks there is/was something very evil and most likely harmful inside this building. the grounds are still posted with no trespassing notices and police do take notice!
+location: Old Technical High School Building (now demolished)
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -72.589811
+city_latitude: 42.1014831
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.883333333333333
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

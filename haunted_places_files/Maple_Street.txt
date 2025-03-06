@@ -1,0 +1,21 @@
+city: Kannapolis
+country: United States
+description: A man was brutally murdered on the streets and every so often they can still here the screams of the man yelling.
+location: Maple Street
+state: North Carolina
+state_abbrev: NC
+longitude: -80.63279349999999
+latitude: 35.4727152
+city_longitude: -80.6217341
+city_latitude: 35.4873613
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.3
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

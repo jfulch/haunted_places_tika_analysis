@@ -1,0 +1,19 @@
+city: Athol
+country: United States
+description: It's located off of Pleasant Hill Road in Athol, MA. Apparently this cult lived in a clearing 400 yards off the road, they did sacrifices and killed animals and people. There are seven gates that lead into the clearing where there is an alter and an abandoned house. (Now defaced with grafiti) There is said to be blood on the walls. If you go at night you hear whispering, can see animals hanging from trees and if you scream from inside the clearing, you can't hear it from the road!
+location: "Gates of Hell" or the Seven Gates
+state: Massachusetts
+state_abbrev: MA
+city_longitude: -72.2267383
+city_latitude: 42.59593290000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Mist
+event_type: Murder
+witness_count: 1

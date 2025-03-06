@@ -1,0 +1,19 @@
+city: Lone Pine
+country: United States
+description: Eerie darkness in the baggage compartment. And reports of a little girl behind the ticket counter with a doll in her arms.
+location: Train Depot off 395
+state: California
+state_abbrev: CA
+city_longitude: -118.0628654
+city_latitude: 36.6060444
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

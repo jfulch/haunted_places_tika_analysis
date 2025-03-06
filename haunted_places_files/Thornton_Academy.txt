@@ -1,0 +1,21 @@
+city: Saco
+country: United States
+description: after school hours at night strange ghostly entities lurk around the campus looking for their next victim
+location: Thornton Academy
+state: Maine
+state_abbrev: ME
+longitude: -70.439059
+latitude: 43.50538299999999
+city_longitude: -70.4428286
+city_latitude: 43.5009176
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 21m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

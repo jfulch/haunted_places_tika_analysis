@@ -1,0 +1,21 @@
+city: Stillwater
+country: United States
+description: In The Stillwater High School in room 201, late at night you can her strange voices coming from the vent. The teacher doesn’t even hold class in the room anymore. The voices occur at random times, and the faculty has repaired the air conditioner but the voices wont go away.
+location: Stillwater high school
+state: Oklahoma
+state_abbrev: OK
+longitude: -97.062079
+latitude: 36.135089
+city_longitude: -97.0583681
+city_latitude: 36.1156071
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1993/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,20 @@
+city: Tiffin
+country: United States
+description: There are a number of ghosts that haunt Heidelberg's campus. The first ghost resides in France Hall. Ellen is the specter here. She roams the halls, locking residence out of their rooms. Noises can be heard coming from the attic and there is even a cold spot in the basement, as well as various cold spots throughout the building. Things have been known to mysteriously move around, especially in the kitchen. A dark headed female has been seen in the attic believed to be Ellen. In the summer, the smoke detectors go off for no reason. The second ghost resides in Willard Hall. Reports of a ghostly apparition have been sighted in the basement. The last haunt known on Heidelburg's campus occurs in the catacombs of Founder's Hall. The catacombs are now used as a storage area for the theater. People working down there alone have reported their radios turning off for no reason. Shadows have been seen along with various noises.
+location: Heidelberg
+state: Ohio
+state_abbrev: OH
+longitude: -83.16748539999999
+latitude: 41.1148471
+city_longitude: -83.1779746
+city_latitude: 41.1144992
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1958/01/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.966666666666669
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

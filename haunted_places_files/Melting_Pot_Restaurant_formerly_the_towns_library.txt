@@ -1,0 +1,20 @@
+city: Littleton
+country: United States
+description: Employees have reported seeing various apparitions and objects moving by themselves. Anyone who is a native of Littleton has probably heard of this. This restaurant is in downtown Littleton at Santa Fe Drive and Bowles Ave.
+location: Melting Pot Restaurant (formerly the town's library)
+state: Colorado
+state_abbrev: CO
+longitude: -105.0204352
+latitude: 39.6137256
+city_longitude: -105.0166498
+city_latitude: 39.613321
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1856/09/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

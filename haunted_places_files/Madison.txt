@@ -1,0 +1,21 @@
+city: Nashville
+country: United States
+description: Duff's Smorgasbord - stories of strange sounds & activity, they generally occur in either the morning or at night when the restaurant is closed and there were only a few employees (1-4) there. These strange sounds usually came in the form of crashing pans or stock, as though something had fallen in the back. Other employees claimed to have heard the sound women laughing as though they were above them in the air. Duff’s Smorgasbord ExperienceOcotber 2004 update: has since been Closed down.
+location: Madison
+state: Tennessee
+state_abbrev: TN
+longitude: -86.7143516
+latitude: 36.25620019999999
+city_longitude: -86.7816016
+city_latitude: 36.1626638
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1939/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.483333333333333
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

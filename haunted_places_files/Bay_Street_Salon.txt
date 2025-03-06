@@ -1,0 +1,21 @@
+city: Fremont
+country: United States
+description: When two of the stylist were the only ones in the salon, the bathroom door would lock somehow, and they would have to retrieve the key and unlock the door. The toilet would also flush automatically, and it is not an auto flush toilet. salon was previously a fire station, and a slaughter house.
+location: Bay Street Salon
+state: California
+state_abbrev: CA
+longitude: -121.9594368
+latitude: 37.5327388
+city_longitude: -121.9885719
+city_latitude: 37.5482697
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

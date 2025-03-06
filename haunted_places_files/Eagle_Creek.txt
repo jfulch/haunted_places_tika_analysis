@@ -1,0 +1,21 @@
+city: Arlington
+country: United States
+description: Sometimes Indians can be seen next to the creek, also in a mobile home park one trail is known that people get lost, and end up miles off.
+location: Eagle Creek
+state: Washington
+state_abbrev: WA
+longitude: -122.112316
+latitude: 48.194031
+city_longitude: -122.1251418
+city_latitude: 48.1987118
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1700/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

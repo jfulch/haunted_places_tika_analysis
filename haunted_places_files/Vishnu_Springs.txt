@@ -1,0 +1,21 @@
+city: Colchester
+country: United States
+description: Vishnu is an old abandoned township located just west of Colchester. There are feelings of being watched, viewed shadow like beings in darkened corners. The old hotel is haunted. Pictures taken reveal orbs and a fog/mist that were not visible to the naked eye. Also a corner was very cold, much colder than the outside temperature.
+location: Vishnu Springs
+state: Illinois
+state_abbrev: IL
+longitude: -90.8937462
+latitude: 40.4319868
+city_longitude: -90.7926324
+city_latitude: 40.4264306
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/04/15
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.383333333333333
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 0

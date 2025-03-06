@@ -1,0 +1,21 @@
+city: Cartersville
+country: United States
+description: Some say a little Indian girl was hung from the rafters of this bridge and to this day u can still hear the rope swaying back and forth and a little girl crying.
+location: Covered bridge
+state: Georgia
+state_abbrev: GA
+longitude: -84.9310875
+latitude: 34.1426887
+city_longitude: -84.7999382
+city_latitude: 34.1650972
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

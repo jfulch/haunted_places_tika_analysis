@@ -1,0 +1,21 @@
+city: Prattville (near Sand Springs)
+country: United States
+description: The shows at Discoveryland! take place in an outdoor theater and live horses are a part of the show. One evening while driving a one-horse cart up hill after leaving the stage I felt someone shove the carriage from behind. No one was there. Another wrangler reported having felt someone enter the cart she driving in the same place a few weeks earlier.
+location: Discoveryland! Theater
+state: Oklahoma
+state_abbrev: OK
+longitude: -96.2094858
+latitude: 36.1032995
+city_longitude: -96.11833
+city_latitude: 36.1044399
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

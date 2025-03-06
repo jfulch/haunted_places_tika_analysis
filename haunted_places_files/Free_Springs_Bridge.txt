@@ -1,0 +1,19 @@
+city: Sullivan
+country: United States
+description: There are many stories that deal with murder about this bridge that lies out in the country in this small town. There have been sightings of a "headless man" walking around looking for his head that had once been severed. He had been a bum that feel out of a train and got ran over.
+location: Free Springs Bridge
+state: Indiana
+state_abbrev: IN
+city_longitude: -87.4058525
+city_latitude: 39.0953199
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.75
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

@@ -1,0 +1,19 @@
+city: Richfield township
+country: United States
+description: Feelings of being followed, cold spots, items moving, anomalies on film.
+location: Dodge Cemetery
+state: Michigan
+state_abbrev: MI
+city_longitude: -84.41726659999999
+city_latitude: 44.3197591
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1965/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

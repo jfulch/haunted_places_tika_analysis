@@ -1,0 +1,21 @@
+city: Erie
+country: United States
+description: In the 1970's a student by the name of Henry, the last name has been lost over the years, lived on the 3rd floor in the West wing of Niagara Hall. Henry horribly died after freezing to death on a cold winter night. It is said that he tried to get the heater to work and the door was jammed, no one heard his screams as he frantically tried to escape the room. The next morning his roommate found his body clung to the heater, hoping it would turn on. Some who stay in this haunted room have said that some nights you can hear Henry shaking the heater and the door in attempts to escape his frigid death.
+location: Penn State Behrens
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.98371399999999
+latitude: 42.119308
+city_longitude: -80.085059
+city_latitude: 42.12922409999999
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1987/02/09
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.15
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 0

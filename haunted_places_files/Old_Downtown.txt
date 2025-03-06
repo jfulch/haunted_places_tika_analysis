@@ -1,0 +1,21 @@
+city: Lincoln
+country: United States
+description: Downtown at night near the old gas station at the bar, a man haunts it. People say that in the middle of a fight, the man was killed when he was struck by a train. The person accused of pushing the man in front of the train also haunts the land in search of a battle he could not win.
+location: Old Downtown
+state: Alabama
+state_abbrev: AL
+longitude: -86.1466674
+latitude: 33.5300915
+city_longitude: -86.1183061
+city_latitude: 33.6131588
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 0

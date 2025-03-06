@@ -1,0 +1,21 @@
+city: Limerick
+country: United States
+description: When the plant was being constructed in the late 70's and early 80's, one of the workers was killed when he fell over 100 feet down an open elevator shaft in the unit 2 reactor part of the building. To this day there have been sightings of the ghost on the elevation from which he had fallen from as well as many "cool" spots in a building which is anything but cool.
+location: Limerick Power Generating Plant
+state: Pennsylvania
+state_abbrev: PA
+longitude: -75.5832338
+latitude: 40.2264659
+city_longitude: -75.5393155
+city_latitude: 40.2383606
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Murder
+witness_count: 1

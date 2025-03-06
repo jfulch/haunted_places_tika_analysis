@@ -1,0 +1,20 @@
+city: Elsberry
+country: United States
+description: There has been a number of sightings around the highschool including one a a little girl who was supposedly locked in back in 1972. TVs go on and off by themselves and people start bleeding for no reason there has also been sightings of a bloody man down in the basement of the school.
+location: Elsberry highschool
+state: Missouri
+state_abbrev: MO
+longitude: -90.7940698
+latitude: 39.1616068
+city_longitude: -90.7809598
+city_latitude: 39.1667151
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/01/01
+date_source: description
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

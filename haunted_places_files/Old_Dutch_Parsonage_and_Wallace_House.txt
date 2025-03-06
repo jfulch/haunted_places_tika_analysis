@@ -1,0 +1,21 @@
+city: Somerville
+country: United States
+description: The Old Dutch Parsonage is always closed at night. NOBODY goes in there after dark. Screaming, things banging against the walls and floors from upstairs. Items getting moved around after being indexed or filed.
+location: Old Dutch Parsonage and Wallace House
+state: New Jersey
+state_abbrev: NJ
+longitude: -74.6220815
+latitude: 40.5696565
+city_longitude: -74.60987999999999
+city_latitude: 40.5742696
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1751/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.05
+day_duration: 11h 27m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

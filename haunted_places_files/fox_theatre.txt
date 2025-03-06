@@ -1,0 +1,21 @@
+city: Hutchinson
+country: United States
+description: late at night when you are alone you will often here doors slamming shut. the seats of the theatre will often open and shut by them selves. In 2001 a custodian reported hearing glass break. when officials investigated they found a broken fire extinguisher glass broke and shattered among the floor. One official noticed one open seat that slammed shut when the other officer turned to see. Don't let the spirits among the theatre stop you from visiting.
+location: fox theatre
+state: Kansas
+state_abbrev: KS
+longitude: -97.9309
+latitude: 38.0538
+city_longitude: -97.9297743
+city_latitude: 38.0608445
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2001/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

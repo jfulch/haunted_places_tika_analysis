@@ -1,0 +1,21 @@
+city: Plymouth
+country: United States
+description: There are too old buildings that are known as the Gilbert Huson and Henry Huson houses. Three workers have reported hearing people walking around and things dropping. Workers usually refuse to work by themselves. The third floor is especially creepy and not to mention extremely cold at all times. Ex: one day three workers were waiting for laundry to get done, while the three were sitting in the basement an old mirror that sits on the wall dropped. None of the workers were near it as it shattered into hundreds of pieces.
+location: Yankee Hill Inn B &amp; B
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.90248980000001
+latitude: 43.0442955
+city_longitude: -87.9770379
+city_latitude: 43.7486054
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.133333333333333
+day_duration: 11h 23m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Ellensburg
+country: United States
+description: This Old homestead was the first homestead in Kittitas valley and was once used as an Indian fort and is now a state park, People have reported the feeling of being watched there and sightings of Indians have been reported along the creek, others have reported hearing a woman screaming and a baby crying during the full moon!
+location: Olmstead place
+state: Washington
+state_abbrev: WA
+longitude: -120.4707054
+latitude: 46.9724782
+city_longitude: -120.5478474
+city_latitude: 46.9965144
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1995/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.25
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Unknown
+witness_count: 1

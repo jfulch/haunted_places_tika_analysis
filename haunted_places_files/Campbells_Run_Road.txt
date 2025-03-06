@@ -1,0 +1,21 @@
+city: Harmarville
+country: United States
+description: The Woods - Three hunters died. You will see large orbs floating through the woods. Also appear as an apparition with out feet.
+location: Campbells Run Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -79.8623973
+latitude: 40.5426195
+city_longitude: -79.8403931
+city_latitude: 40.5395038
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1975/12/30
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+day_duration: 11h 27m
+time_of_day: Evening
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

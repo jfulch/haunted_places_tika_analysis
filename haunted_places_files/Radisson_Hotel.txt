@@ -1,0 +1,21 @@
+city: Albuquerque
+country: United States
+description: On the first floor of the hotel you can hear scratching noises and slamming doors above you late at night, even if there is no one renting the room above yours. There is loud yelling and screaming in rooms that are vacant and sometimes women are shaken until they wake up by what seems to feel like children’s hands. The third floor (which no one is supposed to be on) is the only floor that has not been remolded. As soon as the elevator doors open you are hit with a gust of hot air. As you walk further through the floor there is the remains or what used to be a bar. The top is in perfect condition but the rest of it is completely destroyed. In the corner of the bar is what appears to be newly broken glass. No one knows how it was there because there were no employees up there recently and none of the windows were broken.
+location: Radisson Hotel
+state: New Mexico
+state_abbrev: NM
+longitude: -106.602869
+latitude: 35.107248
+city_longitude: -106.6055534
+city_latitude: 35.0853336
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 34m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 1

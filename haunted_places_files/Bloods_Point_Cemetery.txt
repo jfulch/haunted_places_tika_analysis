@@ -1,0 +1,21 @@
+city: Belvedere
+country: United States
+description: Sightings of white orbs, mists, and leaves manifesting into human forms. Electrical malfunctions such as flashlights turning off and cameras turning off, that function normally outside the cemetery, Also heard, peculiar cries, whistles and whispers, and an occasional growling from around the shed area.
+location: Blood's Point Cemetery
+state: Illinois
+state_abbrev: IL
+longitude: -88.8378535
+latitude: 42.17532569999999
+city_longitude: -88.84426739999999
+city_latitude: 42.2639098
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 26m
+time_of_day: Unknown
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

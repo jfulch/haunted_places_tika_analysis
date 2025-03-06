@@ -1,0 +1,21 @@
+city: Lauderdale
+country: United States
+description: Forks of Cypress Plantation - This is where the infamous Ghost Bridge is located. What many people don't know is that the ruins of the mansion that burned down are still there. The columns of the old ruins are still standing. The hauntings occur in the slave cemetery and the family cemetery as well. There have been many people that have claimed to see the ghost of a tall, stately woman in the family cemetery. The cemetery is surrounded by a ten foot high wall. If you kiss the symbol on the top of the tallest burial marker, the lady is said to appear. In the slave cemetery, low African Spiritual singing and sounds of mourning can be heard at around midnight in the cemetery.
+location: Florence
+state: Alabama
+state_abbrev: AL
+longitude: -87.677251
+latitude: 34.79981
+city_longitude: -87.658113
+city_latitude: 34.8840876
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1754/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

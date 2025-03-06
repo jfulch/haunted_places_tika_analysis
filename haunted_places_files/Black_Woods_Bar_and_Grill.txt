@@ -1,0 +1,20 @@
+city: Two Harbors
+country: United States
+description: This location was an orphanage in the early 1900s. Legend is that a young orphan girl living there died when she fell down the staircase in the orphanage; that staircase remains in the restaurant today. Staff at the location report frequent occurrences of ghostly phenomena, including voices that don't belong to anyone, dishes falling off counters, and things in the storage room that move themselves from one side of the room to the other.
+location: Black Woods Bar and Grill
+state: Minnesota
+state_abbrev: MN
+longitude: -91.671349
+latitude: 47.0255217
+city_longitude: -91.6707322
+city_latitude: 47.0227111
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 20m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Death
+witness_count: 1

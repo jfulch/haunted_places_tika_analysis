@@ -1,0 +1,21 @@
+city: Hendersonville
+country: United States
+description: Often a man with long black hair dressed in black can be seen walking up behind you. When you turn around you see no one is there. There are always sounds in the theatre.
+location: Trinity Broadcasting Theatre
+state: Tennessee
+state_abbrev: TN
+longitude: -86.56455199999999
+latitude: 36.3233562
+city_longitude: -86.6199957
+city_latitude: 36.3047735
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.416666666666666
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

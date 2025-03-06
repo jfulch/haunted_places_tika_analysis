@@ -1,0 +1,21 @@
+city: Franklin
+country: United States
+description: In the mid to late 1800's there was said to have been a lady in her 20's killed in the dining room. If you stand in the dining room late at night you can see her backing towards the dining table and a man in late 1800's clothing will stab her on the table. - March 2008 Update: On 12-28-2006 The Poor Richard’s Summit Inn burnt completely down. The Inn has been known for catching fire at least once a year. The owner & 1 of his dogs died in the fire.
+location: Poor Richards Summit Inn
+state: North Carolina
+state_abbrev: NC
+longitude: -83.3632681
+latitude: 35.1939392
+city_longitude: -83.3815429
+city_latitude: 35.1823171
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1708/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 1

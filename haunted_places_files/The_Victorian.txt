@@ -1,0 +1,21 @@
+city: Gardner
+country: United States
+description: The former mansion (circa 1875) of chair manufacturer, S.K. Pierce in South Gardner has been "certified" haunted by six mediums and paranormal researchers. The spirits of a nineteen year old female servant from the late 19th Century, a man who perished in a fire at the house in 1963 and a little boy who often visited the mansion, but did not live there. Footsteps, Orbs, and Spirits in Shadow can often be heard and seen throughout the house's 26 rooms; and they seem to be there to protect the property. Unlike many other haunted places who's owners prefer privacy... The Victorian is open for tours. Most of the spirit activity takes place on the third floor; the former servants' quarters.
+location: The Victorian
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.9807958
+latitude: 42.5575588
+city_longitude: -71.998133
+city_latitude: 42.5750883
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1963/01/01
+date_source: description
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

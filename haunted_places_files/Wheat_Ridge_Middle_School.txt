@@ -1,0 +1,20 @@
+city: Wheat Ridge
+country: United States
+description: Gymnasium -  their have been reports of a little girl in the girls locker room seem to be appearing in the dark when your all alone the gym teacher says that she knows theirs a ghost of a little girl in their she says she sees her in the morning their has also been reports of some activity in the boys locker room as well a little boy haunts the boys locker room apparently a ling time ago before the school was rebuilt their was a shoot out and people mostly died in the gym and aberrantly their is a few ghost in and around the school in the dark is where they decide to come out.
+location: Wheat Ridge Middle School
+state: Colorado
+state_abbrev: CO
+longitude: -105.1036126
+latitude: 39.7640549
+city_longitude: -105.0772063
+city_latitude: 39.766098
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1905/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

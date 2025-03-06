@@ -1,0 +1,17 @@
+city: Merewether
+country: United States
+description: Reports of a spectral the train coming
+location: Lutherville in town
+state: Georgia
+state_abbrev: GA
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.566666666666666
+day_duration: 11h 35m
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

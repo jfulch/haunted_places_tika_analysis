@@ -1,0 +1,21 @@
+city: Auburn
+country: United States
+description: A young girl has been sighted wandering around the PIT area and in the rafters (cat Walk). She falls from the catwalk during and early period play.
+location: Auburn High School Auditorium
+state: Washington
+state_abbrev: WA
+longitude: -122.2199762
+latitude: 47.3086637
+city_longitude: -122.2284532
+city_latitude: 47.30732279999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/08/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 16m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Idaho Falls
+country: United States
+description: Legend has it that a house once stood on the spot where now is only a deserted lot, fenced in and hidden by the overgrowth of trees. There is no longer power or water service to this lot, but many people walking by have heard the sound of running water and seen the leaves of the trees light up as if the house were there and the rooms were lighted. Several witnesses have been inside and have reported that there are spirits of a family murdered by the father roaming around the yard. After roaming and exploring, a young man and his brother were spooked by sudden screams and tried to leave the lot, he knocked the ladder over and tried to climb the inside of the wall. He felt as if there were nails hammered through to the inside and he was being scratched. When his brother righted the ladder, they both climbed over the fence and escaped. The young man still has the scars, but there are no nails or nail holes in that fence and none of the neighbors had heard a thing. Also on several occasions that the 'apparition' of the house that stood there would appear with lighted windows. Upon further surveillance, figures could be seen passing by the windows and opening the front door. Children could be heard playing in the front yard, but could not be seen because of the high fence.
+location: The Lot
+state: Idaho
+state_abbrev: ID
+longitude: -112.0035445
+latitude: 43.4810313
+city_longitude: -112.0339645
+city_latitude: 43.49165139999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1990/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.666666666666666
+day_duration: 11h 22m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

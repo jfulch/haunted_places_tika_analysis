@@ -1,0 +1,20 @@
+city: Portsmouth
+country: United States
+description: Residents on the second floor complain of being kept up at night by the "little black children sitting on my bed". Water faucets turn off and on by themselves, doors open and close on their own, children laughing and playing in the attic can be heard almost anytime.
+location: Hallmark Care Center
+state: Ohio
+state_abbrev: OH
+longitude: -82.9938744
+latitude: 38.7406818
+city_longitude: -82.9976742
+city_latitude: 38.7317431
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.016666666666667
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Natural Disaster
+witness_count: 0

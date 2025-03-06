@@ -1,0 +1,21 @@
+city: Carnation
+country: United States
+description: Reports of a white ghostly looking dog, the witness accelerated (no way dog could keep up) 3 miles down the road dog was sitting and watching.- Side Note: There is a song camp counselors teach the kids about a dog that a local ranger had lost. The song was called "Blue Walking" and was about the dog wandering around the hills in the area.
+location: Fall City/Carnation Back Road
+state: Washington
+state_abbrev: WA
+longitude: -121.8878748
+latitude: 47.569875
+city_longitude: -121.9140074
+city_latitude: 47.6478787
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/05/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

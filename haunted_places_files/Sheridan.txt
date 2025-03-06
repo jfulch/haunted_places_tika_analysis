@@ -1,0 +1,21 @@
+city: Coloma
+country: United States
+description: Lincoln - Manzanita Cemetery - Reported by a local firefighter while fighting a wild land fire, the fire had burned up to the back of the cemetery. Appeared to stop at the back fencing, then parted going around the cemetery and continued around the perimeter of the site with no logical explanation. Also strange sounds can be heard coming from the site from about dusk late into the early hours of the morning as well as seeing blackened shadows moving across the grounds. The locals do not frequent this 1800s cemetery. Perhaps that's the reason the cemetery is so active.
+location: Sheridan
+state: California
+state_abbrev: CA
+longitude: -120.9088006
+latitude: 38.79527410000001
+city_longitude: -120.8902916
+city_latitude: 38.7999214
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1856/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

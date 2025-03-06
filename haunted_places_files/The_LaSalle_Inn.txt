@@ -1,0 +1,21 @@
+city: La Salle
+country: United States
+description: In the early 1920s there was a prohibition and this is where Al Capone stopped routinely on his way to Iowa and further west. It has been reported that his and other ghosts haunt this hotel in the basement. Late at night you can hear them playing cards and getting drunk.
+location: The LaSalle Inn
+state: Illinois
+state_abbrev: IL
+longitude: -89.1270495
+latitude: 41.370891
+city_longitude: -89.0418249
+city_latitude: 41.3621503
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1920/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

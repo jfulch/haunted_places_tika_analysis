@@ -1,0 +1,21 @@
+city: Milwaukee
+country: United States
+description: The school building used to be the church. Rumor has it that a boy fell to his death from the balcony. The balcony has since been walled over and converted to a room. Former teachers and students at the school attest to a strange feeling in the former balcony area. There is also a rocking chair in the attic that keeps rocking with no one around and no breeze. A strange man has been seen by staff and children in the church basement. Neighbors report that a former building on the site had a light that never went out even when the electricity was cut. Teachers also report feeling uneasy in the basement bathroom and hearing a strange “wooooooing” sound.
+location: St. Adalbert Catholic Church/School
+state: Wisconsin
+state_abbrev: WI
+longitude: -87.937862
+latitude: 43.006341
+city_longitude: -87.9064736
+city_latitude: 43.0389025
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.75
+day_duration: 11h 23m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

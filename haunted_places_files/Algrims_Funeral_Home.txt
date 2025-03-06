@@ -1,0 +1,21 @@
+city: Hoffman Estates
+country: United States
+description: Located off of Golf Road, Many are said to have seen mysterious lights are seen in the area at night, Close neighbors of the area claim to this day that they see a black horse enter the parking lot and disappear at random.
+location: Algrims Funeral Home
+state: Illinois
+state_abbrev: IL
+longitude: -88.089237
+latitude: 42.049575
+city_longitude: -88.12271989999999
+city_latitude: 42.0629915
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/19
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.35
+day_duration: 11h 26m
+time_of_day: Morning
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Dunklin County
+country: United States
+description: Seneth Light - It is said that a light appears and comes toward you. Cars are said to lose their power, as the light nears. If the light reaches your car, it is said that where it comes to rest, the paint will be scorched or bubbled. The Seneth light is located off HWY 412. Most anyone you ask can tell you the location of the dirt road.
+location: Senath
+state: Missouri
+state_abbrev: MO
+longitude: -90.1598183
+latitude: 36.13423360000001
+city_longitude: -90.055447
+city_latitude: 36.2364268
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2020/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: War
+witness_count: 0

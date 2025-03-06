@@ -1,0 +1,21 @@
+city: Loup City
+country: United States
+description: If you go down to Jenner's Park at night, the sound of children laughing can be heard. The park used to be a zoo and the stone-earthen cages still remain which adds to the creepy feelings aroused there.
+location: Jenner's Park
+state: Nebraska
+state_abbrev: NE
+longitude: -98.95731200000002
+latitude: 41.27450210000001
+city_longitude: -98.9667532
+city_latitude: 41.275565
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1949/10/28
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.833333333333334
+day_duration: 11h 26m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

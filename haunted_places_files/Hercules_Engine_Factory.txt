@@ -1,0 +1,20 @@
+city: Canton
+country: United States
+description: A physical presence has been felt by many who enter the buildings that date to the 1800's. A hand on the shoulder or someone pulling at you from behind. Strange smoky apparitions have been seen in the same buildings. Voices are often heard when nobody is around. "Cold spots" also move around in the old factory.
+location: Hercules Engine Factory
+state: Ohio
+state_abbrev: OH
+longitude: -81.37666399999999
+latitude: 40.7909044
+city_longitude: -81.378447
+city_latitude: 40.79894729999999
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2016/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: War
+witness_count: 1

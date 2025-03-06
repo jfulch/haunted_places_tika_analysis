@@ -1,0 +1,21 @@
+city: Irving
+country: United States
+description: It is said that the whole stadium is haunted but sometimes after the games when everyone has left except workers you will see an old man and his grand daughter walking around on the second floor. She is dressed in a cheerleaders outfit and waving a flag. If you talk to them they won't answer, they will only pass you and disappear into the darkness.
+location: Texas Stadium
+state: Texas
+state_abbrev: TX
+longitude: -96.9375563
+latitude: 32.8067036
+city_longitude: -96.9488945
+city_latitude: 32.8140177
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/12
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Supernatural Phenomenon
+witness_count: 1

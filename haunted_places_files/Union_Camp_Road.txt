@@ -1,0 +1,21 @@
+city: Notasulga
+country: United States
+description: Old Confederate Graveyard - An old Confederate graveyard back off in the woods is said to be haunted by dead soldiers. Late at night, you can go there and see ghostly figures in the woods, and hear sounds and voices.
+location: Union Camp Road
+state: Alabama
+state_abbrev: AL
+longitude: -85.6791779
+latitude: 32.5405598
+city_longitude: -85.6724538
+city_latitude: 32.5606908
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1832/10/10
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.233333333333333
+day_duration: 11h 37m
+time_of_day: Afternoon
+apparition_type: Full-Bodied Apparition
+event_type: Supernatural Phenomenon
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Sterling Heights
+country: United States
+description: every time you drive past Havel elementary you can see a little girl in a white dress walking around the soccer field around 12:00 A.M. She is running towards you heading in the street where she got hit in her death place. And sometimes you can see her in the Road waiting to get hit and looking at you. Make sure you don't hit her because she might haunt you down.
+location: Havel Elementary
+state: Michigan
+state_abbrev: MI
+longitude: -82.99369569999999
+latitude: 42.6022293
+city_longitude: -83.0302033
+city_latitude: 42.5803122
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1936/10/05
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

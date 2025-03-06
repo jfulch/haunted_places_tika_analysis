@@ -1,0 +1,21 @@
+city: Clinton
+country: United States
+description: When the lights are out one can hear strange noises in the arena. Reportedly a few kids entered the arena, and a hockey puck flew at them from the stands and hit the glass. One of the kids sat in a chair where a ghost had been spotted, and the kid's head started to hurt. The other kids said that they saw a white figure on his head. Sometimes when you call the name Lucy, weird things will happen. Some of the folding chairs are often down when they should be up.
+location: Clinton Arena
+state: New York
+state_abbrev: NY
+longitude: -75.3768805
+latitude: 43.05362299999999
+city_longitude: -75.3785034
+city_latitude: 43.0484029
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1977/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 25m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

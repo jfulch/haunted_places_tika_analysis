@@ -1,0 +1,21 @@
+city: Pawhuska
+country: United States
+description: The story behind green eyes is unclear nobody really knows what happened but it is rumored that a man went crazy and drove his car that had his 2 children and his wife over the bridge and they drowned. If you go over green eyes bride at midnight and turn off your lights you will see two green eyes in the floor board of your car and when you turn on your lights to see what it is there is nothing there are also reporting of strange sounds like a flooded car trying to start and children talking and then screaming in fear
+location: Green Eyes
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.7949733
+latitude: 36.0319361
+city_longitude: -96.3372309
+city_latitude: 36.6678426
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.85
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

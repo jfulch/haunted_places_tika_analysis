@@ -1,0 +1,21 @@
+city: Riverside
+country: United States
+description: Storage Building behind hotel (north side) - Attached by a small bridge to the main structure of the hotel, this small building has been closed to the public since re-opening with limited employee access. Numerous accounts of sightings and unexplained noises. A construction worker reportedly lost his life during reconstruction in the late '80s in this building.
+location: Mission Inn
+state: California
+state_abbrev: CA
+longitude: -117.3763701
+latitude: 33.9841225
+city_longitude: -117.3961564
+city_latitude: 33.9533487
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 1

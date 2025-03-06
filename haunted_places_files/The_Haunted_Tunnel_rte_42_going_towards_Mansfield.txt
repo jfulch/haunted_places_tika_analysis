@@ -1,0 +1,18 @@
+city: Ashland
+country: United States
+description: The road directly to the right of Corathers Exterminating, follow that road till you come to a bridge. Stop just inside the bride and turn your lights off, then put the car in neutral and your car will be pushed or pulled through the tunnel even though the ground is totally flat.
+location: The Haunted Tunnel -rte 42 going towards Mansfield
+state: Ohio
+state_abbrev: OH
+city_longitude: -82.3182178
+city_latitude: 40.8686675
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.183333333333334
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 0

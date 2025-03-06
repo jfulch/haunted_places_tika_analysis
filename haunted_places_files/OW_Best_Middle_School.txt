@@ -1,0 +1,21 @@
+city: Dearborn Heights
+country: United States
+description: The right wing of this school was closed off, supposedly because a young girl hanged herself in the hallway's bathroom. People claim to hear sobbing and see drops of water drip from thin air.
+location: O.W. Best Middle School
+state: Michigan
+state_abbrev: MI
+longitude: -83.2546347
+latitude: 42.2726796
+city_longitude: -83.27326269999999
+city_latitude: 42.3369816
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,19 @@
+city: New Waterford
+country: United States
+description: A little boy is said to have committed suicide in the 1990's by hanging himself in what is now a burned down house on Hisey Road. His ghost has bee seen at the house. The house burned down a few years after the suicide.
+location: Hisey Road
+state: Ohio
+state_abbrev: OH
+longitude: -80.60222089999999
+latitude: 40.8563926
+city_longitude: -80.6145164
+city_latitude: 40.845061
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+time_of_day: Unknown
+apparition_type: Ghost
+event_type: Unknown
+witness_count: 1

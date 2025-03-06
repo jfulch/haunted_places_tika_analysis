@@ -1,0 +1,21 @@
+city: San Gabriel
+country: United States
+description: In the old church, very often it will suddenly get very cold, you can "sense" something there but when you look around there is nothing, for such a beautiful historic church the feeling of foreboding is amazing.
+location: San Gabriel Mission
+state: California
+state_abbrev: CA
+longitude: -118.1068683
+latitude: 34.09672010000001
+city_longitude: -118.1058333
+city_latitude: 34.09611110000001
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1983/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.45
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

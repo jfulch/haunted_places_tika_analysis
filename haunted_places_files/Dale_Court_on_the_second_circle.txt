@@ -1,0 +1,19 @@
+city: Roseville
+country: United States
+description: At night around ten o'clock dark figures are seen running around on the garage of the house. People say that the figure runs straight at you .ONLY the bravest would go there.
+location: Dale Court on the second circle
+state: Michigan
+state_abbrev: MI
+city_longitude: -82.9371409
+city_latitude: 42.4972583
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1972/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

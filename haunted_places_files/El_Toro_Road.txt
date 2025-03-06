@@ -1,0 +1,21 @@
+city: San Perlita
+country: United States
+description: Devil's Lagoon - In the late 1800's early 1900's a horse drawn carriage is said to have driven into the lagoon and everyone was killed and certain nights around midnight the carriage will come out of the lagoon drive around it and then return.
+location: El Toro Road
+state: Texas
+state_abbrev: TX
+longitude: -97.6080822
+latitude: 26.468379
+city_longitude: -97.6397111
+city_latitude: 26.5011785
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1726/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 38m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

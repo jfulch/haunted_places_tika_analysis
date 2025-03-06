@@ -1,0 +1,21 @@
+city: Long Beach
+country: United States
+description: There's cold spots. Voices saying help me and saying peoples names. Rapid footsteps. Spots where there are no sounds and then all of a sudden a whoosh of extremely cold air. Whispering of more than one voice at late night there is thick fog with in the forest and a beam of light within the fog...
+location: Deforest park
+state: California
+state_abbrev: CA
+longitude: -118.1917985
+latitude: 33.8678992
+city_longitude: -118.1937395
+city_latitude: 33.7700504
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

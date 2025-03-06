@@ -1,0 +1,19 @@
+city: Shungnak
+country: United States
+description: As you walk by, you can hear rattling chains. It was kept as a morgue.
+location: The Old Recreation Hall
+state: Alaska
+state_abbrev: AK
+city_longitude: -157.1363888
+city_latitude: 66.8880556
+audio_evidence: True
+visual_evidence: False
+evidence_date: 2025/01/01
+date_source: default
+date_confidence: low
+average_daylight_hours: 13.216666666666669
+day_duration: 10h 52m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

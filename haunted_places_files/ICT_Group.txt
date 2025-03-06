@@ -1,0 +1,19 @@
+city: Spokane
+country: United States
+description: This building used to be a department store. No matter how much work they do on the elevator, it always breaks. Opens and closes and goes up and down without anyone there also. The women’s bathroom also has a strange presence. It’s a little intimidating. The elevator also opens when you walk up to it. Almost like motion detecting. While sitting alone, you can feel like people are right behind you and hear the chairs creak, like someone just sat down in it. Yet no one is there.
+location: ICT Group
+state: Washington
+state_abbrev: WA
+city_longitude: -117.4260465
+city_latitude: 47.6587802
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 16m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

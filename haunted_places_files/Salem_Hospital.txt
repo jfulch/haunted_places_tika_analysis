@@ -1,0 +1,21 @@
+city: Salem
+country: United States
+description: ghost of a woman that died in childbirth there is seen in the halls.
+location: Salem Hospital
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.90628269999999
+latitude: 42.51169100000001
+city_longitude: -70.8967155
+city_latitude: 42.51954
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1900/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.166666666666666
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Death
+witness_count: 1

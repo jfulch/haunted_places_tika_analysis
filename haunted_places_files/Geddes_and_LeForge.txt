@@ -1,0 +1,21 @@
+city: Ypsilanti
+country: United States
+description: The site of the Michigan murders. Back in the late 60's early 70's there were several murders that took the lives of several students of Eastern Michigan and the University of Michigan. At this site there was a farmhouse that was the site of one of the murders. The murderer is curently serving time in Marquette Prison and rumored to be up for parol soon. It is said that if you drive down this road your trunk will pop open and you can still see the silo of the farm house which is said to be haunted by the ghost of the girl that was murdered there.
+location: Geddes and LeForge
+state: Michigan
+state_abbrev: MI
+longitude: -83.6230681
+latitude: 42.2749105
+city_longitude: -83.61299389999999
+city_latitude: 42.2411499
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

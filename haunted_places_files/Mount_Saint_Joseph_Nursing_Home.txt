@@ -1,0 +1,21 @@
+city: Waterville
+country: United States
+description: The second floor use to be the children’s hospital before it turned into a nursing home. Now the residents who live there now, or since have passed on have always talked about the little children. There is one certain room a resident lived in who talked about the little girl in the purple dress and how she would keep her up all night. Since then that woman has died. There is now a new woman in that room...who now talks about the little girl in the purple dress who keeps her up at night. These two residents never met. Also residents have talked about the "children" in their rooms or wandering the halls.
+location: Mount Saint Joseph Nursing Home
+state: Maine
+state_abbrev: ME
+longitude: -69.6221628
+latitude: 44.5697854
+city_longitude: -69.6317121
+city_latitude: 44.5520105
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.1
+day_duration: 11h 21m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

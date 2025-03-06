@@ -1,0 +1,21 @@
+city: Frederick
+country: United States
+description: A young boy drowned in a bath tub in the house.  The room in which he died is now walled off and you can see the empty room from outside.  They say the boy is still there and you can here him at night.
+location: Ceresville Mansion
+state: Maryland
+state_abbrev: MD
+longitude: -77.36657
+latitude: 39.453351
+city_longitude: -77.4105409
+city_latitude: 39.41426879999999
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1940/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 15.633333333333333
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Death
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Hockley
+country: United States
+description: a girl hung her self in the bathroom said to be haunted.
+location: Schultz middle school
+state: Texas
+state_abbrev: TX
+longitude: -95.9099981
+latitude: 30.0578156
+city_longitude: -95.8458562
+city_latitude: 30.026861
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/09/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 38m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0

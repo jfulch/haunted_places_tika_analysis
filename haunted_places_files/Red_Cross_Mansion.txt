@@ -1,0 +1,21 @@
+city: San Gabriel
+country: United States
+description: have been known to close doors softly if people leave them open, almost politely, sometimes you can hear soft voices whispering as if to not disturb anyone. Phone calls are made from rooms that are not occupied, including the underground tunnel, the basement and the attic. Kitchen has electricity go on and off for no reason. It is thought that the spirits are of servants who have passed on. Face of man has been seen in some windows after the last people leave.
+location: Red Cross Mansion
+state: California
+state_abbrev: CA
+longitude: -118.159445
+latitude: 34.1265682
+city_longitude: -118.1058333
+city_latitude: 34.09611110000001
+audio_evidence: True
+visual_evidence: True
+evidence_date: 1876/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.566666666666666
+day_duration: 11h 32m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,18 @@
+city: Harrison
+country: United States
+description: There is a big green house in Harrison which sits in the middle of a subdivision called the "Meadows." It is said to be haunted such as: lights coming on when no one lived there, shadows and silhouettes being seen through the blinds when no one lived there. The house is now occupied but it stood empty for a very long time. It was built by the richest man of the town at the time, maybe even the founder of Harrison. The house is huge and castle like. It has a carriage house which is said to be haunted also.
+location: Big Green Castle
+state: Ohio
+state_abbrev: OH
+city_longitude: -84.7915999
+city_latitude: 39.2536967
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.633333333333333
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Supernatural Phenomenon
+witness_count: 1

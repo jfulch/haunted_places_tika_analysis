@@ -1,0 +1,21 @@
+city: Ipswich
+country: United States
+description: a ghost named Mr. Finch haunts the building. he lived there 100 years ago.
+location: Ipswich Light Company
+state: Massachusetts
+state_abbrev: MA
+longitude: -70.8695947
+latitude: 42.6985523
+city_longitude: -70.8411558
+city_latitude: 42.6791832
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1978/03/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.9
+day_duration: 11h 24m
+time_of_day: Morning
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 0

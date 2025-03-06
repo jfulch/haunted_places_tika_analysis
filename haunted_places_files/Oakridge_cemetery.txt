@@ -1,0 +1,21 @@
+city: Goshen
+country: United States
+description: There is a statue of an angel over the grave of Michael Bashor that is said to cry tears of blood.
+location: Oakridge cemetery
+state: Indiana
+state_abbrev: IN
+longitude: -85.84314359999999
+latitude: 41.5948139
+city_longitude: -85.8344383
+city_latitude: 41.5822716
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.983333333333333
+day_duration: 11h 28m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Natural Disaster
+witness_count: 0

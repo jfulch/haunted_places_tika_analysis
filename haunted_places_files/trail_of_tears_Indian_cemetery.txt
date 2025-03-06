@@ -1,0 +1,19 @@
+city: Westville
+country: United States
+description: the road to the graveyard is about 2 miles long and the drive is very narrow so you have to move slowly. while you are driving you will feel like your being watched and the hairs on your neck will stand up. when you reach the cemetery you will see a small house/or school building. if you stand on the porch you will here voices coming from inside the building. and there is also a dog that roams around the cemetery at all times of the day but its strange because there is no one around to feed him or take care of him he just wanders around the grave stones but never takes his eyes off of you. this is a private residence but you can go to the cemetery during the day
+location: trail of tears Indian cemetery
+state: Oklahoma
+state_abbrev: OK
+city_longitude: -94.5679988
+city_latitude: 35.9925829
+audio_evidence: True
+visual_evidence: False
+evidence_date: 1847/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.2
+day_duration: 11h 33m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

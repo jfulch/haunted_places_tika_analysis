@@ -1,0 +1,20 @@
+city: Colorado Springs
+country: United States
+description: In the sixties or seventies, a student hung herself in the first floor restroom after being denied a role in a production of Macbeth on its opening night in the school auditorium. Poltergeist-like activities occur when someone in the school auditorium says 'Macbeth' just prior to the premier of a play or performance. Take heed: such occurrences can be disastrous, leading to the termination of the production due to damages done on stage. This is often accompanied by the sound of the empty seats in the balcony being opened and closed. During an assembly in the spring of 1998, a noose was seen hung above those seats.
+location: Palmer High School
+state: Colorado
+state_abbrev: CO
+longitude: -104.8202908
+latitude: 38.8392253
+city_longitude: -104.8213634
+city_latitude: 38.8338816
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1936/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 28m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Natural Disaster
+witness_count: 1

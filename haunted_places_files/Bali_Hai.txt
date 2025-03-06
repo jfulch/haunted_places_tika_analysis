@@ -1,0 +1,21 @@
+city: Anna Maria Island
+country: United States
+description: Every year, around early August, a shadowy figure walks the beach of the Bali Hai hotel. You can usually see them out of the corner of your eye and when you glance in her direction, she will disappear.
+location: Bali Hai
+state: Florida
+state_abbrev: FL
+longitude: -82.7236349
+latitude: 27.5138368
+city_longitude: -82.7144811
+city_latitude: 27.5041264
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1960/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.866666666666667
+day_duration: 11h 42m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

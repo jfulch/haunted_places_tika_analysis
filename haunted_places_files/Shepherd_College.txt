@@ -1,0 +1,21 @@
+city: Shepherdstown
+country: United States
+description: Shaw Hall - Located behind Miller Hall. Behind Shaw Hall (and another dorm next to it) is the 'new' baseball field. Rumor has it there was a small cemetery there that ran along the edge of the school property and houses that back to it. There is a woman in a long white nightgown with long, curly red hair that stands at the windows at the ends of the dorm floors.... in both buildings. She just stands there, if you try to get close, she will disappear. No one knows who she is or why she would be in either dorm. The rumor was that she was buried in that cemetery and there were no sightings of her until the baseball field or both dorms were built. Somehow the construction disturbed her, for whatever reason.
+location: Shepherd College
+state: West Virginia
+state_abbrev: WV
+longitude: -77.80896330000002
+latitude: 39.436245
+city_longitude: -77.8041609
+city_latitude: 39.4300996
+audio_evidence: False
+visual_evidence: True
+evidence_date: 1865/12/01
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+day_duration: 11h 30m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

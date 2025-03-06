@@ -1,0 +1,20 @@
+city: Eaton
+country: United States
+description: June 2008 Removed due to vandalism. There have been additions of barbed wire fences and huge padlocked gates surrounding the grounds. NO Trespassing in the cemetery.
+location: Lexington Road
+state: Ohio
+state_abbrev: OH
+longitude: -84.6208397
+latitude: 39.7585888
+city_longitude: -84.6366201
+city_latitude: 39.7439405
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.066666666666666
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Warner
+country: United States
+description: This is a cemetery on an old back road called cemetery road by people locally. People driving by at night have seen balls of light that follow cars, and a lady in white who walks along a row of the graves of some children who were burned to death in a house fire.
+location: Bennett Cemetery
+state: Oklahoma
+state_abbrev: OK
+longitude: -95.3287139
+latitude: 35.4762868
+city_longitude: -95.3055239
+city_latitude: 35.4942644
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.083333333333334
+day_duration: 11h 33m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,20 @@
+city: Independence
+country: United States
+description: April 2005 correction: Formerly posted as being located in Liberty - Faint lights appear during certain phases of the moon. They float from NE side of grounds and follow a certain path to the western gate.
+location: Franklin Cemetery
+state: Missouri
+state_abbrev: MO
+longitude: -94.2935644
+latitude: 39.1520137
+city_longitude: -94.4155068
+city_latitude: 39.0911161
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 29m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Unknown
+witness_count: 0

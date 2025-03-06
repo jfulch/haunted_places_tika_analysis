@@ -1,0 +1,20 @@
+city: Gaffney
+country: United States
+description: every once in awhile people see this white dog on Carson Drive, but that doesn’t seem to scary until it stands on two legs and comes at you.  This thing whatever it is was first spotted 6 years ago and is still seen to this day by residents of Carson Dr.
+location: Draytonville
+state: South Carolina
+state_abbrev: SC
+longitude: -81.59370620000001
+latitude: 35.0495734
+city_longitude: -81.64981949999999
+city_latitude: 35.0717945
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2003/01/28
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 35m
+time_of_day: Morning
+apparition_type: Unknown
+event_type: Unknown
+witness_count: 1

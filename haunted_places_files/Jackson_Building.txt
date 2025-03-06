@@ -1,0 +1,21 @@
+city: Asheville
+country: United States
+description: You can see a face in one of the top windows, thought to be the face of a man who committed suicide after loosing everything during the great depression.
+location: Jackson Building
+state: North Carolina
+state_abbrev: NC
+longitude: -82.5136381
+latitude: 35.4668883
+city_longitude: -82.5514869
+city_latitude: 35.5950581
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1520/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.116666666666667
+day_duration: 11h 32m
+time_of_day: Morning
+apparition_type: Mist
+event_type: Unknown
+witness_count: 1

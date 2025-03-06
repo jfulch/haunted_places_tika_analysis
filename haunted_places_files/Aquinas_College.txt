@@ -1,0 +1,21 @@
+city: Grand Rapids
+country: United States
+description: Holmdene - It is rumored that this mansion (the former Lowe estate) located on the campus of Aquinas College is haunted with the spirit of one of the Lowe children_ a small boy who according to stories drown on the property. Night security guards report turning off all lights in the locked and secured building and having them mysteriously turn on once again. Reports of water faucets turning on have also been mentioned.
+location: Aquinas College
+state: Michigan
+state_abbrev: MI
+longitude: -85.6285917
+latitude: 42.96032779999999
+city_longitude: -85.6680863
+city_latitude: 42.9633599
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/12/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.35
+day_duration: 11h 24m
+time_of_day: Afternoon
+apparition_type: Ghost
+event_type: Supernatural Phenomenon
+witness_count: 1

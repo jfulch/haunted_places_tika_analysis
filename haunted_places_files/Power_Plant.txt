@@ -1,0 +1,20 @@
+city: Colstrip
+country: United States
+description: The power plant produces massive amounts of electrical energy in which all kinds of spirits are seen. Usually seen at night around this spider web like power lines and transistors. Usually when the air is full of static electricity you can just wait and see these shadow like figures going from transistor to transistor for some weird reason. The most common things that happen are rambling voices talking next to you or just passing you like a real person. Sometimes your stuff will disappear in a place where you're all alone and you'll find it in a totally wrong place like another part of the plant just sitting there in plain site. The men that work there are so use to the encounters that it has become something that just happens once in awhile.
+location: Power plant
+state: Montana
+state_abbrev: MT
+longitude: -106.6257295
+latitude: 45.8748285
+city_longitude: -106.6236368
+city_latitude: 45.8841618
+audio_evidence: True
+visual_evidence: True
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+day_duration: 11h 18m
+time_of_day: Afternoon
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

@@ -1,0 +1,21 @@
+city: Fort Oglethorpe/ Lafayette
+country: United States
+description: There is also a women whom wears a white dress that sings a lullaby to a small infant she carries with her. She is usually seen at dusk but has also been seen during reenactments of the battle.
+location: Chickamauga Battle Fields
+state: Georgia
+state_abbrev: GA
+longitude: -85.26978489999999
+latitude: 34.9319286
+city_longitude: -85.2594586
+city_latitude: 34.9330742
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2008/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.933333333333334
+day_duration: 11h 35m
+time_of_day: Evening
+apparition_type: Unknown
+event_type: War
+witness_count: 1

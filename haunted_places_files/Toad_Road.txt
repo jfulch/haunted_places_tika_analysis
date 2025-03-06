@@ -1,0 +1,21 @@
+city: York
+country: United States
+description: The house on Toad road is another house where years ago a mother, father, and baby lived there in a farm house in the middle of a field and the mother killed her baby in the basement one night and then went upstairs to the living room and hung herself from the rafters and the house was vacated and left that way and is currently still standing. Some have reported seeing the noose still swinging from the ceiling and a basement light on. On certain nights. - August, 2004 update. The farmhouse in the middle of the field where the mother hung herself has been torn down by whoever owns the land. The barn behind the building which did stand for a time after the house was torn down has also suffered the same fate. The only structure left standing on the field is an old outhouse looking building. This is on toad road in York County. Get permission before exploring this area.
+location: Toad Road
+state: Pennsylvania
+state_abbrev: PA
+longitude: -76.6959668
+latitude: 39.7861406
+city_longitude: -76.727745
+city_latitude: 39.9625984
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2025/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.266666666666667
+day_duration: 11h 27m
+time_of_day: Afternoon
+apparition_type: Ghost Light
+event_type: Murder
+witness_count: 1

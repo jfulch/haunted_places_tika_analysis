@@ -1,0 +1,21 @@
+city: Bremen
+country: United States
+description: In the late 70's early 80's a teenager was in a wrestling match in the gym, and was accidentally killed when his neck broke during a match. When you are in the gym and its quiet you can hear the sound of his neck breaking and the sound of someone walking on the top bleachers and moving the handles on the doors.
+location: Bremen High School Gym
+state: Georgia
+state_abbrev: GA
+longitude: -85.1389502
+latitude: 33.7176884
+city_longitude: -85.1455036
+city_latitude: 33.7212179
+audio_evidence: False
+visual_evidence: False
+evidence_date: 1945/02/26
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 12.916666666666666
+day_duration: 11h 35m
+time_of_day: Afternoon
+apparition_type: Unknown
+event_type: Murder
+witness_count: 0

@@ -1,0 +1,21 @@
+city: Bedford
+country: United States
+description: Odd lights and shadow figures have been seen on the ridge and in some of the base houses. Base Police have also found evidence of a satanic group operating in the area. It is patrolled by police.
+location: Hanscom AFB
+state: Massachusetts
+state_abbrev: MA
+longitude: -71.2766852
+latitude: 42.45723100000001
+city_longitude: -71.2760089
+city_latitude: 42.4906231
+audio_evidence: False
+visual_evidence: True
+evidence_date: 2025/03/02
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.283333333333331
+day_duration: 11h 24m
+time_of_day: Unknown
+apparition_type: Shadow Figure
+event_type: Unknown
+witness_count: 1

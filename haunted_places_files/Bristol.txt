@@ -1,0 +1,21 @@
+city: Chinqapin
+country: United States
+description: Haunted Hollow - a small road  which glides to a dead end can sometimes mess with time and space coordination while a strange feeling of being watched hovers around.
+location: Bristol
+state: Tennessee
+state_abbrev: TN
+longitude: -82.21325
+latitude: 36.4400229
+city_longitude: -82.21318819999999
+city_latitude: 36.4431618
+audio_evidence: False
+visual_evidence: False
+evidence_date: 2013/04/23
+date_source: wikipedia
+date_confidence: high
+average_daylight_hours: 13.216666666666669
+day_duration: 11h 33m
+time_of_day: Unknown
+apparition_type: Unknown
+event_type: Supernatural Phenomenon
+witness_count: 0
