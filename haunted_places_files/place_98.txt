@@ -1,35 +1,33 @@
-State: kentucky
-Haunted_Places_Year: 2019
-Audio_Evidence_Count: 2
-Visual_Evidence_Count: 2
-Haunted_Places_Witness_Count: 0.0
-Morning_Event_Count: 2.0
-Evening_Event_Count: 0.0
-Dusk_Event_Count: 0.0
-Appar_Orb_Count: 0.0
-Appar_Ghost_Count: 0.0
-Appar_UFO_Count: 0.0
-Murder_Event_Count: 1.0
-Death_Event_Count: 1.0
-Supernatural_Event_Count: 1.0
-Avg_Daylight_Hours_In_Year: 13.225000000000001
-Binge_Drinking_Rate: 
-Annual_Alcohol_Deaths: 
-Binge_Times_Monthly: 
-Violent_Crime_Per_100k: 
-Percent_Of_Crime_Solved: 
-Homicide_Incidents_Per_100K: 
-Anxiety_Disorder_Count: 38904.0
-Attention_Deficit/Hyperactivity_Disorder_Count: 20599.0
-Bipolar_Disorder_Count: 13113.0
-Primary_Depressive_Disorder_Count: 46032.0
-Trauma_And_Stressor_Related_Disorder_Count: 36048.0
-Ozone_ppb: 
-SO2_ppb: 
-CO_ppb: 
-PM25_ugm3: 
-PM25_sulfate_ugm3: 
-PM25_nitrate_ugm3: 
-Extreme_Precipitation_Event_Rate: 
-Precipitation_Impact_Rate: 
-Precipitation_Variability: 
+State: washington
+Haunted_Places_Year: 2023
+Haunted_Places_Witness_Count_Description: Few Witnesses
+Audio_Evidence_Count_Description: Little Evidence
+Visual_Evidence_Count_Description: Little Evidence
+Morning_Event_Count_Description: Rare Events
+Evening_Event_Count_Description: Rare Events
+Dusk_Event_Count_Description: Occasional Events
+Appar_Orb_Count_Description: Moderate Sightings
+Appar_Ghost_Count_Description: Few Sightings
+Appar_UFO_Count_Description: Moderate Sightings
+Murder_Event_Count_Description: Few Incidents
+Death_Event_Count_Description: Few Incidents
+Supernatural_Event_Count_Description: Few Paranormal Incidents
+Binge_Drinking_Rate_Description: Low Alcohol Consumption
+Annual_Alcohol_Deaths_Description: Few Alcohol-Related Deaths
+Violent_Crime_Per_100k_Description: Low Crime Rate
+Homicide_Incidents_Per_100K_Description: Few Homicides
+Anxiety_Disorder_Count_Description: Unknown
+Attention_Deficit/Hyperactivity_Disorder_Count_Description: Unknown
+Bipolar_Disorder_Count_Description: Unknown
+Primary_Depressive_Disorder_Count_Description: Unknown
+Trauma_And_Stressor_Related_Disorder_Count_Description: Unknown
+Primary_Schizophrenia_And_Other_Psychotic_Disorders_Count_Description: Unknown
+Ozone_ppb_Description: Good Air Quality
+SO2_ppb_Description: Good Air Quality
+CO_ppb_Description: Good Air Quality
+PM25_ugm3_Description: Good Air Quality
+PM25_sulfate_ugm3_Description: Good Air Quality
+PM25_nitrate_ugm3_Description: Good Air Quality
+Extreme_Precipitation_Event_Rate_Description: Stable Weather Patterns
+Precipitation_Impact_Rate_Description: Unknown
+Precipitation_Variability_Description: Extreme Weather Variability

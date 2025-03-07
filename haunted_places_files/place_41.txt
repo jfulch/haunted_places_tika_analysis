@@ -1,35 +1,33 @@
-State: connecticut
-Haunted_Places_Year: 2018
-Audio_Evidence_Count: 1
-Visual_Evidence_Count: 1
-Haunted_Places_Witness_Count: 0.0
-Morning_Event_Count: 0.0
-Evening_Event_Count: 0.0
-Dusk_Event_Count: 0.0
-Appar_Orb_Count: 0.0
-Appar_Ghost_Count: 1.0
-Appar_UFO_Count: 0.0
-Murder_Event_Count: 1.0
-Death_Event_Count: 0.0
-Supernatural_Event_Count: 0.0
-Avg_Daylight_Hours_In_Year: 
-Binge_Drinking_Rate: 
-Annual_Alcohol_Deaths: 
-Binge_Times_Monthly: 
-Violent_Crime_Per_100k: 
-Percent_Of_Crime_Solved: 
-Homicide_Incidents_Per_100K: 
-Anxiety_Disorder_Count: 17621.0
-Attention_Deficit/Hyperactivity_Disorder_Count: 11549.0
-Bipolar_Disorder_Count: 9039.0
-Primary_Depressive_Disorder_Count: 22978.0
-Trauma_And_Stressor_Related_Disorder_Count: 21262.0
-Ozone_ppb: 
-SO2_ppb: 
-CO_ppb: 
-PM25_ugm3: 
-PM25_sulfate_ugm3: 
-PM25_nitrate_ugm3: 
-Extreme_Precipitation_Event_Rate: 
-Precipitation_Impact_Rate: 
-Precipitation_Variability: 
+State: michigan
+Haunted_Places_Year: Other
+Haunted_Places_Witness_Count_Description: Moderate Witnesses
+Audio_Evidence_Count_Description: Some Evidence
+Visual_Evidence_Count_Description: Some Evidence
+Morning_Event_Count_Description: Occasional Events
+Evening_Event_Count_Description: Occasional Events
+Dusk_Event_Count_Description: Occasional Events
+Appar_Orb_Count_Description: Moderate Sightings
+Appar_Ghost_Count_Description: Moderate Sightings
+Appar_UFO_Count_Description: Moderate Sightings
+Murder_Event_Count_Description: Some Incidents
+Death_Event_Count_Description: Some Incidents
+Supernatural_Event_Count_Description: Moderate Paranormal Activity
+Binge_Drinking_Rate_Description: Unknown
+Annual_Alcohol_Deaths_Description: Unknown
+Violent_Crime_Per_100k_Description: Unknown
+Homicide_Incidents_Per_100K_Description: Unknown
+Anxiety_Disorder_Count_Description: Few Reported Cases
+Attention_Deficit/Hyperactivity_Disorder_Count_Description: Moderate Cases
+Bipolar_Disorder_Count_Description: Moderate Cases
+Primary_Depressive_Disorder_Count_Description: Moderate Cases
+Trauma_And_Stressor_Related_Disorder_Count_Description: Few Reported Cases
+Primary_Schizophrenia_And_Other_Psychotic_Disorders_Count_Description: Few Reported Cases
+Ozone_ppb_Description: Unknown
+SO2_ppb_Description: Unknown
+CO_ppb_Description: Unknown
+PM25_ugm3_Description: Unknown
+PM25_sulfate_ugm3_Description: Unknown
+PM25_nitrate_ugm3_Description: Unknown
+Extreme_Precipitation_Event_Rate_Description: Unknown
+Precipitation_Impact_Rate_Description: Unknown
+Precipitation_Variability_Description: Unknown

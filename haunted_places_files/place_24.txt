@@ -1,35 +1,33 @@
-State: california
+State: indiana
 Haunted_Places_Year: 2023
-Audio_Evidence_Count: 1
-Visual_Evidence_Count: 2
-Haunted_Places_Witness_Count: 0.0
-Morning_Event_Count: 2.0
-Evening_Event_Count: 0.0
-Dusk_Event_Count: 0.0
-Appar_Orb_Count: 0.0
-Appar_Ghost_Count: 1.0
-Appar_UFO_Count: 0.0
-Murder_Event_Count: 0.0
-Death_Event_Count: 1.0
-Supernatural_Event_Count: 3.0
-Avg_Daylight_Hours_In_Year: 12.936666666666667
-Binge_Drinking_Rate: 
-Annual_Alcohol_Deaths: 
-Binge_Times_Monthly: 
-Violent_Crime_Per_100k: 508.0
-Percent_Of_Crime_Solved: 40.0
-Homicide_Incidents_Per_100K: 508.2382114724801
-Anxiety_Disorder_Count: 
-Attention_Deficit/Hyperactivity_Disorder_Count: 
-Bipolar_Disorder_Count: 
-Primary_Depressive_Disorder_Count: 
-Trauma_And_Stressor_Related_Disorder_Count: 
-Ozone_ppb: 31.20255628519738
-SO2_ppb: 0.4264528115693408
-CO_ppb: 302.2217322981171
-PM25_ugm3: 7.85214616864198
-PM25_sulfate_ugm3: 7.709148533850392
-PM25_nitrate_ugm3: 1.023528720528589
-Extreme_Precipitation_Event_Rate: 0.0
-Precipitation_Impact_Rate: 0.0
-Precipitation_Variability: 0.0902628039601585
+Haunted_Places_Witness_Count_Description: Few Witnesses
+Audio_Evidence_Count_Description: Little Evidence
+Visual_Evidence_Count_Description: Little Evidence
+Morning_Event_Count_Description: Rare Events
+Evening_Event_Count_Description: Rare Events
+Dusk_Event_Count_Description: Occasional Events
+Appar_Orb_Count_Description: Moderate Sightings
+Appar_Ghost_Count_Description: Few Sightings
+Appar_UFO_Count_Description: Moderate Sightings
+Murder_Event_Count_Description: Few Incidents
+Death_Event_Count_Description: Few Incidents
+Supernatural_Event_Count_Description: Few Paranormal Incidents
+Binge_Drinking_Rate_Description: Low Alcohol Consumption
+Annual_Alcohol_Deaths_Description: Few Alcohol-Related Deaths
+Violent_Crime_Per_100k_Description: Low Crime Rate
+Homicide_Incidents_Per_100K_Description: Few Homicides
+Anxiety_Disorder_Count_Description: Unknown
+Attention_Deficit/Hyperactivity_Disorder_Count_Description: Unknown
+Bipolar_Disorder_Count_Description: Unknown
+Primary_Depressive_Disorder_Count_Description: Unknown
+Trauma_And_Stressor_Related_Disorder_Count_Description: Unknown
+Primary_Schizophrenia_And_Other_Psychotic_Disorders_Count_Description: Unknown
+Ozone_ppb_Description: Moderate Air Pollution
+SO2_ppb_Description: Moderate Air Pollution
+CO_ppb_Description: Moderate Air Pollution
+PM25_ugm3_Description: Poor Air Quality
+PM25_sulfate_ugm3_Description: Unknown
+PM25_nitrate_ugm3_Description: Poor Air Quality
+Extreme_Precipitation_Event_Rate_Description: Stable Weather Patterns
+Precipitation_Impact_Rate_Description: Unknown
+Precipitation_Variability_Description: Stable Weather Patterns
